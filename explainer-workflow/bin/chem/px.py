@@ -1,8 +1,11 @@
 # Pixiv 公开接口小工具（全年龄筛选）。
-#   px.py s <词> [页数]          搜索，列出 id、AI/手绘、收藏、尺寸、标题、作者、tag
+#   px.py s <词> [页数]          搜索，列出 id、AI/手绘、收藏数、尺寸、标题、作者、tag；只列收藏数 ≥ PX_MIN_BOOKMARKS（默认 100）的
 #   px.py i <id>...              详情：描述里有没有转载禁止、tag
 #   px.py g <系列目录> <id> <文件名>   下载 regular 图到 <系列>/assets/illustrations/，追加 meta.jsonl
 import json, os, re, sys, time, urllib.parse, urllib.request
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from netlock import throttle
+MIN_BM = int(os.environ.get('PX_MIN_BOOKMARKS', '100'))  # 收藏数下限：低于它的多是初学者或未完成的作品
 
 H = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36', 'Referer': 'https://www.pixiv.net/'}
 BAD = re.compile(r'パンツ|下着|水着|ロリ|ふともも|太もも|Breast|おっぱい|巨乳|R-15|R-18|乳|尻|足裏|裸|セクシー|NSFW|bikini|swimsuit|lingerie|酒|ビール|タバコ|喫煙|血|グロ', re.I)
@@ -11,7 +14,8 @@ NOREPOST = re.compile(r'転載|無断|repost|reprint|転用|使用禁止|二次�
 def get(url, raw=False):
     for k in range(4):
         try:
-            r = urllib.request.urlopen(urllib.request.Request(url, headers=H), timeout=30).read()
+            with throttle('pixiv', 0.4):
+                r = urllib.request.urlopen(urllib.request.Request(url, headers=H), timeout=30).read()
             return r if raw else json.loads(r)
         except Exception as e:
             err = e
@@ -19,6 +23,7 @@ def get(url, raw=False):
     raise err
 
 def search(word, pages=1, thumbs=None, n=12):
+    search.checked = 0
     q = urllib.parse.quote(word)
     out = []
     for p in range(1, pages + 1):
@@ -30,6 +35,20 @@ def search(word, pages=1, thumbs=None, n=12):
         tags = ' '.join(it.get('tags', []))
         if BAD.search(tags) or BAD.search(it.get('title', '')):
             continue
+        if 'users入り' in word:
+            bm = MIN_BM  # 人气 tag 已经保证收藏数，不再逐张查询
+        else:
+            checked = getattr(search, 'checked', 0)
+            if checked >= 15:
+                break
+            search.checked = checked + 1
+            try:
+                bm = get(f"https://www.pixiv.net/ajax/illust/{it['id']}")['body'].get('bookmarkCount', 0)
+            except Exception:
+                continue
+        if bm < MIN_BM:
+            continue
+        it['bm'] = bm
         if thumbs is not None:
             if n <= 0:
                 break
@@ -42,7 +61,7 @@ def search(word, pages=1, thumbs=None, n=12):
                     open(fn, 'wb').write(get(u, raw=True))
                 except Exception as e:
                     print('thumb fail', it['id'], e)
-        print(f"{it['id']}\t{'AI' if it.get('aiType') == 2 else '手'}\t{it['width']}x{it['height']}\t{it['title'][:20]}\t{it['userName'][:14]}\t{tags[:90]}")
+        print(f"{it['id']}\t{'AI' if it.get('aiType') == 2 else '手'}\t♥{it['bm']}\t{it['width']}x{it['height']}\t{it['title'][:20]}\t{it['userName'][:14]}\t{tags[:90]}")
 
 def info(i):
     b = get(f'https://www.pixiv.net/ajax/illust/{i}')['body']
@@ -54,6 +73,8 @@ def info(i):
 
 def grab(series, i, fn):
     b, tags, warn = info(i)
+    if b.get('bookmarkCount', 0) < MIN_BM and not os.environ.get('PX_FORCE'):
+        sys.exit(f'收藏数 {b.get("bookmarkCount")} 低于 {MIN_BM}，不下载（确需使用时设 PX_FORCE=1）')
     url = b['urls']['regular']
     d = os.path.join(series, 'assets', 'illustrations')
     os.makedirs(d, exist_ok=True)

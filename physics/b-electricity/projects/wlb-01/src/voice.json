@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电荷与库仑定律。",
+		"seconds": 2.208
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲电荷、起电、电荷守恒、元电荷、点电荷和库仑定律，共八个考点。",
+		"seconds": 7.776
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，两种电荷。自然界只有两种电荷：正电荷和负电荷。",
+		"seconds": 6.84
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|丝绸摩擦过的玻璃棒带正电，毛皮摩擦过的橡胶棒带负电。",
+		"seconds": 5.832
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|电荷之间有相互作用：同种电荷相互排斥，异种电荷相互吸引。",
+		"seconds": 6.528
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|电荷的多少叫电荷量，单位是库仑，符号大写C。",
+		"seconds": 5.112
+	},
+	"k5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：只有两种电荷；同斥异吸，单位库仑。",
+		"seconds": 4.872
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，起电的本质。原子由带正电的原子核和核外带负电的电子组成。",
+		"seconds": 7.488
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|不同物质束缚电子的能力不同；金属里有能自由移动的自由电子。",
+		"seconds": 6.024
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|摩擦起电、感应起电、接触带电，本质都是电子的转移。",
+		"seconds": 5.688
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴红蝴蝶结的金发女孩凑过去戳了戳同伴：摩擦时电子从一个物体跑到另一个物体，一个带正电，另一个就带等量的负电。",
+		"seconds": 11.304
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：起电不是创造电荷，只是电子从一处转移到另一处。",
+		"seconds": 5.808
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，静电感应。把带电体靠近一个导体，导体里的自由电子会发生移动。",
+		"seconds": 7.824
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|结果，导体靠近带电体的一端带异种电荷，远离的一端带同种电荷。",
+		"seconds": 6.936
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|利用静电感应使导体带电，叫感应起电。",
+		"seconds": 4.224
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：近端异号、远端同号；导体整体的电荷量没有变。",
+		"seconds": 5.784
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，电荷守恒定律。电荷既不会创生，也不会消灭。",
+		"seconds": 6.096
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|它只能从一个物体转移到另一个物体，或者从物体的一部分转移到另一部分。",
+		"seconds": 6.576
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|在转移的过程中，电荷的总量保持不变。",
+		"seconds": 4.08
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：一个与外界没有电荷交换的系统，电荷的代数和保持不变。",
+		"seconds": 6.456
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，元电荷。最小的电荷量叫元电荷，e等于一点六零乘十的负十九次方库仑。",
+		"seconds": 8.52
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|所有带电体的电荷量都是e的整数倍，电荷量不能连续变化。",
+		"seconds": 5.856
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|带电体的电荷量与质量之比，叫比荷，单位库仑每千克。",
+		"seconds": 5.472
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：元电荷是一个电荷量，不是电子，也不是质子；电子和质子的电荷量都等于e。",
+		"seconds": 8.28
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，点电荷。当带电体的形状、大小及电荷分布对相互作用的影响可以忽略时，可以把它看成点电荷。",
+		"seconds": 10.584
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|点电荷是一种理想化模型，和力学里的质点类似。",
+		"seconds": 4.896
+	},
+	"p2b": {
+		"key": "zh-CN-XiaoxiaoNeural|缩成一小团坐着的粉头发女孩：离得足够远时，带电体看起来就像一个点；能不能当点电荷，要看它的大小和距离相比能否忽略。",
+		"seconds": 11.928
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能否看成点电荷由问题决定，不是只看带电体的绝对大小。",
+		"seconds": 6.552
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，库仑定律：F等于k q一 q二除以r的平方。",
+		"seconds": 5.832
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|它适用于真空中两个静止的点电荷；力的方向在两电荷的连线上。",
+		"seconds": 6.288
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|静电力常量k等于九点零乘十的九次方牛米平方每库平方。",
+		"seconds": 5.88
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|库仑用扭秤实验得出这个规律，研究中用了控制变量法，并与万有引力类比。",
+		"seconds": 7.248
+	},
+	"l4b": {
+		"key": "zh-CN-XiaoxiaoNeural|抱在一起的两个女孩：两个完全相同的金属球接触后会平分电荷，库仑就是这样改变电荷量的。",
+		"seconds": 8.616
+	},
+	"l5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：r很小时带电体不能再看成点电荷，公式不再适用，不能说F趋于无穷大。",
+		"seconds": 8.28
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，静电力的叠加。两个以上点电荷对某个电荷都有作用力。",
+		"seconds": 6.528
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|这个电荷受到的合力，等于各点电荷单独作用时对它的静电力的矢量和。",
+		"seconds": 6.672
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|求矢量和用平行四边形定则。",
+		"seconds": 3.408
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：每两个点电荷之间的作用力，不因第三个电荷的存在而改变。",
+		"seconds": 6.168
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：摩擦起电创造了电荷？错，只是电子转移。判断二：元电荷就是电子？错，它是最小的电荷量。",
+		"seconds": 11.592
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：电荷量都是e的整数倍？对。判断四：体积小的带电体一定是点电荷？错，要看影响能否忽略。",
+		"seconds": 11.544
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：库仑定律适用于真空中静止点电荷？对。判断六：静电感应近端带同种电荷？错，近端带异种电荷。",
+		"seconds": 12.288
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|电荷不生也不灭，平方反比库仑力。下一期：电场与电场强度。",
+		"seconds": 6.864
+	}
+}

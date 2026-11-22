@@ -22,6 +22,8 @@ OUT=$(python3 "$W/bin/outdir.py" "$DIR")
 BROWSER=$(python3 "$W/bin/outdir.py" --browser)
 [ -x "$BROWSER" ] || (cd "$ROOT" && npx remotion browser ensure)
 R=(--browser-executable="$BROWSER")
+# Only one render at a time on this small machine (shared lock across agents).
+case " $* " in *" stills "*|*" video "*|*" covers "*) mkdir -p "$ROOT/out/.locks"; exec 9>"$ROOT/out/.locks/render.lock"; flock 9 ;; esac
 cd "$DIR"
 ID=$(node -p "require('./src/episode.json').id")
 NAME=$(node -p "const e=require('./src/episode.json'); e.id+'-'+e.title")

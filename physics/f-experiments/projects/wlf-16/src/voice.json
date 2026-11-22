@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|探究影响感应电流方向的因素。",
+		"seconds": 3.192
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一期讲实验的目的、思路、器材、步骤、记录，以及由数据归纳出的楞次定律，共九个考点。",
+		"seconds": 9.144
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。上一部分知道了：穿过闭合回路的磁通量变化，回路中就产生感应电流。",
+		"seconds": 9.288
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|这个实验要进一步回答：感应电流的方向与哪些因素有关。",
+		"seconds": 5.568
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|在观察的基础上，找出判断感应电流方向的一般规律。",
+		"seconds": 5.256
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：实验探究的是方向，不是感应电流的大小。",
+		"seconds": 4.968
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验思路。感应电流的方向不能直接看出来。",
+		"seconds": 5.808
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|先由电流表指针的偏转方向，判断电流在线圈中的流向。",
+		"seconds": 5.712
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|再结合线圈的绕向，用安培定则确定感应电流的磁场方向。",
+		"seconds": 5.856
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|最后把感应电流的磁场，与原磁场方向、磁通量的变化联系起来比较。",
+		"seconds": 6.888
+	},
+	"i5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：比较的对象是感应电流的磁场和原磁场，而不是直接比较电流和磁场。",
+		"seconds": 7.56
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。条形磁体提供原磁场。",
+		"seconds": 5.496
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|绕向已知的线圈，也就是螺线管，作为闭合回路的一部分。",
+		"seconds": 5.568
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|零刻度在中央的灵敏电流表，指针可以向两侧偏，用来显示感应电流的方向。",
+		"seconds": 7.296
+	},
+	"t3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴圣诞帽的女孩伸手一指：实验时眼睛就要盯住指针往哪边偏。",
+		"seconds": 6.384
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电流表要选零刻度在中央的，导线把线圈和电流表连成闭合回路。",
+		"seconds": 7.296
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，实验前的准备。第一，查明电流从哪个接线柱流入时，指针向哪一侧偏转。",
+		"seconds": 8.688
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，弄清线圈导线的绕向。",
+		"seconds": 3.288
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|有了这两条，才能由指针的偏转，推出线圈中电流的方向，再推出感应电流的磁场方向。",
+		"seconds": 8.208
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不先查明偏转方向与电流方向的关系、不弄清绕向，无法由指针偏转推出电流方向。",
+		"seconds": 9.216
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，实验步骤。共做四种情况：把条形磁体的N极插入线圈，和N极从线圈中抽出。",
+		"seconds": 9.408
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|再把S极插入线圈，和S极从线圈中抽出。",
+		"seconds": 4.848
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|每种情况下，都观察并记下电流表指针的偏转方向。",
+		"seconds": 5.088
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：四种情况改变的是原磁场方向和磁通量的增减两个因素。",
+		"seconds": 6.456
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，记录方法。用表格记录四种情况。",
+		"seconds": 4.824
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|每一行写：原磁场方向、穿过线圈的磁通量是增大还是减小、感应电流的方向。",
+		"seconds": 7.8
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|最后一列，写由感应电流方向推出的感应电流的磁场方向。",
+		"seconds": 5.544
+	},
+	"r3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个女孩今天把头发扎成了马尾，换个发型就像换了一种情况：实验也有四种情况，表格把每种情况的四项内容排在一起，规律就看得出来了。",
+		"seconds": 12.984
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：表格要有原磁场方向、磁通量变化、感应电流方向、感应电流的磁场方向这四项。",
+		"seconds": 8.64
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，实验结论。看表格：磁通量增大时，感应电流的磁场与原磁场方向相反。",
+		"seconds": 8.712
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|磁通量减小时，感应电流的磁场与原磁场方向相同。",
+		"seconds": 5.304
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|概括成四个字：增反减同。",
+		"seconds": 3.144
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：“增反减同”说的是感应电流的磁场与原磁场的方向关系。",
+		"seconds": 6.288
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，归纳为楞次定律：感应电流的磁场总要阻碍引起感应电流的磁通量的变化。",
+		"seconds": 7.944
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|从相对运动看：磁体靠近线圈时受到排斥，远离时受到吸引，可以概括为“来拒去留”。",
+		"seconds": 8.544
+	},
+	"l2b": {
+		"key": "zh-CN-XiaoxiaoNeural|红头发的女孩从背后搂住粉头发的女孩不放：磁体要离开线圈时，线圈也像这样“挽留”它。",
+		"seconds": 8.328
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：阻碍不是阻止，磁通量仍然在变化，只是变化被延缓了。",
+		"seconds": 6.336
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，易错提醒。感应电流的方向由原磁场方向和磁通量的增减共同决定。",
+		"seconds": 8.04
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|只知道是N极还是S极，或者只知道是插入还是抽出，都无法确定感应电流的方向。",
+		"seconds": 8.016
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|磁体在线圈中静止时，磁通量不变，没有感应电流，指针不偏转。",
+		"seconds": 6.504
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两个因素缺一不可；磁体静止时指针不偏，不是电路坏了。",
+		"seconds": 6.72
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电流表零刻度在中央？对。判断二：不必弄清线圈绕向？错，要靠绕向推出感应电流的磁场。",
+		"seconds": 11.568
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：磁通量增大时感应电流的磁场与原磁场相同？错，增反减同。判断四：感应电流的磁场阻碍磁通量的变化？对。",
+		"seconds": 13.536
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：只知道插入的是N极就能定方向？错，还要看磁通量的增减。判断六：磁体静止时指针不偏？对。",
+		"seconds": 12.072
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|增反减同，来拒去留。下一期：探究变压器原、副线圈电压与匝数的关系。",
+		"seconds": 8.208
+	}
+}

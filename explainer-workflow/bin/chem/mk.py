@@ -16,6 +16,19 @@ MODS = {
     'F': ('f-experiments', '化学实验', 9),
     'G': ('g-applications-and-contexts', '综合应用与情境', 7),
 }
+# 物理：规格里写 subj='physics'，mod 用 'A'～'F'
+PMODS = {
+    'A': ('a-mechanics', '力学', 32),
+    'B': ('b-electricity', '电学基础', 22),
+    'C': ('c-waves-and-light', '波动与光', 8),
+    'D': ('d-thermal', '热学', 7),
+    'E': ('e-modern', '近代物理', 9),
+    'F': ('f-experiments', '实验', 22),
+}
+SUBJ = {
+    'chemistry': dict(root=D, mods=MODS, prefix='HX', badge='高考化学', who='化学教师'),
+    'physics': dict(root=os.path.dirname(D) + '/physics', mods=PMODS, prefix='WL', badge='高考物理', who='物理教师'),
+}
 # 规格文件里可以直接用的积木（生成 components/auto.tsx 的 JSON）
 def rule(tag, at, text, c='red', **k): return dict(t='rule', tag=tag, at=at, text=text, c=c, **k)
 def panel(title, at, lines, c='orange', **k): return dict(t='panel', title=title, at=at, lines=lines, c=c, **k)
@@ -68,8 +81,9 @@ ns = dict(math=math, pts=pts, curve=curve, plot=plot, hump=hump, levels=levels, 
 exec(open(sys.argv[1]).read(), ns)
 E = ns['EP']
 mod = E['mod']
-folder, mname, total = MODS[mod]
-SERIES = f'{D}/{folder}'
+SJ = SUBJ[E.get('subj', 'chemistry')]
+folder, mname, total = SJ['mods'][mod]
+SERIES = f"{SJ['root']}/{folder}"
 ANIME = SERIES + '/assets/illustrations'
 PHOTO = SERIES + '/assets/photos'
 META = {}
@@ -81,8 +95,8 @@ for l in open(ANIME + '/meta.jsonl'):
         pass
 
 num = E['n']
-pid = f'hx{mod.lower()}-{num:02d}'
-ID = f'HX{mod}-{num:02d}'
+pid = f"{SJ['prefix'].lower()}{mod.lower()}-{num:02d}"
+ID = f"{SJ['prefix']}{mod}-{num:02d}"
 proj = f'{SERIES}/projects/{pid}'
 if not os.path.exists(proj):
     subprocess.run([W + '/bin/new-episode.sh', ID, proj], check=True)
@@ -105,11 +119,11 @@ for key, f in E['anime']:
 ep = {
     'id': ID,
     'title': E['title'],
-    'subject': 'chemistry',
+    'subject': E.get('subj', 'chemistry'),
     'book': f'{mname} · 第{num}期 / 共{total}期',
     'points': E['points'],
-    'intro': {'badge': f'高考化学 · {mname}', 'title': E['introTitle'], 'subtitle': E['subtitle'], 'photo': ph['file'], 'photoCaption': ph['caption'], 'photoPos': ph.get('pos', 'center')},
-    'cover': {'badge': '高考化学', 'title': E['coverTitle'], 'photo': ph['file'], 'photoPos': ph.get('coverPos', {'16x9': ph.get('pos', 'center'), '4x3': ph.get('pos', 'center'), '3x4': 'center 35%'} if ph.get('portrait', True) else ph.get('pos', 'center')), 'photoTag': ph['tag'], 'credit': ph['short'], 'clean': True},
+    'intro': {'badge': f"{SJ['badge']} · {mname}", 'title': E['introTitle'], 'subtitle': E['subtitle'], 'photo': ph['file'], 'photoCaption': ph['caption'], 'photoPos': ph.get('pos', 'center')},
+    'cover': {'badge': SJ['badge'], 'title': E['coverTitle'], 'photo': ph['file'], 'photoPos': ph.get('coverPos', {'16x9': ph.get('pos', 'center'), '4x3': ph.get('pos', 'center'), '3x4': 'center 35%'} if ph.get('portrait', True) else ph.get('pos', 'center')), 'photoTag': ph['tag'], 'credit': ph['short'], 'clean': True},
     'review': {'items': E['review'], 'endTitle': E['introTitle'], 'endLine': E['endLine'], 'slogan': E['slogan']},
     'credits': f"图片来源：Wikimedia Commons —— {ph['long']}；插图来自 pixiv：{'、'.join(names)}（侵删）",
     'anime': [{k: a[k] for k in ('key', 'src', 'credit', 'url')} for a in anime],
@@ -156,7 +170,7 @@ for f in ('Cover.tsx', 'episode.ts', 'scenes/Intro.tsx'):
 lines = [E['blurb'], '', '📌 本期内容']
 for i, (p, note) in enumerate(E['points_long']):
     lines.append(f'- 考点{"一二三四五六七八九十"[i]}：{p}（{note}）')
-lines += ['- 易错速查：6道判断题', '', '✅ 适合人群：高一至高三学生，高考复习，化学教师备课参考', '', '🖼 图片来源', f"- {ph['long']}（Wikimedia Commons）"]
+lines += ['- 易错速查：6道判断题', '', f"✅ 适合人群：高一至高三学生，高考复习，{SJ['who']}备课参考", '', '🖼 图片来源', f"- {ph['long']}（Wikimedia Commons）"]
 for a in anime:
     lines.append(f"- 插图：{a['user']}《{a['title']}》{a['url']}")
 lines += ['插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除（侵删）。', '']

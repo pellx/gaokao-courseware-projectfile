@@ -1,0 +1,129 @@
+{
+	"id": "WLD-01",
+	"title": "分子动理论的基本内容",
+	"subject": "physics",
+	"book": "热学 · 第1期 / 共7期",
+	"points": [
+		"分子的大小",
+		"阿伏加德罗常数",
+		"微观量的关系",
+		"扩散现象",
+		"布朗运动",
+		"分子的热运动",
+		"分子间的作用力",
+		"概念辨析"
+	],
+	"intro": {
+		"badge": "高考物理 · 热学",
+		"title": [
+			[
+				"分子动理论",
+				true
+			],
+			[
+				"的基本内容"
+			]
+		],
+		"subtitle": "分子大小 · 阿伏加德罗常数 · 扩散 · 布朗运动 · 分子力",
+		"photo": "avogadro.png",
+		"photoCaption": "阿伏加德罗：提出分子假说，阿伏加德罗常数以他命名",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"分子动理论",
+					true
+				]
+			],
+			[
+				[
+					"的基本内容"
+				]
+			]
+		],
+		"photo": "avogadro.png",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "阿伏加德罗",
+		"credit": "PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "鉄塔",
+			"title": "わあい白黒",
+			"url": "https://www.pixiv.net/artworks/146636518"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "分子直径的数量级一般为 10^-10 m",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "气体的摩尔体积除以 N_A 等于一个气体分子的体积",
+				"ok": false,
+				"fix": "是每个分子平均占有的空间"
+			},
+			{
+				"q": "扩散现象是分子无规则运动的直接结果",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "布朗运动就是液体分子的无规则运动",
+				"ok": false,
+				"fix": "是悬浮微粒的运动，间接反映分子运动"
+			},
+			{
+				"q": "r > r_0 时，分子间只有引力",
+				"ok": false,
+				"fix": "引力斥力同时存在，合力为引力"
+			},
+			{
+				"q": "布朗运动图中的折线是微粒的运动轨迹",
+				"ok": false,
+				"fix": "是每隔一定时间位置的连线"
+			}
+		],
+		"endTitle": [
+			[
+				"分子动理论",
+				true
+			],
+			[
+				"的基本内容"
+			]
+		],
+		"endLine": "分子很小数量多，永不停息有引斥",
+		"slogan": "分子很小数量多，永不停息有引斥"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Amadeo Avogadro》，公有领域；插图来自 pixiv：警備犬、miz、兔猫锚（侵删）",
+	"anime": [
+		{
+			"key": "run",
+			"src": "run.jpg",
+			"credit": "插图：警備犬《owo-》pixiv #144630966",
+			"url": "https://www.pixiv.net/artworks/144630966"
+		},
+		{
+			"key": "pair",
+			"src": "pair.jpg",
+			"credit": "插图：miz《さくひま》pixiv #139473517",
+			"url": "https://www.pixiv.net/artworks/139473517"
+		},
+		{
+			"key": "cam",
+			"src": "cam.jpg",
+			"credit": "插图：兔猫锚《Day76 镜头的另一侧》pixiv #147463040",
+			"url": "https://www.pixiv.net/artworks/147463040"
+		}
+	]
+}

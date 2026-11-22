@@ -1,0 +1,23 @@
+本期考点
+
+一、实验目的（只有重力做功时动能与势能相互转化，总量不变）
+二、实验原理（mgΔh 与 ½mv₂² − ½mv₁² 比较，不必测质量）
+三、案例1的器材（打点计时器竖直固定，重物质量大体积小）
+四、关键步骤（限位孔竖直对齐，先通电后松纸带）
+五、瞬时速度的求法（用前后两段的平均速度，不能用 gt 或 √(2gh)）
+六、数据处理（任取两点、以起点为参考、½v²-h 图像）
+七、案例2：气垫导轨（光电门 v = d/Δt，看下降高度）
+八、误差与结论（阻力使动能增加量略小，误差范围内守恒）
+
+图片来源
+1.MichaelMaggs（Richard Bartz 编辑）《Bouncing ball strobe edit》，CC BY-SA 3.0（Wikimedia Commons）
+2.插图：coldcat.《化け猫》
+https://www.pixiv.net/artworks/152199954
+3.插图：yachi《すいぱら》
+https://www.pixiv.net/artworks/152056530
+4.插图：夏目雛子《けいおん!》
+https://www.pixiv.net/artworks/111841126
+5.封面插图：CORE《中学生ぼっちちゃん》
+https://www.pixiv.net/artworks/151577171
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

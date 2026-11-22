@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Time: React.FC = () => <AutoScene k="time" d={{"tag": "考点五", "title": "时刻与时间间隔", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "时刻", "at": "t1", "text": "时间轴上的{点}", "c": "red", "size": 36}]}, {"blocks": [{"t": "rule", "tag": "时间间隔", "at": "t1", "text": "时间轴上的{线段|orange}", "c": "orange", "size": 36}]}]}, {"t": "table", "at": "t2", "head": ["说法", "类型", "长度"], "cols": "1.2fr 1fr 1fr", "rows": [{"at": "t2", "cells": ["第 3 s 末 / 第 4 s 初", "{时刻}", "—"]}, {"at": "t3", "cells": ["第 3 s 内", "{时间间隔|orange}", "1 s"]}, {"at": "t3", "cells": ["前 3 s", "{时间间隔|orange}", "3 s"]}], "size": 32, "rowHeight": 60}], "callout": {"label": "易错", "at": "t4", "text": "“第 n s 内”只有 {1 s}"}, "beat": {"k": "copies", "at": "t3b", "text": "每个姿势：{时刻|red}\n两个姿势之间：{时间间隔|orange}"}}} />;

@@ -1,0 +1,22 @@
+本期考点
+
+一、质谱仪的原理（qU = mv²/2，r = (1/B)√(2mU/q)）
+二、质谱仪的用途（按比荷分开，测质量、分析同位素）
+三、速度选择器（qE = qvB，v = E/B）
+四、回旋加速器的构造（D 形盒、窄缝加交变电压）
+五、同步条件（T = 2πm/qB 与速度无关）
+六、最大动能（Ekm = q²B²R²/2m，与电压无关）
+七、回旋加速器的局限（相对论效应使周期变化）
+
+图片来源
+1.John B. Livingood《Lawrence 27 inch cyclotron dees 1935》，公有领域（Wikimedia Commons）
+2.插图：奏《バンドリ雑まとめ3》
+https://www.pixiv.net/artworks/135226438
+3.插图：まこちあ《SDユーベル》
+https://www.pixiv.net/artworks/145271200
+4.插图：티비아래underdatv《아글라이아는 멋진 옷을 짜줬어!》
+https://www.pixiv.net/artworks/137432756
+5.封面插图：E20《虹夏ちゃん》
+https://www.pixiv.net/artworks/148167649
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

@@ -1,4 +1,8 @@
 # commons-search.py "query" ...   → candidate files with size, licence and author
+import os
+sys_path_bin = os.path.dirname(os.path.abspath(__file__))
+import sys as _s; _s.path.insert(0, sys_path_bin)
+from netlock import throttle
 import json, sys, time, urllib.error, urllib.parse, urllib.request
 UA = {'User-Agent': 'explainer-video-research/1.0 (education)'}
 
@@ -6,7 +10,8 @@ def get(url):
     for wait in (0, 20, 40, 80):
         time.sleep(wait)
         try:
-            return urllib.request.urlopen(urllib.request.Request(url, headers=UA)).read()
+            with throttle('commons', 4):
+                return urllib.request.urlopen(urllib.request.Request(url, headers=UA)).read()
         except urllib.error.HTTPError as e:
             if e.code != 429: raise
     raise SystemExit('still rate-limited')

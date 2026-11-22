@@ -1,0 +1,129 @@
+{
+	"id": "WLA-26",
+	"title": "动量守恒定律",
+	"subject": "physics",
+	"book": "力学 · 第26期 / 共32期",
+	"points": [
+		"系统、内力和外力",
+		"定律的推导",
+		"动量守恒定律",
+		"近似守恒与分方向守恒",
+		"表达式的含义",
+		"动量守恒与机械能守恒",
+		"与牛顿运动定律的关系",
+		"动量守恒定律的普适性"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"动量守恒",
+				true
+			],
+			[
+				"定律"
+			]
+		],
+		"subtitle": "系统 · 内力外力 · 守恒条件 · 普适性",
+		"photo": "principia.jpg",
+		"photoCaption": "牛顿《自然哲学的数学原理》（1687）：书中已有运动的量守恒的思想",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"动量守恒",
+					true
+				]
+			],
+			[
+				[
+					"定律"
+				]
+			]
+		],
+		"photo": "principia.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "原理",
+		"credit": "Isaac Newton, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ニワ",
+			"title": "思い出す",
+			"url": "https://www.pixiv.net/artworks/147785252"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "系统所受外力的矢量和为零，系统动量守恒",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "内力能改变系统的总动量",
+				"ok": false,
+				"fix": "内力只在系统内转移动量"
+			},
+			{
+				"q": "动量守恒时，系统内每个物体的动量都不变",
+				"ok": false,
+				"fix": "只是总动量不变"
+			},
+			{
+				"q": "某方向外力的矢量和为零，该方向动量守恒",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "系统动量守恒，机械能一定守恒",
+				"ok": false,
+				"fix": "两者条件不同"
+			},
+			{
+				"q": "动量守恒定律只适用于宏观低速物体",
+				"ok": false,
+				"fix": "高速、微观领域同样成立"
+			}
+		],
+		"endTitle": [
+			[
+				"动量守恒",
+				true
+			],
+			[
+				"定律"
+			]
+		],
+		"endLine": "外力为零，总动量不变",
+		"slogan": "外力为零，总动量不变"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Isaac Newton《Philosophiae Naturalis Principia Mathematica》1687 年初版扉页，公有领域；插图来自 pixiv：たかたか、Yukihime Bskv、Jess！（侵删）",
+	"anime": [
+		{
+			"key": "sys",
+			"src": "sys.jpg",
+			"credit": "插图：たかたか《結束バンド》pixiv #134640971",
+			"url": "https://www.pixiv.net/artworks/134640971"
+		},
+		{
+			"key": "snow",
+			"src": "snow.jpg",
+			"credit": "插图：Yukihime Bskv《Special feeling》pixiv #148816533",
+			"url": "https://www.pixiv.net/artworks/148816533"
+		},
+		{
+			"key": "band",
+			"src": "band.jpg",
+			"credit": "插图：Jess！《自作『けいおん！』壁紙！》pixiv #147513553",
+			"url": "https://www.pixiv.net/artworks/147513553"
+		}
+	]
+}

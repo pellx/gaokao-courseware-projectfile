@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|质谱仪与回旋加速器。",
+		"seconds": 2.736
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲带电粒子在电场和磁场中运动的两种仪器：质谱仪、速度选择器和回旋加速器，共七个考点。",
+		"seconds": 10.056
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，质谱仪的构造与原理。带电粒子先在电场中加速，电场力做功转化为动能。",
+		"seconds": 8.616
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|加速后满足q U等于二分之一m v平方，粒子获得速度v。",
+		"seconds": 6.096
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|粒子再垂直进入匀强磁场，洛伦兹力提供向心力，做半个圆周运动，打在照相底片上。",
+		"seconds": 8.52
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|联立两式得轨道半径r等于B分之一乘根号下q分之二m U。",
+		"seconds": 6.24
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：加速电压U和磁场B一定时，半径只由粒子的比荷决定。",
+		"seconds": 6.408
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，质谱仪的用途。不同比荷的粒子半径不同，打在底片上的位置不同。",
+		"seconds": 7.632
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|电荷量相同时，质量越大，半径越大，所以底片上的位置反映粒子的质量。",
+		"seconds": 7.512
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|用它可以测定带电粒子的质量、分析同位素。质谱仪最初由英国物理学家阿斯顿设计。",
+		"seconds": 8.496
+	},
+	"u3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发女孩紧紧抱住同伴不放：同位素的化学性质几乎一样，像这样黏在一起很难分开，质谱仪却能按比荷把它们分开。",
+		"seconds": 11.112
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同位素化学性质几乎相同，用化学方法很难分开，质谱仪按比荷把它们分开。",
+		"seconds": 8.352
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，速度选择器。在两板间加电场，同时加与电场相互垂直的匀强磁场。",
+		"seconds": 8.232
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|带电粒子受到的电场力和洛伦兹力方向相反，当q E等于q v B时，二力平衡，粒子沿直线通过。",
+		"seconds": 9.768
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|于是能通过的速度是v等于E比B；速度更大或更小的粒子会偏转，打到板上。",
+		"seconds": 7.608
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：选出的速度只由 E 和 B 决定，与粒子的电性、电荷量和质量都无关。",
+		"seconds": 7.32
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，回旋加速器的构造。两个D形盒置于匀强磁场中，两盒之间留一条窄缝。",
+		"seconds": 8.424
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|窄缝处加交变电压，形成电场。",
+		"seconds": 3.6
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|粒子经过窄缝时被电场加速；进入 D 形盒后只受磁场作用，做半个圆周运动。",
+		"seconds": 7.92
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电场负责加速，磁场负责偏转回旋；速度越来越大，半径也越来越大。",
+		"seconds": 7.896
+	},
+	"y1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，同步条件。粒子在磁场中回旋的周期T等于q B分之二派m，与速度和半径无关。",
+		"seconds": 9.456
+	},
+	"y2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以只要交变电压的周期等于粒子回旋周期，粒子每次经过窄缝时，电场方向都恰好使它加速。",
+		"seconds": 9.336
+	},
+	"y2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个托着下巴的绿头发小女孩想明白了：速度变大，半径也同比例变大，所以每半圈的用时不变。",
+		"seconds": 9.336
+	},
+	"y3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同步的关键是回旋周期与速度无关，粒子越转越快，但每半周用时不变。",
+		"seconds": 8.136
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，最大动能。粒子的半径增大到等于 D 形盒半径 R 时，就被引出。",
+		"seconds": 7.56
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|由R等于q B分之m v，得最大动能E k m等于二m分之q平方B平方R平方。",
+		"seconds": 8.256
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|最大动能由磁感应强度 B 和 D 形盒半径 R 决定。",
+		"seconds": 5.088
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：最大动能与加速电压无关；电压只影响每次加速的多少和加速的次数。",
+		"seconds": 7.944
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，回旋加速器的局限。粒子能量很高、速度接近光速时，要考虑相对论效应。",
+		"seconds": 8.592
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|这时粒子的质量随速度增大，回旋周期随之变化，不再与交变电压同步。",
+		"seconds": 7.344
+	},
+	"l2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个突然变得巨大的灰头发女孩：速度接近光速时，粒子的质量也会变大，回旋周期跟着变长，节拍就乱了。",
+		"seconds": 10.248
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同步条件被破坏，粒子的能量受到限制；相对论效应在近代物理中再细讲。",
+		"seconds": 8.28
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：比荷越大半径越大？错，比荷越大半径越小。判断二：质谱仪能分析同位素？对。",
+		"seconds": 10.752
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：速度选择器选出的速度与电荷量有关？错，v等于E比B。判断四：粒子在缝隙中被电场加速？对。",
+		"seconds": 12.312
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：提高电压能增大最大动能？错，最大动能由B和R决定。判断六：回旋周期与速度无关？对。",
+		"seconds": 11.76
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|电场加速磁场转，最大动能看B和R。下一期：电磁感应现象与楞次定律。",
+		"seconds": 8.184
+	}
+}

@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|质点、参考系、时间与位移。",
+		"seconds": 3.48
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲描述运动的几个基本概念：理想模型、参考系、时刻和位移，共八个考点。",
+		"seconds": 7.992
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，物理学的研究方法。物理学把实验和科学推理结合起来认识自然。",
+		"seconds": 7.536
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|实际问题往往很复杂。研究时要突出主要因素，忽略次要因素。",
+		"seconds": 6.816
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|这样抽象出来的研究对象，叫理想化物理模型，比如质点、光滑平面、轻绳。",
+		"seconds": 7.344
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：理想化模型是对实际物体的科学抽象，现实中并不存在，但能抓住问题的本质。",
+		"seconds": 8.4
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，质点：用来代替物体的有质量的点。",
+		"seconds": 4.392
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|质点只有质量，没有大小和形状，是一种理想化模型。",
+		"seconds": 5.064
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|一个物体能不能看成质点，看它的大小和形状对所研究的问题影响能不能忽略。",
+		"seconds": 7.488
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个抱着吉他的女孩：只研究她们在舞台上换位置，可以把人看成点；要研究她们按弦的手指动作，就不能看成质点。",
+		"seconds": 10.296
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能否看成质点与物体本身大小无关。研究地球公转可以看成质点，研究地球自转就不能。",
+		"seconds": 9.744
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，参考系：描述物体运动时，选来作为参考的物体。",
+		"seconds": 5.904
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|选不同的参考系，对同一个运动的描述可能不同。",
+		"seconds": 4.8
+	},
+	"f2b": {
+		"key": "zh-CN-XiaoxiaoNeural|车站前并肩走着的四个女孩：以身边的同伴为参考系，彼此几乎静止；以地面为参考系，她们都在向前走。",
+		"seconds": 9.936
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|研究地面上物体的运动，通常选地面或相对地面静止的物体作参考系。",
+		"seconds": 6.888
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：说一个物体运动还是静止，必须先说明相对哪个参考系；参考系可以任意选取。",
+		"seconds": 8.544
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，坐标系。为了定量描述物体的位置及其变化，要在参考系上建立坐标系。",
+		"seconds": 8.304
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|坐标系要规定原点、正方向和单位长度。",
+		"seconds": 4.44
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|物体做直线运动时，沿运动直线建立一维坐标轴，用一个坐标 x 就能表示位置。",
+		"seconds": 7.992
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|平面上的运动用二维的平面直角坐标系，空间中的运动用三维坐标系。",
+		"seconds": 6.888
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：坐标的正负表示位置在原点的哪一侧，绝对值表示到原点的距离。",
+		"seconds": 7.176
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，时刻与时间间隔。在时间轴上，时刻对应一个点，时间间隔对应一段线段。",
+		"seconds": 8.52
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|第三秒末、第四秒初都是时刻，而且是同一个时刻。",
+		"seconds": 5.328
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三秒内是一秒长的时间间隔；前三秒是三秒长的时间间隔。",
+		"seconds": 6.312
+	},
+	"t3b": {
+		"key": "zh-CN-XiaoxiaoNeural|同一个金发女孩摆出好几个姿势：每一个姿势是一个时刻，从一个姿势到另一个姿势经历的是时间间隔。",
+		"seconds": 9.696
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：日常说的时间常指时间间隔；第n秒内只有一秒，前n秒才是n秒。",
+		"seconds": 7.8
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，位移：由初位置指向末位置的有向线段，是矢量。",
+		"seconds": 6.144
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|路程是物体运动轨迹的长度，只有大小，是标量。",
+		"seconds": 4.92
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|位移只看起点和终点，与路径无关；路程与路径有关。绕操场跑一圈回到起点，位移为零，路程是一圈的长度。",
+		"seconds": 11.088
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只有单向直线运动中，位移的大小才等于路程；其他情况位移大小都小于路程。",
+		"seconds": 8.544
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，矢量与标量。矢量既有大小又有方向，如位移、速度、力。",
+		"seconds": 7.56
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|标量只有大小没有方向，如路程、时间、质量、温度。",
+		"seconds": 5.64
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|矢量相加不能直接把数值相加，标量按算术法则相加。",
+		"seconds": 5.736
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|直线运动中，规定正方向后，矢量可以用正负号表示方向。",
+		"seconds": 5.904
+	},
+	"v5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：矢量的正负只表示方向，不表示大小。位移负五米比正三米大。",
+		"seconds": 7.608
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，直线运动的位置和位移。沿直线建坐标轴，物体的位置用坐标 x 表示。",
+		"seconds": 8.4
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|从位置x一运动到x二，位移德尔塔x等于x二减x一。",
+		"seconds": 6.552
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|德尔塔x为正，位移沿x轴正方向；德尔塔x为负，位移沿负方向。",
+		"seconds": 7.416
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|用位移时间图像，也就是x t图像，可以表示位置随时间的变化。",
+		"seconds": 6.432
+	},
+	"l5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：x t图像描述的是位置随时间的变化，不是运动轨迹。",
+		"seconds": 6.192
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：体积很大的物体一定不能看成质点？错，要看研究的问题。判断二：参考系不同，描述可能不同？对。",
+		"seconds": 11.952
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：第三秒内是三秒长的时间间隔？错，只有一秒。判断四：位移大小一定等于路程？错，只有单向直线运动才相等。",
+		"seconds": 13.368
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：负五米的位移比正三米小？错，负号只表示方向。判断六：x t图像不是运动轨迹？对。",
+		"seconds": 11.256
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|质点看问题，位移看两端。下一期：速度与加速度。",
+		"seconds": 5.688
+	}
+}

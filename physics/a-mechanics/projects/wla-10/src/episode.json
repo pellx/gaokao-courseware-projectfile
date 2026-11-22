@@ -1,0 +1,128 @@
+{
+	"id": "WLA-10",
+	"title": "共点力的平衡",
+	"subject": "physics",
+	"book": "力学 · 第10期 / 共32期",
+	"points": [
+		"平衡状态",
+		"平衡条件",
+		"分量形式",
+		"二力与三力平衡",
+		"矢量三角形",
+		"多力平衡与系统",
+		"速度为0≠平衡"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"共点力",
+				true
+			],
+			[
+				"的平衡"
+			]
+		],
+		"subtitle": "平衡状态 · 合力为零 · 矢量三角形",
+		"photo": "stevin-chain.jpg",
+		"photoCaption": "斯蒂文的链球图：挂在斜面上的链条静止不动，各段受力平衡",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"共点力",
+					true
+				]
+			],
+			[
+				[
+					"的平衡"
+				]
+			]
+		],
+		"photo": "stevin-chain.jpg",
+		"photoPos": {
+			"16x9": "center 50%",
+			"4x3": "center 50%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "斯蒂文",
+		"credit": "Simon Stevin, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "MOKOLS",
+			"title": "gfdgfd",
+			"url": "https://www.pixiv.net/artworks/129020873"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "做匀速直线运动的物体处于平衡状态",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "共点力作用下物体平衡的条件是合力为零",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "三力平衡时，任意两个力的合力与第三个力等大反向",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "作用力和反作用力是一对平衡力",
+				"ok": false,
+				"fix": "它们作用在两个物体上，不是平衡力"
+			},
+			{
+				"q": "三力平衡时三个力的矢量首尾相接组成封闭三角形",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "竖直上抛的物体在最高点处于平衡状态",
+				"ok": false,
+				"fix": "速度为 0 但合力为 mg，不平衡"
+			}
+		],
+		"endTitle": [
+			[
+				"共点力",
+				true
+			],
+			[
+				"的平衡"
+			]
+		],
+		"endLine": "平衡看合力，不看速度",
+		"slogan": "平衡看合力，不看速度"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Simon Stevin《Wonder en is gheen wonder》（1586），公有领域；插图来自 pixiv：描愛ゆう、ゆうさく、赫赫700@AI（侵删）",
+	"anime": [
+		{
+			"key": "nap",
+			"src": "nap.jpg",
+			"credit": "插图：描愛ゆう《こたつで 〜結束ねこニャンド〜》pixiv #103760806",
+			"url": "https://www.pixiv.net/artworks/103760806"
+		},
+		{
+			"key": "head",
+			"src": "head.jpg",
+			"credit": "插图：ゆうさく《指揮者になりきってご満悦な唯さん》pixiv #93162321",
+			"url": "https://www.pixiv.net/artworks/93162321"
+		},
+		{
+			"key": "jump",
+			"src": "jump.jpg",
+			"credit": "插图：赫赫700@AI《結束バンドで恐竜パーカー》pixiv #143681134",
+			"url": "https://www.pixiv.net/artworks/143681134"
+		}
+	]
+}

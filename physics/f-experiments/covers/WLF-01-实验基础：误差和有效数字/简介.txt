@@ -1,0 +1,23 @@
+本期考点
+
+一、实验的基本要求（明确目的、理解原理、如实记录、注明单位）
+二、误差与错误（误差不可避免，错误应当避免）
+三、偶然误差（时大时小，多次测量取平均减小）
+四、系统误差（总是偏大或偏小，校准仪器、改进原理和方法）
+五、绝对误差与相对误差（精确程度看相对误差，累积法）
+六、有效数字（从第一个非零数字算起，末尾的 0 有效）
+七、读数与估读（估读到分度值下一位，游标卡尺等不估读）
+八、数据处理方法（列表法、图像法、化曲为直）
+
+图片来源
+1.R. Henrik Nilsson《Mid 1990s Kanon vernier scale caliper resolution 0 05 mm made in Japan with inset detail》，CC BY 4.0（Wikimedia Commons）
+2.插图：Chrislu《Sakurako delicious dream》
+https://www.pixiv.net/artworks/129634255
+3.插图：まるよ％11/29負けケット《桜高でドラムをする虹夏ちゃん》
+https://www.pixiv.net/artworks/108101731
+4.插图：ミモリ《デフォルメ結束バンド》
+https://www.pixiv.net/artworks/133408835
+5.封面插图：Finerain《ぼ喜多》
+https://www.pixiv.net/artworks/146859605
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

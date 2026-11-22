@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|动量、冲量与动量定理。",
+		"seconds": 2.952
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲动量和冲量两个概念，以及把它们联系起来的动量定理，共九个考点。",
+		"seconds": 6.912
+	},
+	"o1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，动量概念的提出。人们在碰撞实验中寻找碰撞前后保持不变的量。",
+		"seconds": 7.752
+	},
+	"o2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个物体碰撞，各自的速度都变了，速度之和、动能之和也不一定相等。",
+		"seconds": 6.984
+	},
+	"o3": {
+		"key": "zh-CN-XiaoxiaoNeural|但两物体质量与速度的乘积之和在碰撞前后保持不变。",
+		"seconds": 5.304
+	},
+	"o4": {
+		"key": "zh-CN-XiaoxiaoNeural|于是把质量和速度的乘积m v定义为物体的动量。",
+		"seconds": 4.968
+	},
+	"o5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：动量是从碰撞中的“不变量”里提炼出来的物理量。",
+		"seconds": 5.352
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，动量p等于m v，单位是千克米每秒。",
+		"seconds": 4.896
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|动量是矢量，方向与速度的方向相同。",
+		"seconds": 3.912
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|动量对应某一时刻的运动状态，是状态量。",
+		"seconds": 4.2
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|抱膝坐着一动不动的Q版粉头发女孩：此刻速度为零，动量也是零；动量描述的是某一时刻的状态。",
+		"seconds": 9.528
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：比较两个动量，要同时看大小和方向；速率相同、方向不同，动量就不同。",
+		"seconds": 8.16
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，动量的变化量德尔塔p等于p撇减p，是末动量减初动量。",
+		"seconds": 7.032
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|它是矢量运算，一般要按平行四边形定则处理。",
+		"seconds": 4.824
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|在同一直线上，先规定正方向，与正方向相同的取正、相反的取负，矢量运算化为代数运算。",
+		"seconds": 9.168
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：德尔塔p的方向与速度变化量德尔塔v的方向相同，不一定与初速度或末速度同向。",
+		"seconds": 8.76
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，动量与动能。动量是矢量，动能是标量。",
+		"seconds": 5.496
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|两者的大小关系：E k等于p的平方除以二m。",
+		"seconds": 4.992
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|匀速圆周运动中，速度方向在变，动量变了，动能却不变。",
+		"seconds": 5.88
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：动量变化时动能不一定变化；动能变化时，速度大小变了，动量一定变化。",
+		"seconds": 8.28
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，冲量：力与力的作用时间的乘积，I等于F德尔塔t，单位牛秒。",
+		"seconds": 7.296
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|冲量是矢量，恒力的冲量方向与力的方向相同。",
+		"seconds": 4.824
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|冲量是过程量，表示力对时间的累积效应。",
+		"seconds": 4.392
+	},
+	"i3b": {
+		"key": "zh-CN-XiaoxiaoNeural|举着鼓棒比耶的短发女孩：鼓棒敲在鼓面上，力乘以接触时间，就是这一下的冲量。",
+		"seconds": 7.68
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只要有力作用一段时间就有冲量，与物体是否运动无关；推墙推不动，推力的冲量也不为零。",
+		"seconds": 9.384
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，变力的冲量。力随时间变化时，不能直接用F乘德尔塔t。",
+		"seconds": 7.296
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|画出F t图像，图线与时间轴所围的面积就表示这段时间内力的冲量。",
+		"seconds": 6.912
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以先求动量的变化量，再由动量定理得出冲量。",
+		"seconds": 5.136
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：F t图像的面积是冲量，就像v t图像的面积是位移。",
+		"seconds": 6.216
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，动量定理的推导。物体受合力F，由牛顿第二定律F等于m a。",
+		"seconds": 7.776
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|加速度a等于v撇减v除以德尔塔t，代入得F德尔塔t等于m v撇减m v。",
+		"seconds": 7.944
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|物体在一个过程中所受合力的冲量，等于它在这个过程始末的动量变化量。",
+		"seconds": 7.248
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：等式左边是合力的冲量，不是某一个力的冲量。",
+		"seconds": 5.16
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，动量定理的意义。把它改写成F等于德尔塔p除以德尔塔t：合力等于动量的变化率。",
+		"seconds": 9.12
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|它是矢量式，可以在某一方向上单独使用。",
+		"seconds": 4.104
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|对变力同样成立，这时F是这段时间内的平均作用力。",
+		"seconds": 5.568
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：动量定理只看始末状态，不必追究过程中力怎样变化。",
+		"seconds": 6.48
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，用动量定理解释现象。动量变化量一定时，作用时间越长，作用力越小。",
+		"seconds": 8.232
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|汽车的安全气囊、跳远的沙坑、包装用的泡沫塑料，都是延长作用时间来减小冲击力。",
+		"seconds": 8.256
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|反过来，作用时间越短，作用力越大，比如用锤子钉钉子。",
+		"seconds": 5.688
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红头发的女孩眨眨眼想一想：鸡蛋落在软垫上不碎，因为软垫延长了作用时间，冲击力就小了。",
+		"seconds": 9.096
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：缓冲减小的是作用力，不是动量的变化量，也不是冲量。",
+		"seconds": 6.072
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：动量是矢量，与速度同向？对。判断二：动量变了动能一定变？错，动能不一定变。",
+		"seconds": 10.656
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：推不动的物体，推力冲量为零？错，冲量与是否运动无关。判断四：F t图线下的面积表示冲量？对。",
+		"seconds": 12.336
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：动量定理里的力是合力？对。判断六：安全气囊减小了动量变化量？错，减小的是作用力。",
+		"seconds": 11.208
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|合力冲量等于动量变化。下一期：动量守恒定律。",
+		"seconds": 5.712
+	}
+}

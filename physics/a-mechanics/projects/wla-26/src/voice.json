@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|动量守恒定律。",
+		"seconds": 1.968
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲系统动量守恒的条件、表达式和适用范围，共八个考点。",
+		"seconds": 6.312
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，系统、内力和外力。两个或多个相互作用的物体组成一个系统。",
+		"seconds": 7.296
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|系统中物体之间的相互作用力叫内力。",
+		"seconds": 3.984
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|系统以外的物体施加给系统内物体的力叫外力。",
+		"seconds": 4.584
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这四个Q版女孩被一根扎带串在一起：把她们看成一个系统，扎带拉她们的力就是内力。",
+		"seconds": 8.208
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同一个力是内力还是外力，取决于选谁做系统；系统选得不同，划分也不同。",
+		"seconds": 8.256
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，定律的推导。两物体相互作用，由牛顿第三定律，它们受到的力大小相等、方向相反，作用时间相同。",
+		"seconds": 10.896
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|由动量定理，两物体动量的变化量也大小相等、方向相反。",
+		"seconds": 5.904
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|于是m一v一加m二v二，等于m一v一撇加m二v二撇。",
+		"seconds": 6.336
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：内力只是在系统内转移动量，不改变系统的总动量。",
+		"seconds": 5.976
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，动量守恒定律：如果一个系统不受外力，",
+		"seconds": 4.92
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|或者所受外力的矢量和为零，",
+		"seconds": 3.12
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|这个系统的总动量保持不变。",
+		"seconds": 3.096
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：条件看的是外力，与内力多大、是否做功无关。",
+		"seconds": 5.52
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，近似守恒。内力远大于外力时，比如碰撞、爆炸，外力的影响可以忽略，系统动量近似守恒。",
+		"seconds": 10.344
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|分方向守恒：某一方向上外力的矢量和为零，这个方向上的动量守恒。",
+		"seconds": 6.984
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|例如物体在光滑水平面上相互作用，竖直方向受重力，水平方向不受外力，水平方向动量守恒。",
+		"seconds": 9.648
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|雪中共撑一把伞的两个女孩：重力和落雪都沿竖直方向；只要水平方向不受外力，水平方向的动量就守恒。",
+		"seconds": 10.344
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：总动量不守恒时，也可能在某一方向上守恒。",
+		"seconds": 5.256
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，表达式的含义。动量守恒定律的表达式是矢量式，同一直线上要先规定正方向。",
+		"seconds": 9.168
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|式中各个速度必须相对同一参考系，通常是地面。",
+		"seconds": 5.112
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|“守恒”是指在整个过程中，任意两个时刻系统的总动量都相等，不只是始末相等。",
+		"seconds": 7.704
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：总动量不变，不代表每个物体的动量不变；单个物体的动量可以变化。",
+		"seconds": 7.056
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，动量守恒与机械能守恒。动量守恒的条件是外力的矢量和为零。",
+		"seconds": 7.704
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|机械能守恒的条件是只有重力或弹力做功。",
+		"seconds": 4.416
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|子弹射入木块，动量守恒，但摩擦生热，机械能不守恒。",
+		"seconds": 5.736
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两个守恒条件不同，一个守恒时，另一个不一定守恒。",
+		"seconds": 5.784
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，与牛顿运动定律的关系。在牛顿运动定律适用的范围内，动量守恒定律可以由它推导出来。",
+		"seconds": 9.48
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|但动量守恒定律只涉及过程的始末状态。",
+		"seconds": 4.176
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|不必考虑相互作用力随时间怎样变化，也不必分析过程的细节。",
+		"seconds": 6.408
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：相互作用复杂时，动量守恒定律往往比牛顿运动定律更简便。",
+		"seconds": 6.912
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，动量守恒定律的普适性。牛顿运动定律只适用于宏观、低速的情形。",
+		"seconds": 7.896
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|动量守恒定律在高速，也就是接近光速的领域，以及微观领域依然成立。",
+		"seconds": 6.648
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|它和能量守恒定律一样，是自然界普遍适用的基本规律之一。",
+		"seconds": 5.64
+	},
+	"u3b": {
+		"key": "zh-CN-XiaoxiaoNeural|五个Q版女孩站成一排，高矮、颜色各不相同，却是同一支乐队。动量守恒也一样，大到天体、小到粒子都成立。",
+		"seconds": 10.992
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：动量守恒定律的适用范围比牛顿运动定律更广。",
+		"seconds": 5.448
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：外力矢量和为零，动量守恒？对。判断二：内力能改变总动量？错，内力只转移动量。",
+		"seconds": 10.968
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：动量守恒时每个物体动量都不变？错，只是总动量不变。判断四：某方向外力为零，该方向动量守恒？对。",
+		"seconds": 12.744
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：动量守恒则机械能一定守恒？错，条件不同。判断六：动量守恒定律只适用于宏观低速？错，它普遍适用。",
+		"seconds": 13.128
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|外力为零，总动量不变。下一期：弹性碰撞和非弹性碰撞。",
+		"seconds": 6.744
+	}
+}

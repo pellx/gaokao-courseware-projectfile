@@ -1,0 +1,23 @@
+本期考点
+
+一、闭合电路的组成（外电路 + 内电路，电源有内阻 r）
+二、非静电力（电源内部把正电荷从负极搬到正极，其他形式的能转化为电势能）
+三、电动势（E = W/q，由电源本身决定，与外电路无关）
+四、闭合电路的欧姆定律（I = E/(R + r)，外电路为纯电阻）
+五、内电压与外电压（E = U外 + U内，U = E − Ir）
+六、路端电压与负载（R 增大 U 增大；断路 U = E；短路 I = E/r）
+七、能量与功率（P总 = EI，P出 = UI，P内 = I²r，η = U/E）
+八、电源的 U-I 图像（纵轴截距为 E，斜率绝对值为 r）
+
+图片来源
+1.Rama《Volta battery-MHS 373-IMG 3840-white》，CC BY-SA 3.0 FR（Wikimedia Commons）
+2.插图：Rebecca《ぼざろまとめ81》
+https://www.pixiv.net/artworks/143595898
+3.插图：ニワ《虹夏ちゃん》
+https://www.pixiv.net/artworks/151090563
+4.插图：いちみ＠C109東１ イ04a《喜多ちゃん誕生日2026》
+https://www.pixiv.net/artworks/143822778
+5.封面插图：小胖胖胖胖王《後藤ひとり》
+https://www.pixiv.net/artworks/145952859
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

@@ -1,0 +1,23 @@
+本期考点
+
+一、实验目的与思路（测质量和碰撞前后速度，检验 m₁v₁ + m₂v₂ = m₁v₁′ + m₂v₂′）
+二、案例1的器材（气垫导轨减小摩擦，光电门 v = d/Δt，天平测质量）
+三、案例1的操作要点（导轨调水平，先规定正方向）
+四、可研究的碰撞情形（碰后分开、连成一体、由静止弹开）
+五、案例2的原理（平抛时间相同，水平距离代替速度）
+六、案例2的器材与要求（末端水平、入射球质量大、同一位置释放、斜槽不必光滑）
+七、案例2的数据处理（最小圆圆心为平均落点，验证 m₁·OP = m₁·OM + m₂·ON）
+八、实验结论与误差（误差范围内动量守恒，装置不水平是系统误差）
+
+图片来源
+1.The Dean of Physics《Newtons Cradle》，Wikimedia Commons，CC BY-SA 4.0（Wikimedia Commons）
+2.插图：AlwaysBetabeats《Let me hug you~~》
+https://www.pixiv.net/artworks/141806954
+3.插图：AlwaysBetabeats《Chinayui》
+https://www.pixiv.net/artworks/139709547
+4.插图：あったまったま《ようこそコルマールへ！》
+https://www.pixiv.net/artworks/141548989
+5.封面插图：sakuzo《チノちゃんとリゼちゃんとココアちゃん withティッピー》
+https://www.pixiv.net/artworks/141144945
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

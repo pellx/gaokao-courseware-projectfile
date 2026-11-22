@@ -1,0 +1,138 @@
+{
+	"id": "WLF-09",
+	"title": "验证机械能守恒定律",
+	"subject": "physics",
+	"book": "实验 · 第9期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验原理",
+		"案例1的器材",
+		"关键步骤",
+		"瞬时速度的求法",
+		"数据处理",
+		"案例2：气垫导轨",
+		"误差与结论"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"验证",
+				false
+			],
+			[
+				"机械能守恒",
+				true
+			],
+			[
+				"定律",
+				false
+			]
+		],
+		"subtitle": "重物下落 · 纸带测速 · 图像法 · 误差分析",
+		"photo": "bounce.jpg",
+		"photoCaption": "弹跳篮球的频闪照片：动能与重力势能不断相互转化",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"验证"
+				],
+				[
+					"机械能守恒",
+					true
+				]
+			],
+			[
+				[
+					"定律"
+				]
+			]
+		],
+		"photo": "bounce.jpg",
+		"photoPos": "center",
+		"photoTag": "频闪照片",
+		"credit": "MichaelMaggs, Richard Bartz, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "CORE",
+			"title": "中学生ぼっちちゃん",
+			"url": "https://www.pixiv.net/artworks/151577171"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "验证机械能守恒定律时必须用天平测出重物的质量",
+				"ok": false,
+				"fix": "两边都含 m，可以约去"
+			},
+			{
+				"q": "重物应选质量大、体积小的",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "实验时应先松开纸带，再接通打点计时器的电源",
+				"ok": false,
+				"fix": "先接通电源，后松开纸带"
+			},
+			{
+				"q": "可以用 v = √(2gh) 计算纸带上某点的速度",
+				"ok": false,
+				"fix": "要用前后两段的平均速度"
+			},
+			{
+				"q": "½v²-h 图像是过原点的直线，斜率接近 g",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "由于阻力，动能增加量一般略大于重力势能减少量",
+				"ok": false,
+				"fix": "动能增加量略小于势能减少量"
+			}
+		],
+		"endTitle": [
+			[
+				"验证",
+				false
+			],
+			[
+				"机械能守恒",
+				true
+			],
+			[
+				"定律",
+				false
+			]
+		],
+		"endLine": "先通电后放手，速度靠纸带求",
+		"slogan": "先通电后放手，速度靠纸带求"
+	},
+	"credits": "图片来源：Wikimedia Commons —— MichaelMaggs（Richard Bartz 编辑）《Bouncing ball strobe edit》，CC BY-SA 3.0；插图来自 pixiv：coldcat.、yachi、夏目雛子（侵删）",
+	"anime": [
+		{
+			"key": "hang",
+			"src": "hang.jpg",
+			"credit": "插图：coldcat.《化け猫》pixiv #152199954",
+			"url": "https://www.pixiv.net/artworks/152199954"
+		},
+		{
+			"key": "cake",
+			"src": "cake.jpg",
+			"credit": "插图：yachi《すいぱら》pixiv #152056530",
+			"url": "https://www.pixiv.net/artworks/152056530"
+		},
+		{
+			"key": "party",
+			"src": "party.jpg",
+			"credit": "插图：夏目雛子《けいおん!》pixiv #111841126",
+			"url": "https://www.pixiv.net/artworks/111841126"
+		}
+	]
+}

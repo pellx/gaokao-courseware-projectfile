@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|分子动理论的基本内容。",
+		"seconds": 2.592
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲物质由大量分子组成、分子在做无规则运动、分子间存在相互作用力，共八个考点。",
+		"seconds": 8.952
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，物体是由大量分子组成的。这里的分子是指做热运动时遵从相同规律的微粒，包括原子、离子。",
+		"seconds": 10.584
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|分子非常小：除一些有机物大分子外，分子直径的数量级一般为十的负十次方米。",
+		"seconds": 7.776
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|一滴水里就有大约十的二十一次方个水分子，数量多得惊人。",
+		"seconds": 5.904
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：十的负十次方米是数量级，不是每个分子的准确直径；不同分子大小不同。",
+		"seconds": 7.92
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，阿伏加德罗常数：一摩尔任何物质所含的粒子数都相同，N A等于六点零二乘十的二十三次方每摩尔。",
+		"seconds": 10.32
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|摩尔质量M、摩尔体积V 摩尔是宏观量，可以直接测量；分子质量、分子体积是微观量，无法直接测量。",
+		"seconds": 10.416
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|阿伏加德罗常数是联系宏观量与微观量的桥梁。",
+		"seconds": 4.824
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：N A的单位是每摩尔，不是单纯的一个数。",
+		"seconds": 4.752
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，微观量的关系。一个分子的质量m零等于M除以N A。",
+		"seconds": 6.912
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|对固体和液体，分子紧密排列，V 摩尔除以N A近似等于一个分子的体积。",
+		"seconds": 7.632
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|对气体，分子间距离很大，V 摩尔除以N A只是每个分子平均占有的空间，远大于分子本身的体积。",
+		"seconds": 9.816
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|物质的量n等于m除以M，分子数N等于n乘N A。",
+		"seconds": 5.28
+	},
+	"m5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能用气体的摩尔体积除以N A求气体分子本身的体积。",
+		"seconds": 6.24
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，扩散现象：不同物质能够彼此进入对方的现象。",
+		"seconds": 5.88
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|气体、液体、固体之间都能发生扩散，比如闻到花香、墨水在水中散开、长期压紧的铅块和金块互相渗入。",
+		"seconds": 10.824
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|扩散现象是物质分子无规则运动的直接结果。",
+		"seconds": 4.536
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|温度越高，扩散进行得越快。",
+		"seconds": 3.12
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：扩散不是外界作用引起的，也不是化学反应，而是分子自身运动的结果。",
+		"seconds": 7.608
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，布朗运动：悬浮在液体中的微粒做的永不停息的无规则运动，最早由布朗在显微镜下观察花粉时发现。",
+		"seconds": 10.296
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：液体分子从各个方向撞击微粒，撞击作用不平衡，微粒就会不停地无规则运动。",
+		"seconds": 8.592
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|微粒越小，撞击越不平衡；温度越高，液体分子运动越剧烈，布朗运动都越明显。",
+		"seconds": 8.088
+	},
+	"b3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这两个裹着连体衣、在空中乱飘的小人：布朗运动的方向和快慢随时在变，毫无规律。",
+		"seconds": 8.328
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：布朗运动是微粒的运动，不是分子的运动，它间接反映了液体分子的无规则运动。",
+		"seconds": 8.064
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，分子的热运动：分子永不停息的无规则运动叫作热运动。",
+		"seconds": 6.408
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|热运动与温度有关，温度越高，分子热运动越剧烈。",
+		"seconds": 5.136
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|扩散现象和布朗运动都说明分子在做无规则运动，而且温度越高越明显。",
+		"seconds": 7.464
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：即使在零摄氏度以下，分子热运动也不会停止。",
+		"seconds": 5.52
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，分子间的作用力。分子间同时存在引力和斥力，二者都随距离增大而减小，斥力减小得更快。",
+		"seconds": 10.368
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|距离r等于r零时，引力等于斥力，合力为零，r零的数量级约十的负十次方米。",
+		"seconds": 8.064
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|r小于r零时，合力表现为斥力；r大于r零时，合力表现为引力。",
+		"seconds": 6.912
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩面对面握着手，挨得近却不会撞在一起：分子也是这样，离远了相互吸引，靠太近又相互排斥，分子间既有引力又有斥力。",
+		"seconds": 12.576
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|距离大于r零的十倍左右时，分子力很弱，可以忽略。",
+		"seconds": 5.184
+	},
+	"f5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：r大于r零时斥力并没有消失，只是引力更大，合力表现为引力。",
+		"seconds": 7.176
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。显微镜下看到的是悬浮微粒，分子太小，光学显微镜看不到。",
+		"seconds": 8.448
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|布朗运动图中的折线，是每隔一定时间记录的微粒位置的连线，不是微粒的运动轨迹。",
+		"seconds": 7.872
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|两次记录之间，微粒仍在做无规则运动，路径比折线复杂得多。",
+		"seconds": 6.432
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|举着相机的金发女孩：就像每隔一段时间拍一张照，把照片里的位置连起来，才得到那条折线。",
+		"seconds": 8.736
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能说“显微镜下看到了分子的运动”，也不能把折线当成运动轨迹。",
+		"seconds": 6.984
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：分子直径数量级是十的负十次方米？对。判断二：气体摩尔体积除以阿伏加德罗常数是分子体积？错，是每个分子平均占有的空间。",
+		"seconds": 15
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：扩散是分子无规则运动的直接结果？对。判断四：布朗运动就是液体分子的运动？错，是悬浮微粒的运动。",
+		"seconds": 12.528
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：r大于r零时只有引力？错，引力斥力同时存在。判断六：布朗运动图中的折线是轨迹？错，是位置的连线。",
+		"seconds": 12.936
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|分子很小数量多，永不停息有引斥。下一期：分子运动速率分布与内能。",
+		"seconds": 7.464
+	}
+}

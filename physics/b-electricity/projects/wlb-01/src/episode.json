@@ -1,0 +1,127 @@
+{
+	"id": "WLB-01",
+	"title": "电荷与库仑定律",
+	"subject": "physics",
+	"book": "电学基础 · 第1期 / 共22期",
+	"points": [
+		"两种电荷",
+		"起电的本质",
+		"静电感应",
+		"电荷守恒定律",
+		"元电荷",
+		"点电荷",
+		"库仑定律",
+		"静电力的叠加"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"电荷",
+				true
+			],
+			[
+				"与库仑定律"
+			]
+		],
+		"subtitle": "起电 · 电荷守恒 · 元电荷 · 点电荷 · 库仑定律",
+		"photo": "coulomb.jpg",
+		"photoCaption": "库仑扭秤：库仑用它测出了电荷间作用力与距离的关系",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电荷",
+					true
+				],
+				[
+					"与库仑定律"
+				]
+			]
+		],
+		"photo": "coulomb.jpg",
+		"photoPos": {
+			"16x9": "center 40%",
+			"4x3": "center 40%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "库仑扭秤",
+		"credit": "C.-A. de Coulomb, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "マダンテゴロン",
+			"title": "あかりだよぉ〜",
+			"url": "https://www.pixiv.net/artworks/99947117"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "摩擦起电的过程创造了电荷",
+				"ok": false,
+				"fix": "只是电子的转移"
+			},
+			{
+				"q": "元电荷就是电子",
+				"ok": false,
+				"fix": "元电荷是最小的电荷量 e"
+			},
+			{
+				"q": "带电体的电荷量都是 e 的整数倍",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "体积很小的带电体一定能看成点电荷",
+				"ok": false,
+				"fix": "看形状大小的影响能否忽略"
+			},
+			{
+				"q": "库仑定律适用于真空中两个静止的点电荷",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "静电感应时导体近端带同种电荷",
+				"ok": false,
+				"fix": "近端带异种电荷"
+			}
+		],
+		"endTitle": [
+			[
+				"电荷",
+				true
+			],
+			[
+				"与库仑定律"
+			]
+		],
+		"endLine": "电荷不生也不灭，平方反比库仑力",
+		"slogan": "电荷不生也不灭，平方反比库仑力"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Charles-Augustin de Coulomb《Balance de Coulomb》（1785），公有领域；插图来自 pixiv：いこら@DQX、QB、マダンテゴロン（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：いこら@DQX《ゆるゆり～～》pixiv #145110308",
+			"url": "https://www.pixiv.net/artworks/145110308"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：QB《結束バンド》pixiv #151076795",
+			"url": "https://www.pixiv.net/artworks/151076795"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：マダンテゴロン《あーっはっはっは！！！》pixiv #93341487",
+			"url": "https://www.pixiv.net/artworks/93341487"
+		}
+	]
+}

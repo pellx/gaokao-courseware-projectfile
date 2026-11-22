@@ -1,0 +1,129 @@
+{
+	"id": "WLA-09",
+	"title": "力的合成和分解",
+	"subject": "physics",
+	"book": "力学 · 第9期 / 共32期",
+	"points": [
+		"合力与分力",
+		"共点力",
+		"平行四边形定则",
+		"合力的大小范围",
+		"力的分解",
+		"按作用效果分解",
+		"正交分解",
+		"矢量和标量"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"力的合成",
+				true
+			],
+			[
+				"和分解"
+			]
+		],
+		"subtitle": "等效替代 · 平行四边形定则 · 正交分解 · 矢量",
+		"photo": "stevin.jpg",
+		"photoCaption": "斯蒂文的“链球”图：斜面上的力可以分解，“奇迹并非奇迹”",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"力的合成",
+					true
+				]
+			],
+			[
+				[
+					"和分解"
+				]
+			]
+		],
+		"photo": "stevin.jpg",
+		"photoPos": {
+			"16x9": "center 50%",
+			"4x3": "center 50%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "斯蒂文",
+		"credit": "Simon Stevin, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "警備犬",
+			"title": "owo",
+			"url": "https://www.pixiv.net/artworks/133039775"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "合力与分力是等效替代关系",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "合力一定大于每一个分力",
+				"ok": false,
+				"fix": "合力可以大于、等于或小于分力"
+			},
+			{
+				"q": "两分力大小不变，夹角越大合力越大",
+				"ok": false,
+				"fix": "夹角越大，合力越小"
+			},
+			{
+				"q": "不加限制时，一个力可以分解为无数对分力",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "斜面上物体重力垂直斜面的分力就是物体对斜面的压力",
+				"ok": false,
+				"fix": "分力作用在物体上，压力作用在斜面上"
+			},
+			{
+				"q": "电流有方向，所以电流是矢量",
+				"ok": false,
+				"fix": "电流相加遵从算术法则，是标量"
+			}
+		],
+		"endTitle": [
+			[
+				"力的合成",
+				true
+			],
+			[
+				"和分解"
+			]
+		],
+		"endLine": "等效替代求合力，平行四边形定方向",
+		"slogan": "等效替代求合力，平行四边形定方向"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Simon Stevin《Wonder en is gheen wonder》（1586），公有领域；插图来自 pixiv：ニワ、miz、AlwaysBetabeats（侵删）",
+	"anime": [
+		{
+			"key": "hands",
+			"src": "hands.jpg",
+			"credit": "插图：ニワ《大人になったぼ虹》pixiv #149640555",
+			"url": "https://www.pixiv.net/artworks/149640555"
+		},
+		{
+			"key": "wave",
+			"src": "wave.jpg",
+			"credit": "插图：miz《櫻子》pixiv #143168292",
+			"url": "https://www.pixiv.net/artworks/143168292"
+		},
+		{
+			"key": "teach",
+			"src": "teach.jpg",
+			"credit": "插图：AlwaysBetabeats《Don't worry, I'm alright.》pixiv #146252680",
+			"url": "https://www.pixiv.net/artworks/146252680"
+		}
+	]
+}

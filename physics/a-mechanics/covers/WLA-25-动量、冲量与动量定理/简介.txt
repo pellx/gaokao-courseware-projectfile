@@ -1,0 +1,24 @@
+本期考点
+
+一、动量概念的提出（碰撞中的不变量 mv）
+二、动量 p = mv（kg·m/s，矢量，状态量）
+三、动量的变化量（Δp = p′ − p，与 Δv 同向）
+四、动量与动能（Ek = p²/2m，动量变动能不一定变）
+五、冲量（I = FΔt，矢量，过程量）
+六、变力的冲量（F-t 图像面积）
+七、动量定理（FΔt = mv′ − mv，合力的冲量）
+八、动量定理的意义（F = Δp/Δt，矢量式，平均力）
+九、用动量定理解释现象（延长作用时间减小作用力）
+
+图片来源
+1.Frans Hals《Portrait of René Descartes》（约 1649），公有领域（Wikimedia Commons）
+2.插图：QB《BOCCHI》
+https://www.pixiv.net/artworks/150895975
+3.插图：UMayer《k-on 田井中律》
+https://www.pixiv.net/artworks/148691180
+4.插图：E20《喜多ちゃん》
+https://www.pixiv.net/artworks/150280374
+5.封面插图：Quelcom《Yui Hirasawa》
+https://www.pixiv.net/artworks/149664173
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

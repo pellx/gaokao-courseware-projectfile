@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|向心力与生活中的圆周运动。",
+		"seconds": 3.096
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲向心力的定义和来源、变速圆周运动，以及火车转弯、拱形桥、失重和离心运动，共八个考点。",
+		"seconds": 9.816
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，向心力。做匀速圆周运动的物体，所受的合力指向圆心，这个合力叫向心力。",
+		"seconds": 9.24
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|大小F n等于m v平方除以r，也等于m欧米伽平方r，方向始终指向圆心，时刻在变。",
+		"seconds": 9
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|向心力的作用是改变速度的方向，不改变速度的大小。",
+		"seconds": 5.376
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：向心力是按效果命名的力，不是一种新的性质力。",
+		"seconds": 5.568
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，向心力的来源。它可以是重力、弹力、摩擦力中的某一个力。",
+		"seconds": 7.032
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以是几个力的合力，或者某个力的分力。",
+		"seconds": 4.152
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如绳拉小球在光滑水平面上转，绳的拉力提供向心力；圆锥摆中，重力与拉力的合力提供向心力。",
+		"seconds": 10.152
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：受力分析时只画重力、弹力、摩擦力等实际受到的力，不另画向心力。",
+		"seconds": 7.824
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，变速圆周运动。物体做圆周运动时速度大小也在变，合力就不指向圆心。",
+		"seconds": 8.52
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|把合力分解：指向圆心的分力F n，改变速度的方向。",
+		"seconds": 5.352
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|沿切线方向的分力F t，改变速度的大小。",
+		"seconds": 4.488
+	},
+	"v3b": {
+		"key": "zh-CN-XiaoxiaoNeural|橙色短发的女孩迈开步子往前跑，越跑越快：合力有了沿切线的分量，速度大小就跟着变。",
+		"seconds": 8.592
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：只有匀速圆周运动的合力才全部充当向心力。",
+		"seconds": 5.232
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，一般的曲线运动。轨迹上各处弯曲程度不同，不是圆周运动。",
+		"seconds": 7.152
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|可以把曲线分成许多很短的小段，每一小段都看作一小段圆弧。",
+		"seconds": 6
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|这些圆弧的半径不同，各处就用圆周运动的方法来分析。",
+		"seconds": 5.544
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：弯得越厉害的地方，对应圆弧的半径越小。",
+		"seconds": 4.896
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，火车转弯。弯道处外轨略高于内轨，轨道平面倾斜。",
+		"seconds": 6.84
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|以规定速度行驶时，重力和支持力的合力提供向心力，轮缘不挤压内外轨。",
+		"seconds": 7.488
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|由m g正切θ等于m v零平方除以r，得v零等于根号下g r正切θ。",
+		"seconds": 7.92
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：速度大于v零，轮缘挤压外轨；速度小于v零，挤压内轨。",
+		"seconds": 6.792
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，汽车过拱形桥。在最高点，m g减F N等于m v平方除以r，桥对车的支持力小于重力。",
+		"seconds": 10.536
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以车对桥的压力小于重力；速度越大，压力越小。",
+		"seconds": 5.544
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|当v等于根号下g r时，压力为零。",
+		"seconds": 3.864
+	},
+	"b3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个长着小翅膀的女孩一起举手：过拱形桥顶时车也像变轻了，压力比重力小。",
+		"seconds": 7.752
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|凹形路面最低点，F N减m g等于m v平方除以r，压力大于重力。",
+		"seconds": 7.08
+	},
+	"b5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：拱形桥顶压力小于重力，凹形路面底压力大于重力。",
+		"seconds": 6.24
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，航天器中的失重。航天器绕地球做匀速圆周运动，地球引力全部用来提供向心力。",
+		"seconds": 9.168
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|航天员也一样，引力全部提供他做圆周运动所需的向心力，对座椅的压力为零。",
+		"seconds": 7.464
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|航天员处于完全失重状态。",
+		"seconds": 3.024
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：完全失重不是不受重力，航天员仍受地球引力，只是引力全部用来提供向心力。",
+		"seconds": 8.688
+	},
+	"o1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，离心运动。合力突然消失时，物体沿切线方向飞出。",
+		"seconds": 6.6
+	},
+	"o2": {
+		"key": "zh-CN-XiaoxiaoNeural|合力不足以提供所需的向心力时，物体逐渐远离圆心。",
+		"seconds": 5.352
+	},
+	"o3": {
+		"key": "zh-CN-XiaoxiaoNeural|应用：洗衣机脱水筒，水滴附着力不够，被甩出去。危害要防止：汽车、火车转弯要限速。",
+		"seconds": 9.696
+	},
+	"o3b": {
+		"key": "zh-CN-XiaoxiaoNeural|气得眼泪横飞的红发女孩：泪珠离开脸颊时，沿切线方向飞出去。",
+		"seconds": 6.408
+	},
+	"o4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：并不存在“离心力”，离心运动是向心力不足的结果。",
+		"seconds": 5.76
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：向心力是一种新的性质力？错，按效果命名。判断二：受力分析要另画向心力？错。",
+		"seconds": 10.824
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：变速圆周运动的合力不指向圆心？对。判断四：火车以规定速度转弯，轮缘不挤压内外轨？对。",
+		"seconds": 11.784
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：汽车过拱形桥顶，压力大于重力？错，小于重力。判断六：离心运动是受到离心力？错，是向心力不足。",
+		"seconds": 12.696
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|向心力看效果，供不应求就离心。下一期：行星的运动与万有引力定律。",
+		"seconds": 7.584
+	}
+}

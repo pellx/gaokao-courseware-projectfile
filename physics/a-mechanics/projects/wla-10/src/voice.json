@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|共点力的平衡。",
+		"seconds": 1.944
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲平衡状态、平衡条件及其分量形式、三力平衡的矢量三角形，共七个考点。",
+		"seconds": 8.232
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，平衡状态。物体受到几个力作用时，保持静止或匀速直线运动的状态，叫平衡状态。",
+		"seconds": 9.504
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|平衡状态下，物体的速度不变，加速度为零。",
+		"seconds": 4.584
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|桌上静止的书、匀速上升的电梯里的人，都处于平衡状态。",
+		"seconds": 5.592
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个猫耳女孩窝在被炉里睡着了，一动不动：静止，就是平衡状态。",
+		"seconds": 6.624
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：平衡状态的标志是加速度为零，静止和匀速直线运动两种情况都算。",
+		"seconds": 7.824
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，平衡条件。在共点力作用下，物体处于平衡状态的条件是合力为零。",
+		"seconds": 8.136
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|写成式子就是F合等于零。",
+		"seconds": 3.144
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|由牛顿第二定律也能看出：合力为零，加速度就为零，速度保持不变。",
+		"seconds": 6.84
+	},
+	"b3b": {
+		"key": "zh-CN-XiaoxiaoNeural|指挥的女孩头顶坐着两个小人，稳稳不动：小人受的重力和支持力相互抵消，合力为零。",
+		"seconds": 8.544
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：合力为零与加速度为零互为充要，平衡条件对静止和匀速直线运动都成立。",
+		"seconds": 8.304
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，平衡条件的分量形式。把物体受到的各个力正交分解，",
+		"seconds": 6.6
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|则x方向的合力为零，y方向的合力也为零：F x合等于零，F y合等于零。",
+		"seconds": 8.16
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|两个方向的合力都为零，物体所受合力才为零。",
+		"seconds": 4.8
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：分量形式和F合等于零是同一个条件的两种写法。",
+		"seconds": 5.736
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，二力平衡与三力平衡。物体受两个力平衡时，这两个力等大、反向，作用在同一直线上。",
+		"seconds": 10.128
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|物体受三个力平衡时，任意两个力的合力与第三个力等大、反向。",
+		"seconds": 6.168
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|这样就把三力平衡转化成了二力平衡。",
+		"seconds": 4.104
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二力平衡的两个力作用在同一物体上；作用力和反作用力作用在两个物体上，不是平衡力。",
+		"seconds": 9.408
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，三力平衡的矢量关系。三个力合力为零，把它们的矢量首尾依次相接，",
+		"seconds": 7.872
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|就组成一个封闭的三角形：最后一个力的终点回到第一个力的起点。",
+		"seconds": 6.048
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|这是三角形定则的直接结果：合矢量为零，起点和终点重合。",
+		"seconds": 6.216
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：三力平衡，等价于三个力的矢量构成首尾相接的封闭三角形。",
+		"seconds": 6.864
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，多力平衡。物体受多个力平衡时，任意一个力与其余各力的合力等大、反向。",
+		"seconds": 8.64
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|几个物体组成的系统保持平衡时，系统所受外力的合力也为零。",
+		"seconds": 6.24
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|系统内物体之间的相互作用是内力，成对出现，不影响系统的平衡条件。",
+		"seconds": 6.912
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：对系统列平衡条件时只算外力，不算内力。",
+		"seconds": 5.496
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，概念辨析。速度为零不等于处于平衡状态。",
+		"seconds": 5.784
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|竖直上抛的物体到达最高点时，速度为零，但仍只受重力，合力不为零，加速度是g。",
+		"seconds": 8.592
+	},
+	"g2b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿恐龙连帽衫的女孩跳起来扑向空中，到最高点那一瞬间好像停住了，但重力还在，她马上就要下落。",
+		"seconds": 9.888
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断是否平衡，要看合力或加速度是否为零，而不是看速度。",
+		"seconds": 6.312
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：静止指速度持续为零，某一瞬间速度为零不叫静止，也不是平衡状态。",
+		"seconds": 7.752
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：匀速直线运动是平衡状态？对。判断二：平衡条件是合力为零？对。",
+		"seconds": 9.504
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：三力平衡时任意两力的合力与第三力等大反向？对。判断四：作用力和反作用力是平衡力？错，作用在两个物体上。",
+		"seconds": 13.632
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：三个力首尾相接组成封闭三角形？对。判断六：竖直上抛到最高点是平衡状态？错，合力不为零。",
+		"seconds": 11.952
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|平衡看合力，不看速度。下一期：牛顿第一定律。",
+		"seconds": 5.568
+	}
+}

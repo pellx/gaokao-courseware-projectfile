@@ -1,0 +1,131 @@
+{
+	"id": "WLB-10",
+	"title": "闭合电路的欧姆定律",
+	"subject": "physics",
+	"book": "电学基础 · 第10期 / 共22期",
+	"points": [
+		"闭合电路的组成",
+		"非静电力",
+		"电动势",
+		"闭合电路的欧姆定律",
+		"内电压与外电压",
+		"路端电压与负载",
+		"能量与功率",
+		"电源的 U-I 图像"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"闭合电路的",
+				false
+			],
+			[
+				"欧姆定律",
+				true
+			]
+		],
+		"subtitle": "电动势 · 内阻 · 路端电压 · 电源功率 · U-I 图像",
+		"photo": "volta.jpg",
+		"photoCaption": "伏打电堆：锌片、铜片和浸过盐水的布片层层叠起，是最早的化学电源",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"闭合电路的"
+				]
+			],
+			[
+				[
+					"欧姆定律",
+					true
+				]
+			]
+		],
+		"photo": "volta.jpg",
+		"photoPos": {
+			"16x9": "center 50%",
+			"4x3": "center 50%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "伏打电堆",
+		"credit": "Rama, CC BY-SA 3.0 FR",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "小胖胖胖胖王",
+			"title": "後藤ひとり",
+			"url": "https://www.pixiv.net/artworks/145952859"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电源内部没有电阻",
+				"ok": false,
+				"fix": "电源有内阻 r"
+			},
+			{
+				"q": "电动势由电源本身决定，与外电路无关",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "I = E/(R + r) 适用于任何外电路",
+				"ok": false,
+				"fix": "只适用于外电路为纯电阻"
+			},
+			{
+				"q": "外电阻增大时，路端电压增大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "外电路断路时，路端电压等于零",
+				"ok": false,
+				"fix": "断路时路端电压等于电动势"
+			},
+			{
+				"q": "电源 U-I 图线斜率的绝对值等于内阻",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"闭合电路的",
+				false
+			],
+			[
+				"欧姆定律",
+				true
+			]
+		],
+		"endLine": "E 等于内外电压之和，外阻越大路端电压越大",
+		"slogan": "E 等于内外电压之和，外阻越大路端电压越大"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Rama《Volta battery-MHS 373-IMG 3840-white》，CC BY-SA 3.0 FR；插图来自 pixiv：Rebecca、ニワ、いちみ＠C109東１ イ04a（侵删）",
+	"anime": [
+		{
+			"key": "push",
+			"src": "push.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ81》pixiv #143595898",
+			"url": "https://www.pixiv.net/artworks/143595898"
+		},
+		{
+			"key": "shades",
+			"src": "shades.jpg",
+			"credit": "插图：ニワ《虹夏ちゃん》pixiv #151090563",
+			"url": "https://www.pixiv.net/artworks/151090563"
+		},
+		{
+			"key": "gift",
+			"src": "gift.jpg",
+			"credit": "插图：いちみ＠C109東１ イ04a《喜多ちゃん誕生日2026》pixiv #143822778",
+			"url": "https://www.pixiv.net/artworks/143822778"
+		}
+	]
+}

@@ -1,0 +1,126 @@
+{
+	"id": "WLF-01",
+	"title": "实验基础：误差和有效数字",
+	"subject": "physics",
+	"book": "实验 · 第1期 / 共22期",
+	"points": [
+		"实验的基本要求",
+		"误差与错误",
+		"偶然误差",
+		"系统误差",
+		"绝对误差与相对误差",
+		"有效数字",
+		"读数与估读",
+		"数据处理方法"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"实验基础："
+			],
+			[
+				"误差和有效数字",
+				true
+			]
+		],
+		"subtitle": "误差 · 有效数字 · 估读 · 列表法 · 图像法",
+		"photo": "caliper.jpg",
+		"photoCaption": "游标卡尺：精度 0.05 mm，读数的位数反映测量的精度",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"实验基础",
+					false
+				]
+			],
+			[
+				[
+					"误差和有效数字",
+					true
+				]
+			]
+		],
+		"photo": "caliper.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "游标卡尺",
+		"credit": "R. Henrik Nilsson, CC BY 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Finerain",
+			"title": "ぼ喜多",
+			"url": "https://www.pixiv.net/artworks/146859605"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "误差就是测量中出现的错误",
+				"ok": false,
+				"fix": "误差不可避免，错误应当避免"
+			},
+			{
+				"q": "多次测量取平均值可以减小偶然误差",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "多次测量取平均值可以减小系统误差",
+				"ok": false,
+				"fix": "要校准仪器、改进原理和方法"
+			},
+			{
+				"q": "0.0350 m 有三位有效数字",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "19.0 mm 和 19 mm 精度相同",
+				"ok": false,
+				"fix": "末尾的 0 是有效数字，19.0 mm 更精确"
+			},
+			{
+				"q": "游标卡尺读数也要估读一位",
+				"ok": false,
+				"fix": "游标卡尺不估读"
+			}
+		],
+		"endTitle": [
+			[
+				"实验基础："
+			],
+			[
+				"误差和有效数字",
+				true
+			]
+		],
+		"endLine": "偶然误差靠平均，系统误差靠改进",
+		"slogan": "偶然误差靠平均，系统误差靠改进"
+	},
+	"credits": "图片来源：Wikimedia Commons —— R. Henrik Nilsson《Mid 1990s Kanon vernier scale caliper resolution 0 05 mm made in Japan with inset detail》，CC BY 4.0；插图来自 pixiv：Chrislu、まるよ％11/29負けケット、ミモリ（侵删）",
+	"anime": [
+		{
+			"key": "sleep",
+			"src": "sleep.jpg",
+			"credit": "插图：Chrislu《Sakurako delicious dream》pixiv #129634255",
+			"url": "https://www.pixiv.net/artworks/129634255"
+		},
+		{
+			"key": "drum",
+			"src": "drum.jpg",
+			"credit": "插图：まるよ％11/29負けケット《桜高でドラムをする虹夏ちゃん》pixiv #108101731",
+			"url": "https://www.pixiv.net/artworks/108101731"
+		},
+		{
+			"key": "chibi",
+			"src": "chibi.jpg",
+			"credit": "插图：ミモリ《デフォルメ結束バンド》pixiv #133408835",
+			"url": "https://www.pixiv.net/artworks/133408835"
+		}
+	]
+}

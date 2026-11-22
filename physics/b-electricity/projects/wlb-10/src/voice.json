@@ -1,0 +1,178 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|闭合电路的欧姆定律。",
+		"seconds": 2.472
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲电动势、内阻和闭合电路的欧姆定律，路端电压、电源的功率和U I图像，共八个考点。",
+		"seconds": 9.504
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，闭合电路的组成。电源、用电器和导线连成的回路，叫闭合电路。",
+		"seconds": 7.968
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|用电器和导线组成外电路；电源内部叫内电路。",
+		"seconds": 5.16
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|电源内部也有电阻，叫做内阻，用小写r表示。",
+		"seconds": 4.944
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|外电路中电流从正极流向负极；内电路中电流从负极流向正极。",
+		"seconds": 6.792
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：闭合电路等于外电路加内电路，电源并不是“没有电阻”的。",
+		"seconds": 6.24
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，非静电力。在外电路，正电荷在静电力作用下从正极流向负极。",
+		"seconds": 7.8
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|在电源内部，要把正电荷从负极搬回正极，静电力是阻碍它的，必须靠非静电力。",
+		"seconds": 7.992
+	},
+	"b2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个红头发女孩，伸手推了推一脸问号的粉头发女孩：非静电力就像这只手，推着电荷“逆流而上”。",
+		"seconds": 9.6
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|非静电力做功，把其他形式的能转化为电势能，比如化学电池把化学能转化为电势能。",
+		"seconds": 8.28
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电源就是通过非静电力做功，把其他形式的能转化为电势能的装置。",
+		"seconds": 7.416
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电动势。非静电力把正电荷从负极移送到正极所做的功，跟电荷量的比值，叫电动势。",
+		"seconds": 9.816
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|E等于W除以q，单位是伏特。",
+		"seconds": 3.504
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|电动势表征电源把其他形式的能转化为电势能的本领。",
+		"seconds": 5.448
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|它由电源中非静电力的特性决定，跟电源的体积无关，也跟外电路无关。",
+		"seconds": 6.6
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电动势和电压单位相同，但意义不同：电动势是非静电力做功，电压是静电力做功。",
+		"seconds": 9.216
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，闭合电路的欧姆定律。",
+		"seconds": 3.384
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|闭合电路的电流跟电源的电动势成正比，跟内、外电路的电阻之和成反比。",
+		"seconds": 7.488
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|I等于E除以括号R加r。",
+		"seconds": 3
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这个式子只适用于外电路是纯电阻的电路。",
+		"seconds": 5.088
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，电动势与内、外电压。电流流过外电路，产生外电压U外，也就是路端电压。",
+		"seconds": 8.736
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|电流流过内阻，也有电势降落，叫内电压，U内等于I r。",
+		"seconds": 6.024
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|电动势等于内、外电压之和：E等于U外加U内。",
+		"seconds": 5.136
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴心形墨镜、眨着一只眼的金发女孩：镜片挡掉一部分光；内阻也会“吃掉”一部分电压，到外电路就少了。",
+		"seconds": 9.768
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：路端电压U等于E减I r，电流越大，内电压越大，路端电压越小。",
+		"seconds": 7.704
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，路端电压与负载的关系。外电阻R增大，电流减小，内电压减小，路端电压增大。",
+		"seconds": 9.408
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|外电路断路时，电流为零，路端电压等于电动势。",
+		"seconds": 5.016
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|外电路短路时，R等于零，电流I等于E除以r，很大。",
+		"seconds": 5.856
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电源内阻一般很小，短路电流很大，绝不允许用导线把电源两极直接相连。",
+		"seconds": 8.112
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，闭合电路中的能量。把E等于U加I r两边乘以I t，得到E I t等于U I t加I平方r t。",
+		"seconds": 10.776
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|电源的总功率P总等于E I，输出功率P出等于U I，内阻的热功率P内等于I平方r。",
+		"seconds": 9.216
+	},
+	"g2b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发女孩紧紧抱住红头发女孩，礼物藏在身后：非静电力提供的能量，大部分送给外电路，一小部分留在内阻上发热。",
+		"seconds": 11.232
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|电源的效率η等于U除以E。",
+		"seconds": 3.312
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：P总等于P出加P内，这正是能量守恒在闭合电路中的体现。",
+		"seconds": 6.816
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，电源的U I图像。由U等于E减I r，路端电压随电流线性减小，图线是一条直线。",
+		"seconds": 9.48
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|纵轴截距表示I为零时的路端电压，等于电动势E。",
+		"seconds": 5.208
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|图线斜率的绝对值等于内阻r。",
+		"seconds": 3.336
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：直线越陡，内阻越大；纵轴截距越高，电动势越大。",
+		"seconds": 6.264
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电源内部没有电阻？错，电源有内阻。判断二：电动势由电源本身决定，与外电路无关？对。",
+		"seconds": 11.4
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：I等于E除以R加r适用于任何外电路？错，只适用于纯电阻。判断四：外电阻增大，路端电压增大？对。",
+		"seconds": 12.936
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：断路时路端电压等于零？错，等于电动势。判断六：U I图线斜率的绝对值等于内阻？对。",
+		"seconds": 11.352
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|E等于内外电压之和，外阻越大路端电压越大。下一期：磁场、磁感应强度与磁通量。",
+		"seconds": 9.264
+	}
+}

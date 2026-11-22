@@ -1,0 +1,129 @@
+{
+	"id": "WLA-17",
+	"title": "向心力与生活中的圆周运动",
+	"subject": "physics",
+	"book": "力学 · 第17期 / 共32期",
+	"points": [
+		"向心力",
+		"向心力的来源",
+		"变速圆周运动",
+		"一般的曲线运动",
+		"火车转弯",
+		"拱形桥与凹形路面",
+		"航天器中的失重",
+		"离心运动"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"向心力",
+				true
+			],
+			[
+				"与生活中的圆周运动"
+			]
+		],
+		"subtitle": "向心力 · 变速圆周运动 · 火车转弯 · 拱形桥 · 失重 · 离心运动",
+		"photo": "wla17.jpg",
+		"photoCaption": "旋转秋千：座椅绕中心转动，链条倾斜，拉力与重力的合力提供向心力",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"向心力",
+					true
+				]
+			],
+			[
+				[
+					"与生活中的圆周运动"
+				]
+			]
+		],
+		"photo": "wla17.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "旋转秋千",
+		"credit": "Dietmar Rabich, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "P-MAN",
+			"title": "結束バンド",
+			"url": "https://www.pixiv.net/artworks/103648410"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "向心力是物体受到的一种新的性质力",
+				"ok": false,
+				"fix": "按效果命名"
+			},
+			{
+				"q": "受力分析时要另外画上向心力",
+				"ok": false,
+				"fix": "不另画向心力"
+			},
+			{
+				"q": "变速圆周运动的合力不指向圆心",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "火车以规定速度转弯时轮缘不挤压内外轨",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "汽车过拱形桥最高点时对桥的压力大于重力",
+				"ok": false,
+				"fix": "压力小于重力"
+			},
+			{
+				"q": "离心运动是因为物体受到离心力",
+				"ok": false,
+				"fix": "是向心力不足"
+			}
+		],
+		"endTitle": [
+			[
+				"向心力",
+				true
+			],
+			[
+				"与生活中的圆周运动"
+			]
+		],
+		"endLine": "向心力看效果，供不应求就离心",
+		"slogan": "向心力看效果，供不应求就离心"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Dietmar Rabich《Münster, Schlossplatz, Herbstsend, Kettenkarussell -- 2024 -- 6454》，CC BY-SA 4.0；插图来自 pixiv：まるよ％11/29負けケット、Finerain、Ow（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：まるよ％11/29負けケット《金曜凛ちゃんりんりんりん》pixiv #150894720",
+			"url": "https://www.pixiv.net/artworks/150894720"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：Finerain《ぼ喜多》pixiv #147126849",
+			"url": "https://www.pixiv.net/artworks/147126849"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：Ow《무제》pixiv #150853660",
+			"url": "https://www.pixiv.net/artworks/150853660"
+		}
+	]
+}

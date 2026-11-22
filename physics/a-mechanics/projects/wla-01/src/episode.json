@@ -1,0 +1,129 @@
+{
+	"id": "WLA-01",
+	"title": "质点、参考系、时间与位移",
+	"subject": "physics",
+	"book": "力学 · 第1期 / 共32期",
+	"points": [
+		"物理学的研究方法",
+		"质点",
+		"参考系",
+		"坐标系",
+		"时刻与时间间隔",
+		"位移与路程",
+		"矢量与标量",
+		"直线运动的位置和位移"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"质点、参考系",
+				true
+			],
+			[
+				"时间与位移"
+			]
+		],
+		"subtitle": "理想模型 · 参考系 · 时刻 · 位移 · 矢量",
+		"photo": "copernicus.jpg",
+		"photoCaption": "哥白尼《天体运行论》中的日心体系图：以太阳为参考系，行星的运动简单得多",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"质点、参考系",
+					true
+				]
+			],
+			[
+				[
+					"时间与位移"
+				]
+			]
+		],
+		"photo": "copernicus.jpg",
+		"photoPos": {
+			"16x9": "center 50%",
+			"4x3": "center 50%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "哥白尼",
+		"credit": "Nicolaus Copernicus, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "マダンテゴロン",
+			"title": "櫻子いっぱい",
+			"url": "https://www.pixiv.net/artworks/101049451"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "体积很大的物体一定不能看成质点",
+				"ok": false,
+				"fix": "看大小、形状对所研究问题的影响能否忽略"
+			},
+			{
+				"q": "选不同的参考系，对同一运动的描述可能不同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "“第 3 s 内”指的是 3 s 长的时间间隔",
+				"ok": false,
+				"fix": "第 3 s 内只有 1 s"
+			},
+			{
+				"q": "位移的大小一定等于路程",
+				"ok": false,
+				"fix": "只有单向直线运动中才相等"
+			},
+			{
+				"q": "位移 −5 m 比 +3 m 小",
+				"ok": false,
+				"fix": "负号只表示方向，−5 m 更大"
+			},
+			{
+				"q": "x-t 图像表示位置随时间的变化，不是轨迹",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"质点、参考系",
+				true
+			],
+			[
+				"时间与位移"
+			]
+		],
+		"endLine": "质点看问题，位移看两端",
+		"slogan": "质点看问题，位移看两端"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nicolaus Copernicus《De revolutionibus orbium coelestium》日心体系图（1543），公有领域；插图来自 pixiv：よーな、maumau、AlwaysBetabeats（侵删）",
+	"anime": [
+		{
+			"key": "stage",
+			"src": "stage.jpg",
+			"credit": "插图：よーな《無題》pixiv #108549274",
+			"url": "https://www.pixiv.net/artworks/108549274"
+		},
+		{
+			"key": "train",
+			"src": "train.jpg",
+			"credit": "插图：maumau《結束バンド in 小田急下北沢駅》pixiv #146516989",
+			"url": "https://www.pixiv.net/artworks/146516989"
+		},
+		{
+			"key": "copies",
+			"src": "copies.jpg",
+			"credit": "插图：AlwaysBetabeats《HBD Kyouko!》pixiv #142833960",
+			"url": "https://www.pixiv.net/artworks/142833960"
+		}
+	]
+}

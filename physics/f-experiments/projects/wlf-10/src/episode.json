@@ -1,0 +1,138 @@
+{
+	"id": "WLF-10",
+	"title": "验证动量守恒定律",
+	"subject": "physics",
+	"book": "实验 · 第10期 / 共22期",
+	"points": [
+		"实验目的与思路",
+		"案例1的器材",
+		"案例1的操作要点",
+		"可研究的碰撞情形",
+		"案例2的原理",
+		"案例2的器材与要求",
+		"案例2的数据处理",
+		"实验结论与误差"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"验证",
+				false
+			],
+			[
+				"动量守恒",
+				true
+			],
+			[
+				"定律",
+				false
+			]
+		],
+		"subtitle": "气垫导轨 · 光电门 · 斜槽碰撞 · 落点代速度",
+		"photo": "cradle.jpg",
+		"photoCaption": "牛顿摆：钢球相互碰撞，动量在球之间传递",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"验证"
+				],
+				[
+					"动量守恒",
+					true
+				]
+			],
+			[
+				[
+					"定律"
+				]
+			]
+		],
+		"photo": "cradle.jpg",
+		"photoPos": "center",
+		"photoTag": "牛顿摆",
+		"credit": "The Dean of Physics, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "sakuzo",
+			"title": "チノちゃんとリゼちゃんとココアちゃん withティッピー",
+			"url": "https://www.pixiv.net/artworks/141144945"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "气垫导轨的作用是减小滑块受到的摩擦",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "计算动量时，反向运动的速度也取正值",
+				"ok": false,
+				"fix": "先规定正方向，反向速度取负值"
+			},
+			{
+				"q": "斜槽方案中，斜槽必须光滑",
+				"ok": false,
+				"fix": "不必光滑，同一位置由静止释放即可"
+			},
+			{
+				"q": "入射小球的质量应大于被碰小球的质量",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "斜槽方案用水平距离代替速度，因为两球飞行时间相同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "多次落点中最远的一个作为该球的落点",
+				"ok": false,
+				"fix": "用最小圆的圆心作为平均落点"
+			}
+		],
+		"endTitle": [
+			[
+				"验证",
+				false
+			],
+			[
+				"动量守恒",
+				true
+			],
+			[
+				"定律",
+				false
+			]
+		],
+		"endLine": "先定正方向，射程代速度",
+		"slogan": "先定正方向，射程代速度"
+	},
+	"credits": "图片来源：Wikimedia Commons —— The Dean of Physics《Newtons Cradle》，Wikimedia Commons，CC BY-SA 4.0；插图来自 pixiv：AlwaysBetabeats、あったまったま（侵删）",
+	"anime": [
+		{
+			"key": "apart",
+			"src": "apart.jpg",
+			"credit": "插图：AlwaysBetabeats《Let me hug you~~》pixiv #141806954",
+			"url": "https://www.pixiv.net/artworks/141806954"
+		},
+		{
+			"key": "stick",
+			"src": "stick.jpg",
+			"credit": "插图：AlwaysBetabeats《Chinayui》pixiv #139709547",
+			"url": "https://www.pixiv.net/artworks/139709547"
+		},
+		{
+			"key": "crowd",
+			"src": "crowd.jpg",
+			"credit": "插图：あったまったま《ようこそコルマールへ！》pixiv #141548989",
+			"url": "https://www.pixiv.net/artworks/141548989"
+		}
+	]
+}

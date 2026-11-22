@@ -1,0 +1,129 @@
+{
+	"id": "WLF-16",
+	"title": "探究影响感应电流方向的因素",
+	"subject": "physics",
+	"book": "实验 · 第16期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验思路",
+		"器材及作用",
+		"实验前的准备",
+		"实验步骤",
+		"记录方法",
+		"实验结论",
+		"楞次定律",
+		"易错提醒"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"感应电流",
+				true
+			],
+			[
+				"的方向"
+			]
+		],
+		"subtitle": "磁体插入抽出 · 电流表偏转 · 增反减同 · 楞次定律",
+		"photo": "induction.jpg",
+		"photoCaption": "法拉第1831年的电磁感应实验：小线圈插入大线圈，检流计指针偏转",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"探究影响",
+					false
+				],
+				[
+					"感应电流方向",
+					true
+				],
+				[
+					"的因素",
+					false
+				]
+			]
+		],
+		"photo": "induction.jpg",
+		"photoPos": "center",
+		"photoTag": "电磁感应",
+		"credit": "J. Lambert, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "鍵穴",
+			"title": "唯誕生日",
+			"url": "https://www.pixiv.net/artworks/103160190"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "实验所用电流表的零刻度应在表盘中央",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "实验前不必弄清线圈导线的绕向",
+				"ok": false,
+				"fix": "要弄清绕向才能推出感应电流的磁场方向"
+			},
+			{
+				"q": "磁通量增大时，感应电流的磁场与原磁场方向相同",
+				"ok": false,
+				"fix": "增大时相反，减小时相同"
+			},
+			{
+				"q": "感应电流的磁场总要阻碍引起感应电流的磁通量的变化",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "只要知道插入的是 N 极，就能确定感应电流方向",
+				"ok": false,
+				"fix": "还要知道磁通量是增大还是减小"
+			},
+			{
+				"q": "磁体在线圈中静止时，电流表指针不偏转",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"感应电流",
+				true
+			],
+			[
+				"的方向"
+			]
+		],
+		"endLine": "增反减同，来拒去留",
+		"slogan": "增反减同，来拒去留"
+	},
+	"credits": "图片来源：Wikimedia Commons —— J. Lambert《Induction experiment》（1892年电学教科书插图），公有领域；插图来自 pixiv：Quelcom、AZ!（あず）、Finerain（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：Quelcom《Yui Hirasawa》pixiv #139047523",
+			"url": "https://www.pixiv.net/artworks/139047523"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：AZ!（あず）《最近描いたゆるゆりまとめ２》pixiv #132440103",
+			"url": "https://www.pixiv.net/artworks/132440103"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：Finerain《ぼ喜多》pixiv #148335756",
+			"url": "https://www.pixiv.net/artworks/148335756"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+本期考点
+
+一、物理学的研究方法（实验与科学推理结合，建立理想化模型）
+二、质点（有质量的点；能否看成质点看所研究的问题）
+三、参考系（参考系不同，描述可能不同；通常选地面）
+四、坐标系（定量描述位置，直线运动用一维坐标轴）
+五、时刻与时间间隔（点与线段；第 3 s 内只有 1 s）
+六、位移与路程（有向线段与轨迹长度；单向直线运动才相等）
+七、矢量与标量（矢量的正负表示方向，不表示大小）
+八、直线运动的位置和位移（Δx = x₂ − x₁；x-t 图像不是轨迹）
+
+图片来源
+1.Nicolaus Copernicus《De revolutionibus orbium coelestium》日心体系图（1543），公有领域（Wikimedia Commons）
+2.插图：よーな《無題》
+https://www.pixiv.net/artworks/108549274
+3.插图：maumau《結束バンド in 小田急下北沢駅》
+https://www.pixiv.net/artworks/146516989
+4.插图：AlwaysBetabeats《HBD Kyouko!》
+https://www.pixiv.net/artworks/142833960
+5.封面插图：マダンテゴロン《櫻子いっぱい》
+https://www.pixiv.net/artworks/101049451
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

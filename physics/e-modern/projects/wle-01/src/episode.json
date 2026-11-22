@@ -1,0 +1,135 @@
+{
+	"id": "WLE-01",
+	"title": "相对论时空观与牛顿力学的局限性",
+	"subject": "physics",
+	"book": "近代物理 · 第1期 / 共9期",
+	"points": [
+		"牛顿力学时空观",
+		"光速不变的实验事实",
+		"爱因斯坦的两个假设",
+		"同时的相对性",
+		"时间延缓效应",
+		"长度收缩效应",
+		"牛顿力学的成就与局限",
+		"宇宙起源和演化"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"相对论时空观",
+				true
+			],
+			[
+				"与牛顿力学的局限性"
+			]
+		],
+		"subtitle": "光速不变 · 时间延缓 · 长度收缩 · 适用范围",
+		"photo": "einstein.jpg",
+		"photoCaption": "爱因斯坦：1905 年提出狭义相对论",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"相对论",
+					true
+				],
+				[
+					"时空观"
+				]
+			],
+			[
+				[
+					"牛顿力学"
+				],
+				[
+					"的局限性"
+				]
+			]
+		],
+		"photo": "einstein.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "爱因斯坦",
+		"credit": "Ferdinand Schmutzer, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Taqi99",
+			"title": "平沢憂, 鈴木純 & 中野梓",
+			"url": "https://www.pixiv.net/artworks/142399412"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "牛顿力学认为时间和空间是绝对的",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "在不同惯性参考系中测得的真空光速不同",
+				"ok": false,
+				"fix": "光速不变"
+			},
+			{
+				"q": "在一个参考系中同时的两个事件，在另一参考系中一定同时",
+				"ok": false,
+				"fix": "同时是相对的"
+			},
+			{
+				"q": "运动的物体沿运动方向的长度变短",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "相对论的建立完全否定了牛顿力学",
+				"ok": false,
+				"fix": "牛顿力学是特殊情形"
+			},
+			{
+				"q": "高速 μ 子寿命变长是时间延缓的证据",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"相对论时空观",
+				true
+			],
+			[
+				"与牛顿力学的局限性"
+			]
+		],
+		"endLine": "动钟变慢动尺短，低速宏观用牛顿",
+		"slogan": "动钟变慢动尺短，低速宏观用牛顿"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Ferdinand Schmutzer《Einstein 1921》（1921，Adam Cuerden 修复），公有领域；插图来自 pixiv：警備犬、AlwaysBetabeats、ごつもり（侵删）",
+	"anime": [
+		{
+			"key": "walk",
+			"src": "walk.jpg",
+			"credit": "插图：警備犬《owo》pixiv #146057115",
+			"url": "https://www.pixiv.net/artworks/146057115"
+		},
+		{
+			"key": "tease",
+			"src": "tease.jpg",
+			"credit": "插图：AlwaysBetabeats《Boo!!》pixiv #136905311",
+			"url": "https://www.pixiv.net/artworks/136905311"
+		},
+		{
+			"key": "pair",
+			"src": "pair.jpg",
+			"credit": "插图：ごつもり《ゆるゆりまとめ》pixiv #147610043",
+			"url": "https://www.pixiv.net/artworks/147610043"
+		}
+	]
+}

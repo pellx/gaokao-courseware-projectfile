@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|验证机械能守恒定律。",
+		"seconds": 2.832
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的目的、原理、器材、步骤、数据处理和误差，共八个考点。",
+		"seconds": 7.608
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。机械能守恒定律说：只有重力或弹力做功时，动能和势能相互转化，总的机械能保持不变。",
+		"seconds": 11.184
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|这个实验就是要验证：物体只受重力作用下落时，减少的重力势能是否等于增加的动能。",
+		"seconds": 8.616
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|最常用的情境是重物自由下落：空气阻力和摩擦都很小，可以近似认为只有重力做功。",
+		"seconds": 8.232
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个倒挂在树枝上的猫耳女孩：一松手就会自由下落，下落时只有重力做功，正是这个实验要的情境。",
+		"seconds": 9.576
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：验证的对象是“只有重力做功”的过程，比较的是两个变化量，而不是某一时刻的机械能。",
+		"seconds": 8.808
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验原理。重物下落高度德尔塔h，重力势能减少m g德尔塔h。",
+		"seconds": 8.352
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一过程中速度由v一变为v二，动能增加二分之一m v二平方减二分之一m v一平方。",
+		"seconds": 8.976
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|只要这两个量在误差允许范围内相等，就验证了机械能守恒。",
+		"seconds": 5.76
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|一块蛋糕从一个女孩手里递到另一个女孩面前，蛋糕一点没少：减少的势能全部变成了动能，总量不变。",
+		"seconds": 9.72
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：等式两边都含有质量m，可以约去，所以这个实验不需要测质量，天平不是必需的。",
+		"seconds": 8.616
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，参考案例一的器材。打点计时器竖直固定在铁架台上，纸带穿过限位孔，下端挂重物。",
+		"seconds": 9.84
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|纸带上的点迹记录了重物下落的时间和位置，用刻度尺量出下落的高度。",
+		"seconds": 6.624
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|重物要选质量大、体积小的，也就是密度大的，这样空气阻力相对重力就很小。",
+		"seconds": 7.32
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：重物不是越轻越好，轻而大的物体阻力影响大；器材里不需要秒表，时间由打点计时器给出。",
+		"seconds": 9.72
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，关键步骤。安装时让两个限位孔在同一条竖直线上，减小纸带与限位孔之间的摩擦。",
+		"seconds": 9.624
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|手提纸带上端，让重物靠近打点计时器，这样纸带能打出更多的点。",
+		"seconds": 6.768
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|先接通电源，待打点稳定后再松开纸带，让重物自由下落。",
+		"seconds": 5.976
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|重复几次，选点迹清晰的纸带进行测量。",
+		"seconds": 4.728
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：顺序不能颠倒，先松纸带再通电，开头的一段运动就没有记录下来，纸带也利用不充分。",
+		"seconds": 9
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，瞬时速度的求法。打点周期为T，第n点的速度用它前后相邻两段的平均速度来代替。",
+		"seconds": 9.288
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|写成公式：v n等于h n加一减h n减一，除以2T，h是各点到起始点的距离。",
+		"seconds": 8.4
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|这正是匀变速直线运动中，中间时刻的瞬时速度等于这段时间的平均速度。",
+		"seconds": 6.936
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能用v等于g t或v等于根号2g h计算速度，那等于先默认了机械能守恒，实验就失去了验证的意义。",
+		"seconds": 10.944
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，数据处理。方法一：在纸带上任取两点，比较g德尔塔h与二分之一v二平方减二分之一v一平方是否相等。",
+		"seconds": 12.144
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|方法二：以起始点为参考，验证g h等于二分之一v平方，这时要求第一个点是重物刚开始下落时打下的。",
+		"seconds": 10.032
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|方法三：图像法。以二分之一v平方为纵轴、h为横轴作图，若得到过原点的直线，且斜率接近g，就验证了机械能守恒。",
+		"seconds": 12.384
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：图像法用了多组数据，能减小偶然误差；二分之一v平方对h的图像，斜率是g，不是2g。",
+		"seconds": 9.984
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，参考案例二。把气垫导轨倾斜放置，滑块从高处由静止下滑，导轨上的气垫使摩擦几乎为零。",
+		"seconds": 10.728
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|滑块上装遮光条，宽度为d；光电门和数字计时器记下遮光时间德尔塔t，速度v等于d除以德尔塔t。",
+		"seconds": 10.416
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|再测出滑块经过两个光电门之间下降的高度，同样比较重力势能减少量与动能增加量。",
+		"seconds": 8.352
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：遮光条越窄，d除以德尔塔t越接近瞬时速度；重力势能的变化看的是下降高度，不是沿导轨的距离。",
+		"seconds": 10.848
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，误差来源。重物下落时受到空气阻力，纸带与限位孔之间有摩擦，一部分机械能转化为内能。",
+		"seconds": 10.416
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以测得的动能增加量总是略小于重力势能减少量，这是系统误差，多次测量取平均也消除不了。",
+		"seconds": 9.528
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|测量下落高度、读取点迹位置也会带来偶然误差，可以多次测量取平均。",
+		"seconds": 6.864
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|夕阳下拿着冰棍的四个女孩笑得很开心：数据整理完，结论在误差允许的范围内成立，实验就成功了。",
+		"seconds": 9.648
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：实验结论是，在误差允许的范围内，重力势能的减少量等于动能的增加量，机械能守恒。若测得动能增加量大于势能减少量，说明操作或测量有错误。",
+		"seconds": 15.648
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：必须用天平测重物质量？错，质量可以约去。判断二：重物选质量大、体积小的？对。",
+		"seconds": 10.8
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：先松纸带再接通电源？错，先通电后松手。判断四：用根号2g h求速度？错，要用前后两段的平均速度。",
+		"seconds": 13.224
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：二分之一v平方对h的图像过原点、斜率接近g？对。判断六：动能增加量略大于势能减少量？错，是略小于。",
+		"seconds": 13.512
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先通电后放手，速度靠纸带求。下一期：验证动量守恒定律。",
+		"seconds": 6.888
+	}
+}

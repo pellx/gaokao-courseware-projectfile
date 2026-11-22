@@ -1,0 +1,124 @@
+{
+	"id": "WLB-16",
+	"title": "质谱仪与回旋加速器",
+	"subject": "physics",
+	"book": "电学基础 · 第16期 / 共22期",
+	"points": [
+		"质谱仪的原理",
+		"质谱仪的用途",
+		"速度选择器",
+		"回旋加速器的构造",
+		"同步条件",
+		"最大动能",
+		"回旋加速器的局限"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"质谱仪",
+				true
+			],
+			[
+				"与回旋加速器"
+			]
+		],
+		"subtitle": "质谱仪 · 速度选择器 · 回旋加速器",
+		"photo": "cyclotron.jpg",
+		"photoCaption": "劳伦斯 27 英寸回旋加速器的 D 形盒（1935）",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"质谱仪",
+					true
+				]
+			],
+			[
+				[
+					"与回旋加速器"
+				]
+			]
+		],
+		"photo": "cyclotron.jpg",
+		"photoPos": "center",
+		"photoTag": "回旋加速器",
+		"credit": "John B. Livingood, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "E20",
+			"title": "虹夏ちゃん",
+			"url": "https://www.pixiv.net/artworks/148167649"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "质谱仪中，U、B 一定时，比荷越大的粒子半径越大",
+				"ok": false,
+				"fix": "r = (1/B)√(2mU/q)，比荷越大半径越小"
+			},
+			{
+				"q": "质谱仪可以用来分析同位素",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "速度选择器选出的速度与粒子的电荷量有关",
+				"ok": false,
+				"fix": "v = E/B，与电性、电荷量、质量无关"
+			},
+			{
+				"q": "回旋加速器中粒子在缝隙中被电场加速",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "提高加速电压可以增大回旋加速器引出粒子的最大动能",
+				"ok": false,
+				"fix": "Ekm 由 B 和 R 决定，与电压无关"
+			},
+			{
+				"q": "粒子回旋周期与它的速度无关",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"质谱仪",
+				true
+			],
+			[
+				"与回旋加速器"
+			]
+		],
+		"endLine": "电场加速磁场转，最大动能看 B 和 R",
+		"slogan": "电场加速磁场转，最大动能看 B 和 R"
+	},
+	"credits": "图片来源：Wikimedia Commons —— John B. Livingood《Lawrence 27 inch cyclotron dees 1935》，公有领域；插图来自 pixiv：奏、まこちあ、티비아래underdatv（侵删）",
+	"anime": [
+		{
+			"key": "hug",
+			"src": "hug.jpg",
+			"credit": "插图：奏《バンドリ雑まとめ3》pixiv #135226438",
+			"url": "https://www.pixiv.net/artworks/135226438"
+		},
+		{
+			"key": "think",
+			"src": "think.jpg",
+			"credit": "插图：まこちあ《SDユーベル》pixiv #145271200",
+			"url": "https://www.pixiv.net/artworks/145271200"
+		},
+		{
+			"key": "big",
+			"src": "big.jpg",
+			"credit": "插图：티비아래underdatv《아글라이아는 멋진 옷을 짜줬어!》pixiv #137432756",
+			"url": "https://www.pixiv.net/artworks/137432756"
+		}
+	]
+}

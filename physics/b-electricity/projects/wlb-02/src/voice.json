@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电场与电场强度。",
+		"seconds": 2.28
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲电场、电场强度、点电荷的电场、叠加、电场线和匀强电场，共八个考点。",
+		"seconds": 8.352
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，电场。电荷周围存在着一种特殊的物质，叫电场。",
+		"seconds": 6.48
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|电荷之间的相互作用是通过电场发生的：电荷 A 的电场对电荷 B 施力，反过来也一样。",
+		"seconds": 8.208
+	},
+	"f2b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑发女孩隔着几步远一招手，长椅上的两个金发女孩就转过头来：没有接触，作用照样传过去。电荷之间也一样，力通过电场传递。",
+		"seconds": 12.384
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：场和实物一样，是物质存在的一种形式，看不见摸不着，但客观存在。",
+		"seconds": 7.368
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，试探电荷与场源电荷。用来检验电场的电荷叫试探电荷。",
+		"seconds": 7.056
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|试探电荷的电荷量和尺寸都要充分小，放进去以后不影响原来的电场。",
+		"seconds": 6.84
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|激发电场的电荷，叫场源电荷。",
+		"seconds": 3.288
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电场由场源电荷产生，试探电荷只是“探测器”。",
+		"seconds": 5.736
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电场强度E等于F比q，是用比值定义的物理量，单位牛每库。",
+		"seconds": 7.248
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|电场强度由电场本身决定，与试探电荷的电荷量、受力都无关。",
+		"seconds": 6.432
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|它是矢量，方向与正电荷在该点所受静电力的方向相同。",
+		"seconds": 5.736
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：负电荷受力方向与电场强度方向相反；拿走试探电荷，电场强度不变。",
+		"seconds": 8.04
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，点电荷的电场：E等于kQ除以r的平方。",
+		"seconds": 5.304
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|电场强度由场源电荷Q和到它的距离r决定。",
+		"seconds": 4.776
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|正电荷的电场方向背离电荷，负电荷的电场方向指向电荷。",
+		"seconds": 6.12
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：E等于F比q是定义式，适用于任何电场；E等于kQ比r平方只适用于真空中点电荷。",
+		"seconds": 9.24
+	},
+	"q1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，电场强度的叠加。几个点电荷同时存在时，某点的电场强度是各个点电荷单独在该点产生的电场强度的矢量和。",
+		"seconds": 11.832
+	},
+	"q2": {
+		"key": "zh-CN-XiaoxiaoNeural|合成时遵从平行四边形定则。",
+		"seconds": 3.6
+	},
+	"q3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电场强度是矢量，叠加要考虑方向，不能直接把大小相加。",
+		"seconds": 6.696
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，电场线：为了形象描述电场而假想的线，实际并不存在。",
+		"seconds": 6.672
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|电场线从正电荷或无限远出发，终止于无限远或负电荷。",
+		"seconds": 5.928
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|电场线不相交；疏密表示电场强弱，某点的切线方向就是该点电场强度的方向。",
+		"seconds": 7.872
+	},
+	"l3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴猫耳帽的女孩被四个小伙伴的头像围得满满当当：电场线也一样，画得越密的地方，电场越强。",
+		"seconds": 9.144
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两条电场线之间没画线的地方，电场照样存在。",
+		"seconds": 5.544
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，匀强电场：各点电场强度的大小和方向都相同。",
+		"seconds": 5.904
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|它的电场线是间隔相等的平行直线。",
+		"seconds": 3.768
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|相距很近、带等量异种电荷的平行金属板之间，除边缘附近外，就是匀强电场。",
+		"seconds": 7.68
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：大小相同、方向也相同，两样都满足才叫匀强电场。",
+		"seconds": 6.72
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，电场线和运动轨迹。电场线不是带电粒子的运动轨迹。",
+		"seconds": 6.744
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|电场线的切线表示受力方向，而轨迹的切线表示速度方向，两者一般不同。",
+		"seconds": 7.44
+	},
+	"r2b": {
+		"key": "zh-CN-XiaoxiaoNeural|短发女孩探过身来提醒：只有三个条件同时满足，轨迹才和电场线重合。",
+		"seconds": 7.344
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只有电场线是直线、粒子只受静电力、初速度为零或沿电场线时，轨迹才与电场线重合。",
+		"seconds": 9.84
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电场强度与试探电荷电荷量成反比？错，由电场本身决定。判断二：电场强度方向与正电荷受力方向相同？对。",
+		"seconds": 13.752
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：E等于kQ比r平方适用于任何电场？错，只适用于点电荷。判断四：电场线可以相交？错。",
+		"seconds": 11.544
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：匀强电场的电场线是等间距平行直线？对。判断六：电场线就是粒子的运动轨迹？错，一般不重合。",
+		"seconds": 12.144
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|场强由场定，线密场就强。下一期：静电的防止与利用。",
+		"seconds": 6.264
+	}
+}

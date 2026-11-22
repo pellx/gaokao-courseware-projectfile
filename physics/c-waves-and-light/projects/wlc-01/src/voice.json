@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|机械波的形成与描述。",
+		"seconds": 2.52
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲机械波怎样形成、横波和纵波、波的图像，以及波长、周期和波速的关系，共九个考点。",
+		"seconds": 9.48
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，波的形成。绳子一端的波源上下振动，带动相邻的质点跟着振动。",
+		"seconds": 7.68
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|相邻质点再依次带动下一个，振动就由近及远地传播出去。",
+		"seconds": 5.784
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|后面的质点总比前面的质点晚一点开始振动，振动步调依次落后。",
+		"seconds": 6.288
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：介质中各质点开始振动的方向，都与波源开始振动的方向相同。",
+		"seconds": 7.032
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，机械波：机械振动在介质中的传播，叫机械波。",
+		"seconds": 5.952
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|产生机械波需要两个条件：要有波源，还要有传播振动的介质。",
+		"seconds": 6.12
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|水波、绳波、声波都是机械波；真空里没有介质，声音不能在真空中传播。",
+		"seconds": 7.824
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：只有振动、没有介质，不能形成机械波；有机械波一定有机械振动。",
+		"seconds": 7.44
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，波传递的是什么？传播的是振动这种运动形式。",
+		"seconds": 6.024
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|同时，波还传递能量和信息：地震波能摧毁房屋，声波能传递说话的内容。",
+		"seconds": 7.752
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|介质中的每个质点，只在各自的平衡位置附近振动。",
+		"seconds": 4.944
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：质点不随波迁移。水面上的树叶只会上下起伏，不会被波推着漂走。",
+		"seconds": 8.04
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，横波：质点振动方向与传播方向垂直，有凸起的波峰和凹下的波谷。",
+		"seconds": 7.896
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|纵波：质点振动方向与传播方向在同一直线上，有密部和疏部。",
+		"seconds": 6.648
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|声波是纵波；地震波既有横波，也有纵波。",
+		"seconds": 4.512
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：横波、纵波按振动方向与传播方向的关系区分，与波传得远近、快慢无关。",
+		"seconds": 8.256
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，波的图像。横轴 x 表示各质点的平衡位置。",
+		"seconds": 5.904
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|纵轴 y 表示某一时刻各质点偏离平衡位置的位移。",
+		"seconds": 5.088
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|简谐波的图像是一条正弦曲线，像是给这一时刻的波拍了一张照片。",
+		"seconds": 6.648
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：波的图像是某一时刻的“照片”，随着时间推移，整个波形沿传播方向平移。",
+		"seconds": 7.968
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，波长兰姆达：在振动中相位总是相同的两个相邻质点间的距离。",
+		"seconds": 7.104
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|横波中，相邻两个波峰或两个波谷之间的距离就是一个波长。",
+		"seconds": 5.928
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|质点振动一个周期 T，波恰好向前传播一个波长。",
+		"seconds": 4.848
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|所以波速v等于兰姆达除以T，等于兰姆达乘f。",
+		"seconds": 5.16
+	},
+	"l5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：波速是振动形式传播的速度，不是质点振动的速度。",
+		"seconds": 5.88
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，各量由什么决定。频率 f 由波源决定。",
+		"seconds": 5.448
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|波速 v 由介质决定：同一种机械波，在不同介质中传播速度不同。",
+		"seconds": 6.624
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|波长等于v除以f，由波源和介质共同决定。",
+		"seconds": 4.776
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个弹吉他的女孩：琴弦振动多快，由琴弦这个波源决定；琴声在空气中传多快，由空气这种介质决定。",
+		"seconds": 9.984
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：波从一种介质进入另一种介质，频率不变，波速和波长随之改变。",
+		"seconds": 7.344
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，质点振动方向与波的传播方向。沿传播方向，后面的质点重复前面质点的振动。",
+		"seconds": 9.288
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以只要知道波形和传播方向，就能确定各质点的振动方向。",
+		"seconds": 5.952
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|反过来，知道某个质点的振动方向，也能确定波的传播方向。",
+		"seconds": 5.712
+	},
+	"r3b": {
+		"key": "zh-CN-XiaoxiaoNeural|蓝头发女孩捧着礼物，要递给身边的金发同伴：振动也是这样，后一个质点接过前一个质点的振动，一个接一个往后传。",
+		"seconds": 10.704
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：波形图上，波峰两侧的质点振动方向相反。",
+		"seconds": 5.256
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，概念辨析：振动图像与波的图像。",
+		"seconds": 4.752
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|振动图像描述一个质点的位移随时间的变化，横轴是时间 t，可读出周期。",
+		"seconds": 7.296
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|波的图像描述某一时刻各质点的位移，横轴是位置 x，可读出波长。",
+		"seconds": 6.792
+	},
+	"v3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个眼神放空的粉头发小人：两种图像都是正弦曲线，长得一模一样，光看形状分不出来。",
+		"seconds": 8.448
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两种图像都是正弦曲线，先看横轴是时间还是位置，再读周期或波长。",
+		"seconds": 8.064
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：质点随波迁移？错，只在平衡位置附近振动。判断二：声波是纵波？对。",
+		"seconds": 9.624
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：波速就是质点振动的速度？错。判断四：波从空气进入水中频率不变？对。",
+		"seconds": 10.152
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：波速由波源决定？错，由介质决定。判断六：波的图像横轴是时间？错，是平衡位置。",
+		"seconds": 10.824
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|频率看波源，波速看介质。下一期：波的反射、折射、衍射、干涉与多普勒效应。",
+		"seconds": 9.096
+	}
+}

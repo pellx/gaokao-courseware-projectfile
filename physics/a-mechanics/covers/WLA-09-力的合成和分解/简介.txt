@@ -1,0 +1,23 @@
+本期考点
+
+一、合力与分力（等效替代关系）
+二、共点力（作用于同一点或作用线交于一点）
+三、平行四边形定则（邻边为分力，对角线为合力）
+四、合力的大小范围（|F₁ − F₂| ≤ F ≤ F₁ + F₂，夹角越大合力越小）
+五、力的分解（合成的逆运算，可分解为无数对分力）
+六、按作用效果分解（斜面上重力分解为 G sinθ 和 G cosθ）
+七、正交分解（Fx = F cosθ，Fy = F sinθ）
+八、矢量和标量（平行四边形定则（三角形定则）与算术法则）
+
+图片来源
+1.Simon Stevin《Wonder en is gheen wonder》（1586），公有领域（Wikimedia Commons）
+2.插图：ニワ《大人になったぼ虹》
+https://www.pixiv.net/artworks/149640555
+3.插图：miz《櫻子》
+https://www.pixiv.net/artworks/143168292
+4.插图：AlwaysBetabeats《Don't worry, I'm alright.》
+https://www.pixiv.net/artworks/146252680
+5.封面插图：警備犬《owo》
+https://www.pixiv.net/artworks/133039775
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

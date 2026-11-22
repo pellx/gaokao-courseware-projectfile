@@ -1,0 +1,127 @@
+{
+	"id": "WLB-02",
+	"title": "电场与电场强度",
+	"subject": "physics",
+	"book": "电学基础 · 第2期 / 共22期",
+	"points": [
+		"电场",
+		"试探电荷与场源电荷",
+		"电场强度",
+		"点电荷的电场",
+		"电场强度的叠加",
+		"电场线",
+		"匀强电场",
+		"电场线与轨迹"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"电场",
+				true
+			],
+			[
+				"与电场强度"
+			]
+		],
+		"subtitle": "电场强度 · 点电荷的电场 · 叠加 · 电场线 · 匀强电场",
+		"photo": "faraday.jpg",
+		"photoCaption": "法拉第：最早提出“场”的观念，并用力线描述电场",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电场",
+					true
+				],
+				[
+					"与电场强度"
+				]
+			]
+		],
+		"photo": "faraday.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "法拉第",
+		"credit": "Thomas Phillips, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ニワ",
+			"title": "ぼっちちゃん",
+			"url": "https://www.pixiv.net/artworks/147245147"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电场强度与试探电荷的电荷量成反比",
+				"ok": false,
+				"fix": "E 由电场本身决定"
+			},
+			{
+				"q": "电场强度方向与正电荷在该点所受静电力方向相同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "E = kQ/r² 适用于任何电场",
+				"ok": false,
+				"fix": "只适用于真空中点电荷"
+			},
+			{
+				"q": "电场线可以相交",
+				"ok": false,
+				"fix": "电场线不相交"
+			},
+			{
+				"q": "匀强电场的电场线是间隔相等的平行直线",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电场线就是带电粒子的运动轨迹",
+				"ok": false,
+				"fix": "一般不重合"
+			}
+		],
+		"endTitle": [
+			[
+				"电场",
+				true
+			],
+			[
+				"与电场强度"
+			]
+		],
+		"endLine": "场强由场定，线密场就强",
+		"slogan": "场强由场定，线密场就强"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Thomas Phillips《Michael Faraday》油画（1842），Wikimedia Commons，公有领域；插图来自 pixiv：まるよ％11/29負けケット、yachi、かぜくまなか（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：まるよ％11/29負けケット《桜高軽音部に混じってる虹夏ちゃん》pixiv #108122000",
+			"url": "https://www.pixiv.net/artworks/108122000"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：yachi《らーな誕！2026》pixiv #152047623",
+			"url": "https://www.pixiv.net/artworks/152047623"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：かぜくまなか《唯ちゃん》pixiv #137982433",
+			"url": "https://www.pixiv.net/artworks/137982433"
+		}
+	]
+}

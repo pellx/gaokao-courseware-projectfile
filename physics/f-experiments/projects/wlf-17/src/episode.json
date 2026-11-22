@@ -1,0 +1,131 @@
+{
+	"id": "WLF-17",
+	"title": "探究变压器原、副线圈电压与匝数的关系",
+	"subject": "physics",
+	"book": "实验 · 第17期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验原理",
+		"器材及作用",
+		"实验方法",
+		"安全与操作要求",
+		"数据处理",
+		"误差来源",
+		"实验结论",
+		"易错提醒"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"变压器",
+				true
+			],
+			[
+				"电压与匝数"
+			]
+		],
+		"subtitle": "可拆变压器 · 控制变量 · 低压交流 · U1/U2 = n1/n2",
+		"photo": "faraday-ring.png",
+		"photoCaption": "法拉第的感应线圈（1831）：铁环上绕两组线圈，是变压器的雏形",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"探究变压器",
+					true
+				]
+			],
+			[
+				[
+					"电压与匝数的关系",
+					false
+				]
+			]
+		],
+		"photo": "faraday-ring.png",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "历史装置",
+		"credit": "Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "はるゐろは",
+			"title": "秋コーデぼ喜多",
+			"url": "https://www.pixiv.net/artworks/123993908"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "变压器的工作原理是互感现象",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "实验中可以用 220 V 交流电源以获得更明显的现象",
+				"ok": false,
+				"fix": "只用低压交流电源，不超过 12 V"
+			},
+			{
+				"q": "测电压时应先用最大量程挡试测",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "实测副线圈电压一般略大于按匝数比算出的值",
+				"ok": false,
+				"fix": "有能量损失，略小于"
+			},
+			{
+				"q": "原线圈接直流电源时，副线圈两端也有稳定的电压",
+				"ok": false,
+				"fix": "磁通量不变，副线圈没有电压"
+			},
+			{
+				"q": "在误差允许范围内，U1/U2 = n1/n2",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"变压器",
+				true
+			],
+			[
+				"电压与匝数"
+			]
+		],
+		"endLine": "电压之比等匝数比，直流通不过变压器",
+		"slogan": "电压之比等匝数比，直流通不过变压器"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 法拉第感应线圈铁环插图，Wikimedia Commons《Faradays transformer》，公有领域；插图来自 pixiv：樟葉、さんちぇ、すちーるうーるー（侵删）",
+	"anime": [
+		{
+			"key": "guitar",
+			"src": "guitar.jpg",
+			"credit": "插图：樟葉《喜多ちゃん》pixiv #121872664",
+			"url": "https://www.pixiv.net/artworks/121872664"
+		},
+		{
+			"key": "cheer",
+			"src": "cheer.jpg",
+			"credit": "插图：さんちぇ《チア•虹夏ちゃん》pixiv #121615924",
+			"url": "https://www.pixiv.net/artworks/121615924"
+		},
+		{
+			"key": "family",
+			"src": "family.jpg",
+			"credit": "插图：すちーるうーるー《後藤・ざ・ろっく！》pixiv #123986353",
+			"url": "https://www.pixiv.net/artworks/123986353"
+		}
+	]
+}

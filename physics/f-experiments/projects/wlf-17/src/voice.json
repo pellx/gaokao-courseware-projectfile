@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|探究变压器原、副线圈电压与匝数的关系。",
+		"seconds": 4.608
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一期讲实验的原理、器材、方法、安全要求、数据处理和误差，共九个考点。",
+		"seconds": 7.752
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。变压器由原线圈、副线圈和闭合铁芯组成。",
+		"seconds": 7.344
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|本实验探究原、副线圈两端的电压与原、副线圈匝数之间的关系。",
+		"seconds": 6.624
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|与电源相连的叫原线圈，与负载相连的叫副线圈。",
+		"seconds": 5.352
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：要找的是U一、U二与n一、n二之间的关系。",
+		"seconds": 5.664
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验原理。原线圈中通入交变电流，在铁芯中产生交变的磁通量。",
+		"seconds": 8.304
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|铁芯把磁感线约束在里面，这个变化的磁通量也穿过副线圈。",
+		"seconds": 6
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|于是副线圈中产生感应电动势，两端就有了电压。",
+		"seconds": 5.304
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：变压器的工作原理是互感现象，靠的是变化的磁通量。",
+		"seconds": 6.192
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。可拆变压器：铁芯可以拆装，线圈上有多个接线柱，可以选用不同的匝数。",
+		"seconds": 9.816
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|学生电源提供低压交流电。",
+		"seconds": 3.12
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|多用电表的交流电压挡，测量原、副线圈两端的电压。",
+		"seconds": 5.4
+	},
+	"t3b": {
+		"key": "zh-CN-XiaoxiaoNeural|弹吉他的女孩，导线要插对接口才出声；线圈也一样，换一个接线柱，就换了一个匝数。",
+		"seconds": 8.256
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：测电压用的是多用电表的交流电压挡，不是直流挡。",
+		"seconds": 5.856
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，实验方法：控制变量法。",
+		"seconds": 3.744
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|先保持原线圈的电压和匝数不变，改变副线圈的匝数，测副线圈的电压。",
+		"seconds": 7.104
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|再保持副线圈的匝数不变，改变原线圈的匝数，测副线圈的电压。",
+		"seconds": 6.432
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：每次只改变一个量，才能看出副线圈电压随哪个匝数怎样变化。",
+		"seconds": 7.176
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，安全与操作要求。只用低压交流电源，所用电压不超过12伏。",
+		"seconds": 7.56
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|通电时，不用手接触裸露的导线和接线柱。",
+		"seconds": 4.248
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|测电压时，先用最大量程挡试测，再换用适当的挡位。",
+		"seconds": 5.448
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|拿着彩球的啦啦队女孩还在等口令：电路没检查好之前，先别通电。",
+		"seconds": 6.816
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：连接好电路并检查无误后，才能接通电源。",
+		"seconds": 5.28
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，数据处理。每次记录匝数n一、n二和电压U一、U二。",
+		"seconds": 7.296
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|分别算出电压之比U一比U二，和匝数之比n一比n二。",
+		"seconds": 5.784
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|比较两个比值是否相等。",
+		"seconds": 2.712
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：比较的是两个比值，不是单个电压或单个匝数。",
+		"seconds": 5.352
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，误差来源。实际变压器有能量损失。",
+		"seconds": 5.496
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|线圈有电阻会发热；铁芯中有涡流；还有一部分磁感线漏到铁芯外。",
+		"seconds": 6.816
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以实测的副线圈电压，略小于按匝数比算出的值。",
+		"seconds": 5.328
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：这种偏差总是偏向一侧，属于系统误差，多测几次取平均不能消除。",
+		"seconds": 7.728
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，实验结论。在误差允许的范围内，原、副线圈的电压之比等于匝数之比。",
+		"seconds": 8.4
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|即U一比U二等于n一比n二。",
+		"seconds": 3.432
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|没有能量损失的变压器叫理想变压器，它严格满足这个关系。",
+		"seconds": 5.832
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：副线圈匝数多，电压升高，是升压变压器；匝数少，是降压变压器。",
+		"seconds": 8.04
+	},
+	"x1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，易错提醒。原线圈接直流电源时，铁芯中的磁通量不变。",
+		"seconds": 7.104
+	},
+	"x2": {
+		"key": "zh-CN-XiaoxiaoNeural|磁通量不变，副线圈中没有感应电动势，两端没有电压。",
+		"seconds": 5.664
+	},
+	"x3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁芯没有装好、不闭合时，漏磁很多，副线圈电压明显偏小。",
+		"seconds": 6.384
+	},
+	"x3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这一家人胳膊挽着胳膊，手拉着手连成一串：铁芯也要这样合拢，磁感线才不会漏出去。",
+		"seconds": 8.184
+	},
+	"x4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：变压器不能改变直流电压；铁芯要装好、闭合。",
+		"seconds": 5.952
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：变压器靠互感工作？对。判断二：可以用二百二十伏交流电？错，不超过十二伏的低压交流。",
+		"seconds": 11.088
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：先用最大量程挡试测？对。判断四：实测副线圈电压略大于计算值？错，有能量损失，略小于。",
+		"seconds": 12.144
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：原线圈接直流，副线圈也有电压？错，磁通量不变就没有电压。判断六：电压比等于匝数比？对。",
+		"seconds": 12.072
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|电压之比等匝数比，直流通不过变压器。下一期：利用传感器制作简单的自动控制装置。",
+		"seconds": 9.144
+	}
+}

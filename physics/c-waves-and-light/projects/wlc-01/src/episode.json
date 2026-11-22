@@ -1,0 +1,130 @@
+{
+	"id": "WLC-01",
+	"title": "机械波的形成与描述",
+	"subject": "physics",
+	"book": "波动与光 · 第1期 / 共8期",
+	"points": [
+		"波的形成",
+		"机械波",
+		"波传递什么",
+		"横波和纵波",
+		"波的图像",
+		"波长、周期和波速",
+		"各量由什么决定",
+		"振动方向与传播方向",
+		"振动图像与波的图像"
+	],
+	"intro": {
+		"badge": "高考物理 · 波动与光",
+		"title": [
+			[
+				"机械波",
+				true
+			],
+			[
+				"的形成与描述"
+			]
+		],
+		"subtitle": "横波纵波 · 波的图像 · v = λf",
+		"photo": "huygens.jpg",
+		"photoCaption": "惠更斯：最早系统提出光的波动理论的物理学家",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"机械波",
+					true
+				]
+			],
+			[
+				[
+					"的形成与描述"
+				]
+			]
+		],
+		"photo": "huygens.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "惠更斯",
+		"credit": "Caspar Netscher, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "美川みかん",
+			"title": "「にゃ～」",
+			"url": "https://www.pixiv.net/artworks/142533052"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "介质中的质点会随波向前迁移",
+				"ok": false,
+				"fix": "质点只在平衡位置附近振动"
+			},
+			{
+				"q": "声波是纵波",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "波速就是质点振动的速度",
+				"ok": false,
+				"fix": "波速是振动形式传播的速度"
+			},
+			{
+				"q": "波从空气进入水中，频率不变",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "波速由波源决定",
+				"ok": false,
+				"fix": "波速由介质决定"
+			},
+			{
+				"q": "波的图像横轴表示时间",
+				"ok": false,
+				"fix": "横轴表示各质点的平衡位置"
+			}
+		],
+		"endTitle": [
+			[
+				"机械波",
+				true
+			],
+			[
+				"的形成与描述"
+			]
+		],
+		"endLine": "频率看波源，波速看介质",
+		"slogan": "频率看波源，波速看介质"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Caspar Netscher《Christiaan Huygens》（1671），公有领域；插图来自 pixiv：Shih Lion、miz、QB（侵删）",
+	"anime": [
+		{
+			"key": "guitar",
+			"src": "guitar.jpg",
+			"credit": "插图：Shih Lion《君がそばにいてくれるから》pixiv #152226063",
+			"url": "https://www.pixiv.net/artworks/152226063"
+		},
+		{
+			"key": "gift",
+			"src": "gift.jpg",
+			"credit": "插图：miz《ひまさく》pixiv #146122873",
+			"url": "https://www.pixiv.net/artworks/146122873"
+		},
+		{
+			"key": "stand",
+			"src": "stand.jpg",
+			"credit": "插图：QB《anon》pixiv #152090815",
+			"url": "https://www.pixiv.net/artworks/152090815"
+		}
+	]
+}

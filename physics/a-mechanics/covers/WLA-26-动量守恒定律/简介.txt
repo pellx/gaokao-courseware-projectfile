@@ -1,0 +1,23 @@
+本期考点
+
+一、系统、内力和外力（内外力取决于系统选取）
+二、定律的推导（牛顿第三定律 + 动量定理）
+三、动量守恒定律（不受外力或外力矢量和为 0）
+四、近似守恒与分方向守恒（内力远大于外力；某方向外力为 0）
+五、表达式的含义（矢量式、同一参考系、任意时刻）
+六、动量守恒与机械能守恒（条件不同，互不保证）
+七、与牛顿运动定律的关系（只看始末状态）
+八、动量守恒定律的普适性（高速、微观同样成立）
+
+图片来源
+1.Isaac Newton《Philosophiae Naturalis Principia Mathematica》1687 年初版扉页，公有领域（Wikimedia Commons）
+2.插图：たかたか《結束バンド》
+https://www.pixiv.net/artworks/134640971
+3.插图：Yukihime Bskv《Special feeling》
+https://www.pixiv.net/artworks/148816533
+4.插图：Jess！《自作『けいおん！』壁紙！》
+https://www.pixiv.net/artworks/147513553
+5.封面插图：ニワ《思い出す》
+https://www.pixiv.net/artworks/147785252
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除
