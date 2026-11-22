@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|平衡图像与条件选择。",
+		"seconds": 2.64
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|原理大题必考：读多曲线图像、解释产率先增后减、说明为什么选这个条件，共七个考点。",
+		"seconds": 8.832
+	},
+	"vt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，速率-时间图：看t一时刻正逆速率的变化判断改变了什么条件。",
+		"seconds": 7.344
+	},
+	"vt2": {
+		"key": "zh-CN-XiaoxiaoNeural|两条线都跳跃：改变了温度或压强。逆反应速率跳得更高，平衡逆向移动。比如放热反应升温。",
+		"seconds": 9.792
+	},
+	"vt3": {
+		"key": "zh-CN-XiaoxiaoNeural|一条线连续、一条线跳跃：改变了某种物质的浓度。两条线同等跳跃且平行：加了催化剂，或等体积反应改变压强。",
+		"seconds": 11.592
+	},
+	"vt4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先看是跳跃还是连续，再看谁在上面：正反应速率在上，平衡正移。",
+		"seconds": 8.136
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，浓度-时间图：浓度不再变化的时刻就是达到平衡的时刻。",
+		"seconds": 6.792
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|各物质浓度变化量之比等于化学计量数之比，可以用来反推方程式。",
+		"seconds": 6.504
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|曲线没有降到 0，说明是可逆反应；起始浓度不为 0 的生成物，要注意原来就有。",
+		"seconds": 7.536
+	},
+	"ct3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四格画里四个女孩各有表情：多条曲线放在一起，一条一条对着看，别看串了。",
+		"seconds": 7.68
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：平衡时浓度不变，但各物质浓度不一定相等；交点不是平衡点。",
+		"seconds": 7.128
+	},
+	"fx1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，“定一议二”：图上有温度、压强两个变量时，先固定一个，再看另一个怎么影响纵轴。",
+		"seconds": 8.976
+	},
+	"fx2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：横轴温度，纵轴平衡转化率，两条线是不同压强。固定压强看：温度升高，转化率下降，正反应放热。",
+		"seconds": 11.424
+	},
+	"fx3": {
+		"key": "zh-CN-XiaoxiaoNeural|固定温度画一条竖线：p一的转化率更高。如果正反应气体分子数减小，就说明p一大于p二。",
+		"seconds": 9.408
+	},
+	"fx4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：在图上画一条竖线或横线，只比较线上的点，变量就只剩一个。",
+		"seconds": 7.248
+	},
+	"fr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，先拐先平数值大：含量时间图中，先出现拐点、先变平的曲线，反应速率快，对应的温度更高或压强更大。",
+		"seconds": 11.424
+	},
+	"fr2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：T一先拐，所以T一大于T二。T一时生成物的平衡含量更低，说明升温平衡逆移，正反应放热。",
+		"seconds": 10.536
+	},
+	"fr2b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩第一个跳起来喊“K-ON!”：先到终点的，就是温度更高、速率更快的那一个。",
+		"seconds": 7.8
+	},
+	"fr3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果两条线平台一样高，只是一个先到，说明是加了催化剂。",
+		"seconds": 5.784
+	},
+	"fr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：分两步：先比拐点定条件大小，再比平台高度定平衡移动方向。",
+		"seconds": 7.752
+	},
+	"pk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，产率随温度“先增后减”：横轴温度，纵轴是相同时间内测得的产率。",
+		"seconds": 7.752
+	},
+	"pk2": {
+		"key": "zh-CN-XiaoxiaoNeural|最高点之前：反应未达平衡，升温速率加快，相同时间内产率增大。",
+		"seconds": 7.104
+	},
+	"pk3": {
+		"key": "zh-CN-XiaoxiaoNeural|最高点之后：反应已达平衡，正反应放热，升温平衡逆移，产率下降；也可能是催化剂活性下降或副反应增多。",
+		"seconds": 10.944
+	},
+	"pk4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：低于T零时，反应未达平衡，升温速率加快，产率增大；高于T零时，反应已达平衡，正反应放热，升温平衡逆向移动，产率减小。",
+		"seconds": 14.088
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，选择性与竞争反应，课本没有，北京卷原理大题常考：同样的反应物同时发生主反应和副反应。",
+		"seconds": 10.32
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择性等于生成目标产物消耗的反应物 ÷ 反应物总消耗量乘100%。转化率高，选择性不一定高。",
+		"seconds": 10.008
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|提高选择性的办法：选择合适的催化剂、控制合适的温度；催化剂对主反应的加快作用更明显。",
+		"seconds": 9
+	},
+	"se3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩趴在键盘前笑：一个反应物，好几条路可走，催化剂帮你选中想要的那条。",
+		"seconds": 8.04
+	},
+	"se4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：温度升高，主反应速率加快，但如果副反应加快更多，目标产物的选择性反而下降。",
+		"seconds": 8.952
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，条件选择的答题模板。温度：温度过低，反应速率慢；温度过高，平衡逆移，或者催化剂活性降低、副反应增多。",
+		"seconds": 12.408
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|压强：“增大压强平衡正移、速率加快，但压强过大对设备要求高，成本增加。”",
+		"seconds": 8.376
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|投料比：“适当增大廉价原料的比例，提高贵重原料的转化率；但比例过大，产物的含量会降低。”",
+		"seconds": 9.096
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：条件选择题要同时说速率、平衡、成本；先说好处，再说过高或过低的坏处。",
+		"seconds": 9.24
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：两条线都连续，改变了温度？错，温度改变会跳跃。判断二：浓度曲线的交点是平衡点？错，浓度不变才是平衡。",
+		"seconds": 13.128
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：先拐的温度更高？对。判断四：平台一样高只是先拐，可能是催化剂？对。",
+		"seconds": 9.888
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：产率最高点之前已达平衡？错，之前未达平衡。判断六：转化率高选择性一定高？错，还有副反应。",
+		"seconds": 12.432
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|定一议二，先拐先平，前看速率后看平衡。下一期：溶液中的图像。",
+		"seconds": 7.32
+	}
+}

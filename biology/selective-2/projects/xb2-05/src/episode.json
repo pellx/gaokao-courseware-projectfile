@@ -1,0 +1,38 @@
+{
+	"id": "XB2-05",
+	"title": "群落的主要类型",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第2章",
+	"points": ["群落类型的划分", "荒漠生物群落", "草原生物群落", "森林生物群落", "湿地与海洋群落", "生物适应环境"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["群落的"], ["主要类型", true]],
+		"subtitle": "荒漠 · 草原 · 森林 · 湿地",
+		"photo": "dune.jpg",
+		"photoCaption": "荒漠中的沙丘",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["群落的"]], [["主要类型", true]]],
+		"kicker": "荒漠 · 草原 · 森林",
+		"photo": "dune.jpg",
+		"photoPos": "center center",
+		"photoTag": "荒漠：沙丘与风纹",
+		"credit": "Photo: Hezi Yizhaq, CC BY 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "荒漠爬行动物以尿素排出含氮废物", "ok": false, "fix": "以固态尿酸盐的形式排泄"},
+			{"q": "草原动物大都善于挖洞或快速奔跑", "ok": true, "fix": ""},
+			{"q": "阴生植物叶绿体颗粒小、呈浅绿色", "ok": false, "fix": "颗粒大、呈深绿色"},
+			{"q": "草原上乔木非常少见", "ok": true, "fix": ""},
+			{"q": "群落类型主要依据外貌和物种组成划分", "ok": true, "fix": ""},
+			{"q": "荒漠群落物种少，结构非常复杂", "ok": false, "fix": "结构非常简单"}
+		],
+		"endTitle": [["群落的"], ["主要类型", true]],
+		"endLine": "荒漠 · 草原 · 森林 · 湿地 · 生物与环境相适应",
+		"slogan": "看水分定类型，看结构找适应！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Hezi Yizhaq《Complex Ripples in Sand Dune in Negev Desert》CC BY 3.0"
+}

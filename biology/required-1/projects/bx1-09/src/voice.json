@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第三章第二节——细胞器之间的分工合作的上半部分：细胞器之间的分工。",
+		"seconds": 10.464
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考各种细胞器的结构和功能，以及按膜、成分和分布给细胞器归类。",
+		"seconds": 7.176
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"cf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分离细胞器的方法——差速离心法。先破坏细胞膜，形成由各种细胞器和细胞中其他物质组成的匀浆。",
+		"seconds": 10.704
+	},
+	"cf2": {
+		"key": "zh-CN-XiaoxiaoNeural|再用逐渐提高离心速率的方法分离不同大小的颗粒：颗粒越大，越先沉降。",
+		"seconds": 7.248
+	},
+	"cf3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：差速离心是逐渐提高转速；要和证明DNA半保留复制用的密度梯度离心区分开。",
+		"seconds": 8.832
+	},
+	"mt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，线粒体。线粒体是细胞进行有氧呼吸的主要场所，是细胞的“动力车间”。",
+		"seconds": 8.136
+	},
+	"mt2": {
+		"key": "zh-CN-XiaoxiaoNeural|线粒体具有双层膜，内膜的某些部位向内腔折叠形成嵴，增大了膜面积。",
+		"seconds": 7.392
+	},
+	"mt3": {
+		"key": "zh-CN-XiaoxiaoNeural|线粒体中含有少量的DNA和RNA，能合成一部分自身需要的蛋白质。",
+		"seconds": 6.912
+	},
+	"mt4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：代谢旺盛的细胞，如心肌细胞，线粒体多。易错：线粒体不能直接分解葡萄糖，进入线粒体的是丙酮酸。",
+		"seconds": 11.256
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，叶绿体。叶绿体是光合作用的场所，是植物细胞的“养料制造车间”和“能量转换站”。",
+		"seconds": 9.048
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|叶绿体也有双层膜，内部有许多基粒，每个基粒由一个个圆饼状的类囊体堆叠而成。",
+		"seconds": 7.944
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|类囊体的薄膜上分布着光合色素；叶绿体中也含有少量的DNA和RNA。",
+		"seconds": 7.416
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：植物细胞不一定都有叶绿体，如根尖细胞；能光合作用的也不一定有叶绿体，如蓝细菌。",
+		"seconds": 9.288
+	},
+	"er1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，内质网和高尔基体。内质网是由膜连接而成的网状结构，是蛋白质等大分子的合成、加工场所和运输通道。",
+		"seconds": 11.64
+	},
+	"er2": {
+		"key": "zh-CN-XiaoxiaoNeural|粗面内质网上附着有核糖体；光面内质网是脂质合成的场所。",
+		"seconds": 6.504
+	},
+	"er3": {
+		"key": "zh-CN-XiaoxiaoNeural|高尔基体主要对来自内质网的蛋白质进行加工、分类和包装，是“车间”及“发送站”。",
+		"seconds": 7.968
+	},
+	"er4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：高尔基体在植物细胞中与细胞壁的形成有关，在动物细胞中与分泌物的形成有关。",
+		"seconds": 8.592
+	},
+	"ly1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，溶酶体和液泡。溶酶体内部含有多种水解酶，是细胞的“消化车间”。",
+		"seconds": 7.776
+	},
+	"ly2": {
+		"key": "zh-CN-XiaoxiaoNeural|它能分解衰老、损伤的细胞器，吞噬并杀死侵入细胞的病毒或细菌。",
+		"seconds": 6.888
+	},
+	"ly3": {
+		"key": "zh-CN-XiaoxiaoNeural|液泡主要存在于植物细胞中，内有细胞液，含糖类、无机盐、色素和蛋白质等，可以调节细胞内的环境，使植物细胞保持坚挺。",
+		"seconds": 12.216
+	},
+	"ly4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：溶酶体的水解酶是在核糖体上合成的；花瓣、果实的颜色来自液泡中的色素。",
+		"seconds": 8.424
+	},
+	"nm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，核糖体、中心体和细胞骨架。核糖体是“生产蛋白质的机器”，有的附着在内质网上，有的游离在细胞质中。",
+		"seconds": 11.664
+	},
+	"nm2": {
+		"key": "zh-CN-XiaoxiaoNeural|中心体见于动物和某些低等植物细胞，由两个互相垂直的中心粒及周围物质组成，与细胞的有丝分裂有关。",
+		"seconds": 9.864
+	},
+	"nm3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞骨架是由蛋白质纤维组成的网架结构，维持细胞的形态，锚定并支撑着许多细胞器。",
+		"seconds": 8.664
+	},
+	"nm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：细胞骨架的成分是蛋白质，不是纤维素；高等植物细胞没有中心体。",
+		"seconds": 7.56
+	},
+	"sm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，细胞器的归纳。双层膜：线粒体、叶绿体；无膜：核糖体、中心体；其余是单层膜。",
+		"seconds": 10.2
+	},
+	"sm2": {
+		"key": "zh-CN-XiaoxiaoNeural|含核酸的：线粒体、叶绿体含DNA和RNA，核糖体只含RNA。",
+		"seconds": 7.152
+	},
+	"sm3": {
+		"key": "zh-CN-XiaoxiaoNeural|含色素的：叶绿体和液泡。叶绿体存在于绿色植物能进行光合作用的细胞中，液泡主要存在于植物细胞中；中心体见于动物和某些低等植物细胞。",
+		"seconds": 13.896
+	},
+	"sm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：按膜层数、含核酸、含色素、分布四个维度列表记忆，题目问哪个维度就查哪一列。",
+		"seconds": 9.408
+	},
+	"ob1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，用高倍显微镜观察叶绿体和细胞质的流动。常用藓类的叶或黑藻的叶，叶片薄，可以直接制成装片。",
+		"seconds": 11.04
+	},
+	"ob2": {
+		"key": "zh-CN-XiaoxiaoNeural|用菠菜叶时，要撕取稍带些叶肉的下表皮，因为靠近下表皮的叶肉细胞中，叶绿体大而数目少。",
+		"seconds": 9.288
+	},
+	"ob3": {
+		"key": "zh-CN-XiaoxiaoNeural|观察细胞质的流动，以叶绿体的运动作为标志；临时装片要随时保持有水的状态。",
+		"seconds": 7.776
+	},
+	"ob4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：视野中细胞质环流的方向与实际方向相同；观察叶绿体不需要染色。",
+		"seconds": 7.68
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，是逐渐提高转速。判断二？错，进入线粒体的是丙酮酸。",
+		"seconds": 8.52
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，根尖细胞就没有叶绿体。判断四？错，水解酶在核糖体上合成。",
+		"seconds": 9.048
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？对，环流方向不变。",
+		"seconds": 6.048
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：膜层数、核酸、色素、分布，四个维度归纳细胞器。我们下期再见！",
+		"seconds": 9.504
+	}
+}

@@ -1,0 +1,107 @@
+{
+	"id": "HXE-11",
+	"title": "醛与酮",
+	"subject": "chemistry",
+	"book": "有机化学 · 第11期 / 共17期",
+	"points": [
+		"醛的结构与甲醛",
+		"醛的还原反应",
+		"银镜反应",
+		"新制氢氧化铜",
+		"甲醛的定量关系",
+		"酮的性质",
+		"醛基与双键的区分"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"醛与酮",
+				true
+			]
+		],
+		"subtitle": "银镜反应 · 新制氢氧化铜 · 甲醛 · 丙酮",
+		"photo": "silver-mirror.jpg",
+		"photoCaption": "银镜反应：试管内壁附着一层光亮的银",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"醛与酮",
+					true
+				]
+			]
+		],
+		"photo": "silver-mirror.jpg",
+		"photoPos": "center",
+		"photoTag": "银镜反应",
+		"credit": "Tmv23, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "配制银氨溶液时，向氨水中滴加 AgNO3 溶液",
+				"ok": false,
+				"fix": "向 AgNO3 溶液中滴加稀氨水"
+			},
+			{
+				"q": "银镜反应需要水浴加热",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "配制新制 Cu(OH)2 时 CuSO4 要过量",
+				"ok": false,
+				"fix": "NaOH 要过量"
+			},
+			{
+				"q": "1 mol HCHO 与足量银氨溶液反应生成 4 mol Ag",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "丙酮能发生银镜反应",
+				"ok": false,
+				"fix": "酮不能被银氨溶液氧化"
+			},
+			{
+				"q": "可直接用溴水检验 CH2=CHCHO 中的碳碳双键",
+				"ok": false,
+				"fix": "醛基也使溴水褪色，要先氧化醛基再酸化"
+			}
+		],
+		"endTitle": [
+			[
+				"醛与酮",
+				true
+			]
+		],
+		"endLine": "一醛两银，甲醛四银，碱过量才见砖红",
+		"slogan": "一醛两银，甲醛四银，碱过量才见砖红"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Tmv23《Tollensprobe》，CC BY-SA 3.0；插图来自 pixiv：SunTail、wendy（侵删）",
+	"anime": [
+		{
+			"key": "sailor",
+			"src": "sailor.jpg",
+			"credit": "插图：SunTail《夏制服 たえ》pixiv #77721714",
+			"url": "https://www.pixiv.net/artworks/77721714"
+		},
+		{
+			"key": "curls",
+			"src": "curls.jpg",
+			"credit": "插图：SunTail《夏制服 有咲》pixiv #77723366",
+			"url": "https://www.pixiv.net/artworks/77723366"
+		},
+		{
+			"key": "dots",
+			"src": "dots.jpg",
+			"credit": "插图：wendy《ムギッ》pixiv #4152863",
+			"url": "https://www.pixiv.net/artworks/4152863"
+		}
+	]
+}

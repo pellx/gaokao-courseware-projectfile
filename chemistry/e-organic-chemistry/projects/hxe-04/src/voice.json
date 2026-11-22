@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同分异构体上：类型与数目。",
+		"seconds": 3.264
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题判断顺反异构和手性碳，大题要会数出同分异构体的数目，共七个考点。",
+		"seconds": 7.728
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，四同辨析。同位素：质子数相同、中子数不同的原子，比如碳12和碳14。同素异形体：同种元素的不同单质，比如金刚石和石墨。",
+		"seconds": 14.904
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|同系物：结构相似，分子组成相差一个或几个C H 2，比如甲烷和乙烷。必须是同一类物质，官能团种类和个数都相同。",
+		"seconds": 12.24
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|同分异构体：分子式相同、结构不同的化合物，如正丁烷和异丁烷。",
+		"seconds": 6.984
+	},
+	"fo3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个粉头发、编着同款麻花辫的女孩吓了一跳：看着几乎一样，其实结构不同，这就是同分异构体。",
+		"seconds": 9.168
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：苯酚和苯甲醇相差C H 2，但一个是酚一个是醇，不是同系物；乙醇和乙二醇也不是。",
+		"seconds": 9.528
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，构造异构有三种。碳架异构：碳链骨架不同，如正丁烷和异丁烷。",
+		"seconds": 8.088
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|位置异构：官能团位置不同，如 1-丁烯和 2-丁烯，1-丙醇和 2-丙醇。",
+		"seconds": 7.752
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|官能团异构：官能团种类不同，比如乙醇和甲醚。",
+		"seconds": 5.088
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：写异构体按顺序：先官能团异构，再碳架异构，最后位置异构，不重不漏。",
+		"seconds": 8.424
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，顺反异构：碳碳双键不能旋转，当双键两端的碳原子各连两个不同的原子或基团时，就有顺反异构。",
+		"seconds": 10.536
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个相同基团在双键同侧的叫顺式，在异侧的叫反式。例：顺-2-丁烯和反-2-丁烯。",
+		"seconds": 9.432
+	},
+	"ct2b": {
+		"key": "zh-CN-XiaoxiaoNeural|紫发和浅棕发的两个女孩手拉手跳舞：站在同一边是顺式，各站一边是反式。",
+		"seconds": 7.488
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|1-丁烯没有顺反异构，因为左边的碳连着两个氢。",
+		"seconds": 5.04
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断时两端都要看，任意一端的碳上连了两个相同基团，就没有顺反异构。",
+		"seconds": 7.728
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，手性碳：连有四个不同原子或基团的饱和碳原子。",
+		"seconds": 6.096
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|含一个手性碳的分子有一对对映异构体，二者像左手和右手，互为镜像但不能重合。",
+		"seconds": 8.208
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：乳酸，中间的碳连着甲基、羟基、羧基和氢，是手性碳。",
+		"seconds": 6.888
+	},
+	"ch3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个黑色双马尾的女孩面对面站着，像照镜子：互为镜像，却不能完全重合，这就是对映异构。",
+		"seconds": 9.216
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：双键碳、苯环碳、亚甲基和甲基不可能是手性碳；环上的碳要看两侧路径是否不同。",
+		"seconds": 9.456
+	},
+	"mo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，一元取代物的数目等于分子中等效氢的种类数。",
+		"seconds": 5.592
+	},
+	"mo2": {
+		"key": "zh-CN-XiaoxiaoNeural|等效氢的判断：同一个碳上的氢等效；同一个碳上的甲基上的氢等效；处于对称位置的氢等效。",
+		"seconds": 8.856
+	},
+	"mo3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：正丁烷有2种氢，一氯代物2种；异丁烷也是2种；新戊烷只有1种。",
+		"seconds": 7.392
+	},
+	"mo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先找分子的对称轴或对称中心，只数一半；苯环上一个取代基时有邻、间、对 3 种氢。",
+		"seconds": 10.032
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，二元取代物的数目：定一移一。先固定一个取代基的位置，再移动另一个。",
+		"seconds": 8.184
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：丙烷的二氯代物：先把一个氯放在一号碳，另一个放一、二、三号碳得3种；再把第一个氯放二号碳，另一个只能放二号碳，得1种，共4种。",
+		"seconds": 13.632
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|苯环上两个相同取代基：邻、间、对 3 种；两个相同一个不同：6 种；三个都不同：10 种。",
+		"seconds": 9.192
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：定一移一时，移动的取代基不能回到已经固定过的位置，否则会重复。",
+		"seconds": 7.272
+	},
+	"fi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，常见的官能团异构，同一个通式对应两类物质。醇与醚：比如乙醇和甲醚。",
+		"seconds": 8.376
+	},
+	"fi2": {
+		"key": "zh-CN-XiaoxiaoNeural|醛与酮：比如丙醛和丙酮；还有烯醇、环醇。",
+		"seconds": 4.944
+	},
+	"fi3": {
+		"key": "zh-CN-XiaoxiaoNeural|羧酸与酯：比如乙酸和甲酸甲酯。烯烃与环烷烃、炔烃与二烯烃也互为官能团异构。",
+		"seconds": 8.784
+	},
+	"fi4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到分子式先算不饱和度，再想它可能是哪几类物质，下一期细讲。",
+		"seconds": 7.92
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：苯酚和苯甲醇是同系物？错，不是同一类。判断二：乙醇和甲醚是同分异构体？对。",
+		"seconds": 10.944
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：1-丁烯有顺反异构？错。判断四：乳酸有一个手性碳？对。",
+		"seconds": 8.232
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：新戊烷一氯代物有2种？错，只有1种。判断六：丙烷二氯代物有4种？对。",
+		"seconds": 10.176
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|两端不同有顺反，四个不同是手性，对称数氢定一移一。下一期：同分异构体下：限定条件书写。",
+		"seconds": 9.936
+	}
+}

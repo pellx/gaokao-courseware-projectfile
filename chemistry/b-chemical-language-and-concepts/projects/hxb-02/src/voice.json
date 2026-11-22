@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|分散系、胶体与物质的转化。",
+		"seconds": 3.216
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|常考在选择题第一题：胶体的本质与性质，物理变化还是化学变化，还有传统文化里的化学，共七个考点。",
+		"seconds": 9.888
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分散系的分类。一种物质分散到另一种物质里形成的体系叫分散系，按分散质粒子直径分三类。",
+		"seconds": 10.416
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|小于1纳米是溶液，1到100纳米是胶体，大于100纳米是浊液。",
+		"seconds": 6.12
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|溶液均一稳定；胶体介稳，比较均一；浊液不稳定，静置会分层或沉淀。",
+		"seconds": 7.512
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：三种分散系的本质区别是粒子直径大小，不是丁达尔效应，丁达尔效应只是鉴别方法。",
+		"seconds": 9.192
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，氢氧化铁胶体的制备：向沸腾的蒸馏水中逐滴加入饱和氯化铁溶液，继续煮沸至液体呈红褐色，停止加热。",
+		"seconds": 11.256
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|方程式写“胶体”，不写沉淀符号：氯化铁加三个水，加热生成氢氧化铁胶体和三个氯化氢。",
+		"seconds": 9
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|三个“不能”：不能用氢氧化钠溶液，会直接生成沉淀；不能长时间加热，胶体会聚沉；不能用自来水。",
+		"seconds": 9.672
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断制备操作是否正确，或写这个方程式；要点是沸水、饱和氯化铁、红褐色即停。",
+		"seconds": 9.576
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，胶体的性质与应用。光束通过胶体，从侧面看到一条光亮的通路，这是丁达尔效应，用来鉴别胶体和溶液。",
+		"seconds": 11.208
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|胶体粒子能透过滤纸，不能透过半透膜；所以过滤分不开胶体和溶液。",
+		"seconds": 6.912
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|净水：明矾、铁盐溶于水形成胶体，吸附水中的悬浮杂质，使其沉降。只能除去悬浮物，不能杀菌消毒。",
+		"seconds": 10.8
+	},
+	"co3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这位金发女孩在开茶会：奶茶里的牛奶、豆浆、云和雾，都是胶体，一束光照过去就能看到光路。",
+		"seconds": 9.264
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|课本外偶尔提到：胶粒带电会电泳；加电解质、加热会聚沉，比如卤水点豆腐；用半透膜提纯胶体叫渗析。",
+		"seconds": 10.752
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：胶体本身不带电，是胶体粒子带电；明矾净水是吸附，不是杀菌。",
+		"seconds": 7.416
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，酸、碱、盐的转化。两条主线：金属 → 碱性氧化物 → 碱 → 盐；非金属 → 酸性氧化物 → 酸 → 盐。",
+		"seconds": 10.416
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如：钙到氧化钙到氢氧化钙到碳酸钙；碳到二氧化碳到碳酸到碳酸钙。",
+		"seconds": 7.68
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|两条线之间互相反应也能生成盐：酸加碱、酸性氧化物加碱、碱性氧化物加酸、盐加盐。",
+		"seconds": 9.12
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不是所有的碱性氧化物都能和水直接生成碱，氧化铜、氧化铁不溶于水，也不和水反应。",
+		"seconds": 9.624
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，转化的应用：制备物质时，选原料易得、反应条件简单、产物好分离的路线。",
+		"seconds": 8.424
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|工业制氢氧化钠：不用氧化钠和水，而是电解饱和食盐水；以前用碳酸钠和氢氧化钙反应。",
+		"seconds": 8.928
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|复分解反应能发生的条件：生成沉淀、气体或水，三者有其一。",
+		"seconds": 6.576
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出几条转化路线，问哪一步不能一步实现，或哪条路线最合理。",
+		"seconds": 6.912
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，物理变化与化学变化。判断标准只有一个：有没有新物质生成。",
+		"seconds": 7.416
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|物理变化：焰色试验、蒸馏、分馏、升华、潮解、胶体聚沉、活性炭吸附。",
+		"seconds": 8.088
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|化学变化：干馏、裂化、裂解、风化、钝化、同素异形体之间的转化、煤的气化和液化。",
+		"seconds": 9.072
+	},
+	"ch3b": {
+		"key": "zh-CN-XiaoxiaoNeural|系着围裙煮汤的女孩：食材一炖就变了味，生成了新物质，是化学变化。",
+		"seconds": 6.768
+	},
+	"ch3c": {
+		"key": "zh-CN-XiaoxiaoNeural|捧着冰淇淋的女孩：冰淇淋化了只是状态改变，是物理变化。",
+		"seconds": 6.024
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：焰色试验是物理变化；石油分馏是物理变化，煤的干馏是化学变化；只有化学键断裂没有新键形成，比如氯化钠熔化，不是化学变化。",
+		"seconds": 13.152
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，传统文化情境题。方法是先翻译成现代汉语，再判断涉及的物质、变化或操作。",
+		"seconds": 9.312
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|“熬胆矾铁釜，久之亦化为铜”：铁置换出铜，是化学变化，也是置换反应。",
+		"seconds": 7.392
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|“青蒿一握，以水二升渍，绞取汁”：提取青蒿素，是萃取的思想，物理变化。",
+		"seconds": 7.608
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|“凡酸坏之酒，皆可蒸烧”：用加热的方法分离，是蒸馏；“千淘万漉虽辛苦，吹尽狂沙始到金”：金性质稳定，淘金是物理方法。",
+		"seconds": 12.168
+	},
+	"cu5": {
+		"key": "zh-CN-XiaoxiaoNeural|“爆竹声中一岁除”“蜡炬成灰泪始干”：燃烧，都是化学变化。",
+		"seconds": 6.024
+	},
+	"cu6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：抓关键动词：“化为”“烧”“燃”多是化学变化；“渍”“淘”“蒸烧”多是分离操作。",
+		"seconds": 8.544
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：胶体与溶液的本质区别是丁达尔效应？错，是粒子直径。判断二：向沸水中滴加饱和氯化铁溶液制胶体？对。",
+		"seconds": 13.176
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：明矾净水是杀菌消毒？错，是吸附。判断四：焰色试验是化学变化？错，是物理变化。",
+		"seconds": 11.52
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：煤的干馏是化学变化，石油的分馏是物理变化？对。判断六：胶体粒子不能透过滤纸？错，能透过滤纸，不能透过半透膜。",
+		"seconds": 14.016
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|胶体看直径，变化看新物质。下一期：电解质的电离。",
+		"seconds": 5.976
+	}
+}

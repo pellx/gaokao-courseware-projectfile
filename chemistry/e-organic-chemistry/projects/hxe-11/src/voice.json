@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|醛与酮。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题和大题都考醛基的检验和定量计算，共七个考点。",
+		"seconds": 5.664
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，醛：烃基与醛基相连。乙醛是无色、有刺激性气味的液体。",
+		"seconds": 7.344
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|甲醛最特殊：常温下是气体，百分之35到40的水溶液叫福尔马林，能使蛋白质变性，可用于浸制标本。",
+		"seconds": 10.608
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|甲醛分子中相当于含有2个醛基，两个氢都连在羰基碳上。",
+		"seconds": 5.88
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：甲醛有毒，是装修污染物之一；福尔马林不能用于食品保鲜。",
+		"seconds": 6.816
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，醛的还原反应：与氢气加成，催化剂、加热，醛基变成C H 2 O H，生成伯醇。",
+		"seconds": 9.456
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|乙醛加氢气生成乙醇。这既是加成反应，也是还原反应，加氢去氧。",
+		"seconds": 7.176
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|醛的转化链：醇和醛可以相互转化，醛再氧化得羧酸。",
+		"seconds": 5.616
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：有机推断中“A 能氧化成 B，也能还原成 C”，A 往往就是醛。",
+		"seconds": 6.744
+	},
+	"mi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，银镜反应。配制银氨溶液：向硝酸银溶液中逐滴加入稀氨水，直到最初产生的沉淀恰好溶解。",
+		"seconds": 10.536
+	},
+	"mi2": {
+		"key": "zh-CN-XiaoxiaoNeural|反应：乙醛加两个氢氧化二氨合银，水浴加热，生成乙酸铵、两个银、三个氨气和水。",
+		"seconds": 8.64
+	},
+	"mi3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：试管要洁净；水浴加热，不能直接加热，也不能振荡。",
+		"seconds": 6.288
+	},
+	"mi3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑长发的水手服女孩开心地举起手：试管壁上亮闪闪的一层，就是析出的银，像镜子一样。",
+		"seconds": 8.52
+	},
+	"mi4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：配制顺序不能反，是把氨水滴进硝酸银；定量关系1摩尔醛基对应2摩尔银。",
+		"seconds": 8.496
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，与新制氢氧化铜反应。配制：向氢氧化钠溶液中滴入少量硫酸铜溶液，碱要过量。",
+		"seconds": 9.624
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|反应：乙醛加两个氢氧化铜加氢氧化钠，加热生成乙酸钠、氧化亚铜和三个水，生成砖红色沉淀。",
+		"seconds": 10.104
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：氢氧化铜要现配现用；需要加热至沸腾。",
+		"seconds": 5.16
+	},
+	"cu3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金色双钻头卷发的女孩：氢氧化铜必须在碱性条件下才行，碱不够，就看不到砖红色。",
+		"seconds": 8.424
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：定量关系1摩尔醛基对应1摩尔氧化亚铜；配制时是少量硫酸铜加入过量氢氧化钠，反过来会失败。",
+		"seconds": 10.536
+	},
+	"fm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，甲醛的定量关系：甲醛相当于2个醛基，所以1摩尔甲醛对应4摩尔银。",
+		"seconds": 8.352
+	},
+	"fm2": {
+		"key": "zh-CN-XiaoxiaoNeural|同理，1摩尔甲醛与新制氢氧化铜反应生成2摩尔氧化亚铜，最终被氧化成二氧化碳或碳酸盐。",
+		"seconds": 9.72
+	},
+	"fm3": {
+		"key": "zh-CN-XiaoxiaoNeural|计算题：某一元醛0.1摩尔生成43.2克银，即0.4摩尔，银是醛的4倍，说明这种醛是甲醛。",
+		"seconds": 10.488
+	},
+	"fm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：“一元醛”生成的银是4倍时，一定是甲醛；其他一元醛都是2倍。",
+		"seconds": 7.248
+	},
+	"ke1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，酮：羰基两边都连烃基，最简单的是丙酮，能与水、乙醇互溶，是常用的有机溶剂。",
+		"seconds": 9.264
+	},
+	"ke2": {
+		"key": "zh-CN-XiaoxiaoNeural|酮不能被银氨溶液、新制氢氧化铜氧化，这是区分醛和酮的方法。",
+		"seconds": 6.432
+	},
+	"ke3": {
+		"key": "zh-CN-XiaoxiaoNeural|酮能与氢气加成，被还原成仲醇：丙酮加氢生成2-丙醇。",
+		"seconds": 6.264
+	},
+	"ke3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩眼睛变成两个小点，一脸茫然：酮遇到银氨溶液，完全没反应。",
+		"seconds": 7.152
+	},
+	"ke4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：醛和酮可能互为同分异构体，如丙醛和丙酮；用银镜反应就能区分。",
+		"seconds": 7.632
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，醛基和碳碳双键的区分：两者都能使溴水和酸性高锰酸钾溶液褪色。",
+		"seconds": 8.112
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以检验丙烯醛中的碳碳双键，要先用银氨溶液或新制氢氧化铜把醛基氧化，再酸化，最后加溴水。",
+		"seconds": 10.248
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么要酸化？因为溶液是碱性的，碱会与溴反应，使溴水褪色，造成干扰。",
+		"seconds": 7.92
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：取少量样品，加入足量新制氢氧化铜加热，充分反应后加稀硫酸酸化，再加溴水，溴水褪色，说明含碳碳双键。",
+		"seconds": 12.528
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：向氨水中滴加硝酸银配银氨溶液？错，顺序反了。判断二：银镜反应要水浴加热？对。",
+		"seconds": 11.064
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：配新制氢氧化铜时硫酸铜过量？错，碱要过量。判断四：1摩尔甲醛生成4摩尔银？对。",
+		"seconds": 11.52
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：丙酮能发生银镜反应？错。判断六：直接用溴水检验丙烯醛中的双键？错，要先除去醛基干扰。",
+		"seconds": 11.808
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|一醛两银，甲醛四银，碱过量才见砖红。下一期：羧酸、酯与酰胺。",
+		"seconds": 7.512
+	}
+}

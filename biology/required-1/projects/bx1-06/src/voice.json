@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第二章第四节——蛋白质是生命活动的主要承担者。",
+		"seconds": 8.544
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考氨基酸的结构通式、脱水缩合的相关计算，以及蛋白质的变性。",
+		"seconds": 7.104
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"fn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，蛋白质的功能。一切生命活动都离不开蛋白质，蛋白质是生命活动的主要承担者。",
+		"seconds": 9.048
+	},
+	"fn2": {
+		"key": "zh-CN-XiaoxiaoNeural|结构蛋白：构成细胞和生物体，如羽毛、肌肉、头发；催化：绝大多数酶是蛋白质。",
+		"seconds": 8.688
+	},
+	"fn3": {
+		"key": "zh-CN-XiaoxiaoNeural|运输：血红蛋白运输氧气；信息传递和调节：如胰岛素调节血糖。",
+		"seconds": 7.128
+	},
+	"fn4": {
+		"key": "zh-CN-XiaoxiaoNeural|免疫：抗体可以帮助人体抵御病菌和病毒等抗原的侵害。",
+		"seconds": 5.832
+	},
+	"fn5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：激素不都是蛋白质，性激素是固醇；酶也不都是蛋白质，少数是RNA。",
+		"seconds": 7.896
+	},
+	"aa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，氨基酸的结构。每种氨基酸分子至少都含有一个氨基和一个羧基。",
+		"seconds": 7.296
+	},
+	"aa2": {
+		"key": "zh-CN-XiaoxiaoNeural|并且都有一个氨基和一个羧基连接在同一个碳原子上，这个碳原子还连着一个氢原子和一个侧链基团，叫R基。",
+		"seconds": 10.056
+	},
+	"aa3": {
+		"key": "zh-CN-XiaoxiaoNeural|各种氨基酸之间的区别，在于R基的不同。",
+		"seconds": 4.2
+	},
+	"aa4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断是不是组成蛋白质的氨基酸，看同一个碳上，是否既有氨基又有羧基。",
+		"seconds": 8.4
+	},
+	"kd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，组成人体蛋白质的氨基酸有21种。",
+		"seconds": 4.872
+	},
+	"kd2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中8种是人体细胞不能合成的，必须从外界环境中获取，叫必需氨基酸。",
+		"seconds": 7.296
+	},
+	"kd3": {
+		"key": "zh-CN-XiaoxiaoNeural|另外13种人体细胞能够合成，叫非必需氨基酸。",
+		"seconds": 4.896
+	},
+	"kd4": {
+		"key": "zh-CN-XiaoxiaoNeural|必需氨基酸可以用口诀记：“甲携来一本亮色书”——甲硫氨酸、缬氨酸、赖氨酸、异亮氨酸、苯丙氨酸、亮氨酸、色氨酸、苏氨酸。",
+		"seconds": 12.48
+	},
+	"kd5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：评价食物的营养价值。解题方法：看必需氨基酸的种类和含量，比如玉米等谷类蛋白质缺少赖氨酸。",
+		"seconds": 10.656
+	},
+	"dh1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，脱水缩合。一个氨基酸的羧基和另一个氨基酸的氨基相连接，同时脱去一分子水。",
+		"seconds": 9.048
+	},
+	"dh2": {
+		"key": "zh-CN-XiaoxiaoNeural|连接两个氨基酸的化学键叫肽键。两个氨基酸形成二肽，多个氨基酸形成多肽，多肽通常呈链状，叫肽链。",
+		"seconds": 10.728
+	},
+	"dh3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：脱去的水中，氢来自氨基和羧基，氧来自羧基；脱水缩合的场所是核糖体。",
+		"seconds": 8.448
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，肽键数和相对分子质量的计算。n个氨基酸形成m条肽链：肽键数等于脱去的水分子数，等于n减m。",
+		"seconds": 11.232
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果形成的是环状肽，肽键数就等于氨基酸数n。",
+		"seconds": 4.896
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|蛋白质的相对分子质量，等于氨基酸数乘平均相对分子质量，减去脱去水分子数乘18。",
+		"seconds": 8.784
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|例：100个氨基酸形成2条肽链，平均相对分子质量是128，那么蛋白质的相对分子质量是一万一千零三十六。",
+		"seconds": 11.496
+	},
+	"ca5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：减的是脱去的水分子数98，不是100；如果有二硫键，每形成一个还要再减去2。",
+		"seconds": 8.808
+	},
+	"cb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，游离的氨基、羧基和原子数的计算。每条肽链的两端，各有一个游离的氨基和一个游离的羧基。",
+		"seconds": 10.08
+	},
+	"cb2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以m条肽链，至少含有m个游离的氨基和m个游离的羧基；R基中的氨基和羧基要另外加上。",
+		"seconds": 9.216
+	},
+	"cb3": {
+		"key": "zh-CN-XiaoxiaoNeural|氮原子数等于肽键数，加肽链数，加R基中的氮原子数。",
+		"seconds": 5.976
+	},
+	"cb4": {
+		"key": "zh-CN-XiaoxiaoNeural|氧原子数等于肽键数，加二乘肽链数，加R基中的氧原子数。",
+		"seconds": 6.408
+	},
+	"cb5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：数肽键、链端和R基——每个肽键含1个氮、1个氧，每条链的末端多1个氮、2个氧。",
+		"seconds": 9.432
+	},
+	"dv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，蛋白质结构多样性的原因。从氨基酸看：种类不同、数目成百上千、排列顺序千变万化。",
+		"seconds": 10.176
+	},
+	"dv2": {
+		"key": "zh-CN-XiaoxiaoNeural|从肽链看：肽链的盘曲、折叠方式及其形成的空间结构千差万别。",
+		"seconds": 6.984
+	},
+	"dv3": {
+		"key": "zh-CN-XiaoxiaoNeural|结构的多样性决定了功能的多样性，体现了结构与功能相适应。",
+		"seconds": 5.952
+	},
+	"dv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氨基酸之间脱水缩合的方式都相同，肽键的结构也都一样，它们不是多样性的原因。",
+		"seconds": 8.616
+	},
+	"dn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，蛋白质的变性。在高温、过酸、过碱或重金属盐等作用下，蛋白质的空间结构被破坏，失去生物活性。",
+		"seconds": 11.4
+	},
+	"dn2": {
+		"key": "zh-CN-XiaoxiaoNeural|变性时肽键没有断裂，所以变性后的蛋白质仍能与双缩脲试剂发生紫色反应。",
+		"seconds": 7.992
+	},
+	"dn3": {
+		"key": "zh-CN-XiaoxiaoNeural|吃熟鸡蛋、熟肉容易消化，是因为高温使蛋白质的空间结构变得伸展、松散，容易被蛋白酶水解。",
+		"seconds": 9.408
+	},
+	"dn4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：变性一般不可逆；而盐析是加盐使蛋白质析出，空间结构没有改变，是可逆的。",
+		"seconds": 8.784
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，性激素是固醇。判断二？错，是至少含有一个氨基和一个羧基。",
+		"seconds": 8.784
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？对。",
+		"seconds": 4.656
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，肽键没有断裂，仍能变紫。判断六？错，脱水缩合的方式都相同。",
+		"seconds": 9.528
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：脱一个水，成一个肽键。我们下期再见！",
+		"seconds": 6.264
+	}
+}

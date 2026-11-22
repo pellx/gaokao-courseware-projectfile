@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|水的电离与溶液的pH。",
+		"seconds": 2.856
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常考水的离子积、水电离出的氢离子和pH计算，共七个考点。",
+		"seconds": 6.936
+	},
+	"kw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，水是极弱的电解质，可逆电离成氢离子和氢氧根。水的离子积等于氢离子浓度乘氢氧根浓度。",
+		"seconds": 10.68
+	},
+	"kw2": {
+		"key": "zh-CN-XiaoxiaoNeural|25摄氏度时，水的离子积等于1乘10的负14次方，纯水中氢离子和氢氧根浓度都是1乘10的负7次方摩尔每升。",
+		"seconds": 10.8
+	},
+	"kw3": {
+		"key": "zh-CN-XiaoxiaoNeural|水的离子积只与温度有关。水的电离吸热，升温时增大：100摄氏度时约为1乘10的负12次方。",
+		"seconds": 9.744
+	},
+	"kw4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：水的离子积适用于任何稀的水溶液，不只是纯水；酸溶液里也有氢氧根。",
+		"seconds": 7.992
+	},
+	"af1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，影响水的电离。加酸或碱：增大氢离子或氢氧根，抑制水的电离。",
+		"seconds": 7.968
+	},
+	"af2": {
+		"key": "zh-CN-XiaoxiaoNeural|加能水解的盐，比如氯化铵、醋酸钠：消耗水电离出的氢离子或氢氧根，促进水的电离。",
+		"seconds": 8.64
+	},
+	"af3": {
+		"key": "zh-CN-XiaoxiaoNeural|升温促进水的电离；加活泼金属比如钠，消耗氢离子，也促进。",
+		"seconds": 6.6
+	},
+	"af4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：加硫酸氢钠，电离出氢离子，抑制水的电离；加氯化钠，不影响。",
+		"seconds": 7.488
+	},
+	"wa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，由水电离出的氢离子浓度。25摄氏度，0.01摩尔每升盐酸：氢离子来自氯化氢，氢氧根浓度是10的负12次方，水电离出的氢离子等于氢氧根，是10的负12次方摩尔每升。",
+		"seconds": 17.976
+	},
+	"wa2": {
+		"key": "zh-CN-XiaoxiaoNeural|0.01摩尔每升氢氧化钠：水电离出的氢离子就是溶液中的氢离子，也是10的负12次方摩尔每升。",
+		"seconds": 9.384
+	},
+	"wa3": {
+		"key": "zh-CN-XiaoxiaoNeural|pH等于5的氯化铵溶液：氢离子全部来自水，水电离出的氢离子是10的负5次方摩尔每升，是促进。",
+		"seconds": 9.528
+	},
+	"wa3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩脸色发青、眼睛瞪圆：同样是水电离出的氢离子为10的负12次方，可能是酸，也可能是碱！",
+		"seconds": 9.816
+	},
+	"wa4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：酸溶液看氢氧根，碱溶液看氢离子，水解盐溶液看较大的那个。",
+		"seconds": 7.512
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，溶液酸碱性的本质：比较氢离子和氢氧根浓度的相对大小。氢离子浓度大于氢氧根显酸性。",
+		"seconds": 10.128
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|pH等于氢离子浓度的负对数。25摄氏度时pH等于7为中性；但100摄氏度时中性溶液pH等于6。",
+		"seconds": 10.44
+	},
+	"ac2b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩两眼变成两个小圆点，愣在原地：pH等于7不一定是中性，要看温度。",
+		"seconds": 7.92
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断中性最可靠的是氢离子浓度等于氢氧根浓度，不是pH等于7。",
+		"seconds": 7.392
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，pH计算。强酸：直接求氢离子浓度。0.005摩尔每升硫酸，氢离子浓度0.01，pH等于2。",
+		"seconds": 11.568
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|强碱：先求氢氧根浓度，再用水的离子积求氢离子浓度。0.01摩尔每升氢氧化钠，氢离子浓度10的负12次方，pH等于12。",
+		"seconds": 12.96
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|酸碱混合：先判断谁过量，用过量的部分除以总体积。碱过量时先算氢氧根浓度。",
+		"seconds": 8.808
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两种强碱混合，要先算混合后的氢氧根浓度，不能直接把氢离子浓度相加求平均。",
+		"seconds": 8.784
+	},
+	"dl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，稀释时pH的变化。强酸稀释十倍，pH增大一；弱酸稀释十倍，pH增大不到一。",
+		"seconds": 9.816
+	},
+	"dl2": {
+		"key": "zh-CN-XiaoxiaoNeural|强碱稀释十倍，pH减小一；弱碱减小不到一。",
+		"seconds": 5.136
+	},
+	"dl3": {
+		"key": "zh-CN-XiaoxiaoNeural|无限稀释：酸的pH只能接近7，不会超过7；碱也不会低于7。",
+		"seconds": 6.792
+	},
+	"dl3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩乖乖坐在地上：再怎么加水，酸也变不成碱，只能无限接近中性。",
+		"seconds": 7.368
+	},
+	"dl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：pH等于5的盐酸稀释一千倍，pH接近7，不是8。",
+		"seconds": 6.216
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，pH 试纸的正确用法：用洁净干燥的玻璃棒蘸取待测液，点在试纸中部，与标准比色卡对比，读整数。",
+		"seconds": 11.112
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|试纸不能润湿：润湿相当于稀释，酸性溶液 pH 偏大，碱性溶液偏小，中性溶液不变。",
+		"seconds": 8.856
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|精确测定用pH计，读数可到0.01。氯水、次氯酸钠溶液有漂白性，不能用pH试纸测。",
+		"seconds": 9.552
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：广泛pH试纸读出5.6是错的，只能读整数。",
+		"seconds": 5.688
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：水的离子积只适用于纯水？错，任何稀水溶液都适用。判断二：加氯化铵促进水的电离？对。",
+		"seconds": 11.64
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：水电离出的氢离子是十的负十二次方，一定是酸？错，也可能是碱。判断四：pH等于7一定中性？错，要看温度。",
+		"seconds": 13.368
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：pH等于5的盐酸稀释一千倍，pH等于8？错，接近7。判断六：用pH试纸测氯水？错，氯水有漂白性。",
+		"seconds": 13.152
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|酸碱抑制盐促进，中性要看氢氧比。下一期：酸碱中和滴定与滴定曲线。",
+		"seconds": 7.944
+	}
+}

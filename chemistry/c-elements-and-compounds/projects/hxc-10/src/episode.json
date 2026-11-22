@@ -1,0 +1,127 @@
+{
+	"id": "HXC-10",
+	"title": "氮气、氮氧化物、氨与铵盐",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第10期 / 共16期",
+	"points": [
+		"氮气与氮的固定",
+		"两种氮氧化物",
+		"氮氧化物溶于水",
+		"氨的性质",
+		"氨的实验室制法",
+		"铵盐的性质",
+		"铵根离子的检验",
+		"喷泉实验"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"氮气、氮氧化物、"
+			],
+			[
+				"氨与铵盐",
+				true
+			]
+		],
+		"subtitle": "固氮 · 氮氧化物 · 喷泉实验 · 铵根检验",
+		"photo": "haber.jpg",
+		"photoCaption": "哈伯：发明合成氨的方法",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"氮气"
+				],
+				[
+					"、氨",
+					true
+				]
+			],
+			[
+				[
+					"与铵盐",
+					true
+				]
+			]
+		],
+		"photo": "haber.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "哈伯",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "N2 化学性质稳定，是因为 N≡N 键能大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NO2 与水反应时，NO2 只作氧化剂",
+				"ok": false,
+				"fix": "NO2 既是氧化剂又是还原剂"
+			},
+			{
+				"q": "可用浓硫酸干燥 NH3",
+				"ok": false,
+				"fix": "用碱石灰干燥"
+			},
+			{
+				"q": "NH4Cl 受热分解、遇冷又化合的过程是升华",
+				"ok": false,
+				"fix": "是化学变化，不是升华"
+			},
+			{
+				"q": "检验 NH4^+：加 NaOH 溶液加热，用湿润的红色石蕊试纸检验",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NO 可用向上排空气法收集",
+				"ok": false,
+				"fix": "NO 与 O2 反应，只能用排水法"
+			}
+		],
+		"endTitle": [
+			[
+				"氮气、氮氧化物、"
+			],
+			[
+				"氨与铵盐",
+				true
+			]
+		],
+		"endLine": "氨气碱石灰干燥，铵根检验要加热、要湿润",
+		"slogan": "氨气碱石灰干燥，铵根要加热要湿润"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Fritz Haber 1891》，公有领域；插图来自 pixiv：カネコ、Grouse01、OBAKE MIKA（侵删）",
+	"anime": [
+		{
+			"key": "drums",
+			"src": "drums.jpg",
+			"credit": "插图：カネコ《SD田井中律》pixiv #83374452",
+			"url": "https://www.pixiv.net/artworks/83374452"
+		},
+		{
+			"key": "mochi",
+			"src": "mochi.jpg",
+			"credit": "插图：Grouse01《うさくらげ》pixiv #43979998",
+			"url": "https://www.pixiv.net/artworks/43979998"
+		},
+		{
+			"key": "panic",
+			"src": "panic.jpg",
+			"credit": "插图：OBAKE MIKA《新しいカートゥーン風の絵柄でいろんなアニメの女の子を描いてみまし》pixiv #152312594",
+			"url": "https://www.pixiv.net/artworks/152312594"
+		}
+	]
+}

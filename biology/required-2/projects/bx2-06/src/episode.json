@@ -1,0 +1,38 @@
+{
+	"id": "BX2-06",
+	"title": "减数分裂和受精作用（下）：观察实验与受精作用",
+	"subject": "biology",
+	"book": "人教版·必修2·第2章",
+	"points": ["观察减数分裂装片", "减数分裂模型建构", "受精作用", "减数分裂和受精意义", "配子多样性的原因", "异常配子分析"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["观察实验与"], ["受精作用", true]],
+		"subtitle": "减数分裂和受精作用（下） · 配子多样性 · 异常配子",
+		"photo": "locust.jpg",
+		"photoCaption": "蝗虫：观察减数分裂的常用材料",
+		"photoPos": "22% 50%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["观察实验与"]], [["受精作用", true]]],
+		"kicker": "配子多样性 · 异常配子",
+		"photo": "locust.jpg",
+		"photoPos": "22% 50%",
+		"photoTag": "实验材料：蝗虫",
+		"credit": "Photo: Holger Krisp, CC BY 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "观察减数分裂应选用雌性动物的卵巢", "ok": false, "fix": "应选雄性动物的精巢（睾丸）"},
+			{"q": "受精卵中的遗传物质一半来自父方，一半来自母方", "ok": false, "fix": "核遗传物质各一半，细胞质的几乎全来自卵细胞"},
+			{"q": "减数分裂和受精作用维持了前后代染色体数目恒定", "ok": true, "fix": ""},
+			{"q": "互换发生在四分体的姐妹染色单体之间", "ok": false, "fix": "发生在非姐妹染色单体之间"},
+			{"q": "非同源染色体自由组合发生在减数分裂Ⅰ后期", "ok": true, "fix": ""},
+			{"q": "XYY 个体是父方减数分裂Ⅰ异常造成的", "ok": false, "fix": "是父方减数分裂Ⅱ异常（YY 精子）"}
+		],
+		"endTitle": [["观察实验与"], ["受精作用", true]],
+		"endLine": "精巢装片 · 模型 · 受精 · 意义 · 配子多样性 · 异常配子",
+		"slogan": "一对同源看减Ⅰ，两条相同看减Ⅱ！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Holger Krisp《Locusta migratoria (Wanderheuschrecke)》CC BY 3.0"
+}

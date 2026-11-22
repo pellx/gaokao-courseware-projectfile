@@ -1,0 +1,126 @@
+{
+	"id": "HXA-05",
+	"title": "原子结构（下）：核外电子排布的规则与表示",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第5期 / 共21期",
+	"points": [
+		"构造原理",
+		"泡利原理",
+		"洪特规则",
+		"能量最低原理与特例",
+		"四种表示方法",
+		"离子的电子排布",
+		"未成对电子与运动状态",
+		"审题规范"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"核外电子排布"
+			],
+			[
+				"规则与表示",
+				true
+			]
+		],
+		"subtitle": "构造原理 · 泡利 · 洪特 · 轨道表示式",
+		"photo": "pauli.jpg",
+		"photoCaption": "泡利：提出泡利不相容原理",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"电子排布"
+				]
+			],
+			[
+				[
+					"规则",
+					true
+				],
+				[
+					"与表示"
+				]
+			]
+		],
+		"photo": "pauli.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "泡利",
+		"credit": "CC BY 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "基态 Cr 原子的价层电子排布式为 3d^4 4s^2",
+				"ok": false,
+				"fix": "3d^5 4s^1（半充满）"
+			},
+			{
+				"q": "一个原子轨道最多容纳 2 个自旋相反的电子",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Fe 失电子时先失去 3d 电子",
+				"ok": false,
+				"fix": "先失 4s 电子"
+			},
+			{
+				"q": "Fe^3+ 比 Fe^2+ 稳定，因为 3d^5 半充满",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "基态 O 原子有 8 种空间运动状态不同的电子",
+				"ok": false,
+				"fix": "5 种（占 5 个轨道）"
+			},
+			{
+				"q": "2p 三个电子挤在两个轨道里，违反泡利原理",
+				"ok": false,
+				"fix": "违反洪特规则"
+			}
+		],
+		"endTitle": [
+			[
+				"核外电子排布"
+			],
+			[
+				"规则与表示",
+				true
+			]
+		],
+		"endLine": "构造原理 · 泡利 · 洪特 · 特例 · 表示方法 · 离子",
+		"slogan": "先填 4s 先失 4s，铬铜半满全满！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Unknown author《Wolfgang Pauli》CC BY 4.0；插图来自 pixiv：マウンテンプクイチ、Breathe Life、しゃるろって（侵删）",
+	"anime": [
+		{
+			"key": "back",
+			"src": "back.jpg",
+			"credit": "插图：マウンテンプクイチ《梓と憂。》pixiv #12813566",
+			"url": "https://www.pixiv.net/artworks/12813566"
+		},
+		{
+			"key": "full",
+			"src": "full.jpg",
+			"credit": "插图：Breathe Life《ぼっち・ざ・ろっく! !》pixiv #103880724",
+			"url": "https://www.pixiv.net/artworks/103880724"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：しゃるろって《ココアさん》pixiv #85687358",
+			"url": "https://www.pixiv.net/artworks/85687358"
+		}
+	]
+}

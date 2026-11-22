@@ -1,0 +1,123 @@
+{
+	"id": "HXA-20",
+	"title": "元素推断选择题：位—构—性一网打尽",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第20期 / 共21期",
+	"points": [
+		"突破口：原子结构",
+		"突破口：性质与用途",
+		"突破口：相对位置",
+		"由结构式推元素",
+		"半径与金属性",
+		"电离能与电负性等",
+		"键、杂化与氢键",
+		"易错陷阱"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"元素推断选择题："
+			],
+			[
+				"位—构—性",
+				true
+			]
+		],
+		"subtitle": "突破口 · 结构式推断 · 选项逐条判断",
+		"photo": "moseley.jpg",
+		"photoCaption": "莫塞莱：确定原子序数等于核电荷数",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"元素推断"
+				]
+			],
+			[
+				[
+					"位构性",
+					true
+				]
+			]
+		],
+		"photo": "moseley.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "莫塞莱",
+		"credit": "Nature, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "最外层电子数是次外层 3 倍的元素是 O",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "第一电离能：O > N",
+				"ok": false,
+				"fix": "N > O（2p 半充满）"
+			},
+			{
+				"q": "酸性 HClO < H2CO3，说明非金属性 Cl < C",
+				"ok": false,
+				"fix": "HClO 不是最高价含氧酸"
+			},
+			{
+				"q": "结构式中连 3 个共价键的中性原子可能是 N",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "离子化合物中一定不含共价键",
+				"ok": false,
+				"fix": "NaOH、Na2O2 含共价键"
+			},
+			{
+				"q": "简单氢化物沸点：H2O > H2S",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"元素推断选择题："
+			],
+			[
+				"位—构—性",
+				true
+			]
+		],
+		"endLine": "结构突破口 · 性质突破口 · 位置 · 结构式 · 选项判断 · 陷阱",
+		"slogan": "找准突破口，限定词处处设陷阱！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nature magazine《Portrait of Henry G.J. Moseley, 1887-1915》Public domain；插图来自 pixiv：どど、筆殤黯影、藤波シスカ（侵删）",
+	"anime": [
+		{
+			"key": "puzzle",
+			"src": "puzzle.jpg",
+			"credit": "插图：どど《inktober 10/26 puzzling》pixiv #136985729",
+			"url": "https://www.pixiv.net/artworks/136985729"
+		},
+		{
+			"key": "zero",
+			"src": "zero.jpg",
+			"credit": "插图：筆殤黯影《Inktober2026Day27:Dumb》pixiv #152073503",
+			"url": "https://www.pixiv.net/artworks/152073503"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：藤波シスカ《スフレ_ちびキャラver》pixiv #149863915",
+			"url": "https://www.pixiv.net/artworks/149863915"
+		}
+	]
+}

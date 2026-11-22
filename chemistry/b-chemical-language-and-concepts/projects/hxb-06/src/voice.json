@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化剂、还原剂与氧化还原规律。",
+		"seconds": 3.864
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题判断强弱和反应先后，大题算转移电子、配平方程式，都靠这几条规律，共七个考点。",
+		"seconds": 9.216
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，常见的氧化剂和还原剂，要连同产物一起记。",
+		"seconds": 5.52
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化剂：氯气变成氯离子，氧气变成负二价氧，浓硫酸变成二氧化硫，浓硝酸变成二氧化氮，稀硝酸变成一氧化氮，铁离子变成亚铁离子，过氧化氢变成水。",
+		"seconds": 15.744
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|酸性高锰酸钾变成锰离子，重铬酸钾变成铬离子。",
+		"seconds": 5.52
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|还原剂：活泼金属变成金属阳离子，亚铁离子变成铁离子，二氧化硫和亚硫酸根变成硫酸根，碘离子变成碘，硫离子变成硫，还有氢气、碳、一氧化碳。",
+		"seconds": 15.384
+	},
+	"cm5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：陌生方程式书写的第一步就是定产物，这张表就是定产物的依据。",
+		"seconds": 7.152
+	},
+	"va1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，价态规律。元素处于最高价，只有氧化性；处于最低价，只有还原性；处于中间价，两者都有。",
+		"seconds": 10.68
+	},
+	"va2": {
+		"key": "zh-CN-XiaoxiaoNeural|以硫为例：硫化氢中负二价只有还原性；硫酸中正六价只有氧化性；硫和二氧化硫处于中间，既能被氧化也能被还原。",
+		"seconds": 11.736
+	},
+	"va3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁也一样：铁只有还原性，铁离子以氧化性为主，亚铁离子两者都有。",
+		"seconds": 7.008
+	},
+	"va4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：说的是“元素”的价态。氯化氢中氢是正一价有氧化性，氯是负一价有还原性，所以盐酸两种性质都能表现。",
+		"seconds": 11.592
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，强弱规律：在同一个反应里，氧化剂的氧化性大于氧化产物，还原剂的还原性大于还原产物。",
+		"seconds": 9.864
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：铁离子与碘离子反应生成亚铁离子和碘，氧化性铁离子大于碘，还原性碘离子大于亚铁离子。",
+		"seconds": 9.624
+	},
+	"st2b": {
+		"key": "zh-CN-XiaoxiaoNeural|掰手腕的金发女孩：反应能发生，说明左边的强，右边的弱，强的赢。",
+		"seconds": 6.888
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|反过来也能用：已知强弱顺序，判断反应能不能发生，“强制弱”才能发生。",
+		"seconds": 6.936
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|其他判断依据：金属活动性顺序；与同一物质反应的条件难易，比如高锰酸钾常温氧化浓盐酸，二氧化锰要加热，氧化性高锰酸钾大于二氧化锰。",
+		"seconds": 14.088
+	},
+	"st5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先找出每个方程式的氧化剂和氧化产物，再把几组强弱串成一条链。",
+		"seconds": 8.016
+	},
+	"or1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，先后规律：一种氧化剂遇到几种还原剂，先氧化还原性最强的。",
+		"seconds": 7.392
+	},
+	"or2": {
+		"key": "zh-CN-XiaoxiaoNeural|还原性碘离子大于亚铁离子大于溴离子。氯气通入溴化亚铁溶液：亚铁离子先被氧化，亚铁离子反应完才轮到溴离子。",
+		"seconds": 11.88
+	},
+	"or3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气通入碘化亚铁溶液：碘离子先被氧化，然后才是亚铁离子。",
+		"seconds": 6.432
+	},
+	"or3b": {
+		"key": "zh-CN-XiaoxiaoNeural|排成一排的小人：氧化剂来了，排在最前面的先上，也就是还原性最强的先反应。",
+		"seconds": 7.56
+	},
+	"or4": {
+		"key": "zh-CN-XiaoxiaoNeural|同理，一种还原剂遇到几种氧化剂，先还原氧化性最强的：铁加入含铁离子和铜离子的溶液，先与铁离子反应。",
+		"seconds": 10.728
+	},
+	"or5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：少量氯气与溴化亚铁只氧化亚铁离子，写方程式时溴离子不参加。",
+		"seconds": 7.512
+	},
+	"mi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，歧化与归中。歧化：同一种元素的化合价一部分升高、一部分降低。",
+		"seconds": 7.992
+	},
+	"mi2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：氯气和氢氧化钠反应生成氯化钠、次氯酸钠和水，氯从零价变成负一价和正一价。",
+		"seconds": 8.832
+	},
+	"mi3": {
+		"key": "zh-CN-XiaoxiaoNeural|归中：同种元素的高价和低价反应，生成中间价态，价态“只靠拢，不交叉”。",
+		"seconds": 7.776
+	},
+	"mi3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩一拉一拽地往中间走：高价往下、低价往上，在中间会合，但不会互相越过去。",
+		"seconds": 8.568
+	},
+	"mi4": {
+		"key": "zh-CN-XiaoxiaoNeural|例：氯酸钾和浓盐酸反应生成氯化钾、氯气和水。正五价的氯降到零价，氯化钾里的氯来自氯化氢，不是氯酸钾。",
+		"seconds": 11.544
+	},
+	"mi5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这个反应每生成3摩尔氯气转移5摩尔电子，不是6摩尔。",
+		"seconds": 6.528
+	},
+	"cs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，得失电子守恒：氧化剂得到的电子总数等于还原剂失去的电子总数。",
+		"seconds": 7.584
+	},
+	"cs2": {
+		"key": "zh-CN-XiaoxiaoNeural|计算公式：n(物质)乘变价原子个数乘每个原子的化合价变化值，两边相等。",
+		"seconds": 7.8
+	},
+	"cs3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：0.1摩尔重铬酸钾在酸性条件下能氧化多少亚铁离子？铬从正六降到正三，每个降3，两个铬共得6个电子。",
+		"seconds": 11.712
+	},
+	"cs4": {
+		"key": "zh-CN-XiaoxiaoNeural|零点一乘二乘三，等于亚铁离子的物质的量乘一乘一，所以亚铁离子是0.6摩尔。",
+		"seconds": 8.136
+	},
+	"cs5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：不用写方程式，只看始态和终态；别漏了变价原子个数，比如重铬酸根里有2个铬。",
+		"seconds": 9.168
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，转移电子数的易错计算。过氧化钠与水反应，氧从负一价变成零价和负二价，1摩尔过氧化钠转移1摩尔电子。",
+		"seconds": 11.664
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气与氢氧化钠歧化：1摩尔氯气转移1摩尔电子，不是2摩尔。",
+		"seconds": 6.48
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁与足量氯气生成氯化铁，1摩尔铁转移3摩尔；铁与硫生成硫化亚铁，只转移2摩尔。",
+		"seconds": 8.976
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：歧化反应中，同一物质既得又失，转移数只算一边，不能把得和失加起来。",
+		"seconds": 7.776
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：铁离子氧化碘离子，说明氧化性铁离子大于碘？对。判断二：氯气通入溴化亚铁，溴离子先被氧化？错，亚铁离子先被氧化。",
+		"seconds": 14.64
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：亚铁离子只有还原性？错，两者都有。判断四：氯酸钾与浓盐酸反应，氯化钾中的氯来自氯酸钾？错，来自氯化氢。",
+		"seconds": 14.088
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：1摩尔氯气与足量氢氧化钠反应转移2摩尔电子？错，是1摩尔。判断六：1摩尔铁与足量氯气反应转移3摩尔电子？对。",
+		"seconds": 13.944
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|强制弱，强先行，只靠拢不交叉。下一期：物质的量、摩尔质量与气体摩尔体积。",
+		"seconds": 8.616
+	}
+}

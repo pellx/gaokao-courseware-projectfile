@@ -1,0 +1,38 @@
+{
+	"id": "BX1-07",
+	"title": "核酸是遗传信息的携带者",
+	"subject": "biology",
+	"book": "人教版·必修1·第2章",
+	"points": ["核酸的种类与分布", "核苷酸的组成", "DNA与RNA的比较", "碱基与核苷酸种类", "生物的遗传物质", "核酸的功能", "单体与多聚体"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["核酸是遗传信息的"], ["携带者", true]],
+		"subtitle": "核苷酸 · DNA与RNA · 生物大分子",
+		"photo": "miescher.jpg",
+		"photoCaption": "米歇尔：1869年从细胞核中分离出核酸",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["核酸是遗传信息"]], [["的"], ["携带者", true]]],
+		"kicker": "DNA与RNA · 种类数",
+		"photo": "miescher.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "米歇尔",
+		"credit": "Friedrich Miescher, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "DNA只分布在细胞核中", "ok": false, "fix": "主要在细胞核，线粒体、叶绿体中也有"},
+			{"q": "DNA与RNA的区别只在于碱基不同", "ok": false, "fix": "五碳糖也不同"},
+			{"q": "人体细胞中含有5种碱基、8种核苷酸", "ok": true, "fix": ""},
+			{"q": "细胞质中的遗传物质是RNA", "ok": false, "fix": "细胞生物的遗传物质都是DNA"},
+			{"q": "核酸彻底水解的产物是核苷酸", "ok": false, "fix": "是磷酸、五碳糖和含氮碱基"},
+			{"q": "遗传信息储存在核苷酸的排列顺序中", "ok": true, "fix": ""}
+		],
+		"endTitle": [["核酸是遗传信息的"], ["携带者", true]],
+		"endLine": "分布 · 核苷酸 · DNA与RNA · 种类数 · 单体",
+		"slogan": "看五碳糖和碱基，分清DNA和RNA！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Friedrich Miescher》Public domain"
+}

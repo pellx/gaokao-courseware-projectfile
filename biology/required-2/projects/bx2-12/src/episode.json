@@ -1,0 +1,37 @@
+{
+	"id": "BX2-12",
+	"title": "基因通常是有遗传效应的DNA片段",
+	"subject": "biology",
+	"book": "人教版·必修2·第3章",
+	"points": ["基因与DNA的关系", "基因的本质", "遗传信息与碱基序列", "四者之间的关系", "DNA指纹技术"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["基因通常是有遗传效应的"], ["DNA 片段", true]],
+		"subtitle": "基因的本质 · 遗传信息 · DNA 指纹",
+		"photo": "notes.jpg",
+		"photoCaption": "第一个 DNA 指纹实验的笔记（1984）",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["基因通常是"]], [["有遗传效应的"]], [["DNA 片段", true]]],
+		"photo": "notes.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "DNA 指纹实验笔记",
+		"credit": "Wellcome Collection, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "DNA 上任意一个片段都是基因", "ok": false, "fix": "只有具有遗传效应的片段才是基因"},
+			{"q": "基因在染色体上呈线性排列", "ok": true, "fix": ""},
+			{"q": "所有生物的基因都是 DNA 片段", "ok": false, "fix": "RNA 病毒的基因是 RNA 片段"},
+			{"q": "一条染色体上只有一个 DNA 分子", "ok": false, "fix": "复制后一条染色体上有两个 DNA"},
+			{"q": "遗传信息蕴藏在 4 种碱基的排列顺序之中", "ok": true, "fix": ""},
+			{"q": "DNA 指纹技术利用了 DNA 的特异性", "ok": true, "fix": ""}
+		],
+		"endTitle": [["基因是有遗传效应的"], ["DNA 片段", true]],
+		"endLine": "实例 · 本质 · 遗传信息 · 四者关系 · DNA 指纹",
+		"slogan": "有遗传效应的片段才叫基因！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Wellcome Collection《Autoradiograph of the first genetic fingerprint, 1984》CC BY 4.0（裁切）"
+}

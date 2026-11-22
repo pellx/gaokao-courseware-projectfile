@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|原电池的工作原理。",
+		"seconds": 2.28
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题判断正负极和离子移动，大题写电极反应式，共七个考点。",
+		"seconds": 6.624
+	},
+	"cd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，原电池：把化学能转化为电能的装置。",
+		"seconds": 4.944
+	},
+	"cd2": {
+		"key": "zh-CN-XiaoxiaoNeural|构成条件：①能自发进行的氧化还原反应；②两个电极；③电解质溶液或熔融电解质；④形成闭合回路。",
+		"seconds": 11.928
+	},
+	"cd3": {
+		"key": "zh-CN-XiaoxiaoNeural|本质：氧化反应和还原反应分开在两极进行，电子通过导线定向移动，形成电流。",
+		"seconds": 8.328
+	},
+	"cd4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两电极不一定是两种金属，石墨也可以作电极；非氧化还原反应不能设计成原电池。",
+		"seconds": 8.976
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，正负极判断。负极：失电子，发生氧化反应；正极：得电子，发生还原反应。",
+		"seconds": 9.48
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|一般活泼金属作负极。锌铜稀硫酸电池：锌是负极，锌失去两个电子变成锌离子；铜是正极，两个氢离子得到两个电子生成氢气。",
+		"seconds": 13.44
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|特例：镁铝氢氧化钠溶液，镁不与氢氧化钠反应，铝是负极；铁铜浓硝酸，铁钝化，铜是负极。",
+		"seconds": 9.624
+	},
+	"po3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩紧张得直冒汗：不能只看谁更活泼，要看谁和电解质真正反应。",
+		"seconds": 7.176
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断正负极看谁失电子：先找出总反应，化合价升高的那个电极就是负极。",
+		"seconds": 8.904
+	},
+	"mo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电子的移动：从负极经导线流向正极。电流方向相反。",
+		"seconds": 6.936
+	},
+	"mo2": {
+		"key": "zh-CN-XiaoxiaoNeural|离子的移动：阳离子移向正极，阴离子移向负极。",
+		"seconds": 4.992
+	},
+	"mo3": {
+		"key": "zh-CN-XiaoxiaoNeural|口诀：电子不下水，离子不上岸。电子只在导线里走，溶液里只有离子在移动。",
+		"seconds": 8.16
+	},
+	"mo4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“电子从负极经电解质溶液流向正极”是错的；溶液中导电的是离子。",
+		"seconds": 7.44
+	},
+	"br1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，双液原电池：锌插在硫酸锌溶液中，铜插在硫酸铜溶液中，用盐桥连接。",
+		"seconds": 8.352
+	},
+	"br2": {
+		"key": "zh-CN-XiaoxiaoNeural|盐桥里是含氯化钾的琼脂。作用：形成闭合回路，平衡两边溶液的电荷。",
+		"seconds": 7.752
+	},
+	"br3": {
+		"key": "zh-CN-XiaoxiaoNeural|盐桥中钾离子移向正极，也就是硫酸铜一侧；氯离子移向负极，也就是硫酸锌一侧。",
+		"seconds": 8.184
+	},
+	"br3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩共围一条粉色长围巾：盐桥就像这条围巾，把两个半电池连在一起。",
+		"seconds": 7.44
+	},
+	"br4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：双液电池的优点是避免锌和铜离子直接接触，减少能量损耗，电流更稳定；取出盐桥，电流计指针归零。",
+		"seconds": 11.112
+	},
+	"wr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，电极反应式书写三步。第一步，写出总反应，标出化合价变化。",
+		"seconds": 7.608
+	},
+	"wr2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，写负极：还原剂失电子。注意产物在电解质中的形式：碱性溶液中锌生成氢氧化锌，不是锌离子。",
+		"seconds": 10.968
+	},
+	"wr3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，正极等于总反应减负极反应；配平时酸性补氢离子和水，碱性补氢氧根和水。",
+		"seconds": 8.856
+	},
+	"wr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两极得失电子数要相等，加起来等于总反应；酸性环境里不能出现氢氧根。",
+		"seconds": 8.232
+	},
+	"us1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，原电池原理的应用。加快反应速率：锌与稀硫酸反应时滴入几滴硫酸铜溶液。",
+		"seconds": 8.808
+	},
+	"us2": {
+		"key": "zh-CN-XiaoxiaoNeural|比较金属活泼性：A、B两金属与稀硫酸组成原电池，A溶解、B上有气泡，则一般A比B活泼。",
+		"seconds": 9.672
+	},
+	"us3": {
+		"key": "zh-CN-XiaoxiaoNeural|还有：金属的电化学腐蚀与防护，后面专门讲。",
+		"seconds": 4.992
+	},
+	"us3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发和粉发两个小女孩凑在一起：一个给出电子，一个接收电子，配合起来反应就快多了。",
+		"seconds": 8.592
+	},
+	"us4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：选择题给现象判断活泼性，注意镁、铝、氢氧化钠这样的特殊电解质。",
+		"seconds": 7.92
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，设计原电池：由给定的氧化还原反应选电极和电解质。例：两个铁离子加铜生成两个亚铁离子和铜离子。",
+		"seconds": 11.736
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|还原剂铜作负极；正极用比铜不活泼的导体，比如石墨或银；电解质溶液含铁离子，比如氯化铁溶液。",
+		"seconds": 10.056
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|若用盐桥：铜插在氯化铜溶液中，石墨插在氯化铁溶液中。",
+		"seconds": 6.024
+	},
+	"de4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：还原剂作负极，氧化剂的溶液作电解质，正极选更不活泼的导体。",
+		"seconds": 7.632
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电子经溶液流向正极？错，电子不下水。判断二：阳离子移向正极？对。",
+		"seconds": 9.84
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：镁铝氢氧化钠电池中镁是负极？错，铝是负极。判断四：盐桥能平衡电荷？对。",
+		"seconds": 10.896
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：任何反应都能设计成原电池？错，要自发的氧化还原反应。判断六：碱性电池负极锌生成锌离子？错，生成氢氧化锌。",
+		"seconds": 13.968
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|负极失电子，电子不下水，离子不上岸。下一期：化学电源。",
+		"seconds": 6.624
+	}
+}

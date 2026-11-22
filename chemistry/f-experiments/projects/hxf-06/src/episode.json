@@ -1,0 +1,122 @@
+{
+	"id": "HXF-06",
+	"title": "定量实验：滴定与纯度计算",
+	"subject": "chemistry",
+	"book": "化学实验 · 第6期 / 共9期",
+	"points": [
+		"溶液的配制",
+		"KMnO4 滴定",
+		"碘量法",
+		"关系式法",
+		"纯度与含量计算",
+		"误差分析",
+		"滴定终点的描述"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学实验",
+		"title": [
+			[
+				"定量实验",
+				true
+			],
+			[
+				"：滴定与纯度计算"
+			]
+		],
+		"subtitle": "配制溶液 · 高锰酸钾法 · 碘量法 · 关系式",
+		"photo": "gay-lussac.jpg",
+		"photoCaption": "盖-吕萨克：发展了容量分析（滴定）方法",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"定量实验",
+					true
+				]
+			],
+			[
+				[
+					"滴定与纯度计算"
+				]
+			]
+		],
+		"photo": "gay-lussac.jpg",
+		"photoPos": {
+			"16x9": "center 40%",
+			"4x3": "center 40%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "盖-吕萨克",
+		"credit": "Julien-Léopold Boilly, CC0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "配制溶液定容时俯视刻度线，浓度偏低",
+				"ok": false,
+				"fix": "俯视加水少，浓度偏高"
+			},
+			{
+				"q": "KMnO4 滴定不需要另加指示剂",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "可以用盐酸酸化 KMnO4 溶液",
+				"ok": false,
+				"fix": "Cl^- 会被氧化，用稀硫酸"
+			},
+			{
+				"q": "碘量法中 I2 与 S2O3^2- 按 1 : 2 反应",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "配成 250 mL 取 25.00 mL 滴定，算纯度时不用乘 10",
+				"ok": false,
+				"fix": "要乘取样倍数 10"
+			},
+			{
+				"q": "滴定管未用标准液润洗，测定结果偏低",
+				"ok": false,
+				"fix": "标准液被稀释，结果偏高"
+			}
+		],
+		"endTitle": [
+			[
+				"定量实验",
+				true
+			],
+			[
+				"：滴定与纯度计算"
+			]
+		],
+		"endLine": "关系式首尾相连，取样倍数别忘乘",
+		"slogan": "关系式首尾相连，取样倍数别忘乘"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Julien-Léopold Boilly《Portrait of Joseph-Louis Gay-Lussac》（MET），CC0；插图来自 pixiv：kazukoto、MCピロリ菌、祢衣（侵删）",
+	"anime": [
+		{
+			"key": "mio",
+			"src": "mio.jpg",
+			"credit": "插图：kazukoto《秋山澪》pixiv #99302188",
+			"url": "https://www.pixiv.net/artworks/99302188"
+		},
+		{
+			"key": "kita",
+			"src": "kita.jpg",
+			"credit": "插图：MCピロリ菌《喜多郁代》pixiv #108417994",
+			"url": "https://www.pixiv.net/artworks/108417994"
+		},
+		{
+			"key": "bag",
+			"src": "bag.jpg",
+			"credit": "插图：祢衣《後藤ひとり》pixiv #121822362",
+			"url": "https://www.pixiv.net/artworks/121822362"
+		}
+	]
+}

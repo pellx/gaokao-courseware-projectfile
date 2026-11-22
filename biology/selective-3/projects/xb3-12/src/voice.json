@@ -1,0 +1,178 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第三章第一节——重组D N A技术的基本工具。",
+		"seconds": 8.976
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考限制酶的识别和切割、两种D N A连接酶的区别，以及载体应具备的条件。",
+		"seconds": 8.232
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，基因工程的概念。它是指按照人们的愿望，通过转基因等技术，赋予生物以新的遗传特性，创造出更符合人们需要的新的生物类型和生物产品。",
+		"seconds": 14.184
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|基因工程是在D N A分子水平上进行设计和施工的，所以又叫作重组D N A技术。",
+		"seconds": 8.184
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|它需要三种基本工具：限制酶是分子手术刀，D N A连接酶是分子缝合针，载体是分子运输车。",
+		"seconds": 9.384
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：载体不是酶；基因工程的原理是基因重组，能定向改造生物的遗传性状，并且能打破物种界限。",
+		"seconds": 9.888
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，限制性内切核酸酶，简称限制酶。它主要是从原核生物中分离纯化出来的。",
+		"seconds": 8.544
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|限制酶能够识别双链D N A分子的特定核苷酸序列，并且使每一条链中特定部位的磷酸二酯键断开。",
+		"seconds": 9.408
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|大多数限制酶的识别序列由6个核苷酸组成，也有少数由4个、8个或其他数量的核苷酸组成。",
+		"seconds": 9.096
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如E co R一，识别的序列是G A A T T C，在G和A之间切开。",
+		"seconds": 7.08
+	},
+	"en5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：限制酶切的是磷酸二酯键，不是氢键；它在原核生物中的作用是切割外源D N A，保护自身。",
+		"seconds": 9.696
+	},
+	"ed1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，黏性末端和平末端。限制酶在识别序列的中心轴线两侧将D N A两条链分别切开时，产生黏性末端。",
+		"seconds": 11.28
+	},
+	"ed2": {
+		"key": "zh-CN-XiaoxiaoNeural|在中心轴线处切开时，产生的是平末端，比如S ma一。",
+		"seconds": 5.664
+	},
+	"ed3": {
+		"key": "zh-CN-XiaoxiaoNeural|限制酶的识别序列大多是回文序列：两条链从五撇端到三撇端方向读，碱基顺序相同。",
+		"seconds": 8.616
+	},
+	"ed4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出识别序列，问末端类型或能否连接。解题方法：同一种限制酶切出的黏性末端一定能互补连接；不同的限制酶，只要末端碱基互补也能连接。",
+		"seconds": 15.048
+	},
+	"li1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，D N A连接酶。它把两个D N A片段之间的磷酸二酯键连接起来。",
+		"seconds": 7.632
+	},
+	"li2": {
+		"key": "zh-CN-XiaoxiaoNeural|E 扣来 D N A连接酶，来源于大肠杆菌，只能连接黏性末端。",
+		"seconds": 6.144
+	},
+	"li3": {
+		"key": "zh-CN-XiaoxiaoNeural|T 四 D N A连接酶，来源于T四噬菌体，黏性末端和平末端都能连接，但连接平末端的效率比较低。",
+		"seconds": 9.648
+	},
+	"li4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：D N A连接酶连接的是两个D N A片段，不能把单个脱氧核苷酸连到D N A链上，那是D N A聚合酶的工作。",
+		"seconds": 11.4
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，载体——质粒。质粒是一种裸露的、结构简单、独立于真核细胞细胞核或原核细胞拟核D N A之外，并具有自我复制能力的环状双链D N A分子。",
+		"seconds": 14.544
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|作为载体，必须具备：第一，能在受体细胞中进行自我复制，或整合到受体D N A上随之复制。",
+		"seconds": 9.384
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，有一个至多个限制酶切割位点，供外源D N A片段插入。",
+		"seconds": 6.024
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，有特殊的标记基因，比如抗生素抗性基因，便于重组D N A分子的筛选。",
+		"seconds": 7.992
+	},
+	"pl5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：质粒不是细胞器，也不只存在于细菌中，酵母菌等真核生物也有；载体对受体细胞应无害。",
+		"seconds": 9.336
+	},
+	"ve1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，其他载体。除了质粒，常用的载体还有噬菌体和动植物病毒。",
+		"seconds": 7.512
+	},
+	"ve2": {
+		"key": "zh-CN-XiaoxiaoNeural|在基因工程中使用的载体，往往是在天然载体的基础上经过人工改造的。",
+		"seconds": 6.816
+	},
+	"ve3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如作为载体的病毒，要去除致病性，保留侵染宿主细胞和把D N A整合进去的能力。",
+		"seconds": 8.424
+	},
+	"ve4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断能不能作载体，就看三个条件——能复制、有切点、有标记。",
+		"seconds": 7.608
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，探究实践：D N A的粗提取与鉴定。原理一：D N A不溶于酒精，但某些蛋白质溶于酒精，可以初步分离D N A和蛋白质。",
+		"seconds": 13.032
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|原理二：D N A能溶于物质的量浓度为2摩尔每升的氯化钠溶液。",
+		"seconds": 6.24
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|步骤：洋葱研磨、过滤，取上清液；加入等体积的、预冷的酒精，析出白色丝状物，就是粗提取的D N A。",
+		"seconds": 10.632
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|鉴定：把丝状物溶于氯化钠溶液，加入二苯胺试剂，沸水浴加热，溶液变成蓝色。",
+		"seconds": 8.328
+	},
+	"ex5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不选哺乳动物成熟红细胞，因为它没有细胞核；二苯胺鉴定要沸水浴，而且要设置不加D N A的对照。",
+		"seconds": 10.176
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，几种酶的比较。限制酶：断开特定部位的磷酸二酯键。",
+		"seconds": 6.624
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|D N A连接酶：连接两个D N A片段之间的磷酸二酯键。",
+		"seconds": 5.832
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|D N A聚合酶：把单个脱氧核苷酸加到已有D N A链的三撇端，形成磷酸二酯键。",
+		"seconds": 7.872
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解旋酶：断开两条链之间的氢键。",
+		"seconds": 3.624
+	},
+	"cm5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先问作用的键，再问作用的对象——是片段还是单个核苷酸。",
+		"seconds": 6.984
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：限制酶主要从原核生物中分离纯化？对。判断二：限制酶切割的是氢键？错，是磷酸二酯键。",
+		"seconds": 11.256
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：E 扣来 D N A连接酶能连接平末端？错。判断四：质粒是存在于拟核中的D N A？错，是拟核外的环状D N A。",
+		"seconds": 13.104
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：D N A不溶于酒精，某些蛋白质溶于酒精？对。判断六：D N A连接酶和D N A聚合酶都形成磷酸二酯键？对。",
+		"seconds": 13.464
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：剪刀切、针缝合、车运输。我们下期再见！",
+		"seconds": 7.128
+	}
+}

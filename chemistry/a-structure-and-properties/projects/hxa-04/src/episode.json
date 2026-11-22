@@ -1,0 +1,122 @@
+{
+	"id": "HXA-04",
+	"title": "原子结构（上）：能层、能级与原子轨道",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第4期 / 共21期",
+	"points": [
+		"能层与能级",
+		"最多容纳电子数",
+		"基态、激发态与光谱",
+		"电子云",
+		"原子轨道",
+		"能级能量比较",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"能层、能级"
+			],
+			[
+				"与原子轨道",
+				true
+			]
+		],
+		"subtitle": "K L M N · s p d f · 光谱 · 电子云",
+		"photo": "bohr.jpg",
+		"photoCaption": "玻尔：提出原子的能级模型",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"能层 能级"
+				]
+			],
+			[
+				[
+					"原子轨道",
+					true
+				]
+			]
+		],
+		"photo": "bohr.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 40%"
+		},
+		"photoTag": "玻尔",
+		"credit": "AIP, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "第三能层有 3s、3p、3d 三个能级",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "2d 能级最多容纳 10 个电子",
+				"ok": false,
+				"fix": "第二能层没有 d 能级"
+			},
+			{
+				"q": "焰色试验是电子吸收能量跃迁时发出的光",
+				"ok": false,
+				"fix": "是跃迁回较低能级时释放的"
+			},
+			{
+				"q": "电子云图中一个小黑点代表一个电子",
+				"ok": false,
+				"fix": "表示电子在此出现过一次"
+			},
+			{
+				"q": "p 轨道呈哑铃形，三个 p 轨道相互垂直",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "能层越高，能级能量一定越高",
+				"ok": false,
+				"fix": "能级交错：4s 比 3d 低"
+			}
+		],
+		"endTitle": [
+			[
+				"能层、能级"
+			],
+			[
+				"与原子轨道",
+				true
+			]
+		],
+		"endLine": "能层能级 · 容量 · 光谱 · 电子云 · 原子轨道",
+		"slogan": "能级数 = 能层序数；s p d f：2 6 10 14！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— The American Institute of Physics《Niels Bohr》Public domain；插图来自 pixiv：ちゃなつ！、さんぱい、cokeAnut10（侵删）",
+	"anime": [
+		{
+			"key": "stairs",
+			"src": "stairs.jpg",
+			"credit": "插图：ちゃなつ！《ラビットカンパニーへようこそ！ 17羽目》pixiv #107023653",
+			"url": "https://www.pixiv.net/artworks/107023653"
+		},
+		{
+			"key": "spark",
+			"src": "spark.jpg",
+			"credit": "插图：さんぱい《メンダコ祭り用》pixiv #110701561",
+			"url": "https://www.pixiv.net/artworks/110701561"
+		},
+		{
+			"key": "clones",
+			"src": "clones.jpg",
+			"credit": "插图：cokeAnut10《Bocchi's real friends》pixiv #103380471",
+			"url": "https://www.pixiv.net/artworks/103380471"
+		}
+	]
+}

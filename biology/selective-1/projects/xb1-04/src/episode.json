@@ -1,0 +1,37 @@
+{
+	"id": "XB1-04",
+	"title": "神经调节的基本方式",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第2章",
+	"points": ["反射的概念", "反射弧的组成", "传入与传出神经的判断", "反射弧受损的分析", "非条件反射与条件反射", "条件反射的建立与消退", "条件反射的意义"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["神经调节的"], ["基本方式", true]],
+		"subtitle": "反射 · 反射弧 · 条件反射",
+		"photo": "pavlov.jpg",
+		"photoCaption": "巴甫洛夫（左下坐者）用狗做实验演示",
+		"photoPos": "22% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["神经调节的"]], [["基本方式", true]]],
+		"photo": "pavlov.jpg",
+		"photoPos": "22% center",
+		"photoTag": "巴甫洛夫的狗实验",
+		"credit": "Photo: Wellcome Collection, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "只要反射弧完整，就能发生反射", "ok": false, "fix": "还需要适宜的刺激"},
+			{"q": "效应器就是肌肉或腺体", "ok": false, "fix": "是传出神经末梢及其支配的肌肉或腺体"},
+			{"q": "有神经节的是传入神经", "ok": true, "fix": ""},
+			{"q": "传出神经受损，既无感觉又无反应", "ok": false, "fix": "有感觉，无反应"},
+			{"q": "望梅止渴属于非条件反射", "ok": false, "fix": "属于条件反射"},
+			{"q": "条件反射的消退需要大脑皮层参与", "ok": true, "fix": ""}
+		],
+		"endTitle": [["神经调节的"], ["基本方式", true]],
+		"endLine": "反射 · 反射弧 · 判断方法 · 条件反射",
+		"slogan": "认准反射弧，这一节稳稳拿分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Wellcome Collection《I.P. Pavlov showing an experiment on a dog》CC BY 4.0；Wellcome Collection《The knee jerk》CC BY 4.0；Rklawton《One of Pavlov's dogs》CC BY-SA 3.0"
+}

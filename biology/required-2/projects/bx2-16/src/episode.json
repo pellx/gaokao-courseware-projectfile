@@ -1,0 +1,38 @@
+{
+	"id": "BX2-16",
+	"title": "基因突变和基因重组",
+	"subject": "biology",
+	"book": "人教版·必修2·第5章",
+	"points": ["镰状细胞贫血的病因", "基因突变的概念", "替换、增添与缺失", "细胞的癌变", "突变的原因和特点", "基因突变的意义", "基因重组", "突变与重组的比较"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["基因突变和"], ["基因重组", true]],
+		"subtitle": "镰状细胞贫血 · 细胞癌变 · 两种基因重组",
+		"photo": "sickle.jpg",
+		"photoCaption": "镰状细胞贫血患者的血涂片",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["基因突变和"]], [["基因重组", true]]],
+		"kicker": "镰状细胞 · 癌变 · 重组",
+		"photo": "sickle.jpg",
+		"photoPos": "center 50%",
+		"photoTag": "镰状的红细胞",
+		"credit": "Photo: Keith Chambers, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "基因突变一定会引起生物性状的改变", "ok": false, "fix": "不一定，如密码子简并、隐性突变"},
+			{"q": "基因突变改变了基因的碱基序列", "ok": true, "fix": ""},
+			{"q": "原癌基因和抑癌基因只存在于癌细胞中", "ok": false, "fix": "正常细胞中都有"},
+			{"q": "基因突变是定向的，可以产生新基因", "ok": false, "fix": "基因突变是不定向的"},
+			{"q": "同源染色体非姐妹染色单体互换会导致基因重组", "ok": true, "fix": ""},
+			{"q": "受精时雌雄配子随机结合属于基因重组", "ok": false, "fix": "不属于，基因重组发生在减数分裂"}
+		],
+		"endTitle": [["基因突变和"], ["基因重组", true]],
+		"endLine": "碱基替换 · 增添缺失 · 癌变 · 不定向 · 两种重组",
+		"slogan": "突变产生新基因，重组产生新组合！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Keith Chambers《Sickle Cell Blood Smear》CC BY-SA 3.0（裁切）"
+}

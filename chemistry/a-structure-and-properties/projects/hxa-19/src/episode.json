@@ -1,0 +1,122 @@
+{
+	"id": "HXA-19",
+	"title": "晶胞计算（下）：原子分数坐标、投影图与陌生晶胞",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第19期 / 共21期",
+	"points": [
+		"原子分数坐标",
+		"由已知坐标推坐标",
+		"晶胞投影图",
+		"四面体与八面体空隙",
+		"掺杂、取代与空位",
+		"陌生晶胞综合分析",
+		"压轴空的审题顺序"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"晶胞计算（下）："
+			],
+			[
+				"坐标、投影与陌生晶胞",
+				true
+			]
+		],
+		"subtitle": "原子分数坐标 · 投影图 · 空隙 · 钙钛矿",
+		"photo": "perovskite.jpg",
+		"photoCaption": "钙钛矿矿石：钛酸钙型晶胞的原型",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"晶胞计算"
+				]
+			],
+			[
+				[
+					"坐标",
+					true
+				],
+				[
+					"投影",
+					true
+				]
+			]
+		],
+		"photo": "perovskite.jpg",
+		"photoPos": "center",
+		"photoTag": "钙钛矿",
+		"credit": "Andrew Silver, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "体心原子的分数坐标为 (1/2, 1/2, 1/2)",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "原子分数坐标的数值可以大于 1",
+				"ok": false,
+				"fix": "在 0～1 之间"
+			},
+			{
+				"q": "可以用投影图直接数出晶胞中的原子数",
+				"ok": false,
+				"fix": "一个投影点可能对应多个原子"
+			},
+			{
+				"q": "面心立方晶胞中有 8 个四面体空隙",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "CaTiO3 中 Ti 周围最近的 O 有 6 个",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "α-Fe 与 γ-Fe 的配位数相同",
+				"ok": false,
+				"fix": "体心立方 8，面心立方 12"
+			}
+		],
+		"endTitle": [
+			[
+				"晶胞计算（下）："
+			],
+			[
+				"坐标、投影与陌生晶胞",
+				true
+			]
+		],
+		"endLine": "分数坐标 · 推坐标 · 投影图 · 空隙 · 掺杂 · 陌生晶胞",
+		"slogan": "先化学式，再距离，后密度！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Andrew Silver《Perovskite - USGS Mineral Specimens 824》Public domain；插图来自 pixiv：UIOP、飛来ボデー、モグイナ（侵删）",
+	"anime": [
+		{
+			"key": "chess",
+			"src": "chess.jpg",
+			"credit": "插图：UIOP《無題》pixiv #139870876",
+			"url": "https://www.pixiv.net/artworks/139870876"
+		},
+		{
+			"key": "shadow",
+			"src": "shadow.jpg",
+			"credit": "插图：飛来ボデー《ぼっちざろっく》pixiv #115872556",
+			"url": "https://www.pixiv.net/artworks/115872556"
+		},
+		{
+			"key": "hide",
+			"src": "hide.jpg",
+			"credit": "插图：モグイナ《段ボール入りぼっちちゃん》pixiv #102733020",
+			"url": "https://www.pixiv.net/artworks/102733020"
+		}
+	]
+}

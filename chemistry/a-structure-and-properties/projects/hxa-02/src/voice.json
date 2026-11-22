@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|元素周期表与碱金属、卤族元素。",
+		"seconds": 3.888
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常考周期表的结构、同主族元素的递变规律和卤素的置换实验，共七个考点。",
+		"seconds": 8.16
+	},
+	"tb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，元素周期表的结构。元素按核电荷数递增排列，电子层数相同的排成一个横行，叫一个周期。",
+		"seconds": 10.416
+	},
+	"tb2": {
+		"key": "zh-CN-XiaoxiaoNeural|一共7个周期：第一、二、三周期是短周期，第四到第七周期是长周期。",
+		"seconds": 7.608
+	},
+	"tb3": {
+		"key": "zh-CN-XiaoxiaoNeural|最外层电子数相同的元素排成纵列，共18个纵列，分成16个族。",
+		"seconds": 6.744
+	},
+	"tb4": {
+		"key": "zh-CN-XiaoxiaoNeural|其中有7个主族、7个副族，还有第八族和零族；第八族一族就占了8、9、10三个纵列。",
+		"seconds": 8.88
+	},
+	"tb5": {
+		"key": "zh-CN-XiaoxiaoNeural|第六、第七周期的第3列，分别容纳15种镧系元素和15种锕系元素。",
+		"seconds": 7.176
+	},
+	"tb6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：周期序数等于电子层数，主族序数等于最外层电子数；第一A族里的氢不是碱金属。",
+		"seconds": 9.144
+	},
+	"zn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，原子序数的关系。各周期的元素种数依次是2、8、8、18、18、32、32。",
+		"seconds": 10.176
+	},
+	"zn2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以同主族上下相邻的两种元素，原子序数可能相差2、8、18或32。",
+		"seconds": 8.064
+	},
+	"zn3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如钠是11号、钾是19号，相差8；氯是17号、溴是35号，相差18。",
+		"seconds": 8.352
+	},
+	"zn4": {
+		"key": "zh-CN-XiaoxiaoNeural|再看同一周期的第二A族和第三A族：第二、三周期相差1；第四、五周期中间隔着10种过渡元素，相差11；第六、七周期还多了镧系、锕系，相差25。",
+		"seconds": 16.056
+	},
+	"zn5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先确定元素在第几周期，再数中间隔了多少种元素；选择题里常要把几种可能都列出来。",
+		"seconds": 9.768
+	},
+	"ak1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，碱金属的结构与化学性质。锂、钠、钾、铷、铯的原子最外层都只有1个电子，容易失去，化学性质相似。",
+		"seconds": 12.216
+	},
+	"ak2": {
+		"key": "zh-CN-XiaoxiaoNeural|它们都能与氧气反应，也都能与水反应，生成相应的碱和氢气。",
+		"seconds": 6.048
+	},
+	"ak3": {
+		"key": "zh-CN-XiaoxiaoNeural|从上到下，电子层数增多、原子半径增大，原子核对最外层电子的吸引减弱，失电子能力增强，金属性增强。",
+		"seconds": 10.92
+	},
+	"ak4": {
+		"key": "zh-CN-XiaoxiaoNeural|所以钾比钠更活泼：钾与水反应更剧烈，钾浮在水面、熔成小球，还能听到轻微的爆炸声；钾在空气中燃烧，生成比过氧化物更复杂的氧化物。",
+		"seconds": 13.752
+	},
+	"ak4b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像这个抱着炸弹的女孩：越往下的碱金属，和水一碰，反应就越猛烈。",
+		"seconds": 6.936
+	},
+	"ak5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：锂与氧气反应只生成氧化锂；钠放进硫酸铜溶液，先和水反应，不能把铜置换出来。",
+		"seconds": 9.048
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，碱金属单质的物理性质。除铯略带金色光泽外，都是银白色，质软，密度小，熔点低，导电导热性好。",
+		"seconds": 11.304
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|从锂到铯，熔点和沸点逐渐降低。",
+		"seconds": 3.672
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|密度总体逐渐增大，但钾的密度比钠小，这是个反常。",
+		"seconds": 5.304
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|锂的密度比煤油还小，所以锂封存在石蜡里；钠和钾保存在煤油中。",
+		"seconds": 6.624
+	},
+	"ap5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“碱金属单质密度从上到下依次增大”是错的；熔沸点降低的是碱金属，卤素单质的熔沸点是升高的，别记反。",
+		"seconds": 11.04
+	},
+	"hl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，卤族元素。氟、氯、溴、碘的原子最外层都有7个电子，容易得到1个电子，化学性质相似。",
+		"seconds": 10.896
+	},
+	"hl2": {
+		"key": "zh-CN-XiaoxiaoNeural|单质的颜色逐渐加深：氟气淡黄绿色，氯气黄绿色，溴是深红棕色液体，碘是紫黑色固体；熔点、沸点逐渐升高。",
+		"seconds": 11.424
+	},
+	"hl2b": {
+		"key": "zh-CN-XiaoxiaoNeural|颜色一路加深，就像这位小画家的调色盘：从浅浅的黄绿色，一直画到深色。",
+		"seconds": 7.536
+	},
+	"hl3": {
+		"key": "zh-CN-XiaoxiaoNeural|与氢气化合越来越难：氟在暗处就能剧烈化合并爆炸，碘要持续加热才能化合，而且反应可逆。",
+		"seconds": 9.288
+	},
+	"hl4": {
+		"key": "zh-CN-XiaoxiaoNeural|生成的氢化物稳定性逐渐减弱：氟化氢大于氯化氢大于溴化氢大于碘化氢。",
+		"seconds": 7.608
+	},
+	"hl5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：从上到下非金属性减弱，所以氢化物越来越不稳定；熔沸点升高是分子变大的缘故，和非金属性无关。",
+		"seconds": 10.728
+	},
+	"dp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，卤素单质间的置换反应。把少量新制氯水分别加入溴化钾溶液和碘化钾溶液中，振荡。",
+		"seconds": 9.696
+	},
+	"dp2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气把溴置换出来，溶液变成橙黄色；氯气把碘置换出来，溶液变成棕黄色。",
+		"seconds": 7.944
+	},
+	"dp3": {
+		"key": "zh-CN-XiaoxiaoNeural|再把溴水加入碘化钾溶液，溶液也变成棕黄色：溴能置换出碘。",
+		"seconds": 6.432
+	},
+	"dp4": {
+		"key": "zh-CN-XiaoxiaoNeural|结论：单质的氧化性，氟气大于氯气大于溴大于碘；对应阴离子的还原性正好相反。",
+		"seconds": 8.448
+	},
+	"dp5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：由置换现象比较氧化性强弱。易错：氟气不能从氯化钠溶液里置换出氯气，因为氟气先和水反应了。",
+		"seconds": 11.328
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，“位—构—性”推理。同主族元素最外层电子数相同，所以化学性质相似。",
+		"seconds": 8.064
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|从上到下，电子层数增多，原子半径增大，原子核对最外层电子的吸引减弱。",
+		"seconds": 7.824
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|于是失电子能力增强、得电子能力减弱：金属性增强，非金属性减弱。",
+		"seconds": 7.248
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如铯在碱金属最下方：铯与水反应比钾还剧烈，氢氧化铯是强碱。",
+		"seconds": 7.2
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|砹在卤素最下方：砹单质是有色固体，砹化氢很不稳定，砹化银难溶于水。",
+		"seconds": 7.608
+	},
+	"pr6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：按“位置 → 结构 → 性质”推；写理由时就用“电子层数增多、半径增大、核对最外层电子的吸引减弱”这条链。",
+		"seconds": 11.064
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：周期表有18个纵列，也就是18个族？错，是16个族，第八族占3个纵列。判断二：同主族相邻元素原子序数之差可能是2、8、18、32？对。",
+		"seconds": 17.112
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：碱金属单质的密度从锂到铯依次增大？错，钾比钠小。判断四：碱金属熔点从上到下降低，卤素单质熔点从上到下升高？对。",
+		"seconds": 14.736
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：氯水加入碘化钾溶液后变色，说明氧化性氯气大于碘？对。判断六：氟化氢、氯化氢、溴化氢、碘化氢稳定性依次增强？错，依次减弱。",
+		"seconds": 16.2
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|同主族最外层电子相同，从上到下金属性增强、非金属性减弱。下一期：元素周期律。",
+		"seconds": 9.288
+	}
+}

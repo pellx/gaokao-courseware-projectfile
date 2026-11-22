@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Order: React.FC = () => <AutoScene k="order" d={{"tag": "考点四", "title": "先后规律", "blocks": [{"t": "big", "at": "or2", "text": "还原性：{I^-} > {Fe^2+|orange} > Br^-", "size": 44}, {"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "Cl2 通入 FeBr2", "at": "or2", "lines": ["① 先氧化 {Fe^2+}", "② 再氧化 Br^-", "少量 Cl2：2Fe^2+ + Cl2 = 2Fe^3+ + 2Cl^-"], "c": "red", "size": 29}]}, {"blocks": [{"t": "panel", "title": "Cl2 通入 FeI2", "at": "or3", "lines": ["① 先氧化 {I^-}", "② 再氧化 Fe^2+", "少量 Cl2：2I^- + Cl2 = I2 + 2Cl^-"], "c": "orange", "size": 29}]}]}, {"t": "rule", "tag": "反过来", "at": "or4", "text": "Fe 加入 Fe^3+、Cu^2+ 混合液：先还原氧化性强的 {Fe^3+}", "c": "green", "size": 29}], "callout": {"label": "易错", "at": "or5", "text": "少量 Cl2 与 FeBr2：只氧化 Fe^2+，{Br^- 不参加}"}, "beat": {"k": "queue", "at": "or3b", "text": "排队：\n{还原性最强的先反应|red}"}}} />;

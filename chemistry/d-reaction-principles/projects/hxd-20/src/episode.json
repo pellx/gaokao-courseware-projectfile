@@ -1,0 +1,123 @@
+{
+	"id": "HXD-20",
+	"title": "溶液中的图像",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第20期 / 共20期",
+	"points": [
+		"稀释曲线",
+		"导电能力曲线",
+		"分布系数图",
+		"对数图像",
+		"滴定曲线中的守恒",
+		"水的电离程度曲线",
+		"溶液图像解题法"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"溶液中的",
+				false
+			],
+			[
+				"图像",
+				true
+			]
+		],
+		"subtitle": "稀释 · 导电 · 分布系数 · 对数图 · 水的电离程度",
+		"photo": "phenolphthalein.jpg",
+		"photoCaption": "酚酞在弱碱性溶液中呈浅红色",
+		"photoPos": "center 70%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"溶液中的",
+					false
+				],
+				[
+					"图像",
+					true
+				]
+			]
+		],
+		"photo": "phenolphthalein.jpg",
+		"photoPos": {
+			"16x9": "center 70%",
+			"4x3": "center 70%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "酚酞",
+		"credit": "Kengksn, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "起点 pH 相同的两种酸稀释相同倍数，pH 变化小的是强酸",
+				"ok": false,
+				"fix": "变化小的是弱酸"
+			},
+			{
+				"q": "冰醋酸加水过程中，导电能力最强时醋酸的电离程度最大",
+				"ok": false,
+				"fix": "电离程度随加水一直增大"
+			},
+			{
+				"q": "分布系数图中 HA 与 A^- 的交点处 pH = pK_a",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NaOH 滴定醋酸至 pH = 7 时，c(Na^+) = c(CH3COO^-)",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "滴定过程中水的电离程度最大的点是中性点",
+				"ok": false,
+				"fix": "是恰好反应点"
+			},
+			{
+				"q": "lg[c(A^-)/c(HA)] = 0 时，c(A^-) = c(HA)",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"溶液中的",
+				false
+			],
+			[
+				"图像",
+				true
+			]
+		],
+		"endLine": "看坐标、抓特殊点、定溶质、用守恒",
+		"slogan": "看坐标、抓特殊点、定溶质、用守恒"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Kengksn《Faint pink color of Phenolphthalein》，CC BY-SA 4.0；插图来自 pixiv：アマノ、ゆうさく、倉林（侵删）",
+	"anime": [
+		{
+			"key": "crowd",
+			"src": "crowd.jpg",
+			"credit": "插图：アマノ《【けいおん！】ちびきゃらーず【３年２組】》pixiv #12952007",
+			"url": "https://www.pixiv.net/artworks/12952007"
+		},
+		{
+			"key": "minis",
+			"src": "minis.jpg",
+			"credit": "插图：ゆうさく《けいおん部に懐かれた黄前さん!》pixiv #86630884",
+			"url": "https://www.pixiv.net/artworks/86630884"
+		},
+		{
+			"key": "faces",
+			"src": "faces.jpg",
+			"credit": "插图：倉林《なんという可愛さ》pixiv #12026859",
+			"url": "https://www.pixiv.net/artworks/12026859"
+		}
+	]
+}

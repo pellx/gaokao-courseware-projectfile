@@ -1,0 +1,38 @@
+{
+	"id": "BX2-02",
+	"title": "孟德尔的豌豆杂交实验（一）（下）：分离定律的应用",
+	"subject": "biology",
+	"book": "人教版·必修2·第1章",
+	"points": ["分离定律的内容", "显隐性的判断", "纯合子与杂合子鉴定", "由子代推亲代", "杂合子连续自交", "自交与自由交配", "异常分离比", "遗传概率计算"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["分离定律的"], ["应用", true]],
+		"subtitle": "孟德尔的豌豆杂交实验（一）（下） · 判断 · 计算",
+		"photo": "peapods.jpg",
+		"photoCaption": "豌豆：遗传学的经典材料",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["分离定律的"]], [["应用", true]]],
+		"kicker": "显隐性 · 自由交配 · 致死",
+		"photo": "peapods.jpg",
+		"photoPos": "center 50%",
+		"photoTag": "一对相对性状的计算",
+		"credit": "Photo: George Chernilevsky, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "分离定律也适用于大肠杆菌等原核生物", "ok": false, "fix": "只适用于真核生物有性生殖的细胞核遗传"},
+			{"q": "鉴定一株高茎豌豆是否纯合，最简便的方法是测交", "ok": false, "fix": "最简便的是自交"},
+			{"q": "Aa 连续自交 3 代，F3 中杂合子占 1/8", "ok": true, "fix": ""},
+			{"q": "AA∶Aa = 1∶2 的群体自由交配，后代 aa 占 1/6", "ok": false, "fix": "自由交配 aa 占 1/9，自交才是 1/6"},
+			{"q": "黄鼠与黄鼠交配，后代黄∶灰 = 2∶1，说明显性纯合致死", "ok": true, "fix": ""},
+			{"q": "双亲正常生出患病女儿，其正常弟弟是携带者的概率为 1/2", "ok": false, "fix": "应为 2/3"}
+		],
+		"endTitle": [["分离定律的"], ["应用", true]],
+		"endLine": "显隐性 · 纯合鉴定 · 推亲代 · 连续自交 · 自由交配 · 致死",
+		"slogan": "先判显隐，再写配子，最后算比例！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— George Chernilevsky《Peas in pods 2016 G1》Public domain"
+}

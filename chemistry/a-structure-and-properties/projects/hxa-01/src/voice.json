@@ -1,0 +1,198 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|原子结构与核素。",
+		"seconds": 2.184
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常考微粒数目的计算、结构示意图的正误和同位素的辨析，共七个考点。",
+		"seconds": 7.704
+	},
+	"at1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，原子的构成。原子由居于中心的原子核和核外电子构成，原子核又由质子和中子构成。",
+		"seconds": 9.792
+	},
+	"at2": {
+		"key": "zh-CN-XiaoxiaoNeural|质子带一个单位正电荷，中子不带电，电子带一个单位负电荷；原子整体不显电性。",
+		"seconds": 8.088
+	},
+	"at3": {
+		"key": "zh-CN-XiaoxiaoNeural|质子和中子的相对质量都约为1，电子的质量很小，所以原子的质量几乎全部集中在原子核上。",
+		"seconds": 9.216
+	},
+	"at3b": {
+		"key": "zh-CN-XiaoxiaoNeural|打个比方：原子核比手心里这只小恐龙还要小得多，可原子的质量几乎全在它身上。",
+		"seconds": 8.016
+	},
+	"at4": {
+		"key": "zh-CN-XiaoxiaoNeural|把质子数和中子数相加，就得到质量数：A等于Z加N。",
+		"seconds": 5.64
+	},
+	"at5": {
+		"key": "zh-CN-XiaoxiaoNeural|例如氯三十七：质子数17，质量数37，中子数就是37减17，等于20。",
+		"seconds": 8.352
+	},
+	"at6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出核素符号求质子数、中子数、电子数。易错：左上角是质量数不是中子数，中子数要用A减Z算出来。",
+		"seconds": 12.144
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，原子和离子中的数量关系。原子里：核电荷数等于质子数，等于核外电子数，也等于原子序数。",
+		"seconds": 10.344
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|原子变成离子，变的只是电子，质子数和中子数都不变。",
+		"seconds": 5.76
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|阳离子失去电子，电子数等于Z减电荷数，例如钠离子：11个质子，10个电子。",
+		"seconds": 8.04
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|阴离子得到电子，电子数等于Z加电荷数，例如硫离子：16个质子，18个电子。",
+		"seconds": 8.28
+	},
+	"ct5": {
+		"key": "zh-CN-XiaoxiaoNeural|多原子微粒先把各原子的质子数相加，再按电荷加减电子，例如氢氧根离子：9个质子，10个电子。",
+		"seconds": 9.864
+	},
+	"ct6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断两种微粒的质子数、电子数是否相同。易错：电荷只改变电子数，质子数不随电荷变。",
+		"seconds": 10.44
+	},
+	"sh1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，核外电子的分层排布。由内向外依次是K、L、M、N层，离核越近，电子的能量越低。",
+		"seconds": 10.368
+	},
+	"sh2": {
+		"key": "zh-CN-XiaoxiaoNeural|规律一：电子先排能量低的内层，排满了再排外层。",
+		"seconds": 5.352
+	},
+	"sh3": {
+		"key": "zh-CN-XiaoxiaoNeural|规律二：第n层最多容纳2n的平方个电子，所以K层最多2个，L层8个，M层18个。",
+		"seconds": 9.024
+	},
+	"sh4": {
+		"key": "zh-CN-XiaoxiaoNeural|规律三：最外层不超过8个，K层作最外层时不超过2个；次外层不超过18个。",
+		"seconds": 8.424
+	},
+	"sh5": {
+		"key": "zh-CN-XiaoxiaoNeural|所以钾是2、8、8、1，而不是2、8、9——那样M层成了最外层，却有9个电子。",
+		"seconds": 9
+	},
+	"sh6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：几条规律要同时满足，排完逐层检查。易错：2n的平方只是上限，不是每层都要排满。",
+		"seconds": 10.152
+	},
+	"dg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，原子和离子的结构示意图。圆圈表示原子核，圈内写带正号的核电荷数；弧线表示电子层，弧线上是该层的电子数。",
+		"seconds": 12.72
+	},
+	"dg2": {
+		"key": "zh-CN-XiaoxiaoNeural|钠原子是正11，2、8、1；失去最外层的1个电子，变成钠离子，是正11，2、8。",
+		"seconds": 9.264
+	},
+	"dg3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯原子是正17，2、8、7；得到1个电子，变成氯离子，是正17，2、8、8。",
+		"seconds": 9.12
+	},
+	"dg4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断原子还是离子，比较核电荷数与电子总数：相等是原子，核电荷数大是阳离子，小是阴离子。",
+		"seconds": 9.864
+	},
+	"dg5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：离子示意图的核电荷数不变，把氯离子圈内写成正18是常见错误；圈内的正号也不能漏。",
+		"seconds": 9.432
+	},
+	"nc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，核素与同位素。元素符号的左上角写质量数A，左下角写质子数Z。",
+		"seconds": 8.088
+	},
+	"nc2": {
+		"key": "zh-CN-XiaoxiaoNeural|具有一定数目质子和一定数目中子的一种原子叫核素；质子数相同的同一类原子总称为元素。",
+		"seconds": 8.64
+	},
+	"nc3": {
+		"key": "zh-CN-XiaoxiaoNeural|质子数相同而中子数不同的同一元素的不同原子，互称同位素，例如氢的三种核素：氕、氘、氚。",
+		"seconds": 9.84
+	},
+	"nc4": {
+		"key": "zh-CN-XiaoxiaoNeural|氕没有中子；氘有1个中子，也写作D；氚有2个中子，也写作T。",
+		"seconds": 6.96
+	},
+	"nc4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这三个粉头发的女孩：过去、现在、未来，都是同一个人，就像质子数相同，是同一种元素。",
+		"seconds": 9.216
+	},
+	"nc4c": {
+		"key": "zh-CN-XiaoxiaoNeural|可她们又各不相同，就像中子数不同，是不同的核素，彼此互为同位素。",
+		"seconds": 6.912
+	},
+	"nc5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：数一数给出的微粒有几种元素、几种核素。易错：同位素说的是原子，H2、D2、T2不是同位素，它们都是氢气。",
+		"seconds": 12.72
+	},
+	"is1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，同位素的性质和应用。同位素核外电子排布相同，所以化学性质几乎完全相同；质量不同，物理性质有差异。",
+		"seconds": 11.688
+	},
+	"is2": {
+		"key": "zh-CN-XiaoxiaoNeural|几个用途要记住：碳十四测定文物年代，氢二和氢三用于制造氢弹，放射性同位素用于疾病的诊断和治疗。",
+		"seconds": 10.248
+	},
+	"is3": {
+		"key": "zh-CN-XiaoxiaoNeural|元素的相对原子质量，是按该元素各种核素所占的百分比算出的平均值。",
+		"seconds": 7.008
+	},
+	"is4": {
+		"key": "zh-CN-XiaoxiaoNeural|例如氯：氯三十五约占百分之七十五，氯三十七约占百分之二十五，35乘0.75，加37乘0.25，约等于35.5。",
+		"seconds": 12.384
+	},
+	"is5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：质量数是对某一种核素说的，是整数；相对原子质量是对元素说的平均值，两者不能混用。",
+		"seconds": 9.768
+	},
+	"cf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，易混的四同。同位素研究原子，如氕和氘；同素异形体研究单质，是同种元素形成的不同单质，如氧气和臭氧。",
+		"seconds": 12.12
+	},
+	"cf2": {
+		"key": "zh-CN-XiaoxiaoNeural|同分异构体是分子式相同、结构不同的化合物，如正丁烷和异丁烷；同系物是结构相似、相差若干个C H 2原子团的有机物，如甲烷和乙烷。",
+		"seconds": 13.848
+	},
+	"cf3": {
+		"key": "zh-CN-XiaoxiaoNeural|另一类常考归纳是10电子微粒。分子有：氖、氟化氢、水、氨气、甲烷。",
+		"seconds": 8.04
+	},
+	"cf4": {
+		"key": "zh-CN-XiaoxiaoNeural|离子有：钠离子、镁离子、铝离子、氟离子、氧离子、氢氧根离子、铵根离子、水合氢离子。",
+		"seconds": 9.768
+	},
+	"cf5": {
+		"key": "zh-CN-XiaoxiaoNeural|18电子微粒常见的有：氩、氯化氢、硫化氢、磷化氢、硅烷、过氧化氢，钾离子、钙离子、氯离子、硫离子、硫氢根离子。",
+		"seconds": 13.008
+	},
+	"cf6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：四同先看研究对象是原子、单质、化合物还是有机物；电子数就用质子数加减电荷来算。",
+		"seconds": 10.128
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：氧十八原子的中子数是18？错，是18减8，等于10。判断二：钠离子和钠原子质子数相同、电子数不同？对。",
+		"seconds": 13.488
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氯离子的结构示意图圈内写正18？错，核电荷数不变，仍是正17。判断四：H2、D2、T2互为同位素？错，它们都是氢气。",
+		"seconds": 15.6
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：同位素化学性质几乎相同、物理性质有差异？对。判断六：M层排满18个电子后才能排N层？错，最外层不超过8，钾就是2、8、8、1。",
+		"seconds": 16.56
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|质子数定元素，中子数分核素，电子分层排布决定性质。下一期：元素周期表与碱金属、卤族元素。",
+		"seconds": 10.824
+	}
+}

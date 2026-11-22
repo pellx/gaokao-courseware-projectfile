@@ -1,0 +1,38 @@
+{
+	"id": "XB1-10",
+	"title": "血糖平衡的调节",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第3章",
+	"points": ["血糖的来源与去路", "胰岛素与胰高血糖素", "血糖调节的过程", "反馈调节", "血糖与激素曲线", "1型与2型糖尿病", "尿糖检测与判断", "验证胰岛素的实验"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["血糖平衡的"], ["调节", true]],
+		"subtitle": "激素调节的过程（上）",
+		"photo": "glucose-test.jpg",
+		"photoCaption": "用血糖仪测量血糖",
+		"photoPos": "45% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["血糖平衡的"]], [["调节", true]]],
+		"kicker": "激素调节的过程（上）",
+		"photo": "glucose-test.jpg",
+		"photoPos": "45% center",
+		"photoTag": "血糖：3.9～6.1 mmol/L",
+		"credit": "Photo: Biswarup Ganguly, CC BY 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "肌糖原可以直接分解成葡萄糖补充血糖", "ok": false, "fix": "只有肝糖原能直接分解补充血糖"},
+			{"q": "胰岛素是唯一能降低血糖的激素", "ok": true, "fix": ""},
+			{"q": "胰高血糖素与肾上腺素在升血糖上相抗衡", "ok": false, "fix": "二者是协同作用"},
+			{"q": "血糖调节只有激素调节，没有神经调节", "ok": false, "fix": "下丘脑可通过自主神经调节胰岛"},
+			{"q": "2型糖尿病患者注射胰岛素效果往往不佳", "ok": true, "fix": ""},
+			{"q": "尿中有糖，一定是糖尿病", "ok": false, "fix": "一次吃糖过多、肾脏病变也可能出现尿糖"}
+		],
+		"endTitle": [["血糖平衡的"], ["调节", true]],
+		"endLine": "来源去路 · 胰岛素 · 胰高血糖素 · 反馈 · 糖尿病",
+		"slogan": "一降两升记清楚，血糖题稳稳拿分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Biswarup Ganguly《Blood Glucose Testing - Kolkata 2011-07-25 3982》CC BY 3.0"
+}

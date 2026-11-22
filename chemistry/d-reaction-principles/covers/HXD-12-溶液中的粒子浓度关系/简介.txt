@@ -1,0 +1,20 @@
+本期考点
+
+一、两个“微弱”（电离和水解都是微弱的，分步以第一步为主）
+二、电荷守恒（带几个电荷乘几，只写离子）
+三、物料守恒（元素总量不变，系数看原子个数比）
+四、质子守恒（电荷守恒与物料守恒联立）
+五、单一溶液排序（NH₄Cl、Na₂CO₃、NaHCO₃）
+六、混合溶液排序（等浓度 CH₃COOH 与 CH₃COONa、NH₃·H₂O 与 NH₄Cl）
+七、解题方法（定溶质 → 比电离水解 → 写守恒排大小）
+
+图片来源
+1.Peter Elfelt《Johannes Brønsted》，公有领域（Wikimedia Commons）
+2.插图：Guyooku《035 安和すばる, ガールズバンドクライ》
+https://www.pixiv.net/artworks/119149526
+3.插图：6っ２《冬コミC103 新刊サンプル（ぼざろフルカラー漫画）》
+https://www.pixiv.net/artworks/114577887
+4.插图：じゅんけい《かすみ》
+https://www.pixiv.net/artworks/137361437
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

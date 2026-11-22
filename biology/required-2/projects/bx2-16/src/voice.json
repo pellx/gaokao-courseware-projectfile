@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第五章第一节——基因突变和基因重组。",
+		"seconds": 7.752
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考碱基变化对蛋白质的影响、细胞癌变、基因突变的特点和两种基因重组。",
+		"seconds": 7.992
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"sk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，镰状细胞贫血的病因。患者的红细胞呈镰刀状，容易破裂，使人患溶血性贫血。",
+		"seconds": 9
+	},
+	"sk2": {
+		"key": "zh-CN-XiaoxiaoNeural|直接原因：血红蛋白中一个谷氨酸被缬氨酸替换。",
+		"seconds": 5.232
+	},
+	"sk3": {
+		"key": "zh-CN-XiaoxiaoNeural|根本原因：血红蛋白基因中一个碱基对被替换，模板链上的 CTC 变成了 CAC，mRNA 上的 GAG 变成了 GUG。",
+		"seconds": 11.208
+	},
+	"sk4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：分清直接原因是蛋白质改变，根本原因是基因改变；可以用显微镜观察红细胞形态来诊断。",
+		"seconds": 9.6
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，基因突变：DNA 分子中发生碱基的替换、增添或缺失，而引起的基因碱基序列的改变。",
+		"seconds": 9.408
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|基因突变的结果是产生新基因，往往是原基因的等位基因。",
+		"seconds": 5.544
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|基因突变主要发生在 DNA 复制时，也就是有丝分裂前的间期和减数分裂一前的间期。",
+		"seconds": 8.4
+	},
+	"cn4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：DNA 上不是基因的片段发生碱基改变，不叫基因突变；基因突变在光学显微镜下看不到。",
+		"seconds": 9.48
+	},
+	"ef1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，替换、增添、缺失对蛋白质的影响。替换一个碱基对：只改变一个密码子，影响较小。",
+		"seconds": 10.032
+	},
+	"ef2": {
+		"key": "zh-CN-XiaoxiaoNeural|可能氨基酸不变，因为密码子的简并；可能换成另一个氨基酸；也可能变成终止密码子，肽链提前终止。",
+		"seconds": 9.552
+	},
+	"ef3": {
+		"key": "zh-CN-XiaoxiaoNeural|增添或缺失一个碱基对：插入或缺失位置后面的密码子全部改变，影响较大。",
+		"seconds": 7.512
+	},
+	"ef4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看氨基酸序列——只有一个氨基酸改变，多半是替换；后面一串都变，是增添或缺失。增添或缺失 3 个碱基对，影响相对小。",
+		"seconds": 13.272
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，细胞的癌变。原癌基因表达的蛋白质是细胞正常生长和增殖所必需的，突变或过量表达会使细胞增殖失控。",
+		"seconds": 11.472
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|抑癌基因表达的蛋白质能抑制细胞生长和增殖，或促进细胞凋亡，它突变后活性减弱或失去活性，也可能引起癌变。",
+		"seconds": 11.016
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|癌细胞的特征：能够无限增殖；形态结构发生显著变化；细胞膜上糖蛋白减少，容易分散和转移。",
+		"seconds": 9.888
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：原癌基因和抑癌基因在正常细胞中都存在；癌变是多个基因突变累积的结果，不是一个基因突变就癌变。",
+		"seconds": 10.512
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，基因突变的原因：物理因素如紫外线、X 射线；化学因素如亚硝酸盐、碱基类似物；生物因素如某些病毒。",
+		"seconds": 11.688
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|没有外界诱发，DNA 复制偶尔出错，也会自发突变。",
+		"seconds": 5.28
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|特点：普遍性，所有生物都可能发生；随机性，任何时期、任何 DNA、任何部位；不定向性；低频性。",
+		"seconds": 10.584
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：基因突变是不定向的，一个基因可以突变成多个等位基因；外界因素只是提高突变频率，不能决定突变方向。",
+		"seconds": 10.776
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，基因突变的意义：基因突变是产生新基因的途径，是生物变异的根本来源，为生物进化提供了原材料。",
+		"seconds": 10.416
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|基因突变的利害：可能破坏生物体与现有环境的协调关系而有害，也可能有利，如抗病性、耐旱性突变；还有些是中性的。",
+		"seconds": 11.496
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|能否遗传：发生在生殖细胞中的，可以遗传给后代；发生在体细胞中的，一般不能通过有性生殖遗传，但植物可以通过无性生殖传递。",
+		"seconds": 12.384
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：基因突变一定改变基因，但不一定改变性状——比如密码子简并，或者 大A大A 突变成 大A小a 隐性突变。",
+		"seconds": 11.136
+	},
+	"rc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，基因重组：在生物体进行有性生殖的过程中，控制不同性状的基因的重新组合。",
+		"seconds": 8.568
+	},
+	"rc2": {
+		"key": "zh-CN-XiaoxiaoNeural|类型一：减数分裂一后期，非同源染色体上的非等位基因自由组合。",
+		"seconds": 6.768
+	},
+	"rc3": {
+		"key": "zh-CN-XiaoxiaoNeural|类型二：减数分裂一前期，四分体中非姐妹染色单体互换，导致同源染色体上的非等位基因重组。",
+		"seconds": 9.792
+	},
+	"rc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：基因重组不产生新基因，只产生新的基因型；受精时雌雄配子随机结合不是基因重组；一对等位基因的分离也不是。",
+		"seconds": 11.76
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，基因突变与基因重组的比较。本质：突变改变基因的碱基序列；重组是原有基因的重新组合。",
+		"seconds": 10.368
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：突变产生新基因；重组产生新基因型。",
+		"seconds": 5.064
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|意义：突变是生物变异的根本来源；基因重组也是生物变异的来源之一，对生物的进化具有重要意义。",
+		"seconds": 9.552
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：后代出现亲代没有的基因，是基因突变；只是出现新的组合，是基因重组。",
+		"seconds": 8.28
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，基因突变不一定改变性状。判断二？对。",
+		"seconds": 7.056
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，正常细胞中都有。判断四？错，基因突变是不定向的。",
+		"seconds": 8.208
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，受精时配子随机结合不是基因重组。",
+		"seconds": 8.232
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：突变产生新基因，重组产生新组合。我们下期再见！",
+		"seconds": 7.776
+	}
+}

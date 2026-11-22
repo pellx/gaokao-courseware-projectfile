@@ -1,0 +1,111 @@
+{
+	"id": "HXE-08",
+	"title": "芳香烃",
+	"subject": "chemistry",
+	"book": "有机化学 · 第8期 / 共17期",
+	"points": [
+		"苯的结构",
+		"苯的取代反应",
+		"苯的加成反应",
+		"溴苯、硝基苯的制备",
+		"苯的同系物的氧化",
+		"甲苯的取代位置",
+		"苯环与侧链相互影响"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"芳香烃",
+				true
+			]
+		],
+		"subtitle": "苯的结构 · 溴代 · 硝化 · 侧链氧化",
+		"photo": "kekule.jpg",
+		"photoCaption": "凯库勒：提出苯的环状结构",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"芳香烃",
+					true
+				]
+			]
+		],
+		"photo": "kekule.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "凯库勒",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "苯分子中存在单双键交替的结构",
+				"ok": false,
+				"fix": "6 个碳碳键完全相同"
+			},
+			{
+				"q": "苯与溴水在 FeBr3 催化下发生取代反应",
+				"ok": false,
+				"fix": "要用液溴"
+			},
+			{
+				"q": "1 mol 苯最多与 3 mol H2 加成",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "制硝基苯时先加浓硫酸，再加浓硝酸",
+				"ok": false,
+				"fix": "先加浓硝酸，再慢慢加浓硫酸"
+			},
+			{
+				"q": "甲苯能使酸性 KMnO4 溶液褪色，生成苯甲酸",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "甲苯在光照下与 Cl2 反应，取代苯环上的氢",
+				"ok": false,
+				"fix": "光照取代侧链上的氢"
+			}
+		],
+		"endTitle": [
+			[
+				"芳香烃",
+				true
+			]
+		],
+		"endLine": "易取代难加成，光照侧链催化苯环",
+		"slogan": "易取代难加成，光照侧链催化苯环"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Friedrich August Kekulé von Stradonitz (1890er)》，公有领域；插图来自 pixiv：SunTail、ison、うさくまみにょ（侵删）",
+	"anime": [
+		{
+			"key": "flower",
+			"src": "flower.jpg",
+			"credit": "插图：SunTail《夢に続くプロムナード 千聖》pixiv #77549585",
+			"url": "https://www.pixiv.net/artworks/77549585"
+		},
+		{
+			"key": "guitar",
+			"src": "guitar.jpg",
+			"credit": "插图：ison《ゆい》pixiv #3774631",
+			"url": "https://www.pixiv.net/artworks/3774631"
+		},
+		{
+			"key": "mugi",
+			"src": "mugi.jpg",
+			"credit": "插图：うさくまみにょ《ムギちゃん》pixiv #4366285",
+			"url": "https://www.pixiv.net/artworks/4366285"
+		}
+	]
+}

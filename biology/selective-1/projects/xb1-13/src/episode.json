@@ -1,0 +1,38 @@
+{
+	"id": "XB1-13",
+	"title": "免疫系统的组成和功能",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第4章",
+	"points": ["免疫器官", "免疫细胞", "B细胞与T细胞", "免疫活性物质", "人体的三道防线", "非特异性与特异性", "免疫系统三大功能", "抗原与抗体"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["免疫系统的"], ["组成和功能", true]],
+		"subtitle": "免疫器官 · 免疫细胞 · 三道防线",
+		"photo": "metchnikoff.jpg",
+		"photoCaption": "梅契尼科夫：发现吞噬细胞",
+		"photoPos": "68% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["免疫系统的"]], [["组成和功能", true]]],
+		"kicker": "三道防线 · 三大功能",
+		"photo": "metchnikoff.jpg",
+		"photoPos": "68% center",
+		"photoTag": "梅契尼科夫与吞噬细胞",
+		"credit": "Photo: Maurice Branger, public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "B细胞和T细胞都在骨髓中成熟", "ok": false, "fix": "T细胞在胸腺中成熟"},
+			{"q": "免疫活性物质都由免疫细胞产生", "ok": false, "fix": "溶菌酶等也可由其他细胞产生"},
+			{"q": "胃液中的盐酸杀菌属于第一道防线", "ok": true, "fix": ""},
+			{"q": "巨噬细胞只参与非特异性免疫", "ok": false, "fix": "也参与特异性免疫"},
+			{"q": "清除体内癌变的细胞属于免疫自稳", "ok": false, "fix": "属于免疫监视"},
+			{"q": "抗体能与相应抗原特异性结合", "ok": true, "fix": ""}
+		],
+		"endTitle": [["免疫系统的"], ["组成和功能", true]],
+		"endLine": "免疫器官 · 免疫细胞 · 三道防线 · 三大功能",
+		"slogan": "分清防线和功能，免疫开个好头！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Maurice Branger《Dr Metchnikoff in his Laboratory》Public domain"
+}

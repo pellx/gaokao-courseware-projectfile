@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第一章第一节的下半部分——分离定律的应用。",
+		"seconds": 7.848
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考显隐性和纯合子的判断、连续自交、自由交配和致死问题的计算。",
+		"seconds": 7.632
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"la1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分离定律的内容：在生物的体细胞中，控制同一性状的遗传因子成对存在，不相融合；",
+		"seconds": 9.216
+	},
+	"la2": {
+		"key": "zh-CN-XiaoxiaoNeural|在形成配子时，成对的遗传因子发生分离，分别进入不同的配子中，随配子遗传给后代。",
+		"seconds": 8.544
+	},
+	"la3": {
+		"key": "zh-CN-XiaoxiaoNeural|适用范围：真核生物、有性生殖、细胞核遗传，研究的是一对相对性状。",
+		"seconds": 7.32
+	},
+	"la4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：原核生物、病毒和细胞质遗传都不遵循分离定律；分离发生在形成配子时，不是受精时。",
+		"seconds": 9.888
+	},
+	"do1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，显隐性的判断。定义法：相对性状的纯合亲本杂交，F1 表现出来的就是显性性状。",
+		"seconds": 9.528
+	},
+	"do2": {
+		"key": "zh-CN-XiaoxiaoNeural|性状分离法：两个性状相同的亲本交配，后代出现了新的性状，新出现的就是隐性性状。",
+		"seconds": 8.64
+	},
+	"do3": {
+		"key": "zh-CN-XiaoxiaoNeural|比例法：后代出现 3比1，占 3 的是显性性状。",
+		"seconds": 5.04
+	},
+	"do4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：一句口诀——无中生有为隐性。“无”是亲本没有，“有”是子代出现。",
+		"seconds": 7.536
+	},
+	"pu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，纯合子与杂合子的鉴定。自交法：后代出现性状分离的是杂合子，不出现的是纯合子。",
+		"seconds": 9.576
+	},
+	"pu2": {
+		"key": "zh-CN-XiaoxiaoNeural|测交法：与隐性纯合子杂交，后代全是显性的是纯合子，出现隐性的是杂合子。",
+		"seconds": 7.968
+	},
+	"pu3": {
+		"key": "zh-CN-XiaoxiaoNeural|花粉鉴定法：比如糯性和非糯性，花粉遇碘呈两种颜色，各占一半，说明是杂合子。",
+		"seconds": 8.52
+	},
+	"pu4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问最简便的方法。植物用自交最简便；动物多用测交，并且要多找几只隐性个体，后代才够多。",
+		"seconds": 10.32
+	},
+	"if1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，由子代推亲代。子代显性∶隐性等于3比1，亲代是 大A小a乘大A小a。",
+		"seconds": 8.952
+	},
+	"if2": {
+		"key": "zh-CN-XiaoxiaoNeural|子代 1比1，亲代是 大A小a乘小a小a，相当于测交。",
+		"seconds": 6.048
+	},
+	"if3": {
+		"key": "zh-CN-XiaoxiaoNeural|子代全是显性，至少一方是 大A大A；子代全是隐性，双亲都是 小a小a。",
+		"seconds": 8.184
+	},
+	"if4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：隐性纯合突破法——子代出现小a小a，说明双亲各提供了一个小a，先把能确定的小a填进去。",
+		"seconds": 10.032
+	},
+	"sf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，杂合子连续自交。大A小a每自交一代，杂合子就减少一半，F n中杂合子占二分之一的n次方。",
+		"seconds": 11.112
+	},
+	"sf2": {
+		"key": "zh-CN-XiaoxiaoNeural|纯合子占一减二分之一的n次方，越来越接近一；显性纯合子和隐性纯合子各占一半。",
+		"seconds": 8.736
+	},
+	"sf3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以三条曲线：杂合子趋近零，纯合子趋近一，显性纯合子趋近二分之一。",
+		"seconds": 7.872
+	},
+	"sf4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：杂交育种靠连续自交提高纯合度。易错：如果每代淘汰隐性个体，F n中显性纯合子占二的n次方加一分之二的n次方减一。",
+		"seconds": 13.32
+	},
+	"ra1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，自交与自由交配。例：一个群体中 大A大A∶大A小a等于1比2，也就是 大A大A 占 3分之1，大A小a 占 3分之2。",
+		"seconds": 13.32
+	},
+	"ra2": {
+		"key": "zh-CN-XiaoxiaoNeural|自交：只有大A小a自交会产生小a小a，小a小a等于三分之二乘四分之一，等于六分之一，后代比例是3比2比1。",
+		"seconds": 11.52
+	},
+	"ra3": {
+		"key": "zh-CN-XiaoxiaoNeural|自由交配用配子法：大A配子占三分之二，小a配子占三分之一，小a小a等于三分之一乘三分之一，等于九分之一，后代4比4比1。",
+		"seconds": 13.2
+	},
+	"ra4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：自交是同种基因型之间交配；自由交配是所有个体随机交配，用配子法最快，不要逐对相加。",
+		"seconds": 10.008
+	},
+	"le1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，异常分离比。正常 大A小a乘大A小a 后代是 1比2比1。如果显性纯合致死，大A大A 死掉，剩下 大A小a∶小a小a等于2比1。",
+		"seconds": 15.384
+	},
+	"le2": {
+		"key": "zh-CN-XiaoxiaoNeural|不完全显性：杂合子表现为中间性状，比如红花、粉红花、白花等于1比2比1。",
+		"seconds": 8.304
+	},
+	"le3": {
+		"key": "zh-CN-XiaoxiaoNeural|隐性纯合致死：后代只有显性个体，大A大A∶大A小a等于1比2。",
+		"seconds": 7.152
+	},
+	"le4": {
+		"key": "zh-CN-XiaoxiaoNeural|配子致死：比如含小a的花粉不育，大A小a自交，后代大A大A比大A小a等于1比1，全是显性。",
+		"seconds": 10.032
+	},
+	"le5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先按正常的 1比2比1 写出来，再划掉致死的部分，重新算比例。",
+		"seconds": 7.296
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，遗传概率计算。系谱图中，双亲正常，生了一个患病女儿——无中生有为隐性。",
+		"seconds": 8.664
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|女儿患病而父亲正常，所以是常染色体隐性遗传，双亲都是 大A小a。",
+		"seconds": 7.32
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|那么她的正常弟弟，是大A大A还是大A小a？在正常个体中，大A大A比大A小a等于1比2，所以是携带者的概率是三分之二。",
+		"seconds": 12.84
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|如果他和患者小a小a结婚，生出患病孩子的概率是三分之二乘二分之一，等于三分之一。",
+		"seconds": 8.448
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：已知表型正常时，要在正常个体里算比例，是 3分之2，不是 2分之1，也不是 4分之1。",
+		"seconds": 9.288
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，只适用于真核生物有性生殖的细胞核遗传。判断二？错，最简便的是自交。",
+		"seconds": 9.912
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对，二分之一的三次方是八分之一。判断四？错，自由交配小a小a占九分之一。",
+		"seconds": 10.344
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，正常弟弟是携带者的概率是 3分之2。",
+		"seconds": 8.208
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：先判显隐，再写配子，最后算比例。我们下期再见！",
+		"seconds": 7.776
+	}
+}

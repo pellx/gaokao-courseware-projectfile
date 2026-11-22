@@ -1,0 +1,126 @@
+{
+	"id": "HXD-14",
+	"title": "原电池的工作原理",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第14期 / 共20期",
+	"points": [
+		"构成条件",
+		"正负极判断",
+		"电子与离子的移动",
+		"盐桥与双液电池",
+		"电极反应式书写",
+		"原电池原理的应用",
+		"设计原电池"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"原电池",
+				true
+			],
+			[
+				"的工作原理"
+			]
+		],
+		"subtitle": "正负极 · 电子离子移动 · 盐桥 · 电极反应式",
+		"photo": "daniell.jpg",
+		"photoCaption": "丹尼尔：发明铜锌双液电池（丹尼尔电池）",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"原电池",
+					true
+				],
+				[
+					"的",
+					false
+				]
+			],
+			[
+				[
+					"工作原理"
+				]
+			]
+		],
+		"photo": "daniell.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "丹尼尔",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "原电池中电子从负极经电解质溶液流向正极",
+				"ok": false,
+				"fix": "电子只经导线，溶液中是离子导电"
+			},
+			{
+				"q": "原电池中阳离子移向正极",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Mg-Al-NaOH 溶液组成的原电池中 Mg 是负极",
+				"ok": false,
+				"fix": "Al 与 NaOH 反应，Al 是负极"
+			},
+			{
+				"q": "盐桥的作用之一是平衡两侧溶液的电荷",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "任何化学反应都能设计成原电池",
+				"ok": false,
+				"fix": "必须是自发的氧化还原反应"
+			},
+			{
+				"q": "碱性锌锰电池负极：Zn − 2e^- = Zn^2+",
+				"ok": false,
+				"fix": "碱性中生成 Zn(OH)2"
+			}
+		],
+		"endTitle": [
+			[
+				"原电池",
+				true
+			],
+			[
+				"的工作原理"
+			]
+		],
+		"endLine": "负极失电子，电子不下水，离子不上岸",
+		"slogan": "负极失电子，电子不下水，离子不上岸"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《John Frederic Daniell》（King’s College London 藏），公有领域；插图来自 pixiv：piscesprincess、WAO、プリッツ（侵删）",
+	"anime": [
+		{
+			"key": "sweat",
+			"src": "sweat.jpg",
+			"credit": "插图：piscesprincess《Bocchi chibi》pixiv #107788117",
+			"url": "https://www.pixiv.net/artworks/107788117"
+		},
+		{
+			"key": "scarf",
+			"src": "scarf.jpg",
+			"credit": "插图：WAO《とある冬の一日》pixiv #147811337",
+			"url": "https://www.pixiv.net/artworks/147811337"
+		},
+		{
+			"key": "duo",
+			"src": "duo.jpg",
+			"credit": "插图：プリッツ《ぼ虹》pixiv #152266704",
+			"url": "https://www.pixiv.net/artworks/152266704"
+		}
+	]
+}

@@ -1,0 +1,117 @@
+{
+	"id": "HXC-12",
+	"title": "无机非金属材料",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第12期 / 共16期",
+	"points": [
+		"硅酸盐材料",
+		"硅单质",
+		"二氧化硅",
+		"新型陶瓷",
+		"碳纳米材料",
+		"材料类别的判断"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"无机非金属",
+				true
+			],
+			[
+				"材料"
+			]
+		],
+		"subtitle": "陶瓷玻璃水泥 · 芯片与光纤 · 新型陶瓷 · 碳纳米材料",
+		"photo": "terracotta.jpg",
+		"photoCaption": "秦兵马俑：陶瓷是传统的硅酸盐材料",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"无机非金属",
+					true
+				]
+			],
+			[
+				[
+					"材料"
+				]
+			]
+		],
+		"photo": "terracotta.jpg",
+		"photoPos": "center",
+		"photoTag": "秦兵马俑",
+		"credit": "Gary Todd, CC0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "芯片的主要成分是 SiO2",
+				"ok": false,
+				"fix": "芯片的主要成分是 Si"
+			},
+			{
+				"q": "光导纤维的主要成分是 Si",
+				"ok": false,
+				"fix": "光导纤维的主要成分是 SiO2"
+			},
+			{
+				"q": "工业上用 SiO2 和 C 高温制粗硅，同时生成 CO2",
+				"ok": false,
+				"fix": "生成 CO"
+			},
+			{
+				"q": "盛放 NaOH 溶液的试剂瓶不能用玻璃塞",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "氢氟酸可以保存在玻璃瓶中",
+				"ok": false,
+				"fix": "HF 腐蚀玻璃，存放在塑料瓶中"
+			},
+			{
+				"q": "石墨烯、碳纳米管属于无机非金属材料",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"无机非金属",
+				true
+			],
+			[
+				"材料"
+			]
+		],
+		"endLine": "芯片是硅，光纤是二氧化硅",
+		"slogan": "芯片是硅，光纤是二氧化硅"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Gary Todd《Qin Shihuang Terracotta Army, Pit 1》，CC0；插图来自 pixiv：大淵美海、佐原、ナコス（侵删）",
+	"anime": [
+		{
+			"key": "pottery",
+			"src": "pottery.jpg",
+			"credit": "插图：大淵美海《陶芸家の女の子｜大淵美海のイラスト》pixiv #147184286",
+			"url": "https://www.pixiv.net/artworks/147184286"
+		},
+		{
+			"key": "wheel",
+			"src": "wheel.jpg",
+			"credit": "插图：佐原《陶芸とムギ》pixiv #32012237",
+			"url": "https://www.pixiv.net/artworks/32012237"
+		},
+		{
+			"key": "group",
+			"src": "group.jpg",
+			"credit": "插图：ナコス《好きなキャラたち》pixiv #144898643",
+			"url": "https://www.pixiv.net/artworks/144898643"
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第六章第二节——细胞的分化。",
+		"seconds": 6.744
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考细胞分化的实质、全能性的判断，以及干细胞的类型和应用。",
+		"seconds": 6.744
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，细胞分化的概念。在个体发育中，由一个或一种细胞增殖产生的后代，在形态、结构和生理功能上发生稳定性差异的过程。",
+		"seconds": 12.816
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|特点一，持久性：细胞分化是一种持久性的变化。特点二，普遍性：它是生物界普遍存在的生命现象。",
+		"seconds": 10.512
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|特点三，稳定性：一般来说，分化了的细胞将一直保持分化后的状态，直到死亡。",
+		"seconds": 7.992
+	},
+	"cn4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：细胞分化使细胞的种类增加，细胞分裂使细胞的数目增加，别混。",
+		"seconds": 7.344
+	},
+	"es1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，细胞分化的实质：基因的选择性表达。",
+		"seconds": 4.752
+	},
+	"es2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一个体的不同细胞，遗传物质相同，但表达的基因不同，所以mRNA和蛋白质不完全相同。",
+		"seconds": 8.952
+	},
+	"es3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如，红细胞中表达血红蛋白基因，胰岛B细胞中表达胰岛素基因；而呼吸酶基因、ATP合成酶基因在几乎所有细胞中都表达。",
+		"seconds": 12.6
+	},
+	"es4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断细胞是否分化，看是否合成了特定的蛋白质，比如血红蛋白、胰岛素、抗体；呼吸酶不能作为依据。",
+		"seconds": 11.064
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，细胞分化的意义。细胞分化是生物个体发育的基础。",
+		"seconds": 6.576
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|它使多细胞生物体中的细胞趋向专门化，有利于提高生理功能的效率。",
+		"seconds": 6.648
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：分化形成不同的组织和器官。易错：分化后细胞的核遗传物质不变，分化不会改变细胞数目。",
+		"seconds": 10.008
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，细胞的全能性。细胞经分裂和分化后，仍具有产生完整有机体或分化成其他各种细胞的潜能和特性。",
+		"seconds": 11.016
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|植物细胞具有全能性：比如胡萝卜韧皮部细胞经组织培养，发育成完整的植株。",
+		"seconds": 7.536
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|动物细胞的细胞核具有全能性：比如克隆羊多莉，是把体细胞的细胞核移植到去核卵细胞中培育而成的。",
+		"seconds": 9.552
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|全能性大小：受精卵大于生殖细胞，大于体细胞；一般细胞分化程度越高，全能性越难以实现。",
+		"seconds": 9.456
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：多莉说明的是动物细胞的细胞核具有全能性，不是整个动物细胞。",
+		"seconds": 7.2
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，干细胞。动物和人体内少数具有分裂和分化能力的细胞，叫干细胞。",
+		"seconds": 7.752
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|胚胎干细胞：可以分化成各种组织和器官，全能性高。",
+		"seconds": 5.352
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|造血干细胞：存在于骨髓中，能分化成红细胞、白细胞和血小板等各种血细胞，可用于治疗白血病。",
+		"seconds": 9.648
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：造血干细胞分化出各种血细胞，没有发育成完整个体，不体现全能性。",
+		"seconds": 7.584
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，怎样才算体现了全能性。起点必须是单个细胞或细胞核，终点必须是完整个体或各种细胞。",
+		"seconds": 9.912
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|种子萌发长成植株：种子是器官，属于正常的个体发育，不体现全能性。",
+		"seconds": 7.032
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|造血干细胞形成血细胞：没有发育成完整个体，也不体现全能性。",
+		"seconds": 6.456
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看“起点是不是细胞，终点是不是个体”；植物组织培养、克隆动物才体现全能性。",
+		"seconds": 8.904
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，遗传物质不变。判断二？错，细胞分化是持久性的变化。",
+		"seconds": 8.304
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，种子是器官，不体现全能性。",
+		"seconds": 7.392
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，受精卵的全能性最高。",
+		"seconds": 6.648
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：遗传物质不变，基因选择性表达。我们下期再见！",
+		"seconds": 7.296
+	}
+}

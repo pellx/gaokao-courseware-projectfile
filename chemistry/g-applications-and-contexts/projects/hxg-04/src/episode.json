@@ -1,0 +1,130 @@
+{
+	"id": "HXG-04",
+	"title": "化工流程（中）：条件控制、除杂与陌生方程式",
+	"subject": "chemistry",
+	"book": "综合应用与情境 · 第4期 / 共7期",
+	"points": [
+		"控制温度",
+		"控制 pH",
+		"加氧化剂或还原剂",
+		"除杂试剂的选择",
+		"陌生氧化还原方程式",
+		"非氧化还原方程式",
+		"化合价的推断"
+	],
+	"intro": {
+		"badge": "高考化学 · 综合应用与情境",
+		"title": [
+			[
+				"化工流程（中）",
+				true
+			],
+			[
+				"：条件控制、除杂与陌生方程式"
+			]
+		],
+		"subtitle": "温度 · pH · 氧化剂 · 除杂 · 陌生方程式",
+		"photo": "agricola-2.png",
+		"photoCaption": "《矿冶全书》（1556）中的矿石加工",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化工流程",
+					true
+				]
+			],
+			[
+				[
+					"（中）",
+					false
+				]
+			],
+			[
+				[
+					"条件、除杂",
+					false
+				]
+			],
+			[
+				[
+					"与方程式"
+				]
+			]
+		],
+		"photo": "agricola-2.png",
+		"photoPos": "center",
+		"photoTag": "矿冶全书",
+		"credit": "Agricola 1556, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "用 H2O2 氧化 Fe^2+ 时，温度越高越好",
+				"ok": false,
+				"fix": "温度高 H2O2 会分解"
+			},
+			{
+				"q": "除去 ZnSO4 溶液中的 Fe^3+，可加 ZnO 调 pH",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "用 Na2S 比用 MnS 更适合除去 MnSO4 溶液中的 Cu^2+",
+				"ok": false,
+				"fix": "Na2S 会引入 Na^+"
+			},
+			{
+				"q": "酸性溶液中的离子方程式可以出现 OH^-",
+				"ok": false,
+				"fix": "酸性补 H^+，不出现 OH^-"
+			},
+			{
+				"q": "Mn^2+ 与 HCO3^- 反应生成 MnCO3、CO2 和 H2O",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "LiFePO4 中 Fe 为 +3 价",
+				"ok": false,
+				"fix": "Fe 为 +2 价"
+			}
+		],
+		"endTitle": [
+			[
+				"化工流程（中）",
+				true
+			],
+			[
+				"：条件控制、除杂与陌生方程式"
+			]
+		],
+		"endLine": "定产物、守电子、配电荷、补水",
+		"slogan": "定产物、守电子、配电荷、补水"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Georgius Agricola《De re metallica》（1556）木刻插图，公有领域；插图来自 pixiv：U.、祢衣、たかたか（侵删）",
+	"anime": [
+		{
+			"key": "duo",
+			"src": "duo.jpg",
+			"credit": "插图：U.《ぴーす！》pixiv #105788267",
+			"url": "https://www.pixiv.net/artworks/105788267"
+		},
+		{
+			"key": "kita",
+			"src": "kita.jpg",
+			"credit": "插图：祢衣《abcいくよ》pixiv #119084968",
+			"url": "https://www.pixiv.net/artworks/119084968"
+		},
+		{
+			"key": "fly",
+			"src": "fly.jpg",
+			"credit": "插图：たかたか《ぼっちちゃん》pixiv #134516178",
+			"url": "https://www.pixiv.net/artworks/134516178"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Sulfur: React.FC = () => <AutoScene k="sulfur" d={{"tag": "考点一", "title": "硫单质", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "颜色", "at": "su1", "text": "{淡黄色}晶体（硫黄）", "c": "orange", "size": 32}]}, {"blocks": [{"t": "rule", "tag": "溶解", "at": "su1", "text": "难溶于水，{易溶于 CS2}", "c": "red", "size": 32}]}]}, {"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "与变价金属：生成低价", "at": "su2", "lines": ["Fe + S ═△═ {FeS}", "2Cu + S ═△═ {Cu2S}"], "c": "orange", "size": 32}]}, {"blocks": [{"t": "panel", "title": "与 O2：只生成 SO2", "at": "su3", "lines": ["S + O2 ═点燃═ {SO2}", "O2 过量也不生成 SO3"], "c": "red", "size": 32}]}]}], "callout": {"label": "易错", "at": "su4", "text": "S {不能一步}生成 SO3；洗硫用 CS2 或热 NaOH 溶液"}, "beat": {"k": "chick", "at": "su1b", "text": "一身鹅黄\n= 硫黄的{淡黄色|red}"}}} />;

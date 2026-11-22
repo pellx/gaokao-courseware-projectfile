@@ -1,0 +1,206 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第一章第一节——细胞生活的环境。",
+		"seconds": 7.728
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一节是整本书的基础，高考常考内环境成分的判断、三种细胞外液的关系，以及组织水肿的分析。",
+		"seconds": 9.576
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按十个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"fl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，体液的组成。",
+		"seconds": 2.616
+	},
+	"fl2": {
+		"key": "zh-CN-XiaoxiaoNeural|人体内含有大量以水为基础的液体，统称为体液。",
+		"seconds": 4.968
+	},
+	"fl3": {
+		"key": "zh-CN-XiaoxiaoNeural|体液分为两部分：存在于细胞内的细胞内液，约占三分之二；存在于细胞外的细胞外液，约占三分之一。",
+		"seconds": 9.984
+	},
+	"fl4": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞外液主要包括血浆、组织液和淋巴液。",
+		"seconds": 4.608
+	},
+	"fl5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：消化液、泪液、汗液、尿液都不属于体液。它们存在于消化道、泪道、汗腺导管、膀胱等与外界相通的管腔中，相当于“体外”的液体。",
+		"seconds": 14.184
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，内环境的概念，以及三种细胞外液的关系。",
+		"seconds": 5.088
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|由细胞外液构成的液体环境叫作内环境。注意，内环境就是细胞外液，不包括细胞内液。",
+		"seconds": 8.952
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|血浆和组织液之间可以相互渗透：血浆透过毛细血管壁进入组织间隙形成组织液，大部分组织液又渗回血浆。",
+		"seconds": 10.704
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|少部分组织液进入毛细淋巴管，形成淋巴液；淋巴液经淋巴循环，最终汇入血浆。这两步都是单向的。",
+		"seconds": 10.368
+	},
+	"re5": {
+		"key": "zh-CN-XiaoxiaoNeural|组织液和细胞内液之间，也在不断进行物质交换。",
+		"seconds": 4.872
+	},
+	"re6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出四种体液的箭头关系图，判断名称。先找淋巴液：它只有一个箭头进、一个箭头出，箭头从组织液来，指向血浆；和组织液双向交换的另一个，就是细胞内液。",
+		"seconds": 16.296
+	},
+	"ce1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，不同细胞生活的具体内环境。",
+		"seconds": 3.912
+	},
+	"ce2": {
+		"key": "zh-CN-XiaoxiaoNeural|体内绝大多数细胞是组织细胞，生活在组织液中；血细胞生活在血浆中。",
+		"seconds": 7.056
+	},
+	"ce3": {
+		"key": "zh-CN-XiaoxiaoNeural|淋巴细胞主要生活在淋巴液中，也会随淋巴循环进入血浆。",
+		"seconds": 5.904
+	},
+	"ce4": {
+		"key": "zh-CN-XiaoxiaoNeural|最容易错的是两种管壁细胞：毛细血管壁细胞一侧是血浆、一侧是组织液；毛细淋巴管壁细胞一侧是淋巴液、一侧是组织液。",
+		"seconds": 11.88
+	},
+	"ce5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问某种细胞的内环境，先看它在哪里；管壁细胞要把两侧都写全。",
+		"seconds": 7.416
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，内环境成分的判断，这是选择题的高频考点。",
+		"seconds": 5.496
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|血浆中的水、无机盐、葡萄糖、氨基酸、血浆蛋白，以及激素、抗体、尿素、氧气和二氧化碳，都属于内环境的成分。",
+		"seconds": 11.832
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|而血红蛋白在红细胞内，呼吸酶在细胞内，载体蛋白和受体在细胞膜上，消化液在与外界相通的管腔中，它们都不属于内环境。",
+		"seconds": 12.024
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：一看是不是在细胞内，二看是不是在细胞膜上，三看是不是在与外界相通的管腔里。三条都排除了，才属于内环境。",
+		"seconds": 12.36
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|同理，抗原与抗体结合、乳酸与碳酸氢钠反应，发生在内环境中；而细胞呼吸、蛋白质合成发生在细胞内，食物消化发生在消化道，都不在内环境中。",
+		"seconds": 14.712
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，血浆、组织液和淋巴液在成分上的差异。",
+		"seconds": 5.4
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|血浆中约90%是水，蛋白质约占7%到9%，无机盐约占1%，此外还有血液运送的营养物质、代谢废物、气体和激素等。",
+		"seconds": 13.68
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|组织液和淋巴液的成分与血浆相近，最主要的差别在于：血浆中含有较多的蛋白质，而组织液和淋巴液中蛋白质很少。",
+		"seconds": 11.496
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出几种液体的成分表，蛋白质含量明显较高的，就是血浆。",
+		"seconds": 6.72
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六到八，内环境的三个理化性质：渗透压、酸碱度和温度。",
+		"seconds": 6.288
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|渗透压是指溶液中溶质微粒对水的吸引力，大小取决于单位体积溶液中溶质微粒的数目。",
+		"seconds": 8.688
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|血浆渗透压的大小主要与无机盐和蛋白质的含量有关；细胞外液渗透压的90%以上来源于钠离子和氯离子。",
+		"seconds": 10.584
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|正常人血浆的PH为七点三五到七点四五，能保持稳定，与其中的碳酸氢根离子、碳酸等物质有关。",
+		"seconds": 9.72
+	},
+	"ph5": {
+		"key": "zh-CN-XiaoxiaoNeural|人体细胞外液的温度一般维持在37 摄氏度左右。",
+		"seconds": 4.8
+	},
+	"ph6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：输液为什么用0.9%的氯化钠溶液？因为它和血浆渗透压相等，是等渗溶液，能维持细胞的正常形态。",
+		"seconds": 11.304
+	},
+	"ph7": {
+		"key": "zh-CN-XiaoxiaoNeural|再比如，剧烈运动产生的乳酸进入血浆，会与碳酸氢钠反应，生成乳酸钠和碳酸，碳酸再分解成二氧化碳和水，二氧化碳通过呼吸排出，所以血浆PH不会明显下降。",
+		"seconds": 16.248
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，内环境是细胞与外界环境进行物质交换的媒介。",
+		"seconds": 5.928
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|营养物质经消化系统吸收进入内环境；氧气经呼吸系统进入内环境，二氧化碳也经呼吸系统排出。",
+		"seconds": 9.792
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞产生的尿素等代谢废物，主要经泌尿系统排出，少部分经皮肤排出。这些物质在体内的运输，都要依靠循环系统。",
+		"seconds": 11.568
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|同时，细胞不仅依赖于内环境，也参与了内环境的形成和维持。",
+		"seconds": 6.144
+	},
+	"ex5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：氧气从外界进入组织细胞并被利用，至少穿过几层生物膜？肺泡壁两层，进出毛细血管壁两层，进出红细胞两层，再出毛细血管壁两层，进入组织细胞一层，进入线粒体两层，一共十一层。",
+		"seconds": 19.584
+	},
+	"ed1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点十，组织水肿的成因分析。",
+		"seconds": 3.384
+	},
+	"ed2": {
+		"key": "zh-CN-XiaoxiaoNeural|组织水肿是组织液过多引起的。所有原因都可以归结为：血浆渗透压降低，或组织液渗透压升高，水分从血浆流向组织液。",
+		"seconds": 12.192
+	},
+	"ed3": {
+		"key": "zh-CN-XiaoxiaoNeural|长期营养不良，血浆蛋白减少；肾小球肾炎，蛋白质随尿液流失。这两种都使血浆渗透压降低。",
+		"seconds": 10.296
+	},
+	"ed4": {
+		"key": "zh-CN-XiaoxiaoNeural|过敏反应使毛细血管壁通透性增大，血浆蛋白进入组织液；淋巴循环受阻，组织液中的蛋白质不能回流。这两种都使组织液渗透压升高。",
+		"seconds": 13.728
+	},
+	"ed5": {
+		"key": "zh-CN-XiaoxiaoNeural|局部组织代谢旺盛，代谢产物增多，组织液渗透压也会升高。",
+		"seconds": 6.216
+	},
+	"ed6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：遇到水肿题，先判断是血浆渗透压降低，还是组织液渗透压升高，再把原因对号入座。",
+		"seconds": 9.84
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|血浆、组织液、淋巴液都能相互转化？错，淋巴液只能单向流回血浆。血红蛋白属于内环境的成分？错，它在红细胞内。",
+		"seconds": 13.176
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|毛细淋巴管壁细胞的内环境是淋巴液和组织液？对。血浆渗透压主要来自蛋白质？错，主要与无机盐和蛋白质的含量有关。",
+		"seconds": 12.816
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|剧烈运动后血浆PH明显下降？错，缓冲物质使PH保持稳定。食物的消化发生在内环境中？错，消化道与外界相通。",
+		"seconds": 13.128
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|十个考点归结为一句话：细胞外液构成内环境，内环境是细胞与外界环境进行物质交换的媒介。掌握这条主线，这一节就能稳稳拿分！我们下期再见！",
+		"seconds": 14.808
+	}
+}

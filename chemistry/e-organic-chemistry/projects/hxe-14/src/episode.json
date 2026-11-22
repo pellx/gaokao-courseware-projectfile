@@ -1,0 +1,122 @@
+{
+	"id": "HXE-14",
+	"title": "信息迁移：陌生反应",
+	"subject": "chemistry",
+	"book": "有机化学 · 第14期 / 共17期",
+	"points": [
+		"找断键与成键",
+		"用分子式差值",
+		"羟醛缩合",
+		"烯烃臭氧氧化",
+		"格氏试剂",
+		"酯交换与成环",
+		"迁移三步法"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"信息迁移",
+				true
+			],
+			[
+				"：陌生反应"
+			]
+		],
+		"subtitle": "断键成键 · 分子式差值 · 羟醛缩合 · 格氏试剂",
+		"photo": "grignard.jpg",
+		"photoCaption": "格利雅：发现格氏试剂，获诺贝尔化学奖",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"信息迁移",
+					true
+				]
+			],
+			[
+				[
+					"陌生反应"
+				]
+			]
+		],
+		"photo": "grignard.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "格利雅",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "分子式比上一步少了 H2O，一定发生了消去反应",
+				"ok": false,
+				"fix": "也可能是酯化或缩合成环"
+			},
+			{
+				"q": "羟醛缩合中，提供 α-H 的醛以 α-碳与另一醛的羰基碳相连",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "HCHO 可以作为羟醛缩合中提供 α-H 的一方",
+				"ok": false,
+				"fix": "HCHO 没有 α-H"
+			},
+			{
+				"q": "(CH3)2C=CHCH3 经臭氧氧化得到丙酮和乙醛",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "格氏试剂与酮反应，水解后得到仲醇",
+				"ok": false,
+				"fix": "得到叔醇"
+			},
+			{
+				"q": "格氏试剂反应可以在水溶液中进行",
+				"ok": false,
+				"fix": "必须无水"
+			}
+		],
+		"endTitle": [
+			[
+				"信息迁移",
+				true
+			],
+			[
+				"：陌生反应"
+			]
+		],
+		"endLine": "对比结构找变化，只改变化的部分",
+		"slogan": "对比结构找变化，只改变化的部分"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Viktor Grignard》（Generalstabens Litografiska 照相凹版），公有领域；插图来自 pixiv：ワタボゥ、Horuhe、きさらぎ（侵删）",
+	"anime": [
+		{
+			"key": "teacher",
+			"src": "teacher.jpg",
+			"credit": "插图：ワタボゥ《ゆいたん》pixiv #3982214",
+			"url": "https://www.pixiv.net/artworks/3982214"
+		},
+		{
+			"key": "cat",
+			"src": "cat.jpg",
+			"credit": "插图：Horuhe《Moeta Kaoruko》pixiv #104639238",
+			"url": "https://www.pixiv.net/artworks/104639238"
+		},
+		{
+			"key": "arms",
+			"src": "arms.jpg",
+			"credit": "插图：きさらぎ《デフォルメ律》pixiv #4380433",
+			"url": "https://www.pixiv.net/artworks/4380433"
+		}
+	]
+}

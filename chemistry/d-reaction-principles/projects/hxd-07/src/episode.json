@@ -1,0 +1,121 @@
+{
+	"id": "HXD-07",
+	"title": "反应的方向与化学反应的调控",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第7期 / 共20期",
+	"points": [
+		"自发过程与熵",
+		"ΔG 判据",
+		"自发与发生",
+		"合成氨的特点",
+		"合成氨实际条件",
+		"条件选择的思路"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"反应的方向",
+				true
+			],
+			[
+				"与化学反应的调控"
+			]
+		],
+		"subtitle": "熵增 · ΔG = ΔH − TΔS · 合成氨条件选择",
+		"photo": "gibbs.jpg",
+		"photoCaption": "吉布斯：提出自由能，用来判断反应方向",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"反应的方向",
+					true
+				]
+			],
+			[
+				[
+					"与反应的调控"
+				]
+			]
+		],
+		"photo": "gibbs.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "吉布斯",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "放热反应一定能自发进行",
+				"ok": false,
+				"fix": "要用 ΔH − TΔS 综合判断"
+			},
+			{
+				"q": "ΔH > 0、ΔS > 0 的反应在高温下能自发进行",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "自发反应一定能迅速发生",
+				"ok": false,
+				"fix": "判据只判断方向，不判断速率"
+			},
+			{
+				"q": "合成氨选 400～500 ℃ 是为了提高平衡转化率",
+				"ok": false,
+				"fix": "是为了催化剂活性和速率"
+			},
+			{
+				"q": "合成氨中及时分离出 NH3，可以提高原料的转化率",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "合成氨压强越高越好",
+				"ok": false,
+				"fix": "压强过高，设备要求高、成本大"
+			}
+		],
+		"endTitle": [
+			[
+				"反应的方向",
+				true
+			],
+			[
+				"与化学反应的调控"
+			]
+		],
+		"endLine": "焓减熵增总自发，条件选择三兼顾",
+		"slogan": "焓减熵增总自发，条件选择三兼顾"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Josiah Willard Gibbs》，公有领域；插图来自 pixiv：milkfuile、miura、きささげ（侵删）",
+	"anime": [
+		{
+			"key": "finger",
+			"src": "finger.jpg",
+			"credit": "插图：milkfuile《》pixiv #132237847",
+			"url": "https://www.pixiv.net/artworks/132237847"
+		},
+		{
+			"key": "ponder",
+			"src": "ponder.jpg",
+			"credit": "插图：miura《無題》pixiv #145433736",
+			"url": "https://www.pixiv.net/artworks/145433736"
+		},
+		{
+			"key": "fist",
+			"src": "fist.jpg",
+			"credit": "插图：きささげ《ミニあずにゃん》pixiv #88566372",
+			"url": "https://www.pixiv.net/artworks/88566372"
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"id": "HXA-01",
+	"title": "原子结构与核素",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第1期 / 共21期",
+	"points": [
+		"原子的构成",
+		"微粒数目关系",
+		"电子分层排布",
+		"结构示意图",
+		"核素与同位素",
+		"同位素的应用",
+		"四同·等电子微粒"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"原子结构"
+			],
+			[
+				"与核素",
+				true
+			]
+		],
+		"subtitle": "质子 · 中子 · 电子 · 同位素",
+		"photo": "rutherford.jpg",
+		"photoCaption": "卢瑟福：提出原子的核式结构",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"原子结构"
+				]
+			],
+			[
+				[
+					"与"
+				],
+				[
+					"核素",
+					true
+				]
+			]
+		],
+		"photo": "rutherford.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "卢瑟福",
+		"credit": "Bain News Service, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "氧-18 原子的中子数是 18",
+				"ok": false,
+				"fix": "中子数 = 18 − 8 = 10"
+			},
+			{
+				"q": "Na^+ 与 Na 的质子数相同、电子数不同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Cl^- 的结构示意图中，圆圈内写 +18",
+				"ok": false,
+				"fix": "核电荷数不变，仍是 +17"
+			},
+			{
+				"q": "H2、D2、T2 互为同位素",
+				"ok": false,
+				"fix": "同位素指原子，三者都是氢气"
+			},
+			{
+				"q": "同位素化学性质几乎相同，物理性质有差异",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "M 层排满 18 个电子后才能排 N 层",
+				"ok": false,
+				"fix": "最外层不超过 8，钾是 2、8、8、1"
+			}
+		],
+		"endTitle": [
+			[
+				"原子结构"
+			],
+			[
+				"与核素",
+				true
+			]
+		],
+		"endLine": "原子构成 · 数目关系 · 分层排布 · 核素与同位素 · 四同",
+		"slogan": "质子数定元素，中子数分核素！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Bain News Service《Ernest Rutherford 1908》Public domain；插图来自 pixiv：YclimArt、motモット、よなかあお（侵删）",
+	"anime": [
+		{
+			"key": "hand",
+			"src": "bocchi-hand.jpg",
+			"credit": "插图：YclimArt《Bocchizilla》pixiv #150891866",
+			"url": "https://www.pixiv.net/artworks/150891866"
+		},
+		{
+			"key": "three",
+			"src": "bocchi-three.jpg",
+			"credit": "插图：motモット《妄想の自分たちと喜び合う後藤ひとり》pixiv #103810105",
+			"url": "https://www.pixiv.net/artworks/103810105"
+		},
+		{
+			"key": "kita",
+			"src": "kita-hakase.jpg",
+			"credit": "插图：よなかあお《喜多郁代》pixiv #103810983",
+			"url": "https://www.pixiv.net/artworks/103810983"
+		}
+	]
+}

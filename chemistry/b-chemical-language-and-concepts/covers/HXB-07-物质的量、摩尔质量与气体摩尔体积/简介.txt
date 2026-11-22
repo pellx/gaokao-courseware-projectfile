@@ -1,0 +1,19 @@
+本期考点
+
+一、物质的量与 NA（只用于微观粒子，要指明粒子种类）
+二、摩尔质量（单位 g/mol，数值等于相对分子质量）
+三、气体摩尔体积（22.4 L/mol：标况 + 气体，H₂O、SO₃、HF 是陷阱）
+四、阿伏加德罗定律（同温同压同体积同分子数，密度比等于摩尔质量比）
+五、微粒数的计算（Na₂O₂ 只有 1 个阴离子，混合物按最简式）
+六、以 n 为中心的换算（m、N、V、cV 都先换成 n）
+
+图片来源
+1.《Amadeo Avogadro》，公有领域（Wikimedia Commons）
+2.插图：kikuchiyo《コアラのマーチ》
+https://www.pixiv.net/artworks/135007570
+3.插图：Yuyumi《Yui Funami birthday 2022!!》
+https://www.pixiv.net/artworks/97810499
+4.插图：ども＠ムギとピクトさん《後藤n人》
+https://www.pixiv.net/artworks/103740033
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

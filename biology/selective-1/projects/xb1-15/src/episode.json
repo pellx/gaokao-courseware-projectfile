@@ -1,0 +1,38 @@
+{
+	"id": "XB1-15",
+	"title": "特异性免疫（下）：细胞免疫与免疫调节网络",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第4章",
+	"points": ["细胞免疫的过程", "记忆T细胞", "靶细胞裂解之后", "辅助性T细胞的作用", "两种免疫的配合", "三大系统相互调节", "胸腺骨髓受损分析", "免疫流程图识别"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["特异性免疫："], ["细胞免疫", true]],
+		"subtitle": "靶细胞 · 两种免疫的配合 · 调节网络",
+		"photo": "mantoux.jpg",
+		"photoCaption": "结核菌素皮试：反应由T细胞介导",
+		"photoPos": "12% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["特异性免疫"]], [["细胞免疫", true]]],
+		"kicker": "两种免疫的配合 · 流程图",
+		"photo": "mantoux.jpg",
+		"photoPos": "8% center",
+		"photoTag": "结核菌素皮试",
+		"credit": "Photo: Greg Knobloch (CDC), public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "细胞毒性T细胞能直接消灭靶细胞内的病原体", "ok": false, "fix": "只使靶细胞裂解，病原体再由抗体等清除"},
+			{"q": "靶细胞的裂解死亡属于细胞凋亡", "ok": true, "fix": ""},
+			{"q": "辅助性T细胞在体液免疫和细胞免疫中都起作用", "ok": true, "fix": ""},
+			{"q": "切除胸腺后体液免疫完全丧失", "ok": false, "fix": "还保留少部分体液免疫"},
+			{"q": "记忆T细胞再遇相同抗原，会立即分化为细胞毒性T细胞", "ok": true, "fix": ""},
+			{"q": "免疫系统不受神经系统和内分泌系统的调节", "ok": false, "fix": "三者通过信号分子相互调节"}
+		],
+		"endTitle": [["特异性免疫"], ["细胞免疫", true]],
+		"endLine": "靶细胞 · 辅助性T细胞 · 两种免疫配合 · 调节网络",
+		"slogan": "抓住辅助性T细胞，两种免疫一起拿分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Greg Knobloch, CDC《Mantoux tuberculin skin test》Public domain"
+}

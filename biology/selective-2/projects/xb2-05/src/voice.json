@@ -1,0 +1,130 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修二第二章第二节——群落的主要类型。",
+		"seconds": 7.776
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考不同群落的分布特点，以及生物适应环境的形态结构特征，常常结合图片或情境来考。",
+		"seconds": 9.096
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"bs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，群落类型的划分。根据群落的外貌和物种组成等方面的差异，可以将陆地的群落大致分为荒漠、草原、森林等类型。",
+		"seconds": 12.408
+	},
+	"bs2": {
+		"key": "zh-CN-XiaoxiaoNeural|决定陆地群落类型的关键，是水分和温度等非生物因素。",
+		"seconds": 5.4
+	},
+	"bs3": {
+		"key": "zh-CN-XiaoxiaoNeural|一般来说，从干旱到湿润，依次出现荒漠、草原、森林，物种越来越多，结构越来越复杂。",
+		"seconds": 8.904
+	},
+	"bs4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出某地的降水量和群落特征，判断群落类型。解题方法：先看水分，再看物种多少和结构是否复杂。",
+		"seconds": 11.4
+	},
+	"ds1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，荒漠生物群落。分布在极度干旱区，年降水量稀少且分布不均匀，物种少，群落结构非常简单。",
+		"seconds": 10.776
+	},
+	"ds2": {
+		"key": "zh-CN-XiaoxiaoNeural|植物耐旱：仙人掌属植物有肉质茎，叶呈针状；骆驼刺根系非常发达。",
+		"seconds": 7.344
+	},
+	"ds3": {
+		"key": "zh-CN-XiaoxiaoNeural|动物也耐旱：蜥蜴和蛇的表皮外有角质鳞片，有助于减少水分蒸发。",
+		"seconds": 6.816
+	},
+	"ds4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：荒漠中的爬行动物以固态尿酸盐的形式排泄含氮废物，而不是尿素，这样可以减少水分散失。",
+		"seconds": 9.768
+	},
+	"gl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，草原生物群落。主要分布在半干旱地区，不同年份或季节雨量不均匀，动植物种类较少，群落结构相对简单。",
+		"seconds": 11.904
+	},
+	"gl2": {
+		"key": "zh-CN-XiaoxiaoNeural|植物：耐寒的旱生多年生草本植物占优势，叶片狭窄，表面有茸毛或蜡质层，能抵抗干旱；乔木非常少见。",
+		"seconds": 10.752
+	},
+	"gl3": {
+		"key": "zh-CN-XiaoxiaoNeural|动物：大都具有挖洞或快速奔跑的特点，比如野兔、旱獭、黄羊；两栖类和水生动物非常少见。",
+		"seconds": 9.816
+	},
+	"gl4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：草原动物为什么善于挖洞或奔跑？解题方法：草原开阔、缺少树木遮蔽，挖洞便于躲避敌害，奔跑便于逃避捕食和寻找食物。",
+		"seconds": 13.392
+	},
+	"fr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，森林生物群落。分布在湿润或较湿润的地区，群落结构非常复杂且相对稳定。",
+		"seconds": 9
+	},
+	"fr2": {
+		"key": "zh-CN-XiaoxiaoNeural|动物：树栖和攀缘生活的动物种类特别多，比如松鼠、猿猴和多种鸟类。",
+		"seconds": 7.68
+	},
+	"fr3": {
+		"key": "zh-CN-XiaoxiaoNeural|林下光照较弱，生活着阴生植物：茎细长，叶薄，细胞壁薄，机械组织不发达。",
+		"seconds": 8.112
+	},
+	"fr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：阴生植物的叶绿体颗粒大、呈深绿色，这是适应弱光环境的特征，不是颗粒小、颜色浅。",
+		"seconds": 9.432
+	},
+	"wt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，湿地和海洋中的群落。湿地生物群落中，既有水生生物，也有陆生生物。",
+		"seconds": 8.04
+	},
+	"wt2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如芦苇、香蒲等挺水植物，鱼类、两栖类，以及大量在这里栖息、觅食的鸟类。",
+		"seconds": 7.968
+	},
+	"wt3": {
+		"key": "zh-CN-XiaoxiaoNeural|海洋生物群落中，生物的分布受光照、温度、盐度等因素的影响，藻类主要分布在有光的浅水层。",
+		"seconds": 9.024
+	},
+	"wt4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：湿地常和生物多样性的间接价值一起考，比如蓄洪防旱、净化水质、调节气候。",
+		"seconds": 8.616
+	},
+	"ad1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，群落中的生物适应所处的环境。把三种陆地群落放在一起比较。",
+		"seconds": 7.344
+	},
+	"ad2": {
+		"key": "zh-CN-XiaoxiaoNeural|荒漠干旱：生物耐旱；草原半干旱：草本为主，动物挖洞或奔跑；森林湿润：分层明显，树栖攀缘动物多。",
+		"seconds": 10.968
+	},
+	"ad3": {
+		"key": "zh-CN-XiaoxiaoNeural|群落中的生物都是适应所处的非生物环境的，不同群落中生物适应环境的方式不尽相同。",
+		"seconds": 8.64
+	},
+	"ad4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：答适应性题目，用“结构与功能相适应、生物与环境相适应”的思路：先说环境特点，再说对应的结构特征，最后说它的作用。",
+		"seconds": 12.6
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：荒漠爬行动物以尿素排出含氮废物？错，以固态尿酸盐排泄。判断二：草原动物大都善于挖洞或快速奔跑？对。",
+		"seconds": 13.464
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：阴生植物叶绿体颗粒小、呈浅绿色？错，颗粒大、呈深绿色。判断四：草原上乔木非常少见？对。",
+		"seconds": 12.288
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：群落类型主要依据外貌和物种组成划分？对。判断六：荒漠群落结构非常复杂？错，非常简单。",
+		"seconds": 11.664
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：看水分定类型，看结构找适应。我们下期再见！",
+		"seconds": 7.296
+	}
+}

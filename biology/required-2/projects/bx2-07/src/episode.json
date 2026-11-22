@@ -1,0 +1,38 @@
+{
+	"id": "BX2-07",
+	"title": "基因在染色体上",
+	"subject": "biology",
+	"book": "人教版·必修2·第2章",
+	"points": ["萨顿的假说", "类比推理与假说演绎", "摩尔根果蝇杂交实验", "白眼基因在X上", "测交验证", "基因呈线性排列", "遗传规律的现代解释"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["基因在"], ["染色体上", true]],
+		"subtitle": "萨顿假说 · 摩尔根果蝇实验 · 现代解释",
+		"photo": "morgan.jpg",
+		"photoCaption": "摩尔根（1866—1945）",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["基因在"]], [["染色体上", true]]],
+		"kicker": "萨顿假说 · 果蝇眼色",
+		"photo": "morgan.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "摩尔根与果蝇",
+		"credit": "Thomas Hunt Morgan, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "萨顿通过类比推理证明了基因在染色体上", "ok": false, "fix": "萨顿只提出假说，摩尔根用假说—演绎法证明"},
+			{"q": "摩尔根实验中，F2 的白眼果蝇全是雄性", "ok": true, "fix": ""},
+			{"q": "白眼雌蝇 × 红眼雄蝇，子代雄蝇全为白眼", "ok": true, "fix": ""},
+			{"q": "一条染色体上只有一个基因", "ok": false, "fix": "有许多基因，呈线性排列"},
+			{"q": "所有非等位基因都能自由组合", "ok": false, "fix": "只有非同源染色体上的非等位基因才能"},
+			{"q": "等位基因的分离发生在减数分裂Ⅱ后期", "ok": false, "fix": "随同源染色体分开，发生在减数分裂Ⅰ后期"}
+		],
+		"endTitle": [["基因在"], ["染色体上", true]],
+		"endLine": "平行关系 · 类比推理 · 果蝇眼色 · 线性排列 · 现代解释",
+		"slogan": "萨顿提出，摩尔根证明！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 佚名《Thomas Hunt Morgan》Public domain"
+}

@@ -1,0 +1,38 @@
+{
+	"id": "BX1-21",
+	"title": "光合作用与能量转化（三）",
+	"subject": "biology",
+	"book": "人教版·必修1·第5章",
+	"points": ["光合作用强度", "叶片上浮实验", "光补偿点与饱和点", "总光合与净光合", "二氧化碳浓度", "温度水和矿质元素", "午休与一昼夜曲线", "光合原理的应用"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["光合作用的"], ["影响因素与应用", true]],
+		"subtitle": "光合作用与能量转化（三） · 曲线分析",
+		"photo": "greenhouse.jpg",
+		"photoCaption": "温室番茄：控制光照、温度和二氧化碳",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["光合作用的"]], [["影响因素与应用", true]]],
+		"kicker": "曲线分析",
+		"photo": "greenhouse.jpg",
+		"photoPos": "center center",
+		"photoTag": "温室种植",
+		"credit": "Photo: Petro Stelte, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "测得的O2释放量代表总光合速率", "ok": false, "fix": "代表净光合速率"},
+			{"q": "阴生植物的光补偿点比阳生植物高", "ok": false, "fix": "阴生植物的光补偿点较低"},
+			{"q": "总光合速率＝净光合速率＋呼吸速率", "ok": true, "fix": ""},
+			{"q": "夏季中午光合速率下降是因为光照太弱", "ok": false, "fix": "气孔部分关闭，CO2吸收减少"},
+			{"q": "增施有机肥可以为植物提供CO2", "ok": true, "fix": ""},
+			{"q": "夜间提高温度有利于有机物积累", "ok": false, "fix": "夜间适当降温，减少呼吸消耗"}
+		],
+		"endTitle": [["光合作用的"], ["影响因素与应用", true]],
+		"endLine": "光照 · CO2 · 温度 · 总光合与净光合 · 应用",
+		"slogan": "能不能生长，看净光合是否大于零！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Petro Stelte《Cherry-Tomatoes-Greenhouse-Sitia-Crete-Greece-3》CC BY-SA 4.0（已裁切）"
+}

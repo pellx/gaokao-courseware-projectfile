@@ -1,0 +1,38 @@
+{
+	"id": "XB2-04",
+	"title": "群落的结构",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第2章",
+	"points": ["物种组成与丰富度", "优势种", "五种种间关系", "种间关系曲线", "垂直结构与水平结构", "群落的季节性", "生态位", "土壤小动物丰富度"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["群落的"], ["结构", true]],
+		"subtitle": "种间关系 · 空间结构 · 生态位",
+		"photo": "forest.jpg",
+		"photoCaption": "热带雨林：乔木层与林下层",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["群落的"]], [["结构", true]]],
+		"kicker": "种间关系 · 空间结构 · 生态位",
+		"photo": "forest.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "雨林的分层现象",
+		"credit": "Photo: Chamberlain of Nilai, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "物种组成是区别不同群落的重要特征", "ok": true, "fix": ""},
+			{"q": "物种丰富度指某种生物的个体数目", "ok": false, "fix": "指群落中物种数目的多少"},
+			{"q": "豆科植物与根瘤菌是原始合作", "ok": false, "fix": "是互利共生"},
+			{"q": "竹林中竹子高低错落体现垂直结构", "ok": false, "fix": "竹子是一个种群，不是群落"},
+			{"q": "生态位重叠越多，种间竞争越激烈", "ok": true, "fix": ""},
+			{"q": "诱虫器利用了土壤小动物的趋光性", "ok": false, "fix": "利用趋暗、趋湿、避高温"}
+		],
+		"endTitle": [["群落的"], ["结构", true]],
+		"endLine": "物种组成 · 种间关系 · 空间结构 · 季节性 · 生态位",
+		"slogan": "种间关系看曲线，生态位看资源！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Chamberlain of Nilai《Rainforest canopy and understory layers》CC BY-SA 4.0"
+}

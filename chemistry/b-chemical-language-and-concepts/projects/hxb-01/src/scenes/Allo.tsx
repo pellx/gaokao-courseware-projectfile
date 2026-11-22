@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Allo: React.FC = () => <AutoScene k="allo" d={{"tag": "考点六", "title": "同素异形体", "blocks": [{"t": "big", "at": "al1", "text": "同种{元素}形成的不同{单质}", "size": 42}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "氧", "at": "al2", "text": "O2 与 O3", "c": "red"}]}, {"blocks": [{"t": "rule", "tag": "碳", "at": "al2", "text": "金刚石、石墨、C60", "c": "orange"}]}, {"blocks": [{"t": "rule", "tag": "磷", "at": "al2", "text": "红磷、白磷", "c": "brown"}]}]}, {"t": "rule", "tag": "转化", "at": "al3", "text": "生成新物质 → {化学变化}；化合价不变 → {不是氧化还原|orange}", "c": "green"}], "callout": {"label": "易错", "at": "al4", "text": "H2 与 D2 {不是}同素异形体；研究对象必须是{单质}"}, "beat": {"k": "allo", "at": "al2b", "text": "出身相同，是两个人\n{元素相同、结构不同|red}\n= 两种单质"}}} />;

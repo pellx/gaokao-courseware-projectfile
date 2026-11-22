@@ -1,0 +1,38 @@
+{
+	"id": "XB3-14",
+	"title": "基因工程的基本操作程序（下）：导入、检测与鉴定",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第3章",
+	"points": ["导入植物细胞", "导入动物细胞", "导入微生物细胞", "分子水平的检测", "个体水平的鉴定", "DNA片段的扩增", "电泳结果的判读"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["导入、检测"], ["与鉴定", true]],
+		"subtitle": "基因工程的基本操作程序（下） · 农杆菌 · 电泳",
+		"photo": "gall.jpg",
+		"photoCaption": "农杆菌侵染植物形成的冠瘿",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["导入、检测"]], [["与鉴定", true]]],
+		"kicker": "农杆菌转化 · 抗原—抗体杂交 · 电泳",
+		"photo": "gall.jpg",
+		"photoPos": "center 60%",
+		"photoTag": "农杆菌冠瘿",
+		"credit": "Photo: jacilluch, CC BY-SA 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "农杆菌转化时目的基因插入Ti质粒的T-DNA中", "ok": true, "fix": ""},
+			{"q": "培育转基因动物常以体细胞为受体细胞", "ok": false, "fix": "常用受精卵作受体细胞"},
+			{"q": "Ca^2+处理大肠杆菌使其处于易吸收DNA的状态", "ok": true, "fix": ""},
+			{"q": "检测目的基因是否翻译用PCR", "ok": false, "fix": "检测蛋白质用抗原—抗体杂交"},
+			{"q": "检测出目的基因就说明基因工程成功", "ok": false, "fix": "还要看是否表达并有个体性状"},
+			{"q": "电泳时DNA分子越小，迁移越快", "ok": true, "fix": ""}
+		],
+		"endTitle": [["导入、检测"], ["与鉴定", true]],
+		"endLine": "农杆菌转化 · 显微注射 · Ca^2+处理 · 分子检测 · 个体鉴定 · 电泳",
+		"slogan": "分子三查 PCR 加杂交，个体再看性状！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— jacilluch《Agrobacterium tumefaciens - Agalla de la corona》CC BY-SA 2.0"
+}

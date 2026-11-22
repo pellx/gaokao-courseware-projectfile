@@ -1,0 +1,37 @@
+{
+	"id": "XB3-11",
+	"title": "胚胎工程（下）：技术及其应用",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第2章",
+	"points": ["体外受精", "胚胎移植的概念", "胚胎移植的程序", "胚胎移植的基础", "胚胎移植的意义", "胚胎分割", "试管与克隆动物", "流程图判读"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["胚胎工程"], ["技术及其应用", true]],
+		"subtitle": "胚胎工程（下） · 体外受精 · 胚胎移植 · 胚胎分割",
+		"photo": "calf.jpg",
+		"photoCaption": "受体母牛与胚胎移植产下的牛犊",
+		"photoPos": "35% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["胚胎工程"]], [["技术及其应用", true]]],
+		"photo": "calf.jpg",
+		"photoPos": "35% center",
+		"photoTag": "胚胎移植",
+		"credit": "Photo: Saravanan Durairaj, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "采集的卵母细胞可直接与获能精子受精", "ok": false, "fix": "要先培养到MⅡ期"},
+			{"q": "胚胎移植前要对供体和受体同期发情处理", "ok": true, "fix": ""},
+			{"q": "超数排卵用性激素处理供体母畜", "ok": false, "fix": "用促性腺激素处理"},
+			{"q": "受体对移入的外来胚胎基本不发生免疫排斥", "ok": true, "fix": ""},
+			{"q": "胚胎分割要将滋养层均等分割", "ok": false, "fix": "要将内细胞团均等分割"},
+			{"q": "试管动物属于有性生殖", "ok": true, "fix": ""}
+		],
+		"endTitle": [["胚胎工程"], ["技术及其应用", true]],
+		"endLine": "体外受精 · 胚胎移植 · 同期发情 · 超数排卵 · 胚胎分割",
+		"slogan": "供体出胚胎，受体只孕育！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Saravanan Durairaj《ET calf》CC BY-SA 4.0（裁切）"
+}

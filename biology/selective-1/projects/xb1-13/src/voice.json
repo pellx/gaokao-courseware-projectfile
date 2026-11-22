@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第四章第一节——免疫系统的组成和功能。",
+		"seconds": 8.328
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一节是整个免疫调节的基础，高考常考免疫细胞的来源、三道防线的判断和免疫系统的三大功能。",
+		"seconds": 9.48
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"og1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，免疫器官。免疫系统由免疫器官、免疫细胞和免疫活性物质三部分组成。",
+		"seconds": 8.448
+	},
+	"og2": {
+		"key": "zh-CN-XiaoxiaoNeural|免疫器官主要由淋巴组织构成，包括扁桃体、胸腺、脾、淋巴结和骨髓。",
+		"seconds": 7.68
+	},
+	"og3": {
+		"key": "zh-CN-XiaoxiaoNeural|骨髓是各种免疫细胞发生、分化、发育的场所；胸腺是T细胞分化、发育、成熟的场所，青春期以后会逐渐退化。",
+		"seconds": 11.256
+	},
+	"og4": {
+		"key": "zh-CN-XiaoxiaoNeural|脾、淋巴结和扁桃体是免疫细胞集中分布的场所。淋巴结沿淋巴管遍布全身，能阻止和消灭侵入体内的微生物。",
+		"seconds": 11.424
+	},
+	"og5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：骨髓和胸腺管免疫细胞的产生和成熟；脾、淋巴结、扁桃体管免疫细胞的集中分布和发挥作用。",
+		"seconds": 10.416
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，免疫细胞。免疫细胞是执行免疫功能的细胞，都来自骨髓中的造血干细胞。",
+		"seconds": 8.4
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|免疫细胞包括各种类型的白细胞，主要有淋巴细胞、树突状细胞和巨噬细胞等。淋巴细胞又分为B淋巴细胞和T淋巴细胞。",
+		"seconds": 12
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|T细胞又分为辅助性T细胞和细胞毒性T细胞等，它们在特异性免疫中分工不同。",
+		"seconds": 8.064
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|B细胞、树突状细胞和巨噬细胞都能摄取和加工处理抗原，并把抗原信息暴露在细胞表面，传递给其他免疫细胞，统称为抗原呈递细胞。",
+		"seconds": 13.272
+	},
+	"cl5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：抗原呈递细胞不只是巨噬细胞，B细胞也是；巨噬细胞既参与非特异性免疫，也参与特异性免疫。",
+		"seconds": 10.632
+	},
+	"bt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，B细胞和T细胞从哪里来，又在哪里成熟？",
+		"seconds": 5.304
+	},
+	"bt2": {
+		"key": "zh-CN-XiaoxiaoNeural|它们都来自骨髓中的造血干细胞。",
+		"seconds": 3.288
+	},
+	"bt3": {
+		"key": "zh-CN-XiaoxiaoNeural|一部分在骨髓中分化、发育、成熟，成为B细胞；",
+		"seconds": 5.28
+	},
+	"bt4": {
+		"key": "zh-CN-XiaoxiaoNeural|另一部分迁移到胸腺中成熟，成为T细胞。成熟以后，它们随血液和淋巴循环，分布到淋巴结、脾等处。",
+		"seconds": 10.44
+	},
+	"bt5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：B细胞和T细胞产生的场所都是骨髓，区别在于成熟的场所——B细胞在骨髓，T细胞在胸腺。所以切除胸腺，主要影响的是T细胞。",
+		"seconds": 13.968
+	},
+	"sb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，免疫活性物质，是由免疫细胞或其他细胞产生的、发挥免疫作用的物质。",
+		"seconds": 7.824
+	},
+	"sb2": {
+		"key": "zh-CN-XiaoxiaoNeural|抗体是机体产生的专门应对抗原的蛋白质，由浆细胞分泌。",
+		"seconds": 5.952
+	},
+	"sb3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞因子主要由辅助性T细胞分泌，包括白细胞介素、干扰素、肿瘤坏死因子等。",
+		"seconds": 8.232
+	},
+	"sb4": {
+		"key": "zh-CN-XiaoxiaoNeural|溶菌酶能溶解细菌的细胞壁，唾液、泪液和血浆中都有。",
+		"seconds": 5.976
+	},
+	"sb5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：免疫活性物质不一定由免疫细胞产生，唾液腺、泪腺细胞也能分泌溶菌酶。",
+		"seconds": 8.28
+	},
+	"ln1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，人体的三道防线。",
+		"seconds": 2.952
+	},
+	"ln2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一道防线是皮肤和黏膜，比如皮肤的阻挡作用，呼吸道黏膜上纤毛的清扫作用。",
+		"seconds": 7.656
+	},
+	"ln3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二道防线是体液中的杀菌物质，如溶菌酶，以及吞噬细胞，如巨噬细胞和树突状细胞。",
+		"seconds": 8.664
+	},
+	"ln4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三道防线主要由免疫器官和免疫细胞，借助血液循环和淋巴循环组成。",
+		"seconds": 7.224
+	},
+	"ln5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：唾液、泪液、胃液都在与外界相通的腔道里，其中的杀菌物质属于第一道防线。解题方法：先看物质在体表、腔道，还是在体液中。",
+		"seconds": 13.992
+	},
+	"ns1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，非特异性免疫与特异性免疫。",
+		"seconds": 4.32
+	},
+	"ns2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一、二道防线是人人生来就有的，不针对某一类特定的病原体，对多种病原体都有防御作用，叫做非特异性免疫。",
+		"seconds": 10.944
+	},
+	"ns3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三道防线是出生后，在与病原体接触的过程中形成的，只针对特定的抗原，叫做特异性免疫。",
+		"seconds": 8.832
+	},
+	"ns4": {
+		"key": "zh-CN-XiaoxiaoNeural|二者紧密联系：非特异性免疫是特异性免疫的基础，二者共同完成免疫功能。",
+		"seconds": 7.824
+	},
+	"ns5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看是否针对某种特定的病原体。患过麻疹不再患麻疹，属于特异性免疫；巨噬细胞吞噬多种病菌，属于非特异性免疫。",
+		"seconds": 12.984
+	},
+	"fn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，免疫系统的三大功能。",
+		"seconds": 3.336
+	},
+	"fn2": {
+		"key": "zh-CN-XiaoxiaoNeural|免疫防御：机体排除外来抗原性异物，是最基本的功能。功能过强会发生过敏反应，过弱则容易反复感染。",
+		"seconds": 10.68
+	},
+	"fn3": {
+		"key": "zh-CN-XiaoxiaoNeural|免疫自稳：清除衰老或损伤的细胞，维持内环境稳态。功能异常时，容易发生自身免疫病。",
+		"seconds": 9.384
+	},
+	"fn4": {
+		"key": "zh-CN-XiaoxiaoNeural|免疫监视：识别和清除突变的细胞，防止肿瘤发生。功能低下时，容易发生肿瘤或持续的病毒感染。",
+		"seconds": 10.104
+	},
+	"fn5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：根据实例判断功能——对付外来病原体是防御，清除衰老损伤的细胞是自稳，清除癌细胞是监视。",
+		"seconds": 9.888
+	},
+	"ag1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，抗原与抗体。",
+		"seconds": 2.688
+	},
+	"ag2": {
+		"key": "zh-CN-XiaoxiaoNeural|抗原是能引发免疫反应的物质，大多数是蛋白质，比如病毒、细菌表面的蛋白质。",
+		"seconds": 7.968
+	},
+	"ag3": {
+		"key": "zh-CN-XiaoxiaoNeural|抗原不一定来自外界，自身衰老、损伤或癌变的细胞，也可能成为抗原。",
+		"seconds": 7.32
+	},
+	"ag4": {
+		"key": "zh-CN-XiaoxiaoNeural|抗体是浆细胞分泌的免疫球蛋白，能与相应抗原特异性结合，主要分布在血清中，组织液和外分泌液中也有。",
+		"seconds": 10.248
+	},
+	"ag5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：抗体与抗原结合后，形成沉淀或细胞集团，最终由其他免疫细胞吞噬消化，抗体本身不能直接清除病原体。",
+		"seconds": 11.304
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|B细胞和T细胞都在骨髓中成熟？错，T细胞在胸腺中成熟。免疫活性物质都由免疫细胞产生？错，溶菌酶等也可以由其他细胞产生。",
+		"seconds": 14.016
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|胃液中的盐酸杀菌属于第一道防线？对。巨噬细胞只参与非特异性免疫？错，它也参与特异性免疫。",
+		"seconds": 10.704
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|清除体内癌变的细胞属于免疫自稳？错，属于免疫监视。抗体能与相应抗原特异性结合？对。",
+		"seconds": 10.32
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串起来：先认清免疫系统的三个组成部分，再分清三道防线和两类免疫，最后记住三大功能。掌握这些，第四章就开了个好头！我们下期再见！",
+		"seconds": 14.856
+	}
+}

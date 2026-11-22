@@ -1,0 +1,38 @@
+{
+	"id": "BX1-24",
+	"title": "细胞的分化",
+	"subject": "biology",
+	"book": "人教版·必修1·第6章",
+	"points": ["分化的概念和特点", "分化的实质", "分化的意义", "细胞的全能性", "干细胞", "全能性易错辨析"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞的"], ["分化", true]],
+		"subtitle": "基因选择性表达 · 全能性 · 干细胞",
+		"photo": "dolly.jpg",
+		"photoCaption": "克隆羊多莉：动物细胞核具有全能性",
+		"photoPos": "75% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞的"]], [["分化", true]]],
+		"kicker": "全能性 · 干细胞",
+		"photo": "dolly.jpg",
+		"photoPos": {"16x9": "75% center", "4x3": "75% center", "3x4": "75% 22%"},
+		"photoTag": "克隆羊多莉",
+		"credit": "Photo: Sgerbic, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "细胞分化使细胞的遗传物质发生改变", "ok": false, "fix": "遗传物质不变，是基因的选择性表达"},
+			{"q": "细胞分化只发生在胚胎时期", "ok": false, "fix": "细胞分化是一种持久性的变化"},
+			{"q": "红细胞和肌细胞中的mRNA不完全相同", "ok": true, "fix": ""},
+			{"q": "种子萌发长成植株体现了细胞的全能性", "ok": false, "fix": "种子是器官，属于正常发育"},
+			{"q": "克隆羊多莉说明动物细胞核具有全能性", "ok": true, "fix": ""},
+			{"q": "受精卵没有分化，所以没有全能性", "ok": false, "fix": "受精卵没有分化，全能性最高"}
+		],
+		"endTitle": [["细胞的"], ["分化", true]],
+		"endLine": "概念 · 实质 · 意义 · 全能性 · 干细胞",
+		"slogan": "遗传物质不变，基因选择性表达！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Sgerbic《Dolly the Sheep National Museum of Scotland》CC BY-SA 4.0（已裁切）"
+}

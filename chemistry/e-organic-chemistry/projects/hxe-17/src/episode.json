@@ -1,0 +1,112 @@
+{
+	"id": "HXE-17",
+	"title": "合成高分子",
+	"subject": "chemistry",
+	"book": "有机化学 · 第17期 / 共17期",
+	"points": [
+		"加聚与缩聚",
+		"加聚物找单体",
+		"缩聚物找单体",
+		"链节、聚合度与端基",
+		"三大合成材料",
+		"线型与网状结构",
+		"功能高分子",
+		"陌生聚合物分析"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"合成高分子",
+				true
+			]
+		],
+		"subtitle": "加聚 · 缩聚 · 找单体 · 功能高分子",
+		"photo": "baekeland.jpg",
+		"photoCaption": "贝克兰：发明酚醛树脂（电木），第一种全合成塑料",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"合成高分子",
+					true
+				]
+			]
+		],
+		"photo": "baekeland.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "贝克兰",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "加聚反应中有小分子生成",
+				"ok": false,
+				"fix": "加聚没有小分子，缩聚才有"
+			},
+			{
+				"q": "聚氯乙烯的单体是 CH2=CHCl",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "涤纶的单体是对苯二甲酸和乙二醇",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "聚乙烯有固定的熔点，属于纯净物",
+				"ok": false,
+				"fix": "高分子是混合物"
+			},
+			{
+				"q": "酚醛树脂具有热塑性",
+				"ok": false,
+				"fix": "网状结构，具有热固性"
+			},
+			{
+				"q": "聚乳酸含酯基，可以降解",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"合成高分子",
+				true
+			]
+		],
+		"endLine": "主链全碳是加聚，酯基酰胺处断开",
+		"slogan": "主链全碳是加聚，酯基酰胺处断开"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Leo Baekeland ca 1906》，公有领域；插图来自 pixiv：千枝李、綾杉元也、Z君·DD中（侵删）",
+	"anime": [
+		{
+			"key": "line",
+			"src": "line.jpg",
+			"credit": "插图：千枝李《初心に戻ってけいおんちびキャラ落書き》pixiv #16413392",
+			"url": "https://www.pixiv.net/artworks/16413392"
+		},
+		{
+			"key": "cap",
+			"src": "cap.jpg",
+			"credit": "插图：綾杉元也《あずにゃーーーーーーーん！！》pixiv #4373165",
+			"url": "https://www.pixiv.net/artworks/4373165"
+		},
+		{
+			"key": "maid",
+			"src": "maid.jpg",
+			"credit": "插图：Z君·DD中《愛音ちゃん》pixiv #130594448",
+			"url": "https://www.pixiv.net/artworks/130594448"
+		}
+	]
+}

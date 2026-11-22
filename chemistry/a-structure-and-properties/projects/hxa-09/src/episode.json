@@ -1,0 +1,125 @@
+{
+	"id": "HXA-09",
+	"title": "共价键：σ 键与 π 键、键参数",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第9期 / 共21期",
+	"points": [
+		"饱和性与方向性",
+		"σ 键与 π 键",
+		"σ、π 键的计数",
+		"极性键与非极性键",
+		"键能、键长、键角",
+		"键能与稳定性、反应热",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"共价键："
+			],
+			[
+				"σ 键与 π 键",
+				true
+			]
+		],
+		"subtitle": "头碰头 · 肩并肩 · 键能 · 键长 · 键角",
+		"photo": "mulliken.jpg",
+		"photoCaption": "马利肯：发展了分子轨道理论",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"σ 键 "
+				],
+				[
+					"π 键",
+					true
+				]
+			],
+			[
+				[
+					"键参数"
+				]
+			]
+		],
+		"photo": "mulliken.jpg",
+		"photoPos": {
+			"16x9": "center 20%",
+			"4x3": "center 20%",
+			"3x4": "center 8%"
+		},
+		"photoTag": "马利肯",
+		"credit": "Friedrich Hund, CC BY 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "两个原子之间形成双键时，含 2 个 σ 键",
+				"ok": false,
+				"fix": "1 个 σ 键、1 个 π 键"
+			},
+			{
+				"q": "H2 分子中的 s-s σ 键没有方向性",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "乙烯比乙烷活泼，因为 π 键容易断裂",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "HF 比 HCl 稳定，是因为 HF 分子间存在氢键",
+				"ok": false,
+				"fix": "H—F 键能比 H—Cl 大"
+			},
+			{
+				"q": "[Cu(NH3)4]^2+ 中含 16 个 σ 键",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "ΔH = 生成物键能总和 − 反应物键能总和",
+				"ok": false,
+				"fix": "反应物键能总和 − 生成物键能总和"
+			}
+		],
+		"endTitle": [
+			[
+				"共价键："
+			],
+			[
+				"σ 键与 π 键",
+				true
+			]
+		],
+		"endLine": "饱和性与方向性 · σ 与 π · 计数 · 键参数 · 键能",
+		"slogan": "单键一σ，双键一σ一π，三键一σ两π！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Friedrich Hund《Mulliken 1927》CC BY 3.0；插图来自 pixiv：まくら、ーーー、キノスケ（侵删）",
+	"anime": [
+		{
+			"key": "hand",
+			"src": "hand.jpg",
+			"credit": "插图：まくら《ぼっちちゃんの握手会》pixiv #119845300",
+			"url": "https://www.pixiv.net/artworks/119845300"
+		},
+		{
+			"key": "side",
+			"src": "side.jpg",
+			"credit": "插图：ーーー《お揃い》pixiv #104570396",
+			"url": "https://www.pixiv.net/artworks/104570396"
+		},
+		{
+			"key": "hold",
+			"src": "hold.jpg",
+			"credit": "插图：キノスケ《京子綾乃》pixiv #28999475",
+			"url": "https://www.pixiv.net/artworks/28999475"
+		}
+	]
+}

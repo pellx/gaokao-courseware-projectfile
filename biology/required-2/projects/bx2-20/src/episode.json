@@ -1,0 +1,38 @@
+{
+	"id": "BX2-20",
+	"title": "生物有共同祖先的证据",
+	"subject": "biology",
+	"book": "人教版·必修2·第6章",
+	"points": ["化石证据", "比较解剖学证据", "胚胎学证据", "细胞和分子水平证据", "证据的综合运用"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["生物有共同祖先的"], ["证据", true]],
+		"subtitle": "化石 · 同源器官 · 胚胎 · 分子",
+		"photo": "anchiornis.jpg",
+		"photoCaption": "赫氏近鸟龙化石（辽宁出土）",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生物有共同"]], [["祖先的证据", true]]],
+		"kicker": "化石 · 解剖 · 胚胎 · 分子",
+		"photo": "anchiornis.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "赫氏近鸟龙化石",
+		"credit": "Photo: Bjoertvedt, CC BY-SA 4.0 (Wikimedia Commons)"
+	},
+	"review": {
+		"items": [
+			{"q": "化石是研究生物进化最直接、最重要的证据", "ok": true, "fix": ""},
+			{"q": "越古老的地层中，形成化石的生物越复杂、越高等", "ok": false, "fix": "越简单、越低等"},
+			{"q": "蝙蝠的翼和鲸的鳍是同源器官", "ok": true, "fix": ""},
+			{"q": "人和鱼的胚胎发育早期都出现鳃裂和尾", "ok": true, "fix": ""},
+			{"q": "细胞色素 c 的氨基酸序列差异越大，亲缘关系越近", "ok": false, "fix": "差异越小，亲缘关系越近"},
+			{"q": "所有生物共用一套遗传密码，是分子水平的证据", "ok": true, "fix": ""}
+		],
+		"endTitle": [["生物有共同祖先的"], ["证据", true]],
+		"endLine": "化石 · 同源器官 · 胚胎 · 细胞和分子",
+		"slogan": "差异越小，亲缘越近！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Bjoertvedt《Anchiornis huxleyi - middle jurassic Liaoning IMG 5203 Beijing Museum of Natural History》CC BY-SA 4.0"
+}

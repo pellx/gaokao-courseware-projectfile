@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气的性质与次氯酸。",
+		"seconds": 2.64
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考氯水的成分与性质、次氯酸与漂白，实验题探究含氯物质的氧化性，共七个考点。",
+		"seconds": 8.592
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，氯气的物理性质：黄绿色、有刺激性气味、有毒，密度比空气大，能溶于水，1体积水约溶2体积氯气。",
+		"seconds": 11.088
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气易液化，液化后叫液氯，是纯净物；氯水是氯气的水溶液，是混合物。",
+		"seconds": 7.536
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|闻有毒气体的方法：用手在瓶口轻轻扇动，让少量气体飘进鼻孔。",
+		"seconds": 6.576
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：液氯是纯净物，氯水是混合物；两者不是一回事。",
+		"seconds": 6.024
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，氯气与金属、氢气。氯气氧化性强，把变价金属氧化到高价：铁在氯气中燃烧生成氯化铁，产生棕褐色的烟。",
+		"seconds": 12.432
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|铜在氯气中燃烧生成氯化铜，产生棕黄色的烟；钠燃烧产生白烟，生成氯化钠。",
+		"seconds": 8.136
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|氢气在氯气中安静燃烧，发出苍白色火焰，瓶口出现白雾；光照混合气体会爆炸。",
+		"seconds": 8.496
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铁与氯气反应不论氯气多少都生成氯化铁；燃烧不一定要有氧气参加。",
+		"seconds": 7.68
+	},
+	"wa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，氯气与水：氯气加水可逆地生成氯化氢和次氯酸，是可逆反应，也是氯的歧化。",
+		"seconds": 8.904
+	},
+	"wa2": {
+		"key": "zh-CN-XiaoxiaoNeural|新制氯水的成分：三种分子氯气、水、次氯酸；四种离子氢离子、氯离子、次氯酸根，还有少量氢氧根。",
+		"seconds": 10.632
+	},
+	"wa2b": {
+		"key": "zh-CN-XiaoxiaoNeural|一大杯黄绿色的蜜瓜苏打，里面泡着好几个小人：新制氯水也是黄绿色，里面同时有好几种粒子。",
+		"seconds": 9.288
+	},
+	"wa3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯水呈浅黄绿色，是因为溶有氯气分子。",
+		"seconds": 4.2
+	},
+	"wa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：离子方程式里次氯酸不拆，用可逆号。",
+		"seconds": 4.992
+	},
+	"cw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，氯水的性质：哪种成分起作用，就表现哪种性质。",
+		"seconds": 6.024
+	},
+	"cw2": {
+		"key": "zh-CN-XiaoxiaoNeural|氢离子：与碳酸钠反应放出二氧化碳；使紫色石蕊先变红。",
+		"seconds": 6.48
+	},
+	"cw3": {
+		"key": "zh-CN-XiaoxiaoNeural|次氯酸：漂白，所以石蕊变红之后又褪色。",
+		"seconds": 4.704
+	},
+	"cw4": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气：强氧化性，能把亚铁离子氧化成铁离子、把碘离子氧化成碘。氯离子：与硝酸银生成白色沉淀。",
+		"seconds": 10.968
+	},
+	"cw5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氯水久置后 盐酸O 分解，最后变成稀盐酸：颜色褪去，酸性增强，漂白性消失。",
+		"seconds": 9.264
+	},
+	"hc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，次氯酸的三个性质。第一，弱酸性：比碳酸还弱。",
+		"seconds": 6.552
+	},
+	"hc2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，不稳定：见光分解，两个次氯酸光照生成两个氯化氢和氧气，所以氯水要放在棕色瓶里避光保存。",
+		"seconds": 10.368
+	},
+	"hc2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个短发女孩用手挡着眼睛：怕光的不只是她，次氯酸见光就分解。",
+		"seconds": 6.576
+	},
+	"hc3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，强氧化性：能杀菌、消毒、漂白有色物质。",
+		"seconds": 5.472
+	},
+	"hc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氯气使湿润的有色布条褪色，真正起漂白作用的是次氯酸；干燥的氯气不能使干燥的有色布条褪色。",
+		"seconds": 10.344
+	},
+	"bl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，漂白液和漂白粉。氯气通入氢氧化钠溶液：生成氯化钠、次氯酸钠和水，得到漂白液。",
+		"seconds": 9.936
+	},
+	"bl2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气通入石灰乳：两个氯气加两个氢氧化钙，生成氯化钙、次氯酸钙和两个水，漂白粉的有效成分是次氯酸钙。",
+		"seconds": 10.896
+	},
+	"bl3": {
+		"key": "zh-CN-XiaoxiaoNeural|漂白粉在空气中失效：次氯酸钙与二氧化碳和水生成碳酸钙沉淀和次氯酸，次氯酸再见光分解。",
+		"seconds": 9.744
+	},
+	"bl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：漂白粉是混合物；它能和二氧化碳反应生成次氯酸，正好说明碳酸的酸性强于次氯酸。",
+		"seconds": 9.408
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，漂白原理的比较。氧化型：次氯酸、次氯酸钠、过氧化钠、过氧化氢、臭氧，把有色物质氧化，不可逆。",
+		"seconds": 11.616
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|化合型：二氧化硫与有色物质结合成不稳定的无色物质，加热能恢复原色。",
+		"seconds": 7.536
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|吸附型：活性炭吸附色素，是物理变化。",
+		"seconds": 4.416
+	},
+	"cp3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿着宽大黄T恤的红发女孩：衣服洗白了就回不去了，这就是氧化型漂白，不可逆。",
+		"seconds": 7.488
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化硫不能漂白酸碱指示剂，通入石蕊溶液只变红不褪色；氯气与二氧化硫等物质的量混合，失去漂白性。",
+		"seconds": 11.448
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：铁在少量氯气中燃烧生成氯化亚铁？错，生成氯化铁。判断二：新制氯水中有氯气、次氯酸、水三种分子？对。",
+		"seconds": 13.776
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：久置氯水酸性比新制的弱？错，变成稀盐酸，酸性增强。判断四：次氯酸的酸性比碳酸强？错。",
+		"seconds": 12.456
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：漂白粉的有效成分是次氯酸钙？对。判断六：氯气使湿润布条褪色，说明氯气有漂白性？错，是次氯酸。",
+		"seconds": 12.816
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|三分子四离子，漂白靠次氯酸。下一期：氯气的制法与含氯消毒剂。",
+		"seconds": 7.488
+	}
+}

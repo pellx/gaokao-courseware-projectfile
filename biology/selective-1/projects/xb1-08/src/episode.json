@@ -1,0 +1,37 @@
+{
+	"id": "XB1-08",
+	"title": "人脑的高级功能",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第2章",
+	"points": ["语言功能与言语区", "左右半球的功能侧重", "学习与记忆的四个阶段", "短时记忆与长时记忆", "情绪与抑郁", "根据症状判断受损脑区"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["人脑的"], ["高级功能", true]],
+		"subtitle": "言语区 · 学习与记忆 · 情绪",
+		"photo": "leborgne.jpg",
+		"photoCaption": "布罗卡研究过的失语病人的大脑（1861）",
+		"photoPos": "center 55%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["人脑的"]], [["高级功能", true]]],
+		"photo": "leborgne.jpg",
+		"photoPos": "center 55%",
+		"photoTag": "布罗卡失语病人的大脑",
+		"credit": "Photo: Selbymay, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "语言功能是人脑特有的高级功能", "ok": true, "fix": ""},
+			{"q": "S区受损的病人听不懂别人讲话", "ok": false, "fix": "S区受损不能讲话；听不懂是H区受损"},
+			{"q": "大多数人主导语言功能的区域在右半球", "ok": false, "fix": "在左半球"},
+			{"q": "第一级记忆属于长时记忆", "ok": false, "fix": "属于短时记忆"},
+			{"q": "长时记忆可能与新突触的建立有关", "ok": true, "fix": ""},
+			{"q": "有些抗抑郁药能抑制5-羟色胺的回收", "ok": true, "fix": ""}
+		],
+		"endTitle": [["人脑的"], ["高级功能", true]],
+		"endLine": "言语区 · 左右半球 · 学习与记忆 · 情绪",
+		"slogan": "W写V看S说H听，症状题一眼定位！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Selbymay《Cerveau de Louis Victor Leborgne dit Tantan》CC BY-SA 4.0；Pierre Petit《Paul Broca》公有领域；Max Glauer《Carl Wernicke》公有领域"
+}

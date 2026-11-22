@@ -1,0 +1,118 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第六章第四节——协同进化与生物多样性的形成，也是必修二的最后一节。",
+		"seconds": 10.728
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考协同进化的实例、生物多样性的三个层次和现代生物进化理论的要点。",
+		"seconds": 7.536
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，协同进化：不同物种之间、生物与无机环境之间在相互影响中不断进化和发展。",
+		"seconds": 8.856
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|通过漫长的协同进化过程，地球上不仅出现了千姿百态的物种，而且形成了多种多样的生态系统。",
+		"seconds": 8.832
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：协同进化不只发生在生物之间，生物与无机环境之间也有；同种生物之间的斗争不属于协同进化。",
+		"seconds": 10.08
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，协同进化的实例。达尔文发现一种兰花长着细长的花距，他推测一定有口器同样细长的昆虫为它传粉，约 50 年后果然发现了这种蛾。",
+		"seconds": 13.968
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|捕食者和猎物：猎豹越跑越快，羚羊也越跑越快。斯坦利的“收割理论”认为，捕食者的存在有利于增加物种多样性。",
+		"seconds": 11.112
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|生物与环境：最早的光合生物产生了氧气，使大气中出现氧气，为好氧生物的出现创造了条件。",
+		"seconds": 9.408
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断实例是否属于协同进化，看是否是两者相互影响、共同变化。",
+		"seconds": 7.536
+	},
+	"lv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，生物多样性的三个层次：遗传多样性、物种多样性、生态系统多样性。",
+		"seconds": 8.04
+	},
+	"lv2": {
+		"key": "zh-CN-XiaoxiaoNeural|遗传多样性也叫基因多样性，是同种生物不同个体之间基因的差异。",
+		"seconds": 6.6
+	},
+	"lv3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：生物多样性的形成不只是新物种不断形成的过程，还包括遗传多样性和生态系统多样性的形成。",
+		"seconds": 9.672
+	},
+	"hi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，生物多样性的形成是协同进化的结果。",
+		"seconds": 4.944
+	},
+	"hi2": {
+		"key": "zh-CN-XiaoxiaoNeural|进化历程：生物由原核到真核、由单细胞到多细胞、由水生到陆生、由简单到复杂、由低等到高等。",
+		"seconds": 9.864
+	},
+	"hi3": {
+		"key": "zh-CN-XiaoxiaoNeural|两个关键事件：有性生殖的出现，使生物进化速度明显加快；寒武纪大爆发，大量动物在短时间内出现。",
+		"seconds": 9.984
+	},
+	"hi4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：有性生殖实现了基因重组，增强了生物变异的多样性，所以进化速度加快。",
+		"seconds": 8.184
+	},
+	"th1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，生物进化理论在发展。中性学说：大量的基因突变是中性的，决定生物进化方向的是中性突变的逐渐积累，而不是自然选择。",
+		"seconds": 13.08
+	},
+	"th2": {
+		"key": "zh-CN-XiaoxiaoNeural|间断平衡学说：物种形成并不都是渐变的过程，而是物种长期稳定与迅速形成新种交替出现的过程。",
+		"seconds": 9.504
+	},
+	"th3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：这些观点仍有争论，更多学者认为不能否认自然选择的作用；以自然选择学说为核心的进化理论，仍是各方面研究的基础。",
+		"seconds": 12.168
+	},
+	"mo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，现代生物进化理论的主要内容。适应是自然选择的结果；种群是生物进化的基本单位。",
+		"seconds": 9.552
+	},
+	"mo2": {
+		"key": "zh-CN-XiaoxiaoNeural|突变和基因重组提供进化的原材料，自然选择导致种群基因频率的定向改变，进而通过隔离形成新的物种。",
+		"seconds": 10.224
+	},
+	"mo3": {
+		"key": "zh-CN-XiaoxiaoNeural|生物进化的过程，实际上是生物与生物、生物与无机环境协同进化的过程；进化导致生物多样性。",
+		"seconds": 9.168
+	},
+	"mo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：答进化题，抓住一条主线——突变和基因重组，自然选择，基因频率改变，隔离，形成新物种。",
+		"seconds": 10.488
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，生物与无机环境之间也有协同进化。判断二？对。",
+		"seconds": 7.8
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？对。",
+		"seconds": 4.656
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，中性学说认为决定进化方向的是中性突变的逐渐积累。判断六？对。",
+		"seconds": 9.816
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：相互影响、共同进化，形成多样性。必修二到这里就全部梳理完了，我们下次再见！",
+		"seconds": 10.2
+	}
+}

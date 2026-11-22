@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第四章第二节和第三节——关注生殖性克隆人，禁止生物武器。",
+		"seconds": 10.536
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考生殖性克隆与治疗性克隆的区别、我国的态度，以及伦理问题的论述。",
+		"seconds": 7.632
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，生殖性克隆与治疗性克隆。生殖性克隆，是指通过克隆技术产生独立生存的新个体。",
+		"seconds": 9.84
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|治疗性克隆，是指利用克隆技术产生特定的细胞、组织和器官，用它们来修复或替代受损的细胞、组织和器官，从而达到治疗疾病的目的。",
+		"seconds": 12.888
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|两者都用到了核移植技术，区别在于目的：一个是产生个体，一个是治疗疾病。",
+		"seconds": 7.392
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看结果——产生个体就是生殖性克隆；只得到细胞、组织、器官就是治疗性克隆。",
+		"seconds": 9.408
+	},
+	"at1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，我国对克隆人的态度。我国政府的态度是：禁止生殖性克隆人。",
+		"seconds": 7.32
+	},
+	"at2": {
+		"key": "zh-CN-XiaoxiaoNeural|坚持“四不”原则：不赞成、不允许、不支持、不接受任何生殖性克隆人的实验。",
+		"seconds": 7.728
+	},
+	"at3": {
+		"key": "zh-CN-XiaoxiaoNeural|但不反对治疗性克隆，前提是要进行有效的监控和严格审查。",
+		"seconds": 6.312
+	},
+	"at4": {
+		"key": "zh-CN-XiaoxiaoNeural|反对克隆人的理由：克隆人严重违反了人类伦理道德；克隆技术尚不成熟，可能孕育出有严重生理缺陷的孩子。",
+		"seconds": 10.344
+	},
+	"at5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：我国禁止的是生殖性克隆，不是所有克隆；对治疗性克隆不反对。",
+		"seconds": 7.152
+	},
+	"iv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，试管婴儿与设计试管婴儿。试管婴儿：通过体外受精和胚胎移植，解决不孕不育的问题。",
+		"seconds": 10.008
+	},
+	"iv2": {
+		"key": "zh-CN-XiaoxiaoNeural|设计试管婴儿：在胚胎移植前，要对胚胎进行遗传学诊断，选择符合要求的胚胎再移植。",
+		"seconds": 8.808
+	},
+	"iv3": {
+		"key": "zh-CN-XiaoxiaoNeural|设计试管婴儿可用于避免遗传病，或者为患病的哥哥姐姐提供配型相合的造血干细胞等。",
+		"seconds": 8.496
+	},
+	"iv4": {
+		"key": "zh-CN-XiaoxiaoNeural|两者都属于有性生殖，都用到体外受精、早期胚胎培养和胚胎移植。",
+		"seconds": 6.864
+	},
+	"iv5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两者的区别在于设计试管婴儿多了遗传学诊断；不能借此随意选择性别等非医学需要的性状。",
+		"seconds": 9.456
+	},
+	"we1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，生物武器的种类和特点。生物武器的种类包括：致病菌类、病毒类和生化毒剂类等。",
+		"seconds": 9.336
+	},
+	"we2": {
+		"key": "zh-CN-XiaoxiaoNeural|还可以通过转基因技术，把致病能力、抗药性等基因转入病原体，制造出新的“超级”病原体。",
+		"seconds": 8.736
+	},
+	"we3": {
+		"key": "zh-CN-XiaoxiaoNeural|生物武器的特点：致病能力强、攻击范围广，可以通过空气、水、食物等多种途径传播。",
+		"seconds": 8.472
+	},
+	"we4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断哪些属于生物武器。解题方法：看它是不是利用生物或其毒素来致病、致死，比如炭疽杆菌、天花病毒、肉毒杆菌毒素。",
+		"seconds": 13.344
+	},
+	"ba1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，我国对生物武器的态度。1972年，多国签署了禁止生物武器公约。",
+		"seconds": 7.968
+	},
+	"ba2": {
+		"key": "zh-CN-XiaoxiaoNeural|我国的态度是：在任何情况下，不发展、不生产、不储存生物武器。",
+		"seconds": 6.696
+	},
+	"ba3": {
+		"key": "zh-CN-XiaoxiaoNeural|并反对生物武器及其技术和设备的扩散。",
+		"seconds": 4.176
+	},
+	"ba4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：克隆人是“四不”——不赞成、不允许、不支持、不接受；生物武器是“三不”加反对扩散。两组不要记混。",
+		"seconds": 10.8
+	},
+	"et1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，生物技术伦理问题的答题思路。第一，明确技术本身：它是什么、能做什么。",
+		"seconds": 8.592
+	},
+	"et2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，分析利与弊：对个人、社会、生态可能带来的好处和风险。",
+		"seconds": 6.768
+	},
+	"et3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，联系法规和我国态度：比如禁止生殖性克隆、禁止生物武器。",
+		"seconds": 7.056
+	},
+	"et4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四，表明理性立场：科学技术是一把“双刃剑”，要趋利避害，在伦理和法律的框架内发展。",
+		"seconds": 9
+	},
+	"et5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：伦理题四步走——技术、利弊、法规、立场，观点明确，有理有据。",
+		"seconds": 8.064
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：治疗性克隆的目的是产生新个体？错。判断二：我国不反对治疗性克隆？对。",
+		"seconds": 10.176
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：设计试管婴儿与试管婴儿技术完全相同？错，多了遗传学诊断。判断四：生物武器包括致病菌、病毒、生化毒剂等？对。",
+		"seconds": 14.136
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：我国在特殊情况下可以发展生物武器？错。判断六：设计试管婴儿可以用于选择性别？错。",
+		"seconds": 11.304
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：四不三不记牢，伦理题有理有据。选择性必修三全部讲完，我们下次再见！",
+		"seconds": 9.744
+	}
+}

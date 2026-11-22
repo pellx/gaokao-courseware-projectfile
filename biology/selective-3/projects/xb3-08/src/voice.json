@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第二章第二节的第二部分——动物细胞融合技术与单克隆抗体。",
+		"seconds": 10.152
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考单克隆抗体的制备流程、两次筛选的目的和方法，以及杂交瘤细胞的特点。",
+		"seconds": 8.016
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"fu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，动物细胞融合。它是使两个或多个动物细胞结合形成一个细胞的技术，融合后形成的细胞叫杂交细胞。",
+		"seconds": 10.872
+	},
+	"fu2": {
+		"key": "zh-CN-XiaoxiaoNeural|杂交细胞具有原来两个或多个细胞的遗传信息。",
+		"seconds": 4.44
+	},
+	"fu3": {
+		"key": "zh-CN-XiaoxiaoNeural|诱导方法有：聚乙二醇，也就是P E G融合法、电融合法和灭活病毒诱导法。",
+		"seconds": 7.8
+	},
+	"fu4": {
+		"key": "zh-CN-XiaoxiaoNeural|灭活病毒，是指用物理或化学手段使病毒失去感染能力，但保留了融合活性。",
+		"seconds": 7.536
+	},
+	"fu5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：灭活病毒诱导法是动物细胞融合特有的方法，不能用于植物原生质体融合。",
+		"seconds": 7.872
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，动物细胞融合与植物体细胞杂交的比较。原理：都依赖细胞膜的流动性，植物体细胞杂交还要用到细胞的全能性。",
+		"seconds": 11.808
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|前处理：植物要先用纤维素酶和果胶酶去除细胞壁；动物要用胰蛋白酶分散成单个细胞。",
+		"seconds": 8.976
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|诱导方法：动物比植物多了一个灭活病毒诱导法。",
+		"seconds": 4.824
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：植物体细胞杂交得到杂种植株；动物细胞融合一般只得到杂交细胞。",
+		"seconds": 7.608
+	},
+	"cm5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：比较表格。解题方法：抓住三处不同——去壁、灭活病毒、能否得到个体。",
+		"seconds": 8.592
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，单克隆抗体的制备流程。第一步，用特定的抗原对小鼠进行免疫。",
+		"seconds": 7.92
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，从小鼠脾中获得能产生特定抗体的B 淋巴细胞。",
+		"seconds": 5.664
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，把B 淋巴细胞和骨髓瘤细胞融合，用特定的选择培养基进行第一次筛选，得到杂交瘤细胞。",
+		"seconds": 9.648
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，对杂交瘤细胞进行克隆化培养和抗体检测，第二次筛选，得到能产生所需抗体的杂交瘤细胞。",
+		"seconds": 10.104
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|第五步，把它注射到小鼠腹腔内增殖，或者在体外培养，从腹水或培养液中获取单克隆抗体。",
+		"seconds": 9.216
+	},
+	"pr6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：流程图填空。解题方法：记住顺序——免疫、取细胞、融合、两次筛选、培养。",
+		"seconds": 9.408
+	},
+	"sc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，两次筛选。融合后的细胞有多种：未融合的细胞、同种细胞融合的细胞，以及B 细胞和骨髓瘤细胞融合的杂交瘤细胞。",
+		"seconds": 12.408
+	},
+	"sc2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一次筛选：用特定的选择培养基，在上面只有杂交瘤细胞才能生长，其他细胞都死亡。",
+		"seconds": 8.448
+	},
+	"sc3": {
+		"key": "zh-CN-XiaoxiaoNeural|但是，免疫小鼠的B 细胞有很多种，所以得到的杂交瘤细胞产生的抗体也各不相同。",
+		"seconds": 8.112
+	},
+	"sc4": {
+		"key": "zh-CN-XiaoxiaoNeural|第二次筛选：进行克隆化培养和抗体检测，经多次筛选，得到能分泌所需抗体的杂交瘤细胞。",
+		"seconds": 9.096
+	},
+	"sc5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两次筛选的方法和目的不同——第一次靠选择培养基，选出杂交瘤细胞；第二次靠抗体检测，选出能产生特定抗体的细胞。",
+		"seconds": 12.168
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，杂交瘤细胞的特点。B 淋巴细胞能产生抗体，但不能无限增殖。",
+		"seconds": 7.464
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|骨髓瘤细胞能无限增殖，但不能产生抗体。",
+		"seconds": 4.512
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|两者融合成的杂交瘤细胞，既能迅速大量增殖，又能产生抗体。",
+		"seconds": 6.144
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问为什么选这两种细胞融合。解题方法：答各自的优点和缺点，融合后优点互补。",
+		"seconds": 9.096
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，单克隆抗体的优点和应用。优点：能准确地识别抗原的细微差异，与特定抗原发生特异性结合，并且可以大量制备。",
+		"seconds": 12.216
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|应用一：作为诊断试剂，比如快速准确地识别各种病原体，检测早孕。",
+		"seconds": 6.984
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|应用二：用于运载药物，也就是抗体—药物偶联物，简称A D C。",
+		"seconds": 6.552
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|A D C由抗体、接头和药物三部分组成：抗体负责识别、定位肿瘤细胞，药物负责杀伤。",
+		"seconds": 8.736
+	},
+	"ap5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：在A D C中，起治疗作用、杀伤肿瘤细胞的是药物，单克隆抗体起的是导向作用。",
+		"seconds": 8.496
+	},
+	"bc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，B 淋巴细胞的来源。必须先用特定的抗原免疫小鼠，再从小鼠的脾中提取B 淋巴细胞。",
+		"seconds": 9.624
+	},
+	"bc2": {
+		"key": "zh-CN-XiaoxiaoNeural|因为只有经过免疫的B 淋巴细胞，才能产生针对这种抗原的抗体。",
+		"seconds": 6.024
+	},
+	"bc3": {
+		"key": "zh-CN-XiaoxiaoNeural|而且一般要多次免疫，并检测小鼠血清中的抗体，确认免疫成功后再取脾。",
+		"seconds": 7.632
+	},
+	"bc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：未免疫小鼠的B 细胞，不能产生所需的抗体；单克隆抗体中的“单克隆”，指的是由单个杂交瘤细胞增殖形成的细胞群。",
+		"seconds": 11.52
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：灭活病毒可以诱导植物原生质体融合？错。判断二：动物细胞融合能形成杂种个体？错，一般只得到杂交细胞。",
+		"seconds": 13.152
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：第一次筛选用特定的选择培养基？对。判断四：选择培养基上存活的细胞都能产生所需抗体？错，还要抗体检测。",
+		"seconds": 13.344
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：单克隆抗体特异性强、灵敏度高？对。判断六：B 淋巴细胞要从免疫过的小鼠脾中获取？对。",
+		"seconds": 11.448
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：先免疫再融合，两次筛选得单抗。我们下期再见！",
+		"seconds": 7.368
+	}
+}

@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|装置图正误判断。",
+		"seconds": 2.136
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷选择题必有一道看图题：给几个装置，问哪个能达到实验目的，共七个考点。",
+		"seconds": 8.112
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，看装置图的四步法。第一步，看试剂：能不能发生反应、产物对不对、浓稀对不对。",
+		"seconds": 9.168
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，看装置：仪器选得对不对，比如加热用的是不是能加热的仪器。",
+		"seconds": 6.888
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，看导管：洗气瓶长进短出，向上排空气法长进短出；第四步，看条件：要不要加热、要不要尾气处理。",
+		"seconds": 11.064
+	},
+	"fo3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个女孩并排站好，各有各的样子：试剂、装置、导管、条件，四样一样一样查，不跳步。",
+		"seconds": 8.904
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：一个装置只要有一处错，就不能达到实验目的；先找最明显的错误。",
+		"seconds": 7.392
+	},
+	"ge1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，气体发生装置三种类型。固固加热：试管口略向下倾斜，比如用氯酸钾制氧气、用氯化铵和氢氧化钙制氨气。",
+		"seconds": 12.048
+	},
+	"ge2": {
+		"key": "zh-CN-XiaoxiaoNeural|固液不加热：比如制氢气、二氧化碳；启普发生器要求块状固体、不溶于水、反应不放出大量热。",
+		"seconds": 9.744
+	},
+	"ge3": {
+		"key": "zh-CN-XiaoxiaoNeural|固液加热：比如二氧化锰与浓盐酸制氯气，用圆底烧瓶和分液漏斗，垫陶土网加热。",
+		"seconds": 8.568
+	},
+	"ge4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化锰与稀盐酸不反应；固固加热时试管口向上倾斜是错的，冷凝水会倒流使试管炸裂。",
+		"seconds": 10.08
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，收集装置。排水法：难溶于水、不与水反应的气体，如氢气、氧气、一氧化氮。",
+		"seconds": 9.456
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|向上排空气法：密度比空气大，相对分子质量大于29，比如氯气、二氧化碳、二氧化硫；向下排空气法：密度比空气小，比如氢气、氨气。",
+		"seconds": 13.824
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|用集气瓶倒置收集或万能瓶收集：密度大的气体长进短出，密度小的短进长出。",
+		"seconds": 8.088
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：一氧化氮不能用排空气法，会与氧气反应；二氧化氮不能用排水法，会与水反应；氨气不能用排水法，极易溶于水。",
+		"seconds": 11.736
+	},
+	"dr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，洗气瓶：气体长进短出，进反了会把液体压出去。",
+		"seconds": 6.168
+	},
+	"dr2": {
+		"key": "zh-CN-XiaoxiaoNeural|干燥剂：浓硫酸不能干燥氨气，因为是碱性；也不能干燥硫化氢、碘化氢，因为是还原性；碱石灰不能干燥氯气、二氧化碳、二氧化硫等酸性气体。",
+		"seconds": 14.256
+	},
+	"dr3": {
+		"key": "zh-CN-XiaoxiaoNeural|无水氯化钙不能干燥氨气，会生成络合物。干燥管里的固体干燥剂，气体大口进、小口出。",
+		"seconds": 9.216
+	},
+	"dr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发和粉发两个女孩挤在一张邮票里：进气口和出气口是一对，长进短出、大进小出。",
+		"seconds": 8.28
+	},
+	"dr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：干燥氨气只能用碱石灰；浓硫酸、无水氯化钙都不行。",
+		"seconds": 6.48
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，分离装置的常见错误。过滤：没用玻璃棒引流；漏斗下端没有紧靠烧杯内壁。",
+		"seconds": 8.952
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|蒸发：用烧杯代替蒸发皿；蒸干再停止加热（应在出现较多固体时停止，用余热蒸干）。",
+		"seconds": 8.616
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|蒸馏：温度计水银球插入液面下；冷凝水上进下出。分液：上层液体也从下口放出。",
+		"seconds": 9.384
+	},
+	"se4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：分离装置的错误多半在细节：玻璃棒、温度计位置、冷凝水方向、上口倒出。",
+		"seconds": 8.976
+	},
+	"ve1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，验证性质的装置：看所用试剂能不能证明要证明的结论。",
+		"seconds": 6.576
+	},
+	"ve2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：用浓盐酸与碳酸钠反应，产生的气体通入硅酸钠溶液，证明酸性盐酸大于碳酸大于硅酸，不行，因为浓盐酸挥发出的氯化氢也能与硅酸钠反应。",
+		"seconds": 14.424
+	},
+	"ve3": {
+		"key": "zh-CN-XiaoxiaoNeural|改进：中间加一个装饱和碳酸氢钠溶液的洗气瓶，除去氯化氢。",
+		"seconds": 6.288
+	},
+	"ve3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩眨着一只眼睛：结论看起来对，但中间混进了别的东西，就证明不了。",
+		"seconds": 7.608
+	},
+	"ve4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只要反应物有挥发性（浓盐酸、浓硝酸、醋酸），就要想到它会不会干扰后面的实验。",
+		"seconds": 8.784
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，常见陷阱汇总。缺加热：二氧化锰与浓盐酸制氯气、铜与浓硫酸反应、乙醇制乙烯都要加热。",
+		"seconds": 10.776
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|缺尾气处理：氯气、二氧化硫、二氧化氮、硫化氢有毒，必须吸收。",
+		"seconds": 7.104
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|试剂选错：用浓硫酸干燥氨气；用氢氧化钠溶液除去二氧化碳中的氯化氢，二氧化碳也会被吸收，应该用饱和碳酸氢钠；用碱石灰干燥氯气。",
+		"seconds": 13.752
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：把“加热、尾气、试剂、导管”当成检查清单，逐项打勾。",
+		"seconds": 6.984
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：固固加热试管口略向下？对。判断二：一氧化氮用向上排空气法？错，用排水法。",
+		"seconds": 10.704
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：浓硫酸干燥氨气？错，用碱石灰。判断四：洗气瓶长进短出？对。",
+		"seconds": 9.336
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：氢氧化钠除去二氧化碳中的氯化氢？错，用饱和碳酸氢钠。判断六：二氧化锰和稀盐酸制氯气？错，要浓盐酸。",
+		"seconds": 13.152
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|试剂装置导管条件，一处有错就不行。下一期：气体的制备、净化与尾气处理。",
+		"seconds": 8.232
+	}
+}

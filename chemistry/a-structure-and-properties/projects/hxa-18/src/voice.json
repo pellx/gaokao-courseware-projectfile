@@ -1,0 +1,198 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|晶胞计算（上）：配位数、密度与距离。",
+		"seconds": 4.08
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这是结构大题最后一空的固定压轴：数配位数、列密度式、算原子间最近距离，共八个考点。",
+		"seconds": 9.024
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，配位数的数法。配位数是一个粒子周围最近且等距的粒子个数。",
+		"seconds": 7.392
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|离子晶体：氯化钠是6，氯化铯是8，氟化钙中钙离子是8、氟离子是4，硫化锌是4。",
+		"seconds": 9
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|分子晶体：干冰是12，冰是4。",
+		"seconds": 3.792
+	},
+	"cn4": {
+		"key": "zh-CN-XiaoxiaoNeural|金属晶体：简单立方是6，体心立方是8，面心立方是12。",
+		"seconds": 6.216
+	},
+	"cn4b": {
+		"key": "zh-CN-XiaoxiaoNeural|数配位数就像数纸箱旁边围了几个人：只数挨得最近、距离一样的那几个。",
+		"seconds": 7.08
+	},
+	"cn5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：选一个顶点或体心的粒子做“中心”，把它周围相邻的晶胞也想象出来，再数最近的那一圈。",
+		"seconds": 9.288
+	},
+	"pk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，金属原子的堆积方式，这是课本外的拓展。简单立方：原子在顶点，配位数6，空间利用率约百分之52，例如钋。",
+		"seconds": 12.576
+	},
+	"pk2": {
+		"key": "zh-CN-XiaoxiaoNeural|体心立方：顶点加体心，配位数8，空间利用率约百分之68，例如钠、钾、铁。",
+		"seconds": 8.712
+	},
+	"pk3": {
+		"key": "zh-CN-XiaoxiaoNeural|面心立方最密和六方最密：配位数都是12，空间利用率都约百分之74，前者如铜、银、金，后者如镁、锌。",
+		"seconds": 11.808
+	},
+	"pk4": {
+		"key": "zh-CN-XiaoxiaoNeural|空间利用率等于晶胞中原子的总体积 ÷ 晶胞体积。",
+		"seconds": 5.112
+	},
+	"pk5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：面心立方和六方最密堆积的配位数、空间利用率都一样，区别在于层的排列方式 A B C A B C 和 A B A B。",
+		"seconds": 11.472
+	},
+	"dn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，密度公式：密度等于 N 乘 M，除以 N A 乘 a 的立方。",
+		"seconds": 6.144
+	},
+	"dn2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中 N 是一个晶胞中所含“化学式”的个数，M 是化学式的摩尔质量，N A 是阿伏加德罗常数，a 是晶胞边长。",
+		"seconds": 10.632
+	},
+	"dn3": {
+		"key": "zh-CN-XiaoxiaoNeural|思路：一个晶胞的质量等于 N 乘 M 除以 N A，体积等于 a 的立方，质量除以体积就是密度。",
+		"seconds": 8.928
+	},
+	"dn4": {
+		"key": "zh-CN-XiaoxiaoNeural|例：氯化钠晶胞含4个氯化钠，N 等于4，M 等于58.5，密度等于4乘58.5除以 N A 乘 a 的立方。",
+		"seconds": 10.512
+	},
+	"dn4b": {
+		"key": "zh-CN-XiaoxiaoNeural|公式一多就容易慌：别急，按“质量除以体积”一步步列，就不会乱。",
+		"seconds": 6.192
+	},
+	"dn5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：N 和 M 要对应同一个“化学式”：N 数的是氯化钠的个数，M 就用氯化钠的摩尔质量。",
+		"seconds": 8.76
+	},
+	"un1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，单位换算。密度的单位是克每立方厘米，所以 a 要换成厘米。",
+		"seconds": 7.512
+	},
+	"un2": {
+		"key": "zh-CN-XiaoxiaoNeural|1皮米等于10的负10次方厘米；1纳米等于10的负7次方厘米。",
+		"seconds": 6.144
+	},
+	"un3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以 a 皮米换成厘米后立方，是 a 的立方乘10的负30次方立方厘米。",
+		"seconds": 7.008
+	},
+	"un4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：立方之后，10的负10次方要变成10的负30次方，最常见的丢分点就是忘了把指数也乘3。",
+		"seconds": 9.72
+	},
+	"rv_1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，由密度反求晶胞参数或阿伏加德罗常数。把密度公式变形即可。",
+		"seconds": 7.752
+	},
+	"rv_2": {
+		"key": "zh-CN-XiaoxiaoNeural|求边长：a 等于 N 乘 M 除以 密度乘 N A 再开立方，求出的单位是厘米，再换成皮米或纳米。",
+		"seconds": 9.528
+	},
+	"rv_3": {
+		"key": "zh-CN-XiaoxiaoNeural|求阿伏加德罗常数：N A 等于 N 乘 M 除以 密度乘 a 的立方。",
+		"seconds": 6.288
+	},
+	"rv_4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：大题一般只要求列出表达式，不必算出数值；列式时单位换算写在式子里，比如 a 的立方乘10的负30次方。",
+		"seconds": 11.712
+	},
+	"ds1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，两原子之间的最近距离。看两个原子在晶胞中的相对位置。",
+		"seconds": 6.936
+	},
+	"ds2": {
+		"key": "zh-CN-XiaoxiaoNeural|顶点和面心：最近距离是面对角线的一半，二分之根号二 a，比如面心立方的金属、氯化钠中最近的同种离子。",
+		"seconds": 10.608
+	},
+	"ds3": {
+		"key": "zh-CN-XiaoxiaoNeural|顶点和体心：最近距离是体对角线的一半，二分之根号三 a，比如体心立方的金属、氯化铯中铯离子与氯离子。",
+		"seconds": 10.8
+	},
+	"ds4": {
+		"key": "zh-CN-XiaoxiaoNeural|顶点和四面体空隙：最近距离是体对角线的四分之一，四分之根号三 a，比如金刚石中两个碳、硫化锌中锌离子与硫离子。",
+		"seconds": 11.736
+	},
+	"ds5": {
+		"key": "zh-CN-XiaoxiaoNeural|还有棱心和顶点：最近距离是二分之 a，比如氯化钠中钠离子与氯离子。",
+		"seconds": 7.008
+	},
+	"ds6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：边长 a、面对角线根号二 a、体对角线根号三 a，三条线别混。",
+		"seconds": 7.464
+	},
+	"ra1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，原子半径与晶胞参数的关系。原子沿哪条线相切，就在那条线上列方程。",
+		"seconds": 8.304
+	},
+	"ra2": {
+		"key": "zh-CN-XiaoxiaoNeural|简单立方：沿棱相切，a等于2r。",
+		"seconds": 3.936
+	},
+	"ra3": {
+		"key": "zh-CN-XiaoxiaoNeural|体心立方：沿体对角线相切，根号三 a 等于4 r。",
+		"seconds": 5.4
+	},
+	"ra4": {
+		"key": "zh-CN-XiaoxiaoNeural|面心立方：沿面对角线相切，根号二 a 等于4 r。",
+		"seconds": 5.448
+	},
+	"ra5": {
+		"key": "zh-CN-XiaoxiaoNeural|课外拓展：六方晶胞的体积是二分之根号三乘 a 的平方乘 c，底面是菱形。",
+		"seconds": 7.632
+	},
+	"ra6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先找出相切的那条线，数这条线上有几个半径，再用a表示这条线的长度。",
+		"seconds": 8.376
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，易错辨析。第一，均摊系数用错：把棱上的当成二分之一，把面上的当成四分之一。",
+		"seconds": 9.864
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，N与M不对应：N数的是原子个数，M却用了化学式的摩尔质量。",
+		"seconds": 7.128
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，棱长与对角线混淆：最近距离用成了边长a。",
+		"seconds": 5.544
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四，单位换算漏了指数：皮米换厘米是10的负10次方，立方后是10的负30次方。",
+		"seconds": 8.448
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：均摊求 N，写出 M，换算 a 的单位，代入密度公式，每一步都写在卷面上。",
+		"seconds": 8.328
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：体心立方金属的配位数是8？对。判断二：面心立方与六方最密的空间利用率不同？错，都约百分之74。",
+		"seconds": 12.552
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：密度公式中 N 是晶胞中的原子总数？错，是化学式的个数。判断四：1皮米等于10的负10次方厘米？对。",
+		"seconds": 12.312
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：金刚石中两碳最近距离是体对角线的一半？错，是四分之一。判断六：面心立方金属中根号二 a 等于4 r？对。",
+		"seconds": 13.416
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|均摊求N，质量除以体积，找准相切的那条线。下一期：原子分数坐标、投影图与陌生晶胞。",
+		"seconds": 9.864
+	}
+}

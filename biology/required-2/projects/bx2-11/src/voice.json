@@ -1,0 +1,146 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第三章第三节——DNA 的复制。",
+		"seconds": 6.984
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考半保留复制的实验证据、复制的条件和特点、复制的计算和结合细胞分裂的标记问题。",
+		"seconds": 9.168
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"gu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，对 DNA 复制方式的推测。沃森和克里克提出半保留复制：子代 DNA 由一条母链和一条新合成的子链组成。",
+		"seconds": 11.904
+	},
+	"gu2": {
+		"key": "zh-CN-XiaoxiaoNeural|另一种假说是全保留复制：两条母链复制后又重新结合在一起，子代 DNA 的两条链都是新合成的。",
+		"seconds": 9.528
+	},
+	"gu3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：两种假说预测的实验结果不同，用实验结果就能判断真假——这就是下一个考点的实验。",
+		"seconds": 8.736
+	},
+	"ms1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，梅塞尔森和斯塔尔的实验。让大肠杆菌在含氮15的培养液中繁殖多代，DNA两条链都含氮15，离心后在重带。",
+		"seconds": 12.336
+	},
+	"ms2": {
+		"key": "zh-CN-XiaoxiaoNeural|转到含氮14的培养液中，繁殖第一代，DNA全部在中带，一条链含氮15，一条链含氮14。",
+		"seconds": 9.312
+	},
+	"ms3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二代，一半中带、一半轻带。",
+		"seconds": 3.456
+	},
+	"ms4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：如果是全保留复制，第一代应该是一条重带和一条轻带，没有中带。实验结果证明 DNA 是半保留复制。",
+		"seconds": 11.352
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，实验中的科学方法。用氮15和氮14标记，区分亲代和子代的DNA，这是同位素标记技术。",
+		"seconds": 10.224
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|用密度梯度离心，让密度不同的 DNA 在离心管中分成不同的带。",
+		"seconds": 6.456
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|整个研究用的是假说—演绎法：提出半保留假说，推出预期的离心结果，再用实验检验。",
+		"seconds": 8.088
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氮15和氮14都是稳定同位素，没有放射性；区分它们靠的是密度，不是检测放射性。",
+		"seconds": 9.288
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，DNA 复制的过程。时间：细胞分裂前的间期，随着染色体的复制完成。场所：主要在细胞核。",
+		"seconds": 10.944
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|首先，在解旋酶的作用下，两条螺旋的双链解开。",
+		"seconds": 5.016
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|然后，以解开的每一条母链为模板，以 4 种脱氧核苷酸为原料，在 DNA 聚合酶等的作用下，按碱基互补配对原则合成子链。",
+		"seconds": 11.904
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|复制需要能量，由 ATP 提供。",
+		"seconds": 3.336
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：解旋酶断开的是氢键；DNA 聚合酶连接的是脱氧核苷酸之间的磷酸二酯键；线粒体、叶绿体中也能进行 DNA 复制。",
+		"seconds": 12.024
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，DNA 复制的特点：边解旋边复制，半保留复制。",
+		"seconds": 5.976
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|准确复制的原因：DNA 独特的双螺旋结构，为复制提供了精确的模板；碱基互补配对，保证了复制能准确进行。",
+		"seconds": 10.704
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|意义：将遗传信息从亲代细胞传递给子代细胞，从而保持了遗传信息的连续性。",
+		"seconds": 7.848
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：DNA 复制也可能出错，产生基因突变；一个 DNA 复制一次得到的两个子代 DNA，一般完全相同。",
+		"seconds": 10.464
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，复制的相关计算。一个DNA复制n次，得到二的n次方个DNA。",
+		"seconds": 8.064
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中含有母链的DNA只有2个，母链只占全部单链的二的n次方分之一。",
+		"seconds": 7.056
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果DNA中某种碱基有m个，复制n次共需要这种脱氧核苷酸m乘以，二的n次方减一，个；第n次复制需要m乘二的n减一次方个。",
+		"seconds": 13.368
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：分清“复制 n 次”和“第 n 次复制”。例：含 100 个 A 的 DNA，复制 3 次共需 A 700 个，第 3 次需 400 个。",
+		"seconds": 10.968
+	},
+	"lb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，结合细胞分裂的标记问题。把DNA两条链都被氚标记的细胞，放到不含放射性的培养液中进行有丝分裂。",
+		"seconds": 11.424
+	},
+	"lb2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一次分裂中期：每条染色体的两条染色单体都有标记，因为每个 DNA 都有一条标记的母链。",
+		"seconds": 8.712
+	},
+	"lb3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二次分裂中期：每条染色体中只有一条染色单体有标记。",
+		"seconds": 5.688
+	},
+	"lb4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：画出 DNA 双链，按半保留复制一次一次推；第二次分裂后期姐妹染色单体分开后随机移向两极，子细胞中带标记的染色体数不确定。",
+		"seconds": 14.208
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，是半保留复制。判断二？错，氮15没有放射性，靠密度区分。",
+		"seconds": 9.024
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，线粒体和叶绿体中也能复制。",
+		"seconds": 7.392
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对，8个DNA中2个含母链。判断六？错，第n次复制需要m乘二的n减一次方个。",
+		"seconds": 10.608
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：半保留复制，画出双链一次一次推。我们下期再见！",
+		"seconds": 7.752
+	}
+}

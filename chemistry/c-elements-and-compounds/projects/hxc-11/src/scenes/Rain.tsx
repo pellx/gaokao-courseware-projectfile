@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Rain: React.FC = () => <AutoScene k="rain" d={{"tag": "考点五", "title": "酸雨及防治", "blocks": [{"t": "big", "at": "ra1", "text": "酸雨：pH {< 5.6}（正常雨水约 5.6）", "size": 42}, {"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "硫酸型", "at": "ra2", "lines": ["SO2 → H2SO3 → {H2SO4}", "SO2 → SO3 → H2SO4"], "c": "red", "size": 31}]}, {"blocks": [{"t": "panel", "title": "硝酸型", "at": "ra2", "lines": ["NO_x → {HNO3|orange}"], "c": "orange", "size": 31}]}]}, {"t": "rule", "tag": "脱硫", "at": "ra3", "text": "2CaCO3 + 2SO2 + O2 ═高温═ 2CaSO4 + 2CO2", "c": "green", "size": 30}], "callout": {"label": "易错", "at": "ra4", "text": "酸雨看 {pH < 5.6}；CO2 不形成酸雨"}, "beat": {"k": "cry", "at": "ra2b", "text": "酸雨落下\n{湖泊酸化、建筑腐蚀|red}"}}} />;

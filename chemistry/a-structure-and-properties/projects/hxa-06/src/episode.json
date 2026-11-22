@@ -1,0 +1,122 @@
+{
+	"id": "HXA-06",
+	"title": "原子结构与元素周期表：周期、族与分区",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第6期 / 共21期",
+	"points": [
+		"周期系与构造原理",
+		"周期与能层",
+		"族与价层电子",
+		"s p d ds f 分区",
+		"由排布推位置",
+		"对角线规则",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"周期、族"
+			],
+			[
+				"与分区",
+				true
+			]
+		],
+		"subtitle": "周期 = 能层数 · 族与价层电子 · 五个区",
+		"photo": "seaborg.jpg",
+		"photoCaption": "西博格：提出锕系概念，重排了周期表",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"周期 族"
+				]
+			],
+			[
+				[
+					"与分区",
+					true
+				]
+			]
+		],
+		"photo": "seaborg.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "西博格",
+		"credit": "AEC, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "周期序数等于基态原子的能层数",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Cu 位于 d 区",
+				"ok": false,
+				"fix": "ds 区"
+			},
+			{
+				"q": "价层电子排布为 3d^5 4s^2 的元素位于第ⅦB族",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "最外层有 2 个电子的元素一定是ⅡA族元素",
+				"ok": false,
+				"fix": "He、许多过渡元素也是"
+			},
+			{
+				"q": "Li 与 Mg、Be 与 Al 性质相似，因为它们电负性相近",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "s 区元素全部是金属元素",
+				"ok": false,
+				"fix": "氢是非金属"
+			}
+		],
+		"endTitle": [
+			[
+				"周期、族"
+			],
+			[
+				"与分区",
+				true
+			]
+		],
+		"endLine": "周期系 · 周期与能层 · 族 · 五个区 · 定位 · 对角线",
+		"slogan": "周期看能层，区看末能级，族看价电子！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Atomic Energy Commission《Glenn Seaborg - 1964》Public domain；插图来自 pixiv：ちゃなつ！、sakuzo、あぬ（侵删）",
+	"anime": [
+		{
+			"key": "stairs",
+			"src": "stairs.jpg",
+			"credit": "插图：ちゃなつ！《ラビットカンパニーへようこそ！ 27羽目》pixiv #110736788",
+			"url": "https://www.pixiv.net/artworks/110736788"
+		},
+		{
+			"key": "sisters",
+			"src": "sisters.jpg",
+			"credit": "插图：sakuzo《ふたりちゃんとぼっちちゃん》pixiv #146913659",
+			"url": "https://www.pixiv.net/artworks/146913659"
+		},
+		{
+			"key": "alike",
+			"src": "alike.jpg",
+			"credit": "插图：あぬ《ピンク髪の二人》pixiv #64509968",
+			"url": "https://www.pixiv.net/artworks/64509968"
+		}
+	]
+}

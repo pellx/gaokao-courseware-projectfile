@@ -1,0 +1,38 @@
+{
+	"id": "BX2-17",
+	"title": "染色体变异（上）：染色体数目的变异",
+	"subject": "biology",
+	"book": "人教版·必修2·第5章",
+	"points": ["染色体变异的类型", "染色体组", "二倍体与多倍体", "单倍体", "秋水仙素与低温", "低温诱导实验"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["染色体"], ["数目的变异", true]],
+		"subtitle": "染色体变异（上） · 染色体组 · 单倍体 · 多倍体",
+		"photo": "wheat.jpg",
+		"photoCaption": "普通小麦：六倍体",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["染色体"]], [["数目的变异", true]]],
+		"kicker": "染色体组 · 单倍体 · 多倍体",
+		"photo": "wheat.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "六倍体小麦",
+		"credit": "Photo: Rasbak, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "一个染色体组中不含同源染色体", "ok": true, "fix": ""},
+			{"q": "体细胞中含两个染色体组的个体一定是二倍体", "ok": false, "fix": "若由配子发育而来，则是单倍体"},
+			{"q": "单倍体的体细胞中只含一个染色体组", "ok": false, "fix": "不一定，如六倍体小麦的单倍体含三个"},
+			{"q": "秋水仙素能抑制纺锤体的形成", "ok": true, "fix": ""},
+			{"q": "低温诱导实验中，卡诺氏液用于染色", "ok": false, "fix": "卡诺氏液用于固定细胞形态"},
+			{"q": "低温诱导后，视野中所有细胞的染色体数目都加倍", "ok": false, "fix": "只有少数细胞加倍"}
+		],
+		"endTitle": [["染色体"], ["数目的变异", true]],
+		"endLine": "染色体组 · 几倍体看来源 · 单倍体 · 秋水仙素 · 低温诱导",
+		"slogan": "先看来源，再数染色体组！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Rasbak《Triticum aestivum ripe, Tarwe oogstrijp》CC BY-SA 3.0"
+}

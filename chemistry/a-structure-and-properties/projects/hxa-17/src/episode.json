@@ -1,0 +1,123 @@
+{
+	"id": "HXA-17",
+	"title": "配合物与超分子",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第17期 / 共21期",
+	"points": [
+		"配位键",
+		"配合物的组成",
+		"配位原子的判断",
+		"铜氨配合物实验",
+		"铁离子与硫氰根等实验",
+		"配位平衡与转化",
+		"超分子",
+		"新情境题"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"配合物"
+			],
+			[
+				"与超分子",
+				true
+			]
+		],
+		"subtitle": "配位键 · 内界外界 · 铜氨溶液 · 杯酚 · 冠醚",
+		"photo": "werner.jpg",
+		"photoCaption": "维尔纳：创立配位化学",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"配合物"
+				]
+			],
+			[
+				[
+					"与超分子",
+					true
+				]
+			]
+		],
+		"photo": "werner.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "维尔纳",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "配位键也属于 σ 键",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "1 mol [Co(NH3)5Cl]Cl2 可沉淀出 3 mol AgCl",
+				"ok": false,
+				"fix": "只有外界 2 个 Cl^- 沉淀"
+			},
+			{
+				"q": "CN^- 作配体时，配位原子是 N",
+				"ok": false,
+				"fix": "是 C（电负性较小）"
+			},
+			{
+				"q": "CuSO4 溶液中加过量氨水，先沉淀后溶解",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "K3[Fe(CN)6] 溶液中加 KSCN 溶液变红",
+				"ok": false,
+				"fix": "不变红"
+			},
+			{
+				"q": "杯酚分离 C60 和 C70 体现了超分子的分子识别",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"配合物"
+			],
+			[
+				"与超分子",
+				true
+			]
+		],
+		"endLine": "配位键 · 内界外界 · 配位原子 · 铜氨实验 · 配位平衡 · 超分子",
+		"slogan": "一方出孤对，一方出空轨！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Ohne Angabe《Alfred Werner (1866-1919)》Public domain；插图来自 pixiv：ゆゆゆ、MOKOLS、機能停止（侵删）",
+	"anime": [
+		{
+			"key": "feed",
+			"src": "feed.jpg",
+			"credit": "插图：ゆゆゆ《赤ちゃんぼっちにあ～んする喜多ちゃん》pixiv #105094222",
+			"url": "https://www.pixiv.net/artworks/105094222"
+		},
+		{
+			"key": "cup",
+			"src": "cup.jpg",
+			"credit": "插图：MOKOLS《fsdfsdfsdf》pixiv #131037974",
+			"url": "https://www.pixiv.net/artworks/131037974"
+		},
+		{
+			"key": "find",
+			"src": "find.jpg",
+			"credit": "插图：機能停止《箱》pixiv #109067204",
+			"url": "https://www.pixiv.net/artworks/109067204"
+		}
+	]
+}

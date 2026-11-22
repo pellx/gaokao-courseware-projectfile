@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|有机物的分类与官能团。",
+		"seconds": 2.832
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|有机大题第一问几乎必问：“写出某物质中含氧官能团的名称”，共七个考点。",
+		"seconds": 7.2
+	},
+	"sk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，按碳骨架分类：链状化合物和环状化合物。环状又分脂环化合物和芳香族化合物。",
+		"seconds": 9.6
+	},
+	"sk2": {
+		"key": "zh-CN-XiaoxiaoNeural|芳香族化合物：分子中含有苯环。只含 C、H 且含苯环的叫芳香烃。",
+		"seconds": 7.488
+	},
+	"sk3": {
+		"key": "zh-CN-XiaoxiaoNeural|按官能团分类：烃、卤代烃、醇、酚、醛、酮、羧酸、酯……官能团决定有机物的主要化学性质。",
+		"seconds": 9.96
+	},
+	"sk4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：环己烷是脂环烃，不是芳香烃；含苯环的不一定是芳香烃，比如苯酚、硝基苯含 O 或 N。",
+		"seconds": 9.528
+	},
+	"f11": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，常见官能团一。碳碳双键，烯烃；碳碳三键，炔烃。",
+		"seconds": 7.056
+	},
+	"f12": {
+		"key": "zh-CN-XiaoxiaoNeural|碳卤键，卤代烃，比如溴乙烷。",
+		"seconds": 3.48
+	},
+	"f13": {
+		"key": "zh-CN-XiaoxiaoNeural|羟基：连在链烃基上是醇，比如乙醇；直接连在苯环上是酚。",
+		"seconds": 6.288
+	},
+	"f13b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个戴着羊耳、猫耳、兔耳、狐狸耳的女孩：看耳朵就知道是谁，看官能团就知道是哪一类有机物。",
+		"seconds": 9.168
+	},
+	"f14": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：苯环不是官能团；“碳碳双键”不能只写“双键”。",
+		"seconds": 5.496
+	},
+	"f21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，常见官能团二。醛基，醛；酮羰基，酮，羰基两边都连烃基。",
+		"seconds": 8.16
+	},
+	"f22": {
+		"key": "zh-CN-XiaoxiaoNeural|羧基，羧酸，比如乙酸。",
+		"seconds": 2.952
+	},
+	"f23": {
+		"key": "zh-CN-XiaoxiaoNeural|酯基，酯，比如乙酸乙酯。",
+		"seconds": 3.024
+	},
+	"f24": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：醛基写成C H O，不能写成C O H；酮羰基与醛基要分开：碳上有氢的是醛基。",
+		"seconds": 9.144
+	},
+	"f31": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，常见官能团三。醚键，醚，比如乙醚。",
+		"seconds": 5.568
+	},
+	"f32": {
+		"key": "zh-CN-XiaoxiaoNeural|氨基，胺；酰胺基，酰胺。",
+		"seconds": 3.384
+	},
+	"f33": {
+		"key": "zh-CN-XiaoxiaoNeural|硝基，比如硝基苯。北京卷常见新药结构里还会出现氰基。",
+		"seconds": 6.312
+	},
+	"f34": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酯基和醚键都含氧，酯基中的氧和碳氧双键连在一起；只有一个氧单独连着两个碳的，才是醚键。",
+		"seconds": 9.96
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，醇和酚的区别：看羟基是否直接连在苯环上。",
+		"seconds": 5.736
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|苯酚：羟基直接连在苯环上，是酚。苯甲醇：羟基连在侧链碳上，是醇。",
+		"seconds": 8.28
+	},
+	"ph2b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩托着下巴，头顶冒出一个问号：同样有羟基，隔了一个C H 2，类别就变了。",
+		"seconds": 8.208
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以苯酚和苯甲醇不是同系物，性质也不同：酚有弱酸性，醇没有。",
+		"seconds": 7.104
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：环己醇的羟基连在环上，但不是苯环，属于醇。",
+		"seconds": 5.592
+	},
+	"no1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，名称书写规范。大题问“官能团名称”，写名称，不写结构简式。",
+		"seconds": 7.584
+	},
+	"no2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见扣分：“双键”要写“碳碳双键”；“酮基”要写“酮羰基”；“胺基”要写“氨基”；“酰氨基”要写“酰胺基”。",
+		"seconds": 9.408
+	},
+	"no3": {
+		"key": "zh-CN-XiaoxiaoNeural|问“含氧官能团”，就不能写碳碳双键、碳卤键、氨基；问“官能团”，苯环不算。",
+		"seconds": 7.68
+	},
+	"no3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴发箍的棕发女孩两眼发直，头顶一个感叹号：一个字写错，这一空就没分了。",
+		"seconds": 7.272
+	},
+	"no4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：先圈出所有官能团，再按题目要求筛选（含氧、含氮），按规范名称作答。",
+		"seconds": 8.448
+	},
+	"cx1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，识别复杂结构中的官能团。北京卷选择题常给一个新药或天然产物的结构，问含有哪些官能团、能发生什么反应。",
+		"seconds": 11.928
+	},
+	"cx2": {
+		"key": "zh-CN-XiaoxiaoNeural|方法：逐个扫描：先找双键、三键，再找含 O 的、含 N 的、含卤素的。",
+		"seconds": 7.2
+	},
+	"cx3": {
+		"key": "zh-CN-XiaoxiaoNeural|要注意区分：酯基与羧基、酰胺基与氨基、酚羟基与醇羟基，它们的性质差别很大。",
+		"seconds": 8.352
+	},
+	"cx4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：圈出官能团后，每个官能团对应一组性质：碳碳双键能加成、使高锰酸钾褪色；酚羟基遇氯化铁显紫色；酯基能水解。",
+		"seconds": 12.936
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：苯环是官能团？错。判断二：环己烷是芳香烃？错，是脂环烃。",
+		"seconds": 9
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：苯甲醇属于酚？错，属于醇。判断四：醛基写成C H O？对。",
+		"seconds": 9.216
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：丙酮的官能团是酮羰基？对。判断六：碳碳双键可以写成双键？错，要写全。",
+		"seconds": 10.488
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|官能团定类别，名称一字不能错。下一期：有机物的命名。",
+		"seconds": 6.192
+	}
+}

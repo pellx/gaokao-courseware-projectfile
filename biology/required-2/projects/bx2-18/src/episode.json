@@ -1,0 +1,38 @@
+{
+	"id": "BX2-18",
+	"title": "染色体变异（下）：结构变异与育种",
+	"subject": "biology",
+	"book": "人教版·必修2·第5章",
+	"points": ["结构变异四种类型", "结构变异的结果", "易位与互换的区别", "基因突变与结构变异", "三倍体无子西瓜", "单倍体育种", "育种方法的比较"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["结构变异与"], ["育种", true]],
+		"subtitle": "染色体变异（下） · 缺失 · 重复 · 易位 · 倒位",
+		"photo": "watermelon.jpg",
+		"photoCaption": "三倍体无子西瓜",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["结构变异与"]], [["育种", true]]],
+		"kicker": "无子西瓜 · 单倍体育种",
+		"photo": "watermelon.jpg",
+		"photoPos": {"16x9": "100% 50%", "4x3": "100% 50%", "3x4": "center 100%"},
+		"photoTag": "三倍体无子西瓜",
+		"credit": "Photo: Scott Ehardt, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "猫叫综合征是 5 号染色体部分缺失引起的", "ok": true, "fix": ""},
+			{"q": "染色体结构变异会改变基因的数目或排列顺序", "ok": true, "fix": ""},
+			{"q": "易位发生在同源染色体的非姐妹染色单体之间", "ok": false, "fix": "易位发生在非同源染色体之间"},
+			{"q": "三倍体无子西瓜的无子性状不能遗传", "ok": false, "fix": "遗传物质改变了，属于可遗传变异"},
+			{"q": "单倍体育种的最终目的是得到单倍体植株", "ok": false, "fix": "目的是得到纯合的二倍体（正常可育）植株"},
+			{"q": "诱变育种能产生新基因", "ok": true, "fix": ""}
+		],
+		"endTitle": [["结构变异与"], ["育种", true]],
+		"endLine": "缺失重复易位倒位 · 易位与互换 · 无子西瓜 · 单倍体育种",
+		"slogan": "易位找非同源，单倍体育种缩年限！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Scott Ehardt《Watermelon seedless》Public domain（裁切）"
+}

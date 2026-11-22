@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Identify: React.FC = () => <AutoScene k="identify" d={{"tag": "考点七", "title": "鉴别 SO2 与 CO2", "blocks": [{"t": "mark", "ok": false, "at": "id1", "text": "用澄清石灰水鉴别（两者都先浑浊后澄清）", "size": 32}, {"t": "mark", "ok": true, "at": "id2", "text": "用{品红}、酸性 KMnO4、溴水：SO2 褪色，CO2 不褪色", "size": 32}, {"t": "chain", "steps": [{"at": "id3", "text": "品红\n检 SO2", "c": "red"}, {"at": "id3", "text": "酸性 KMnO4\n除 SO2", "c": "orange"}, {"at": "id3", "text": "品红\n{检已除尽}", "c": "red"}, {"at": "id3", "text": "石灰水\n检 CO2", "c": "green"}], "arrows": [], "center": true, "size": 30}], "callout": {"label": "答题模板", "at": "id4", "text": "第二个品红{不褪色}、石灰水变浑浊 → 含 CO2"}, "beat": {"k": "wink", "at": "id2b", "text": "都能让石灰水浑浊\n{要用品红区分|red}"}}} />;

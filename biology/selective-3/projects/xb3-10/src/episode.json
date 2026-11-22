@@ -1,0 +1,38 @@
+{
+	"id": "XB3-10",
+	"title": "胚胎工程（上）：理论基础",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第2章",
+	"points": ["胚胎工程的概念", "受精前的准备", "受精过程", "受精的标志", "早期胚胎发育", "囊胚的结构"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["胚胎工程"], ["理论基础", true]],
+		"subtitle": "胚胎工程（上） · 受精 · 早期胚胎发育",
+		"photo": "embryos.jpg",
+		"photoCaption": "显微镜下的牛早期胚胎",
+		"photoPos": "70% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["胚胎工程"]], [["理论基础", true]]],
+		"kicker": "精子获能 · 两道屏障 · 囊胚",
+		"photo": "embryos.jpg",
+		"photoPos": "70% center",
+		"photoTag": "早期胚胎",
+		"credit": "Photo: Aspron, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "刚排出的精子能立即与卵子受精", "ok": false, "fix": "精子要获能后才具备受精能力"},
+			{"q": "卵子要发育到MⅡ期才能受精", "ok": true, "fix": ""},
+			{"q": "透明带反应和卵细胞膜反应能防止多精入卵", "ok": true, "fix": ""},
+			{"q": "卵裂期胚胎总体积随细胞数增加而增大", "ok": false, "fix": "总体积不增加或略有缩小"},
+			{"q": "滋养层细胞将发育成胎儿的各种组织", "ok": false, "fix": "滋养层发育成胎膜和胎盘"},
+			{"q": "观察到两个极体或雌、雄原核是受精的标志", "ok": true, "fix": ""}
+		],
+		"endTitle": [["胚胎工程"], ["理论基础", true]],
+		"endLine": "获能 · MⅡ期 · 两道屏障 · 卵裂 · 桑葚胚 · 囊胚",
+		"slogan": "两道屏障防多精，内团成体滋养盘！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Aspron《EMBRIONES BOVINOS》Public domain"
+}

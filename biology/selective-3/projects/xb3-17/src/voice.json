@@ -1,0 +1,122 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第四章第一节——转基因产品的安全性。",
+		"seconds": 8.232
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考转基因安全性争论的三个方面、防止基因污染的措施，以及辩证分析类的论述题。",
+		"seconds": 8.448
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按五个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.448
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，转基因成果与利弊。在农业上，转基因抗虫棉、抗除草剂作物等，提高了产量、减少了农药的使用。",
+		"seconds": 10.776
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|在医药上，基因工程药物如胰岛素、干扰素，缓解了药物短缺，降低了成本。",
+		"seconds": 7.584
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|但人们也担心：转基因产品是否会危害人体健康，是否会破坏生态环境。",
+		"seconds": 7.248
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断转基因技术的意义和风险。解题方法：利和弊都要写，不能只答一面。",
+		"seconds": 8.352
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，对转基因产品安全性的争论，主要集中在三个方面。食物安全：会不会产生新的过敏原或毒性蛋白，营养成分会不会改变。",
+		"seconds": 12.936
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|生物安全：外源基因会不会通过花粉扩散到近缘物种，转基因生物会不会成为“入侵物种”，影响生物多样性。",
+		"seconds": 10.272
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|环境安全：会不会打破生态平衡，比如抗除草剂基因转移到杂草，产生难以清除的“超级杂草”。",
+		"seconds": 9.168
+	},
+	"de4": {
+		"key": "zh-CN-XiaoxiaoNeural|减少基因污染的一个方法：把目的基因导入叶绿体D N A中，因为花粉中一般不含叶绿体，目的基因不会随花粉扩散。",
+		"seconds": 10.752
+	},
+	"de5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出一种担忧，判断属于哪类安全。解题方法：看影响对象——人是食物安全，其他生物是生物安全，生态系统是环境安全。",
+		"seconds": 13.08
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，我国对转基因产品的管理。我国制定了农业转基因生物安全管理条例等法规，实行安全评价制度。",
+		"seconds": 10.44
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|对农业转基因生物实行标识制度，保障消费者的知情权和选择权。",
+		"seconds": 6.696
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|对转基因技术，我国的方针是：研究上要大胆，推广上要慎重，管理上要严格。",
+		"seconds": 7.848
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：标识制度是为了保障知情权和选择权，不代表这种产品不安全。",
+		"seconds": 7.08
+	},
+	"ra1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，理性看待转基因技术。首先，要靠确凿的证据和严谨的逻辑进行思考和辩论。",
+		"seconds": 9.144
+	},
+	"ra2": {
+		"key": "zh-CN-XiaoxiaoNeural|其次，要看到人们的观点受到社会、文化、经济等多种因素的影响。",
+		"seconds": 6.696
+	},
+	"ra3": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，既不盲目肯定，也不盲目否定，在依法监管的前提下，趋利避害。",
+		"seconds": 7.008
+	},
+	"ra4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“转基因食品一定有害”和“转基因食品绝对安全”都是绝对化的说法，判断题里出现，一般都是错的。",
+		"seconds": 9.936
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，答题方法：辩证分析，有理有据。第一步，表明态度，比如“支持在严格监管下推广”。",
+		"seconds": 9.672
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，说明好处：比如提高产量、减少农药使用、改善品质。",
+		"seconds": 6.504
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，指出可能的风险：从食物安全、生物安全、环境安全三个方面选一两点。",
+		"seconds": 8.208
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，提出措施：安全评价、标识管理、设置隔离带、把目的基因导入叶绿体等。",
+		"seconds": 8.448
+	},
+	"me5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：记住四步——态度、好处、风险、措施，论述题就不会跑偏。",
+		"seconds": 7.68
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：转基因作物都对人体有害？错，要靠科学证据。判断二：外源基因可能通过花粉扩散？对。",
+		"seconds": 11.304
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：把目的基因导入叶绿体可减少基因污染？对。判断四：我国对农业转基因生物实行标识制度？对。",
+		"seconds": 11.952
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：转基因安全争论已有定论，无需评价？错。判断六：面对转基因应全盘接受或全盘否定？错，要理性看待。",
+		"seconds": 13.128
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|五个考点串成一条线：靠证据说话，趋利又避害。我们下期再见！",
+		"seconds": 6.72
+	}
+}

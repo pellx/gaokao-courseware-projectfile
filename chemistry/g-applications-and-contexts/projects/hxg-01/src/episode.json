@@ -1,0 +1,124 @@
+{
+	"id": "HXG-01",
+	"title": "化学与 STSE（上）：科技成就中的材料与能源",
+	"subject": "chemistry",
+	"book": "综合应用与情境 · 第1期 / 共7期",
+	"points": [
+		"题型特点",
+		"材料的分类",
+		"新型无机非金属材料",
+		"金属材料与合金",
+		"有机高分子材料",
+		"能源与能量转化",
+		"判断方法"
+	],
+	"intro": {
+		"badge": "高考化学 · 综合应用与情境",
+		"title": [
+			[
+				"化学与 STSE（上）",
+				true
+			],
+			[
+				"：科技成就中的材料与能源"
+			]
+		],
+		"subtitle": "新材料 · 合金 · 高分子 · 能源转化",
+		"photo": "titanium.jpg",
+		"photoCaption": "钛晶体棒：钛合金常用于航空航天",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化学与 STSE",
+					true
+				]
+			],
+			[
+				[
+					"（上）",
+					false
+				]
+			],
+			[
+				[
+					"材料与能源"
+				]
+			]
+		],
+		"photo": "titanium.jpg",
+		"photoPos": "center",
+		"photoTag": "钛",
+		"credit": "Alchemist-hp, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "碳纤维属于有机高分子材料",
+				"ok": false,
+				"fix": "属于无机非金属材料"
+			},
+			{
+				"q": "芯片的主要成分是 SiO2",
+				"ok": false,
+				"fix": "芯片是 Si，光导纤维是 SiO2"
+			},
+			{
+				"q": "合金的熔点一般比成分金属低",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "石墨烯与金刚石互为同素异形体",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "太阳能电池板把化学能转化为电能",
+				"ok": false,
+				"fix": "把光能转化为电能"
+			},
+			{
+				"q": "核聚变属于化学变化",
+				"ok": false,
+				"fix": "原子核的变化，不是化学变化"
+			}
+		],
+		"endTitle": [
+			[
+				"化学与 STSE（上）",
+				true
+			],
+			[
+				"：科技成就中的材料与能源"
+			]
+		],
+		"endLine": "情境再新，落到类别、变化、元素",
+		"slogan": "情境再新，落到类别、变化、元素"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Alchemist-hp《Titan-crystal bar》，CC BY-SA 3.0；插图来自 pixiv：伽(ikaro)、よなか亜希@ご依頼受付中です、柊せんせー＠リクエスト募集中（侵删）",
+	"anime": [
+		{
+			"key": "orange",
+			"src": "orange.jpg",
+			"credit": "插图：伽(ikaro)《デフォルメにじかちゃん》pixiv #119877004",
+			"url": "https://www.pixiv.net/artworks/119877004"
+		},
+		{
+			"key": "yellow",
+			"src": "yellow.jpg",
+			"credit": "插图：よなか亜希@ご依頼受付中です《伊地知虹夏》pixiv #124656856",
+			"url": "https://www.pixiv.net/artworks/124656856"
+		},
+		{
+			"key": "peace",
+			"src": "peace.jpg",
+			"credit": "插图：柊せんせー＠リクエスト募集中《平沢唯》pixiv #105115802",
+			"url": "https://www.pixiv.net/artworks/105115802"
+		}
+	]
+}

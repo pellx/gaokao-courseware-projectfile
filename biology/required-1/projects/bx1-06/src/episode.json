@@ -1,0 +1,37 @@
+{
+	"id": "BX1-06",
+	"title": "蛋白质是生命活动的主要承担者",
+	"subject": "biology",
+	"book": "人教版·必修1·第2章",
+	"points": ["蛋白质的功能", "氨基酸结构通式", "必需与非必需", "脱水缩合与肽键", "肽键与分子量计算", "氨基羧基与原子数", "结构多样性", "蛋白质变性"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["蛋白质是生命活动的"], ["主要承担者", true]],
+		"subtitle": "氨基酸 · 脱水缩合 · 相关计算 · 变性",
+		"photo": "egg.jpg",
+		"photoCaption": "煎鸡蛋：高温使蛋白质变性",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["蛋白质是"]], [["生命活动的"]], [["主要承担者", true]]],
+		"photo": "egg.jpg",
+		"photoPos": "center center",
+		"photoTag": "蛋白质变性",
+		"credit": "Photo: Horacio Cambeiro, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "性激素和胰岛素都是蛋白质", "ok": false, "fix": "性激素是固醇"},
+			{"q": "每种氨基酸都只含一个氨基和一个羧基", "ok": false, "fix": "至少各含一个，R基中还可能有"},
+			{"q": "脱水缩合产生的水中，O来自羧基", "ok": true, "fix": ""},
+			{"q": "n个氨基酸形成m条肽链，肽键数为n−m", "ok": true, "fix": ""},
+			{"q": "变性的蛋白质不能与双缩脲试剂反应", "ok": false, "fix": "肽键未断裂，仍能产生紫色反应"},
+			{"q": "脱水缩合方式不同是蛋白质多样的原因", "ok": false, "fix": "脱水缩合的方式都相同"}
+		],
+		"endTitle": [["蛋白质是生命活动的"], ["主要承担者", true]],
+		"endLine": "功能 · 通式 · 脱水缩合 · 计算 · 多样性 · 变性",
+		"slogan": "脱一个水，成一个肽键！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Horacio Cambeiro《Fried egg cooking in a pan》CC BY-SA 3.0"
+}

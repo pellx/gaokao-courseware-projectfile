@@ -1,0 +1,111 @@
+{
+	"id": "HXD-16",
+	"title": "电解原理",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第16期 / 共20期",
+	"points": [
+		"阴阳极判断",
+		"离子移动方向",
+		"阳极放电顺序",
+		"阴极放电顺序",
+		"电解的四种类型",
+		"电解后复原",
+		"电解计算"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"电解原理",
+				true
+			]
+		],
+		"subtitle": "阴阳极 · 放电顺序 · 四种类型 · 电子守恒",
+		"photo": "faraday.jpg",
+		"photoCaption": "法拉第：总结电解定律，提出“阴极”“阳极”等术语",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"电解原理",
+					true
+				]
+			]
+		],
+		"photo": "faraday.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "法拉第",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电解池中与电源正极相连的是阴极",
+				"ok": false,
+				"fix": "与正极相连的是阳极"
+			},
+			{
+				"q": "电解池中阳离子移向阴极",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "用 Cu 作阳极电解 CuSO4 溶液，阳极产生 O2",
+				"ok": false,
+				"fix": "Cu 本身失电子溶解"
+			},
+			{
+				"q": "电解 Na2SO4 溶液，实质是电解水",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电解 NaCl 溶液后，加盐酸可以复原",
+				"ok": false,
+				"fix": "应通入 HCl 气体"
+			},
+			{
+				"q": "电解 AgNO3 溶液，溶液 pH 增大",
+				"ok": false,
+				"fix": "放 O2 生酸，pH 减小"
+			}
+		],
+		"endTitle": [
+			[
+				"电解原理",
+				true
+			]
+		],
+		"endLine": "阳极接正失电子，活性电极先溶解，出什么加什么",
+		"slogan": "阳极接正失电子，出什么加什么"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Michael Faraday sitting》，公有领域；插图来自 pixiv：怪奇ヒト人間、からいももこ、けば（侵删）",
+	"anime": [
+		{
+			"key": "shine",
+			"src": "shine.jpg",
+			"credit": "插图：怪奇ヒト人間《りっちゃん Puyopix用》pixiv #16042461",
+			"url": "https://www.pixiv.net/artworks/16042461"
+		},
+		{
+			"key": "point",
+			"src": "point.jpg",
+			"credit": "插图：からいももこ《\\ｱｯｶﾘｰﾝ/お誕生日おめでとう！》pixiv #100049553",
+			"url": "https://www.pixiv.net/artworks/100049553"
+		},
+		{
+			"key": "bean",
+			"src": "bean.jpg",
+			"credit": "插图：けば《透明娘　あかりちゃん》pixiv #53529821",
+			"url": "https://www.pixiv.net/artworks/53529821"
+		}
+	]
+}

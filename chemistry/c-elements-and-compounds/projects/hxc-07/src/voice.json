@@ -1,0 +1,134 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|金属材料：合金与铝。",
+		"seconds": 2.76
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考合金的性质和铝的反应，流程题常用碱溶除铝，共六个考点。",
+		"seconds": 7.008
+	},
+	"al1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，合金：一种金属与其他金属或非金属熔合而成的、具有金属特性的物质，是混合物。",
+		"seconds": 9.288
+	},
+	"al2": {
+		"key": "zh-CN-XiaoxiaoNeural|合金的硬度一般比成分金属大，熔点一般比成分金属低。",
+		"seconds": 5.736
+	},
+	"al2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个女孩的头发一半金色一半红色，眼睛也是两种颜色：合金就是不同成分熔合在一起，性能比单一成分更好。",
+		"seconds": 11.088
+	},
+	"al3": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：不同大小的原子掺进去，打乱了原子的规则排列，原子层之间不容易滑动，所以更硬。",
+		"seconds": 8.784
+	},
+	"al4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：合金是混合物；合金的熔点一般更低，不是更高。",
+		"seconds": 5.952
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，铁合金：生铁和钢，区别在含碳量。生铁含碳量2%到4.3%，硬而脆；钢0.03%到2%，有韧性。",
+		"seconds": 13.608
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|不锈钢：在钢中加入铬、镍等，表面形成致密氧化膜，不易生锈。",
+		"seconds": 6.792
+	},
+	"st2b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿着一身方块铠甲的粉发女孩：铠甲就是钢做的，不锈钢加了铬和镍，不容易生锈。",
+		"seconds": 7.8
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：生铁和钢都是铁合金，都是混合物；炼钢是降低含碳量。",
+		"seconds": 6.768
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，铝与氧化铝。铝表面有致密的氧化膜，保护内部金属，所以铝制品耐腐蚀。",
+		"seconds": 8.856
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|铝与盐酸：两个铝加六个盐酸生成两个氯化铝和三个氢气；与氢氧化钠溶液：两个铝加两个氢氧化钠加六个水，生成两个四羟基合铝酸钠和三个氢气。",
+		"seconds": 14.232
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化铝是两性氧化物：既能与酸反应，也能与碱反应：氧化铝加两个氢氧化钠加三个水，生成两个四羟基合铝酸钠。",
+		"seconds": 11.016
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|拿着饭团的金发女孩：铝箔包饭团没问题，但铝制餐具不宜长时间盛放酸性或碱性食物。",
+		"seconds": 8.736
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铝与氢氧化钠溶液反应，水是氧化剂，氢氧化钠不是氧化剂。",
+		"seconds": 7.056
+	},
+	"na1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，新型合金。储氢合金：能大量吸收氢气，形成金属氢化物，加热又放出氢气，如钛铁合金、镧镍合金。",
+		"seconds": 11.952
+	},
+	"na2": {
+		"key": "zh-CN-XiaoxiaoNeural|钛合金：强度高、耐腐蚀、密度小，用于航空航天、人造骨。",
+		"seconds": 6.528
+	},
+	"na3": {
+		"key": "zh-CN-XiaoxiaoNeural|铝合金：密度小、强度高，用于飞机、高铁车厢；稀土元素被称为“冶金工业的维生素”。",
+		"seconds": 8.664
+	},
+	"na4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：第一题科技情境中，钛合金、铝合金属于金属材料，不是无机非金属材料。",
+		"seconds": 8.256
+	},
+	"fl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，课本外的流程中的铝。碱溶除铝：用氢氧化钠溶液溶解铝、氧化铝，其他金属氧化物如氧化铁不溶，过滤分开。",
+		"seconds": 12.048
+	},
+	"fl2": {
+		"key": "zh-CN-XiaoxiaoNeural|从四羟基合铝酸钠溶液得到氢氧化铝：通入过量二氧化碳：四羟基合铝酸根加二氧化碳生成氢氧化铝沉淀和碳酸氢根。",
+		"seconds": 12.024
+	},
+	"fl3": {
+		"key": "zh-CN-XiaoxiaoNeural|从铝盐得到氢氧化铝：加氨水，不用氢氧化钠，因为氢氧化铝能溶于过量强碱，但不溶于氨水。",
+		"seconds": 9.432
+	},
+	"fl4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：流程中要沉淀 Al(OH)3，选弱酸 二氧化碳 或弱碱氨水，避免过量溶解。",
+		"seconds": 9.192
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，金属与酸反应的计算。关键是每个金属原子失几个电子：Na 失 1，Mg 失 2，Al 失 3。",
+		"seconds": 10.368
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|生成1摩尔氢气需要得2摩尔电子，所以需要钠2摩尔、镁1摩尔、铝三分之二摩尔。",
+		"seconds": 7.968
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|等质量时，比较失电子数除以摩尔质量：铝是27分之3，镁是24分之2，钠是23分之1，所以等质量时铝放出氢气最多。",
+		"seconds": 12.936
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：用得失电子守恒：金属的物质的量乘失电子数，等于氢气的物质的量乘2。",
+		"seconds": 8.088
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：合金熔点比成分金属高？错，一般更低。判断二：合金是纯净物？错，是混合物。",
+		"seconds": 10.536
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氧化铝既能与盐酸反应又能与氢氧化钠反应？对。判断四：铝与氢氧化钠溶液反应，氢氧化钠是氧化剂？错，水是氧化剂。",
+		"seconds": 14.304
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：氯化铝溶液制氢氧化铝最好加氨水？对。判断六：等质量钠镁铝与盐酸反应，钠放出氢气最多？错，铝最多。",
+		"seconds": 13.176
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|合金硬度大熔点低，铝遇碱水作氧化剂。下一期：硫与二氧化硫。",
+		"seconds": 7.104
+	}
+}

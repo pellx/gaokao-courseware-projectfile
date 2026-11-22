@@ -1,0 +1,178 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第二章第一节的上半部分——减数分裂。",
+		"seconds": 7.464
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考同源染色体和四分体、各时期的特点、数量变化曲线和分裂图像的辨析。",
+		"seconds": 8.256
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"mc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，减数分裂的概念。它是进行有性生殖的生物，在产生成熟生殖细胞时进行的染色体数目减半的细胞分裂。",
+		"seconds": 11.208
+	},
+	"mc2": {
+		"key": "zh-CN-XiaoxiaoNeural|特点：染色体只复制一次，而细胞连续分裂两次。",
+		"seconds": 5.352
+	},
+	"mc3": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：成熟生殖细胞中的染色体数目，比原始生殖细胞减少一半。",
+		"seconds": 6.552
+	},
+	"mc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：原核生物和只进行无性生殖的生物不进行减数分裂；产生的生殖细胞不再连续分裂，所以减数分裂没有细胞周期。",
+		"seconds": 11.976
+	},
+	"ho1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，同源染色体和四分体。同源染色体是配对的两条染色体，形状和大小一般相同，一条来自父方，一条来自母方。",
+		"seconds": 12.432
+	},
+	"ho2": {
+		"key": "zh-CN-XiaoxiaoNeural|减数分裂一前期，同源染色体两两配对，这叫联会。",
+		"seconds": 5.424
+	},
+	"ho3": {
+		"key": "zh-CN-XiaoxiaoNeural|联会后的每对同源染色体含有四条染色单体，叫作四分体。",
+		"seconds": 5.928
+	},
+	"ho4": {
+		"key": "zh-CN-XiaoxiaoNeural|1 个四分体等于1 对同源染色体等于2 条染色体等于4 条染色单体等于4 个 DNA 分子。",
+		"seconds": 8.664
+	},
+	"ho5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同源染色体不是复制形成的，复制形成的是姐妹染色单体；X 和 Y 大小不同，但也是同源染色体。",
+		"seconds": 10.704
+	},
+	"m11": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，减数分裂一。间期染色体复制。前期一，同源染色体联会形成四分体，非姐妹染色单体之间常发生互换。",
+		"seconds": 12.288
+	},
+	"m12": {
+		"key": "zh-CN-XiaoxiaoNeural|中期一，同源染色体成对排列在赤道板两侧。",
+		"seconds": 4.968
+	},
+	"m13": {
+		"key": "zh-CN-XiaoxiaoNeural|后期一，同源染色体分离，非同源染色体自由组合，分别移向细胞两极。",
+		"seconds": 7.32
+	},
+	"m14": {
+		"key": "zh-CN-XiaoxiaoNeural|末期一，细胞一分为二，形成两个次级精母细胞，染色体数目减半。",
+		"seconds": 6.6
+	},
+	"m15": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：染色体数目减半发生在减数分裂一，原因是同源染色体分离；减数分裂一结束后，细胞中就没有同源染色体了。",
+		"seconds": 11.688
+	},
+	"m21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，减数分裂二。两次分裂之间通常没有间期或间期很短，染色体不再复制。",
+		"seconds": 8.664
+	},
+	"m22": {
+		"key": "zh-CN-XiaoxiaoNeural|中期二，每条染色体的着丝粒排列在赤道板上。",
+		"seconds": 4.896
+	},
+	"m23": {
+		"key": "zh-CN-XiaoxiaoNeural|后期二，着丝粒分裂，姐妹染色单体分开，染色体数目暂时加倍。",
+		"seconds": 6.84
+	},
+	"m24": {
+		"key": "zh-CN-XiaoxiaoNeural|末期二，形成四个精细胞，再经过变形成为精子。",
+		"seconds": 5.184
+	},
+	"m25": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：减数分裂二和有丝分裂很像，区别是没有同源染色体；后期二细胞中的染色体数和体细胞相同。",
+		"seconds": 10.512
+	},
+	"eg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，精子和卵细胞形成的比较。场所：精子在睾丸中形成，卵细胞在卵巢中形成。",
+		"seconds": 9.144
+	},
+	"eg2": {
+		"key": "zh-CN-XiaoxiaoNeural|初级卵母细胞和次级卵母细胞的细胞质不均等分裂，大的那个继续发育。",
+		"seconds": 7.056
+	},
+	"eg3": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：一个精原细胞形成四个精子；一个卵原细胞只形成一个卵细胞和三个极体。",
+		"seconds": 8.064
+	},
+	"eg4": {
+		"key": "zh-CN-XiaoxiaoNeural|精细胞要经过变形才成为精子，卵细胞不需要变形。",
+		"seconds": 5.448
+	},
+	"eg5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到细胞质不均等分裂，一定是卵细胞的形成过程；均等分裂的减数分裂二细胞，可能是次级精母细胞，也可能是第一极体。",
+		"seconds": 12.336
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，染色体数和核 DNA 数的变化。间期 DNA 复制，核 DNA 由 2n 变为 4n，染色体数不变。",
+		"seconds": 10.584
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|减数分裂一结束，细胞一分为二：染色体数由 2n 变为 n，核 DNA 由 4n 变为 2n。",
+		"seconds": 8.496
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|后期二着丝粒分裂，染色体数暂时恢复到 2n；减数分裂二结束，染色体数和核 DNA 数都是 n。",
+		"seconds": 9.888
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：曲线斜着上升是 DNA 复制，竖直下降是细胞一分为二；染色体曲线在后期二有一个先升后降的台阶。",
+		"seconds": 11.232
+	},
+	"id1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，分裂图像的辨析，用“三看”。一看有没有同源染色体：没有，就是减数分裂二。",
+		"seconds": 8.832
+	},
+	"id2": {
+		"key": "zh-CN-XiaoxiaoNeural|二看有没有同源染色体的特殊行为——联会、四分体、同源染色体分离：有，就是减数分裂一。",
+		"seconds": 9.384
+	},
+	"id3": {
+		"key": "zh-CN-XiaoxiaoNeural|三看：有同源染色体，但没有这些特殊行为，就是有丝分裂。",
+		"seconds": 6.168
+	},
+	"id4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：有丝分裂全程都有同源染色体，只是不联会；判断时先找形状、大小相同的两条染色体。",
+		"seconds": 9.744
+	},
+	"ga1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，配子的种类。一个大A小a大B小b的精原细胞，不考虑互换，产生4个精子，只有2种：大A大B和小a小b，或者大A小b和小a大B。",
+		"seconds": 14.736
+	},
+	"ga2": {
+		"key": "zh-CN-XiaoxiaoNeural|一个卵原细胞只产生 1 个卵细胞，所以只有 1 种。",
+		"seconds": 4.656
+	},
+	"ga3": {
+		"key": "zh-CN-XiaoxiaoNeural|而一个大A小a大B小b的个体有许多精原细胞，可以产生4种配子；n对杂合基因就是二的n次方种。",
+		"seconds": 9.816
+	},
+	"ga4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：分清“一个细胞”和“一个个体”；如果考虑互换，一个精原细胞可以产生 4 种精子。",
+		"seconds": 7.992
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，四分体是一对同源染色体，含四条染色单体。判断二？错，减半发生在减数分裂一。",
+		"seconds": 11.16
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，也可能是第一极体。",
+		"seconds": 6.312
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，只产生 2 种。判断六？对，有丝分裂全程都有同源染色体。",
+		"seconds": 8.952
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：减一分同源，减二分姐妹。我们下期再见！",
+		"seconds": 6.768
+	}
+}

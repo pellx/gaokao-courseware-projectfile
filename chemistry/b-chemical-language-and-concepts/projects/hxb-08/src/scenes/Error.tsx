@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Error: React.FC = () => <AutoScene k="error" d={{"tag": "考点五", "title": "误差分析", "blocks": [{"t": "table", "at": "er2", "head": ["操作", "变化", "浓度"], "cols": "2.4fr 1fr 1fr", "rows": [{"at": "er2", "cells": ["未洗涤烧杯和玻璃棒；转移时洒出", "n 偏小", "{偏低|orange}"]}, {"at": "er3", "cells": ["定容时{俯视}刻度线", "V 偏小", "{偏高}"]}, {"at": "er3", "cells": ["定容时{仰视|orange}刻度线", "V 偏大", "{偏低|orange}"]}, {"at": "er3", "cells": ["溶解后未冷却就定容", "V 偏小", "{偏高}"]}, {"at": "er4", "cells": ["摇匀后液面下降，再加水", "V 偏大", "{偏低|orange}"]}, {"at": "er4", "cells": ["容量瓶洗净后未干燥", "不变", "{无影响|green}"]}], "size": 29, "rowHeight": 58}], "callout": {"label": "解题方法", "at": "er5", "text": "只问一句：{n 和 V 谁变了}、往哪变，代入 c = n / V"}, "beat": {"k": "drink", "at": "er3b", "text": "水加多了 → 奶茶变淡\n{V 偏大，c 偏低|red}"}}} />;

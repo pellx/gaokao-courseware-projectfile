@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|陌生氧化还原方程式书写。",
+		"seconds": 3.216
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程、原理、实验三道大题都会让你写，是大题最大的共性失分点。本期用四步法一步步写对，共八个考点。",
+		"seconds": 10.776
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，四步法：定产物、配电子、配电荷、配原子。以酸性高锰酸钾氧化过氧化氢为例。",
+		"seconds": 10.008
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步定产物：高锰酸根在酸性下变成锰离子，过氧化氢作还原剂变成氧气。",
+		"seconds": 7.92
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步配电子：锰降5，过氧化氢中两个氧共升2，最小公倍数10：两个高锰酸根配五个过氧化氢。",
+		"seconds": 9.768
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步配电荷：右边两个锰离子共正4，左边两个高锰酸根共负2，酸性溶液补六个氢离子。",
+		"seconds": 9.024
+	},
+	"fo5": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步配原子：氢左边16个，右边补八个水，最后用氧原子检查。",
+		"seconds": 6.912
+	},
+	"fo5b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个粉发女孩在拼拼图：配平就像拼图，按顺序一块一块放，最后一块正好补上。",
+		"seconds": 7.848
+	},
+	"fo6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：顺序不能乱，先配电子，再配电荷，最后配原子；先补 水 往往越配越乱。",
+		"seconds": 8.856
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，定产物的常用对应表，第一步就靠它。",
+		"seconds": 4.56
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|高锰酸根看环境：酸性锰离子，中性二氧化锰，碱性锰酸根。",
+		"seconds": 6.432
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|重铬酸根变成铬离子；次氯酸根、二氧化氯变成氯离子；浓硝酸变成二氧化氮，稀硝酸变成一氧化氮；浓硫酸变成二氧化硫。",
+		"seconds": 12.624
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|H2氧气 两面派：作氧化剂生成 水，作还原剂生成 氧气。",
+		"seconds": 6.912
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|还原剂：亚铁离子变成铁离子，碘离子变成碘，二氧化硫和亚硫酸根变成硫酸根，草酸变成二氧化碳。",
+		"seconds": 10.392
+	},
+	"pr6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：大题给的物质多半在这张表里，背熟它，第一步就不会错。",
+		"seconds": 6.384
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，环境决定补什么。酸性溶液：只能补氢离子和水；碱性溶液：只能补氢氧根和水。",
+		"seconds": 9.408
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：碱性条件下次氯酸钠氧化氢氧化铁制高铁酸钠。铁从正3升到正6，氯从正1降到负1。",
+		"seconds": 9.984
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|配电子：两个氢氧化铁配三个次氯酸根；配电荷：右边两个高铁酸根和三个氯离子共负7，左边补四个氢氧根；最后右边补五个水。",
+		"seconds": 13.152
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酸性溶液的方程式里出现氢氧根、碱性溶液里出现氢离子，直接零分。",
+		"seconds": 7.968
+	},
+	"in_1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，从题目信息读产物。流程图里箭头指向的物质、滤液和滤渣的成分，就是产物线索。",
+		"seconds": 9.84
+	},
+	"in_2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验现象也在告诉你产物：“溶液变为黄色”可能是铁离子，“产生无色气体遇空气变红棕”是一氧化氮。",
+		"seconds": 9.552
+	},
+	"in_3": {
+		"key": "zh-CN-XiaoxiaoNeural|“检测到硫酸根”“加淀粉变蓝”这类检测结果，直接给出了氧化产物。",
+		"seconds": 6.072
+	},
+	"in_4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先在题干里圈出所有给出的物质，再判断谁是氧化剂、谁是还原剂，缺的产物再查表。",
+		"seconds": 9.408
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，歧化与归中的写法。歧化：先配产物一侧，因为两种产物来自同一种反应物。",
+		"seconds": 8.784
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：氯气与热的氢氧化钠溶液生成氯离子和氯酸根。氯离子降1，氯酸根升5，所以五个氯离子配一个氯酸根，再倒推三个氯气。",
+		"seconds": 12.816
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|归中：先配反应物一侧。例：五个氯离子加一个氯酸根加六个氢离子生成三个氯气和三个水。",
+		"seconds": 9.552
+	},
+	"di3b": {
+		"key": "zh-CN-XiaoxiaoNeural|举着咖喱盒的女孩：同一份食材做出两道菜，就先看两道菜各要多少，这就是歧化先配产物。",
+		"seconds": 8.568
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：歧化看右边，归中看左边，哪边有两种同元素物质，就从哪边配起。",
+		"seconds": 7.92
+	},
+	"og1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，有机物参与的氧化还原。最常见的是草酸：碳是正3价，被氧化成二氧化碳中的正4价。",
+		"seconds": 9.792
+	},
+	"og2": {
+		"key": "zh-CN-XiaoxiaoNeural|酸性高锰酸钾滴定草酸：两个高锰酸根加五个草酸加六个氢离子，生成两个锰离子、十个二氧化碳和八个水。",
+		"seconds": 10.752
+	},
+	"og3": {
+		"key": "zh-CN-XiaoxiaoNeural|课本外的技巧：复杂有机物，用平均化合价，按氢为正1、氧为负2算出碳的平均价态再配。",
+		"seconds": 9.288
+	},
+	"og4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：草酸是弱酸，离子方程式里写草酸分子，不拆。",
+		"seconds": 6.12
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，化学方程式和离子方程式。题目问哪个就写哪个：“写出离子方程式”和“写出化学方程式”不能互换。",
+		"seconds": 10.728
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|气体写 ↑、沉淀写 ↓；反应条件（加热、通电、催化剂、高温）要写在等号上。",
+		"seconds": 7.656
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题常要求写“总反应”或“该步反应”，看清是哪一步的反应物和产物。",
+		"seconds": 6.624
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：离子方程式要求写成化学方程式，或把可逆反应写成等号，都会扣分。",
+		"seconds": 7.752
+	},
+	"pf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，典型失分点。第一，产物写错：酸性高锰酸钾写成二氧化锰，稀硝酸写成二氧化氮。",
+		"seconds": 9.792
+	},
+	"pf2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，环境写错：酸性里补氢氧根，碱性里补氢离子。",
+		"seconds": 5.76
+	},
+	"pf3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，系数不是最简，或电荷没配平；第四，漏写 ↑、↓ 和反应条件。",
+		"seconds": 7.104
+	},
+	"pf3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红色团子头的女孩挥挥手：写完别急着交，按四步倒着查一遍。",
+		"seconds": 6.24
+	},
+	"pf4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：写完后按“原子、电荷、电子、环境、条件和符号”五项检查一遍。",
+		"seconds": 7.968
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：酸性高锰酸钾被还原为二氧化锰？错，是锰离子。判断二：酸性溶液配平可以补氢氧根？错，只能补氢离子和水。",
+		"seconds": 13.608
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：高锰酸根氧化过氧化氢，系数2、5、6、2、5、8？对。判断四：过氧化氢作氧化剂生成氧气？错，生成水。",
+		"seconds": 14.376
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：先配电荷再配电子？错，先配得失电子。判断六：氯气与热的氢氧化钠溶液能生成氯酸钠？对。",
+		"seconds": 11.904
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|定产物，配电子，配电荷，配原子。下一期：大题中的定量计算。",
+		"seconds": 7.248
+	}
+}

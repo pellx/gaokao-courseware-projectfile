@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|信息迁移：陌生反应。",
+		"seconds": 2.784
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷有机大题的核心：题目给 1到3 个没学过的反应，要求套用到新物质上，共七个考点。",
+		"seconds": 8.664
+	},
+	"bo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，读懂信息反应的关键：对比反应前后的结构，找出哪根键断了、哪两个原子连上了。",
+		"seconds": 8.616
+	},
+	"bo2": {
+		"key": "zh-CN-XiaoxiaoNeural|方法：在反应物和产物上给碳原子编号，看每个碳连的原子变了什么。",
+		"seconds": 6.84
+	},
+	"bo3": {
+		"key": "zh-CN-XiaoxiaoNeural|新形成的 C—C 键是重点：它决定碳骨架怎么增长或成环。",
+		"seconds": 5.976
+	},
+	"bo3b": {
+		"key": "zh-CN-XiaoxiaoNeural|大脸的棕发女孩旁边站着一个小一号的自己：信息反应里学的是“大的这个”，题目要你套用到“小的这个”身上。",
+		"seconds": 9.192
+	},
+	"bo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：只关心发生变化的部分，其余部分原样照抄，信息中的 R 可以换成任何烃基。",
+		"seconds": 8.616
+	},
+	"df1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，用分子式差值确定变化：比较相邻两个物质的分子式，多了什么、少了什么。",
+		"seconds": 8.232
+	},
+	"df2": {
+		"key": "zh-CN-XiaoxiaoNeural|少一个水：可能是消去、酯化、缩合成环；多氧：氧化；多两个氢：加成，也就是还原；少卤化氢：消去。",
+		"seconds": 11.112
+	},
+	"df3": {
+		"key": "zh-CN-XiaoxiaoNeural|碳原子数增加：一定发生了碳链增长，要从信息反应中找新的碳碳键。",
+		"seconds": 6.912
+	},
+	"df4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：推断题先把每一步的分子式写出来，算差值，再结合条件判断反应。",
+		"seconds": 7.728
+	},
+	"al1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，羟醛缩合，课本没有，信息题常给：含阿尔法氢的醛在稀碱作用下，一个醛的阿尔法碳连到另一个醛的羰基碳上。",
+		"seconds": 11.4
+	},
+	"al2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：两个乙醛在稀氢氧化钠作用下生成3-羟基丁醛，也就是贝塔羟基醛，碳链增长。",
+		"seconds": 8.784
+	},
+	"al3": {
+		"key": "zh-CN-XiaoxiaoNeural|加热后脱水：3-羟基丁醛脱水生成2-丁烯醛和水，生成阿尔法、贝塔不饱和醛。",
+		"seconds": 8.472
+	},
+	"al4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：提供阿尔法氢的那个醛，连接点在阿尔法碳上，不是在羰基碳上；没有阿尔法氢的醛，比如甲醛、苯甲醛，只能当接受者。",
+		"seconds": 11.832
+	},
+	"oz1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，烯烃的臭氧氧化，课本没有：碳碳双键在臭氧、锌和水作用下断开，两边各变成一个碳氧双键。",
+		"seconds": 10.32
+	},
+	"oz2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：2-甲基-2-丁烯被臭氧氧化，生成丙酮和乙醛。",
+		"seconds": 5.976
+	},
+	"oz3": {
+		"key": "zh-CN-XiaoxiaoNeural|用途：由产物反推双键位置：把两个碳氧双键的碳连起来，换成碳碳双键，就是原来的烯烃。",
+		"seconds": 9.096
+	},
+	"oz3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿白色猫咪睡衣的粉发女孩哭着张开手：一条双键被臭氧一刀切成两半，两边各分到一个氧。",
+		"seconds": 8.928
+	},
+	"oz4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：环状烯烃臭氧氧化后变成一个分子、两端各有一个碳氧双键，碳链不会变成两段。",
+		"seconds": 9
+	},
+	"gr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，格氏试剂，课本没有：卤代烃和镁在无水乙醚中生成格氏试剂R镁X。",
+		"seconds": 8.28
+	},
+	"gr2": {
+		"key": "zh-CN-XiaoxiaoNeural|R镁X与醛、酮的羰基加成，再水解，得到醇，同时形成新的碳碳键。",
+		"seconds": 7.44
+	},
+	"gr3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：甲基溴化镁加乙醛，水解后得2-丙醇。与甲醛得伯醇，与其他醛得仲醇，与酮得叔醇。",
+		"seconds": 9.792
+	},
+	"gr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|拿着鼓棒、发型利落的橙发女孩：R 基像鼓棒一样敲到羰基碳上，碳链就接长了。",
+		"seconds": 7.92
+	},
+	"gr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：格氏试剂的R连在羰基碳上，羰基氧变成羟基；必须在无水条件下进行。",
+		"seconds": 8.04
+	},
+	"ri1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，酯交换，课本没有：一种酯和另一种醇反应，醇的部分互换，生成新的酯和醇。",
+		"seconds": 8.448
+	},
+	"ri2": {
+		"key": "zh-CN-XiaoxiaoNeural|酯的胺解：酯和胺反应生成酰胺和醇，常用于新药合成。",
+		"seconds": 5.616
+	},
+	"ri3": {
+		"key": "zh-CN-XiaoxiaoNeural|分子内成环：一个分子里同时有羧基和羟基，脱水生成环状酯，也就是内酯；五元环、六元环最稳定。",
+		"seconds": 10.32
+	},
+	"ri4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断成几元环，从羰基碳数到羟基氧，把 O 也算进环。",
+		"seconds": 6.648
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，信息迁移三步法。第一步，对比信息反应前后的结构，圈出变化的部分。",
+		"seconds": 8.352
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，标出断键和成键的位置，总结出“谁的什么连到谁的什么上”。",
+		"seconds": 6.408
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，套用到题目给的新底物上，其他部分原样保留；最后用分子式检验。",
+		"seconds": 7.368
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：写陌生方程式时，先写出底物，只改信息中变化的部分，再核对原子守恒。",
+		"seconds": 8.592
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：少一个水一定是消去？错，还可能是酯化或成环。判断二：羟醛缩合用阿尔法碳连羰基碳？对。",
+		"seconds": 11.928
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：甲醛能提供阿尔法氢？错，它没有。判断四：2-甲基-2-丁烯臭氧氧化得丙酮和乙醛？对。",
+		"seconds": 11.256
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：格氏试剂与酮反应得仲醇？错，得叔醇。判断六：格氏反应能在水中进行？错，必须无水。",
+		"seconds": 11.64
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|对比结构找变化，只改变化的部分。下一期：有机合成：路线推断与设计。",
+		"seconds": 7.824
+	}
+}

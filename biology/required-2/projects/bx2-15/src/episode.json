@@ -1,0 +1,38 @@
+{
+	"id": "BX2-15",
+	"title": "基因表达与性状的关系",
+	"subject": "biology",
+	"book": "人教版·必修2·第4章",
+	"points": ["基因控制酶的合成", "基因控制蛋白质结构", "选择性表达与分化", "表观遗传的实例", "表观遗传的机制", "基因与性状的关系"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["基因表达与"], ["性状的关系", true]],
+		"subtitle": "两条途径 · 细胞分化 · 表观遗传",
+		"photo": "linaria.jpg",
+		"photoCaption": "柳穿鱼：表观遗传的经典实例",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["基因表达与"]], [["性状的关系", true]]],
+		"kicker": "表观遗传 · DNA 甲基化",
+		"photo": "linaria.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "柳穿鱼的花",
+		"credit": "Photo: Michel Langeveld, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "白化病是基因通过控制蛋白质结构直接控制性状", "ok": false, "fix": "是通过控制酶（酪氨酸酶）的合成间接控制"},
+			{"q": "囊性纤维化是基因通过控制蛋白质结构直接控制性状", "ok": true, "fix": ""},
+			{"q": "细胞分化过程中遗传物质发生了改变", "ok": false, "fix": "遗传物质不变，是基因的选择性表达"},
+			{"q": "DNA 甲基化改变了基因的碱基序列", "ok": false, "fix": "碱基序列不变，但影响基因表达"},
+			{"q": "表观遗传的性状可以遗传给后代", "ok": true, "fix": ""},
+			{"q": "一个基因只能控制一种性状", "ok": false, "fix": "一个基因可影响多种性状，一种性状也可受多个基因影响"}
+		],
+		"endTitle": [["基因表达与"], ["性状的关系", true]],
+		"endLine": "间接控制 · 直接控制 · 选择性表达 · 表观遗传 · 基因与环境",
+		"slogan": "序列不变，表达可变！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Michel Langeveld《Linaria vulgaris 150731013》CC BY-SA 4.0（裁切）"
+}

@@ -1,0 +1,134 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第四章第二节——主动运输与胞吞、胞吐。",
+		"seconds": 7.968
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考三种跨膜运输方式的比较、影响运输速率的曲线，以及运输方式的判断。",
+		"seconds": 7.848
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，主动运输。物质逆浓度梯度进行跨膜运输，需要载体蛋白的协助，同时还要消耗细胞内化学反应释放的能量。",
+		"seconds": 11.52
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|载体蛋白与离子或分子结合后，在能量的推动下空间结构发生变化，把物质转运到膜的另一侧。",
+		"seconds": 9.144
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：主动运输用的是载体蛋白，不是通道蛋白；能量主要来自细胞呼吸。",
+		"seconds": 7.368
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，主动运输的意义。它保证细胞按照生命活动的需要，主动选择吸收所需要的营养物质，排出代谢废物和有害物质。",
+		"seconds": 11.76
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|实例：小肠上皮细胞吸收葡萄糖、氨基酸；植物根细胞吸收矿质离子；轮藻细胞中钾离子浓度比周围水环境高63倍。",
+		"seconds": 12.312
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：用呼吸抑制剂处理后，某物质吸收速率下降，说明是主动运输。解题方法：受能量影响的，只有主动运输和胞吞、胞吐。",
+		"seconds": 12.744
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，三种跨膜运输方式的比较。自由扩散：顺浓度梯度，不需要转运蛋白，不耗能。",
+		"seconds": 8.976
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|协助扩散：顺浓度梯度，需要转运蛋白，不耗能。",
+		"seconds": 5.136
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|主动运输：逆浓度梯度，需要载体蛋白，消耗能量。",
+		"seconds": 5.232
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：三问——方向如何？要不要转运蛋白？耗不耗能？",
+		"seconds": 6.72
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，物质浓度对运输速率的影响。自由扩散的速率与浓度差成正比，曲线是一条过原点的直线。",
+		"seconds": 9.912
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|协助扩散和主动运输的速率先随浓度增大而增大，后来受转运蛋白数量的限制，不再增加。",
+		"seconds": 9.024
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：直线是自由扩散；出现平台的，限制因素是转运蛋白的数量，主动运输还可能受能量限制。",
+		"seconds": 10.224
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，氧气浓度对运输速率的影响。自由扩散和协助扩散不耗能，速率与氧气浓度无关，是一条水平线。",
+		"seconds": 10.536
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|主动运输消耗能量：氧气浓度为0时，无氧呼吸也能提供能量，所以曲线不从原点开始。",
+		"seconds": 8.736
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|氧气浓度增大，速率增大；最后受载体蛋白数量的限制，趋于平稳。",
+		"seconds": 6.984
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：哺乳动物成熟红细胞只进行无氧呼吸，它的主动运输速率与氧气浓度无关。",
+		"seconds": 8.016
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，胞吞和胞吐。大分子物质进出细胞，靠的是胞吞和胞吐。",
+		"seconds": 6.888
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|胞吞时，大分子先与膜上的蛋白质结合，细胞膜内陷形成小囊，包围着大分子，再分离下来形成囊泡进入细胞。",
+		"seconds": 10.968
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|胞吐时，囊泡移到细胞膜处，与细胞膜融合，把大分子排出细胞，比如分泌蛋白的分泌。",
+		"seconds": 8.424
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：胞吞、胞吐需要消耗能量，也需要膜上蛋白质的参与，依赖于膜的流动性。",
+		"seconds": 7.944
+	},
+	"jd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，判断物质运输方式。一看分子大小：大分子、颗粒物走胞吞、胞吐。",
+		"seconds": 8.208
+	},
+	"jd2": {
+		"key": "zh-CN-XiaoxiaoNeural|二看浓度梯度：逆浓度梯度运输的，是主动运输。",
+		"seconds": 5.112
+	},
+	"jd3": {
+		"key": "zh-CN-XiaoxiaoNeural|三看转运蛋白和能量：要蛋白不耗能是协助扩散，都需要是主动运输，都不需要是自由扩散。",
+		"seconds": 8.808
+	},
+	"jd4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同一种物质可能有不同的运输方式，葡萄糖进入红细胞是协助扩散，进入小肠上皮细胞是主动运输。",
+		"seconds": 10.416
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，主动运输用载体蛋白。判断二？对。",
+		"seconds": 6.6
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，与浓度差成正比。判断四？错，无氧呼吸也能供能。",
+		"seconds": 7.968
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，胞吞、胞吐消耗能量。判断六？对。",
+		"seconds": 6.84
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：方向、蛋白、能量，三问定方式。我们下期再见！",
+		"seconds": 7.656
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"id": "BX1-15",
+	"title": "降低化学反应活化能的酶（下）",
+	"subject": "biology",
+	"book": "人教版·必修1·第5章",
+	"points": ["高效性", "专一性", "作用条件较温和", "温度对酶活性影响", "pH对酶活性影响", "探究温度实验选材", "探究pH实验选材", "底物与酶浓度"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["酶的"], ["特性", true]],
+		"subtitle": "高效性 · 专一性 · 作用条件较温和",
+		"photo": "papaya.jpg",
+		"photoCaption": "木瓜：含木瓜蛋白酶，可用于嫩肉",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["酶的"]], [["特性", true]]],
+		"kicker": "曲线 · 实验选材",
+		"photo": "papaya.jpg",
+		"photoPos": "center center",
+		"photoTag": "木瓜蛋白酶",
+		"credit": "Photo: AWOLish, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "酶与不加催化剂对照可证明高效性", "ok": false, "fix": "应与无机催化剂对照"},
+			{"q": "可用碘液检测淀粉酶对淀粉和蔗糖的作用", "ok": false, "fix": "碘液无法检测蔗糖是否水解"},
+			{"q": "低温和高温都会使酶永久失活", "ok": false, "fix": "低温只是抑制酶的活性"},
+			{"q": "探究温度对酶活性的影响可用过氧化氢酶", "ok": false, "fix": "H2O2受热会分解，不宜选用"},
+			{"q": "酶适宜在低温下保存", "ok": true, "fix": ""},
+			{"q": "底物充足时，反应速率与酶浓度成正比", "ok": true, "fix": ""}
+		],
+		"endTitle": [["酶的"], ["特性", true]],
+		"endLine": "高效性 · 专一性 · 温和性 · 曲线 · 实验选材",
+		"slogan": "高温过酸过碱失活，低温只是抑制！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— AWOLish《Half a papaya showing the seeds 2016》CC BY-SA 4.0（已裁切）"
+}

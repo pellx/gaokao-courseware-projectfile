@@ -1,0 +1,38 @@
+{
+	"id": "XB1-20",
+	"title": "其他植物激素",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第5章",
+	"points": ["赤霉素", "细胞分裂素", "脱落酸", "乙烯", "油菜素内酯", "协同与相抗衡", "生长素与乙烯", "激素的相对含量", "调节的顺序性", "激素与基因表达"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["其他"], ["植物激素", true]],
+		"subtitle": "五类激素 · 相互作用 · 共同调节",
+		"photo": "bananas.jpg",
+		"photoCaption": "乙烯：促进果实成熟",
+		"photoPos": "50% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["其他"], ["植物激素", true]]],
+		"kicker": "五类激素 · 相互作用",
+		"photo": "bananas.jpg",
+		"photoPos": "50% center",
+		"photoTag": "乙烯：促进果实成熟",
+		"credit": "Photo: Scott Webb, CC0"
+	},
+	"review": {
+		"items": [
+			{"q": "赤霉素能促进细胞伸长，引起植株增高", "ok": true, "fix": ""},
+			{"q": "脱落酸能促进种子萌发", "ok": false, "fix": "维持种子休眠，抑制萌发"},
+			{"q": "乙烯只在成熟的果实中合成", "ok": false, "fix": "植物体各个部位都能合成"},
+			{"q": "赤霉素与脱落酸在种子萌发方面作用相抗衡", "ok": true, "fix": ""},
+			{"q": "生长素与细胞分裂素比值高时有利于芽的分化", "ok": false, "fix": "有利于根的分化"},
+			{"q": "植物激素直接参与细胞代谢", "ok": false, "fix": "只传递调节代谢的信息"}
+		],
+		"endTitle": [["其他"], ["植物激素", true]],
+		"endLine": "五类激素 · 协同与相抗衡 · 相对含量 · 顺序性",
+		"slogan": "记准部位和作用，激素关系一图看清！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Scott Webb《Ripening bananas (Unsplash)》CC0"
+}

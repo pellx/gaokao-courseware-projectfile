@@ -1,0 +1,38 @@
+{
+	"id": "XB3-13",
+	"title": "基因工程的基本操作程序（上）：获取目的基因与构建表达载体",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第3章",
+	"points": ["四个基本步骤", "目的基因的获取", "PCR的原理与过程", "PCR的条件与计算", "表达载体的组成", "表达载体的构建", "启动子与起始密码"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["获取目的基因"], ["构建表达载体", true]],
+		"subtitle": "基因工程的基本操作程序（上） · PCR · 双酶切",
+		"photo": "tubes.jpg",
+		"photoCaption": "PCR 反应用的八联管",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["获取目的基因"]], [["构建表达载体", true]]],
+		"kicker": "PCR · 引物计算 · 双酶切",
+		"photo": "tubes.jpg",
+		"photoPos": "center",
+		"photoTag": "PCR",
+		"credit": "Photo: Ajay Kumar Chaurasiya, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "基因工程的核心是构建基因表达载体", "ok": true, "fix": ""},
+			{"q": "PCR中用解旋酶使DNA双链解开", "ok": false, "fix": "靠高温（90 ℃以上）变性解旋"},
+			{"q": "PCR需要耐高温的DNA聚合酶", "ok": true, "fix": ""},
+			{"q": "n轮循环共需要2^n个引物", "ok": false, "fix": "需要2^[n+1] − 2个引物"},
+			{"q": "启动子是mRNA上起始翻译的序列", "ok": false, "fix": "启动子是DNA上RNA聚合酶识别结合的部位"},
+			{"q": "双酶切可防止目的基因和载体自身环化", "ok": true, "fix": ""}
+		],
+		"endTitle": [["获取目的基因"], ["构建表达载体", true]],
+		"endLine": "四个步骤 · PCR · 引物 · 启动子 · 终止子 · 双酶切",
+		"slogan": "核心是构建，PCR 靠温度！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Ajay Kumar Chaurasiya《PCR Tubes》CC BY-SA 4.0（裁切）"
+}

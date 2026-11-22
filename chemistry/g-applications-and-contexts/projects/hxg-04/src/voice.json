@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|化工流程中：条件控制、除杂与陌生方程式。",
+		"seconds": 4.944
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题分值最集中的部分：解释条件和写陌生方程式，共七个考点。",
+		"seconds": 7.008
+	},
+	"te1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，控制温度的目的。升温：加快反应速率；使平衡向吸热方向移动；增大溶解度。",
+		"seconds": 9.216
+	},
+	"te2": {
+		"key": "zh-CN-XiaoxiaoNeural|控制温度不能太高：防止过氧化氢、碳酸氢铵、浓硝酸分解；防止盐酸、氨水挥发；防止催化剂失活。",
+		"seconds": 10.464
+	},
+	"te3": {
+		"key": "zh-CN-XiaoxiaoNeural|趁热过滤：防止目标产物冷却析出损失；冰水浴：降低溶解度，使产物析出，或减少挥发。",
+		"seconds": 9.216
+	},
+	"te4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：温度低于T，反应速率慢；高于T，某物质分解或挥发，导致产率降低。",
+		"seconds": 8.328
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，控制 pH 的目的：使杂质离子沉淀完全，而目标离子不沉淀。",
+		"seconds": 7.056
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：除去硫酸锌溶液中的铁离子：调pH使铁离子完全沉淀为氢氧化铁，而锌离子还没开始沉淀。pH范围：大于等于铁离子沉淀完全的pH，小于锌离子开始沉淀的pH。",
+		"seconds": 16.728
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|调pH的试剂：用含目标金属的物质，比如氧化锌、氢氧化锌、碳酸锌，不引入新杂质。",
+		"seconds": 8.592
+	},
+	"ph3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发和粉发的两个女孩贴着脸比耶：pH 就像一扇门，只放杂质出去，把目标离子留下。",
+		"seconds": 8.52
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：调 pH 不能用 氢氧化钠 把 pH 调得太高，否则目标离子也一起沉淀；有时加酸是为了抑制水解。",
+		"seconds": 10.296
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，加入氧化剂：把亚铁离子氧化成铁离子，因为氢氧化铁在较低pH下就能沉淀完全，便于和其他离子分开。",
+		"seconds": 11.256
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|首选过氧化氢：还原产物是水，不引入杂质，是绿色氧化剂。也可以用氧气、二氧化锰、次氯酸钠。",
+		"seconds": 10.104
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|加入还原剂：二氧化硫、亚硫酸钠、铁粉，把高价态还原，便于溶解或分离。",
+		"seconds": 7.992
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：过氧化氢用量要稍过量，但温度不能高，否则分解；用高锰酸钾会引入钾离子和锰离子。",
+		"seconds": 9.456
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，除杂试剂的选择原则：能除去杂质、不引入新杂质、过量的试剂容易除去。",
+		"seconds": 8.088
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|沉淀剂：除铜离子、铅离子用硫化锰或硫化钠，利用硫化物沉淀转化；除钙离子、镁离子用氟化铵或氟化钠，生成氟化钙、氟化镁。",
+		"seconds": 13.056
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|用硫化锰而不用硫化钠除去硫酸锰溶液中的铜离子：硫化锰转化成更难溶的硫化铜，不引入钠离子。",
+		"seconds": 9.6
+	},
+	"re3b": {
+		"key": "zh-CN-XiaoxiaoNeural|双马尾红发女孩站在红色背景前：除杂剂最好就是自家人，带进来的离子本来就该在溶液里。",
+		"seconds": 9.168
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：选除杂剂时，优先选阳离子与目标产物相同的物质。",
+		"seconds": 6.456
+	},
+	"rq1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，陌生氧化还原方程式四步法。第一步，定产物：从流程图的前后物质、题目信息里找出氧化产物和还原产物。",
+		"seconds": 12.192
+	},
+	"rq2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，得失电子守恒配氧化剂、还原剂的系数；第三步，电荷守恒：酸性补氢离子，碱性补氢氧根。",
+		"seconds": 10.248
+	},
+	"rq3": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，原子守恒补水。例：次氯酸钠在弱酸性溶液中氧化亚铁离子：一个次氯酸根加两个亚铁离子加五个水，生成氯离子、两个氢氧化铁沉淀和四个氢离子。",
+		"seconds": 16.32
+	},
+	"rq3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发小女孩抱着吉他横着飞出去：四步按顺序走，一步都不能跳，飞得再快也要守规矩。",
+		"seconds": 8.664
+	},
+	"rq4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酸性溶液中不能出现氢氧根，碱性溶液中不能出现氢离子；产物以实际存在的形式书写，比如碱性中铁离子写成氢氧化铁。",
+		"seconds": 12.72
+	},
+	"nr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，非氧化还原方程式：先判断有没有化合价变化，没有就是复分解、水解或沉淀转化。",
+		"seconds": 9.336
+	},
+	"nr2": {
+		"key": "zh-CN-XiaoxiaoNeural|沉淀转化：硫化锰加铜离子，生成硫化铜和锰离子。用碳酸氢盐沉淀金属：锰离子加两个碳酸氢根，生成碳酸锰沉淀、二氧化碳和水。",
+		"seconds": 14.04
+	},
+	"nr3": {
+		"key": "zh-CN-XiaoxiaoNeural|双水解：铝离子加三个碳酸氢根，生成氢氧化铝沉淀和三个二氧化碳。",
+		"seconds": 7.176
+	},
+	"nr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：用碳酸氢铵沉淀锰离子时，产物是碳酸锰，同时放出二氧化碳；不要写成碳酸氢锰。",
+		"seconds": 9.288
+	},
+	"va1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，化合价的推断：化合物中正负化合价代数和为零。陌生物质先标化合价，再判断是不是氧化还原。",
+		"seconds": 10.896
+	},
+	"va2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：磷酸亚铁锂中铁为正二价；硫代硫酸钠中硫为正二价；高铁酸钾中铁为正六价；硼氢化钠中氢为负一价。",
+		"seconds": 11.16
+	},
+	"va3": {
+		"key": "zh-CN-XiaoxiaoNeural|含过氧键的物质，比如过氧化钠、过二硫酸盐，其中的氧为负一价，算化合价时要注意。",
+		"seconds": 8.4
+	},
+	"va4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先定常见价态，锂正一、钠正一、氧负二、磷酸根负三，再求未知元素。",
+		"seconds": 8.664
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：过氧化氢氧化亚铁离子，温度越高越好？错，会分解。判断二：加氧化锌调pH除铁离子？对。",
+		"seconds": 11.928
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：用硫化钠比硫化锰更合适？错，会引入钠离子。判断四：酸性方程式里可以有氢氧根？错。",
+		"seconds": 11.4
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：锰离子和碳酸氢根生成碳酸锰、二氧化碳和水？对。判断六：磷酸亚铁锂中铁是正三价？错，是正二价。",
+		"seconds": 13.104
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|定产物、守电子、配电荷、补水。下一期：化工流程下：分离操作、Ksp计算与产率纯度。",
+		"seconds": 10.056
+	}
+}

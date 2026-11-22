@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第二章第三节——伴性遗传。",
+		"seconds": 6.696
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这是遗传大题的重点：伴性遗传的特点、系谱图判断、概率计算和实验设计。",
+		"seconds": 7.608
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"sd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，伴性遗传：位于性染色体上的基因控制的性状，在遗传上总是和性别相关联。",
+		"seconds": 8.592
+	},
+	"sd2": {
+		"key": "zh-CN-XiaoxiaoNeural|XY 型性别决定：雌性是 XX，雄性是 XY，比如人、果蝇和大多数雌雄异株的植物。",
+		"seconds": 8.88
+	},
+	"sd3": {
+		"key": "zh-CN-XiaoxiaoNeural|ZW 型性别决定：雌性是 ZW，雄性是 ZZ，比如鸟类和蛾蝶类。",
+		"seconds": 7.344
+	},
+	"sd4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：性染色体上的基因不一定决定性别，比如色盲基因；雌雄同株的植物没有性染色体。",
+		"seconds": 8.808
+	},
+	"cb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，人类红绿色盲。色盲基因小b是隐性的，位于X染色体上，Y上没有它的等位基因。",
+		"seconds": 9.672
+	},
+	"cb2": {
+		"key": "zh-CN-XiaoxiaoNeural|女性有三种基因型：X大BX大B 正常，X大BX小b 正常但是携带者，X小bX小b 色盲。",
+		"seconds": 10.464
+	},
+	"cb3": {
+		"key": "zh-CN-XiaoxiaoNeural|男性只有两种：X大BY 正常，X小bY 色盲。",
+		"seconds": 5.28
+	},
+	"cb4": {
+		"key": "zh-CN-XiaoxiaoNeural|例：携带者女性和正常男性婚配，女儿全部正常，一半是携带者；儿子一半色盲。",
+		"seconds": 8.304
+	},
+	"cb5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：写遗传图解、算概率。易错：色盲男孩的致病基因一定来自母亲。",
+		"seconds": 7.848
+	},
+	"xr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，伴 X 隐性遗传的特点。第一，男性患者多于女性，因为男性只要一个 X小b 就患病。",
+		"seconds": 9.672
+	},
+	"xr2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，交叉遗传：男性的致病基因只能来自母亲，以后只能传给女儿。常常外祖父患病，外孙患病。",
+		"seconds": 10.224
+	},
+	"xr3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，女病，父子必病：女患者是 X小bX小b，一个 X小b 来自父亲，又一定传给儿子。",
+		"seconds": 9.432
+	},
+	"xr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：系谱图中，如果有女患者的父亲或儿子正常，就一定不是伴 X 隐性遗传。",
+		"seconds": 8.016
+	},
+	"xd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，伴X显性遗传，例如抗维生素D佝偻病，致病基因大D位于X染色体上。",
+		"seconds": 8.616
+	},
+	"xd2": {
+		"key": "zh-CN-XiaoxiaoNeural|特点一：女性患者多于男性，因为女性只要有一个 X大D 就患病；但部分女性患者病症较轻，X大DX小d 比 X大DX大D 发病轻。",
+		"seconds": 13.416
+	},
+	"xd3": {
+		"key": "zh-CN-XiaoxiaoNeural|特点二：往往连续遗传，代代都有患者。",
+		"seconds": 4.464
+	},
+	"xd4": {
+		"key": "zh-CN-XiaoxiaoNeural|特点三：男病，母女必病：男患者 X大DY 的 X大D 来自母亲，又一定传给女儿。",
+		"seconds": 8.376
+	},
+	"xd5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：系谱图中，如果有男患者的母亲或女儿正常，就一定不是伴 X 显性遗传。",
+		"seconds": 8.016
+	},
+	"yl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，伴 Y 遗传。致病基因只位于 Y 染色体上，患者全是男性，父传子、子传孙。",
+		"seconds": 9.144
+	},
+	"yl2": {
+		"key": "zh-CN-XiaoxiaoNeural|X 和 Y 大小不同：有同源区段，上面有等位基因；也有各自的非同源区段。",
+		"seconds": 7.392
+	},
+	"yl3": {
+		"key": "zh-CN-XiaoxiaoNeural|位于 X、Y 同源区段上的基因，遗传也和性别相关联。例：X小aX小a 乘 X小aY大A，后代雄性全显性、雌性全隐性。",
+		"seconds": 12.864
+	},
+	"yl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同源区段上的基因，男性的基因型要在 X 和 Y 上各写一个，如 X小aY大A；它的遗传也和性别相关联，不等同于常染色体遗传。",
+		"seconds": 13.2
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，伴性遗传在实践中的应用。鸡是ZW型，芦花基因大B是显性，位于Z染色体上。",
+		"seconds": 9.672
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|选非芦花雄鸡 Z小bZ小b 和芦花雌鸡 Z大BW 杂交。",
+		"seconds": 6.096
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|子代雄鸡都是 Z大BZ小b，全是芦花；雌鸡都是 Z小bW，全是非芦花。雏鸡时就能按羽毛分出雌雄。",
+		"seconds": 11.256
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：ZW 型选“隐性雄乘显性雌”；XY 型反过来，选“隐性雌乘显性雄”。",
+		"seconds": 8.328
+	},
+	"pd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，系谱图中遗传方式的判断。第一步，看是否伴 Y：患者全是男性、父子相传。",
+		"seconds": 8.904
+	},
+	"pd2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，判断显隐：无中生有为隐性，有中生无为显性。",
+		"seconds": 5.856
+	},
+	"pd3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，隐性看女病：女病而父或子正常，是常染色体隐性；女病父子都病，可能是伴 X 隐性。",
+		"seconds": 9.816
+	},
+	"pd4": {
+		"key": "zh-CN-XiaoxiaoNeural|显性看男病：男病而母或女正常，是常染色体显性；男病母女都病，可能是伴 X 显性。",
+		"seconds": 9.048
+	},
+	"pd5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：口诀——无中生有为隐性，隐性遗传看女病；有中生无为显性，显性遗传看男病。",
+		"seconds": 9.144
+	},
+	"dg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，判断基因位于常染色体还是 X 染色体上的实验。已知显隐性时，选隐性雌乘显性雄。",
+		"seconds": 10.008
+	},
+	"dg2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果子代雌性全显、雄性全隐，基因在 X 染色体上；如果雌雄表现相同，在常染色体上。",
+		"seconds": 9.144
+	},
+	"dg3": {
+		"key": "zh-CN-XiaoxiaoNeural|未知显隐性时，用正交和反交：结果相同，在常染色体上；结果不同、并与性别有关，在 X 染色体上。",
+		"seconds": 10.512
+	},
+	"dg4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：实验设计题要写全实验思路和预期结果及结论，结论要和结果一一对应。",
+		"seconds": 8.208
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，比如色盲基因就不决定性别。判断二？错，只能来自母亲。",
+		"seconds": 8.664
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对，女病父子必病。判断四？对，男病母女必病。",
+		"seconds": 7.44
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，鸡是 ZW 型。判断六？对。",
+		"seconds": 6.384
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：隐性看女病，显性看男病。我们下期再见！",
+		"seconds": 6.84
+	}
+}

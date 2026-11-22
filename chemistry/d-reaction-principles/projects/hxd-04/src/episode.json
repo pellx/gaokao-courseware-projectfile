@@ -1,0 +1,123 @@
+{
+	"id": "HXD-04",
+	"title": "活化能、反应历程与催化机理",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第4期 / 共20期",
+	"points": [
+		"基元反应与碰撞",
+		"用活化能解释速率",
+		"能垒图与决速步",
+		"催化剂与中间体",
+		"催化循环图",
+		"机理图中的断键成键",
+		"催化剂易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"活化能、反应历程",
+				true
+			],
+			[
+				"与催化机理"
+			]
+		],
+		"subtitle": "有效碰撞 · 能垒图 · 决速步 · 催化循环",
+		"photo": "ostwald.jpg",
+		"photoCaption": "奥斯特瓦尔德：因催化研究获诺贝尔化学奖",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"活化能",
+					true
+				]
+			],
+			[
+				[
+					"反应历程与催化",
+					false
+				]
+			]
+		],
+		"photo": "ostwald.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "奥斯特瓦尔德",
+		"credit": "Smithsonian Institution, no restrictions",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "活化分子之间的碰撞一定是有效碰撞",
+				"ok": false,
+				"fix": "还需要取向合适"
+			},
+			{
+				"q": "增大反应物浓度，活化分子百分数增大",
+				"ok": false,
+				"fix": "活化分子数增多，百分数不变"
+			},
+			{
+				"q": "多步反应中，活化能最大的一步是决速步",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "先生成、后消耗的物质是催化剂",
+				"ok": false,
+				"fix": "那是中间体，催化剂先消耗后生成"
+			},
+			{
+				"q": "使用催化剂能提高反应物的平衡转化率",
+				"ok": false,
+				"fix": "催化剂不改变平衡"
+			},
+			{
+				"q": "催化剂参与了反应，但反应前后质量不变",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"活化能、反应历程",
+				true
+			],
+			[
+				"与催化机理"
+			]
+		],
+		"endLine": "能垒最大定快慢，先消后生是催化",
+		"slogan": "能垒最大定快慢，先消后生是催化"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Smithsonian Institution《Portrait of Wilhelm Ostwald (1853-1932), Chemist》，无已知版权限制；插图来自 pixiv：伊賀たまき＠ちょったま。、Lumiere、hang（侵删）",
+	"anime": [
+		{
+			"key": "bump",
+			"src": "bump.jpg",
+			"credit": "插图：伊賀たまき＠ちょったま。《何であたしだけ・・・？》pixiv #11174666",
+			"url": "https://www.pixiv.net/artworks/11174666"
+		},
+		{
+			"key": "drum",
+			"src": "drum.jpg",
+			"credit": "插图：Lumiere《虹夏ちゃん演奏！》pixiv #133918121",
+			"url": "https://www.pixiv.net/artworks/133918121"
+		},
+		{
+			"key": "think",
+			"src": "think.jpg",
+			"credit": "插图：hang《夢限大みゅーたいぷ｜ちび全員集合》pixiv #147770331",
+			"url": "https://www.pixiv.net/artworks/147770331"
+		}
+	]
+}

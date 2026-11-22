@@ -1,0 +1,38 @@
+{
+	"id": "BX1-13",
+	"title": "主动运输与胞吞、胞吐",
+	"subject": "biology",
+	"book": "人教版·必修1·第4章",
+	"points": ["主动运输的特点", "主动运输的意义", "三种方式的比较", "浓度对速率的影响", "氧气对速率的影响", "胞吞与胞吐", "判断运输方式"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["主动运输与"], ["胞吞、胞吐", true]],
+		"subtitle": "载体蛋白 · 能量 · 速率曲线",
+		"photo": "amoeba.jpg",
+		"photoCaption": "变形虫（利迪绘）：靠胞吞摄取食物",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["主动运输与"]], [["胞吞、胞吐", true]]],
+		"kicker": "比较 · 曲线 · 判断",
+		"photo": "amoeba.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "变形虫",
+		"credit": "Joseph Leidy, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "主动运输需要的转运蛋白是通道蛋白", "ok": false, "fix": "主动运输需要载体蛋白"},
+			{"q": "轮藻吸收K^+可以逆浓度梯度进行", "ok": true, "fix": ""},
+			{"q": "自由扩散的速率不受物质浓度影响", "ok": false, "fix": "与浓度差成正比"},
+			{"q": "O2浓度为0时，主动运输速率为0", "ok": false, "fix": "无氧呼吸也能提供能量"},
+			{"q": "胞吞和胞吐不消耗能量", "ok": false, "fix": "需要消耗能量"},
+			{"q": "葡萄糖进入不同细胞的方式可能不同", "ok": true, "fix": ""}
+		],
+		"endTitle": [["主动运输与"], ["胞吞、胞吐", true]],
+		"endLine": "逆浓度梯度 · 载体蛋白 · 能量 · 曲线 · 判断",
+		"slogan": "方向、蛋白、能量，三问定方式！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Joseph Leidy《Amoeba proteus from Leidy》Public domain"
+}

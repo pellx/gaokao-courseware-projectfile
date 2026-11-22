@@ -1,0 +1,120 @@
+{
+	"id": "HXD-01",
+	"title": "反应热与焓变",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第1期 / 共20期",
+	"points": [
+		"反应热与焓变",
+		"放热与吸热反应",
+		"能量变化图",
+		"键能求ΔH",
+		"热化学方程式",
+		"燃烧热",
+		"中和反应反应热"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"反应热",
+				true
+			],
+			[
+				"与焓变"
+			]
+		],
+		"subtitle": "焓变 · 能量图 · 键能 · 燃烧热 · 中和热",
+		"photo": "joule.jpg",
+		"photoCaption": "焦耳：研究热与功的关系，能量单位“焦耳”以他命名",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"反应热",
+					true
+				],
+				[
+					"与焓变"
+				]
+			]
+		],
+		"photo": "joule.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "焦耳",
+		"credit": "John Collier, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "需要加热才能发生的反应一定是吸热反应",
+				"ok": false,
+				"fix": "是否吸热与是否需要加热无关"
+			},
+			{
+				"q": "使用催化剂可以减小反应的 ΔH",
+				"ok": false,
+				"fix": "催化剂降低活化能，ΔH 不变"
+			},
+			{
+				"q": "ΔH = 反应物键能总和 − 生成物键能总和",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "H2 燃烧生成 H2O(g) 放出的热量就是 H2 的燃烧热",
+				"ok": false,
+				"fix": "指定产物是 H2O(l)"
+			},
+			{
+				"q": "热化学方程式中的系数可以是分数",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NaOH 固体溶于水放热，属于放热反应",
+				"ok": false,
+				"fix": "是物理变化，不属于放热反应"
+			}
+		],
+		"endTitle": [
+			[
+				"反应热",
+				true
+			],
+			[
+				"与焓变"
+			]
+		],
+		"endLine": "放热为负吸热正，催化剂不改焓变",
+		"slogan": "放热为负吸热正，催化剂不改焓变"
+	},
+	"credits": "图片来源：Wikimedia Commons —— John Collier《James Prescott Joule》（1882），公有领域；插图来自 pixiv：beryuia、八式 あらた、Yunoki kanon（侵删）",
+	"anime": [
+		{
+			"key": "warm",
+			"src": "warm.jpg",
+			"credit": "插图：beryuia《夏祭りのゆい》pixiv #151908384",
+			"url": "https://www.pixiv.net/artworks/151908384"
+		},
+		{
+			"key": "jump",
+			"src": "jump.jpg",
+			"credit": "插图：八式 あらた《喜多ちゃん》pixiv #107392439",
+			"url": "https://www.pixiv.net/artworks/107392439"
+		},
+		{
+			"key": "blush",
+			"src": "blush.jpg",
+			"credit": "插图：Yunoki kanon《DAY 13》pixiv #152190764",
+			"url": "https://www.pixiv.net/artworks/152190764"
+		}
+	]
+}

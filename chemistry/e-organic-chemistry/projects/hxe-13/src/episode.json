@@ -1,0 +1,129 @@
+{
+	"id": "HXE-13",
+	"title": "反应类型、方程式与定量计算",
+	"subject": "chemistry",
+	"book": "有机化学 · 第13期 / 共17期",
+	"points": [
+		"取代反应",
+		"加成与消去",
+		"氧化与还原",
+		"加聚与缩聚",
+		"由条件推断类型",
+		"方程式书写规范",
+		"消耗 NaOH 的量",
+		"消耗 H2、Br2 的量"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"反应类型、方程式",
+				true
+			],
+			[
+				"与定量计算"
+			]
+		],
+		"subtitle": "取代 · 加成 · 消去 · 氧化还原 · 聚合 · 定量",
+		"photo": "baeyer.jpg",
+		"photoCaption": "拜尔：合成靛蓝，研究有机反应机理",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"反应类型",
+					true
+				]
+			],
+			[
+				[
+					"方程式",
+					false
+				]
+			],
+			[
+				[
+					"与定量计算"
+				]
+			]
+		],
+		"photo": "baeyer.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "拜尔",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "酯化反应和酯的水解都属于取代反应",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "乙醇分子间脱水生成乙醚属于消去反应",
+				"ok": false,
+				"fix": "属于取代反应"
+			},
+			{
+				"q": "醛与 H2 的加成反应也是还原反应",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "酯基中的 C=O 能与 H2 发生加成",
+				"ok": false,
+				"fix": "一般不与 H2 加成"
+			},
+			{
+				"q": "1 mol 乙酰水杨酸最多消耗 2 mol NaOH",
+				"ok": false,
+				"fix": "羧基 1 + 酚酯 2 = 3 mol"
+			},
+			{
+				"q": "苯环能与溴水发生加成反应",
+				"ok": false,
+				"fix": "苯环不与溴水加成"
+			}
+		],
+		"endTitle": [
+			[
+				"反应类型、方程式",
+				true
+			],
+			[
+				"与定量计算"
+			]
+		],
+		"endLine": "取代有上有下，加成只上不下，酚酯按二算",
+		"slogan": "取代有上有下，加成只上不下，酚酯按二算"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Adolf von Baeyer (1905)》，公有领域；插图来自 pixiv：シャコバン、wendy、絵描きの冒険者KATOSAN（侵删）",
+	"anime": [
+		{
+			"key": "friends",
+			"src": "friends.jpg",
+			"credit": "插图：シャコバン《無題》pixiv #127368360",
+			"url": "https://www.pixiv.net/artworks/127368360"
+		},
+		{
+			"key": "strum",
+			"src": "strum.jpg",
+			"credit": "插图：wendy《ランララン》pixiv #3966471",
+			"url": "https://www.pixiv.net/artworks/3966471"
+		},
+		{
+			"key": "party",
+			"src": "party.jpg",
+			"credit": "插图：絵描きの冒険者KATOSAN《２月２１日はぼっち・ざ・ろっく！の後藤ひとりの誕生日》pixiv #105581313",
+			"url": "https://www.pixiv.net/artworks/105581313"
+		}
+	]
+}

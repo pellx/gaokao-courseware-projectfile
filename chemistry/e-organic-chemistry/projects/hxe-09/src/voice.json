@@ -1,0 +1,138 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|卤代烃。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|有机大题常根据反应条件判断卤代烃发生水解还是消去，共六个考点。",
+		"seconds": 7.032
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，卤代烃：烃分子中的氢被卤素原子取代后的产物，官能团是碳卤键。",
+		"seconds": 7.896
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|物理性质：难溶于水，易溶于有机溶剂；一氯甲烷常温下是气体，大多数卤代烃是液体或固体；多数密度比水大。",
+		"seconds": 10.92
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|用途：溶剂、灭火剂、麻醉剂；氟氯代烷（氟利昂）会破坏臭氧层。",
+		"seconds": 7.152
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：卤代烃中的卤素是以原子形式与碳相连，不能直接用硝酸银溶液检验。",
+		"seconds": 7.824
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，水解反应，属于取代反应：条件是氢氧化钠水溶液、加热。",
+		"seconds": 7.08
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|溴乙烷加氢氧化钠，在水中加热，生成乙醇和溴化钠，卤素原子被羟基取代，生成醇。",
+		"seconds": 8.808
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|所有卤代烃都能发生水解，包括一氯甲烷、苄基氯。",
+		"seconds": 5.352
+	},
+	"hy3b": {
+		"key": "zh-CN-XiaoxiaoNeural|橙发女孩抱着小熊玩偶：水溶液里，氢氧根直接换掉卤素原子，这是取代。",
+		"seconds": 7.296
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：写水解方程式别漏了溴化钠，条件要写氢氧化钠水溶液、加热。",
+		"seconds": 7.344
+	},
+	"el1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，消去反应：条件是氢氧化钠醇溶液、加热。",
+		"seconds": 5.616
+	},
+	"el2": {
+		"key": "zh-CN-XiaoxiaoNeural|溴乙烷加氢氧化钠，在乙醇中加热，生成乙烯、溴化钠和水，脱去溴化氢，生成碳碳双键。",
+		"seconds": 9.288
+	},
+	"el3": {
+		"key": "zh-CN-XiaoxiaoNeural|条件：与卤素相连的碳的相邻碳，也就是贝塔碳上要有氢。一氯甲烷、新戊基溴不能消去。",
+		"seconds": 9.192
+	},
+	"el3b": {
+		"key": "zh-CN-XiaoxiaoNeural|灰发的浣熊耳女孩皱着眉：隔壁碳上没有氢，想消去也消去不了。",
+		"seconds": 6.312
+	},
+	"el4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：2-溴丁烷消去，可以得到 1-丁烯和 2-丁烯两种产物。",
+		"seconds": 6.48
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，水解与消去的比较。关键看溶剂：水溶液是水解（取代），醇溶液是消去。",
+		"seconds": 8.4
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|水解生成醇，消去生成烯烃；水解对结构没有要求，消去要求贝塔碳上有氢。",
+		"seconds": 7.776
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|口诀：“无醇成醇，有醇成烯”：溶液里没有醇，生成醇；溶液里有醇，生成烯。",
+		"seconds": 8.208
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：有机推断中看到氢氧化钠、醇、加热就是消去；氢氧化钠、水、加热就是水解。",
+		"seconds": 9.768
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，检验卤代烃中的卤素：先加氢氧化钠溶液加热，让它水解，卤素变成卤离子。",
+		"seconds": 8.784
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|冷却后加稀硝酸酸化，中和过量的氢氧化钠，再加硝酸银溶液。",
+		"seconds": 6.576
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|现象：白色沉淀是氯化银，浅黄色是溴化银，黄色是碘化银。",
+		"seconds": 6.6
+	},
+	"de3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩穿着灰色西装外套站好：先水解、再酸化、最后加硝酸银，顺序一步都不能乱。",
+		"seconds": 8.952
+	},
+	"de4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不加稀硝酸，氢氧根与银离子生成氧化银褐色沉淀，干扰判断；不能用盐酸酸化。",
+		"seconds": 9.024
+	},
+	"br1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，卤代烃在合成中是桥梁：烃 → 卤代烃 → 醇、烯烃……",
+		"seconds": 5.88
+	},
+	"br2": {
+		"key": "zh-CN-XiaoxiaoNeural|引入羟基：烯烃先与卤化氢加成，再水解得到醇。引入双键：醇或卤代烃消去。",
+		"seconds": 8.544
+	},
+	"br3": {
+		"key": "zh-CN-XiaoxiaoNeural|从乙烯合成乙二醇：先与溴加成得1,2-二溴乙烷，再水解得乙二醇。",
+		"seconds": 7.104
+	},
+	"br4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：需要“把一个官能团搬到相邻碳上”或“增加一个官能团”，常走“消去 → 加成 → 水解”这条路。",
+		"seconds": 8.664
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：溴乙烷与氢氧化钠水溶液发生消去？错，是水解。判断二：所有卤代烃都能消去？错，贝塔碳要有氢。",
+		"seconds": 12.24
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：一氯甲烷能水解？对。判断四：直接加硝酸银检验溴？错，要先水解再酸化。",
+		"seconds": 10.224
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：水解后用稀硝酸酸化再加硝酸银？对。判断六：2-溴丁烷消去只有一种产物？错，有两种。",
+		"seconds": 11.568
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|无醇成醇，有醇成烯，检验先酸化。下一期：醇与酚。",
+		"seconds": 6.24
+	}
+}

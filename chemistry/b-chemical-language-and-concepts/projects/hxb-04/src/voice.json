@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|离子反应与离子共存。",
+		"seconds": 2.712
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|离子方程式贯穿所有大题；选择题考拆分与守恒、离子检验和离子能否共存，共八个考点。",
+		"seconds": 9.144
+	},
+	"es1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，离子反应的实质：溶液中某些离子浓度减小。",
+		"seconds": 5.688
+	},
+	"es2": {
+		"key": "zh-CN-XiaoxiaoNeural|复分解型离子反应的条件：生成沉淀、气体或难电离的物质，比如水、弱酸、弱碱。",
+		"seconds": 8.808
+	},
+	"es3": {
+		"key": "zh-CN-XiaoxiaoNeural|另一类是氧化还原型：比如铁离子与碘离子、亚铁离子与酸性条件下的硝酸根，后面专门讲。",
+		"seconds": 9.12
+	},
+	"es4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断两种溶液混合能不能发生离子反应，就看有没有这四类产物之一。",
+		"seconds": 7.416
+	},
+	"wr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，离子方程式书写四步：写、拆、删、查。",
+		"seconds": 5.616
+	},
+	"wr2": {
+		"key": "zh-CN-XiaoxiaoNeural|以硫酸钠和氯化钡为例：先写化学方程式；再把易溶易电离的物质拆成离子。",
+		"seconds": 7.56
+	},
+	"wr3": {
+		"key": "zh-CN-XiaoxiaoNeural|删去两边相同的钠离子、氯离子，得到钡离子和硫酸根离子生成硫酸钡沉淀。",
+		"seconds": 7.896
+	},
+	"wr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这两个女孩一见面就紧紧抱在一起：钡离子遇到硫酸根，结合成沉淀，退出了溶液。",
+		"seconds": 7.968
+	},
+	"wr4": {
+		"key": "zh-CN-XiaoxiaoNeural|最后查：原子守恒、电荷守恒，有电子转移的还要得失电子守恒。",
+		"seconds": 6.84
+	},
+	"wr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“查”这一步不能省，选择题里电荷不守恒的选项每年都有。",
+		"seconds": 6.288
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，拆分原则。拆成离子的只有三类：强酸、强碱、可溶性盐。",
+		"seconds": 7.536
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|不拆：弱酸、弱碱、水，沉淀，气体，单质，氧化物。比如碳酸钙、醋酸、一水合氨、氢氧化铜都保留化学式。",
+		"seconds": 12.576
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|微溶物看状态：澄清石灰水拆成钙离子和氢氧根，石灰乳写氢氧化钙不拆；作生成物写化学式。",
+		"seconds": 9.84
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|弱酸的酸式酸根碳酸氢根不能拆成氢离子和碳酸根；浓硫酸写化学式。",
+		"seconds": 7.272
+	},
+	"sp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碳酸钙与盐酸反应，写成碳酸根加两个氢离子是错的，碳酸钙不拆。",
+		"seconds": 7.56
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，离子方程式的意义：它不只表示一个反应，而是表示一类反应。",
+		"seconds": 6.792
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|氢离子加氢氧根生成水，表示：强酸与强碱反应、生成可溶性盐和水。",
+		"seconds": 7.464
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|反例一：氢氧化钡与硫酸，还生成硫酸钡沉淀，不能只写这一个式子。",
+		"seconds": 6.816
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|反例二：醋酸与氢氧化钠，醋酸是弱酸不能拆。",
+		"seconds": 5.04
+	},
+	"me5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“氢离子加氢氧根生成水能表示所有酸碱中和”，是错的。",
+		"seconds": 6.24
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，常见离子的检验。氯离子：先加稀硝酸酸化，再加硝酸银溶液，产生白色沉淀。",
+		"seconds": 9.48
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|硫酸根：先加稀盐酸，无明显现象，再加氯化钡溶液，产生白色沉淀。",
+		"seconds": 7.464
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸根：加盐酸产生无色无味气体，通入澄清石灰水变浑浊。",
+		"seconds": 6.552
+	},
+	"de3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴眼镜的金发女孩凑近看：检验离子就像侦探办案，先排除干扰，再下结论。",
+		"seconds": 7.872
+	},
+	"de4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：取少量待测液于试管中，先加什么、再加什么，若出现什么现象，则含有什么离子。",
+		"seconds": 9.216
+	},
+	"sa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，粗盐提纯：除去钙离子、镁离子、硫酸根，分别用碳酸钠、氢氧化钠、氯化钡，都要稍过量。",
+		"seconds": 10.416
+	},
+	"sa2": {
+		"key": "zh-CN-XiaoxiaoNeural|关键顺序：碳酸钠必须在氯化钡之后，这样它还能除去过量的钡离子。",
+		"seconds": 6.792
+	},
+	"sa3": {
+		"key": "zh-CN-XiaoxiaoNeural|氢氧化钠的位置随意。全部沉淀后先过滤，最后加适量盐酸，除去过量的氢氧根和碳酸根。",
+		"seconds": 9.216
+	},
+	"sa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：盐酸必须在过滤之后加，否则碳酸钙、碳酸钡、氢氧化镁沉淀又会溶解。",
+		"seconds": 8.136
+	},
+	"cx1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，离子共存。离子之间能反应，就不能大量共存。四类反应要记住。",
+		"seconds": 8.232
+	},
+	"cx2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一类，复分解：生成沉淀、气体或弱电解质，比如钡离子与硫酸根，氢离子与碳酸根、氢氧根。",
+		"seconds": 10.056
+	},
+	"cx3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二类，氧化还原：铁离子与碘离子、硫离子；酸性条件下硝酸根与亚铁离子；次氯酸根与碘离子。",
+		"seconds": 10.032
+	},
+	"cx4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三类，双水解，课本外：铝离子与碳酸氢根、碳酸根。第四类，配位：铁离子与硫氰根。",
+		"seconds": 9.888
+	},
+	"cx4b": {
+		"key": "zh-CN-XiaoxiaoNeural|这两个女孩互相瞪着，一见面就吵：能反应的离子，放不到一起。",
+		"seconds": 6.456
+	},
+	"cx5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铁离子与硫氰根生成的是配合物，不是沉淀；碳酸氢根与氢离子、氢氧根都不能共存。",
+		"seconds": 9.216
+	},
+	"hi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，隐含条件。“无色”：排除铜离子、铁离子、亚铁离子、高锰酸根这些有色离子。",
+		"seconds": 9.504
+	},
+	"hi2": {
+		"key": "zh-CN-XiaoxiaoNeural|“酸性”：溶液里还有大量氢离子；“碱性”：还有大量氢氧根。pH、石蕊、酚酞都是在告诉你酸碱性。",
+		"seconds": 10.752
+	},
+	"hi3": {
+		"key": "zh-CN-XiaoxiaoNeural|“与铝反应放出氢气”“由水电离的氢离子浓度很小”：可能是酸性，也可能是碱性，两种都要考虑。",
+		"seconds": 8.664
+	},
+	"hi4": {
+		"key": "zh-CN-XiaoxiaoNeural|最隐蔽的一条：酸性溶液中的硝酸根有强氧化性，能氧化亚铁离子、碘离子、亚硫酸根。",
+		"seconds": 8.808
+	},
+	"hi5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先把题干的隐含条件翻译成离子，补进每个选项，再逐对检查四类反应。",
+		"seconds": 8.28
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：碳酸钙与盐酸写成碳酸根加氢离子？错，碳酸钙不拆。判断二：氢离子加氢氧根生成水能表示所有酸碱中和？错。",
+		"seconds": 13.8
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：检验硫酸根，先加盐酸无现象，再加氯化钡？对。判断四：粗盐提纯时碳酸钠要在氯化钡之后加？对。",
+		"seconds": 12.768
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：铁离子与硫氰根生成沉淀？错，生成配合物。判断六：酸性溶液中亚铁离子与硝酸根能大量共存？错，会被氧化。",
+		"seconds": 13.728
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|强酸强碱可溶盐才拆，酸性硝酸根是氧化剂。下一期：氧化还原反应的概念与电子转移。",
+		"seconds": 9.624
+	}
+}

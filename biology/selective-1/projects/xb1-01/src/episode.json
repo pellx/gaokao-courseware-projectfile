@@ -1,0 +1,36 @@
+{
+	"id": "XB1-01",
+	"title": "细胞生活的环境",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第1章",
+	"points": ["体液的组成", "内环境与三者关系", "细胞生活的内环境", "内环境成分的判断", "血浆成分的特点", "渗透压", "酸碱度", "温度", "物质交换的媒介", "组织水肿的成因"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["细胞生活的"], ["环境", true]],
+		"subtitle": "体液 · 内环境 · 理化性质 · 物质交换",
+		"photo": "plasma.jpg",
+		"photoCaption": "新鲜冰冻血浆：血浆约90%是水，富含蛋白质"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞生活的"]], [["环境", true]]],
+		"photo": "plasma.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "血浆：内环境的重要组成",
+		"credit": "Photo: DiverDave, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "血浆、组织液、淋巴液都能相互转化", "ok": false, "fix": "淋巴液只能单向流回血浆"},
+			{"q": "血红蛋白属于内环境的成分", "ok": false, "fix": "血红蛋白在红细胞内"},
+			{"q": "毛细淋巴管壁细胞的内环境是淋巴液和组织液", "ok": true, "fix": ""},
+			{"q": "血浆渗透压主要来自蛋白质", "ok": false, "fix": "主要与无机盐和蛋白质的含量有关"},
+			{"q": "剧烈运动后血浆pH明显下降", "ok": false, "fix": "缓冲物质使pH保持稳定"},
+			{"q": "食物的消化发生在内环境中", "ok": false, "fix": "消化道与外界相通，不属于内环境"}
+		],
+		"endTitle": [["细胞生活的"], ["环境", true]],
+		"endLine": "体液 · 内环境 · 成分 · 理化性质 · 物质交换",
+		"slogan": "抓住“内环境”这条主线，这一节稳稳拿分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— DiverDave《FreshFrozenPlasma》CC BY-SA 3.0；James Heilman, MD《Combinpedal》CC BY-SA 3.0"
+}

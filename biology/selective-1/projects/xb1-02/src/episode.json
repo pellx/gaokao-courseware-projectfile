@@ -1,0 +1,37 @@
+{
+	"id": "XB1-02",
+	"title": "内环境的稳态",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第1章",
+	"points": ["模拟pH稳定的实验", "稳态的概念", "稳态的调节机制", "调节能力有限度", "稳态失调与疾病", "稳态的意义", "稳态概念的发展"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["内环境的"], ["稳态", true]],
+		"subtitle": "实验 · 概念 · 调节机制 · 失调与意义",
+		"photo": "cannon.jpg",
+		"photoCaption": "坎农：提出“稳态”概念的美国生理学家",
+		"photoPos": "center 20%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["内环境的"]], [["稳态", true]]],
+		"photo": "phmeter.jpg",
+		"photoPos": "center 55%",
+		"photoTag": "模拟生物体维持pH的稳定",
+		"credit": "Photo: OER CampLev, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "稳态是指成分和理化性质恒定不变", "ok": false, "fix": "它们处于动态平衡之中"},
+			{"q": "神经—体液—免疫调节网络是稳态的主要调节机制", "ok": true, "fix": ""},
+			{"q": "内环境稳态时，人一定不会患病", "ok": false, "fix": "如遗传病，稳态时也可能发生"},
+			{"q": "模拟实验中，自来水组是对照组", "ok": true, "fix": ""},
+			{"q": "人体维持稳态的调节能力是无限的", "ok": false, "fix": "调节能力有一定限度"},
+			{"q": "稳态只存在于人体内环境中", "ok": false, "fix": "生命系统的各个层次都存在稳态"}
+		],
+		"endTitle": [["内环境的"], ["稳态", true]],
+		"endLine": "实验 · 概念 · 机制 · 限度 · 失调 · 意义 · 发展",
+		"slogan": "记住“动态平衡”，这一节稳稳拿分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 佚名《Claude Bernard》公有领域；佚名《Walter Bradford Cannon》CC BY 4.0；OER CampLev《PH-Meter METTLER TOLEDO FiveEasy》CC BY-SA 4.0"
+}

@@ -1,0 +1,19 @@
+# Shared dependencies: run `npm ci` once in the repository root.
+node_modules/
+
+# Everything generated (stills, check frames, sheets, covers, videos, bundles).
+# See explainer-workflow/bin/outdir.py.
+/out/
+.bundle/
+*.mp4
+
+# Temporary files written by the workflow tools.
+explainer-workflow/sheet/public/c/
+explainer-workflow/sheet/props.json
+explainer-workflow/collection/public/images/
+__pycache__/
+*.pyc
+*.log
+
+# Local-only archive of old delivery zips (not project files).
+/archive/

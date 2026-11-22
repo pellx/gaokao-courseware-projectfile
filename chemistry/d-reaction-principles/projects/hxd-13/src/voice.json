@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|沉淀溶解平衡。",
+		"seconds": 2.112
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题用Ksp算除杂的pH，选择题和实验题判断沉淀转化，共八个考点。",
+		"seconds": 7.776
+	},
+	"bu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，难溶电解质在水中也会溶解一点。溶解速率和沉淀速率相等时，达到沉淀溶解平衡：氯化银固体可逆地溶解成银离子和氯离子。",
+		"seconds": 13.992
+	},
+	"bu2": {
+		"key": "zh-CN-XiaoxiaoNeural|这也是动态平衡，符合勒夏特列原理：升温一般促进溶解，加水促进溶解，同离子效应抑制溶解。",
+		"seconds": 9.48
+	},
+	"bu2b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉色的小人化成了一摊：一边在溶解，一边又在析出，速率一样快，看起来就不变了。",
+		"seconds": 8.016
+	},
+	"bu3": {
+		"key": "zh-CN-XiaoxiaoNeural|离子浓度小于1乘10的负5次方摩尔每升时，就认为这种离子沉淀完全了。",
+		"seconds": 7.392
+	},
+	"bu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：沉淀溶解平衡方程式要标状态s和a q，用可逆号；它和电离方程式不是一回事。",
+		"seconds": 9.336
+	},
+	"ks1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，溶度积：氯化银的Ksp等于银离子浓度乘氯离子浓度；铬酸银的Ksp等于银离子浓度的平方乘铬酸根浓度。",
+		"seconds": 11.424
+	},
+	"ks2": {
+		"key": "zh-CN-XiaoxiaoNeural|氢氧化铁的Ksp等于铁离子浓度乘氢氧根浓度的立方。系数就是幂次。",
+		"seconds": 7.416
+	},
+	"ks3": {
+		"key": "zh-CN-XiaoxiaoNeural|Ksp只与温度和难溶物本身有关，与离子浓度无关。",
+		"seconds": 5.352
+	},
+	"ks4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：向氯化银饱和溶液中加氯化钠，银离子浓度减小，但Ksp不变。",
+		"seconds": 7.392
+	},
+	"qk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，离子积Q：表达式和Ksp一样，用任意时刻的浓度。",
+		"seconds": 6.216
+	},
+	"qk2": {
+		"key": "zh-CN-XiaoxiaoNeural|Q大于Ksp：有沉淀析出；Q等于Ksp：饱和溶液；Q小于Ksp：不饱和，沉淀会溶解。",
+		"seconds": 9.816
+	},
+	"qk3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：等体积混合2乘10的负4次方摩尔每升的硝酸银和氯化钠，混合后各为10的负4次方，Q等于10的负8次方，大于氯化银的Ksp约1.8乘10的负10次方，有沉淀。",
+		"seconds": 16.056
+	},
+	"qk4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：等体积混合，浓度要减半再算 Q。",
+		"seconds": 4.488
+	},
+	"so1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，Ksp与溶解度。化学式类型相同时，Ksp越小，溶解度越小：氯化银、溴化银、碘化银的Ksp依次减小，溶解度也依次减小。",
+		"seconds": 14.664
+	},
+	"so2": {
+		"key": "zh-CN-XiaoxiaoNeural|类型不同时不能直接比：铬酸银的Ksp比氯化银小，但铬酸银的溶解度反而更大。",
+		"seconds": 8.4
+	},
+	"so3": {
+		"key": "zh-CN-XiaoxiaoNeural|要比较，就分别算出饱和溶液的浓度：氯化银约1.3乘10的负5次方摩尔每升，铬酸银约6.5乘10的负5次方摩尔每升。",
+		"seconds": 11.544
+	},
+	"so4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：Ksp小的溶解度一定小，这是错的，要化学式类型相同才能直接比。",
+		"seconds": 7.656
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，沉淀的生成：流程题常用调节pH除去杂质离子。例：硫酸铜溶液中混有铁离子，加氧化铜调pH约为4，铁离子生成氢氧化铁沉淀。",
+		"seconds": 15.12
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|计算铁离子沉淀完全的pH：铁离子浓度取10的负5次方，Ksp等于4乘10的负38次方，氢氧根浓度的立方等于4乘10的负33次方，氢氧根浓度约1.6乘10的负11次方，pH约3.2。",
+		"seconds": 18.792
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|开始沉淀的 pH 用原始浓度代入；沉淀完全用 10^-5 代入。",
+		"seconds": 6.432
+	},
+	"fo3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩低头看着脚边一小团粉色：沉淀完全不是一点不剩，是剩下不到10的负5次方摩尔每升。",
+		"seconds": 9.096
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：调pH要选能消耗氢离子又不引入杂质的物质，比如氧化铜、氢氧化铜、碱式碳酸铜；pH范围是杂质沉淀完全到主要离子开始沉淀之间。",
+		"seconds": 14.568
+	},
+	"ds1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，沉淀的溶解：减小沉淀溶解平衡中某种离子的浓度，平衡正移，沉淀溶解。",
+		"seconds": 8.544
+	},
+	"ds2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：氢氧化镁溶于氯化铵溶液：铵根结合氢氧根生成一水合氨，氢氧根浓度减小，平衡正移。",
+		"seconds": 9.456
+	},
+	"ds3": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸钙溶于盐酸；氯化银溶于氨水，生成二氨合银配离子。",
+		"seconds": 6.048
+	},
+	"ds4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：存在氢氧化镁的沉淀溶解平衡，铵根结合氢氧根，氢氧根浓度减小，平衡正向移动，沉淀溶解。",
+		"seconds": 10.512
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，沉淀的转化：一般由溶解度小的转化为更小的。氯化银白色，转化为碘化银黄色，再转化为硫化银黑色。",
+		"seconds": 11.472
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|方程式：氯化银固体加碘离子可逆生成碘化银固体和氯离子。",
+		"seconds": 6.576
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|应用：锅炉水垢中的硫酸钙难以用酸除去，先用碳酸钠溶液浸泡转化成碳酸钙，再用酸溶解。",
+		"seconds": 9.384
+	},
+	"cv3b": {
+		"key": "zh-CN-XiaoxiaoNeural|一整张表情贴纸，同一群人换了好多表情：沉淀也能换一种样子，往更难溶的方向变。",
+		"seconds": 8.184
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：浓度足够大时，溶解度小的也能转化为稍大的，比如硫酸钡用饱和碳酸钠溶液多次处理可转化为碳酸钡。",
+		"seconds": 10.992
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，沉淀溶解平衡曲线。常用负对数作坐标：横轴是氯离子浓度的负对数，纵轴是银离子浓度的负对数，曲线是一条直线，线上的点都是饱和溶液。",
+		"seconds": 15.336
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|注意：负对数越大，浓度越小。直线右上方的点浓度更小，Q小于Ksp，是不饱和溶液。",
+		"seconds": 9.24
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|直线左下方的点浓度更大，Q大于Ksp，是过饱和溶液，会析出沉淀。",
+		"seconds": 7.128
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先弄清坐标是浓度还是负对数，再在线上任取一点算Ksp；温度不变，Ksp不变，点只能沿曲线移动。",
+		"seconds": 11.544
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：加氯化钠，氯化银的Ksp减小？错，只与温度有关。判断二：Ksp小的溶解度一定小？错，类型相同才能比。",
+		"seconds": 13.08
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：浓度小于十的负五次方认为沉淀完全？对。判断四：氢氧化镁能溶于氯化铵溶液？对。",
+		"seconds": 10.848
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：碘化银任何条件都不能转化为氯化银？错，浓度足够大时可以。判断六：负对数图中右上方有沉淀？错，那是不饱和。",
+		"seconds": 13.656
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|Q 大析出 Q 小溶，类型相同才能比。下一期：原电池的工作原理。",
+		"seconds": 7.176
+	}
+}

@@ -1,0 +1,37 @@
+{
+	"id": "XB1-07",
+	"title": "神经系统的分级调节",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第2章",
+	"points": ["大脑皮层第一运动区", "躯体运动的分级调节", "排尿反射的分级调节", "排尿相关的病例分析", "自主神经并不完全自主", "感觉在大脑皮层形成"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["神经系统的"], ["分级调节", true]],
+		"subtitle": "运动区 · 排尿反射 · 病例分析",
+		"photo": "lynch-brain.png",
+		"photoCaption": "大脑、小脑、脑干和脊髓",
+		"photoPos": "center 20%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["神经系统的"]], [["分级调节", true]]],
+		"photo": "lynch-brain.png",
+		"photoPos": "center 15%",
+		"photoTag": "高级中枢调控低级中枢",
+		"credit": "Image: Patrick J. Lynch, CC BY 2.5"
+	},
+	"review": {
+		"items": [
+			{"q": "刺激中央前回的顶部，可引起头面部运动", "ok": false, "fix": "引起下肢运动（倒置）"},
+			{"q": "运动越精细的部位，代表区越大", "ok": true, "fix": ""},
+			{"q": "排尿反射的高级中枢在脊髓", "ok": false, "fix": "低级中枢在脊髓，高级中枢在大脑皮层"},
+			{"q": "婴儿遗尿是因为大脑发育尚未完善", "ok": true, "fix": ""},
+			{"q": "自主神经系统的活动不受大脑皮层调控", "ok": false, "fix": "也受大脑皮层等高级中枢调控"},
+			{"q": "手被针扎产生痛觉，属于反射", "ok": false, "fix": "反射弧不完整，不属于反射"}
+		],
+		"endTitle": [["神经系统的"], ["分级调节", true]],
+		"endLine": "运动区 · 躯体运动 · 排尿反射 · 病例分析 · 感觉",
+		"slogan": "高级调控低级，病例题一看就懂！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Patrick J. Lynch《Skull and brain normal human》CC BY 2.5；《Motor homunculus》（据 Penfield & Rasmussen 1950 绘制）CC BY-SA 4.0"
+}

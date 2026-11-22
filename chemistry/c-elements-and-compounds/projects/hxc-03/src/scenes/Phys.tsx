@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Phys: React.FC = () => <AutoScene k="phys" d={{"tag": "考点一", "title": "氯气的物理性质", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "颜色", "at": "ph1", "text": "{黄绿色}，刺激性气味", "c": "red", "size": 32}]}, {"blocks": [{"t": "rule", "tag": "毒性", "at": "ph1", "text": "{有毒}", "c": "red", "size": 32}]}]}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "密度", "at": "ph1", "text": "比空气大（向上排空气法收集）", "c": "orange", "size": 32}]}, {"blocks": [{"t": "rule", "tag": "溶解", "at": "ph1", "text": "1 体积水约溶 {2} 体积", "c": "orange", "size": 32}]}]}, {"t": "rule", "tag": "液化", "at": "ph2", "text": "易液化：{液氯}是纯净物，{氯水|orange}是混合物", "c": "green", "size": 32}, {"t": "rule", "tag": "闻法", "at": "ph3", "text": "用手在瓶口{轻轻扇动}", "c": "brown", "size": 32}], "callout": {"label": "易错", "at": "ph4", "text": "液氯 = {纯净物}；氯水 = 混合物"}}} />;

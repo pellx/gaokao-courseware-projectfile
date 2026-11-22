@@ -1,0 +1,138 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|铁、铁的氧化物与氢氧化物。",
+		"seconds": 3.36
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考铁与不同物质反应的价态，三种氧化物的颜色与性质，还有氢氧化亚铁的制备，共六个考点。",
+		"seconds": 9.504
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，铁与非金属、与水。铁遇强氧化剂到正3价：两个铁和三个氯气点燃生成两个氯化铁。",
+		"seconds": 10.032
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|遇弱氧化剂只到正2价：铁和硫加热生成硫化亚铁，铁和碘生成碘化亚铁。",
+		"seconds": 7.776
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁与水蒸气高温反应：三个铁和四个水蒸气高温生成四氧化三铁和四个氢气。用湿棉花提供水蒸气，用肥皂泡收集并点燃检验氢气。",
+		"seconds": 13.68
+	},
+	"fe3b": {
+		"key": "zh-CN-XiaoxiaoNeural|捧着冒热气马克杯的女孩：铁不和冷水反应，要和高温水蒸气才反应，产物是黑色的四氧化三铁。",
+		"seconds": 9.312
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铁与水蒸气的产物是四氧化三铁，不是氧化铁，也不是氢氧化铁。",
+		"seconds": 7.2
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，铁与酸。与稀硫酸、盐酸反应生成亚铁离子：铁加两个氢离子生成亚铁离子和氢气。",
+		"seconds": 9.912
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|常温下遇浓硫酸、浓硝酸发生钝化：表面生成致密氧化膜，阻止反应继续，所以能用铁罐车运输浓硫酸。",
+		"seconds": 10.272
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|与稀硝酸反应不放氢气，而是生成一氧化氮；铁过量时最终得到亚铁离子，详见硝酸一期。",
+		"seconds": 9.288
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：钝化是化学变化，不是“不反应”；加热时铁能与浓硫酸剧烈反应。",
+		"seconds": 7.176
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，铁的三种氧化物。氧化亚铁黑色；氧化铁红棕色，俗称铁红，用作红色颜料；四氧化三铁黑色，有磁性，俗称磁性氧化铁。",
+		"seconds": 13.728
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化亚铁和氧化铁是碱性氧化物，与酸反应分别生成亚铁离子和铁离子。",
+		"seconds": 7.584
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|四氧化三铁里铁有正2和正3两种价态，可看作氧化亚铁和氧化铁：与盐酸反应同时生成亚铁离子和铁离子。",
+		"seconds": 11.28
+	},
+	"ox3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个背对背站着的女孩：一个正2、一个正3，同住在四氧化三铁里，溶于酸就各走各的。",
+		"seconds": 8.544
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：四氧化三铁是纯净物，不是氧化亚铁和氧化铁的混合物；氧化铁是红棕色，不是黑色。",
+		"seconds": 9.216
+	},
+	"f21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，氢氧化亚铁的制备：硫酸亚铁溶液与氢氧化钠溶液反应，生成白色的氢氧化亚铁沉淀。",
+		"seconds": 9.384
+	},
+	"f22": {
+		"key": "zh-CN-XiaoxiaoNeural|它极易被氧化：四个氢氧化亚铁加氧气加两个水生成四个氢氧化铁，颜色白色变灰绿色再变红褐色。",
+		"seconds": 9.792
+	},
+	"f22b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉色双马尾的女孩挥着魔杖变身：氢氧化亚铁在空气里也会“变身”，白、灰绿、红褐三连。",
+		"seconds": 9.096
+	},
+	"f23": {
+		"key": "zh-CN-XiaoxiaoNeural|要看清白色沉淀，就要隔绝氧气：氢氧化钠溶液煮沸除氧；硫酸亚铁溶液新配并加铁粉；长胶头滴管伸入液面以下再挤出；液面上加一层植物油或苯。",
+		"seconds": 14.616
+	},
+	"f24": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：问“为什么滴管伸入液面下”，答“防止滴加过程中带入氧气，使氢氧化亚铁被氧化”。",
+		"seconds": 8.832
+	},
+	"f31": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，氢氧化铁：红褐色沉淀，由铁离子与氢氧根生成，也由氢氧化亚铁被氧化得到。",
+		"seconds": 8.88
+	},
+	"f32": {
+		"key": "zh-CN-XiaoxiaoNeural|受热分解：两个氢氧化铁加热生成氧化铁和三个水；溶于酸生成铁离子。",
+		"seconds": 7.536
+	},
+	"f33": {
+		"key": "zh-CN-XiaoxiaoNeural|和胶体区分：铁离子遇氢氧化钠溶液得到沉淀；氯化铁滴入沸水得到胶体。",
+		"seconds": 7.752
+	},
+	"f34": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氢氧化亚铁在空气中灼烧，最终得到氧化铁，不是氧化亚铁。",
+		"seconds": 7.008
+	},
+	"vt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，铁的价类二维图。纵轴是化合价 0、+2、+3，横轴是单质、氧化物、氢氧化物、盐。",
+		"seconds": 10.488
+	},
+	"vt2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一价态横着走：靠复分解和酸碱反应，比如氧化铁到氯化铁到氢氧化铁。",
+		"seconds": 7.488
+	},
+	"vt3": {
+		"key": "zh-CN-XiaoxiaoNeural|不同价态竖着走：靠氧化还原，正2到正3要氧化剂，正3到正2要还原剂，下一期专门讲。",
+		"seconds": 9.696
+	},
+	"vt4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断转化需要什么试剂，先看价态变没变：变了找氧化剂或还原剂，没变找酸或碱。",
+		"seconds": 9.504
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：铁和硫加热生成三硫化二铁？错，生成硫化亚铁。判断二：铁与水蒸气生成氧化铁？错，生成四氧化三铁。",
+		"seconds": 13.368
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：常温下铁遇浓硫酸不反应？错，是钝化。判断四：四氧化三铁溶于盐酸生成氯化亚铁和氯化铁？对。",
+		"seconds": 12.648
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：氢氧化亚铁白色变灰绿再变红褐？对。判断六：氧化铁是黑色？错，是红棕色。",
+		"seconds": 10.512
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|强氧化剂到正三，弱氧化剂到正二，水蒸气给四氧化三铁。下一期：铁盐和亚铁盐。",
+		"seconds": 8.976
+	}
+}

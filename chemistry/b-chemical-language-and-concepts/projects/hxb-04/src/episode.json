@@ -1,0 +1,123 @@
+{
+	"id": "HXB-04",
+	"title": "离子反应与离子共存",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第4期 / 共12期",
+	"points": [
+		"离子反应的条件",
+		"离子方程式书写",
+		"拆分原则",
+		"离子方程式的意义",
+		"常见离子的检验",
+		"粗盐提纯",
+		"离子共存",
+		"隐含条件"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"离子反应",
+				true
+			],
+			[
+				"与离子共存"
+			]
+		],
+		"subtitle": "写拆删查 · 离子检验 · 粗盐提纯 · 离子共存",
+		"photo": "agcl.jpg",
+		"photoCaption": "AgCl 白色沉淀：银离子与氯离子的反应",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"离子反应",
+					true
+				]
+			],
+			[
+				[
+					"与离子共存"
+				]
+			]
+		],
+		"photo": "agcl.jpg",
+		"photoPos": {
+			"16x9": "center 60%",
+			"4x3": "center 60%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "AgCl 沉淀",
+		"credit": "Dr.T, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "CaCO3 与盐酸：CO3^2- + 2H^+ = CO2↑ + H2O",
+				"ok": false,
+				"fix": "CaCO3 是沉淀，不拆"
+			},
+			{
+				"q": "H^+ + OH^- = H2O 能表示所有酸碱中和反应",
+				"ok": false,
+				"fix": "只表示强酸强碱生成可溶性盐的反应"
+			},
+			{
+				"q": "检验 SO4^2-：先加盐酸无现象，再加 BaCl2 溶液",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "粗盐提纯时，Na2CO3 溶液要在 BaCl2 之后加",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Fe^3+ 与 SCN^- 生成沉淀，不能大量共存",
+				"ok": false,
+				"fix": "生成配合物，不是沉淀"
+			},
+			{
+				"q": "酸性溶液中 Fe^2+ 与 NO3^- 能大量共存",
+				"ok": false,
+				"fix": "酸性下 NO3^- 会氧化 Fe^2+"
+			}
+		],
+		"endTitle": [
+			[
+				"离子反应",
+				true
+			],
+			[
+				"与离子共存"
+			]
+		],
+		"endLine": "写拆删查，四类反应查共存",
+		"slogan": "强酸强碱可溶盐才拆，酸性硝酸根是氧化剂"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Dr.T《AgCl-neerslag》，CC BY-SA 3.0；插图来自 pixiv：大青鱼 \\ Minusk9、なもびょんり/なもぢょへり鰹䴒、Super Shin（侵删）",
+	"anime": [
+		{
+			"key": "pair",
+			"src": "pair.jpg",
+			"credit": "插图：大青鱼 \\ Minusk9《孤独摇滚2期祝贺》pixiv #130576422",
+			"url": "https://www.pixiv.net/artworks/130576422"
+		},
+		{
+			"key": "detect",
+			"src": "detect.jpg",
+			"credit": "插图：なもびょんり/なもぢょへり鰹䴒《ゆるゆりの京子ちゃん》pixiv #142945566",
+			"url": "https://www.pixiv.net/artworks/142945566"
+		},
+		{
+			"key": "fight",
+			"src": "fight.jpg",
+			"credit": "插图：Super Shin《日曜日パンチVS金曜日パンチ》pixiv #58572234",
+			"url": "https://www.pixiv.net/artworks/58572234"
+		}
+	]
+}

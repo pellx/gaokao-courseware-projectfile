@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第三章第二节的下半部分——将目的基因导入受体细胞，以及目的基因的检测与鉴定。",
+		"seconds": 12
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考农杆菌转化法的原理、不同受体细胞的导入方法，以及分子检测和电泳结果的判读。",
+		"seconds": 8.664
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，将目的基因导入植物细胞。最常用的是农杆菌转化法。",
+		"seconds": 6.792
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|农杆菌的T i质粒上有一段T—D N A，它可以转移并整合到受体细胞的染色体D N A上。",
+		"seconds": 8.4
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以把目的基因插入T i质粒的T—D N A中，就能随T—D N A整合到植物细胞的染色体上。",
+		"seconds": 8.928
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|农杆菌能侵染双子叶植物和裸子植物，对大多数单子叶植物没有侵染能力。我国科学家还独创了花粉管通道法。",
+		"seconds": 11.088
+	},
+	"pl5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：目的基因要插在T—D N A内部，不是T i质粒的任意位置；整合的位置是植物细胞的染色体D N A。",
+		"seconds": 10.296
+	},
+	"an1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，将目的基因导入动物细胞。常用显微注射法。",
+		"seconds": 5.856
+	},
+	"an2": {
+		"key": "zh-CN-XiaoxiaoNeural|受体细胞常用受精卵：将含有目的基因的表达载体提纯后，用显微注射仪注入受精卵中。",
+		"seconds": 8.568
+	},
+	"an3": {
+		"key": "zh-CN-XiaoxiaoNeural|然后把受精卵培养成早期胚胎，再移植到雌性动物的输卵管或子宫内，发育成转基因动物。",
+		"seconds": 8.856
+	},
+	"an4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：为什么用受精卵作受体？解题方法：受精卵全能性最高，能发育成完整个体，而且由它发育来的每个细胞都含有目的基因。",
+		"seconds": 12.648
+	},
+	"mi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，将目的基因导入微生物细胞。原核生物常作受体，因为它们繁殖快、多为单细胞、遗传物质相对较少。",
+		"seconds": 11.04
+	},
+	"mi2": {
+		"key": "zh-CN-XiaoxiaoNeural|以大肠杆菌为例，一般先用钙离子处理细胞，使细胞处于一种能吸收周围环境中D N A分子的生理状态。",
+		"seconds": 9.816
+	},
+	"mi3": {
+		"key": "zh-CN-XiaoxiaoNeural|再将重组的基因表达载体导入其中。",
+		"seconds": 3.744
+	},
+	"mi4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：大肠杆菌没有内质网和高尔基体，产生的蛋白质无法加工；需要加工的蛋白质，可以选酵母菌等真核生物作受体。",
+		"seconds": 11.28
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，分子水平的检测。第一查：受体细胞的染色体D N A上是否插入了目的基因，用P C R检测。",
+		"seconds": 10.632
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二查：目的基因是否转录出了m R N A，也用P C R等技术检测。",
+		"seconds": 6.792
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三查：目的基因是否翻译成蛋白质，用抗原—抗体杂交检测。",
+		"seconds": 6.6
+	},
+	"de4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：按中心法则对号入座——D N A和m R N A用P C R，蛋白质用抗原—抗体杂交。",
+		"seconds": 9.552
+	},
+	"in4": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，个体生物学水平的鉴定。分子检测成功，还不能说明基因工程就成功了。",
+		"seconds": 8.064
+	},
+	"in5": {
+		"key": "zh-CN-XiaoxiaoNeural|比如抗虫棉，要做抗虫接种实验，看棉花是否具有抗虫特性。",
+		"seconds": 6.24
+	},
+	"in6": {
+		"key": "zh-CN-XiaoxiaoNeural|抗病植物做抗病接种实验；基因工程产品还要与天然产品的功能活性进行比较。",
+		"seconds": 7.992
+	},
+	"in7": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：检测到目的基因甚至蛋白质，不等于获得了所需性状；最终要在个体水平上鉴定。",
+		"seconds": 8.88
+	},
+	"am1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，实验：D N A片段的扩增及电泳鉴定。在微量离心管中依次加入缓冲液、模板D N A、引物、4种脱氧核苷酸和耐高温的D N A聚合酶。",
+		"seconds": 14.952
+	},
+	"am2": {
+		"key": "zh-CN-XiaoxiaoNeural|放入P C R仪中，按照变性、复性、延伸的程序循环扩增。",
+		"seconds": 6.12
+	},
+	"am3": {
+		"key": "zh-CN-XiaoxiaoNeural|电泳鉴定：DNA分子带负电荷，在电场中向正极移动。",
+		"seconds": 5.832
+	},
+	"am4": {
+		"key": "zh-CN-XiaoxiaoNeural|在凝胶中，DNA分子的迁移速率与凝胶浓度、DNA分子大小和构象有关；分子越小，迁移越快。",
+		"seconds": 9.744
+	},
+	"am5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：加样孔要放在负极一侧；用到的离心管、枪头和蒸馏水都要高压灭菌。",
+		"seconds": 7.824
+	},
+	"ge1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，电泳结果的判读。第一个泳道通常是标准参照物，也叫D N A分子标准，用来估计片段的大小。",
+		"seconds": 10.632
+	},
+	"ge2": {
+		"key": "zh-CN-XiaoxiaoNeural|离加样孔越远的条带，D N A分子越小；离加样孔越近，D N A分子越大。",
+		"seconds": 7.536
+	},
+	"ge3": {
+		"key": "zh-CN-XiaoxiaoNeural|样品条带与目的基因的大小一致，说明扩增成功，或者受体中含有目的基因。",
+		"seconds": 7.512
+	},
+	"ge4": {
+		"key": "zh-CN-XiaoxiaoNeural|还要设置阳性对照和阴性对照：阳性对照以目的基因为模板，阴性对照不加模板或用非转基因材料。",
+		"seconds": 9.888
+	},
+	"ge5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先看标准参照物定大小，再看对照排除污染，最后比较样品的条带位置。",
+		"seconds": 8.28
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：农杆菌转化时目的基因插入T—D N A中？对。判断二：培育转基因动物常以体细胞为受体？错，用受精卵。",
+		"seconds": 12.888
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：钙离子处理大肠杆菌使其易吸收D N A？对。判断四：检测是否翻译用P C R？错，用抗原—抗体杂交。",
+		"seconds": 12.72
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：检测出目的基因就说明成功？错，还要个体鉴定。判断六：电泳时D N A分子越小迁移越快？对。",
+		"seconds": 11.952
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：分子三查P C R加杂交，个体再看性状。我们下期再见！",
+		"seconds": 8.376
+	}
+}

@@ -1,0 +1,198 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|金属晶体、离子晶体、过渡晶体与混合型晶体。",
+		"seconds": 5.112
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常考熔点比较、氯化钠和氯化铯的配位数和石墨为什么能导电，最后把四类晶体放在一起比较，共九个考点。",
+		"seconds": 10.944
+	},
+	"mt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，金属键与电子气理论。金属原子脱落下来的价电子形成遍布整块晶体的“电子气”，被所有原子共用，把金属原子维系在一起。",
+		"seconds": 12.72
+	},
+	"mt2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子气能自由移动：通电时定向移动，所以金属能导电；电子气与金属离子碰撞传递能量，所以能导热。",
+		"seconds": 10.416
+	},
+	"mt3": {
+		"key": "zh-CN-XiaoxiaoNeural|金属受外力时，原子层相对滑动，但电子气仍把它们连在一起，所以金属有延展性。",
+		"seconds": 8.472
+	},
+	"mt3b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像被戳脸的女孩，脸被戳得变了形，却不会“碎掉”：金属受力变形，但不断裂。",
+		"seconds": 7.68
+	},
+	"mt4": {
+		"key": "zh-CN-XiaoxiaoNeural|金属熔点比较：价电子数越多、原子半径越小，金属键越强，熔点越高：钠小于镁小于铝，锂大于钠大于钾。",
+		"seconds": 10.944
+	},
+	"mt5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：金属晶体中有阳离子，但没有阴离子；金属导电是物理变化。",
+		"seconds": 6.792
+	},
+	"io1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，离子晶体。由阳离子和阴离子通过离子键结合而成。",
+		"seconds": 6.6
+	},
+	"io2": {
+		"key": "zh-CN-XiaoxiaoNeural|性质特点：硬度较大、熔点较高、难挥发；固体不导电，熔融或溶于水后导电。",
+		"seconds": 8.064
+	},
+	"io3": {
+		"key": "zh-CN-XiaoxiaoNeural|离子晶体中可能含共价键：氢氧化钠中有氧氢键，过氧化钠中有氧氧键，氯化铵中有氮氢键。",
+		"seconds": 9.192
+	},
+	"io4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能导电的不一定是离子晶体（金属、石墨也导电）；判断离子晶体看熔融状态能否导电。",
+		"seconds": 9.288
+	},
+	"mp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，离子晶体的熔点比较。看离子键的强弱：离子所带电荷越多、离子半径越小，离子键越强，熔点越高。",
+		"seconds": 11.4
+	},
+	"mp2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如氧化镁大于氯化钠：镁离子和氧离子都带2个电荷，钠离子和氯离子只带1个。",
+		"seconds": 8.424
+	},
+	"mp3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化钠大于氯化钾：电荷相同，钠离子的半径比钾离子小。",
+		"seconds": 6.192
+	},
+	"mp4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：都是离子晶体，比较离子电荷和半径，离子键强弱，熔点高低。",
+		"seconds": 7.512
+	},
+	"nc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，氯化钠与氯化铯晶胞。氯化钠晶胞中，氯离子在顶点和面心，钠离子在棱心和体心。",
+		"seconds": 9.6
+	},
+	"nc2": {
+		"key": "zh-CN-XiaoxiaoNeural|一个氯化钠晶胞含4个钠离子和4个氯离子：氯离子是8乘八分之一加6乘二分之一等于4，钠离子是12乘四分之一加1等于4。",
+		"seconds": 12.216
+	},
+	"nc3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化钠的配位数是6：每个钠离子周围有6个氯离子，每个氯离子周围也有6个钠离子。",
+		"seconds": 8.4
+	},
+	"nc4": {
+		"key": "zh-CN-XiaoxiaoNeural|每个钠离子周围最近的钠离子有12个。",
+		"seconds": 4.056
+	},
+	"nc5": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化铯晶胞：氯离子在顶点，铯离子在体心，一个晶胞含1个铯离子和1个氯离子，配位数是8。",
+		"seconds": 9.312
+	},
+	"nc6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氯化钠配位数是6，不是8；“最近的钠离子”是12个，不是6个，审题看清问的是异种离子还是同种离子。",
+		"seconds": 10.704
+	},
+	"cf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，氟化钙和硫化锌晶胞，这是课本外的拓展。氟化钙是萤石型：钙离子在顶点和面心，8个氟离子在体内的8个四面体空隙。",
+		"seconds": 13.056
+	},
+	"cf2": {
+		"key": "zh-CN-XiaoxiaoNeural|一个晶胞含4个钙离子、8个氟离子，正好1比2；钙离子的配位数是8，氟离子的配位数是4。",
+		"seconds": 9.096
+	},
+	"cf3": {
+		"key": "zh-CN-XiaoxiaoNeural|硫化锌型：硫离子在顶点和面心，4个锌离子在交替的4个四面体空隙，配位数都是4，结构和金刚石类似。",
+		"seconds": 10.968
+	},
+	"cf4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：课本没有这两种晶胞，考试常用；配位数之比等于化学式中离子个数的反比：氟化钙中8比4等于2比1。",
+		"seconds": 11.064
+	},
+	"il1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，离子液体。由体积较大的阴、阳离子构成，离子之间作用力较弱，所以在室温或稍高温度下呈液态。",
+		"seconds": 11.496
+	},
+	"il2": {
+		"key": "zh-CN-XiaoxiaoNeural|离子液体难挥发、导电性好，可以作溶剂和电池的电解质。",
+		"seconds": 5.664
+	},
+	"il3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：解释离子液体熔点低的原因：阴、阳离子体积大，离子键较弱。",
+		"seconds": 7.224
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，过渡晶体。四类典型晶体之间没有绝对的界限，介于中间的叫过渡晶体。",
+		"seconds": 8.544
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如氧化物中，离子键的百分数由两元素的电负性差值决定：差值越大，离子键成分越多。",
+		"seconds": 8.856
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|处理方法：氧化钠、氧化镁离子键成分大，当作离子晶体；氧化铝、二氧化硅共价键成分大，当作共价晶体。",
+		"seconds": 10.824
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：纯粹的离子晶体很少，大多数离子晶体也有一定的共价成分，题目问“当作哪类处理”时按教材的划分回答。",
+		"seconds": 10.632
+	},
+	"gr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，混合型晶体，石墨。石墨是层状结构：同一层内，碳原子 s p 2 杂化，以共价键结合成六元环平面网。",
+		"seconds": 11.904
+	},
+	"gr2": {
+		"key": "zh-CN-XiaoxiaoNeural|层与层之间以范德华力结合，所以层间容易滑动，石墨质软、有滑腻感。",
+		"seconds": 7.512
+	},
+	"gr2b": {
+		"key": "zh-CN-XiaoxiaoNeural|石墨就像一摞松饼：每一层自己很结实，可层和层之间一推就滑开。",
+		"seconds": 6.744
+	},
+	"gr3": {
+		"key": "zh-CN-XiaoxiaoNeural|每个碳还剩一个未参与杂化的 p 电子，形成遍布整层的大派键，电子可以在层内自由移动，所以石墨能导电。",
+		"seconds": 10.224
+	},
+	"gr4": {
+		"key": "zh-CN-XiaoxiaoNeural|层内碳碳键比金刚石的短，键能更大，所以石墨的熔点比金刚石还高。",
+		"seconds": 7.344
+	},
+	"gr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：石墨中每个六元环平均含2个碳原子，碳原子与碳碳键数之比是2比3。",
+		"seconds": 8.232
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，四类晶体的综合比较。构成微粒：分子晶体是分子，共价晶体是原子，离子晶体是阴阳离子，金属晶体是金属阳离子和自由电子。",
+		"seconds": 13.824
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|熔沸点一般：共价晶体大于离子晶体大于分子晶体；金属晶体差别很大，钨很高，汞常温是液体。",
+		"seconds": 9.864
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|同类型再比作用力：共价晶体比键长键能，离子晶体比电荷和半径，分子晶体比氢键和相对分子质量，金属晶体比价电子和半径。",
+		"seconds": 12.936
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|由性质判断类型：熔点很高、硬度大、不导电，是共价晶体；熔融能导电，是离子晶体；熔点低，是分子晶体。",
+		"seconds": 11.016
+	},
+	"cp5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先判断晶体类型，再在同一类型内比较作用力；不同类型之间直接按大小顺序比较。",
+		"seconds": 9.312
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：金属晶体中有阳离子也有阴离子？错。判断二：熔点氧化镁大于氯化钠大于氯化钾？对。",
+		"seconds": 11.544
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氯化钠中每个钠离子周围有8个氯离子？错，6个。判断四：氯化铯中铯离子的配位数是8？对。",
+		"seconds": 11.928
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：石墨导电是因为层间有自由电子？错，是层内。判断六：石墨熔点比金刚石高？对。",
+		"seconds": 10.728
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|金属看电子气，离子看电荷半径，石墨层内导电、层间滑动。下一期：配合物与超分子。",
+		"seconds": 9.48
+	}
+}

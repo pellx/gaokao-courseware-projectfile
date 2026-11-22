@@ -1,0 +1,112 @@
+{
+	"id": "HXE-10",
+	"title": "醇与酚",
+	"subject": "chemistry",
+	"book": "有机化学 · 第10期 / 共17期",
+	"points": [
+		"醇的分类与物理性质",
+		"醇与钠反应",
+		"醇的消去反应",
+		"醇的催化氧化",
+		"乙醇的其他反应",
+		"苯酚的弱酸性",
+		"苯酚的取代与显色",
+		"醇羟基与酚羟基"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"醇与酚",
+				true
+			]
+		],
+		"subtitle": "消去 · 催化氧化 · 弱酸性 · 浓溴水 · 显色",
+		"photo": "kolbe.jpg",
+		"photoCaption": "科尔贝：用苯酚钠和二氧化碳合成水杨酸",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"醇与酚",
+					true
+				]
+			]
+		],
+		"photo": "kolbe.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "科尔贝",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "乙醇能与 NaOH 溶液反应",
+				"ok": false,
+				"fix": "醇不与 NaOH 反应"
+			},
+			{
+				"q": "乙醇与浓硫酸共热到 140 ℃ 主要生成乙烯",
+				"ok": false,
+				"fix": "140 ℃ 主要生成乙醚，170 ℃ 生成乙烯"
+			},
+			{
+				"q": "2-丙醇催化氧化生成丙酮",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "苯酚钠溶液中通入少量 CO2 生成 Na2CO3",
+				"ok": false,
+				"fix": "生成 NaHCO3"
+			},
+			{
+				"q": "苯酚遇 FeCl3 溶液显紫色",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "1 mol 苯酚与浓溴水反应最多消耗 3 mol Br2",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"醇与酚",
+				true
+			]
+		],
+		"endLine": "两氢成醛一氢成酮，酚酸夹在中间",
+		"slogan": "两氢成醛一氢成酮，酚酸夹在中间"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Hermann Kolbe 1880s》，公有领域；插图来自 pixiv：SunTail、一条 高雪、両儀式（侵删）",
+	"anime": [
+		{
+			"key": "star",
+			"src": "star.jpg",
+			"credit": "插图：SunTail《夏制服 香澄》pixiv #77715927",
+			"url": "https://www.pixiv.net/artworks/77715927"
+		},
+		{
+			"key": "tophat",
+			"src": "tophat.jpg",
+			"credit": "插图：一条 高雪《澪　SD（エンディングバージョン）》pixiv #4371973",
+			"url": "https://www.pixiv.net/artworks/4371973"
+		},
+		{
+			"key": "rose",
+			"src": "rose.jpg",
+			"credit": "插图：両儀式《千早愛音》pixiv #113464829",
+			"url": "https://www.pixiv.net/artworks/113464829"
+		}
+	]
+}

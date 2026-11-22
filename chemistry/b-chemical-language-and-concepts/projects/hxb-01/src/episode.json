@@ -1,0 +1,120 @@
+{
+	"id": "HXB-01",
+	"title": "物质的分类",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第1期 / 共12期",
+	"points": [
+		"分类方法",
+		"纯净物与混合物",
+		"氧化物的分类",
+		"酸和碱的分类",
+		"盐的分类",
+		"同素异形体",
+		"分类辨析的方法"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"物质的"
+			],
+			[
+				"分类",
+				true
+			]
+		],
+		"subtitle": "氧化物 · 酸碱盐 · 混合物 · 同素异形体",
+		"photo": "boyle.jpg",
+		"photoCaption": "玻意耳：最早提出化学元素的科学概念",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"物质的"
+				],
+				[
+					"分类",
+					true
+				]
+			]
+		],
+		"photo": "boyle.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "玻意耳",
+		"credit": "Johann Kerseboom, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Na2O2 是碱性氧化物",
+				"ok": false,
+				"fix": "与酸反应还生成 O2，不是碱性氧化物"
+			},
+			{
+				"q": "碱性氧化物一定是金属氧化物",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "由同种元素组成的物质一定是纯净物",
+				"ok": false,
+				"fix": "O2 与 O3 混合是混合物"
+			},
+			{
+				"q": "CH3COOH 分子中有 4 个 H，是四元酸",
+				"ok": false,
+				"fix": "只能电离出 1 个 H^+，是一元酸"
+			},
+			{
+				"q": "CuSO4·5H2O 是纯净物",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "石墨转化为金刚石是物理变化",
+				"ok": false,
+				"fix": "生成了新物质，是化学变化"
+			}
+		],
+		"endTitle": [
+			[
+				"物质的"
+			],
+			[
+				"分类",
+				true
+			]
+		],
+		"endLine": "分类先看标准，判断先找反例",
+		"slogan": "看到“一定”找反例，几元酸看电离出的氢"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Johann Kerseboom《The Shannon Portrait of the Hon Robert Boyle》，公有领域；插图来自 pixiv：ミロ、なんも、AlwaysBetabeats（侵删）",
+	"anime": [
+		{
+			"key": "cross",
+			"src": "cross.jpg",
+			"credit": "插图：ミロ《【42作目】田井中律》pixiv #104574926",
+			"url": "https://www.pixiv.net/artworks/104574926"
+		},
+		{
+			"key": "mix",
+			"src": "mix.jpg",
+			"credit": "插图：なんも《わーい》pixiv #95520253",
+			"url": "https://www.pixiv.net/artworks/95520253"
+		},
+		{
+			"key": "allo",
+			"src": "allo.jpg",
+			"credit": "插图：AlwaysBetabeats《Chitose and Chizuru》pixiv #142121838",
+			"url": "https://www.pixiv.net/artworks/142121838"
+		}
+	]
+}

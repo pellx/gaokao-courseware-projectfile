@@ -1,0 +1,38 @@
+{
+	"id": "XB2-06",
+	"title": "群落的演替",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第2章",
+	"points": ["演替的概念", "初生演替", "次生演替", "两种演替的比较", "演替的趋势", "人类活动的影响", "退耕还林还草还湖"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["群落的"], ["演替", true]],
+		"subtitle": "初生演替 · 次生演替 · 人类活动",
+		"photo": "lichen.jpg",
+		"photoCaption": "岩石上的地衣：初生演替的先锋",
+		"photoPos": "60% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["群落的"]], [["演替", true]]],
+		"kicker": "初生演替 · 次生演替",
+		"photo": "lichen.jpg",
+		"photoPos": "60% center",
+		"photoTag": "岩石上的地衣",
+		"credit": "Photo: Nojhan, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "冰川泥、火山岩上的演替是初生演替", "ok": true, "fix": ""},
+			{"q": "弃耕农田上的演替属于初生演替", "ok": false, "fix": "土壤条件保留，属于次生演替"},
+			{"q": "演替过程中原有物种都会消失", "ok": false, "fix": "是优势取代，原有物种可能仍存在"},
+			{"q": "次生演替的速度一般比初生演替快", "ok": true, "fix": ""},
+			{"q": "群落演替最终都能到达森林阶段", "ok": false, "fix": "取决于气候等环境条件"},
+			{"q": "人类活动能改变演替的速度和方向", "ok": true, "fix": ""}
+		],
+		"endTitle": [["群落的"], ["演替", true]],
+		"endLine": "初生演替 · 次生演替 · 演替趋势 · 人类活动",
+		"slogan": "有没有土壤定类型，能不能成林看气候！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nojhan《Lichen orange pierre》CC BY-SA 3.0"
+}

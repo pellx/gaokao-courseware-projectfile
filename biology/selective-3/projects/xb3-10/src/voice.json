@@ -1,0 +1,138 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第二章第三节的上半部分——胚胎工程的理论基础。",
+		"seconds": 9.24
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考受精前的准备、防止多精入卵的两道屏障，以及早期胚胎发育各阶段的特点。",
+		"seconds": 8.184
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，胚胎工程的概念。它是对生殖细胞、受精卵或早期胚胎细胞进行多种显微操作和处理，然后将获得的胚胎移植到雌性动物体内生产后代的技术。",
+		"seconds": 14.808
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|胚胎工程的技术包括体外受精、胚胎移植、胚胎分割等。",
+		"seconds": 5.784
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|它的理论基础，是哺乳动物受精和早期胚胎发育的规律。",
+		"seconds": 5.352
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：胚胎工程的操作对象是生殖细胞、受精卵和早期胚胎，不是体细胞；最终都要经过胚胎移植才能获得后代。",
+		"seconds": 11.04
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，受精前的准备。受精是精子与卵子结合形成合子，也就是受精卵的过程，在输卵管内完成。",
+		"seconds": 10.08
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|精子获能：刚排出的精子不能立即与卵子受精，必须在雌性动物生殖道中发生相应的生理变化后，才能获得受精能力。",
+		"seconds": 11.304
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|卵子的准备：卵子要在输卵管内进一步成熟，到M二期时，才具备与精子受精的能力。",
+		"seconds": 8.424
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：获能不是获得能量，而是获得受精能力；体外受精时，精子也要先进行获能处理。",
+		"seconds": 8.88
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，受精过程。获能后的精子与卵子相遇时，释放多种酶，溶解卵细胞膜外的一些结构，同时借助自身的运动接触卵细胞膜。",
+		"seconds": 13.008
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|精子触及卵细胞膜的瞬间，透明带迅速发生生理反应，阻止后来的精子进入透明带，这是第一道屏障。",
+		"seconds": 9.864
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|精子入卵后，卵细胞膜也会立即发生生理反应，拒绝其他精子再进入卵内，这是第二道屏障。",
+		"seconds": 9.048
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|精子入卵后，形成雄原核；卵子完成减数分裂二，排出第二极体，形成雌原核。两者融合，形成受精卵。",
+		"seconds": 11.04
+	},
+	"fe5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问如何防止多精入卵。解题方法：答透明带的生理反应和卵细胞膜的生理反应两道屏障。",
+		"seconds": 9.792
+	},
+	"si1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，受精的标志。卵子受精的重要标志，是在透明带和卵细胞膜之间观察到两个极体，或者观察到雌、雄原核。",
+		"seconds": 11.904
+	},
+	"si2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个极体：一个是减数分裂一排出的第一极体，另一个是受精时排出的第二极体。",
+		"seconds": 7.752
+	},
+	"si3": {
+		"key": "zh-CN-XiaoxiaoNeural|而雌、雄原核融合形成合子，标志着受精过程的完成。",
+		"seconds": 5.784
+	},
+	"si4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：区分“受精的标志”和“受精完成的标志”——前者是看到两个极体或雌雄原核，后者是雌雄原核融合。",
+		"seconds": 10.224
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，早期胚胎发育。受精卵进行有丝分裂，进入卵裂期：细胞数量不断增加，但胚胎的总体积并不增加，或略有缩小。",
+		"seconds": 12.408
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞数目达到32个左右时，形成实心的桑葚胚，这一阶段前的每个细胞都具有发育成完整胚胎的潜能。",
+		"seconds": 9.6
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|接着细胞开始分化，形成囊胚，出现了囊胚腔。",
+		"seconds": 5.064
+	},
+	"de4": {
+		"key": "zh-CN-XiaoxiaoNeural|囊胚继续发育，形成原肠胚，出现外胚层、内胚层等胚层分化和原肠腔。",
+		"seconds": 7.704
+	},
+	"de5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：卵裂期，单个细胞的体积变小，细胞总D N A量增加，但有机物总量减少，因为胚胎还不能从外界获取营养。",
+		"seconds": 11.256
+	},
+	"bl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，囊胚的结构。聚集在胚胎一端、个体较大的细胞，叫作内细胞团，将来发育成胎儿的各种组织。",
+		"seconds": 10.248
+	},
+	"bl2": {
+		"key": "zh-CN-XiaoxiaoNeural|沿透明带内壁扩展和排列、个体较小的细胞，叫作滋养层，将来发育成胎膜和胎盘。",
+		"seconds": 8.328
+	},
+	"bl3": {
+		"key": "zh-CN-XiaoxiaoNeural|中间的腔叫囊胚腔。囊胚进一步扩大，会导致透明带破裂，胚胎从中伸展出来，这个过程叫孵化。",
+		"seconds": 9.768
+	},
+	"bl4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：识图填结构和去向。解题方法：记住内细胞团成胎儿，滋养层成胎膜胎盘；胚胎分割、取E S细胞都和内细胞团有关。",
+		"seconds": 12.816
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：刚排出的精子能立即受精？错，要先获能。判断二：卵子要发育到M二期才能受精？对。",
+		"seconds": 11.448
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：透明带反应和卵细胞膜反应能防止多精入卵？对。判断四：卵裂期胚胎总体积不断增大？错。",
+		"seconds": 12.12
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：滋养层细胞发育成胎儿的各种组织？错，发育成胎膜和胎盘。判断六：观察到两个极体或雌雄原核是受精的标志？对。",
+		"seconds": 13.656
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：两道屏障防多精，内团成体滋养盘。我们下期再见！",
+		"seconds": 7.776
+	}
+}

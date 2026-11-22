@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修二第一章第三节——影响种群数量变化的因素。",
+		"seconds": 8.64
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考密度制约因素与非密度制约因素的区分，以及捕食者与被捕食者的数量变化曲线。",
+		"seconds": 8.712
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"ab1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，非生物因素。阳光、温度、水等都会影响种群数量。",
+		"seconds": 6.84
+	},
+	"ab2": {
+		"key": "zh-CN-XiaoxiaoNeural|阳光：森林中林下植物的种群密度，主要取决于林冠层的郁闭度，也就是林下的光照强度。",
+		"seconds": 8.832
+	},
+	"ab3": {
+		"key": "zh-CN-XiaoxiaoNeural|温度：蚊类等昆虫在寒冷季节到来时一般会全部死亡。",
+		"seconds": 5.736
+	},
+	"ab4": {
+		"key": "zh-CN-XiaoxiaoNeural|水：干旱缺水会使许多植物种群的死亡率升高；但对东亚飞蝗来说，气候干旱正是种群爆发式增长的主要原因。",
+		"seconds": 10.824
+	},
+	"ab5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：非生物因素的影响往往是综合性的。春夏时节种群迅速增长，除了气温升高，日照延长、降水增多也是重要原因。",
+		"seconds": 12.264
+	},
+	"bi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，生物因素。分为种群内部和种群外部两类。",
+		"seconds": 5.856
+	},
+	"bi2": {
+		"key": "zh-CN-XiaoxiaoNeural|种群内部：随着种群密度增大，种内竞争加剧，从而使种群的增长受到限制。",
+		"seconds": 7.632
+	},
+	"bi3": {
+		"key": "zh-CN-XiaoxiaoNeural|种群外部：其他生物通过捕食、种间竞争、寄生等关系影响种群数量。",
+		"seconds": 7.248
+	},
+	"bi4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如，病原体和寄生虫的致病力和传播速度，会随着种群密度的增加而增加。",
+		"seconds": 7.584
+	},
+	"bi5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：种内竞争是种群内部的因素，不属于种间关系；捕食、竞争、寄生才是种间关系。",
+		"seconds": 9.144
+	},
+	"dn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，密度制约因素与非密度制约因素。",
+		"seconds": 4.68
+	},
+	"dn2": {
+		"key": "zh-CN-XiaoxiaoNeural|密度制约因素：对种群数量的作用强度与种群密度相关，一般是食物和天敌等生物因素。",
+		"seconds": 8.616
+	},
+	"dn3": {
+		"key": "zh-CN-XiaoxiaoNeural|非密度制约因素：作用强度与种群密度无关，比如气温、干旱等气候因素，以及地震、火灾等自然灾害。",
+		"seconds": 10.056
+	},
+	"dn4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如一场寒潮，不论种群密度大小，冻死的比例都差不多，所以属于非密度制约因素。",
+		"seconds": 7.848
+	},
+	"dn5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：问自己“种群越密，它的影响是不是越大？”是，就是密度制约；不是，就是非密度制约。",
+		"seconds": 9.744
+	},
+	"pd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，捕食者与被捕食者的数量变化。经典例子是北美的猞猁和雪兔。",
+		"seconds": 7.584
+	},
+	"pd2": {
+		"key": "zh-CN-XiaoxiaoNeural|雪兔增多，猞猁因食物充足而增多；猞猁增多，雪兔被大量捕食而减少。",
+		"seconds": 7.704
+	},
+	"pd3": {
+		"key": "zh-CN-XiaoxiaoNeural|雪兔减少，猞猁因食物不足而减少；猞猁减少，雪兔又会增多，两者呈现周期性波动。",
+		"seconds": 8.856
+	},
+	"pd4": {
+		"key": "zh-CN-XiaoxiaoNeural|在曲线上，被捕食者先增加先减少，捕食者后增加后减少。",
+		"seconds": 6.24
+	},
+	"pd5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先增先减的是被捕食者；一般来说，被捕食者的数量多于捕食者。这种调节属于负反馈。",
+		"seconds": 10.416
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，种群研究的应用之一：濒危动物的保护。",
+		"seconds": 4.872
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|先调查种群的数量、年龄结构和性别比例，分析影响它们数量变化的因素。",
+		"seconds": 7.416
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|例如大熊猫，主要威胁来自栖息地被破坏和碎片化，食物竹子开花枯死也会造成影响。",
+		"seconds": 8.448
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|措施：建立自然保护区、建设生态廊道连通栖息地，从根本上提高环境容纳量。",
+		"seconds": 7.944
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：保护措施要对准影响种群数量的关键因素；提高K值是保护濒危动物的根本措施。",
+		"seconds": 8.856
+	},
+	"ps1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，有害生物的防治和渔业资源的合理利用。",
+		"seconds": 4.944
+	},
+	"ps2": {
+		"key": "zh-CN-XiaoxiaoNeural|防治有害生物，要监测和预报种群数量的变化，在数量较少时及早防治。",
+		"seconds": 7.392
+	},
+	"ps3": {
+		"key": "zh-CN-XiaoxiaoNeural|引入天敌进行生物防治，或破坏它们的生存条件、降低环境容纳量，比如防治东亚飞蝗时兴修水利、改造飞蝗滋生地。",
+		"seconds": 11.832
+	},
+	"ps4": {
+		"key": "zh-CN-XiaoxiaoNeural|渔业上，要控制捕捞强度和网眼大小，捕捞后让种群数量保持在适当水平，让鱼群持续高产。",
+		"seconds": 9.48
+	},
+	"ps5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：网眼过小会捕捞大量幼鱼，使年龄结构变为衰退型，种群数量下降。答题要联系年龄结构和K值。",
+		"seconds": 10.68
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：林下植物的种群密度主要取决于光照？对。判断二：气温、干旱属于密度制约因素？错，属于非密度制约因素。",
+		"seconds": 13.128
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：食物和天敌属于密度制约因素？对。判断四：先增先减的是猞猁？错，是被捕食者雪兔。",
+		"seconds": 11.4
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：非生物因素的影响往往是综合性的？对。判断六：干旱年份东亚飞蝗数量往往下降？错，往往爆发。",
+		"seconds": 12.168
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：先增先减是猎物，气候灾害不制约。我们下期再见！",
+		"seconds": 7.632
+	}
+}

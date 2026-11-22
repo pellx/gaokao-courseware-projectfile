@@ -1,0 +1,123 @@
+{
+	"id": "HXD-17",
+	"title": "电解的应用与离子交换膜",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第17期 / 共20期",
+	"points": [
+		"氯碱工业",
+		"电镀",
+		"电解精炼铜",
+		"电冶金",
+		"离子交换膜",
+		"双极膜",
+		"膜两侧浓度变化",
+		"电解制备解题法"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"电解的应用",
+				true
+			],
+			[
+				"与离子交换膜"
+			]
+		],
+		"subtitle": "氯碱工业 · 电镀 · 精炼铜 · 交换膜 · 双极膜",
+		"photo": "castner.jpg",
+		"photoCaption": "卡斯特纳：发展了电解食盐水制烧碱的工业方法",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"电解的应用",
+					true
+				]
+			],
+			[
+				[
+					"与离子交换膜"
+				]
+			]
+		],
+		"photo": "castner.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "卡斯特纳",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "氯碱工业中 NaOH 在阳极区生成",
+				"ok": false,
+				"fix": "在阴极区生成"
+			},
+			{
+				"q": "电镀时镀件作阳极",
+				"ok": false,
+				"fix": "镀件作阴极，镀层金属作阳极"
+			},
+			{
+				"q": "电解精炼铜时，阳极减少的质量等于阴极增加的质量",
+				"ok": false,
+				"fix": "阳极还有其他金属溶解和阳极泥"
+			},
+			{
+				"q": "工业上电解熔融 Al2O3 冶炼铝",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "阳离子交换膜只允许阳离子通过",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "双极膜中 H^+ 移向阳极一侧",
+				"ok": false,
+				"fix": "H^+ 移向阴极一侧"
+			}
+		],
+		"endTitle": [
+			[
+				"电解的应用",
+				true
+			],
+			[
+				"与离子交换膜"
+			]
+		],
+		"endLine": "镀件放阴极，粗铜放阳极，膜只放一种离子",
+		"slogan": "镀件放阴极，粗铜放阳极，膜只放一种离子"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Hamilton Castner 1890s》，公有领域；插图来自 pixiv：Jess！、ドラクセルフ、jun.（侵删）",
+	"anime": [
+		{
+			"key": "gold",
+			"src": "gold.jpg",
+			"credit": "插图：Jess！《かわいい虹夏ちゃん》pixiv #142445933",
+			"url": "https://www.pixiv.net/artworks/142445933"
+		},
+		{
+			"key": "gate",
+			"src": "gate.jpg",
+			"credit": "插图：ドラクセルフ《若葉睦》pixiv #133404851",
+			"url": "https://www.pixiv.net/artworks/133404851"
+		},
+		{
+			"key": "dizzy",
+			"src": "dizzy.jpg",
+			"credit": "插图：jun.《平沢唯》pixiv #11315186",
+			"url": "https://www.pixiv.net/artworks/11315186"
+		}
+	]
+}

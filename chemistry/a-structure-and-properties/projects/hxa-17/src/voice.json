@@ -1,0 +1,178 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|配合物与超分子。",
+		"seconds": 2.256
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|结构大题常问配位原子和配位数，实验探究题会用配位平衡解释颜色变化和沉淀溶解，共八个考点。",
+		"seconds": 10.032
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，配位键。由一个原子单方面提供孤电子对，另一个原子提供空轨道，形成的共价键叫配位键，表示为 A 指向 B。",
+		"seconds": 11.856
+	},
+	"co1b": {
+		"key": "zh-CN-XiaoxiaoNeural|配位键就像喂饭：一方把勺子递过去（提供孤电子对），另一方张嘴接住（提供空轨道）。",
+		"seconds": 8.04
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如铵根：氨中氮的孤电子对给氢离子的空轨道；水合氢离子也是这样形成的。",
+		"seconds": 7.752
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|硫酸铜溶液是天蓝色，就是因为铜离子与水分子形成了四水合铜离子：水中的氧提供孤电子对，铜离子提供空轨道。",
+		"seconds": 11.28
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：配位键也是西格玛键，形成后与其他共价键没有区别：铵根中4个氮氢键完全相同。",
+		"seconds": 9.264
+	},
+	"pa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，配合物的组成，以硫酸四氨合铜为例。方括号里是内界，也叫配离子；方括号外的硫酸根是外界。",
+		"seconds": 10.512
+	},
+	"pa2": {
+		"key": "zh-CN-XiaoxiaoNeural|内界中：铜离子是中心离子，氨是配体，氨中的氮是配位原子，4是配位数。",
+		"seconds": 8.088
+	},
+	"pa3": {
+		"key": "zh-CN-XiaoxiaoNeural|外界的离子在水中能电离出来，内界的配体一般不能：一氯五氨合钴氯化物溶于水，只有外界的2个氯离子能与银离子生成氯化银沉淀。",
+		"seconds": 12.336
+	},
+	"pa4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：1摩尔该配合物与足量硝酸银溶液反应生成几摩尔氯化银，用来判断内界外界：答案是2摩尔。",
+		"seconds": 9.984
+	},
+	"dn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，配位原子的判断。配位原子要有孤电子对：氨中的氮、水中的氧、氯离子、氟离子。",
+		"seconds": 9.576
+	},
+	"dn2": {
+		"key": "zh-CN-XiaoxiaoNeural|氰根和一氧化碳中，碳和氮、碳和氧都有孤电子对，但配位原子是碳：碳的电负性较小，对孤电子对的吸引较弱，更容易给出去。",
+		"seconds": 12.312
+	},
+	"dn3": {
+		"key": "zh-CN-XiaoxiaoNeural|硫氰根与铁离子配位时，一般认为配位原子是硫。",
+		"seconds": 5.16
+	},
+	"dn4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：找配体中有孤电子对、电负性较小的原子；中心原子通常是过渡金属离子，提供空轨道。",
+		"seconds": 10.2
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，实验三之三。向硫酸铜溶液中滴加氨水，先生成蓝色沉淀氢氧化铜。",
+		"seconds": 8.448
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|继续滴加氨水，沉淀溶解，得到深蓝色透明溶液，生成了四氨合铜离子。",
+		"seconds": 7.272
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|再加入乙醇，析出深蓝色晶体一水合硫酸四氨合铜：乙醇极性较小，降低了配合物的溶解度。",
+		"seconds": 9.096
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：写沉淀溶解的离子方程式：氢氧化铜加4个氨生成四氨合铜离子和2个氢氧根；解释加乙醇析出晶体的原因。",
+		"seconds": 11.184
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，其他配合物实验。铁离子遇硫氰根，溶液变红色，生成硫氰合铁配离子，常用来检验铁离子。",
+		"seconds": 10.536
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化银沉淀能溶于氨水，生成二氨合银离子。",
+		"seconds": 4.776
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁氰化钾溶液中加硫氰化钾，不变红：铁离子被氰根牢牢配位在内界，几乎不电离出铁离子。",
+		"seconds": 9.24
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：配离子的性质和其中心离子的性质不同，铁氰化钾里有铁元素，却检验不出铁离子。",
+		"seconds": 8.808
+	},
+	"eq1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，配位平衡与配合物的转化。配离子在溶液中存在配位平衡，加入更强的配体，可以把原来的配体替换下来。",
+		"seconds": 11.232
+	},
+	"eq2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如向四水合铜离子的天蓝色溶液中加浓氨水，变成深蓝色：氨的配位能力比水强。",
+		"seconds": 8.664
+	},
+	"eq3": {
+		"key": "zh-CN-XiaoxiaoNeural|向红色的硫氰化铁溶液中加氟化钠，红色褪去：氟离子与铁离子生成更稳定的六氟合铁离子。",
+		"seconds": 9.168
+	},
+	"eq4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：由“谁能把谁替换下来”的现象，比较配位能力或配离子的稳定性；用勒夏特列原理解释颜色变化和沉淀溶解。",
+		"seconds": 11.448
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，超分子。由两种或两种以上的分子（含离子）通过分子间相互作用形成的分子聚集体，叫超分子。",
+		"seconds": 10.44
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|超分子的两个重要特征：分子识别和自组装。",
+		"seconds": 4.416
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|分子识别一：杯酚分离碳六十和碳七十：杯酚的空腔大小正好适合碳六十，形成超分子；碳七十进不去，从而把两者分开。",
+		"seconds": 12.24
+	},
+	"su3b": {
+		"key": "zh-CN-XiaoxiaoNeural|杯酚就像这只杯子：大小刚好的才能“泡”进去，太大的就进不来。",
+		"seconds": 6.168
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|分子识别二：冠醚识别碱金属离子：不同大小的冠醚空腔，正好容纳不同大小的碱金属离子，比如18冠6适合钾离子。",
+		"seconds": 11.712
+	},
+	"su5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：超分子靠的是分子间相互作用（不是共价键）；超分子定义中的“分子”包括离子。",
+		"seconds": 8.256
+	},
+	"nv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，新情境题。题目常给一个陌生配合物或超分子的结构图，问配位数、配位原子、作用力类型和杂化方式。",
+		"seconds": 11.904
+	},
+	"nv1b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像从纸箱里找出躲着的人：在一张陌生的结构图里，把配位原子一个个找出来。",
+		"seconds": 7.248
+	},
+	"nv2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步：找中心原子，数它连了几根配位键，就是配位数。",
+		"seconds": 5.88
+	},
+	"nv3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步：看每根配位键另一头的原子，就是配位原子，常见的是氮、氧、硫、碳。",
+		"seconds": 7.992
+	},
+	"nv4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步：结构图里的虚线可能是氢键，箭头通常是配位键，实线是普通共价键。",
+		"seconds": 8.136
+	},
+	"nv5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：中心、配位键、配位原子、其他作用力；多齿配体一个配体可提供几个配位原子，配位数要数配位原子，不数配体。",
+		"seconds": 12.432
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：配位键也是西格玛键？对。判断二：一氯五氨合钴氯化物每摩尔可得3摩尔氯化银？错，只有2摩尔。",
+		"seconds": 12
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氰根的配位原子是氮？错，是碳。判断四：硫酸铜中加过量氨水，先沉淀后溶解得深蓝色溶液？对。",
+		"seconds": 12.552
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：铁氰化钾中加硫氰化钾变红？错。判断六：杯酚分离碳六十和碳七十体现分子识别？对。",
+		"seconds": 11.976
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|一方给孤对，一方给空轨道，外界能电离，内界不电离，超分子靠分子识别。下一期：晶胞计算（上）。",
+		"seconds": 10.392
+	}
+}

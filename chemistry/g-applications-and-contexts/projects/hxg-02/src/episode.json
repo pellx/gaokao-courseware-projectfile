@@ -1,0 +1,128 @@
+{
+	"id": "HXG-02",
+	"title": "化学与 STSE（下）：传统文化与生活中的化学",
+	"subject": "chemistry",
+	"book": "综合应用与情境 · 第2期 / 共7期",
+	"points": [
+		"古籍中的变化",
+		"古籍中的实验操作",
+		"传统工艺",
+		"古籍中的物质",
+		"食品添加剂与消毒剂",
+		"药物、洗涤剂与化肥",
+		"常见陷阱"
+	],
+	"intro": {
+		"badge": "高考化学 · 综合应用与情境",
+		"title": [
+			[
+				"化学与 STSE（下）",
+				true
+			],
+			[
+				"：传统文化与生活中的化学"
+			]
+		],
+		"subtitle": "诗词古籍 · 传统工艺 · 生活中的化学",
+		"photo": "tiangong.jpg",
+		"photoCaption": "明代宋应星《天工开物》中的畜力磨",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化学与 STSE",
+					true
+				]
+			],
+			[
+				[
+					"（下）",
+					false
+				]
+			],
+			[
+				[
+					"传统文化与生活"
+				]
+			]
+		],
+		"photo": "tiangong.jpg",
+		"photoPos": {
+			"16x9": "center 60%",
+			"4x3": "center 60%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "天工开物",
+		"credit": "宋应星《天工开物》, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "“蜡炬成灰泪始干”只涉及物理变化",
+				"ok": false,
+				"fix": "燃烧是化学变化"
+			},
+			{
+				"q": "“蒸令气上”描述的是蒸馏",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "“熬胆矾铁釜，久之亦化为铜”发生了置换反应",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "医用酒精的浓度越高，消毒效果越好",
+				"ok": false,
+				"fix": "75% 效果最好"
+			},
+			{
+				"q": "可以用 BaCO3 作钡餐",
+				"ok": false,
+				"fix": "BaCO3 溶于胃酸，用 BaSO4"
+			},
+			{
+				"q": "焰色试验属于化学变化",
+				"ok": false,
+				"fix": "属于物理变化"
+			}
+		],
+		"endTitle": [
+			[
+				"化学与 STSE（下）",
+				true
+			],
+			[
+				"：传统文化与生活中的化学"
+			]
+		],
+		"endLine": "古诗文先翻译，再判断变化与原理",
+		"slogan": "古诗文先翻译，再判断变化与原理"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 宋应星《天工开物》插图（Mill - technology from the time of the Ming dynasty），公有领域；插图来自 pixiv：クロエス、獅子のん、c3-kagami（侵删）",
+	"anime": [
+		{
+			"key": "jump",
+			"src": "jump.jpg",
+			"credit": "插图：クロエス《あっかりあっかり》pixiv #32477705",
+			"url": "https://www.pixiv.net/artworks/32477705"
+		},
+		{
+			"key": "fox",
+			"src": "fox.jpg",
+			"credit": "插图：獅子のん《あかりす》pixiv #31034540",
+			"url": "https://www.pixiv.net/artworks/31034540"
+		},
+		{
+			"key": "akari",
+			"src": "akari.jpg",
+			"credit": "插图：c3-kagami《＼アッカリ～ン／》pixiv #24500429",
+			"url": "https://www.pixiv.net/artworks/24500429"
+		}
+	]
+}

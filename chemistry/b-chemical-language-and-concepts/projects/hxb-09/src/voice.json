@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|化学用语正误判断。",
+		"seconds": 2.304
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷第二题前后基本固定一道：电子式、示意图、核素符号、模型、结构简式，逐项挑错，共八个考点。",
+		"seconds": 10.704
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，题型：四个选项分别是四种不同的化学用语，问“下列化学用语或图示表达正确的是”或“不正确的是”。",
+		"seconds": 10.128
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见组合：电子式、原子或离子结构示意图、核素符号、球棍或空间填充模型、价层电子排布、VSEPR 模型、结构简式。",
+		"seconds": 12.408
+	},
+	"ty2b": {
+		"key": "zh-CN-XiaoxiaoNeural|左右两张几乎一样的图，找不同：化学用语题就是这样，错误往往只差一个点、一个角标。",
+		"seconds": 8.208
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：每个选项先认出是哪种用语，再按这种用语的固定规则逐条核对，不凭感觉。",
+		"seconds": 8.688
+	},
+	"le1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电子式的高频错误。离子化合物：阴离子和复杂阳离子要加方括号并标电荷，阳离子写离子符号。",
+		"seconds": 11.184
+	},
+	"le2": {
+		"key": "zh-CN-XiaoxiaoNeural|过氧化钠：两个钠离子分在两边，中间是过氧根，两个氧之间共用一对电子。",
+		"seconds": 7.488
+	},
+	"le3": {
+		"key": "zh-CN-XiaoxiaoNeural|次氯酸：氧在中间，氢和氯都连在氧上。写成氢、氯、氧的顺序就错了。",
+		"seconds": 7.8
+	},
+	"le4": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳中碳和每个氧共用两对电子；氮气两个氮共用三对，每个氮还有一对孤电子。",
+		"seconds": 8.328
+	},
+	"le5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：四氯化碳、氨气、氮气最常漏写孤电子对；氯化铵中的氯离子也要写出8个电子和方括号。",
+		"seconds": 9.672
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，用电子式表示形成过程。左边写原子的电子式，中间用箭头，不能用等号。",
+		"seconds": 8.592
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|离子化合物：要用弯箭头表示电子从金属原子转移到非金属原子，右边写离子。",
+		"seconds": 8.136
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|共价化合物：不画弯箭头，右边写共用电子对，没有方括号和电荷。",
+		"seconds": 6.648
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：把氯化氢的形成过程画上弯箭头、加上方括号，就是把共价化合物写成了离子化合物。",
+		"seconds": 9.096
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，结构示意图。圆圈里写核电荷数，带正号；弧线上写各层电子数。",
+		"seconds": 8.304
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯原子：正17，2、8、7；氯离子：正17，2、8、8。核电荷数不变，变的是最外层电子数。",
+		"seconds": 11.184
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|钠离子：正11，2、8；硫离子：正16，2、8、8。",
+		"seconds": 6.84
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：把氯离子的圆圈里写成正18，是把电子数当成了质子数。",
+		"seconds": 6.696
+	},
+	"nu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，核素符号：元素符号左上角是质量数，左下角是质子数。",
+		"seconds": 6.768
+	},
+	"nu2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：中子数为10的氧原子，质子数8，质量数8加10等于18，写作左上18、左下8的氧。",
+		"seconds": 9.264
+	},
+	"nu3": {
+		"key": "zh-CN-XiaoxiaoNeural|中子数为20的氯原子：质量数17加20等于37。",
+		"seconds": 5.904
+	},
+	"nu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：题目给的是中子数，要先加上质子数得到质量数，不能直接写在左上角。",
+		"seconds": 8.016
+	},
+	"mo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，球棍模型与空间填充模型。看两点：原子的相对大小和分子的空间结构。",
+		"seconds": 8.856
+	},
+	"mo2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳：直线形，碳原子比氧原子大，图里碳画得比氧小就错了。",
+		"seconds": 6.84
+	},
+	"mo3": {
+		"key": "zh-CN-XiaoxiaoNeural|甲烷：正四面体，碳比氢大；水：V形，氧比氢大；四氯化碳：氯比碳大，这是常见陷阱。",
+		"seconds": 9.672
+	},
+	"mo3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿着写满字的T恤的女孩在喊考试：模型题看大小、看形状，两样都对才选。",
+		"seconds": 7.824
+	},
+	"mo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先用 VSEPR 判断形状，再用原子半径判断谁大，两样都核对。",
+		"seconds": 7.32
+	},
+	"or1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，价层电子排布、轨道表示式与 VSEPR 模型，选必二已经详讲，这里只列判断要点。",
+		"seconds": 9.096
+	},
+	"or2": {
+		"key": "zh-CN-XiaoxiaoNeural|价层电子排布：主族只写最外层，过渡元素写3d和4s：铁是3d6 4s2，铬是3d5 4s1。",
+		"seconds": 10.44
+	},
+	"or3": {
+		"key": "zh-CN-XiaoxiaoNeural|轨道表示式：同一轨道两个电子自旋相反；简并轨道电子先分占、自旋平行，违背洪特规则就错。",
+		"seconds": 9.672
+	},
+	"or4": {
+		"key": "zh-CN-XiaoxiaoNeural|VSEPR模型包括孤电子对：水的VSEPR模型是四面体形，分子空间结构才是V形。",
+		"seconds": 8.544
+	},
+	"or5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：把“VSEPR模型”和“空间结构”混用，是这类选项最常见的陷阱。",
+		"seconds": 6.528
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，结构式、结构简式与键线式。结构简式里官能团不能省略：乙烯写CH2等于CH2，不能写CH2CH2。",
+		"seconds": 12.384
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|醛基写C H O，不能写成C O H；羧基写C O O H。乙醛是C H3 C H O。",
+		"seconds": 8.784
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|分子式、最简式、结构简式要分清：乙醇的分子式是C2H6O，结构简式是C2H5OH或CH3C水H。",
+		"seconds": 11.592
+	},
+	"st3b": {
+		"key": "zh-CN-XiaoxiaoNeural|张开双臂的短发女孩：写对了！结构简式的标准就一条，官能团要看得出来。",
+		"seconds": 7.608
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：题目问“结构简式”给了分子式，或问“分子式”给了结构简式，都算错。",
+		"seconds": 7.296
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：过氧化钠电子式中两个氧共用一对电子？对。判断二：次氯酸的结构式是氢、氯、氧？错，氧在中间。",
+		"seconds": 12.672
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氯化氢的形成过程画弯箭头？错，共价化合物不画。判断四：中子数为10的氧原子质量数为18？对。",
+		"seconds": 12.552
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：二氧化碳空间填充模型中碳比氧小？错，碳比氧大。判断六：乙醛写成C H3 C O H？错，应为C H3 C H O。",
+		"seconds": 14.52
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先认是哪种用语，再按规则逐条核对。下一期：方程式与事实相符吗。",
+		"seconds": 7.536
+	}
+}

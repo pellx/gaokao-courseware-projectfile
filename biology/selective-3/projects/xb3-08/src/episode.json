@@ -1,0 +1,38 @@
+{
+	"id": "XB3-08",
+	"title": "动物细胞工程（二）：动物细胞融合与单克隆抗体",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第2章",
+	"points": ["动物细胞融合", "与植物杂交比较", "单抗的制备流程", "两次筛选", "杂交瘤细胞", "单抗的优点与应用", "B细胞的来源"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["细胞融合与"], ["单克隆抗体", true]],
+		"subtitle": "动物细胞工程（二） · 杂交瘤细胞 · 两次筛选",
+		"photo": "hybridoma.jpg",
+		"photoCaption": "培养中的杂交瘤细胞（相差显微镜）",
+		"photoPos": "center 70%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞融合与"]], [["单克隆抗体", true]]],
+		"kicker": "杂交瘤细胞 · 两次筛选 · ADC",
+		"photo": "hybridoma.jpg",
+		"photoPos": "center 70%",
+		"photoTag": "杂交瘤细胞",
+		"credit": "Photo: GerryShaw, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "灭活病毒可诱导植物原生质体融合", "ok": false, "fix": "灭活病毒只用于诱导动物细胞融合"},
+			{"q": "动物细胞融合能形成杂种个体", "ok": false, "fix": "一般只得到杂交细胞，不能形成个体"},
+			{"q": "第一次筛选用特定的选择培养基", "ok": true, "fix": ""},
+			{"q": "选择培养基上存活的细胞都能产生所需抗体", "ok": false, "fix": "还需克隆化培养和抗体检测"},
+			{"q": "单克隆抗体特异性强、灵敏度高", "ok": true, "fix": ""},
+			{"q": "B淋巴细胞要从免疫过的小鼠脾中获取", "ok": true, "fix": ""}
+		],
+		"endTitle": [["细胞融合与"], ["单克隆抗体", true]],
+		"endLine": "细胞融合 · 制备流程 · 两次筛选 · 杂交瘤细胞 · 应用",
+		"slogan": "先免疫再融合，两次筛选得单抗！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— GerryShaw《Hybridoma cells grown in tissue culture》CC BY-SA 3.0"
+}

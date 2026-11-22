@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|绿色化学与环境保护。",
+		"seconds": 2.664
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题判断说法，原理大题常以碳中和为背景，共七个考点。",
+		"seconds": 6.216
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，绿色化学的核心：利用化学原理从源头上减少或消除工业生产对环境的污染。",
+		"seconds": 8.712
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|关键词是“源头”：先污染后治理不是绿色化学；末端治理只是环境保护措施。",
+		"seconds": 7.728
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|具体做法：使用无毒原料、催化剂、溶剂，比如用水或超临界二氧化碳代替有机溶剂，提高原子利用率。",
+		"seconds": 10.416
+	},
+	"co3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿绿色外套的金发女孩比着剪刀手笑：绿色化学不是“污染了再收拾”，而是一开始就不产生污染。",
+		"seconds": 9.12
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“对废水进行处理后排放”是环境保护，不是绿色化学的核心。",
+		"seconds": 6.672
+	},
+	"at1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，原子经济性：反应物中的原子全部转化为期望的产物。",
+		"seconds": 6.288
+	},
+	"at2": {
+		"key": "zh-CN-XiaoxiaoNeural|原子利用率等于期望产物的总质量除以生成物的总质量，乘百分之百。",
+		"seconds": 6.624
+	},
+	"at3": {
+		"key": "zh-CN-XiaoxiaoNeural|原子利用率为 100% 的反应：化合反应、加成反应、加聚反应。取代、消去、缩聚都有副产物，达不到 100%。",
+		"seconds": 11.952
+	},
+	"at4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：比如乙烯与氧气在银催化下生成环氧乙烷，原子利用率百分之百，比用氯醇法更绿色。",
+		"seconds": 9.312
+	},
+	"ai1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，大气污染。酸雨：pH小于5.6，主要由二氧化硫和氮氧化物引起；硫酸型酸雨久置pH减小，亚硫酸被氧化成硫酸。",
+		"seconds": 13.224
+	},
+	"ai2": {
+		"key": "zh-CN-XiaoxiaoNeural|光化学烟雾：氮氧化物和碳氢化合物在光照下反应。臭氧层破坏：氟氯代烷，也就是氟利昂。",
+		"seconds": 9.648
+	},
+	"ai3": {
+		"key": "zh-CN-XiaoxiaoNeural|雾霾：PM2.5等颗粒物；温室效应：二氧化碳、甲烷，二氧化碳不是大气污染物，但会引起温室效应。",
+		"seconds": 10.776
+	},
+	"ai4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：正常雨水因溶有二氧化碳，pH约为5.6，pH小于7的雨不一定是酸雨。",
+		"seconds": 8.424
+	},
+	"wa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，废水处理方法。中和法：酸性废水加熟石灰，碱性废水加酸。",
+		"seconds": 7.872
+	},
+	"wa2": {
+		"key": "zh-CN-XiaoxiaoNeural|沉淀法：用硫化钠除去铜离子、汞离子等重金属离子；氧化还原法：用还原剂把重铬酸根还原成铬离子，再沉淀。",
+		"seconds": 10.992
+	},
+	"wa3": {
+		"key": "zh-CN-XiaoxiaoNeural|混凝法：明矾、氯化铁水解生成胶体，吸附悬浮物。水体富营养化：含氮、磷的废水排放，引起水华、赤潮。",
+		"seconds": 11.736
+	},
+	"wa3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩和小个子银发女孩手拉着手：处理废水要对症下药，酸碱用中和，重金属用沉淀，悬浮物用混凝。",
+		"seconds": 10.704
+	},
+	"wa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：明矾能净水但不能消毒杀菌；消毒要用二氧化氯、次氯酸钠等氧化剂。",
+		"seconds": 8.064
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，碳达峰、碳中和：二氧化碳的排放量与吸收量相等，净排放为零。",
+		"seconds": 7.776
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳资源化利用：与氢气反应合成甲醇，二氧化碳加三个氢气可逆生成甲醇和水；合成淀粉；与环氧化物合成可降解塑料。",
+		"seconds": 12.888
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|减少排放：开发新能源、提高能源利用率；捕集封存二氧化碳。",
+		"seconds": 6.648
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：原理大题常以二氧化碳加氢制甲醇为情境，考盖斯定律、平衡、选择性。",
+		"seconds": 8.232
+	},
+	"ds1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，燃煤脱硫：加入石灰石，两个碳酸钙加两个二氧化硫加氧气，生成两个硫酸钙和两个二氧化碳，生成石膏。",
+		"seconds": 11.448
+	},
+	"ds2": {
+		"key": "zh-CN-XiaoxiaoNeural|氨法脱硫：用氨水吸收二氧化硫，生成亚硫酸铵，再氧化成化肥硫酸铵。",
+		"seconds": 7.392
+	},
+	"ds3": {
+		"key": "zh-CN-XiaoxiaoNeural|脱硝：选择性催化还原，用氨把一氧化氮还原成氮气：四个氨加四个一氧化氮加氧气，生成四个氮气和六个水。汽车尾气用三元催化把一氧化碳和一氧化氮转化为二氧化碳和氮气。",
+		"seconds": 18.192
+	},
+	"ds3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩用水彩画的样子安静地笑：脱硫脱硝，就是把污染物变成无害或有用的东西。",
+		"seconds": 8.4
+	},
+	"ds4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：脱硫后煤燃烧仍会产生二氧化碳，脱硫不能减少温室气体排放。",
+		"seconds": 7.296
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，白色污染：难降解的塑料废弃物造成的污染。",
+		"seconds": 5.64
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|治理：减少使用、回收利用，使用可降解塑料（聚乳酸、聚羟基脂肪酸酯），含酯基，能水解。",
+		"seconds": 9.48
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|焚烧塑料会产生有毒气体，比如含氯塑料产生氯化氢，不是好的处理方法。",
+		"seconds": 7.392
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断能否降解，看主链上有没有酯基、酰胺基等能水解的结构；聚乙烯、聚氯乙烯难降解。",
+		"seconds": 9.888
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：先污染后治理是绿色化学？错。判断二：加成、加聚原子利用率百分之百？对。",
+		"seconds": 10.632
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：pH小于7就是酸雨？错，小于5.6。判断四：二氧化碳是大气污染物？错。",
+		"seconds": 10.608
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：明矾能净水又能消毒？错。判断六：聚乳酸能降解？对。",
+		"seconds": 8.52
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|源头减污染，加成加聚百分百。下一期：新能源与新型电化学装置。",
+		"seconds": 7.464
+	}
+}

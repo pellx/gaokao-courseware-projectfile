@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第二章第一节——神经调节的结构基础。",
+		"seconds": 8.208
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一节高考常考脑的结构与功能定位、自主神经系统，以及神经元的结构。",
+		"seconds": 7.104
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"cs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，中枢神经系统，包括脑和脊髓。脑又包括大脑、小脑、脑干和下丘脑等。",
+		"seconds": 8.808
+	},
+	"cs2": {
+		"key": "zh-CN-XiaoxiaoNeural|大脑表面是大脑皮层，是调节机体活动的最高级中枢。",
+		"seconds": 5.424
+	},
+	"cs3": {
+		"key": "zh-CN-XiaoxiaoNeural|小脑位于大脑的后下方，能够协调运动、维持身体平衡。",
+		"seconds": 5.616
+	},
+	"cs4": {
+		"key": "zh-CN-XiaoxiaoNeural|脑干连接脊髓和脑的其他部分，有许多维持生命的必要中枢，比如调节呼吸和心脏功能的基本活动中枢。",
+		"seconds": 9.648
+	},
+	"cs5": {
+		"key": "zh-CN-XiaoxiaoNeural|下丘脑有体温调节中枢和水平衡调节中枢，还与生物节律的控制有关。",
+		"seconds": 7.128
+	},
+	"cs6": {
+		"key": "zh-CN-XiaoxiaoNeural|脊髓是脑与躯干、内脏之间的联系通路，是调节运动的低级中枢。",
+		"seconds": 6.312
+	},
+	"cs7": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：根据症状定位。喝醉后走路不稳，是小脑受影响；呼吸、心跳停止，是脑干受损；体温、水盐失衡，看下丘脑。",
+		"seconds": 12.48
+	},
+	"ps1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，外周神经系统。",
+		"seconds": 2.952
+	},
+	"ps2": {
+		"key": "zh-CN-XiaoxiaoNeural|按解剖位置，外周神经系统包括与脑相连的脑神经，共十二对，主要分布在头面部；以及与脊髓相连的脊神经，共三十一对，主要分布在躯干和四肢。",
+		"seconds": 14.016
+	},
+	"ps3": {
+		"key": "zh-CN-XiaoxiaoNeural|注意，脑神经和脊神经中，都有支配内脏器官的神经。",
+		"seconds": 5.304
+	},
+	"ps4": {
+		"key": "zh-CN-XiaoxiaoNeural|按功能，外周神经分为传入神经，也叫感觉神经；以及传出神经，也叫运动神经。",
+		"seconds": 8.16
+	},
+	"ps5": {
+		"key": "zh-CN-XiaoxiaoNeural|传出神经又分为支配躯体运动的躯体运动神经，和支配内脏、血管、腺体的内脏运动神经。",
+		"seconds": 8.856
+	},
+	"ps6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：脑神经和脊神经都属于外周神经系统，不属于中枢神经系统。",
+		"seconds": 6.888
+	},
+	"au1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，自主神经系统。支配内脏、血管和腺体的传出神经，它们的活动不受意识支配，称为自主神经系统。",
+		"seconds": 10.968
+	},
+	"au2": {
+		"key": "zh-CN-XiaoxiaoNeural|它由交感神经和副交感神经两部分组成。",
+		"seconds": 4.152
+	},
+	"au3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：自主神经系统只包括传出神经，不包括传入神经；它的活动不受意识支配，所以我们无法随意让心跳变慢。",
+		"seconds": 11.304
+	},
+	"du1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，交感神经和副交感神经对同一器官的作用，通常是相反的。",
+		"seconds": 6.84
+	},
+	"du2": {
+		"key": "zh-CN-XiaoxiaoNeural|交感神经使瞳孔扩张、心跳加快、支气管扩张，胃肠蠕动减弱；副交感神经则使瞳孔收缩、心跳减慢、支气管收缩，胃肠蠕动加强。",
+		"seconds": 13.44
+	},
+	"du3": {
+		"key": "zh-CN-XiaoxiaoNeural|人处于兴奋状态时，交感神经活动占优势；处于安静状态时，副交感神经活动占优势，有利于食物的消化和营养物质的吸收。",
+		"seconds": 11.976
+	},
+	"du4": {
+		"key": "zh-CN-XiaoxiaoNeural|这样的双重支配，可以使机体对外界刺激作出更精确的反应，更好地适应环境的变化。",
+		"seconds": 7.896
+	},
+	"du5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：考试时紧张，心跳加快、食欲下降，是交感神经活动占优势；饭后安静休息，有利于消化，是副交感神经活动占优势。",
+		"seconds": 12.576
+	},
+	"nr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，神经元。神经元是神经系统结构与功能的基本单位，由细胞体、树突和轴突等部分构成。",
+		"seconds": 10.056
+	},
+	"nr2": {
+		"key": "zh-CN-XiaoxiaoNeural|树突通常短而粗，数量多，用来接受信息并将其传导到细胞体。",
+		"seconds": 6.672
+	},
+	"nr3": {
+		"key": "zh-CN-XiaoxiaoNeural|右边是西班牙科学家卡哈尔手绘的小脑浦肯野细胞，可以看到大量分支状的树突。",
+		"seconds": 7.536
+	},
+	"nr4": {
+		"key": "zh-CN-XiaoxiaoNeural|轴突长而较细，将信息从细胞体传向其他神经元、肌肉或腺体。",
+		"seconds": 6.696
+	},
+	"nr5": {
+		"key": "zh-CN-XiaoxiaoNeural|树突和轴突末端的细小分支，叫作神经末梢。",
+		"seconds": 4.728
+	},
+	"nr6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：信息在一个神经元内的传递方向，一般是树突到细胞体，再到轴突。",
+		"seconds": 7.32
+	},
+	"gl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，神经胶质细胞。它广泛分布于神经元之间，数量是神经元的十到五十倍。",
+		"seconds": 8.232
+	},
+	"gl2": {
+		"key": "zh-CN-XiaoxiaoNeural|神经胶质细胞对神经元起辅助作用，具有支持、保护、营养和修复神经元等多种功能。在外周神经系统中，它还参与构成神经纤维表面的髓鞘。",
+		"seconds": 14.232
+	},
+	"gl3": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，神经纤维与神经的区别。轴突呈纤维状，外表大都套有一层髓鞘，构成神经纤维。",
+		"seconds": 9.552
+	},
+	"gl4": {
+		"key": "zh-CN-XiaoxiaoNeural|许多神经纤维集结成束，外面包有一层包膜，就构成一条神经。",
+		"seconds": 6.36
+	},
+	"gl5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：神经元、神经纤维、神经是三个层次。一个神经元一般只有一条轴突，而一条神经里有许多条神经纤维。",
+		"seconds": 11.232
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|脑神经和脊神经属于中枢神经系统？错，属于外周神经系统。自主神经系统包括传入神经和传出神经？错，只包括传出神经。",
+		"seconds": 13.632
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|交感神经兴奋使胃肠蠕动加强？错，是减弱。呼吸中枢位于脑干？对。",
+		"seconds": 8.736
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|神经胶质细胞的数量比神经元少？错，是神经元的十到五十倍。神经元是神经系统结构与功能的基本单位？对。",
+		"seconds": 11.856
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串起来：先分清中枢和外周，再掌握自主神经的双重支配，最后认识神经元和神经胶质细胞。掌握这些，这一节就能稳稳拿分！我们下期再见！",
+		"seconds": 14.784
+	}
+}

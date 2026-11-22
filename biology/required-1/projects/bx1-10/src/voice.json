@@ -1,0 +1,126 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第三章第二节的下半部分——细胞器之间的协调配合和细胞的生物膜系统。",
+		"seconds": 10.368
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考分泌蛋白的合成和运输途径，以及放射性出现的顺序和膜面积的变化。",
+		"seconds": 7.8
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分泌蛋白。在细胞内合成后，分泌到细胞外起作用的蛋白质，叫作分泌蛋白。",
+		"seconds": 8.784
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见的有消化酶、抗体和一部分激素，比如胰岛素。",
+		"seconds": 5.28
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：血红蛋白、呼吸酶在细胞内起作用，不是分泌蛋白；性激素是固醇，也不是。",
+		"seconds": 8.568
+	},
+	"lb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，研究方法——同位素标记法。科学家向豚鼠的胰腺腺泡细胞中注射氚标记的亮氨酸。",
+		"seconds": 9.264
+	},
+	"lb2": {
+		"key": "zh-CN-XiaoxiaoNeural|然后追踪放射性依次出现的位置，就知道了分泌蛋白合成和运输的途径。",
+		"seconds": 7.152
+	},
+	"lb3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：标记的是亮氨酸——蛋白质的原料；如果标记胸腺嘧啶或尿嘧啶，追踪的就是DNA或RNA的合成了。",
+		"seconds": 10.656
+	},
+	"ro1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，分泌蛋白的合成和运输。先在游离的核糖体上合成一段肽链，再与核糖体一起转移到粗面内质网上继续合成。",
+		"seconds": 11.832
+	},
+	"ro2": {
+		"key": "zh-CN-XiaoxiaoNeural|肽链在内质网腔内加工、折叠，形成有一定空间结构的蛋白质，再由囊泡包裹着运到高尔基体。",
+		"seconds": 9.168
+	},
+	"ro3": {
+		"key": "zh-CN-XiaoxiaoNeural|高尔基体对蛋白质做进一步的修饰加工，再由囊泡运到细胞膜，与细胞膜融合，把蛋白质分泌到细胞外。",
+		"seconds": 9.672
+	},
+	"ro4": {
+		"key": "zh-CN-XiaoxiaoNeural|整个过程需要的能量，主要来自线粒体。",
+		"seconds": 3.912
+	},
+	"ro5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：记住路线——核糖体、内质网、高尔基体、细胞膜，线粒体全程供能。",
+		"seconds": 8.064
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，放射性和膜面积的变化。放射性依次出现在附着有核糖体的内质网、高尔基体、靠近细胞膜的囊泡，最后到细胞外。",
+		"seconds": 12.24
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|膜面积：内质网膜减少，高尔基体膜先增加后减少、基本不变，细胞膜增加。",
+		"seconds": 7.776
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看柱形图，减少的是内质网，前后不变的是高尔基体，增加的是细胞膜。",
+		"seconds": 8.208
+	},
+	"sy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，细胞的生物膜系统。细胞膜、核膜和细胞器膜等结构，共同构成细胞的生物膜系统。",
+		"seconds": 9.456
+	},
+	"sy2": {
+		"key": "zh-CN-XiaoxiaoNeural|这些生物膜的组成成分和结构很相似，在结构和功能上紧密联系。",
+		"seconds": 6.456
+	},
+	"sy3": {
+		"key": "zh-CN-XiaoxiaoNeural|功能一，使细胞具有相对稳定的内部环境，在物质运输、能量转化和信息传递中起决定性作用。",
+		"seconds": 9.312
+	},
+	"sy4": {
+		"key": "zh-CN-XiaoxiaoNeural|功能二，广阔的膜面积为多种酶提供了附着位点；功能三，把细胞器分隔开，使多种化学反应同时进行而互不干扰。",
+		"seconds": 11.4
+	},
+	"sy5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：生物膜系统指细胞内的膜，小肠黏膜不属于；原核细胞只有细胞膜，没有生物膜系统。",
+		"seconds": 8.88
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，易错辨析。分泌蛋白通过胞吐出细胞，穿过的膜是零层。",
+		"seconds": 7.008
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|囊泡与膜融合，体现了生物膜的流动性，也说明不同生物膜之间可以相互转化。",
+		"seconds": 7.632
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|内质网膜可以直接与核膜、细胞膜相连；与高尔基体膜则通过囊泡间接联系。",
+		"seconds": 7.704
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：问“穿过几层膜”，凡是囊泡运输、胞吞和胞吐，都答零层。",
+		"seconds": 6.912
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，它们在细胞内起作用。判断二？对。",
+		"seconds": 6.48
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，先在游离的核糖体上合成。判断四？错，高尔基体膜面积基本不变。",
+		"seconds": 9.6
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，生物膜系统指细胞内的膜。判断六？对。",
+		"seconds": 7.008
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：核糖体、内质网、高尔基体、细胞膜，线粒体供能。我们下期再见！",
+		"seconds": 9.264
+	}
+}

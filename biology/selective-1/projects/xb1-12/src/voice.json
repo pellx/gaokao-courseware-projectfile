@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第三章第三节——体液调节与神经调节的关系。",
+		"seconds": 9.144
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一节是第三章的综合，高考常考两种调节的比较、体温调节和水盐平衡调节，还常出曲线题。",
+		"seconds": 9.432
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按十个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，体液调节。激素等化学物质，通过体液传送的方式对生命活动进行调节，叫作体液调节。",
+		"seconds": 10.008
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|激素调节是体液调节的主要内容；除了激素，组胺、某些气体分子，以及二氧化碳等代谢产物，也能参与体液调节。",
+		"seconds": 11.04
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：血液中二氧化碳浓度升高，会刺激呼吸中枢，使呼吸加深加快。所以给病人输氧时，常混入百分之五左右的二氧化碳。",
+		"seconds": 12.48
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，体液调节和神经调节的比较，从四个方面看。",
+		"seconds": 5.304
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|作用途径：神经调节通过反射弧，体液调节通过体液运输。",
+		"seconds": 6.24
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|反应速度：神经调节迅速，体液调节较缓慢。",
+		"seconds": 4.872
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|作用范围：神经调节准确、比较局限，体液调节较广泛；作用时间：神经调节短暂，体液调节比较长。",
+		"seconds": 10.416
+	},
+	"cp5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：题目描述“反应快、时间短”，是神经调节；“反应慢、范围广、持续时间长”，是体液调节。",
+		"seconds": 9.504
+	},
+	"rl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，二者的联系。一方面，不少内分泌腺直接或间接地受中枢神经系统的调节，这时体液调节可以看作神经调节的一个环节。",
+		"seconds": 12.648
+	},
+	"rl2": {
+		"key": "zh-CN-XiaoxiaoNeural|另一方面，激素也能影响神经系统的发育和功能。比如幼年缺乏甲状腺激素，会影响脑的发育；成年时甲状腺激素不足，神经系统的兴奋性会降低。",
+		"seconds": 14.496
+	},
+	"rl3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：动物的生命活动，通常是神经调节和体液调节共同作用的结果。",
+		"seconds": 7.032
+	},
+	"cd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，体温调节。体温相对稳定，是因为产热量等于散热量。",
+		"seconds": 6.744
+	},
+	"cd2": {
+		"key": "zh-CN-XiaoxiaoNeural|寒冷时，皮肤的冷觉感受器兴奋，兴奋传到下丘脑的体温调节中枢。",
+		"seconds": 6.864
+	},
+	"cd3": {
+		"key": "zh-CN-XiaoxiaoNeural|一方面减少散热：皮肤血管收缩，汗腺分泌减少；另一方面增加产热：骨骼肌战栗，甲状腺激素和肾上腺素分泌增多，细胞代谢增强。",
+		"seconds": 13.392
+	},
+	"cd4": {
+		"key": "zh-CN-XiaoxiaoNeural|同时，兴奋传到大脑皮层产生冷觉，人会主动添加衣物。",
+		"seconds": 5.904
+	},
+	"cd5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：寒冷环境中体温依然稳定，产热和散热都比炎热时多，二者仍然相等。",
+		"seconds": 7.92
+	},
+	"ht1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，炎热环境。皮肤的热觉感受器兴奋，经下丘脑体温调节中枢，使皮肤血管舒张、汗腺分泌增加，散热增加。",
+		"seconds": 12.096
+	},
+	"ht2": {
+		"key": "zh-CN-XiaoxiaoNeural|炎热时增加散热，主要靠汗液蒸发。",
+		"seconds": 3.888
+	},
+	"ht3": {
+		"key": "zh-CN-XiaoxiaoNeural|人体的热量来自细胞代谢：安静时主要来自肝脏等器官，运动时主要来自骨骼肌。",
+		"seconds": 8.232
+	},
+	"ht4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：体温调节中枢在下丘脑，而冷觉、热觉在大脑皮层形成。",
+		"seconds": 7.032
+	},
+	"wt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，水盐平衡调节。饮水不足、失水过多或吃的食物过咸时，细胞外液渗透压升高。",
+		"seconds": 9.456
+	},
+	"wt2": {
+		"key": "zh-CN-XiaoxiaoNeural|下丘脑中的渗透压感受器受到刺激，一方面把兴奋传到大脑皮层，产生渴觉，人主动饮水；",
+		"seconds": 9.168
+	},
+	"wt3": {
+		"key": "zh-CN-XiaoxiaoNeural|另一方面，由下丘脑合成、分泌，再由垂体释放的抗利尿激素增加。",
+		"seconds": 6.816
+	},
+	"wt4": {
+		"key": "zh-CN-XiaoxiaoNeural|抗利尿激素促进肾小管和集合管对水的重吸收，尿量减少，细胞外液渗透压随之降低。",
+		"seconds": 8.856
+	},
+	"wt5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：抗利尿激素由下丘脑合成，垂体只是释放，不要说成“垂体合成”。",
+		"seconds": 7.392
+	},
+	"al1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，醛固酮。当细胞外液量减少，或者血钠含量降低时，肾上腺皮质分泌醛固酮增加。",
+		"seconds": 9.696
+	},
+	"al2": {
+		"key": "zh-CN-XiaoxiaoNeural|醛固酮促进肾小管和集合管对钠离子的重吸收，维持血钠含量的平衡；血钾含量升高时，醛固酮还能促进钾离子的排出。",
+		"seconds": 11.832
+	},
+	"al3": {
+		"key": "zh-CN-XiaoxiaoNeural|记忆方法：醛固酮“保钠排钾”。注意它由肾上腺皮质分泌，不是肾上腺髓质。",
+		"seconds": 7.632
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，下丘脑在稳态调节中的作用，可以概括为四个方面。",
+		"seconds": 5.832
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|一是感受：有渗透压感受器；二是传导：把渗透压感受器产生的兴奋传到大脑皮层；",
+		"seconds": 8.64
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|三是分泌：分泌抗利尿激素和多种促激素释放激素；四是调节中枢：有体温调节中枢、水平衡调节中枢和血糖调节中枢。",
+		"seconds": 12.6
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：题目问“下丘脑的作用”，就从感受、传导、分泌、调节这四个方面去找。",
+		"seconds": 7.8
+	},
+	"uc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，曲线题。一次饮用大量清水后，细胞外液渗透压降低，抗利尿激素分泌减少，尿量增加，大约一小时后达到高峰，然后逐渐恢复。",
+		"seconds": 13.848
+	},
+	"uc2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果饮用的是等量的生理盐水，渗透压基本不变，尿量变化不大。",
+		"seconds": 6.216
+	},
+	"uc3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：抗利尿激素和尿量的曲线变化相反：激素多，尿就少；激素少，尿就多。",
+		"seconds": 8.832
+	},
+	"fv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点十，例题：发热时，体温的变化可以分为三个阶段。",
+		"seconds": 5.808
+	},
+	"fv2": {
+		"key": "zh-CN-XiaoxiaoNeural|体温上升期：产热量大于散热量，病人常感到冷、打寒战。",
+		"seconds": 6.024
+	},
+	"fv3": {
+		"key": "zh-CN-XiaoxiaoNeural|高温持续期：体温维持在较高水平，产热量等于散热量。",
+		"seconds": 5.952
+	},
+	"fv4": {
+		"key": "zh-CN-XiaoxiaoNeural|体温下降期：产热量小于散热量，病人大量出汗，皮肤血管舒张。",
+		"seconds": 6.744
+	},
+	"fv5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：体温升高，产热大于散热；体温稳定，二者相等；体温下降，产热小于散热。只要体温稳定，无论高低，产热都等于散热。",
+		"seconds": 13.344
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|体液调节就是激素调节？错，还包括二氧化碳等其他化学物质的调节。神经调节反应迅速，作用范围准确、比较局限？对。",
+		"seconds": 13.176
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|寒冷时散热量比炎热时少？错，寒冷时产热、散热都更多。抗利尿激素由垂体合成？错，由下丘脑合成，垂体释放。",
+		"seconds": 13.128
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|醛固酮的作用是保钠排钾？对。发热的高温持续期，产热量大于散热量？错，二者相等。",
+		"seconds": 10.056
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|十个考点串起来：先比较两种调节，再抓住下丘脑这个枢纽，体温看产热和散热，水盐看抗利尿激素和醛固酮。掌握这些，第三章就能稳稳拿分！我们下期再见！",
+		"seconds": 16.152
+	}
+}

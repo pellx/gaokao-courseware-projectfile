@@ -1,0 +1,111 @@
+{
+	"id": "HXD-11",
+	"title": "盐类的水解",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第11期 / 共20期",
+	"points": [
+		"水解的实质",
+		"水解的规律",
+		"水解方程式",
+		"影响水解的因素",
+		"酸式盐的酸碱性",
+		"双水解",
+		"水解的应用"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"盐类的水解",
+				true
+			]
+		],
+		"subtitle": "有弱才水解 · 越弱越水解 · 双水解 · 蒸干产物",
+		"photo": "alum.jpg",
+		"photoCaption": "明矾类晶体：铝离子水解生成胶体，可以净水",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"盐类的水解",
+					true
+				]
+			]
+		],
+		"photo": "alum.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "明矾",
+		"credit": "Devon Fyson, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "NaHCO3 溶液显酸性，因为能电离出 H^+",
+				"ok": false,
+				"fix": "水解大于电离，显碱性"
+			},
+			{
+				"q": "同浓度时，Na2CO3 溶液的碱性比 NaHCO3 强",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "水解方程式中，Fe(OH)3 要标沉淀符号",
+				"ok": false,
+				"fix": "单一水解不标沉淀和气体"
+			},
+			{
+				"q": "升高温度，CH3COONa 溶液的碱性增强",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "AlCl3 溶液蒸干灼烧得到 AlCl3 固体",
+				"ok": false,
+				"fix": "得到 Al2O3"
+			},
+			{
+				"q": "Al^3+ 与 HCO3^- 在溶液中可以大量共存",
+				"ok": false,
+				"fix": "发生双水解，不能共存"
+			}
+		],
+		"endTitle": [
+			[
+				"盐类的水解",
+				true
+			]
+		],
+		"endLine": "有弱才水解，越弱越水解，谁强显谁性",
+		"slogan": "有弱才水解，越弱越水解，谁强显谁性"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Devon Fyson《Ammonium alum crystals》，CC BY-SA 4.0；插图来自 pixiv：あむろん、ringo @ 日曜日 東ワ4、伊賀たまき＠ちょったま。（侵删）",
+	"anime": [
+		{
+			"key": "mugi",
+			"src": "mugi.jpg",
+			"credit": "插图：あむろん《ムギちゃん》pixiv #146719364",
+			"url": "https://www.pixiv.net/artworks/146719364"
+		},
+		{
+			"key": "cheek",
+			"src": "cheek.jpg",
+			"credit": "插图：ringo @ 日曜日 東ワ4《》pixiv #71923876",
+			"url": "https://www.pixiv.net/artworks/71923876"
+		},
+		{
+			"key": "melt",
+			"src": "melt.jpg",
+			"credit": "插图：伊賀たまき＠ちょったま。《うい～アイス～あ～い～す～》pixiv #11169931",
+			"url": "https://www.pixiv.net/artworks/11169931"
+		}
+	]
+}

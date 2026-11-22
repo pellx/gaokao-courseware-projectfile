@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第二章第一节的上半部分——植物细胞工程的基本技术。",
+		"seconds": 9.432
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考植物组织培养的过程和条件、植物体细胞杂交的流程，以及杂种植株的染色体数目。",
+		"seconds": 8.712
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，细胞工程与细胞的全能性。细胞工程是在细胞器、细胞或组织水平上操作，有目的地获得特定的细胞、组织、器官、个体或其产品。",
+		"seconds": 14.64
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞的全能性：细胞经分裂和分化后，仍然具有产生完整生物体或分化成其他各种细胞的潜能和特性。",
+		"seconds": 9.864
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|原因是：每个细胞都含有该物种的全套遗传信息。",
+		"seconds": 4.968
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|但在生物体内，细胞并不表现全能性，因为基因的选择性表达。必须离体，并在一定条件下才能表现。",
+		"seconds": 9.744
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断是否体现全能性。解题方法：看终点——发育成完整个体，或分化成其他各种细胞，才算体现全能性。",
+		"seconds": 11.472
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，植物组织培养。把离体的植物器官、组织或细胞，叫作外植体。",
+		"seconds": 7.368
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|外植体经过脱分化，失去特有的结构和功能，转变成未分化的细胞，形成愈伤组织。",
+		"seconds": 7.944
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|愈伤组织是一种不定形的薄壁组织团块。",
+		"seconds": 4.008
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|愈伤组织经过再分化，重新分化出芽、根等器官，最终发育成完整植株。",
+		"seconds": 7.272
+	},
+	"cu5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：脱分化形成的是愈伤组织，再分化形成的是芽、根；不要把两个过程弄反。",
+		"seconds": 7.896
+	},
+	"cd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，植物组织培养的条件。首先要无菌：外植体消毒，培养基和器械灭菌。",
+		"seconds": 8.4
+	},
+	"cd2": {
+		"key": "zh-CN-XiaoxiaoNeural|其次要有营养：常用MS培养基，含有无机营养和蔗糖等有机营养。",
+		"seconds": 6.84
+	},
+	"cd3": {
+		"key": "zh-CN-XiaoxiaoNeural|关键是生长素和细胞分裂素的浓度和比例。",
+		"seconds": 4.584
+	},
+	"cd4": {
+		"key": "zh-CN-XiaoxiaoNeural|生长素用量比细胞分裂素用量的比值高，有利于根的分化；比值低，有利于芽的分化；比值适中，促进愈伤组织的形成。",
+		"seconds": 11.136
+	},
+	"cd5": {
+		"key": "zh-CN-XiaoxiaoNeural|光照：诱导愈伤组织期间一般不需要光照，再分化以后要给予适当光照。",
+		"seconds": 7.272
+	},
+	"cd6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：记口诀——生长素多生根，细胞分裂素多生芽。",
+		"seconds": 6.024
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，实验：菊花的组织培养。第一步，外植体消毒：流水冲洗后，用酒精消毒，无菌水清洗。",
+		"seconds": 10.344
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|再用次氯酸钠溶液处理，最后用无菌水清洗，以免消毒剂伤害外植体。",
+		"seconds": 6.984
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，把茎段切成小段，接种到诱导愈伤组织的培养基上，注意不要倒插。",
+		"seconds": 7.224
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，长出愈伤组织后，转接到诱导生芽的培养基上，长出芽后再转接到诱导生根的培养基上。",
+		"seconds": 9.216
+	},
+	"ch5": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，移栽：先移到消过毒的蛭石或珍珠岩中，等幼苗长壮后再移栽到土壤中。",
+		"seconds": 8.304
+	},
+	"ch6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：外植体只能消毒，不能灭菌，灭菌会杀死外植体细胞；培养基和器械才要灭菌。",
+		"seconds": 9
+	},
+	"pp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，植物体细胞杂交。它是把不同来源的植物体细胞融合成杂种细胞，再把杂种细胞培育成新植物体。",
+		"seconds": 10.44
+	},
+	"pp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步是去除细胞壁。植物细胞壁的主要成分是纤维素和果胶，所以用纤维素酶和果胶酶处理。",
+		"seconds": 9.288
+	},
+	"pp3": {
+		"key": "zh-CN-XiaoxiaoNeural|去掉细胞壁后得到的结构，叫作原生质体。",
+		"seconds": 4.224
+	},
+	"pp4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：酶解去壁要在等渗或略高渗的溶液中进行。解题方法：原因是防止原生质体吸水涨破。",
+		"seconds": 9.864
+	},
+	"fu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，原生质体融合。物理法有电融合法、离心法；化学法有聚乙二醇融合法、高钙—高pH融合法。",
+		"seconds": 10.536
+	},
+	"fu2": {
+		"key": "zh-CN-XiaoxiaoNeural|融合后得到杂种细胞，杂种细胞再生出细胞壁，标志着融合成功。",
+		"seconds": 6.768
+	},
+	"fu3": {
+		"key": "zh-CN-XiaoxiaoNeural|然后，杂种细胞经过脱分化形成愈伤组织，再经过再分化，发育成杂种植株。",
+		"seconds": 7.968
+	},
+	"fu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：融合的结果不止杂种细胞，还有同种细胞融合的，需要筛选；动物细胞融合可以用灭活病毒，植物不用。",
+		"seconds": 10.512
+	},
+	"cs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，杂种植株的染色体。设甲的体细胞有2m条染色体，乙有2n条。",
+		"seconds": 7.752
+	},
+	"cs2": {
+		"key": "zh-CN-XiaoxiaoNeural|体细胞杂交得到的杂种植株，染色体是两者之和，为2m加2n，属于异源四倍体。",
+		"seconds": 8.28
+	},
+	"cs3": {
+		"key": "zh-CN-XiaoxiaoNeural|杂种植株含有两个物种各自的同源染色体，减数分裂时能正常联会，所以一般可育。",
+		"seconds": 8.256
+	},
+	"cs4": {
+		"key": "zh-CN-XiaoxiaoNeural|如果甲乙有性杂交，后代染色体是m加n，没有同源染色体，一般不育。",
+		"seconds": 6.936
+	},
+	"cs5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：体细胞杂交，染色体数直接相加，几倍体也相加；有性杂交，是两个配子相加。",
+		"seconds": 9.024
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，植物体细胞杂交的意义。它在打破生殖隔离、实现远缘杂交育种、培育植物新品种方面有独特的优势。",
+		"seconds": 10.944
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如番茄—马铃薯杂种植株，就是用这种方法获得的。",
+		"seconds": 5.328
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|但它没有像人们设想的那样，地上结番茄、地下长马铃薯，因为两套遗传物质的表达相互影响。",
+		"seconds": 8.88
+	},
+	"mn4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问意义。解题方法：答“打破生殖隔离，实现远缘杂交育种”，这是标准表述。",
+		"seconds": 8.712
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：植物细胞在体内就能表现全能性？错，要离体。判断二：愈伤组织是脱分化形成的？对。",
+		"seconds": 11.184
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：生长素比例高有利于生芽？错，有利于生根。判断四：去壁用纤维素酶和果胶酶？对。",
+		"seconds": 11.208
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：原生质体融合完成的标志是核融合？错，是再生出细胞壁。判断六：体细胞杂交能打破生殖隔离？对。",
+		"seconds": 12.528
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：组培靠全能性，杂交先去壁。我们下期再见！",
+		"seconds": 7.128
+	}
+}

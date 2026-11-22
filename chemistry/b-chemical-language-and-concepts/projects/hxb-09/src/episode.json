@@ -1,0 +1,123 @@
+{
+	"id": "HXB-09",
+	"title": "化学用语正误判断",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第9期 / 共12期",
+	"points": [
+		"题型与做法",
+		"电子式的高频错误",
+		"形成过程",
+		"结构示意图",
+		"核素符号",
+		"球棍与空间填充",
+		"排布式与VSEPR",
+		"结构式与结构简式"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"化学用语",
+				true
+			],
+			[
+				"正误判断"
+			]
+		],
+		"subtitle": "电子式 · 示意图 · 核素符号 · 模型 · 结构简式",
+		"photo": "berzelius.jpg",
+		"photoCaption": "贝采利乌斯：创立用字母表示元素的化学符号",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化学用语",
+					true
+				]
+			],
+			[
+				[
+					"正误判断"
+				]
+			]
+		],
+		"photo": "berzelius.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "贝采利乌斯",
+		"credit": "John Way, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Na2O2 的电子式中，两个 O 原子之间共用一对电子",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "HClO 的结构式为 H—Cl—O",
+				"ok": false,
+				"fix": "O 在中间：H—O—Cl"
+			},
+			{
+				"q": "用电子式表示 HCl 的形成过程要画弯箭头",
+				"ok": false,
+				"fix": "共价化合物不画弯箭头"
+			},
+			{
+				"q": "中子数为 10 的氧原子，质量数为 18",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "CO2 的空间填充模型中，C 原子比 O 原子小",
+				"ok": false,
+				"fix": "C 原子半径比 O 大"
+			},
+			{
+				"q": "乙醛的结构简式为 CH3COH",
+				"ok": false,
+				"fix": "应为 CH3CHO"
+			}
+		],
+		"endTitle": [
+			[
+				"化学用语",
+				true
+			],
+			[
+				"正误判断"
+			]
+		],
+		"endLine": "先认用语，再按规则逐条核对",
+		"slogan": "先认是哪种用语，再按规则逐条核对"
+	},
+	"credits": "图片来源：Wikimedia Commons —— John Way《Jöns Jacob Berzelius 1826》，公有领域；插图来自 pixiv：にゃ紫、ガリアンブルー、はなめがね（侵删）",
+	"anime": [
+		{
+			"key": "spot",
+			"src": "spot.jpg",
+			"credit": "插图：にゃ紫《喜多ちゃん》pixiv #133253358",
+			"url": "https://www.pixiv.net/artworks/133253358"
+		},
+		{
+			"key": "test",
+			"src": "test.jpg",
+			"credit": "插图：ガリアンブルー《唯ちゃんのTシャツ(テスト反対)》pixiv #43305518",
+			"url": "https://www.pixiv.net/artworks/43305518"
+		},
+		{
+			"key": "yay",
+			"src": "yay.jpg",
+			"credit": "插图：はなめがね《デフォ唯》pixiv #76311259",
+			"url": "https://www.pixiv.net/artworks/76311259"
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"id": "XB1-22",
+	"title": "环境因素参与调节植物的生命活动",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第5章",
+	"points": [
+		"光敏色素",
+		"光与萌发、开花",
+		"温度：春化与年轮",
+		"重力与平衡石",
+		"三者共同调控",
+		"莴苣种子萌发"
+	],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [
+			[
+				"环境因素"
+			],
+			[
+				"参与调节",
+				true
+			]
+		],
+		"subtitle": "光 · 温度 · 重力 · 整体调控",
+		"photo": "rings.jpg",
+		"photoCaption": "树木年轮：温度影响生长速度",
+		"photoPos": "40% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [
+			[
+				[
+					"环境因素"
+				]
+			],
+			[
+				[
+					"参与调节",
+					true
+				]
+			]
+		],
+		"kicker": "植物生命活动 · 光 · 温度 · 重力",
+		"photo": "rings.jpg",
+		"photoPos": "40% center",
+		"photoTag": "年轮：温度参与调节",
+		"credit": "Photo: Crusier, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{
+				"q": "光敏色素是一类蛋白质",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光对植物的作用只是为光合作用提供能量",
+				"ok": false,
+				"fix": "光还作为信号调控生长发育"
+			},
+			{
+				"q": "冬小麦需要经历春化作用才能开花",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "年轮中颜色较深的带在春夏季形成",
+				"ok": false,
+				"fix": "在秋冬季形成"
+			},
+			{
+				"q": "太空失重时根仍能向地生长",
+				"ok": false,
+				"fix": "失重时根失去向地性"
+			},
+			{
+				"q": "红光、远红光交替照射，萌发取决于最后一次照射的光",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"环境因素"
+			],
+			[
+				"参与调节",
+				true
+			]
+		],
+		"endLine": "光敏色素 · 春化 · 年轮 · 平衡石 · 整体调控",
+		"slogan": "光、温度、重力，三大环境信号一网打尽！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Crusier《Fagus sylvatica cross section Silesian Beskids》CC BY-SA 3.0"
+}

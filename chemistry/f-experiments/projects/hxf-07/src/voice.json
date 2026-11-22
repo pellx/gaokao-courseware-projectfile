@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|操作、现象、结论判断。",
+		"seconds": 3.12
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷选择题常见题型：表格给出操作和现象，问结论对不对，共七个考点。",
+		"seconds": 7.656
+	},
+	"th1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，判断三看。一看操作：试剂、用量、顺序是否合理。",
+		"seconds": 6.96
+	},
+	"th2": {
+		"key": "zh-CN-XiaoxiaoNeural|二看现象：这个操作真的会出现这个现象吗？颜色、状态描述对不对。",
+		"seconds": 7.224
+	},
+	"th3": {
+		"key": "zh-CN-XiaoxiaoNeural|三看结论：由这个现象能不能推出这个结论，有没有别的原因也能产生同样的现象。",
+		"seconds": 7.968
+	},
+	"th4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：大多数错误出在第三步：结论不唯一或者推不出来。",
+		"seconds": 6.6
+	},
+	"if1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，陷阱一：干扰离子没有排除。加氯化钡溶液产生白色沉淀，说明含硫酸根：错，可能是银离子、碳酸根、亚硫酸根。",
+		"seconds": 12.96
+	},
+	"if2": {
+		"key": "zh-CN-XiaoxiaoNeural|先加氯水再加硫氰化钾，溶液变红，说明原溶液含亚铁离子：错，原溶液可能本来就有铁离子。",
+		"seconds": 9.696
+	},
+	"if3": {
+		"key": "zh-CN-XiaoxiaoNeural|某气体使湿润的淀粉碘化钾试纸变蓝，说明是氯气：错，臭氧、二氧化氮、溴蒸气也可以。",
+		"seconds": 9.144
+	},
+	"if4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：结论里有“一定含有”某物质，就想一想还有谁也能产生这个现象。",
+		"seconds": 7.104
+	},
+	"fd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，陷阱二：褪色不一定是漂白。二氧化硫使酸性高锰酸钾溶液褪色，体现的是还原性，不是漂白性。",
+		"seconds": 11.088
+	},
+	"fd2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化硫使溴水褪色：还原性；使滴有酚酞的氢氧化钠溶液褪色：酸性氧化物的性质；只有使品红褪色才是漂白性。",
+		"seconds": 11.328
+	},
+	"fd3": {
+		"key": "zh-CN-XiaoxiaoNeural|乙烯使溴水褪色是加成；苯使溴水层褪色是萃取；加水稀释也会使颜色变浅。",
+		"seconds": 8.376
+	},
+	"fd3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩一边吃点心一边惊叫：同样是“颜色没了”，背后的原因可能完全不同。",
+		"seconds": 7.32
+	},
+	"fd4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氯气使湿润的有色布条褪色，是次氯酸的漂白性，不是氯气本身；干燥的氯气不能使干燥布条褪色。",
+		"seconds": 10.2
+	},
+	"pc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，陷阱三：沉淀不一定是你以为的那种物质。二氧化硫通入氯化钡溶液，不产生沉淀，因为弱酸不能制强酸。",
+		"seconds": 11.352
+	},
+	"pc2": {
+		"key": "zh-CN-XiaoxiaoNeural|但二氧化硫通入硝酸钡溶液，产生白色沉淀，是硫酸钡：酸性条件下硝酸根把二氧化硫氧化了。",
+		"seconds": 9.336
+	},
+	"pc3": {
+		"key": "zh-CN-XiaoxiaoNeural|向某溶液中加氢氧化钠溶液，产生白色沉淀，可能是氢氧化镁、氢氧化铝，也可能是氢氧化亚铁短时间内的颜色。",
+		"seconds": 10.944
+	},
+	"pc3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩抱着一个大草莓：看着红红的就是草莓？得剥开看看，沉淀也一样。",
+		"seconds": 7.536
+	},
+	"pc4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断沉淀成分，要考虑氧化还原：酸性下的硝酸根、铁离子、氯气都可能把低价态氧化。",
+		"seconds": 10.152
+	},
+	"va1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，陷阱四：变量不唯一。比较两种金属的活泼性，一个用浓盐酸、一个用稀盐酸：浓度不同，无法比较。",
+		"seconds": 11.064
+	},
+	"va2": {
+		"key": "zh-CN-XiaoxiaoNeural|比较溶度积：向氯化钠和碘化钠的混合溶液中滴加硝酸银，先出现黄色沉淀，说明碘化银的溶度积更小，要求两种离子浓度相同。",
+		"seconds": 12.48
+	},
+	"va3": {
+		"key": "zh-CN-XiaoxiaoNeural|向硝酸银溶液中先加少量氯化钠再加碘化钠出现黄色沉淀：如果硝酸银过量，银离子直接与碘离子反应，不能证明是沉淀转化。",
+		"seconds": 12.408
+	},
+	"va4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：证明沉淀转化，银离子必须不足量，让后加的碘离子只能和氯化银反应。",
+		"seconds": 8.064
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，陷阱五：比较实验的设计是否合理。比较酸性：用强酸制弱酸，要排除挥发性酸的干扰（浓盐酸、醋酸）。",
+		"seconds": 11.64
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|比较氧化性：把氯气通入溴化钠溶液后再滴入碘化钾淀粉溶液变蓝，不能证明溴大于碘，因为过量的氯气也能氧化碘离子。",
+		"seconds": 11.64
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|比较非金属性：要比最高价含氧酸的酸性，比较盐酸和碳酸不能说明氯和碳的非金属性。",
+		"seconds": 8.712
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：比较类实验，先问中间有没有多余的反应物会干扰后面的判断。",
+		"seconds": 7.128
+	},
+	"ot1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，解题方法：逐项问“还有没有别的可能”。只要找到一种别的原因能产生同样现象，结论就不成立。",
+		"seconds": 10.2
+	},
+	"ot2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见“别的可能”：干扰离子、过量试剂、挥发性物质、溶解氧、浓度和温度不同、萃取和稀释。",
+		"seconds": 9.456
+	},
+	"ot3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断“正确”的选项，要确认操作规范、现象真实、结论唯一三者都成立。",
+		"seconds": 7.056
+	},
+	"ot3b": {
+		"key": "zh-CN-XiaoxiaoNeural|长着垂耳兔耳朵的银发小女孩眨着眼：看到结论别急着信，先问一句：还有别的可能吗？",
+		"seconds": 7.992
+	},
+	"ot4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：判断错误时，写出“还可能是……也能产生该现象”，这就是理由。",
+		"seconds": 7.056
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：加氯化钡有白色沉淀一定含硫酸根？错。判断二：二氧化硫使高锰酸钾褪色是漂白性？错，是还原性。",
+		"seconds": 12.696
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：二氧化硫通入氯化钡有白色沉淀？错。判断四：二氧化硫通入硝酸钡生成硫酸钡？对。",
+		"seconds": 11.376
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：比较盐酸和碳酸的酸性能说明氯比碳非金属性强？错。判断六：证明沉淀转化银离子要不足量？对。",
+		"seconds": 12.672
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|操作现象结论三看，逐项再问别的可能。下一期：实验探究上：方案设计与控制变量。",
+		"seconds": 9.12
+	}
+}

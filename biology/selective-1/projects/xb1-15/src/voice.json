@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第四章第二节的下半部分——细胞免疫与免疫调节网络。",
+		"seconds": 9.624
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考细胞免疫的过程、两种免疫的协调配合，以及切除胸腺和免疫流程图这类推理题。",
+		"seconds": 8.952
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，细胞免疫的过程。病原体一旦进入细胞内部，抗体无法进入细胞，就要靠细胞免疫。",
+		"seconds": 9.096
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|被病原体感染的宿主细胞，叫做靶细胞，靶细胞膜表面的某些分子会发生变化。",
+		"seconds": 7.512
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞毒性T细胞识别这一变化信号，开始分裂、分化，形成新的细胞毒性T细胞和记忆T细胞。",
+		"seconds": 9.288
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|辅助性T细胞分泌的细胞因子，能加速这一过程。",
+		"seconds": 5.04
+	},
+	"cp5": {
+		"key": "zh-CN-XiaoxiaoNeural|新形成的细胞毒性T细胞在体液中循环，识别并接触、裂解被同样病原体感染的靶细胞。",
+		"seconds": 8.88
+	},
+	"cp6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：细胞毒性T细胞的活化，需要靶细胞的信号和细胞因子；靶细胞的裂解死亡属于细胞凋亡，不是细胞坏死。",
+		"seconds": 10.944
+	},
+	"mt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，记忆T细胞。细胞免疫中也会产生记忆T细胞。",
+		"seconds": 6
+	},
+	"mt2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果再次遇到相同的抗原，记忆T细胞会立即分化为细胞毒性T细胞，迅速、高效地产生免疫反应。",
+		"seconds": 9.456
+	},
+	"mt3": {
+		"key": "zh-CN-XiaoxiaoNeural|记忆T细胞可以长期存在，这和记忆B细胞一样，是二次免疫更快、更强的原因。",
+		"seconds": 7.632
+	},
+	"mt4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：二次免疫中，新的细胞毒性T细胞主要来自记忆T细胞的分化；记忆细胞只针对同种抗原。",
+		"seconds": 9.384
+	},
+	"af1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，靶细胞裂解以后，会发生什么？",
+		"seconds": 4.032
+	},
+	"af2": {
+		"key": "zh-CN-XiaoxiaoNeural|靶细胞裂解，病原体失去了藏身之所，暴露出来。",
+		"seconds": 4.968
+	},
+	"af3": {
+		"key": "zh-CN-XiaoxiaoNeural|暴露出来的病原体，可以与抗体结合，或者直接被巨噬细胞等其他免疫细胞吞噬、消灭。",
+		"seconds": 8.28
+	},
+	"af4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：细胞毒性T细胞只能使靶细胞裂解，它不能直接消灭病原体；清除病原体，还要靠抗体和其他免疫细胞。",
+		"seconds": 11.088
+	},
+	"hp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，体液免疫和细胞免疫是怎样协调配合的？关键在于辅助性T细胞。",
+		"seconds": 7.704
+	},
+	"hp2": {
+		"key": "zh-CN-XiaoxiaoNeural|在体液免疫中，辅助性T细胞提供激活B细胞的第二个信号，并分泌细胞因子，促进B细胞的分裂、分化。",
+		"seconds": 10.08
+	},
+	"hp3": {
+		"key": "zh-CN-XiaoxiaoNeural|在细胞免疫中，辅助性T细胞分泌的细胞因子，加速细胞毒性T细胞的分裂、分化。",
+		"seconds": 8.184
+	},
+	"hp4": {
+		"key": "zh-CN-XiaoxiaoNeural|所以，辅助性T细胞在体液免疫和细胞免疫中都起着关键作用。",
+		"seconds": 6.576
+	},
+	"hp5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：辅助性T细胞大量死亡，比如感染艾滋病病毒，细胞免疫几乎丧失，体液免疫也大大减弱。",
+		"seconds": 9.744
+	},
+	"vr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，以病毒入侵为例，看两种免疫怎样配合。",
+		"seconds": 5.088
+	},
+	"vr2": {
+		"key": "zh-CN-XiaoxiaoNeural|病毒进入细胞之前，先由体液免疫发挥作用：抗体与病毒结合，阻止它的扩散。",
+		"seconds": 7.8
+	},
+	"vr3": {
+		"key": "zh-CN-XiaoxiaoNeural|病毒一旦进入细胞，就需要细胞免疫：细胞毒性T细胞使靶细胞裂解，病毒被释放出来。",
+		"seconds": 8.616
+	},
+	"vr4": {
+		"key": "zh-CN-XiaoxiaoNeural|释放出来的病毒，再与抗体结合，或者被其他免疫细胞吞噬。",
+		"seconds": 5.952
+	},
+	"vr5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：病原体在细胞外，靠体液免疫；在细胞内，靠细胞免疫。病毒、结核杆菌这类胞内寄生的病原体，两种免疫都需要。",
+		"seconds": 12.936
+	},
+	"nw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，神经系统、内分泌系统与免疫系统之间，存在着相互调节。",
+		"seconds": 6.96
+	},
+	"nw2": {
+		"key": "zh-CN-XiaoxiaoNeural|它们通过信号分子联系起来：神经系统释放神经递质，内分泌系统分泌激素，免疫系统分泌细胞因子。",
+		"seconds": 9.744
+	},
+	"nw3": {
+		"key": "zh-CN-XiaoxiaoNeural|这些信号分子都要直接与受体接触，才能发挥作用。比如免疫细胞表面，就有神经递质和激素的受体。",
+		"seconds": 9.72
+	},
+	"nw4": {
+		"key": "zh-CN-XiaoxiaoNeural|举个例子：长期精神紧张、焦虑，会通过神经系统和内分泌系统，使免疫力下降。",
+		"seconds": 8.28
+	},
+	"nw5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：神经、体液、免疫调节网络，是机体维持稳态的主要调节机制；信号分子的作用方式都是直接与受体接触，受体一般是蛋白质。",
+		"seconds": 12.792
+	},
+	"og1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，切除胸腺或破坏骨髓以后，免疫能力怎样变化？这是常考的推理题。",
+		"seconds": 8.136
+	},
+	"og2": {
+		"key": "zh-CN-XiaoxiaoNeural|切除胸腺：T细胞不能成熟，细胞免疫全部丧失；没有了辅助性T细胞，体液免疫也大大减弱，只保留一小部分。",
+		"seconds": 10.848
+	},
+	"og3": {
+		"key": "zh-CN-XiaoxiaoNeural|破坏骨髓：造血干细胞没有了，B细胞和T细胞都无法产生，特异性免疫全部丧失。",
+		"seconds": 8.568
+	},
+	"og4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：抓住两点。B细胞、T细胞都产生于骨髓；T细胞成熟于胸腺，而且大多数体液免疫需要辅助性T细胞参与。",
+		"seconds": 12.456
+	},
+	"og5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：切除胸腺后，体液免疫不是完全丧失，因为少数抗原可以直接刺激B细胞，所以还能保留一部分。",
+		"seconds": 10.248
+	},
+	"fl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，怎样看懂免疫流程图？题目常给一张只有字母的流程图，让你判断细胞和物质的名称。",
+		"seconds": 9.192
+	},
+	"fl2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步，找抗体：能与抗原结合的物质是抗体，分泌它的细胞就是浆细胞，这条路线是体液免疫。",
+		"seconds": 9.384
+	},
+	"fl3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，找靶细胞：能与靶细胞接触、使它裂解的细胞，是细胞毒性T细胞，这条路线是细胞免疫。",
+		"seconds": 9.432
+	},
+	"fl4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，找同时连着两条路线、还能分泌细胞因子的细胞，它就是辅助性T细胞。",
+		"seconds": 7.896
+	},
+	"fl5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：最后看再次接触抗原的箭头，能直接分化为浆细胞或细胞毒性T细胞的，就是记忆细胞。",
+		"seconds": 9.672
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞毒性T细胞能直接消灭靶细胞内的病原体？错，它只使靶细胞裂解。靶细胞的裂解死亡属于细胞凋亡？对。",
+		"seconds": 12
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|辅助性T细胞在体液免疫和细胞免疫中都起作用？对。切除胸腺后体液免疫完全丧失？错，还保留一小部分。",
+		"seconds": 12.12
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|记忆T细胞再遇相同抗原，会立即分化为细胞毒性T细胞？对。免疫系统不受神经和内分泌系统的调节？错，三者相互调节。",
+		"seconds": 13.44
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串起来：细胞毒性T细胞裂解靶细胞，辅助性T细胞连接两种免疫，三大系统靠信号分子相互调节。掌握这些，特异性免疫就能稳稳拿分！我们下期再见！",
+		"seconds": 16.368
+	}
+}

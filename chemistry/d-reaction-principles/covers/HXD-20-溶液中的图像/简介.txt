@@ -1,0 +1,20 @@
+本期考点
+
+一、稀释曲线（强酸每稀释 10 倍 pH 增大 1，弱酸变化小）
+二、导电能力曲线（冰醋酸加水先增后减，最高点不是电离程度最大）
+三、分布系数图（交点处 pH = pKa）
+四、对数图像（lg[c(A⁻)/c(HA)] = pH − pKa）
+五、滴定曲线中的守恒（中性点 c(Na⁺) = c(CH₃COO⁻)）
+六、水的电离程度曲线（恰好反应点水的电离程度最大）
+七、溶液图像解题法（看坐标 → 抓特殊点 → 定溶质 → 用 K 和守恒）
+
+图片来源
+1.Kengksn《Faint pink color of Phenolphthalein》，CC BY-SA 4.0（Wikimedia Commons）
+2.插图：アマノ《【けいおん！】ちびきゃらーず【３年２組】》
+https://www.pixiv.net/artworks/12952007
+3.插图：ゆうさく《けいおん部に懐かれた黄前さん!》
+https://www.pixiv.net/artworks/86630884
+4.插图：倉林《なんという可愛さ》
+https://www.pixiv.net/artworks/12026859
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

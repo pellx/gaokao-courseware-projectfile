@@ -1,0 +1,124 @@
+{
+	"id": "HXF-09",
+	"title": "实验探究（下）：用原理解释现象",
+	"subject": "chemistry",
+	"book": "化学实验 · 第9期 / 共9期",
+	"points": [
+		"解释现象的模板",
+		"用氧化还原能力解释",
+		"用沉淀溶解平衡解释",
+		"用配位平衡解释",
+		"用速率与限度解释",
+		"用电化学装置验证",
+		"反思与改进"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学实验",
+		"title": [
+			[
+				"实验探究（下）",
+				true
+			],
+			[
+				"：用原理解释现象"
+			]
+		],
+		"subtitle": "平衡 · 氧化还原 · 沉淀 · 配位 · 速率与限度",
+		"photo": "faraday-lecture.jpg",
+		"photoCaption": "法拉第在皇家研究院的圣诞演讲上演示实验",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"实验探究",
+					true
+				]
+			],
+			[
+				[
+					"（下）",
+					false
+				]
+			],
+			[
+				[
+					"用原理解释现象"
+				]
+			]
+		],
+		"photo": "faraday-lecture.jpg",
+		"photoPos": "center",
+		"photoTag": "圣诞演讲",
+		"credit": "after Alexander Blaikley, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "解释现象时只写“平衡移动”就可以得分",
+				"ok": false,
+				"fix": "要写出平衡、浓度变化、移动方向和现象"
+			},
+			{
+				"q": "酸性条件下 KMnO4 的氧化性更强",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "AgCl 溶于氨水，是因为 Ag^+ 与 NH3 形成配离子",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "先出现的现象一定是限度最大的反应造成的",
+				"ok": false,
+				"fix": "先出现的是速率快的反应"
+			},
+			{
+				"q": "用原电池装置可以排除沉淀反应的干扰，验证氧化还原",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "向 Fe(SCN)3 溶液中加 NaF，红色加深",
+				"ok": false,
+				"fix": "Fe^3+ 与 F^- 配位，红色褪去"
+			}
+		],
+		"endTitle": [
+			[
+				"实验探究（下）",
+				true
+			],
+			[
+				"：用原理解释现象"
+			]
+		],
+		"endLine": "写出平衡说浓度，快的先到限度定终局",
+		"slogan": "写出平衡说浓度，快的先到限度定终局"
+	},
+	"credits": "图片来源：Wikimedia Commons —— after Alexander Blaikley《Faraday Michael Christmas lecture》，公有领域；插图来自 pixiv：火球、小波こなみるく、伽(ikaro)（侵删）",
+	"anime": [
+		{
+			"key": "pointing",
+			"src": "pointing.jpg",
+			"credit": "插图：火球《手乗り唯》pixiv #4422011",
+			"url": "https://www.pixiv.net/artworks/4422011"
+		},
+		{
+			"key": "question",
+			"src": "question.jpg",
+			"credit": "插图：小波こなみるく《冬毛》pixiv #126415248",
+			"url": "https://www.pixiv.net/artworks/126415248"
+		},
+		{
+			"key": "kitawink",
+			"src": "kitawink.jpg",
+			"credit": "插图：伽(ikaro)《デフォルメきたちゃん》pixiv #119836841",
+			"url": "https://www.pixiv.net/artworks/119836841"
+		}
+	]
+}

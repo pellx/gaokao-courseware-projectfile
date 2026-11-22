@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第五章第四节的第二部分——光合作用的原理。",
+		"seconds": 7.968
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考探索历程中的经典实验、光反应和暗反应，以及条件骤变时物质含量的变化。",
+		"seconds": 8.472
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"hs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，探索光合作用原理的实验。希尔发现，离体叶绿体悬浮液中加入铁盐等氧化剂，光照下能释放氧气，这叫希尔反应。",
+		"seconds": 12.432
+	},
+	"hs2": {
+		"key": "zh-CN-XiaoxiaoNeural|鲁宾和卡门用氧十八分别标记水和二氧化碳，证明光合作用释放的氧气全部来自水。",
+		"seconds": 8.448
+	},
+	"hs3": {
+		"key": "zh-CN-XiaoxiaoNeural|阿尔农发现，光照下叶绿体可以合成ATP，并且这一过程总是与水的光解相伴随。",
+		"seconds": 8.088
+	},
+	"hs4": {
+		"key": "zh-CN-XiaoxiaoNeural|卡尔文用碳十四标记的二氧化碳，探明了二氧化碳中的碳转化为有机物中碳的途径，叫卡尔文循环。",
+		"seconds": 9.552
+	},
+	"hs5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氧十八是稳定同位素，没有放射性；碳十四有放射性。",
+		"seconds": 6.264
+	},
+	"tt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，光合作用的总反应式：二氧化碳和水，在光能和叶绿体的作用下，生成糖类和氧气。",
+		"seconds": 9.288
+	},
+	"tt2": {
+		"key": "zh-CN-XiaoxiaoNeural|也就是绿色植物通过叶绿体，利用光能，把二氧化碳和水转化成储存着能量的有机物，并且释放出氧气。",
+		"seconds": 10.08
+	},
+	"tt3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：箭头上注明光能和叶绿体；产物氧气中的氧全部来自水。",
+		"seconds": 7.056
+	},
+	"lt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，光反应。场所：类囊体薄膜；条件：光、色素和酶。",
+		"seconds": 7.248
+	},
+	"lt2": {
+		"key": "zh-CN-XiaoxiaoNeural|物质变化：水的光解，产生氧气和氢离子；NADP加与氢离子结合形成NADPH；ADP和P i形成ATP。",
+		"seconds": 10.776
+	},
+	"lt3": {
+		"key": "zh-CN-XiaoxiaoNeural|能量变化：光能转化为ATP和NADPH中的化学能。",
+		"seconds": 5.232
+	},
+	"lt4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：光反应产生的氧气释放到外界或用于呼吸；ATP和NADPH则用于暗反应。",
+		"seconds": 8.112
+	},
+	"dk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，暗反应。场所：叶绿体基质；有光无光都能进行，但需要光反应提供的ATP和NADPH。",
+		"seconds": 9.72
+	},
+	"dk2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳的固定：二氧化碳与C五结合，形成两个C三分子。",
+		"seconds": 6.12
+	},
+	"dk3": {
+		"key": "zh-CN-XiaoxiaoNeural|C三的还原：在ATP和NADPH的作用下，C三被还原为糖类，同时再生出C五。",
+		"seconds": 7.968
+	},
+	"dk4": {
+		"key": "zh-CN-XiaoxiaoNeural|能量变化：ATP和NADPH中的化学能，转化为储存在糖类等有机物中的化学能。",
+		"seconds": 7.728
+	},
+	"dk5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：暗反应不是只在黑暗中进行；没有光，光反应停止，暗反应也会很快停止。",
+		"seconds": 8.136
+	},
+	"lk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，光反应与暗反应的联系。光反应为暗反应提供ATP和NADPH；暗反应为光反应提供ADP、P i和NADP加。",
+		"seconds": 12.264
+	},
+	"lk2": {
+		"key": "zh-CN-XiaoxiaoNeural|两者相互依存、紧密联系，是一个统一的整体。",
+		"seconds": 4.776
+	},
+	"lk3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：记住物质流向——ATP、NADPH从类囊体流向基质；ADP、P i、NADP加从基质流回类囊体。",
+		"seconds": 10.992
+	},
+	"sd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，条件骤变时物质含量的变化。光照减弱：ATP和NADPH减少，C三的还原变慢，所以C三增加、C五减少。",
+		"seconds": 12.264
+	},
+	"sd2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳供应减少：二氧化碳的固定变慢，C三减少、C五增加；ATP和NADPH消耗减少，含量增加。",
+		"seconds": 10.104
+	},
+	"sd3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：抓住C三和C五的来路和去路——条件改变只影响其中一条路，另一条暂时不变，就能推出增减。",
+		"seconds": 10.248
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，化能合成作用。少数细菌利用体外环境中某些无机物氧化时释放的能量来制造有机物，叫化能合成作用。",
+		"seconds": 11.496
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如硝化细菌，能将土壤中的氨氧化成亚硝酸，进而氧化成硝酸，利用释放的化学能，把二氧化碳和水合成糖类。",
+		"seconds": 10.992
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|能用无机物合成有机物的是自养生物，如绿色植物、硝化细菌；只能利用现成有机物的是异养生物，如人、动物、真菌。",
+		"seconds": 11.592
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：硝化细菌是自养生物，但利用的是化学能，不是光能；它是原核生物，没有叶绿体。",
+		"seconds": 8.952
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，氧气中的氧全部来自水。判断二？错，光反应在类囊体薄膜上。",
+		"seconds": 9.312
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，暗反应有光无光都能进行。判断四？对。",
+		"seconds": 7.032
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，利用的是化学能。",
+		"seconds": 6.192
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：看来路和去路，推C三、C五的增减。我们下期再见！",
+		"seconds": 7.8
+	}
+}

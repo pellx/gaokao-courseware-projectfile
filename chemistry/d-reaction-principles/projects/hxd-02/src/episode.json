@@ -1,0 +1,122 @@
+{
+	"id": "HXD-02",
+	"title": "盖斯定律与反应热的计算",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第2期 / 共20期",
+	"points": [
+		"盖斯定律",
+		"方程式的加减",
+		"定系数的方法",
+		"大题规范书写",
+		"ΔH 大小比较",
+		"ΔH 计算汇总",
+		"能源"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"盖斯定律",
+				true
+			],
+			[
+				"与反应热的计算"
+			]
+		],
+		"subtitle": "方程式加减 · 定系数 · 比较大小 · 计算汇总",
+		"photo": "hess.jpg",
+		"photoCaption": "盖斯：提出“反应热只与始态和终态有关”",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"盖斯定律",
+					true
+				]
+			],
+			[
+				[
+					"与反应热的计算"
+				]
+			]
+		],
+		"photo": "hess.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "盖斯",
+		"credit": "П. А. Смирнов, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "反应热与反应途径有关，分步进行时放热更多",
+				"ok": false,
+				"fix": "只与始态和终态有关"
+			},
+			{
+				"q": "方程式反写时，ΔH 数值不变，符号改变",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "方程式系数乘 2，ΔH 不变",
+				"ok": false,
+				"fix": "ΔH 也乘 2"
+			},
+			{
+				"q": "H2 燃烧生成 H2O(l) 的 ΔH 大于生成 H2O(g) 的 ΔH",
+				"ok": false,
+				"fix": "生成液态水放热多，ΔH 更小"
+			},
+			{
+				"q": "用键能计算：ΔH = 生成物键能总和 − 反应物键能总和",
+				"ok": false,
+				"fix": "反应物键能总和 − 生成物键能总和"
+			},
+			{
+				"q": "氢能热值高、产物无污染，属于新能源",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"盖斯定律",
+				true
+			],
+			[
+				"与反应热的计算"
+			]
+		],
+		"endLine": "只认起点和终点，反写变号乘倍乘",
+		"slogan": "只认起点和终点，反写变号乘倍乘"
+	},
+	"credits": "图片来源：Wikimedia Commons —— П. А. Смирнов 石版画《Germain Henri Hess》，公有领域；插图来自 pixiv：じゃこ天、KOGOOMA、stick_jitb（侵删）",
+	"anime": [
+		{
+			"key": "wall",
+			"src": "wall.jpg",
+			"credit": "插图：じゃこ天《アー写（take2）》pixiv #127261351",
+			"url": "https://www.pixiv.net/artworks/127261351"
+		},
+		{
+			"key": "lesson",
+			"src": "lesson.jpg",
+			"credit": "插图：KOGOOMA《ぼっち・ざ・ろっく!》pixiv #145688295",
+			"url": "https://www.pixiv.net/artworks/145688295"
+		},
+		{
+			"key": "notes",
+			"src": "notes.jpg",
+			"credit": "插图：stick_jitb《ちなつのーと》pixiv #64036435",
+			"url": "https://www.pixiv.net/artworks/64036435"
+		}
+	]
+}

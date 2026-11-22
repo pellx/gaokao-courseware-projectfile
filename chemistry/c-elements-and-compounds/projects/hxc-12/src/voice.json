@@ -1,0 +1,146 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|无机非金属材料。",
+		"seconds": 2.28
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷第一题常以科技成就为情境：芯片、光纤、新型陶瓷、石墨烯，考的是成分和类别，共六个考点。",
+		"seconds": 10.656
+	},
+	"si1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，传统硅酸盐材料：陶瓷、玻璃、水泥。",
+		"seconds": 5.424
+	},
+	"si2": {
+		"key": "zh-CN-XiaoxiaoNeural|陶瓷：以黏土为原料，高温烧结而成。",
+		"seconds": 4.176
+	},
+	"si2b": {
+		"key": "zh-CN-XiaoxiaoNeural|系着背带裙的女孩坐在一屋子陶罐中间：陶瓷就是黏土高温烧出来的，是最古老的硅酸盐材料。",
+		"seconds": 8.976
+	},
+	"si3": {
+		"key": "zh-CN-XiaoxiaoNeural|普通玻璃：原料是纯碱、石灰石和石英砂，主要成分是硅酸钠、硅酸钙和二氧化硅。",
+		"seconds": 8.88
+	},
+	"si4": {
+		"key": "zh-CN-XiaoxiaoNeural|普通水泥：原料是石灰石和黏土，再加适量石膏调节凝结时间。",
+		"seconds": 6.84
+	},
+	"si5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：玻璃没有固定熔点，是混合物；水泥原料里有石灰石，没有纯碱。",
+		"seconds": 7.032
+	},
+	"sl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，硅单质：良好的半导体，用来做芯片和太阳能电池板。",
+		"seconds": 6.552
+	},
+	"sl2": {
+		"key": "zh-CN-XiaoxiaoNeural|工业制粗硅：二氧化硅加两个碳高温生成硅和两个一氧化碳。注意生成的是一氧化碳，不是二氧化碳。",
+		"seconds": 10.008
+	},
+	"sl3": {
+		"key": "zh-CN-XiaoxiaoNeural|粗硅提纯：硅加三个氯化氢生成三氯硅烷和氢气，再用氢气还原三氯硅烷得到高纯硅，氯化氢和氢气循环使用。",
+		"seconds": 11.208
+	},
+	"sl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：制粗硅生成一氧化碳，因为高温下碳过量，二氧化碳会和碳反应生成一氧化碳。",
+		"seconds": 8.76
+	},
+	"so1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，二氧化硅：光导纤维的主要成分，也是石英、水晶、沙子的主要成分。",
+		"seconds": 7.8
+	},
+	"so2": {
+		"key": "zh-CN-XiaoxiaoNeural|它是酸性氧化物：二氧化硅加两个氢氧化钠生成硅酸钠和水。所以盛氢氧化钠溶液的试剂瓶要用橡胶塞，不用玻璃塞。",
+		"seconds": 12
+	},
+	"so3": {
+		"key": "zh-CN-XiaoxiaoNeural|特殊性质：能与氢氟酸反应，二氧化硅加四个氟化氢生成四氟化硅和两个水，用来刻蚀玻璃；氢氟酸要存放在塑料瓶里。",
+		"seconds": 12
+	},
+	"so3b": {
+		"key": "zh-CN-XiaoxiaoNeural|扎着马尾的女孩在拉坯：手里的泥坯和窗上的玻璃，主要成分都和沙子有关。",
+		"seconds": 7.248
+	},
+	"so4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化硅不溶于水，不与水反应生成硅酸；能与氢氟酸反应，不说明它是碱性氧化物。",
+		"seconds": 9.048
+	},
+	"ce1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，新型陶瓷。碳化硅，俗称金刚砂，共价晶体，硬度很大，用作砂纸、砂轮的磨料。",
+		"seconds": 9.792
+	},
+	"ce2": {
+		"key": "zh-CN-XiaoxiaoNeural|氮化硅：耐高温、耐磨，用来制造发动机部件。",
+		"seconds": 5.016
+	},
+	"ce3": {
+		"key": "zh-CN-XiaoxiaoNeural|还有高温结构陶瓷、压电陶瓷、透明陶瓷、超导陶瓷，都属于无机非金属材料。",
+		"seconds": 8.016
+	},
+	"ce4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碳化硅、氮化硅不是硅酸盐，是新型无机非金属材料。",
+		"seconds": 6.6
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，碳纳米材料：富勒烯，如碳60、碳纳米管、石墨烯。",
+		"seconds": 6.816
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|石墨烯是单层石墨，导电、导热性能好，强度高；碳纳米管可看作石墨片卷成的管。",
+		"seconds": 8.448
+	},
+	"ca2b": {
+		"key": "zh-CN-XiaoxiaoNeural|黄色背景前挤在一起的四个小人：它们都是碳家族，同一种元素组成的不同单质。",
+		"seconds": 7.512
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|它们和金刚石、石墨一样，都是碳的同素异形体，都是单质。",
+		"seconds": 5.928
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：石墨烯、碳纳米管是无机非金属材料，不是有机高分子材料，也不是金属材料。",
+		"seconds": 8.592
+	},
+	"ju1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，材料类别的判断。北京卷第一题常问：某科技成就中的材料属于哪一类。",
+		"seconds": 8.28
+	},
+	"ju2": {
+		"key": "zh-CN-XiaoxiaoNeural|金属材料：纯金属和合金，比如钛合金、铝合金、不锈钢。",
+		"seconds": 6.168
+	},
+	"ju3": {
+		"key": "zh-CN-XiaoxiaoNeural|无机非金属材料：陶瓷、玻璃、水泥、硅、二氧化硅、碳化硅、碳纳米材料。",
+		"seconds": 8.232
+	},
+	"ju4": {
+		"key": "zh-CN-XiaoxiaoNeural|有机高分子材料：塑料、合成纤维、合成橡胶，还有天然的蛋白质、纤维素。",
+		"seconds": 7.944
+	},
+	"ju5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先认出主要成分：有金属单质的是金属材料，含硅、碳无机物的是无机非金属材料，聚合物是有机高分子。",
+		"seconds": 11.928
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：芯片的主要成分是二氧化硅？错，是硅。判断二：光导纤维的主要成分是硅？错，是二氧化硅。",
+		"seconds": 11.448
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：制粗硅同时生成二氧化碳？错，生成一氧化碳。判断四：盛氢氧化钠溶液不能用玻璃塞？对。",
+		"seconds": 11.64
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：氢氟酸可以保存在玻璃瓶中？错。判断六：石墨烯、碳纳米管属于无机非金属材料？对。",
+		"seconds": 11.208
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|芯片是硅，光纤是二氧化硅。下一期：金属冶炼与海水资源。",
+		"seconds": 6.84
+	}
+}

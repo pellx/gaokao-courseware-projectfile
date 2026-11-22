@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第三章第二节的后半部分——分级调节与反馈调节。",
+		"seconds": 9.36
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|以甲状腺激素为例，高考常考分级调节和负反馈、缺碘与甲状腺肿，以及切除腺体后的激素变化。",
+		"seconds": 9.888
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"ax1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，下丘脑、垂体、甲状腺轴。寒冷或紧张时，下丘脑分泌促甲状腺激素释放激素，简称T R H。",
+		"seconds": 11.352
+	},
+	"ax2": {
+		"key": "zh-CN-XiaoxiaoNeural|T R H作用于垂体，促使垂体分泌促甲状腺激素，简称T S H。",
+		"seconds": 7.2
+	},
+	"ax3": {
+		"key": "zh-CN-XiaoxiaoNeural|T S H作用于甲状腺，促使甲状腺分泌甲状腺激素。",
+		"seconds": 5.784
+	},
+	"ax4": {
+		"key": "zh-CN-XiaoxiaoNeural|甲状腺激素几乎作用于全身细胞，能提高细胞代谢速率，使机体产热增加；还能提高神经系统的兴奋性，促进生长发育。",
+		"seconds": 11.544
+	},
+	"ax5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：T R H的靶器官是垂体，T S H的靶器官是甲状腺，而甲状腺激素的靶细胞几乎是全身细胞。",
+		"seconds": 10.056
+	},
+	"gr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，分级调节。人们把下丘脑、垂体和靶腺体之间存在的分层调控，称为分级调节。",
+		"seconds": 9.312
+	},
+	"gr2": {
+		"key": "zh-CN-XiaoxiaoNeural|分级调节能够放大激素的调节效应：少量的T R H，经过垂体、甲状腺层层放大，产生大量的甲状腺激素。",
+		"seconds": 10.608
+	},
+	"gr3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问分级调节的意义，答“放大激素的调节效应，形成多级反馈调节，有利于精细调控，从而维持机体的稳态”。",
+		"seconds": 10.92
+	},
+	"nf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，负反馈调节。当血液中的甲状腺激素含量增加到一定程度时，又会抑制下丘脑和垂体分泌T R H和T S H。",
+		"seconds": 12.024
+	},
+	"nf2": {
+		"key": "zh-CN-XiaoxiaoNeural|于是T S H减少，甲状腺激素的分泌也随之减少，含量回到正常水平。",
+		"seconds": 7.536
+	},
+	"nf3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：甲状腺激素的负反馈同时作用于下丘脑和垂体两处，画图时有两条反馈箭头，不要漏画。",
+		"seconds": 9.888
+	},
+	"gt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，缺碘为什么会导致甲状腺肿？因为碘是合成甲状腺激素的原料。",
+		"seconds": 7.368
+	},
+	"gt2": {
+		"key": "zh-CN-XiaoxiaoNeural|缺碘时，甲状腺激素合成减少，对下丘脑和垂体的抑制作用减弱。",
+		"seconds": 6.744
+	},
+	"gt3": {
+		"key": "zh-CN-XiaoxiaoNeural|于是T R H和T S H分泌增加，T S H持续促进甲状腺增生，甲状腺就肿大了。照片中这位病人颈部的隆起，就是甲状腺肿。",
+		"seconds": 13.488
+	},
+	"gt4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：沿着反馈链一步步推：甲状腺激素减少，抑制减弱，T R H、T S H增加，甲状腺增生肿大。",
+		"seconds": 10.848
+	},
+	"ot1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，其他调节轴。除了甲状腺轴，还有下丘脑、垂体、肾上腺皮质轴，调节糖皮质激素的分泌；",
+		"seconds": 10.416
+	},
+	"ot2": {
+		"key": "zh-CN-XiaoxiaoNeural|以及下丘脑、垂体、性腺轴，调节性激素的分泌。",
+		"seconds": 5.352
+	},
+	"ot3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：这几条轴遵循同样的规律：分级调节加负反馈调节。会分析一条轴，就会分析所有的轴。",
+		"seconds": 9.984
+	},
+	"op1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，切除某个腺体或注射某种激素后，各激素含量怎样变化？",
+		"seconds": 6.624
+	},
+	"op2": {
+		"key": "zh-CN-XiaoxiaoNeural|切除甲状腺：甲状腺激素减少，对下丘脑和垂体的抑制减弱，T R H和T S H都增加。",
+		"seconds": 9.072
+	},
+	"op3": {
+		"key": "zh-CN-XiaoxiaoNeural|注射甲状腺激素：甲状腺激素增加，反馈抑制增强，T R H和T S H都减少。",
+		"seconds": 8.304
+	},
+	"op4": {
+		"key": "zh-CN-XiaoxiaoNeural|切除垂体：T S H减少，甲状腺激素也减少，而T R H因为失去反馈抑制而增加。",
+		"seconds": 9.12
+	},
+	"op5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先找直接改变的那个激素，再顺着分级调节往下推，逆着负反馈往上推。",
+		"seconds": 8.208
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，激素调节的特点。在激素与内分泌系统那一期讲过，这里简要回顾。",
+		"seconds": 7.944
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|一是通过体液进行运输；二是作用于靶器官、靶细胞，因为只有它们有相应的受体；",
+		"seconds": 8.064
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|三是作为信使传递信息；四是微量和高效。",
+		"seconds": 4.68
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：激素一经靶细胞接受并起作用后就失活了，所以体内需要源源不断地产生激素，以维持激素含量的动态平衡。",
+		"seconds": 11.112
+	},
+	"dx1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，例题：甲状腺激素偏低的病人，怎样判断病变在下丘脑、垂体还是甲状腺？",
+		"seconds": 8.784
+	},
+	"dx2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果T S H偏高，说明垂体在拼命地催甲状腺，病变在甲状腺。",
+		"seconds": 6.72
+	},
+	"dx3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果T S H偏低，而T R H偏高，病变在垂体；如果T S H和T R H都偏低，病变在下丘脑。",
+		"seconds": 10.68
+	},
+	"dx4": {
+		"key": "zh-CN-XiaoxiaoNeural|还可以注射T R H来判断：注射后T S H明显升高，说明垂体正常，病变在下丘脑；T S H不升高，病变在垂体。",
+		"seconds": 12
+	},
+	"dx5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：找到含量偏低的最上面一级激素，如果它的上一级激素偏高，或者它本身就是T R H，病变就在分泌它的那一级。",
+		"seconds": 11.544
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|T R H直接作用于甲状腺？错，作用于垂体。分级调节可以放大激素的调节效应？对。",
+		"seconds": 9.864
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|甲状腺激素只反馈抑制垂体？错，同时抑制下丘脑和垂体。缺碘时T S H分泌增加，导致甲状腺肿大？对。",
+		"seconds": 12.408
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|切除垂体后，T R H含量减少？错，失去反馈抑制，T R H增加。激素一经靶细胞接受并起作用后就失活？对。",
+		"seconds": 12.576
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串起来：一条轴、两种调节——分级调节往下放大，负反馈往上抑制。掌握这些，这一节就能稳稳拿分！我们下期再见！",
+		"seconds": 12.912
+	}
+}

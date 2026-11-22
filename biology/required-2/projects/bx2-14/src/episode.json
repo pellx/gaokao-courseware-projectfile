@@ -1,0 +1,38 @@
+{
+	"id": "BX2-14",
+	"title": "基因指导蛋白质的合成（下）：翻译与中心法则",
+	"subject": "biology",
+	"book": "人教版·必修2·第4章",
+	"points": ["翻译的概念与条件", "密码子", "tRNA与反密码子", "翻译的过程", "多聚核糖体", "原核边转录边翻译", "基因表达数量关系", "中心法则及其发展"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["翻译与"], ["中心法则", true]],
+		"subtitle": "基因指导蛋白质的合成（下） · 密码子 · 6∶3∶1",
+		"photo": "matthaei.jpg",
+		"photoCaption": "马太和尼伦伯格：破译第一个密码子 UUU",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["翻译与"]], [["中心法则", true]]],
+		"kicker": "密码子 · 多聚核糖体 · 6∶3∶1",
+		"photo": "matthaei.jpg",
+		"photoPos": {"16x9": "center 25%", "4x3": "100% 20%", "3x4": "center 12%"},
+		"photoTag": "破译遗传密码",
+		"credit": "NIH History Office, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "64 种密码子都能决定氨基酸", "ok": false, "fix": "终止密码子一般不决定氨基酸"},
+			{"q": "一种氨基酸可以由多种 tRNA 转运", "ok": true, "fix": ""},
+			{"q": "反密码子位于 mRNA 上", "ok": false, "fix": "位于 tRNA 上，密码子位于 mRNA 上"},
+			{"q": "多聚核糖体上的多个核糖体共同合成一条肽链", "ok": false, "fix": "每个核糖体各合成一条肽链，提高效率"},
+			{"q": "真核细胞核基因可以边转录边翻译", "ok": false, "fix": "核基因先转录后翻译，原核细胞才边转录边翻译"},
+			{"q": "逆转录和 RNA 复制是对中心法则的补充", "ok": true, "fix": ""}
+		],
+		"endTitle": [["翻译与"], ["中心法则", true]],
+		"endLine": "密码子 · 反密码子 · 多聚核糖体 · 6∶3∶1 · 中心法则",
+		"slogan": "mRNA 是模板，tRNA 来搬运！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— NIH History Office《J. Heinreich Matthaei and Marshall Nirenberg》Public domain"
+}

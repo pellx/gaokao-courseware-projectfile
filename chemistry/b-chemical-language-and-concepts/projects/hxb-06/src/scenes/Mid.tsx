@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Mid: React.FC = () => <AutoScene k="mid" d={{"tag": "考点五", "title": "歧化与归中", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "歧化：一升一降", "at": "mi1", "lines": [{"at": "mi2", "text": "Cl2 + 2NaOH = NaCl + NaClO + H2O"}, {"at": "mi2", "text": "Cl：0 → {−1} 和 {+1|orange}"}], "c": "red", "size": 30}]}, {"blocks": [{"t": "panel", "title": "归中：只靠拢、不交叉", "at": "mi3", "lines": [{"at": "mi4", "text": "KClO3 + 6HCl(浓) = KCl + 3Cl2↑ + 3H2O"}, {"at": "mi4", "text": "Cl：+5 → 0，−1 → 0"}, {"at": "mi4", "text": "KCl 中的 Cl {来自 HCl}"}], "c": "orange", "size": 30}]}]}, {"t": "big", "at": "mi5", "text": "生成 3 mol Cl2 转移 {5 mol} e^-（不是 6 mol）", "size": 38}], "callout": {"label": "易错", "at": "mi5", "text": "归中“{只靠拢、不交叉}”：+5 价 Cl 只降到 0，不会变成 −1"}, "beat": {"k": "middle", "at": "mi3b", "text": "一个往下、一个往上\n{在中间会合|red}\n不互相越过"}}} />;

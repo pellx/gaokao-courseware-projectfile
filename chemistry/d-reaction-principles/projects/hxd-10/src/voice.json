@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|酸碱中和滴定与滴定曲线。",
+		"seconds": 3.216
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题读滴定曲线，大题做定量计算和误差分析，共七个考点。",
+		"seconds": 6.6
+	},
+	"to1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，中和滴定：用已知浓度的酸或碱，测定未知浓度的碱或酸。原理：待测液浓度等于标准液浓度乘标准液体积，除以待测液体积，适用于一元酸碱。",
+		"seconds": 15.456
+	},
+	"to2": {
+		"key": "zh-CN-XiaoxiaoNeural|仪器：酸式滴定管装酸和强氧化性溶液，比如高锰酸钾；碱式滴定管装碱，下端有橡胶管。",
+		"seconds": 9.504
+	},
+	"to3": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定管零刻度在上，读数精确到0.01毫升；量筒没有零刻度，精确到0.1毫升。",
+		"seconds": 8.232
+	},
+	"to4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：高锰酸钾会腐蚀橡胶管，必须用酸式滴定管；现在也有聚四氟乙烯活塞的通用滴定管。",
+		"seconds": 9.024
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，操作步骤：检漏 → 洗涤 → 润洗 → 装液 → 赶气泡 → 调零或记录初读数。",
+		"seconds": 7.32
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定管要用待装液润洗二到三次；但锥形瓶不能用待测液润洗。",
+		"seconds": 6.888
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定时左手控制活塞，右手摇动锥形瓶，眼睛注视锥形瓶内溶液颜色的变化。",
+		"seconds": 7.752
+	},
+	"sp3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑长发女孩怯生生地站着：每一步都要按顺序来，滴定管润洗、锥形瓶不润洗，别弄反。",
+		"seconds": 8.664
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：锥形瓶里有少量蒸馏水，不影响结果，因为待测物的物质的量没变。",
+		"seconds": 7.248
+	},
+	"in31": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，指示剂的选择：指示剂的变色范围要落在滴定的 pH 突变范围内。不用石蕊，变色不明显。",
+		"seconds": 10.08
+	},
+	"in32": {
+		"key": "zh-CN-XiaoxiaoNeural|强酸滴强碱、强碱滴强酸：酚酞或甲基橙都可以。强碱滴弱酸：终点溶液显碱性，选酚酞。强酸滴弱碱：终点显酸性，选甲基橙。",
+		"seconds": 14.304
+	},
+	"in33": {
+		"key": "zh-CN-XiaoxiaoNeural|终点描述：“滴入最后半滴标准液，溶液由无色变为浅红色，且半分钟内不褪色。”",
+		"seconds": 8.208
+	},
+	"in34": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：写全“最后半滴、颜色由什么变为什么、半分钟内不恢复”，三要素一个都不能少。",
+		"seconds": 8.856
+	},
+	"er1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，误差分析：待测液浓度的公式里，标准液浓度和待测液体积已定，一切都归结到标准液体积偏大还是偏小。",
+		"seconds": 11.544
+	},
+	"er2": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定管未用标准液润洗：标准液被稀释，消耗的标准液体积偏大，结果偏高。锥形瓶用待测液润洗：待测物变多，结果偏高。",
+		"seconds": 12.888
+	},
+	"er3": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定前尖嘴有气泡、滴定后消失：读出的标准液体积偏大，结果偏高。滴定前仰视、滴定后俯视：读数差偏小，结果偏低。",
+		"seconds": 12.792
+	},
+	"er3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑长发女孩一脸慌张、头上冒烟：尖嘴的气泡也会算进体积，读数变大，结果偏高。",
+		"seconds": 8.64
+	},
+	"er4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：滴定管 0 刻度在上，俯视读数偏小、仰视偏大；看清是“滴定前”还是“滴定后”读错。",
+		"seconds": 9.384
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，滴定曲线：用0.1摩尔每升氢氧化钠滴定20毫升0.1摩尔每升的酸。纵轴是pH，横轴是加入氢氧化钠的体积。",
+		"seconds": 12.576
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定盐酸：起点pH等于1，在20毫升附近pH突然跃升，这就是突变范围；终点pH等于7。",
+		"seconds": 9.6
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定醋酸：起点pH更高，约2.9；突变范围更窄；恰好反应时溶液是醋酸钠，pH约8.7，显碱性。",
+		"seconds": 11.064
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：从起点 pH 判断酸的强弱：等浓度时起点越高，酸越弱。",
+		"seconds": 7.008
+	},
+	"ke1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，曲线上的关键点。以氢氧化钠滴定20毫升醋酸为例。半中和点，加10毫升：溶质是等量的醋酸和醋酸钠，pH约等于pKa。",
+		"seconds": 13.896
+	},
+	"ke2": {
+		"key": "zh-CN-XiaoxiaoNeural|中性点：pH等于7，此时醋酸还没反应完，有少量醋酸剩余，加入的氢氧化钠略少于20毫升。",
+		"seconds": 9.552
+	},
+	"ke3": {
+		"key": "zh-CN-XiaoxiaoNeural|恰好反应点：加20毫升，溶质只有醋酸钠，溶液显碱性；此时水的电离程度最大。",
+		"seconds": 8.304
+	},
+	"ke4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：在曲线上找点，先写出这一点的溶质及比例，再用电离、水解和守恒关系判断。",
+		"seconds": 9.024
+	},
+	"ne1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，最常考的易错：恰好中和不等于溶液呈中性。",
+		"seconds": 5.64
+	},
+	"ne2": {
+		"key": "zh-CN-XiaoxiaoNeural|“恰好中和”是酸和碱按方程式的计量关系完全反应；溶液显什么性，要看生成的盐会不会水解。",
+		"seconds": 9.168
+	},
+	"ne3": {
+		"key": "zh-CN-XiaoxiaoNeural|强酸强碱恰好中和，中性；强碱弱酸恰好中和，生成强碱弱酸盐，碱性；强酸弱碱恰好中和，酸性。",
+		"seconds": 10.92
+	},
+	"ne3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩趴在桌边，眼睛变成两圈蚊香：“恰好反应”和“中性”不是一回事！",
+		"seconds": 7.128
+	},
+	"ne4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氢氧化钠滴定醋酸到pH等于7时，酸没有反应完；氨水滴定盐酸到pH等于7时，氨水稍过量。",
+		"seconds": 10.344
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：高锰酸钾装碱式滴定管？错，用酸式。判断二：锥形瓶先用待测液润洗？错，锥形瓶不润洗。",
+		"seconds": 12.096
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：滴定管未用标准液润洗，结果偏高？对。判断四：氢氧化钠滴醋酸用甲基橙？错，用酚酞。",
+		"seconds": 11.88
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：恰好中和一定中性？错，要看盐是否水解。判断六：恰好反应点水的电离程度最大？对。",
+		"seconds": 10.896
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|误差全看标准液，恰好中和不等于中性。下一期：盐类的水解。",
+		"seconds": 6.984
+	}
+}

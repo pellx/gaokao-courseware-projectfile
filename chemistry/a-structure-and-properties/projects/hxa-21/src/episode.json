@@ -1,0 +1,128 @@
+{
+	"id": "HXA-21",
+	"title": "物质结构大题：北京卷怎么问、怎么答",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第21期 / 共21期",
+	"points": [
+		"题型结构",
+		"第一空：电子排布",
+		"电离能电负性解释",
+		"杂化与σπ键",
+		"键角解释",
+		"熔沸点与溶解性",
+		"配位设问",
+		"结构决定性质",
+		"晶胞压轴与时间"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"物质结构大题："
+			],
+			[
+				"怎么问、怎么答",
+				true
+			]
+		],
+		"subtitle": "原子 → 分子 → 晶体 · 规范表述 · 得分点",
+		"photo": "hodgkin.jpg",
+		"photoCaption": "霍奇金：用 X 射线测定青霉素等分子结构",
+		"photoPos": "center 20%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"物质结构"
+				]
+			],
+			[
+				[
+					"大题",
+					true
+				],
+				[
+					"答题",
+					true
+				]
+			]
+		],
+		"photo": "hodgkin.jpg",
+		"photoPos": {
+			"16x9": "center 20%",
+			"4x3": "center 20%",
+			"3x4": "center 12%"
+		},
+		"photoTag": "霍奇金",
+		"credit": "University of Bristol, CC BY-SA 2.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "结构大题一般按原子 → 分子 → 晶体逐级设问",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "基态 Fe^3+ 的价层电子排布式为 3d^3 4s^2",
+				"ok": false,
+				"fix": "3d^5"
+			},
+			{
+				"q": "解释键角大小时，可以不写排斥力比较",
+				"ok": false,
+				"fix": "“排斥力”是得分点"
+			},
+			{
+				"q": "比较熔沸点的第一步是判断晶体类型",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "配位数等于配体的个数",
+				"ok": false,
+				"fix": "等于配位原子数"
+			},
+			{
+				"q": "晶胞密度式只需列出表达式",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"物质结构大题："
+			],
+			[
+				"怎么问、怎么答",
+				true
+			]
+		],
+		"endLine": "题型结构 · 电子排布 · 电离能 · 杂化 · 键角 · 熔沸点 · 配位 · 晶胞",
+		"slogan": "模板写全，步骤给分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— University of Bristol《Professor Dorothy Hodgkin》CC BY-SA 2.0；插图来自 pixiv：ゆきねこ、DAISHIBU、キハ52_みやび（侵删）",
+	"anime": [
+		{
+			"key": "desk",
+			"src": "desk.jpg",
+			"credit": "插图：ゆきねこ《夕方教室ぼっち》pixiv #104726783",
+			"url": "https://www.pixiv.net/artworks/104726783"
+		},
+		{
+			"key": "pass",
+			"src": "pass.jpg",
+			"credit": "插图：DAISHIBU《試験勉強》pixiv #80421099",
+			"url": "https://www.pixiv.net/artworks/80421099"
+		},
+		{
+			"key": "panic",
+			"src": "panic.jpg",
+			"credit": "插图：キハ52_みやび《ぼっちちゃんのテスト勉強》pixiv #116422507",
+			"url": "https://www.pixiv.net/artworks/116422507"
+		}
+	]
+}

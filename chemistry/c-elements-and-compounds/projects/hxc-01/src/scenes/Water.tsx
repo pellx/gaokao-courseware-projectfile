@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Water: React.FC = () => <AutoScene k="water" d={{"tag": "考点三", "title": "钠与水", "blocks": [{"t": "big", "at": "wa1", "text": "2Na + 2H2O = 2NaOH + H2↑", "size": 46}, {"t": "table", "at": "wa2", "head": ["现象", "原因"], "cols": "1fr 3fr", "rows": [{"at": "wa2", "cells": ["{浮}", "钠的密度比水小"]}, {"at": "wa2", "cells": ["{熔}", "反应放热，钠的熔点低"]}, {"at": "wa2", "cells": ["{游}", "生成的 H2 推动小球游动"]}, {"at": "wa2", "cells": ["{响}", "反应剧烈"]}, {"at": "wa2", "cells": ["{红}", "生成 NaOH，酚酞变红"]}], "size": 30, "rowHeight": 52}, {"t": "rule", "tag": "盐溶液", "at": "wa4", "text": "先与水反应：CuSO4 溶液中得到 Cu(OH)2 沉淀，{得不到 Cu}", "c": "orange", "size": 30}], "callout": {"label": "易错", "at": "wa5", "text": "钠{不能}从 CuSO4 溶液中置换出铜"}, "beat": [{"k": "panic", "at": "wa2b", "text": "被气体推着\n{四处游动|red}"}, {"k": "bang", "at": "wa4b", "text": "反应剧烈\n{发出响声|red}"}]}} />;

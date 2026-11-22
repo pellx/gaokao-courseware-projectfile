@@ -1,0 +1,129 @@
+{
+	"id": "HXF-01",
+	"title": "常用仪器、试剂保存与实验安全",
+	"subject": "chemistry",
+	"book": "化学实验 · 第1期 / 共9期",
+	"points": [
+		"可加热的仪器",
+		"计量仪器的精度",
+		"使用前检漏",
+		"见光分解的试剂",
+		"特殊试剂的保存",
+		"实验安全",
+		"意外事故的处理",
+		"基本操作规范"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学实验",
+		"title": [
+			[
+				"常用仪器、试剂保存",
+				true
+			],
+			[
+				"与实验安全"
+			]
+		],
+		"subtitle": "加热 · 精度 · 检漏 · 棕色瓶 · 安全",
+		"photo": "curie.jpg",
+		"photoCaption": "居里夫人：两次获得诺贝尔奖的科学家",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"常用仪器",
+					true
+				]
+			],
+			[
+				[
+					"试剂保存",
+					false
+				]
+			],
+			[
+				[
+					"与实验安全"
+				]
+			]
+		],
+		"photo": "curie.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "居里夫人",
+		"credit": "Henri Manuel, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "烧杯可以直接在酒精灯上加热",
+				"ok": false,
+				"fix": "烧杯要垫陶土网加热"
+			},
+			{
+				"q": "用量筒量取 8.25 mL 稀硫酸",
+				"ok": false,
+				"fix": "量筒只能读到 0.1 mL"
+			},
+			{
+				"q": "容量瓶、滴定管、分液漏斗使用前都要检漏",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NaOH 溶液保存在带玻璃塞的试剂瓶中",
+				"ok": false,
+				"fix": "用橡胶塞"
+			},
+			{
+				"q": "浓硝酸保存在棕色细口瓶中",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "钠着火时用泡沫灭火器扑灭",
+				"ok": false,
+				"fix": "用干燥沙土盖灭"
+			}
+		],
+		"endTitle": [
+			[
+				"常用仪器、试剂保存",
+				true
+			],
+			[
+				"与实验安全"
+			]
+		],
+		"endLine": "有塞先检漏，见光棕色瓶，碱用橡胶塞",
+		"slogan": "有塞先检漏，见光棕色瓶，碱用橡胶塞"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Henri Manuel《Marie Curie c1920》，公有领域；插图来自 pixiv：にゃみ、ちゃわんむし、ゆうさく（侵删）",
+	"anime": [
+		{
+			"key": "doily",
+			"src": "doily.jpg",
+			"credit": "插图：にゃみ《【けいおん】唯ちゃん》pixiv #16048379",
+			"url": "https://www.pixiv.net/artworks/16048379"
+		},
+		{
+			"key": "akari",
+			"src": "akari.jpg",
+			"credit": "插图：ちゃわんむし《あかりちゃん》pixiv #55077243",
+			"url": "https://www.pixiv.net/artworks/55077243"
+		},
+		{
+			"key": "conductor",
+			"src": "conductor.jpg",
+			"credit": "插图：ゆうさく《指揮者になりきってご満悦な唯さん》pixiv #93162321",
+			"url": "https://www.pixiv.net/artworks/93162321"
+		}
+	]
+}

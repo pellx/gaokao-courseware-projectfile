@@ -1,0 +1,122 @@
+{
+	"id": "HXB-12",
+	"title": "大题中的定量计算",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第12期 / 共12期",
+	"points": [
+		"关系式法",
+		"电子守恒建关系",
+		"原子守恒",
+		"滴定计算",
+		"纯度与产率表达式",
+		"滴定误差分析",
+		"答题规范"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"大题中的"
+			],
+			[
+				"定量计算",
+				true
+			]
+		],
+		"subtitle": "关系式 · 守恒 · 滴定 · 纯度与产率",
+		"photo": "burette.png",
+		"photoCaption": "19 世纪化学书中的滴定插图",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"大题中的"
+				]
+			],
+			[
+				[
+					"定量计算",
+					true
+				]
+			]
+		],
+		"photo": "burette.png",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "滴定",
+		"credit": "Alessandri 1895, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "关系式法要找出起始物和终态物之间的比例关系",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "I2 与 Na2S2O3 反应的物质的量之比为 1 : 1",
+				"ok": false,
+				"fix": "I2 ～ 2S2O3^2-，为 1 : 2"
+			},
+			{
+				"q": "配成 250 mL 溶液取 25.00 mL 滴定，求总量要乘 10",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "滴定管未用标准液润洗，测定结果偏低",
+				"ok": false,
+				"fix": "标准液被稀释，结果偏高"
+			},
+			{
+				"q": "锥形瓶中有少量水，测定结果偏低",
+				"ok": false,
+				"fix": "无影响"
+			},
+			{
+				"q": "滴定管读数可以记为 22.4 mL",
+				"ok": false,
+				"fix": "精确到 0.01 mL，记为 22.40 mL"
+			}
+		],
+		"endTitle": [
+			[
+				"大题中的"
+			],
+			[
+				"定量计算",
+				true
+			]
+		],
+		"endLine": "关系式找两头，守恒看始终",
+		"slogan": "关系式找两头，守恒看始终，倍数别漏乘"
+	},
+	"credits": "图片来源：Wikimedia Commons —— P. E. Alessandri 1895 年化学书插图《Titration with a Mohr burette》，公有领域；插图来自 pixiv：月明 桜、のりもとパイン、铁锈味容器（侵删）",
+	"anime": [
+		{
+			"key": "chain",
+			"src": "chain.jpg",
+			"credit": "插图：月明 桜《けいおん！》pixiv #72927224",
+			"url": "https://www.pixiv.net/artworks/72927224"
+		},
+		{
+			"key": "think",
+			"src": "think.jpg",
+			"credit": "插图：のりもとパイン《ぼっちちゃん》pixiv #124029146",
+			"url": "https://www.pixiv.net/artworks/124029146"
+		},
+		{
+			"key": "peace",
+			"src": "peace.jpg",
+			"credit": "插图：铁锈味容器《K-ON!》pixiv #139872968",
+			"url": "https://www.pixiv.net/artworks/139872968"
+		}
+	]
+}

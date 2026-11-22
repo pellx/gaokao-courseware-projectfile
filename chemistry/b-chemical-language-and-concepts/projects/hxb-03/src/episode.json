@@ -1,0 +1,119 @@
+{
+	"id": "HXB-03",
+	"title": "电解质的电离",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第3期 / 共12期",
+	"points": [
+		"电解质与非电解质",
+		"导电的条件",
+		"电离方程式",
+		"强弱电解质初识",
+		"溶液的导电能力",
+		"导电性曲线"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"电解质的"
+			],
+			[
+				"电离",
+				true
+			]
+		],
+		"subtitle": "电解质判断 · 电离方程式 · 导电性曲线",
+		"photo": "arrhenius.jpg",
+		"photoCaption": "阿伦尼乌斯：提出电离理论",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"电解质的"
+				],
+				[
+					"电离",
+					true
+				]
+			]
+		],
+		"photo": "arrhenius.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "阿伦尼乌斯",
+		"credit": "Wilhelm Engelmann, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Cu 能导电，所以 Cu 是电解质",
+				"ok": false,
+				"fix": "单质既不是电解质也不是非电解质"
+			},
+			{
+				"q": "CO2 的水溶液能导电，CO2 是电解质",
+				"ok": false,
+				"fix": "导电靠 H2CO3 电离，CO2 是非电解质"
+			},
+			{
+				"q": "NaCl 固体不导电，但 NaCl 是电解质",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "熔融 NaHSO4 电离出 Na^+、H^+、SO4^2-",
+				"ok": false,
+				"fix": "熔融时电离出 Na^+ 和 HSO4^-"
+			},
+			{
+				"q": "强电解质溶液的导电能力一定强",
+				"ok": false,
+				"fix": "导电能力看离子浓度和电荷"
+			},
+			{
+				"q": "Ba(OH)2 溶液中滴加稀硫酸，导电能力先减弱后增强",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"电解质的"
+			],
+			[
+				"电离",
+				true
+			]
+		],
+		"endLine": "电解质看化合物本身，导电看自由离子",
+		"slogan": "电解质是化合物，导电要自由离子"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Verlag von Wilhelm Engelmann《Svante Arrhenius》，公有领域；插图来自 pixiv：たかたか、工藤かんぷら、うゆたに。（侵删）",
+	"anime": [
+		{
+			"key": "tied",
+			"src": "tied.jpg",
+			"credit": "插图：たかたか《喜多ちゃん》pixiv #134594165",
+			"url": "https://www.pixiv.net/artworks/134594165"
+		},
+		{
+			"key": "split",
+			"src": "split.jpg",
+			"credit": "插图：工藤かんぷら《すぐ帰る井芹仁菜と絶対に逃さない桃香さん》pixiv #118795950",
+			"url": "https://www.pixiv.net/artworks/118795950"
+		},
+		{
+			"key": "run",
+			"src": "run.jpg",
+			"credit": "插图：うゆたに。《スマイルな走り》pixiv #45757904",
+			"url": "https://www.pixiv.net/artworks/45757904"
+		}
+	]
+}

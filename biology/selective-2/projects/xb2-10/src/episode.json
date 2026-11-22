@@ -1,0 +1,38 @@
+{
+	"id": "XB2-10",
+	"title": "生态系统的物质循环",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第3章",
+	"points": ["物质循环的概念", "碳循环的过程", "碳循环图解判断", "温室效应与碳中和", "生物富集", "能量流动与物质循环", "土壤微生物分解作用"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["生态系统的"], ["物质循环", true]],
+		"subtitle": "碳循环 · 生物富集 · 碳中和",
+		"photo": "log.jpg",
+		"photoCaption": "林地上正在分解的倒木",
+		"photoPos": "40% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生态系统的"]], [["物质循环", true]]],
+		"kicker": "碳循环 · 生物富集",
+		"photo": "log.jpg",
+		"photoPos": "40% center",
+		"photoTag": "分解中的倒木",
+		"credit": "Photo: Krishna k. sahh, CC0"
+	},
+	"review": {
+		"items": [
+			{"q": "物质循环中的“物质”指化学元素", "ok": true, "fix": ""},
+			{"q": "碳在生物群落内部以CO2形式传递", "ok": false, "fix": "以含碳有机物的形式传递"},
+			{"q": "物质循环具有全球性", "ok": true, "fix": ""},
+			{"q": "营养级越高，富集的有害物质浓度越低", "ok": false, "fix": "营养级越高，浓度越高"},
+			{"q": "能量是物质循环的动力", "ok": true, "fix": ""},
+			{"q": "对照组土壤要用60 ℃处理", "ok": false, "fix": "实验组60 ℃处理，对照组不处理"}
+		],
+		"endTitle": [["生态系统的"], ["物质循环", true]],
+		"endLine": "碳循环 · 图解判断 · 温室效应 · 生物富集 · 土壤微生物",
+		"slogan": "双向箭头找生产者，营养级高富集多！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Krishna k. sahh《Moss-covered decaying log on a forest floor》CC0"
+}

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Prepare: React.FC = () => <AutoScene k="prepare" d={{"tag": "考点一", "title": "一定物质的量浓度溶液的配制", "blocks": [{"t": "chain", "steps": [{"at": "pr1", "text": "计算"}, {"at": "pr1", "text": "称量"}, {"at": "pr2", "text": "溶解{冷却}"}, {"at": "pr2", "text": "转移、洗涤"}, {"at": "pr3", "text": "{定容}"}, {"at": "pr3", "text": "摇匀"}], "arrows": [], "center": true, "size": 30}, {"t": "table", "at": "pr4", "head": ["操作", "浓度"], "cols": "2.4fr 1fr", "rows": [{"at": "pr4", "cells": ["定容时俯视", "{偏高}"]}, {"at": "pr4", "cells": ["未洗涤烧杯和玻璃棒", "偏低"]}, {"at": "pr4", "cells": ["未冷却就转移、定容", "{偏高}"]}, {"at": "pr4", "cells": ["摇匀后液面下降又加水", "偏低"]}], "size": 30, "rowHeight": 56}], "callout": {"label": "易错", "at": "pr4", "text": "{俯视偏高}，仰视偏低"}, "beat": {"k": "mio", "at": "pr3b", "text": "定容要{平视|red}"}}} />;

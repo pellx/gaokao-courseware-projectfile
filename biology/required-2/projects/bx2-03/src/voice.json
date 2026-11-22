@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第一章第二节的上半部分——自由组合定律。",
+		"seconds": 7.752
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考 9比3比3比1 的由来、F2 中各类型的比例、测交验证和定律的实质。",
+		"seconds": 8.016
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，两对相对性状的杂交实验。纯种黄色圆粒和纯种绿色皱粒杂交，F1 全是黄色圆粒。",
+		"seconds": 9.84
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|F1 自交，F2 出现四种表型：黄圆、黄皱、绿圆、绿皱，数量比接近 9比3比3比1。",
+		"seconds": 9.504
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|其中黄皱和绿圆是亲本没有的新组合，叫重组类型。",
+		"seconds": 5.4
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|单独看每一对：黄∶绿等于416比140，圆∶皱等于423比133，都接近 3比1。",
+		"seconds": 9.48
+	},
+	"ex5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：每对性状仍遵循分离定律；9比3比3比1，就是3比1的平方展开，说明两对性状的遗传互不干扰。",
+		"seconds": 10.536
+	},
+	"el1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，对自由组合现象的解释。粒色由大Y和小y控制，粒形由大R和小r控制，亲本是大Y大Y大R大R和小y小y小r小r，F1是大Y小y大R小r。",
+		"seconds": 16.488
+	},
+	"el2": {
+		"key": "zh-CN-XiaoxiaoNeural|F1 形成配子时，每对遗传因子彼此分离，不同对的遗传因子自由组合。",
+		"seconds": 7.104
+	},
+	"el3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以F1产生四种配子：大Y大R、大Y小r、小y大R、小y小r，比例是1比1比1比1。",
+		"seconds": 9.912
+	},
+	"el4": {
+		"key": "zh-CN-XiaoxiaoNeural|受精时雌雄配子随机结合，结合方式有 4乘4等于16 种。",
+		"seconds": 6.432
+	},
+	"el5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：16 是配子的结合方式，不是基因型的种类；F2 的基因型只有 9 种。",
+		"seconds": 7.488
+	},
+	"f21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，F2 的基因型和表型。用棋盘法把 16 种结合方式列出来。",
+		"seconds": 7.08
+	},
+	"f22": {
+		"key": "zh-CN-XiaoxiaoNeural|表型 4 种：双显性黄圆占 16分之9，黄皱和绿圆各占 16分之3，双隐性绿皱占 16分之1。",
+		"seconds": 9.816
+	},
+	"f23": {
+		"key": "zh-CN-XiaoxiaoNeural|基因型9种：纯合子4种，各占十六分之一，一共十六分之四；双杂合子大Y小y大R小r占十六分之四。",
+		"seconds": 10.608
+	},
+	"f24": {
+		"key": "zh-CN-XiaoxiaoNeural|黄色圆粒中，纯合子大Y大Y大R大R只占九分之一。",
+		"seconds": 6
+	},
+	"f25": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：重组类型要看亲本。亲本是黄圆和绿皱，重组类型占 8分之3；亲本是黄皱和绿圆，重组类型占 8分之5。",
+		"seconds": 11.808
+	},
+	"tc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，测交验证。让F1大Y小y大R小r与双隐性纯合子小y小y小r小r杂交。",
+		"seconds": 9.528
+	},
+	"tc2": {
+		"key": "zh-CN-XiaoxiaoNeural|小y小y小r小r只产生小y小r一种配子，所以测交后代的表型，就反映了F1产生的四种配子。",
+		"seconds": 10.128
+	},
+	"tc3": {
+		"key": "zh-CN-XiaoxiaoNeural|预期黄圆∶黄皱∶绿圆∶绿皱等于1比1比1比1。孟德尔做了正交和反交，结果都接近 1比1比1比1。",
+		"seconds": 9.792
+	},
+	"tc4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：测交结果证明 F1 产生了四种比例相等的配子，也就证明了形成配子时不同对的遗传因子自由组合。",
+		"seconds": 10.488
+	},
+	"lw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，自由组合定律：控制不同性状的遗传因子的分离和组合是互不干扰的。",
+		"seconds": 7.416
+	},
+	"lw2": {
+		"key": "zh-CN-XiaoxiaoNeural|在形成配子时，决定同一性状的成对的遗传因子彼此分离，决定不同性状的遗传因子自由组合。",
+		"seconds": 9.096
+	},
+	"lw3": {
+		"key": "zh-CN-XiaoxiaoNeural|分离和组合是同时进行的；自由组合的对象，是控制不同性状的遗传因子。",
+		"seconds": 7.2
+	},
+	"lw4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：自由组合发生在形成配子时，不是受精时雌雄配子的随机结合；受精时的随机结合不叫自由组合。",
+		"seconds": 10.128
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，孟德尔获得成功的原因。第一，正确选用实验材料——豌豆。",
+		"seconds": 7.152
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，由一对相对性状到多对相对性状，从简单到复杂。",
+		"seconds": 5.712
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，对实验结果进行统计学分析。",
+		"seconds": 4.224
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四，科学地设计了实验程序，运用了假说—演绎法。",
+		"seconds": 5.424
+	},
+	"su5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：常以选择题出现。易错：孟德尔当时并不知道基因和染色体，他提出的是“遗传因子”。",
+		"seconds": 9.216
+	},
+	"rd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，孟德尔遗传规律的再发现。1866 年孟德尔发表论文，1900 年被三位科学家重新发现。",
+		"seconds": 10.344
+	},
+	"rd2": {
+		"key": "zh-CN-XiaoxiaoNeural|1909 年，丹麦的约翰逊把遗传因子改名为基因，并提出了表型和基因型的概念。",
+		"seconds": 8.136
+	},
+	"rd3": {
+		"key": "zh-CN-XiaoxiaoNeural|表型是生物个体表现出来的性状；基因型是与表型有关的基因组成；控制相对性状的基因叫等位基因。",
+		"seconds": 9.552
+	},
+	"rd4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：表型是基因型和环境共同作用的结果，基因型相同，表型不一定相同；大D和大D是相同基因，不是等位基因。",
+		"seconds": 11.496
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，亲本是黄皱和绿圆时，重组类型占 8分之5。判断二？错，配子各 4 种，结合方式才是 16 种。",
+		"seconds": 12.264
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，自由组合发生在形成配子时。判断四？对。",
+		"seconds": 7.392
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，表型还受环境影响。",
+		"seconds": 6.504
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：两对性状拆开看，每对都是 3比1。我们下期再见！",
+		"seconds": 7.68
+	}
+}

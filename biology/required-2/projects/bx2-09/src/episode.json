@@ -1,0 +1,38 @@
+{
+	"id": "BX2-09",
+	"title": "DNA是主要的遗传物质",
+	"subject": "biology",
+	"book": "人教版·必修2·第3章",
+	"points": ["遗传物质的早期推测", "格里菲思体内转化", "艾弗里体外转化", "加法与减法原理", "T2噬菌体的增殖", "噬菌体侵染细菌实验", "放射性误差分析", "主要的遗传物质"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["DNA 是主要的"], ["遗传物质", true]],
+		"subtitle": "肺炎链球菌转化实验 · 噬菌体侵染细菌实验",
+		"photo": "avery.jpg",
+		"photoCaption": "艾弗里（1877—1955）",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["DNA 是主要的"]], [["遗传物质", true]]],
+		"kicker": "转化实验 · 噬菌体实验",
+		"photo": "avery.jpg",
+		"photoPos": {"16x9": "center 30%", "4x3": "center 30%", "3x4": "center 22%"},
+		"photoTag": "艾弗里的转化实验",
+		"credit": "Oswald T. Avery (1937), Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "格里菲思的实验证明了 DNA 是遗传物质", "ok": false, "fix": "只推出存在“转化因子”"},
+			{"q": "艾弗里的实验运用了“减法原理”", "ok": true, "fix": ""},
+			{"q": "^[32]P 标记的噬菌体侵染细菌，放射性主要在沉淀物中", "ok": true, "fix": ""},
+			{"q": "可用含 ^[35]S 的培养基直接培养并标记噬菌体", "ok": false, "fix": "要先标记大肠杆菌，再用噬菌体侵染"},
+			{"q": "细胞生物的遗传物质主要是 DNA", "ok": false, "fix": "细胞生物的遗传物质就是 DNA"},
+			{"q": "烟草花叶病毒的遗传物质是 RNA", "ok": true, "fix": ""}
+		],
+		"endTitle": [["DNA 是主要的"], ["遗传物质", true]],
+		"endLine": "转化因子 · 减法原理 · 同位素标记 · 误差分析 · RNA 病毒",
+		"slogan": "分开研究 DNA 和蛋白质，单独看作用！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 佚名《Oswald T. Avery portrait 1937》Public domain"
+}

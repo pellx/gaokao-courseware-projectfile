@@ -1,0 +1,158 @@
+{
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，84消毒液：有效成分次氯酸钠，由氯气通入氢氧化钠溶液制得。",
+		"seconds": 7.656
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|起作用：次氯酸钠与空气中的二氧化碳和水反应生成次氯酸：次氯酸根加二氧化碳加水生成次氯酸和碳酸氢根。",
+		"seconds": 10.992
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|不能与洁厕灵混用：洁厕灵含盐酸，次氯酸根加氯离子加两个氢离子生成氯气和水，产生有毒的氯气。",
+		"seconds": 10.344
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉色团子头的女孩竖起手指提醒：84 消毒液和洁厕灵，千万别混着用。",
+		"seconds": 7.416
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：84消毒液与二氧化碳反应生成的是碳酸氢根，因为次氯酸的酸性比碳酸氢根强、比碳酸弱。",
+		"seconds": 10.152
+	},
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气的制法与含氯消毒剂。",
+		"seconds": 3.048
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验题考制氯气的装置和除杂顺序，选择题考84消毒液，探究题考含氯物质的氧化性，共七个考点。",
+		"seconds": 9.936
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验室制氯气：二氧化锰加四个浓盐酸，加热生成氯化锰、氯气和两个水。",
+		"seconds": 8.688
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|条件：浓盐酸、加热，缺一不可。二氧化锰是氧化剂，氯化氢一半作还原剂，一半表现酸性。",
+		"seconds": 9.768
+	},
+	"pr2b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿白大褂的红发女孩敬了个礼：做实验先看条件：浓盐酸、加热，少一个都制不出来。",
+		"seconds": 8.16
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|随着反应进行，浓盐酸变稀，反应就停止了。所以氯化氢不能完全反应，制得的氯气少于理论值。",
+		"seconds": 10.032
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：含4摩尔氯化氢的浓盐酸与足量二氧化锰反应，得到的氯气小于1摩尔。",
+		"seconds": 7.656
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，装置与除杂顺序。发生装置：固液加热。出来的氯气中混有氯化氢和水蒸气。",
+		"seconds": 9.408
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|先通过饱和食盐水除氯化氢，再通过浓硫酸干燥。顺序不能反：先干燥，再过食盐水又会带出水。",
+		"seconds": 10.08
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|收集：向上排空气法，或排饱和食盐水法。尾气用氢氧化钠溶液吸收：氯气加两个氢氧根，生成氯离子、次氯酸根和水。",
+		"seconds": 12.6
+	},
+	"se3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴防毒面具的小人：氯气有毒，最后一步一定是尾气吸收。",
+		"seconds": 5.904
+	},
+	"se4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：除氯化氢用饱和食盐水，不用水或氢氧化钠溶液；尾气不能用澄清石灰水吸收，氢氧化钙溶解度太小。",
+		"seconds": 11.088
+	},
+	"ot1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，课本外的其他制法：氧化性比二氧化锰强的物质，常温就能氧化浓盐酸。",
+		"seconds": 8.016
+	},
+	"ot2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个高锰酸钾加十六个浓盐酸，生成两个氯化钾、两个氯化锰、五个氯气和八个水，不需加热。",
+		"seconds": 9.144
+	},
+	"ot3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯酸钾加六个浓盐酸，生成氯化钾、三个氯气和三个水，是归中反应，每生成3摩尔氯气转移5摩尔电子。",
+		"seconds": 10.464
+	},
+	"ot4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：由条件比氧化性：高锰酸钾常温反应，二氧化锰要加热，所以氧化性高锰酸钾大于二氧化锰。",
+		"seconds": 10.656
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，氯离子的检验：先加稀硝酸酸化，再加硝酸银溶液，产生白色沉淀。",
+		"seconds": 8.016
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|加稀硝酸是为了排除碳酸根等的干扰：碳酸银也是白色沉淀，但溶于稀硝酸。",
+		"seconds": 7.752
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果同时有硫酸根，要先加足量硝酸钡除去硫酸根，过滤后再检验氯离子，因为硫酸银微溶。",
+		"seconds": 9.12
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能用盐酸酸化，否则引入了氯离子。",
+		"seconds": 4.512
+	},
+	"c21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，课本外的二氧化氯：黄绿色气体，氯是正4价，是高效、安全的消毒剂，用于自来水消毒。",
+		"seconds": 10.032
+	},
+	"c22": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么高效？比较单位质量得电子数：二氧化氯变成氯离子得5个电子，1克二氧化氯得电子数约为氯气的2.6倍。",
+		"seconds": 11.256
+	},
+	"c23": {
+		"key": "zh-CN-XiaoxiaoNeural|制备：氯酸钠被二氧化硫、过氧化氢或草酸在酸性下还原；亚氯酸钠也是常用的消毒剂，氯是正3价。",
+		"seconds": 10.632
+	},
+	"c24": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：比较消毒效率，算“每克得几摩尔电子”：价态变化除以摩尔质量。",
+		"seconds": 7.608
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，含氯物质的实验探究。北京卷常探究氯气、次氯酸根能否氧化某物质，以及条件的影响。",
+		"seconds": 9.984
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：次氯酸钠溶液加酸，氧化性增强：酸性越强，生成的次氯酸越多。",
+		"seconds": 7.344
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|证明氧化了碘离子：加淀粉变蓝；但要排除溶解的氧气也能氧化碘离子的干扰，做对照实验。",
+		"seconds": 9.048
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|氯水的颜色、pH随时间变化：次氯酸分解，pH减小，氯离子浓度增大，颜色变浅。",
+		"seconds": 8.784
+	},
+	"ex5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：探究“谁起作用”，就设计只少这一种成分的对照实验。",
+		"seconds": 6.432
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：二氧化锰与稀盐酸加热能制氯气？错，要浓盐酸。判断二：用饱和食盐水除氯气中的氯化氢？对。",
+		"seconds": 12.312
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氯气尾气用澄清石灰水吸收？错，用氢氧化钠溶液。判断四：检验氯离子用稀盐酸酸化？错，用稀硝酸。",
+		"seconds": 13.104
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：84消毒液与洁厕灵混用产生氯气？对。判断六：高锰酸钾常温氧化浓盐酸，说明氧化性强于二氧化锰？对。",
+		"seconds": 13.344
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|浓盐酸加热，先食盐水后浓硫酸，尾气碱液吸收。下一期：铁、铁的氧化物与氢氧化物。",
+		"seconds": 9.6
+	}
+}

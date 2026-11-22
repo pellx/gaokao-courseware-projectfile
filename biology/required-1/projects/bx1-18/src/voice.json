@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第五章第三节的下半部分——无氧呼吸和细胞呼吸原理的应用。",
+		"seconds": 9.672
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考根据气体变化判断呼吸方式、相关计算，以及影响因素和生产应用。",
+		"seconds": 8.016
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，无氧呼吸。无氧呼吸的两个阶段都在细胞质基质中进行。",
+		"seconds": 6.72
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一阶段与有氧呼吸的第一阶段完全相同：葡萄糖分解为丙酮酸和少量还原氢，释放少量能量。",
+		"seconds": 9.528
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二阶段：丙酮酸在不同酶的催化下，分解成酒精和二氧化碳，或者转化成乳酸；这一阶段不释放能量。",
+		"seconds": 10.08
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：无氧呼吸只在第一阶段释放少量能量，大部分能量还储存在酒精或乳酸中。",
+		"seconds": 8.328
+	},
+	"fm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，两种无氧呼吸。产生酒精的无氧呼吸：葡萄糖分解为酒精和二氧化碳，如酵母菌、多数植物细胞。",
+		"seconds": 10.728
+	},
+	"fm2": {
+		"key": "zh-CN-XiaoxiaoNeural|产生乳酸的无氧呼吸：葡萄糖分解为乳酸，如乳酸菌、人和动物的骨骼肌细胞，以及马铃薯块茎、甜菜块根、玉米胚。",
+		"seconds": 11.328
+	},
+	"fm3": {
+		"key": "zh-CN-XiaoxiaoNeural|无氧呼吸释放的能量少，一摩尔葡萄糖只有约六十一点零八千焦的能量储存在ATP中。",
+		"seconds": 8.232
+	},
+	"fm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：人体骨骼肌无氧呼吸产生乳酸，不产生二氧化碳，所以人体产生的二氧化碳只来自有氧呼吸。",
+		"seconds": 10.128
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，有氧呼吸与无氧呼吸的比较。条件：有氧呼吸需要氧气，无氧呼吸不需要氧气。",
+		"seconds": 9.024
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|场所：有氧呼吸在细胞质基质和线粒体；无氧呼吸只在细胞质基质。",
+		"seconds": 7.32
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|产物：有氧呼吸是二氧化碳和水；无氧呼吸是酒精和二氧化碳，或者乳酸。能量：有氧大量，无氧少量。",
+		"seconds": 11.208
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：两者第一阶段完全相同，实质都是分解有机物、释放能量。",
+		"seconds": 7.032
+	},
+	"jd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，根据气体变化判断呼吸方式，以葡萄糖为底物。只释放二氧化碳、不吸收氧气：只进行产酒精的无氧呼吸。",
+		"seconds": 11.688
+	},
+	"jd2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳释放量等于氧气吸收量：只进行有氧呼吸，或有氧呼吸和产乳酸的无氧呼吸同时进行。",
+		"seconds": 9.432
+	},
+	"jd3": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳释放量大于氧气吸收量：有氧呼吸和产酒精的无氧呼吸同时进行。",
+		"seconds": 7.68
+	},
+	"jd4": {
+		"key": "zh-CN-XiaoxiaoNeural|既不吸收氧气，也不释放二氧化碳：只进行产乳酸的无氧呼吸，或者细胞已经死亡。",
+		"seconds": 8.04
+	},
+	"jd5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：以脂肪为底物时，氧气消耗量大于二氧化碳释放量，不能套用上面的结论。",
+		"seconds": 7.968
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，相关计算。有氧呼吸：1分子葡萄糖消耗6分子氧气，产生6分子二氧化碳。",
+		"seconds": 9.216
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|产酒精的无氧呼吸：1分子葡萄糖产生2分子二氧化碳，不消耗氧气。",
+		"seconds": 7.104
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：酵母菌吸收氧气6摩尔，释放二氧化碳10摩尔：有氧呼吸消耗葡萄糖1摩尔；无氧呼吸产生二氧化碳4摩尔，消耗葡萄糖2摩尔。",
+		"seconds": 12.84
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先用氧气吸收量算出有氧呼吸，再用剩下的二氧化碳算无氧呼吸。",
+		"seconds": 7.872
+	},
+	"fc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，影响细胞呼吸的因素。温度主要通过影响呼吸酶的活性起作用。",
+		"seconds": 7.08
+	},
+	"fc2": {
+		"key": "zh-CN-XiaoxiaoNeural|氧气浓度：为0时只进行无氧呼吸；随氧气浓度增大，无氧呼吸受抑制，有氧呼吸增强；二氧化碳释放总量最少时，有机物消耗最少。",
+		"seconds": 13.152
+	},
+	"fc3": {
+		"key": "zh-CN-XiaoxiaoNeural|水：一定范围内，自由水含量越高，细胞呼吸越旺盛；二氧化碳浓度升高，会抑制细胞呼吸。",
+		"seconds": 9.384
+	},
+	"fc4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：储存果蔬选低温、低氧、适宜湿度；储存种子选低温、低氧、干燥。",
+		"seconds": 7.776
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，细胞呼吸原理的应用。包扎伤口选用透气的消毒纱布，抑制破伤风芽孢杆菌等厌氧菌的繁殖。",
+		"seconds": 10.176
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|酿酒先通气、后密封：先让酵母菌有氧呼吸、大量繁殖，再无氧呼吸、产生酒精。",
+		"seconds": 8.28
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|土壤板结要及时松土透气，促进根的有氧呼吸，利于吸收无机盐；提倡慢跑等有氧运动，避免肌细胞产生大量乳酸。",
+		"seconds": 11.28
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：稻田要定期排水，防止根进行无氧呼吸产生酒精，导致烂根。",
+		"seconds": 7.152
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，只有第一阶段释放能量。判断二？错，人无氧呼吸只产生乳酸。",
+		"seconds": 9
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，也可能同时进行产乳酸的无氧呼吸。",
+		"seconds": 7.944
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，是为了抑制厌氧菌。",
+		"seconds": 6.288
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：先用氧气算有氧，剩下的二氧化碳算无氧。我们下期再见！",
+		"seconds": 8.28
+	}
+}

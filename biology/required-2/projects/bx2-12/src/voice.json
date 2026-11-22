@@ -1,0 +1,114 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第三章第四节——基因通常是有遗传效应的 DNA 片段。",
+		"seconds": 9.048
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考基因的本质、基因、DNA、染色体的关系和 DNA 指纹技术。",
+		"seconds": 7.008
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按五个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.448
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，说明基因与 DNA 关系的实例。大肠杆菌一个 DNA 上分布着大约 4400 个基因，但基因的总长度小于 DNA 的长度。",
+		"seconds": 12.528
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|水母的绿色荧光蛋白基因转入小鼠，小鼠在紫外线下也能像水母一样发光——说明基因具有遗传效应。",
+		"seconds": 9.6
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|人类基因组计划测定的 24 个 DNA 分子中，构成基因的碱基数不超过碱基总数的 2%。",
+		"seconds": 8.808
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：由这些实例推出——基因是 DNA 的片段，但 DNA 上并非所有片段都是基因。",
+		"seconds": 8.352
+	},
+	"es1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，基因的本质。对 DNA 生物来说，基因通常是有遗传效应的 DNA 片段。",
+		"seconds": 8.328
+	},
+	"es2": {
+		"key": "zh-CN-XiaoxiaoNeural|对 RNA 病毒来说，基因是有遗传效应的 RNA 片段。",
+		"seconds": 5.736
+	},
+	"es3": {
+		"key": "zh-CN-XiaoxiaoNeural|基因是控制生物性状的基本单位，也是遗传物质的结构和功能单位。",
+		"seconds": 6.36
+	},
+	"es4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：说“基因就是 DNA 片段”不够准确，关键词是“有遗传效应”；“所有生物的基因都是 DNA 片段”是错的。",
+		"seconds": 10.368
+	},
+	"if1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，遗传信息蕴藏在 4 种碱基的排列顺序之中。",
+		"seconds": 5.376
+	},
+	"if2": {
+		"key": "zh-CN-XiaoxiaoNeural|碱基排列顺序的千变万化，构成了 DNA 的多样性；碱基特定的排列顺序，构成了每个 DNA 的特异性。",
+		"seconds": 9.6
+	},
+	"if3": {
+		"key": "zh-CN-XiaoxiaoNeural|DNA 的多样性和特异性，是生物体多样性和特异性的物质基础。",
+		"seconds": 6.168
+	},
+	"if4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：遗传信息在碱基排列顺序中，不是在碱基种类或数量中；脱氧核糖和磷酸的交替排列是固定的，不储存信息。",
+		"seconds": 11.184
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，脱氧核苷酸、基因、DNA、染色体的关系。脱氧核苷酸是基因的基本单位，每个基因含有成百上千个脱氧核苷酸。",
+		"seconds": 12.528
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|每个 DNA 分子上有许多个基因。",
+		"seconds": 3.264
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|染色体是 DNA 的主要载体：一条染色体上通常有一个 DNA，复制后有两个 DNA；基因在染色体上呈线性排列。",
+		"seconds": 11.136
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：染色体是主要载体，线粒体、叶绿体中的 DNA 不在染色体上；原核细胞没有染色体。",
+		"seconds": 9.24
+	},
+	"fp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，DNA 指纹技术。每个人的 DNA 都有特定的碱基序列，就像指纹一样独一无二。",
+		"seconds": 8.736
+	},
+	"fp2": {
+		"key": "zh-CN-XiaoxiaoNeural|把 DNA 切成片段，电泳后形成特定的条带图谱，比对条带就能确定身份。",
+		"seconds": 7.44
+	},
+	"fp3": {
+		"key": "zh-CN-XiaoxiaoNeural|应用：刑侦破案、亲子鉴定、遇难者身份鉴定等。",
+		"seconds": 5.328
+	},
+	"fp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：亲子鉴定时，孩子的每一条带，要么来自母亲，要么来自父亲；原理是 DNA 的特异性。",
+		"seconds": 9.456
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，只有有遗传效应的片段才是基因。判断二？对。",
+		"seconds": 7.464
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，RNA 病毒的基因是 RNA 片段。判断四？错，复制后有两个 DNA。",
+		"seconds": 9.888
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？对。",
+		"seconds": 4.68
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|五个考点串成一条线：有遗传效应的片段才叫基因。我们下期再见！",
+		"seconds": 6.864
+	}
+}

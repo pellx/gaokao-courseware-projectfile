@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第五章第二节——其他植物激素。",
+		"seconds": 7.512
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考各种激素的合成部位和作用、激素之间的相互作用，以及激素含量变化的曲线。",
+		"seconds": 8.496
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按十个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"ga1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，赤霉素。合成部位主要是幼芽、幼根和未成熟的种子。",
+		"seconds": 7.032
+	},
+	"ga2": {
+		"key": "zh-CN-XiaoxiaoNeural|主要作用：促进细胞伸长，从而引起植株增高；促进细胞分裂与分化；促进种子萌发、开花和果实发育。",
+		"seconds": 10.392
+	},
+	"ga3": {
+		"key": "zh-CN-XiaoxiaoNeural|水稻恶苗病就和赤霉素有关：赤霉菌产生的赤霉素使植株疯长，结实率反而降低。",
+		"seconds": 8.28
+	},
+	"ga4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：赤霉菌产生的赤霉素不是植物激素，因为它不是植物体内产生的。",
+		"seconds": 7.224
+	},
+	"ck1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，细胞分裂素。合成部位主要是根尖。",
+		"seconds": 5.184
+	},
+	"ck2": {
+		"key": "zh-CN-XiaoxiaoNeural|主要作用：促进细胞分裂；促进芽的分化、侧枝发育和叶绿素合成。",
+		"seconds": 6.984
+	},
+	"ck3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：细胞分裂素能延缓叶片衰老，可用于蔬菜保鲜；它和生长素在促进细胞分裂上是协同的。",
+		"seconds": 9.6
+	},
+	"ab1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，脱落酸。合成部位是根冠、萎蔫的叶片等。",
+		"seconds": 5.688
+	},
+	"ab2": {
+		"key": "zh-CN-XiaoxiaoNeural|主要作用：抑制细胞分裂；促进气孔关闭；促进叶和果实的衰老和脱落；维持种子休眠。",
+		"seconds": 8.928
+	},
+	"ab3": {
+		"key": "zh-CN-XiaoxiaoNeural|干旱时，叶片中的脱落酸增多，气孔关闭，减少水分散失，帮助植物度过不良环境。",
+		"seconds": 8.4
+	},
+	"ab4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：小麦即将成熟时，如果经历干热后又遇大雨，种子容易在穗上发芽，原因是高温使脱落酸降解，种子的休眠被解除。",
+		"seconds": 12.432
+	},
+	"et1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，乙烯。植物体各个部位都能合成乙烯，它是一种气体激素。",
+		"seconds": 7.008
+	},
+	"et2": {
+		"key": "zh-CN-XiaoxiaoNeural|主要作用：促进果实成熟；促进开花；促进叶、花、果实脱落。",
+		"seconds": 6.888
+	},
+	"et3": {
+		"key": "zh-CN-XiaoxiaoNeural|生活中，把成熟的苹果和青香蕉放在一起，香蕉会熟得更快，就是成熟苹果释放的乙烯在起作用。",
+		"seconds": 9.264
+	},
+	"et4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：乙烯促进果实成熟，生长素促进果实发育，二者不要混淆；培育无子番茄用的是生长素，不是乙烯。",
+		"seconds": 10.584
+	},
+	"br1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，油菜素内酯，已被正式认定为第六类植物激素。",
+		"seconds": 5.688
+	},
+	"br2": {
+		"key": "zh-CN-XiaoxiaoNeural|它能促进茎、叶细胞的扩展和分裂，促进花粉管生长和种子萌发等。",
+		"seconds": 6.72
+	},
+	"br3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：六类植物激素中，脱落酸以抑制作用为主；常考的“促进脱落”有两种激素：脱落酸和乙烯。",
+		"seconds": 9.144
+	},
+	"sn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，激素之间的相互作用：协同与相抗衡。",
+		"seconds": 5.064
+	},
+	"sn2": {
+		"key": "zh-CN-XiaoxiaoNeural|协同：在促进细胞分裂方面，生长素主要促进细胞核的分裂，细胞分裂素主要促进细胞质的分裂，二者表现为协同作用。",
+		"seconds": 11.856
+	},
+	"sn3": {
+		"key": "zh-CN-XiaoxiaoNeural|相抗衡：在调节种子萌发方面，赤霉素促进萌发，脱落酸抑制萌发，二者作用相抗衡。",
+		"seconds": 8.832
+	},
+	"sn4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先锁定同一生理过程，再看两种激素的作用方向是否一致：一致是协同，相反是相抗衡。",
+		"seconds": 10.008
+	},
+	"ae1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，生长素和乙烯的关系。",
+		"seconds": 3.48
+	},
+	"ae2": {
+		"key": "zh-CN-XiaoxiaoNeural|当生长素浓度升高到一定值时，就会促进乙烯的合成；",
+		"seconds": 5.304
+	},
+	"ae3": {
+		"key": "zh-CN-XiaoxiaoNeural|而乙烯含量的升高，反过来又会抑制生长素的作用。",
+		"seconds": 4.944
+	},
+	"ae4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：这可以解释高浓度生长素为什么会抑制生长；题目常给出两种激素含量变化的曲线，让你分析这种相互作用。",
+		"seconds": 10.896
+	},
+	"rt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，决定器官生长发育的，往往不是某种激素的绝对含量，而是不同激素的相对含量。",
+		"seconds": 8.448
+	},
+	"rt2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如，黄瓜茎端脱落酸与赤霉素的比值较高，有利于分化形成雌花；比值较低，有利于分化形成雄花。",
+		"seconds": 10.056
+	},
+	"rt3": {
+		"key": "zh-CN-XiaoxiaoNeural|又如植物组织培养中，生长素与细胞分裂素的比值高时，有利于根的分化；比值低时，有利于芽的分化。",
+		"seconds": 9.72
+	},
+	"rt4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：抓住“生长素多，生根”“细胞分裂素多，生芽”，不要记反。",
+		"seconds": 6.384
+	},
+	"od1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，激素调节在时间上的顺序性。",
+		"seconds": 4.032
+	},
+	"od2": {
+		"key": "zh-CN-XiaoxiaoNeural|在猕猴桃果实的发育过程中，细胞分裂素、生长素、赤霉素、脱落酸等激素的含量，会像接力一样，按照次序出现高峰。",
+		"seconds": 11.28
+	},
+	"od3": {
+		"key": "zh-CN-XiaoxiaoNeural|这说明植物的生长发育，不是受单一激素的调节，而是多种激素相互作用、共同调节的结果。",
+		"seconds": 8.928
+	},
+	"od4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：看激素含量的曲线，先找各激素出现高峰的时间，再联系那个时期果实是在细胞分裂、细胞伸长还是成熟。",
+		"seconds": 11.28
+	},
+	"gn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点十，植物激素调节与基因表达的关系。",
+		"seconds": 4.56
+	},
+	"gn2": {
+		"key": "zh-CN-XiaoxiaoNeural|植物生长发育的调控，是由基因表达调控、激素调节和环境因素调节共同完成的。",
+		"seconds": 7.8
+	},
+	"gn3": {
+		"key": "zh-CN-XiaoxiaoNeural|激素作为信息分子，会影响细胞的基因表达；同时，激素的产生和分布，是基因表达调控的结果，也受环境因素的影响。",
+		"seconds": 11.256
+	},
+	"gn4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：植物激素不直接参与细胞代谢，而是给细胞传达调节代谢的信息；植物生长发育从根本上说，是基因组在一定时间和空间上程序性表达的结果。",
+		"seconds": 14.4
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|赤霉素能促进细胞伸长，引起植株增高？对。脱落酸能促进种子萌发？错，它维持种子休眠。",
+		"seconds": 10.416
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|乙烯只在成熟的果实中合成？错，植物体各个部位都能合成。赤霉素与脱落酸在种子萌发方面作用相抗衡？对。",
+		"seconds": 11.952
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|生长素与细胞分裂素比值高时有利于芽的分化？错，有利于根的分化。植物激素直接参与细胞代谢？错，只传递调节代谢的信息。",
+		"seconds": 13.512
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|十个考点串起来：五类激素记准合成部位和作用，再看协同、相抗衡、相对含量和顺序性，最后回到基因表达。掌握这些，植物激素就能稳稳拿分！我们下期再见！",
+		"seconds": 16.104
+	}
+}

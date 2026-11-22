@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第二章第二节的第一部分——动物细胞培养。",
+		"seconds": 8.352
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考动物细胞培养的条件、原代培养和传代培养，以及干细胞的类型和应用。",
+		"seconds": 7.92
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"ov1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，动物细胞工程。常用的技术有动物细胞培养、动物细胞融合和动物体细胞核移植等。",
+		"seconds": 9.528
+	},
+	"ov2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中，动物细胞培养是动物细胞工程的基础。",
+		"seconds": 4.608
+	},
+	"ov3": {
+		"key": "zh-CN-XiaoxiaoNeural|动物细胞培养，是从动物体中取出相关的组织，把它分散成单个细胞，在适宜条件下让这些细胞生长和增殖的技术。",
+		"seconds": 10.8
+	},
+	"ov4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问原理。解题方法：动物细胞培养的原理是细胞增殖，不是细胞全能性。",
+		"seconds": 8.328
+	},
+	"cd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，动物细胞培养的条件。第一，营养：糖类、氨基酸、无机盐、维生素等，通常还要加入血清等天然成分。",
+		"seconds": 11.544
+	},
+	"cd2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，无菌、无毒的环境：培养液和用具要灭菌，还要定期更换培养液，清除代谢物。",
+		"seconds": 8.664
+	},
+	"cd3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，适宜的温度、pH和渗透压：哺乳动物细胞多在36.5摄氏度左右，pH为7.2到7.4。",
+		"seconds": 10.104
+	},
+	"cd4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四，气体环境：95%的空气加5%的二氧化碳，放在二氧化碳培养箱中培养。",
+		"seconds": 8.928
+	},
+	"cd5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氧气是细胞代谢所必需的；二氧化碳的主要作用是维持培养液的pH。",
+		"seconds": 7.68
+	},
+	"ps1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，动物细胞培养的过程。取动物组织，剪碎，用胰蛋白酶、胶原蛋白酶等处理，分散成单个细胞，制成细胞悬液。",
+		"seconds": 11.856
+	},
+	"ps2": {
+		"key": "zh-CN-XiaoxiaoNeural|把细胞悬液放入培养瓶中培养，这是原代培养，也就是分瓶之前的培养。",
+		"seconds": 7.056
+	},
+	"ps3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞长满后，再用胰蛋白酶处理，分瓶继续培养，这就是传代培养。",
+		"seconds": 6.6
+	},
+	"ps4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能用胃蛋白酶，因为胃蛋白酶的最适pH是酸性，而动物细胞培养液接近中性。",
+		"seconds": 8.88
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，贴壁生长和接触抑制。悬液中分散的细胞很快就贴附在瓶壁上，这叫细胞贴壁。",
+		"seconds": 9.216
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|贴壁细胞分裂生长，当细胞表面相互接触时，通常会停止分裂增殖，这叫接触抑制。",
+		"seconds": 8.328
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以，原代培养的细胞长满瓶壁后，要用胰蛋白酶处理、分瓶传代。",
+		"seconds": 6.84
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：传代时为什么要用胰蛋白酶？解题方法：让贴壁的细胞从瓶壁上脱离，分散成单个细胞。",
+		"seconds": 9.744
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，干细胞的类型。胚胎干细胞，简称ES细胞，存在于早期胚胎中。",
+		"seconds": 7.752
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|它具有分化为成年动物体内任何一种类型的细胞，并形成机体所有组织和器官、甚至个体的潜能。",
+		"seconds": 9.072
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|成体干细胞，存在于成体组织中，比如骨髓中的造血干细胞、神经干细胞。它们一般只能分化成特定的细胞或组织。",
+		"seconds": 11.232
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|诱导多能干细胞，简称iPS细胞，是通过体外诱导成纤维细胞等，获得的类似胚胎干细胞的细胞。",
+		"seconds": 9.456
+	},
+	"st5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：成体干细胞不具有发育成完整个体的能力；ES细胞的分化潜能最大。",
+		"seconds": 7.584
+	},
+	"sa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，干细胞的应用。造血干细胞移植，比如骨髓移植，可以治疗白血病等疾病。",
+		"seconds": 8.304
+	},
+	"sa2": {
+		"key": "zh-CN-XiaoxiaoNeural|ES细胞必须从胚胎中获取，涉及伦理问题，应用受到限制。",
+		"seconds": 6.264
+	},
+	"sa3": {
+		"key": "zh-CN-XiaoxiaoNeural|iPS细胞可以来源于病人自身的体细胞，用它培育的细胞或器官移植回病人体内，理论上可以避免免疫排斥。",
+		"seconds": 10.368
+	},
+	"sa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：iPS细胞也有风险，比如可能导致肿瘤的发生；不要只记优点。",
+		"seconds": 7.128
+	},
+	"vs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，动物细胞培养与植物组织培养的比较。原理不同：植物组织培养是细胞的全能性，动物细胞培养是细胞增殖。",
+		"seconds": 12.024
+	},
+	"vs2": {
+		"key": "zh-CN-XiaoxiaoNeural|培养基不同：植物用固体培养基，加植物激素；动物用液体培养基，常加血清。",
+		"seconds": 8.016
+	},
+	"vs3": {
+		"key": "zh-CN-XiaoxiaoNeural|结果不同：植物组织培养得到完整植株；动物细胞培养得到的是细胞群，不是个体。",
+		"seconds": 8.304
+	},
+	"vs4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：动物细胞培养不能体现细胞的全能性，因为没有发育成完整个体。",
+		"seconds": 7.008
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：动物细胞培养常需加入血清等天然成分？对。判断二：二氧化碳主要用于细胞呼吸？错，主要是维持培养液的pH。",
+		"seconds": 13.44
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：分散动物组织可以用胃蛋白酶？错，用胰蛋白酶。判断四：接触抑制时需要分瓶传代？对。",
+		"seconds": 11.352
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：成体干细胞能发育成完整个体？错。判断六：动物细胞培养不能体现细胞的全能性？对。",
+		"seconds": 11.064
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：胰酶分散、血清营养，二氧化碳稳pH。我们下期再见！",
+		"seconds": 8.304
+	}
+}

@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修二第三章第一节——生态系统的结构。",
+		"seconds": 7.944
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考生态系统组成成分的判断、食物链和食物网的分析，以及某种生物数量变化对其他生物的影响。",
+		"seconds": 9.864
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，生态系统的概念。在一定空间内，由生物群落与它的非生物环境相互作用而形成的统一整体，叫做生态系统。",
+		"seconds": 11.736
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|生态系统的空间范围有大有小，生物圈是地球上最大的生态系统。",
+		"seconds": 6.648
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|生态系统可以分为自然生态系统，比如森林、草原、海洋；和人工生态系统，比如农田、果园、城市。",
+		"seconds": 10.416
+	},
+	"cc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：生态系统等于生物群落加非生物环境。只说“全部生物”是群落，不是生态系统。",
+		"seconds": 8.664
+	},
+	"pt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，生态系统的组成成分有四种。第一种，非生物的物质和能量，比如阳光、热能、水、空气、无机盐。",
+		"seconds": 11.208
+	},
+	"pt2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二种，生产者，主要是绿色植物，属于自养生物。它把无机物转变成有机物，是生态系统的基石。",
+		"seconds": 9.936
+	},
+	"pt3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三种，消费者，主要是动物。它能加快物质循环，还能帮助植物传粉和传播种子。",
+		"seconds": 8.328
+	},
+	"pt4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四种，分解者，主要是细菌和真菌。它把动植物遗体和动物排遗物中的有机物分解成无机物。",
+		"seconds": 9.384
+	},
+	"pt5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问哪种成分是生态系统的基石——生产者；哪种成分缺少了，生态系统就会崩溃——生产者和分解者。",
+		"seconds": 10.776
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，成分判断的易错点。记住三个“不一定”。",
+		"seconds": 5.112
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|植物不一定是生产者：菟丝子营寄生生活，属于消费者。",
+		"seconds": 5.712
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|动物不一定是消费者：蚯蚓、蜣螂以腐殖质和粪便为食，属于分解者。",
+		"seconds": 7.2
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|细菌不一定是分解者：硝化细菌能进行化能合成作用，属于生产者；寄生细菌属于消费者。",
+		"seconds": 9.096
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：只看营养方式。能自己合成有机物的是生产者；以活的生物为食的是消费者；以遗体和排遗物为食的是分解者。",
+		"seconds": 11.976
+	},
+	"lk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，各组成成分之间的关系。生产者通过光合作用，把非生物环境中的物质和能量引入生物群落。",
+		"seconds": 10.032
+	},
+	"lk2": {
+		"key": "zh-CN-XiaoxiaoNeural|消费者以生产者为食，有机物沿着食物链传递。",
+		"seconds": 4.992
+	},
+	"lk3": {
+		"key": "zh-CN-XiaoxiaoNeural|生产者和消费者的遗体、排遗物被分解者分解，物质又回到非生物环境中。",
+		"seconds": 7.536
+	},
+	"lk4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：生产者和分解者是联系生物群落和非生物环境的两大“桥梁”；消费者不是必需的，但能加快物质循环。",
+		"seconds": 10.584
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，食物链。生态系统中各种生物因食物关系而形成的一种联系，叫做食物链。",
+		"seconds": 8.784
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如：草、蝗虫、青蛙、蛇、鹰。起点是生产者，终点是不被其他动物捕食的最高营养级。",
+		"seconds": 10.104
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|生产者是第一营养级，初级消费者是第二营养级，以此类推。消费者的级别，等于营养级数减1。",
+		"seconds": 9.912
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：食物链中只有生产者和消费者，不包括分解者和非生物的物质和能量；食物链一般不超过五个营养级。",
+		"seconds": 10.128
+	},
+	"wb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，食物网。许多食物链彼此相互交错，连接成复杂的营养关系，就是食物网。",
+		"seconds": 8.712
+	},
+	"wb2": {
+		"key": "zh-CN-XiaoxiaoNeural|数食物链：从生产者出发，沿箭头一直数到最高营养级，不能中途停下。这个食物网有五条食物链。",
+		"seconds": 10.104
+	},
+	"wb3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一种生物可以占不同的营养级：鹰在草、鼠、鹰中是第三营养级，在草、鼠、蛇、鹰中是第四营养级。",
+		"seconds": 10.944
+	},
+	"wb4": {
+		"key": "zh-CN-XiaoxiaoNeural|两种生物之间可能既有捕食，又有竞争：鹰吃蛇，鹰和蛇又都吃鼠。",
+		"seconds": 7.152
+	},
+	"wb5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：食物网越复杂，生态系统抵抗外界干扰的能力越强。数食物链、找营养级、判断种间关系，是三个必考动作。",
+		"seconds": 11.616
+	},
+	"cg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，食物网中生物数量变化的分析。",
+		"seconds": 4.2
+	},
+	"cg2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一营养级减少：其他生物都会因食物减少而减少。",
+		"seconds": 5.28
+	},
+	"cg3": {
+		"key": "zh-CN-XiaoxiaoNeural|天敌减少：被捕食者先增加，后因种内竞争加剧而减少，最后趋于稳定。",
+		"seconds": 7.584
+	},
+	"cg4": {
+		"key": "zh-CN-XiaoxiaoNeural|中间营养级减少：比如蛇减少，鹰可以更多地捕食鼠，营养级降低，获得的能量反而更多，所以鹰的数量增加。",
+		"seconds": 10.536
+	},
+	"cg5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先看减少的生物处在哪个营养级；中间环节变化时，抓住“食物来源是否多样”和“营养级越低获得的能量越多”两点分析。",
+		"seconds": 12.48
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：生物圈是地球上最大的生态系统？对。判断二：细菌都是分解者？错，硝化细菌是生产者。",
+		"seconds": 11.52
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：蚯蚓、蜣螂属于分解者？对。判断四：食物链中包含分解者？错，只含生产者和消费者。",
+		"seconds": 11.616
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：同一生物在食物网中只占一个营养级？错。判断六：食物网越复杂，抵抗干扰的能力越强？对。",
+		"seconds": 11.616
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：成分看营养方式，链条从生产者数起。我们下期再见！",
+		"seconds": 8.112
+	}
+}

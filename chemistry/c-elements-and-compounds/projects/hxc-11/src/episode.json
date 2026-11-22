@@ -1,0 +1,125 @@
+{
+	"id": "HXC-11",
+	"title": "硝酸、氮循环与环境",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第11期 / 共16期",
+	"points": [
+		"硝酸的不稳定性",
+		"硝酸的强氧化性",
+		"硝酸参与的计算",
+		"工业制硝酸",
+		"酸雨及防治",
+		"氮氧化物的治理",
+		"氮循环图"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"硝酸",
+				true
+			],
+			[
+				"、氮循环与环境"
+			]
+		],
+		"subtitle": "浓稀硝酸与铜 · 酸雨 · 脱硝 · 氮循环",
+		"photo": "no2.jpg",
+		"photoCaption": "红棕色的二氧化氮气体",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"硝酸",
+					true
+				],
+				[
+					"、氮循环"
+				]
+			],
+			[
+				[
+					"与环境"
+				]
+			]
+		],
+		"photo": "no2.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "二氧化氮",
+		"credit": "W. Oelen, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "浓硝酸保存在棕色试剂瓶中，因为它见光易分解",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Cu 与稀硝酸反应生成 H2",
+				"ok": false,
+				"fix": "生成 NO"
+			},
+			{
+				"q": "常温下 Fe 遇浓硝酸钝化，说明两者不反应",
+				"ok": false,
+				"fix": "钝化是化学反应"
+			},
+			{
+				"q": "过量 Fe 与稀硝酸反应，最终生成 Fe(NO3)2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "pH < 7 的雨水就是酸雨",
+				"ok": false,
+				"fix": "pH < 5.6 才是酸雨"
+			},
+			{
+				"q": "用 NH3 把 NO 还原成 N2，NH3 作还原剂",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"硝酸",
+				true
+			],
+			[
+				"、氮循环与环境"
+			]
+		],
+		"endLine": "浓得二氧化氮，稀得一氧化氮，铁过量得亚铁",
+		"slogan": "浓二氧化氮，稀一氧化氮，铁过量得亚铁"
+	},
+	"credits": "图片来源：Wikimedia Commons —— W. Oelen《Nitrogen dioxide gas》，CC BY-SA 3.0；插图来自 pixiv：けば、えんぴつ、ミモリ（侵删）",
+	"anime": [
+		{
+			"key": "kyoko",
+			"src": "kyoko.jpg",
+			"credit": "插图：けば《京子ちゃんデフォルメ！！》pixiv #42418100",
+			"url": "https://www.pixiv.net/artworks/42418100"
+		},
+		{
+			"key": "cry",
+			"src": "cry.jpg",
+			"credit": "插图：えんぴつ《にーな(泣)》pixiv #124694513",
+			"url": "https://www.pixiv.net/artworks/124694513"
+		},
+		{
+			"key": "circle",
+			"src": "circle.jpg",
+			"credit": "插图：ミモリ《デフォルメ結束バンド》pixiv #133408835",
+			"url": "https://www.pixiv.net/artworks/133408835"
+		}
+	]
+}

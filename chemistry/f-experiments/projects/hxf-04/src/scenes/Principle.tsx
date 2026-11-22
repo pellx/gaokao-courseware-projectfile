@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Principle: React.FC = () => <AutoScene k="principle" d={{"tag": "考点一", "title": "分离提纯的原则", "blocks": [{"t": "chain", "steps": [{"at": "pr1", "text": "{不增}"}, {"at": "pr1", "text": "{不减}"}, {"at": "pr1", "text": "易分离"}, {"at": "pr1", "text": "易复原"}], "arrows": [], "center": true, "size": 42}, {"t": "table", "at": "pr3", "head": ["性质差异", "方法"], "cols": "2fr 1.2fr", "rows": [{"at": "pr3", "cells": ["溶解性不同（固液）", "过滤"]}, {"at": "pr3", "cells": ["溶解度随温度变化不同", "{结晶}"]}, {"at": "pr3", "cells": ["沸点不同（互溶液体）", "{蒸馏}"]}, {"at": "pr3", "cells": ["在两种溶剂中溶解度不同", "萃取"]}], "size": 31, "rowHeight": 56}], "callout": {"label": "解题方法", "at": "pr4", "text": "找{差别最大的性质}"}, "beat": {"k": "berries", "at": "pr3b", "text": "混在一起的\n{一个一个分开|red}"}}} />;

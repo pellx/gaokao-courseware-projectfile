@@ -1,0 +1,128 @@
+{
+	"id": "HXF-08",
+	"title": "实验探究（上）：方案设计与控制变量",
+	"subject": "chemistry",
+	"book": "化学实验 · 第8期 / 共9期",
+	"points": [
+		"探究题的结构",
+		"读懂目的与猜想",
+		"控制变量",
+		"对照与空白实验",
+		"排除干扰",
+		"补全实验方案",
+		"常见探究主题"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学实验",
+		"title": [
+			[
+				"实验探究（上）",
+				true
+			],
+			[
+				"：方案设计与控制变量"
+			]
+		],
+		"subtitle": "目的 · 猜想 · 控制变量 · 对照 · 排除干扰",
+		"photo": "priestley.jpg",
+		"photoCaption": "普里斯特利：用对照实验研究气体",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"实验探究",
+					true
+				]
+			],
+			[
+				[
+					"（上）",
+					false
+				]
+			],
+			[
+				[
+					"方案与变量控制"
+				]
+			]
+		],
+		"photo": "priestley.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "普里斯特利",
+		"credit": "Thomas Holloway, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "控制变量实验中，两组实验可以同时改变两个条件",
+				"ok": false,
+				"fix": "只能改变一个条件"
+			},
+			{
+				"q": "改变某溶液体积时，要用水补足使总体积相同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "研究 Fe^3+ 的作用，可用 NaCl 溶液代替 FeCl3 溶液作对照",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "实验结论只需写“猜想 1 成立”",
+				"ok": false,
+				"fix": "要写出具体原因并回扣目的"
+			},
+			{
+				"q": "补全方案时可以只写“取少量某溶液”",
+				"ok": false,
+				"fix": "要写明浓度和用量，与对照一致"
+			},
+			{
+				"q": "溶解氧可能干扰还原性物质的实验",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"实验探究（上）",
+				true
+			],
+			[
+				"：方案设计与控制变量"
+			]
+		],
+		"endLine": "只改一个条件，对照只差一个离子",
+		"slogan": "只改一个条件，对照只差一个离子"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Thomas Holloway《Portrait of Joseph Priestley》，公有领域；插图来自 pixiv：かぼちゃ(かぼます)、ゆうさく、Jess！（侵删）",
+	"anime": [
+		{
+			"key": "doodle",
+			"src": "doodle.jpg",
+			"credit": "插图：かぼちゃ(かぼます)《らくがきまとめ(4)》pixiv #107591630",
+			"url": "https://www.pixiv.net/artworks/107591630"
+		},
+		{
+			"key": "kimono",
+			"src": "kimono.jpg",
+			"credit": "插图：ゆうさく《けいおん！新年、唯さん》pixiv #86819266",
+			"url": "https://www.pixiv.net/artworks/86819266"
+		},
+		{
+			"key": "dots",
+			"src": "dots.jpg",
+			"credit": "插图：Jess！《平沢唯！ステージ衣装》pixiv #146625836",
+			"url": "https://www.pixiv.net/artworks/146625836"
+		}
+	]
+}

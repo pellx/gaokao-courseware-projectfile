@@ -1,0 +1,127 @@
+{
+	"id": "HXA-13",
+	"title": "分子的结构与性质（下）：分子间作用力、氢键与溶解性",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第13期 / 共21期",
+	"points": [
+		"范德华力",
+		"氢键",
+		"分子间氢键与熔沸点",
+		"分子内氢键",
+		"氢键与密度、生物分子",
+		"溶解性",
+		"与氢键无关的事实",
+		"规范表述",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"分子间作用力、"
+			],
+			[
+				"氢键与溶解性",
+				true
+			]
+		],
+		"subtitle": "范德华力 · 氢键 · 熔沸点 · 相似相溶",
+		"photo": "vanderwaals.jpg",
+		"photoCaption": "范德华：研究分子间作用力",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"范德华力"
+				]
+			],
+			[
+				[
+					"氢键",
+					true
+				],
+				[
+					"溶解性"
+				]
+			]
+		],
+		"photo": "vanderwaals.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "范德华",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "氢键是一种特殊的化学键",
+				"ok": false,
+				"fix": "属于分子间作用力"
+			},
+			{
+				"q": "NH3 易液化与 NH3 分子间存在氢键有关",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "H2O 比 H2S 稳定，是因为水分子间有氢键",
+				"ok": false,
+				"fix": "O—H 键能比 S—H 大"
+			},
+			{
+				"q": "邻羟基苯甲醛的沸点低于对羟基苯甲醛",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "冰的密度比水小与氢键有关",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "I2 在水中的溶解度比在 CCl4 中大",
+				"ok": false,
+				"fix": "在 CCl4 中更大（相似相溶）"
+			}
+		],
+		"endTitle": [
+			[
+				"分子间作用力、"
+			],
+			[
+				"氢键与溶解性",
+				true
+			]
+		],
+		"endLine": "范德华力 · 氢键 · 分子间与分子内 · 密度 · 溶解性 · 无关事实",
+		"slogan": "氢键管熔沸点，键能管稳定性！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Unknown author《Johannes Diderik van der Waals》Public domain；插图来自 pixiv：big soda、未鎚、リック（侵删）",
+	"anime": [
+		{
+			"key": "hug",
+			"src": "hug.jpg",
+			"credit": "插图：big soda《FRIENDSHIP》pixiv #112885736",
+			"url": "https://www.pixiv.net/artworks/112885736"
+		},
+		{
+			"key": "same",
+			"src": "same.jpg",
+			"credit": "插图：未鎚《ぐいぐい距離詰めてくる喜多ちゃん》pixiv #103725546",
+			"url": "https://www.pixiv.net/artworks/103725546"
+		},
+		{
+			"key": "ice",
+			"src": "ice.jpg",
+			"credit": "插图：リック《虹夏と楽しむ野球観戦》pixiv #106805542",
+			"url": "https://www.pixiv.net/artworks/106805542"
+		}
+	]
+}

@@ -1,0 +1,38 @@
+{
+	"id": "BX1-04",
+	"title": "细胞中的无机物",
+	"subject": "biology",
+	"book": "人教版·必修1·第2章",
+	"points": ["水的含量特点", "水是良好的溶剂", "自由水与结合水", "比值与代谢抗逆", "无机盐组成化合物", "无机盐维持生命", "验证必需元素"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞中的"], ["无机物", true]],
+		"subtitle": "自由水 · 结合水 · 无机盐",
+		"photo": "wheat.jpg",
+		"photoCaption": "小麦种子：晒干时失去的主要是自由水",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞中的"]], [["无机物", true]]],
+		"kicker": "水 · 无机盐 · 实验设计",
+		"photo": "wheat.jpg",
+		"photoPos": "center center",
+		"photoTag": "小麦种子",
+		"credit": "Photo: Thamizhpparithi Maari, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "结合水是细胞内的良好溶剂", "ok": false, "fix": "自由水才是细胞内的良好溶剂"},
+			{"q": "自由水与结合水比值越高，抗寒能力越强", "ok": false, "fix": "比值越高代谢越旺盛，抗逆性越弱"},
+			{"q": "晒干的种子失去的主要是自由水", "ok": true, "fix": ""},
+			{"q": "Mg是叶绿素的组成成分，缺Mg叶片发黄", "ok": true, "fix": ""},
+			{"q": "无机盐能为细胞的生命活动提供能量", "ok": false, "fix": "无机盐不能为细胞提供能量"},
+			{"q": "验证Mg是必需元素，对照组用土壤栽培", "ok": false, "fix": "对照组用完全培养液"}
+		],
+		"endTitle": [["细胞中的"], ["无机物", true]],
+		"endLine": "水的含量 · 自由水与结合水 · 无机盐 · 实验设计",
+		"slogan": "代谢看自由水，抗逆看结合水！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Thamizhpparithi Maari《A close-up image of wheat grains》CC BY-SA 4.0"
+}

@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|新能源与新型电化学装置。",
+		"seconds": 3.168
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷选择题常给一个从没见过的装置，问电极、电子、离子和电极反应，共七个考点。",
+		"seconds": 8.928
+	},
+	"el1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分析新装置的第一步：有没有外接电源。有电源是电解池，没有是原电池。",
+		"seconds": 8.328
+	},
+	"el2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步：找电子从哪里来：化合价升高、失电子的物质所在的电极，原电池里是负极，电解池里是阳极。",
+		"seconds": 10.176
+	},
+	"el3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步：电子到哪里去：化合价降低、得电子的物质所在的电极，是正极或阴极。",
+		"seconds": 8.016
+	},
+	"el3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个女孩在纸上乱成一团，有人弹琴有人生气：装置再乱，也先找电子的来和去，其余的就跟着定下来。",
+		"seconds": 9.84
+	},
+	"el4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：在图上标出每种物质的化合价，升高的一边失电子，降低的一边得电子。",
+		"seconds": 8.016
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电解水制氢，碱性条件：阴极两个水得到两个电子，生成氢气和两个氢氧根；阳极四个氢氧根失去四个电子，生成氧气和两个水。",
+		"seconds": 13.608
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|酸性，质子交换膜：阴极两个氢离子得到两个电子生成氢气；阳极两个水失去四个电子，生成氧气和四个氢离子。",
+		"seconds": 11.376
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|光催化分解水：在催化剂作用下，光能转化为化学能；催化剂不改变德尔塔H，水分解仍然吸热。",
+		"seconds": 10.008
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氢气在阴极产生，氧气在阳极产生，二者体积比二比一。",
+		"seconds": 6.744
+	},
+	"fl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，液流电池，课本没有：活性物质溶解在电解液里，储存在外部储罐中，用泵循环，适合大规模储能。",
+		"seconds": 10.8
+	},
+	"fl2": {
+		"key": "zh-CN-XiaoxiaoNeural|全钒液流电池放电：正极V O 2加两个氢离子加一个电子，生成V O离子和水；负极二价钒失去一个电子变成三价钒。",
+		"seconds": 12.096
+	},
+	"fl3": {
+		"key": "zh-CN-XiaoxiaoNeural|中间用质子交换膜隔开，氢离子移向正极，平衡电荷。",
+		"seconds": 5.616
+	},
+	"fl3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个小人分布在纸上各忙各的：液流电池的正负极活性物质分开存放，用泵送到电池里反应。",
+		"seconds": 8.784
+	},
+	"fl4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断正负极，看钒的化合价：放电时正五变正四的一极是正极，正二变正三的一极是负极。",
+		"seconds": 10.368
+	},
+	"ma1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，金属空气电池，课本没有：活泼金属，比如锌、铝、锂、镁作负极，空气中的氧气在正极得电子。",
+		"seconds": 11.016
+	},
+	"ma2": {
+		"key": "zh-CN-XiaoxiaoNeural|锌空气电池，碱性：负极锌加两个氢氧根失去两个电子，生成氧化锌和水；正极氧气加两个水得到四个电子，生成四个氢氧根。",
+		"seconds": 12.456
+	},
+	"ma3": {
+		"key": "zh-CN-XiaoxiaoNeural|钠离子电池：原理和锂离子电池相同，钠离子在两极之间嵌入和脱嵌；钠资源丰富，成本低。",
+		"seconds": 9.336
+	},
+	"ma4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：锂空气电池不能用水溶液作电解质，锂会与水反应。",
+		"seconds": 6.072
+	},
+	"sy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，电化学合成，课本没有，原理大题常考：用电解把二氧化碳、氮气等转化成有用物质，目标产物在阴极生成，被还原。",
+		"seconds": 12.84
+	},
+	"sy2": {
+		"key": "zh-CN-XiaoxiaoNeural|电还原二氧化碳，酸性：二氧化碳加两个氢离子加两个电子，生成甲酸；也可以生成一氧化碳、甲醇等。",
+		"seconds": 10.512
+	},
+	"sy3": {
+		"key": "zh-CN-XiaoxiaoNeural|电合成氨：氮气加六个氢离子加六个电子，生成两个氨。阴极常有副反应，氢离子得电子生成氢气，降低了法拉第效率，也就是选择性。",
+		"seconds": 13.464
+	},
+	"sy3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩握着麦克风，像在大声宣布：二氧化碳、氮气都是被还原，所以都在阴极。",
+		"seconds": 8.424
+	},
+	"sy4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：写阴极反应，先由碳或氮的化合价变化算出得几个电子，再用氢离子或水配平。",
+		"seconds": 9.168
+	},
+	"mb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，微生物燃料电池，课本没有：微生物在负极把有机物氧化成二氧化碳，化学能转化为电能。",
+		"seconds": 9.936
+	},
+	"mb2": {
+		"key": "zh-CN-XiaoxiaoNeural|以葡萄糖为例，酸性：负极葡萄糖加六个水失去二十四个电子，生成六个二氧化碳和二十四个氢离子；正极氧气加四个氢离子加四个电子生成两个水。",
+		"seconds": 14.784
+	},
+	"mb3": {
+		"key": "zh-CN-XiaoxiaoNeural|注意：温度过高会使微生物（蛋白质）失活，电池不能在高温下工作。",
+		"seconds": 6.984
+	},
+	"mb4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：负极产生的氢离子通过质子交换膜移向正极；微生物电池可以同时处理有机废水。",
+		"seconds": 8.904
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，新装置选择题的四个判断点。一判电极：正负极或阴阳极。二判电子：只在导线中流动。",
+		"seconds": 10.704
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|三判离子：阳离子移向正极或阴极，阴离子移向负极或阳极；有膜要看膜允许什么通过。",
+		"seconds": 8.856
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|四判电极反应：得失电子数、电解质环境、产物形式，再看溶液 pH 怎么变、转移多少电子。",
+		"seconds": 9.144
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：选项逐个对应到“电极、电子、离子、反应”中的一项来判断。",
+		"seconds": 6.912
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电解水氢气在阳极？错，在阴极。判断二：光解水催化剂降低德尔塔H？错。",
+		"seconds": 10.728
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：全钒电池放电时二价钒在负极被氧化？对。判断四：锂空气电池用水溶液？错。",
+		"seconds": 10.752
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：电还原二氧化碳在阴极？对。判断六：微生物电池能在高温下工作？错。",
+		"seconds": 9.912
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先找电子来和去，电极离子跟着定。模块G到这里就讲完了。",
+		"seconds": 6.024
+	}
+}

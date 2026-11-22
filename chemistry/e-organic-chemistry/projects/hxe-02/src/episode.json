@@ -1,0 +1,111 @@
+{
+	"id": "HXE-02",
+	"title": "有机物的命名",
+	"subject": "chemistry",
+	"book": "有机化学 · 第2期 / 共17期",
+	"points": [
+		"烃基与习惯命名",
+		"烷烃的系统命名",
+		"烯烃炔烃的命名",
+		"醇的命名",
+		"苯的同系物命名",
+		"醛、羧酸、酯的命名",
+		"命名易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"有机物的命名",
+				true
+			]
+		],
+		"subtitle": "选主链 · 编号 · 写名称 · 邻间对",
+		"photo": "hofmann.jpg",
+		"photoCaption": "霍夫曼：推动了有机化合物的系统命名",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"有机物的命名",
+					true
+				]
+			]
+		],
+		"photo": "hofmann.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "霍夫曼",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "(CH3)2CHCH2CH3 的名称是 2-甲基丁烷",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "2-乙基丁烷的命名是正确的",
+				"ok": false,
+				"fix": "应为 3-甲基戊烷"
+			},
+			{
+				"q": "烯烃命名时，主链必须含碳碳双键",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "CH2=CHCH2CH3 可以命名为“丁烯”",
+				"ok": false,
+				"fix": "要写双键位置：1-丁烯"
+			},
+			{
+				"q": "对二甲苯的系统命名是 1,4-二甲苯",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "CH3COOCH2CH3 的名称是乙酸乙酯",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"有机物的命名",
+				true
+			]
+		],
+		"endLine": "最长做主链，近端来编号，官能团优先",
+		"slogan": "最长做主链，近端来编号，官能团优先"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《August Wilhelm von Hofmann》，公有领域；插图来自 pixiv：架雅深、SunTail、シャコバン（侵删）",
+	"anime": [
+		{
+			"key": "groups",
+			"src": "groups.jpg",
+			"credit": "插图：架雅深《けいおん！ with じゅうおん！》pixiv #4108804",
+			"url": "https://www.pixiv.net/artworks/4108804"
+		},
+		{
+			"key": "ponytail",
+			"src": "ponytail.jpg",
+			"credit": "插图：SunTail《Do It Ourselves!! たえ》pixiv #77630010",
+			"url": "https://www.pixiv.net/artworks/77630010"
+		},
+		{
+			"key": "angry",
+			"src": "angry.jpg",
+			"credit": "插图：シャコバン《> : (》pixiv #124579593",
+			"url": "https://www.pixiv.net/artworks/124579593"
+		}
+	]
+}

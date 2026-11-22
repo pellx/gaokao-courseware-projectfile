@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Read: React.FC = () => <AutoScene k="read" d={{"tag": "考点一", "title": "价-类二维图的读法", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "纵轴", "at": "re1", "text": "{化合价}", "c": "red", "size": 34}]}, {"blocks": [{"t": "rule", "tag": "横轴", "at": "re1", "text": "{物质类别|orange}", "c": "orange", "size": 34}]}]}, {"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "竖着走（同列）", "at": "re2", "lines": ["价态变化", "靠{氧化还原}", "升价加氧化剂，降价加还原剂"], "c": "red", "size": 32}]}, {"blocks": [{"t": "panel", "title": "横着走（同行）", "at": "re3", "lines": ["价态不变", "靠{复分解、酸碱反应|orange}"], "c": "orange", "size": 32}]}]}], "callout": {"label": "解题方法", "at": "re4", "text": "先问“{价态变没变}”，再选试剂"}, "beat": {"k": "rpg", "at": "re3b", "text": "像游戏地图\n{横走竖走规则不同|red}"}}} />;

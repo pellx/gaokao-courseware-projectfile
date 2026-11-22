@@ -1,0 +1,37 @@
+{
+	"id": "XB1-19",
+	"title": "植物生长素（下）：合成、运输与生理作用",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第5章",
+	"points": ["生长素的合成", "生长素的运输", "生长素的分布", "生长素的生理作用", "低促进、高抑制", "不同器官的敏感度", "顶端优势", "根向地与茎背地", "验证极性运输"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["生长素的"], ["作用", true]],
+		"subtitle": "植物生长素（下）· 运输 · 低促进高抑制",
+		"photo": "seedlings.jpg",
+		"photoCaption": "幼苗：芽和幼叶合成生长素",
+		"photoPos": "55% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生长素的"]], [["运输与作用", true]]],
+		"photo": "seedlings.jpg",
+		"photoPos": "55% center",
+		"photoTag": "幼苗向光生长",
+		"credit": "Photo: Lequerik, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "生长素主要在芽、幼嫩的叶和发育中的种子中合成", "ok": true, "fix": ""},
+			{"q": "极性运输的方向由重力决定", "ok": false, "fix": "由形态学上、下端决定"},
+			{"q": "最适浓度右侧曲线下降的一段表示抑制", "ok": false, "fix": "仍在横轴以上，是促进作用减弱"},
+			{"q": "根对生长素的敏感程度大于茎", "ok": true, "fix": ""},
+			{"q": "茎的背地性体现了高浓度抑制生长", "ok": false, "fix": "只体现促进作用"},
+			{"q": "去掉顶芽可以解除顶端优势", "ok": true, "fix": ""}
+		],
+		"endTitle": [["生长素的"], ["运输与作用", true]],
+		"endLine": "合成 · 极性运输 · 低促进高抑制 · 顶端优势",
+		"slogan": "看准横轴上下，促进抑制不混淆！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Lequerik《Positive phototropism in Quercus humboldtii seedlings》CC BY-SA 3.0"
+}

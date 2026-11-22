@@ -1,0 +1,38 @@
+{
+	"id": "BX1-18",
+	"title": "细胞呼吸的原理和应用（下）",
+	"subject": "biology",
+	"book": "人教版·必修1·第5章",
+	"points": ["无氧呼吸的过程", "酒精发酵与乳酸发酵", "有氧与无氧的比较", "判断呼吸方式", "呼吸作用的计算", "影响细胞呼吸因素", "细胞呼吸原理应用"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["无氧呼吸与"], ["细胞呼吸的应用", true]],
+		"subtitle": "细胞呼吸的原理和应用（下） · 判断与计算",
+		"photo": "sauerkraut.jpg",
+		"photoCaption": "发酵中的酸菜：乳酸菌进行无氧呼吸",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["无氧呼吸与"]], [["细胞呼吸的应用", true]]],
+		"kicker": "判断 · 计算 · 应用",
+		"photo": "sauerkraut.jpg",
+		"photoPos": "center center",
+		"photoTag": "乳酸发酵",
+		"credit": "Photo: Bdubay, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "无氧呼吸两个阶段都释放少量能量", "ok": false, "fix": "只有第一阶段释放能量"},
+			{"q": "人剧烈运动时，无氧呼吸也产生CO2", "ok": false, "fix": "人无氧呼吸只产生乳酸"},
+			{"q": "马铃薯块茎无氧呼吸的产物是乳酸", "ok": true, "fix": ""},
+			{"q": "CO2释放量等于O2吸收量时只进行有氧呼吸", "ok": false, "fix": "也可能同时进行产乳酸的无氧呼吸"},
+			{"q": "储存种子应选择低温、低氧、干燥", "ok": true, "fix": ""},
+			{"q": "用透气纱布包扎是为了让伤口细胞有氧呼吸", "ok": false, "fix": "是为了抑制厌氧菌繁殖"}
+		],
+		"endTitle": [["无氧呼吸与"], ["细胞呼吸的应用", true]],
+		"endLine": "两种无氧呼吸 · 比较 · 判断 · 计算 · 应用",
+		"slogan": "先用氧气算有氧，剩下的二氧化碳算无氧！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Bdubay《Sauerkraut Jar》CC BY-SA 3.0（已裁切）"
+}

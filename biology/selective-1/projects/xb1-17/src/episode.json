@@ -1,0 +1,94 @@
+{
+	"id": "XB1-17",
+	"title": "免疫学的应用",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第4章",
+	"points": [
+		"疫苗的原理",
+		"免疫预防与免疫治疗",
+		"器官移植",
+		"三种检测的区别",
+		"免疫学实验题"
+	],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [
+			[
+				"免疫学的"
+			],
+			[
+				"应用",
+				true
+			]
+		],
+		"subtitle": "疫苗 · 器官移植 · 免疫诊断",
+		"photo": "jenner.jpg",
+		"photoCaption": "1796年，琴纳为男孩接种牛痘",
+		"photoPos": "48% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [
+			[
+				[
+					"免疫学的"
+				],
+				[
+					"应用",
+					true
+				]
+			]
+		],
+		"kicker": "疫苗 · 器官移植 · 三种检测",
+		"photo": "jenner.jpg",
+		"photoPos": "48% center",
+		"photoTag": "琴纳的第一次牛痘接种",
+		"credit": "Painting: Ernest Board, Wellcome Collection, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{
+				"q": "疫苗相当于抗体",
+				"ok": false,
+				"fix": "疫苗相当于抗原"
+			},
+			{
+				"q": "注射抗体见效快，但维持时间短",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "器官移植的成败主要取决于HLA是否一致或相近",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "使用免疫抑制剂后病人免疫力增强",
+				"ok": false,
+				"fix": "免疫力降低，容易感染"
+			},
+			{
+				"q": "抗原检测是用已知抗原检测样本",
+				"ok": false,
+				"fix": "用已知抗体检测样本中的抗原"
+			},
+			{
+				"q": "抗体检测阳性说明正在感染",
+				"ok": false,
+				"fix": "也可能是曾经感染或接种过疫苗"
+			}
+		],
+		"endTitle": [
+			[
+				"免疫学的"
+			],
+			[
+				"应用",
+				true
+			]
+		],
+		"endLine": "疫苗 · 免疫预防与治疗 · 器官移植 · 免疫诊断",
+		"slogan": "分清抗原和抗体，免疫应用不丢分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Ernest Board, Wellcome Collection《Dr Jenner performing his first vaccination, 1796》CC BY 4.0"
+}

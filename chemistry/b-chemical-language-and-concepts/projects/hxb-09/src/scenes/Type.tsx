@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Type: React.FC = () => <AutoScene k="type" d={{"tag": "考点一", "title": "题型与做法", "blocks": [{"t": "big", "at": "ty1", "text": "“下列化学用语或图示表达{正确|green} / {不正确}的是”", "size": 40}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "A", "at": "ty2", "text": "电子式、形成过程", "c": "red", "size": 30}]}, {"blocks": [{"t": "rule", "tag": "B", "at": "ty2", "text": "结构示意图、核素符号", "c": "orange", "size": 30}]}]}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "C", "at": "ty2", "text": "球棍模型、空间填充模型", "c": "green", "size": 30}]}, {"blocks": [{"t": "rule", "tag": "D", "at": "ty2", "text": "排布式、VSEPR、结构简式", "c": "brown", "size": 30}]}]}], "callout": {"label": "解题方法", "at": "ty3", "text": "先认出{是哪种用语}，再按它的{固定规则}逐条核对"}, "beat": {"k": "spot", "at": "ty2b", "text": "找不同\n错误往往只差\n{一个点、一个角标|red}"}}} />;

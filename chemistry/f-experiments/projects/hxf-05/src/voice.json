@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|物质与离子的检验。",
+		"seconds": 2.232
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验大题用来证明产物，选择题判断检验方案是否正确；关键是写全四要素、排除干扰，共八个考点。",
+		"seconds": 10.176
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，检验的答题四要素：取样、操作（加什么试剂）、现象、结论。",
+		"seconds": 7.176
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|标准句式：“取少量待测液于试管中，滴加某试剂，若出现某现象，则说明含有某离子。”",
+		"seconds": 8.856
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|注意：要取少量，不能直接往原试剂瓶里加试剂；现象要具体，如“产生白色沉淀”“溶液变红”。",
+		"seconds": 9.192
+	},
+	"fo3b": {
+		"key": "zh-CN-XiaoxiaoNeural|浅棕发、虎牙的女孩坐在地上眨眼：四个要素就像四步舞，取样、操作、现象、结论一步都不能跳。",
+		"seconds": 10.032
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：现象和结论要对应：“若……，则……”；只写“有沉淀”不写颜色会扣分。",
+		"seconds": 7.464
+	},
+	"ir1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，铁离子：滴加硫氰化钾溶液，溶液变红色；或加氢氧化钠溶液，生成红褐色沉淀。",
+		"seconds": 9.48
+	},
+	"ir2": {
+		"key": "zh-CN-XiaoxiaoNeural|亚铁离子：滴加铁氰化钾溶液，生成蓝色沉淀；或先加硫氰化钾无现象，再加氯水变红。",
+		"seconds": 9.12
+	},
+	"ir3": {
+		"key": "zh-CN-XiaoxiaoNeural|溶液中同时有铁离子时检验亚铁离子：只能用铁氰化钾，或在没有氯离子时用酸性高锰酸钾。",
+		"seconds": 9.24
+	},
+	"ir4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铁离子与硫氰化钾生成的是红色溶液，不是沉淀；先加氯水再加硫氰化钾的顺序是错的。",
+		"seconds": 9.24
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，铵根离子：取样，加氢氧化钠溶液并加热，用湿润的红色石蕊试纸检验产生的气体，试纸变蓝。",
+		"seconds": 10.488
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|钠离子、钾离子：焰色试验。钠是黄色；钾要透过蓝色钴玻璃观察，是紫色。",
+		"seconds": 8.28
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|焰色试验操作：铂丝用盐酸洗净，在火焰上灼烧至与原火焰颜色相同，再蘸取样品灼烧。",
+		"seconds": 9.144
+	},
+	"ca3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉色双马尾的女孩摊开手：看到黄色火焰，只能说明有钠离子，不能说明没有钾离子。",
+		"seconds": 8.256
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：检验铵根离子必须加热，并用湿润的试纸；焰色试验是物理变化。",
+		"seconds": 7.296
+	},
+	"a11": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，氯离子：先加稀硝酸酸化，再加硝酸银溶液，产生白色沉淀。",
+		"seconds": 7.44
+	},
+	"a12": {
+		"key": "zh-CN-XiaoxiaoNeural|硫酸根：先加稀盐酸，无明显现象，再加氯化钡溶液，产生白色沉淀。",
+		"seconds": 7.464
+	},
+	"a13": {
+		"key": "zh-CN-XiaoxiaoNeural|先加盐酸是为了排除碳酸根、亚硫酸根、银离子的干扰。",
+		"seconds": 5.784
+	},
+	"a14": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：检验硫酸根不能用稀硝酸酸化，硝酸会把亚硫酸根氧化成硫酸根；也不能用硝酸钡。",
+		"seconds": 8.904
+	},
+	"a21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，碳酸根：加盐酸，产生能使澄清石灰水变浑浊的无色无味气体。",
+		"seconds": 7.464
+	},
+	"a22": {
+		"key": "zh-CN-XiaoxiaoNeural|亚硫酸根：加盐酸，产生能使品红溶液褪色的刺激性气体。",
+		"seconds": 6.168
+	},
+	"a23": {
+		"key": "zh-CN-XiaoxiaoNeural|碘离子：加氯水后再加淀粉溶液，变蓝；或加氯水和四氯化碳，下层紫红色。",
+		"seconds": 8.328
+	},
+	"a24": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：使澄清石灰水变浑浊的气体也可能是二氧化硫；只说产生能使石灰水变浑浊的气体，不能确定是碳酸根。",
+		"seconds": 10.824
+	},
+	"ga1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，常见气体的检验。氯气：湿润的淀粉碘化钾试纸变蓝。二氧化硫：使品红褪色，加热后恢复红色。",
+		"seconds": 11.568
+	},
+	"ga2": {
+		"key": "zh-CN-XiaoxiaoNeural|氨气：湿润的红色石蕊试纸变蓝，遇浓盐酸产生白烟。二氧化碳：使澄清石灰水变浑浊。",
+		"seconds": 9.528
+	},
+	"ga3": {
+		"key": "zh-CN-XiaoxiaoNeural|氧气：使带火星的木条复燃。氢气：点燃，淡蓝色火焰，罩干冷烧杯有水珠。一氧化氮：遇空气变红棕色。",
+		"seconds": 11.52
+	},
+	"ga3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩开心地笑着：每种气体都有自己的身份证，记住特征现象就能认出来。",
+		"seconds": 7.632
+	},
+	"ga4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能使湿润淀粉碘化钾试纸变蓝的不一定是氯气，臭氧、二氧化氮、溴蒸气也行。",
+		"seconds": 8.688
+	},
+	"or1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，碘遇淀粉变蓝；反过来，淀粉也用碘水检验。",
+		"seconds": 5.952
+	},
+	"or2": {
+		"key": "zh-CN-XiaoxiaoNeural|醛基：银镜反应或新制氢氧化铜砖红色沉淀；酚羟基：遇氯化铁显紫色或与浓溴水生成白色沉淀。",
+		"seconds": 10.056
+	},
+	"or3": {
+		"key": "zh-CN-XiaoxiaoNeural|碳碳双键：使溴的四氯化碳溶液褪色；有醛基干扰时，要先氧化醛基、再酸化，后加溴水。",
+		"seconds": 9.432
+	},
+	"or4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：淀粉检验的是碘单质，碘化钾溶液加淀粉不变蓝。",
+		"seconds": 5.856
+	},
+	"od1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，检验多种离子时，要注意顺序：前面加的试剂不能干扰后面的检验。",
+		"seconds": 7.512
+	},
+	"od2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：同时有氯离子和硫酸根，先用硝酸钡检验并除去硫酸根，过滤后再用硝酸银检验氯离子。",
+		"seconds": 9.216
+	},
+	"od3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果先加硝酸银，硫酸银微溶，也会产生沉淀，干扰氯离子的判断；用氯化钡则会引入氯离子。",
+		"seconds": 9.168
+	},
+	"od4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：每加一种试剂，都问一句：“它会不会带入或产生要检验的离子？”",
+		"seconds": 7.2
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：铁离子遇硫氰化钾生成红色沉淀？错，溶液变红。判断二：检验铵根加碱加热用湿润红色石蕊试纸？对。",
+		"seconds": 12.96
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：检验硫酸根先加稀硝酸？错，先加稀盐酸。判断四：使石灰水变浑浊的一定是二氧化碳？错，二氧化硫也行。",
+		"seconds": 13.32
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：碘化钾溶液加淀粉变蓝？错。判断六：钾的焰色要透过蓝色钴玻璃？对。",
+		"seconds": 9.816
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|取样操作现象结论，先排干扰再下结论。下一期：定量实验：滴定与纯度计算。",
+		"seconds": 8.568
+	}
+}

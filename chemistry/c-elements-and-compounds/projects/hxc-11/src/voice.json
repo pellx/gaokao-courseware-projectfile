@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|硝酸、氮循环与环境。",
+		"seconds": 2.76
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考浓、稀硝酸与金属的反应，原理大题常用氮循环和脱硝作情境，共七个考点。",
+		"seconds": 8.64
+	},
+	"un1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，硝酸的不稳定性：见光或受热分解，四个硝酸生成四个二氧化氮、氧气和两个水。",
+		"seconds": 9.264
+	},
+	"un2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以浓硝酸要放在棕色试剂瓶中，置于阴凉处。",
+		"seconds": 5.04
+	},
+	"un3": {
+		"key": "zh-CN-XiaoxiaoNeural|久置的浓硝酸显黄色，是因为分解产生的二氧化氮溶在里面；通入空气可以除去黄色。",
+		"seconds": 8.328
+	},
+	"un3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩轻快地挥手：浓硝酸发黄不是变质成别的东西，只是溶了二氧化氮。",
+		"seconds": 7.392
+	},
+	"un4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：浓硝酸用玻璃塞，不用橡胶塞，因为它会腐蚀橡胶。",
+		"seconds": 6
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，硝酸的强氧化性。与铜：浓硝酸生成二氧化氮，稀硝酸生成一氧化氮。",
+		"seconds": 8.496
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|铜加四个浓硝酸生成硝酸铜、两个二氧化氮和两个水；三个铜加八个稀硝酸生成三个硝酸铜、两个一氧化氮和四个水。",
+		"seconds": 11.328
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|与碳：碳加四个浓硝酸加热生成二氧化碳、四个二氧化氮和两个水。常温下使铁、铝钝化。",
+		"seconds": 10.008
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|铁与稀硝酸：铁少量生成铁离子，铁过量生成亚铁离子，因为过量的铁会把铁离子还原。",
+		"seconds": 8.76
+	},
+	"ox5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：硝酸与金属反应不生成氢气；稀硝酸生成的是一氧化氮，不是二氧化氮。",
+		"seconds": 8.064
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，硝酸参与的计算。硝酸起两个作用：一部分表现酸性，变成硝酸盐；一部分作氧化剂，变成一氧化氮或二氧化氮。",
+		"seconds": 12.312
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|氮原子守恒：消耗的硝酸等于盐中的硝酸根加生成的气体中的氮。",
+		"seconds": 6.408
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：1.92克铜即0.03摩尔，与足量稀硝酸反应，失电子0.06摩尔，生成一氧化氮0.02摩尔；消耗硝酸等于0.06加0.02，等于0.08摩尔。",
+		"seconds": 15.912
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：两条守恒一起用：电子守恒算气体，N 原子守恒算硝酸。",
+		"seconds": 7.056
+	},
+	"in_1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，工业制硝酸：以氨为原料，三步。",
+		"seconds": 4.752
+	},
+	"in_2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步，氨的催化氧化：四个氨加五个氧气在催化剂、加热下生成四个一氧化氮和六个水。",
+		"seconds": 8.88
+	},
+	"in_3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步：两个一氧化氮加氧气生成两个二氧化氮；第三步：三个二氧化氮加水生成两个硝酸和一氧化氮，生成的一氧化氮循环利用。",
+		"seconds": 12.384
+	},
+	"in_4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：原理大题常问这几步的方程式，以及为什么要通入过量空气：让 NO 充分转化，提高原料利用率。",
+		"seconds": 9.576
+	},
+	"ra1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，酸雨：pH小于5.6的降水。正常雨水溶有二氧化碳，pH约为5.6。",
+		"seconds": 8.76
+	},
+	"ra2": {
+		"key": "zh-CN-XiaoxiaoNeural|硫酸型酸雨：二氧化硫变成亚硫酸再变成硫酸，或二氧化硫变成三氧化硫再变成硫酸；硝酸型酸雨：氮氧化物变成硝酸。",
+		"seconds": 12.312
+	},
+	"ra2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个女孩哭得稀里哗啦：酸雨落下来，湖泊酸化、建筑腐蚀，真是想哭。",
+		"seconds": 7.056
+	},
+	"ra3": {
+		"key": "zh-CN-XiaoxiaoNeural|防治：燃煤脱硫，比如加石灰石：两个碳酸钙加两个二氧化硫加氧气，高温生成两个硫酸钙和两个二氧化碳；汽车尾气净化。",
+		"seconds": 12.288
+	},
+	"ra4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：pH小于7的雨水不一定是酸雨，要pH小于5.6；二氧化碳不会形成酸雨。",
+		"seconds": 8.568
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，氮氧化物的治理。选择性催化还原：用氨在催化剂作用下把一氧化氮还原成氮气：四个氨加六个一氧化氮生成五个氮气和六个水。",
+		"seconds": 13.704
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|汽车尾气三元催化：两个一氧化碳加两个一氧化氮在催化剂作用下生成氮气和两个二氧化碳。",
+		"seconds": 9.192
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|碱液吸收：一氧化氮加二氧化氮加两个氢氧化钠生成两个亚硝酸钠和水；单独的一氧化氮不能被氢氧化钠吸收。",
+		"seconds": 10.512
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：脱硝方程式用归中思路配平：氨中氮是负3，一氧化氮中氮是正2，都变成零价的氮气。",
+		"seconds": 9.912
+	},
+	"cy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，氮循环图。北京卷原理题常给一张氮循环示意图，问各步的价态变化和反应类型。",
+		"seconds": 9.552
+	},
+	"cy2": {
+		"key": "zh-CN-XiaoxiaoNeural|固氮：氮气变成氨或一氧化氮；硝化：铵根变成亚硝酸根再变成硝酸根，氮的价态升高，是氧化。",
+		"seconds": 10.176
+	},
+	"cy3": {
+		"key": "zh-CN-XiaoxiaoNeural|反硝化：硝酸根变成氮气，氮的价态降低，是还原；氨化：有机氮变成氨，价态不变。",
+		"seconds": 8.976
+	},
+	"cy3b": {
+		"key": "zh-CN-XiaoxiaoNeural|圆圈里的粉发女孩：氮在大气、土壤、生物之间转一圈，每一步先标出氮的化合价。",
+		"seconds": 8.088
+	},
+	"cy4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：读循环图，先在每个物质旁边标出 N 的化合价，升高是氧化，降低是还原，不变不是氧化还原。",
+		"seconds": 10.344
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：浓硝酸放在棕色瓶中，因为见光分解？对。判断二：铜与稀硝酸生成氢气？错，生成一氧化氮。",
+		"seconds": 12
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：铁遇浓硝酸钝化说明不反应？错，钝化是化学反应。判断四：过量铁与稀硝酸最终生成硝酸亚铁？对。",
+		"seconds": 12.816
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：pH小于7的雨水就是酸雨？错，要小于5.6。判断六：用氨把一氧化氮还原成氮气，氨作还原剂？对。",
+		"seconds": 12.648
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|浓二氧化氮，稀一氧化氮，铁过量得亚铁。下一期：无机非金属材料。",
+		"seconds": 7.488
+	}
+}

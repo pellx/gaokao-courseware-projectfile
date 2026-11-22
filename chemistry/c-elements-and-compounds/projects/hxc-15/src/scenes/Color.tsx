@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Color: React.FC = () => <AutoScene k="color" d={{"tag": "考点六", "title": "用颜色推价态", "blocks": [{"t": "table", "at": "co1", "head": ["颜色变化", "物质变化", "类型"], "cols": "1.5fr 2fr 1.4fr", "rows": [{"at": "co1", "cells": ["紫红色 → 无色", "MnO4^- → Mn^2+", "{氧化还原}"]}, {"at": "co2", "cells": ["橙色 → 绿色", "Cr2O7^2- → Cr^3+", "{氧化还原}"]}, {"at": "co2", "cells": ["黄色 → 橙色", "CrO4^2- → Cr2O7^2-", "{酸碱平衡|orange}"]}, {"at": "co3", "cells": ["蓝色 → 深蓝色", "Cu^2+ → [Cu(NH3)4]^2+", "{配位|orange}"]}, {"at": "co3", "cells": ["浅绿色 → 黄色", "Fe^2+ → Fe^3+", "{氧化还原}"]}], "size": 30, "rowHeight": 60}], "callout": {"label": "解题方法", "at": "co4", "text": "先分{价态变了}还是{价态没变|orange}"}, "beat": {"k": "mugi", "at": "co2b", "text": "题目里的颜色\n{每个都是线索|red}"}}} />;

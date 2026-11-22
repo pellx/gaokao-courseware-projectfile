@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Feohtwo: React.FC = () => <AutoScene k="feoh2" d={{"tag": "考点四", "title": "Fe(OH)2 的制备", "blocks": [{"t": "big", "at": "f21", "text": "Fe^2+ + 2OH^- = Fe(OH)2↓（{白色}）", "size": 40}, {"t": "chain", "steps": [{"at": "f22", "text": "白色"}, {"at": "f22", "text": "灰绿色", "c": "green"}, {"at": "f22", "text": "红褐色", "c": "red"}], "arrows": ["O2", "O2"], "center": true, "size": 36}, {"t": "items", "items": [{"at": "f23", "text": "NaOH 溶液{煮沸}除去溶解的 O2"}, {"at": "f23", "text": "FeSO4 溶液新配，加{铁粉}防氧化"}, {"at": "f23", "text": "长胶头滴管{伸入液面以下}"}, {"at": "f23", "text": "液面上加植物油或苯{隔绝空气}"}], "size": 30}], "callout": {"label": "答题模板", "at": "f24", "text": "滴管伸入液面下：{防止带入 O2 使 Fe(OH)2 被氧化}"}, "beat": {"k": "change", "at": "f22b", "text": "空气里“变身”\n{白 → 灰绿 → 红褐|red}"}}} />;

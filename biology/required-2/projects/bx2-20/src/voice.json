@@ -1,0 +1,106 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第六章第一节——生物有共同祖先的证据。",
+		"seconds": 7.776
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考化石证据、同源器官，以及用分子差异判断亲缘关系。",
+		"seconds": 6.528
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按五个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.448
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，化石证据。化石是通过自然作用保存在地层中的古代生物的遗体、遗物或生活痕迹。",
+		"seconds": 9.504
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|化石是研究生物进化最直接、最重要的证据。",
+		"seconds": 4.536
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|规律：越古老的地层中，生物越简单、低等，水生的多；越新近的地层中，生物越复杂、高等，陆生的多。",
+		"seconds": 10.392
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：赫氏近鸟龙化石的骨架与恐龙非常接近，周围又有清晰的羽毛印痕，为鸟类起源于恐龙的假说提供了有力证据。",
+		"seconds": 11.568
+	},
+	"an1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，比较解剖学证据。蝙蝠的翼、鲸的鳍、猫的前肢和人的上肢，外形和功能差别很大。",
+		"seconds": 9.648
+	},
+	"an2": {
+		"key": "zh-CN-XiaoxiaoNeural|但它们的骨骼组成和排列方式很相似，这样的器官叫同源器官。",
+		"seconds": 6.432
+	},
+	"an3": {
+		"key": "zh-CN-XiaoxiaoNeural|同源器官说明这些生物是由共同的原始祖先进化来的，在不同环境中适应不同的功能，才出现了差异。",
+		"seconds": 9.744
+	},
+	"an4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断同源器官看起源和结构，不看功能；人的阑尾、鲸的后肢骨这类痕迹器官，也是比较解剖学证据。",
+		"seconds": 10.632
+	},
+	"em1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，胚胎学证据。人和鱼、鸡、猪等脊椎动物，胚胎发育早期都很相似。",
+		"seconds": 8.376
+	},
+	"em2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如胚胎早期都有鳃裂和尾；后来人的鳃裂消失，尾也消失了。",
+		"seconds": 6.408
+	},
+	"em3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：胚胎早期越相似，说明它们有共同祖先；鱼的鳃裂发育成鳃，而人的消失，说明人和鱼的祖先都在水中生活。",
+		"seconds": 11.304
+	},
+	"mo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，细胞和分子水平的证据。细胞水平：生物都由细胞构成，细胞有共同的物质基础和结构基础。",
+		"seconds": 10.488
+	},
+	"mo2": {
+		"key": "zh-CN-XiaoxiaoNeural|分子水平：生物都以 DNA 为遗传物质，共用一套遗传密码。",
+		"seconds": 6
+	},
+	"mo3": {
+		"key": "zh-CN-XiaoxiaoNeural|不同生物的 DNA 和蛋白质等分子，既有共同点，又有差异。比如细胞色素 c：人和黑猩猩的氨基酸序列完全相同，人和酵母菌差异较大。",
+		"seconds": 13.536
+	},
+	"mo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：分子差异越小，亲缘关系越近，在进化史上分开得越晚。",
+		"seconds": 7.032
+	},
+	"cb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，证据的综合运用。化石是直接证据；比较解剖学、胚胎学、细胞和分子水平的证据，相互印证。",
+		"seconds": 10.536
+	},
+	"cb2": {
+		"key": "zh-CN-XiaoxiaoNeural|分子证据还能定量判断亲缘关系，构建进化树。",
+		"seconds": 4.968
+	},
+	"cb3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出几种生物的氨基酸或碱基差异数，让你排出亲缘关系远近——差异数从小到大，就是亲缘关系从近到远。",
+		"seconds": 10.848
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？对。判断二？错，越古老的地层生物越简单、低等。",
+		"seconds": 7.8
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？对。",
+		"seconds": 4.656
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，差异越小亲缘关系越近。判断六？对。",
+		"seconds": 6.84
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|五个考点串成一条线：差异越小，亲缘越近。我们下期再见！",
+		"seconds": 6.408
+	}
+}

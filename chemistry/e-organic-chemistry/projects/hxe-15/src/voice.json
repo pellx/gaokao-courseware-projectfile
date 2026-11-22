@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|有机合成：路线推断与设计。",
+		"seconds": 3.36
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|有机大题要推出中间体结构，偶尔要求设计短合成路线，共八个考点。",
+		"seconds": 7.032
+	},
+	"ta1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，有机合成的两大任务：构建碳骨架，引入或转化官能团。",
+		"seconds": 6.744
+	},
+	"ta2": {
+		"key": "zh-CN-XiaoxiaoNeural|设计原则：步骤少、产率高、原料易得、条件温和、符合绿色化学。",
+		"seconds": 7.2
+	},
+	"ta3": {
+		"key": "zh-CN-XiaoxiaoNeural|常用思路：从目标分子出发，看它的碳骨架和官能团，再找原料之间的差别。",
+		"seconds": 7.44
+	},
+	"ta4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先比较原料和产物的碳原子数：碳数变了，先解决碳骨架；碳数不变，只考虑官能团。",
+		"seconds": 9.648
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，碳链增长：卤代烃与氰化钠取代后水解，多一个碳成羧酸；羟醛缩合；格氏试剂；炔烃与醛酮加成。",
+		"seconds": 11.136
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳链缩短：烯烃、炔烃被氧化断键；苯的同系物侧链氧化成羧基；羧酸盐脱羧。",
+		"seconds": 8.352
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|成环：二元醇与二元酸成环酯；分子内酯化；双烯加成反应，课外。",
+		"seconds": 7.44
+	},
+	"cl3b": {
+		"key": "zh-CN-XiaoxiaoNeural|浅棕发女孩抱着贝斯：碳链加长或剪短，都要靠特定的反应，不能凭空加一个碳。",
+		"seconds": 7.776
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碳数增加，一定要找到哪一步形成了新的碳碳键，常在题给信息里。",
+		"seconds": 7.176
+	},
+	"in31": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，官能团的引入。引入碳碳双键：醇或卤代烃消去；炔烃与氢气部分加成。",
+		"seconds": 8.784
+	},
+	"in32": {
+		"key": "zh-CN-XiaoxiaoNeural|引入卤素原子：烃与卤素单质取代；烯烃与卤化氢、卤素单质加成；醇与卤化氢取代。",
+		"seconds": 8.616
+	},
+	"in33": {
+		"key": "zh-CN-XiaoxiaoNeural|引入羟基：烯烃与水加成；卤代烃水解；醛、酮还原；酯水解。",
+		"seconds": 7.104
+	},
+	"in34": {
+		"key": "zh-CN-XiaoxiaoNeural|引入醛基、羧基：醇氧化；烯烃氧化；苯的同系物侧链氧化得羧基；酯、腈水解得羧基。",
+		"seconds": 9.12
+	},
+	"in35": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：把这张表背熟，逆推时每一步问：“这个官能团可以由什么变来？”",
+		"seconds": 7.176
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，官能团的转化主线：卤代烃和醇相互转化，醇氧化成醛，醛氧化成羧酸，羧酸酯化成酯。",
+		"seconds": 10.104
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|改变官能团位置：先消去得到烯烃，再与卤化氢加成；改变官能团数目：先消去，再与卤素单质加成，再水解。",
+		"seconds": 11.28
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：由1-溴丙烷制1,2-丙二醇：消去，与溴加成，再水解。",
+		"seconds": 7.032
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：一元变二元，路线通常是“消去 → 加成 → 水解”。",
+		"seconds": 5.712
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，官能团的保护：要改造分子的一部分，又不想伤到另一个容易反应的官能团，就先把它藏起来。",
+		"seconds": 9.408
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|保护酚羟基：先与碘甲烷或氢氧化钠反应，氧化完成后再恢复。因为酚羟基容易被氧化。",
+		"seconds": 9.024
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|保护碳碳双键：先与氯化氢加成，氧化其他基团后，再消去恢复双键。保护醛基：先与醇生成缩醛。",
+		"seconds": 10.56
+	},
+	"pr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个小女孩紧紧抱在一起：先把怕被氧化的官能团护在怀里，等危险过去再放开。",
+		"seconds": 7.728
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：大题问设计某两步的目的，答保护某官能团，防止其被氧化。",
+		"seconds": 6.768
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，推断方法。正推：从原料出发，按条件一步步往后推。",
+		"seconds": 7.032
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|逆推：从目标产物出发，断开关键键，倒着找前体。酯从酯基处断开，酰胺从酰胺基处断开。",
+		"seconds": 9.528
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|两头夹击：中间的物质用前后两个已知物质的结构和分子式一起确定。",
+		"seconds": 6.864
+	},
+	"me3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩长长地呼出一口气：从两头往中间推，夹出来的结构最可靠。",
+		"seconds": 6.864
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：大部分北京卷推断题，用“两头夹击加分子式差值”就能推出所有中间体。",
+		"seconds": 8.208
+	},
+	"bt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，推断突破口。反应条件：浓硫酸加热、氢氧化钠醇溶液、铜和氧气等，直接指向反应类型。",
+		"seconds": 10.584
+	},
+	"bt2": {
+		"key": "zh-CN-XiaoxiaoNeural|特征现象：能发生银镜反应有醛基；遇氯化铁显紫色有酚羟基；与碳酸氢钠放出气体有羧基。",
+		"seconds": 9.384
+	},
+	"bt3": {
+		"key": "zh-CN-XiaoxiaoNeural|转化关系：A 氧化得 B，B 再氧化得 C，A、C 酯化得 D：A 是醇，B 是醛，C 是羧酸。",
+		"seconds": 9.024
+	},
+	"bt4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到“A → B → C”连续氧化，立刻想到醇 → 醛 → 羧酸。",
+		"seconds": 6.168
+	},
+	"ro1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，设计合成路线的书写规范：用箭头连接各物质，箭头上方写试剂，下方写条件。",
+		"seconds": 8.976
+	},
+	"ro2": {
+		"key": "zh-CN-XiaoxiaoNeural|每种物质写结构简式；无机试剂任选时也要写清楚是什么。",
+		"seconds": 5.904
+	},
+	"ro3": {
+		"key": "zh-CN-XiaoxiaoNeural|步骤尽量少，一般三到四步；利用题目信息中的反应，往往是关键一步。",
+		"seconds": 6.816
+	},
+	"ro4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：先逆推出路线，再正向写出来；最后检查每一步的条件是否和题目信息一致。",
+		"seconds": 8.592
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：卤代烃和氰化钠反应再水解，碳链增长一个碳？对。判断二：1-溴丙烷制1,2-丙二醇先水解再消去？错，消去、加成、水解。",
+		"seconds": 15.288
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：保护酚羟基是怕它被氧化？对。判断四：逆推时酯从酯基处断开？对。",
+		"seconds": 9.84
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：能连续氧化的A是醛？错，是醇。判断六：箭头上只写氧化？错，要写具体试剂和条件。",
+		"seconds": 11.424
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|两头夹击算差值，消去加成再水解。下一期：生物大分子。",
+		"seconds": 6.576
+	}
+}

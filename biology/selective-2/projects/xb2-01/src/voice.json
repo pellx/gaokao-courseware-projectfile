@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修二第一章第一节——种群的数量特征。",
+		"seconds": 7.752
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考样方法和标记重捕法的计算与误差，以及年龄结构、性别比例对种群数量的影响。",
+		"seconds": 8.88
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，种群密度。种群是在一定的空间范围内，同种生物所有个体形成的集合。",
+		"seconds": 8.424
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|种群在单位面积或单位体积中的个体数，就是种群密度。",
+		"seconds": 5.736
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|种群密度是种群最基本的数量特征，它反映了种群在一定时期的数量。",
+		"seconds": 6.912
+	},
+	"de4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断是不是一个种群，抓住三点：同一区域、同一物种、全部个体。一个池塘中的全部鱼不是一个种群。",
+		"seconds": 11.04
+	},
+	"qd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，样方法。适用于植物，以及活动能力弱、活动范围小的动物，比如蚯蚓、蚜虫、跳蝻和昆虫卵。",
+		"seconds": 10.728
+	},
+	"qd2": {
+		"key": "zh-CN-XiaoxiaoNeural|取样的关键是随机取样。方形地块用五点取样法，狭长地块用等距取样法。",
+		"seconds": 7.752
+	},
+	"qd3": {
+		"key": "zh-CN-XiaoxiaoNeural|计数时，样方内的个体全部计数；压在边线上的，只计相邻两边及其夹角上的个体，也就是“计上不计下，计左不计右”。",
+		"seconds": 11.352
+	},
+	"qd4": {
+		"key": "zh-CN-XiaoxiaoNeural|最后求出各样方种群密度的平均值，作为该种群密度的估算值。",
+		"seconds": 5.976
+	},
+	"qd5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出样方图数个体。解题方法：先数框内，再只数上边、左边和左上角的点，不要把四条边都算上。",
+		"seconds": 10.824
+	},
+	"mk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，标记重捕法。适用于活动能力强、活动范围大的动物，比如田鼠、鸟类、鱼类。",
+		"seconds": 9.024
+	},
+	"mk2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一次捕获并标记M只，放回后让它们与其他个体充分混合。",
+		"seconds": 6.24
+	},
+	"mk3": {
+		"key": "zh-CN-XiaoxiaoNeural|一段时间后第二次捕获n只，其中带标记的有m只。",
+		"seconds": 5.4
+	},
+	"mk4": {
+		"key": "zh-CN-XiaoxiaoNeural|按比例相等，种群数量N等于M乘n除以m。比如M是50、n是40、m是10，N就是200只。",
+		"seconds": 10.656
+	},
+	"mk5": {
+		"key": "zh-CN-XiaoxiaoNeural|误差分析看m：标记物脱落、标记个体更难被再次捕获，都会让m偏小，估算值偏大。",
+		"seconds": 8.688
+	},
+	"mk6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：标记后马上重捕、未充分混合，标记个体容易被捕到，m偏大，估算值偏小。",
+		"seconds": 8.616
+	},
+	"ot1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，其他调查方法。分布范围较小、个体较大的种群，可以逐个计数。",
+		"seconds": 7.632
+	},
+	"ot2": {
+		"key": "zh-CN-XiaoxiaoNeural|有趋光性的昆虫，可以用黑光灯诱捕的方法调查。",
+		"seconds": 4.752
+	},
+	"ot3": {
+		"key": "zh-CN-XiaoxiaoNeural|对大型、警觉性强的动物，可以用红外触发相机拍摄，比如调查东北豹。",
+		"seconds": 7.104
+	},
+	"ot4": {
+		"key": "zh-CN-XiaoxiaoNeural|还可以通过粪便中的DNA，或者动物的声音来计数。",
+		"seconds": 4.968
+	},
+	"ot5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：根据生物的特点选方法。解题方法：先问它动不动、跑多远，再看有没有趋光性、是否难以接近。",
+		"seconds": 10.368
+	},
+	"rt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，出生率和死亡率、迁入率和迁出率。它们直接决定种群密度。",
+		"seconds": 7.416
+	},
+	"rt2": {
+		"key": "zh-CN-XiaoxiaoNeural|出生率是单位时间内新产生的个体数目占该种群个体总数的比值；死亡率同理。",
+		"seconds": 7.992
+	},
+	"rt3": {
+		"key": "zh-CN-XiaoxiaoNeural|迁入率和迁出率，是单位时间内迁入或迁出的个体占该种群个体总数的比值。",
+		"seconds": 7.608
+	},
+	"rt4": {
+		"key": "zh-CN-XiaoxiaoNeural|出生率加迁入率，大于死亡率加迁出率，种群密度就增大，反之就减小。",
+		"seconds": 7.272
+	},
+	"rt5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：春运期间大城市人口的变化，主要取决于迁入率和迁出率，而不是出生率和死亡率。",
+		"seconds": 8.88
+	},
+	"ag1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，年龄结构。它是一个种群中各年龄期个体数目的比例。",
+		"seconds": 6.504
+	},
+	"ag2": {
+		"key": "zh-CN-XiaoxiaoNeural|增长型：幼年个体多、老年个体少，出生率大于死亡率，种群密度会越来越大。",
+		"seconds": 7.872
+	},
+	"ag3": {
+		"key": "zh-CN-XiaoxiaoNeural|稳定型：各年龄期比例适中，种群密度在一段时间内保持稳定。",
+		"seconds": 6.336
+	},
+	"ag4": {
+		"key": "zh-CN-XiaoxiaoNeural|衰退型：幼年个体少、老年个体多，种群密度会越来越小。",
+		"seconds": 6.096
+	},
+	"ag5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：年龄结构只能预测变化趋势。稳定型的种群，数量也不一定稳定，还受气候、食物、天敌等因素影响。",
+		"seconds": 10.848
+	},
+	"sx1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，性别比例。它是种群中雌雄个体数目的比例，通过影响出生率来影响种群密度。",
+		"seconds": 9.288
+	},
+	"sx2": {
+		"key": "zh-CN-XiaoxiaoNeural|应用：用人工合成的性引诱剂诱杀害虫的雄性个体。",
+		"seconds": 5.4
+	},
+	"sx3": {
+		"key": "zh-CN-XiaoxiaoNeural|雄虫减少，性别比例失调，许多雌虫不能完成交配，出生率降低，害虫的种群密度明显降低。",
+		"seconds": 9.312
+	},
+	"sx4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：性别比例只影响出生率，不影响死亡率；诱杀雄虫不是通过提高死亡率来降低种群密度。",
+		"seconds": 9.336
+	},
+	"rl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，各数量特征之间的关系。种群密度处在中心。",
+		"seconds": 5.928
+	},
+	"rl2": {
+		"key": "zh-CN-XiaoxiaoNeural|出生率、死亡率、迁入率、迁出率，直接决定种群密度。",
+		"seconds": 5.928
+	},
+	"rl3": {
+		"key": "zh-CN-XiaoxiaoNeural|年龄结构既影响出生率，又影响死亡率，可以预测种群数量的变化趋势。",
+		"seconds": 6.888
+	},
+	"rl4": {
+		"key": "zh-CN-XiaoxiaoNeural|性别比例只影响出生率。",
+		"seconds": 2.928
+	},
+	"rl5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：遇到概念图，先找指向种群密度的四个“率”；同时指向两个率的是年龄结构，只指向一个率的是性别比例。",
+		"seconds": 11.064
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：一个池塘中的全部鱼是一个种群？错，包含多个物种。判断二：种群密度是最基本的数量特征？对。",
+		"seconds": 11.832
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：调查蚜虫、跳蝻的密度用标记重捕法？错，用样方法。判断四：标记物脱落会使估算值偏大？对。",
+		"seconds": 12.264
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：年龄结构为稳定型，数量一定稳定？错。判断六：诱杀雄虫是通过改变性别比例降低出生率？对。",
+		"seconds": 12.192
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：直接决定看四率，预测趋势看年龄。我们下期再见！",
+		"seconds": 7.704
+	}
+}

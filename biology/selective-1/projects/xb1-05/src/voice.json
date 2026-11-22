@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第二章第三节的前半部分——兴奋在神经纤维上的传导。",
+		"seconds": 9.576
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这是神经调节的核心难点：静息电位和动作电位的离子机制、膜电位曲线、电表偏转，几乎年年都考。",
+		"seconds": 9.936
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"rs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，静息电位。神经纤维未受刺激时，膜两侧的电位表现为外正内负。",
+		"seconds": 8.184
+	},
+	"rs2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因是：膜内钾离子浓度比膜外高，静息时膜主要对钾离子有通透性，钾离子外流，使膜外阳离子浓度高于膜内。",
+		"seconds": 11.208
+	},
+	"rs3": {
+		"key": "zh-CN-XiaoxiaoNeural|科学家正是用枪乌贼的巨大轴突，把微电极插进膜内，测出了这个电位。",
+		"seconds": 6.864
+	},
+	"rs4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：钾离子外流是顺浓度梯度、借助通道蛋白进行的，属于协助扩散，不消耗能量。",
+		"seconds": 8.712
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，动作电位。神经纤维某一部位受到刺激时，膜对钠离子的通透性增加，钠离子迅速内流。",
+		"seconds": 9.768
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|于是这个部位的膜电位变为外负内正，形成动作电位，这个部位就处于兴奋状态。",
+		"seconds": 7.992
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：钠离子内流同样是顺浓度梯度、借助通道蛋白的协助扩散。记住口诀：静息钾外流，兴奋钠内流。",
+		"seconds": 10.992
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，局部电流。兴奋部位外负内正，相邻的未兴奋部位仍是外正内负，两者之间有电位差，电荷移动形成局部电流。",
+		"seconds": 12.216
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|在膜外，局部电流由未兴奋部位流向兴奋部位；在膜内，由兴奋部位流向未兴奋部位。",
+		"seconds": 8.712
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|局部电流刺激相邻的未兴奋部位，使它也产生动作电位，兴奋就这样一段一段向前传导。",
+		"seconds": 8.568
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：兴奋的传导方向与膜内电流方向一致，与膜外电流方向相反。",
+		"seconds": 6.936
+	},
+	"cu5": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，传导方向。在离体的神经纤维上，刺激中间某一点，兴奋同时向两侧传导，是双向的。",
+		"seconds": 9.888
+	},
+	"cu6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：在生物体内的反射活动中，兴奋只能从感受器一端传来，所以在神经纤维上是单向传导的。",
+		"seconds": 9.456
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，膜电位变化曲线。电极一个在膜内、一个在膜外，纵轴是膜内相对于膜外的电位。",
+		"seconds": 9
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|a b段是静息电位，约负七十毫伏，由钾离子外流维持。",
+		"seconds": 5.856
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|b c段，受到刺激后钠离子通道开放，钠离子大量内流，膜电位迅速上升到峰值，变成外负内正。",
+		"seconds": 9.936
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|c d段，钠离子通道关闭，钾离子通道开放，钾离子外流，膜电位恢复为外正内负。",
+		"seconds": 8.712
+	},
+	"cv5": {
+		"key": "zh-CN-XiaoxiaoNeural|d e段，钠钾泵消耗ATP，泵出三个钠离子、泵入两个钾离子，恢复膜内外的离子分布，属于主动运输。",
+		"seconds": 10.224
+	},
+	"cv6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问各段的运输方式，钠离子内流、钾离子外流都是协助扩散，钠钾泵是主动运输；峰值高低取决于钠离子内流的量。",
+		"seconds": 12.288
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，细胞外钠离子、钾离子浓度改变，对膜电位有什么影响？关键看膜内外的浓度差。",
+		"seconds": 8.904
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞外钠离子浓度升高，钠离子浓度差变大，内流增多，动作电位峰值升高；细胞外钠离子浓度降低，峰值降低。",
+		"seconds": 11.184
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞外钠离子浓度改变，对静息电位基本没有影响，因为静息电位主要由钾离子外流决定。",
+		"seconds": 8.376
+	},
+	"cc4": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞外钾离子浓度升高，钾离子浓度差变小，外流减少，静息电位的绝对值变小；细胞外钾离子浓度降低，静息电位的绝对值变大。",
+		"seconds": 12.72
+	},
+	"cc5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先分清静息电位看钾离子、动作电位看钠离子，再看浓度差是变大还是变小。",
+		"seconds": 9.048
+	},
+	"pb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，测量电位时，电极应该怎么放？",
+		"seconds": 4.248
+	},
+	"pb2": {
+		"key": "zh-CN-XiaoxiaoNeural|测静息电位，要把一个电极放在膜内，另一个放在膜外，电表才会显示出负电位。",
+		"seconds": 7.56
+	},
+	"pb3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果两个电极都放在膜外，静息时膜外各处电位相等，电表指针不偏转，测不出静息电位。",
+		"seconds": 8.856
+	},
+	"pb4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两个电极都在膜外的装置，测的是两点之间的电位差，用来研究兴奋的传导，不能用来测静息电位。",
+		"seconds": 10.008
+	},
+	"mt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，电表指针偏转问题。两个电极都放在神经纤维的膜外，分别在a、b两点。",
+		"seconds": 8.712
+	},
+	"mt2": {
+		"key": "zh-CN-XiaoxiaoNeural|在a点左侧给刺激，兴奋先到a点，指针偏转一次；兴奋传到b点时，指针向相反方向再偏转一次，共发生两次方向相反的偏转。",
+		"seconds": 12.768
+	},
+	"mt3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果刺激点正好在a、b的中点，兴奋同时到达两点，两点之间没有电位差，指针不偏转。",
+		"seconds": 8.736
+	},
+	"mt4": {
+		"key": "zh-CN-XiaoxiaoNeural|如果刺激点在a、b之间、但不在中点，兴奋先后到达两点，指针仍然偏转两次。",
+		"seconds": 8.064
+	},
+	"mt5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：比较兴奋到达两个电极的先后——同时到达，不偏转；先后到达，偏转两次，方向相反。",
+		"seconds": 9.792
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|静息电位的形成主要是钠离子内流？错，主要是钾离子外流。产生动作电位时，膜电位表现为外负内正？对。",
+		"seconds": 11.88
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|兴奋的传导方向与膜外局部电流方向一致？错，与膜内电流方向一致。钾离子外流和钠离子内流都属于协助扩散？对。",
+		"seconds": 12.528
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞外钠离子浓度升高，动作电位峰值升高？对。刺激两电极的中点，电表指针偏转两次？错，指针不偏转。",
+		"seconds": 12.048
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串起来：静息看钾、兴奋看钠，局部电流推动兴奋传导，再学会读曲线、判电表。掌握这些，这一节就能稳稳拿分！我们下期再见！",
+		"seconds": 14.304
+	}
+}

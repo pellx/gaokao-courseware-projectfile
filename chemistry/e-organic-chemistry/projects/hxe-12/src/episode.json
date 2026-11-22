@@ -1,0 +1,121 @@
+{
+	"id": "HXE-12",
+	"title": "羧酸、酯与酰胺",
+	"subject": "chemistry",
+	"book": "有机化学 · 第12期 / 共17期",
+	"points": [
+		"羧酸的酸性",
+		"酯化反应",
+		"乙酸乙酯的制备",
+		"酯的水解",
+		"酚酯的水解",
+		"油脂",
+		"胺与酰胺",
+		"甲酸与甲酸酯"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"羧酸、酯",
+				true
+			],
+			[
+				"与酰胺"
+			]
+		],
+		"subtitle": "酸性比较 · 酯化 · 水解 · 油脂 · 酰胺",
+		"photo": "chevreul.jpg",
+		"photoCaption": "谢弗勒尔：研究油脂和皂化反应",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"羧酸、酯",
+					true
+				],
+				[
+					"与酰胺"
+				]
+			]
+		],
+		"photo": "chevreul.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "谢弗勒尔",
+		"credit": "Nadar, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "苯酚能与 NaHCO3 溶液反应放出 CO2",
+				"ok": false,
+				"fix": "只有羧酸能与 NaHCO3 反应"
+			},
+			{
+				"q": "酯化反应中酸脱羟基、醇脱氢",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "可以用 NaOH 溶液收集乙酸乙酯",
+				"ok": false,
+				"fix": "用饱和 Na2CO3 溶液"
+			},
+			{
+				"q": "1 mol 乙酸苯酯水解最多消耗 2 mol NaOH",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "油脂属于高分子化合物",
+				"ok": false,
+				"fix": "油脂不是高分子"
+			},
+			{
+				"q": "甲酸能发生银镜反应",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"羧酸、酯",
+				true
+			],
+			[
+				"与酰胺"
+			]
+		],
+		"endLine": "酸脱羟基醇脱氢，酚酯水解耗两碱",
+		"slogan": "酸脱羟基醇脱氢，酚酯水解耗两碱"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nadar《Michel Eugène Chevreul》，公有领域；插图来自 pixiv：kuma、SunTail（侵删）",
+	"anime": [
+		{
+			"key": "cake",
+			"src": "cake.jpg",
+			"credit": "插图：kuma《Surprise Birthday Present Doodle》pixiv #91941942",
+			"url": "https://www.pixiv.net/artworks/91941942"
+		},
+		{
+			"key": "ribbon",
+			"src": "ribbon.jpg",
+			"credit": "插图：SunTail《夏制服 沙綾》pixiv #77725613",
+			"url": "https://www.pixiv.net/artworks/77725613"
+		},
+		{
+			"key": "bob",
+			"src": "bob.jpg",
+			"credit": "插图：SunTail《夏制服 りみ》pixiv #77733400",
+			"url": "https://www.pixiv.net/artworks/77733400"
+		}
+	]
+}

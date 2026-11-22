@@ -1,0 +1,118 @@
+{
+	"id": "HXG-06",
+	"title": "绿色化学与环境保护",
+	"subject": "chemistry",
+	"book": "综合应用与情境 · 第6期 / 共7期",
+	"points": [
+		"绿色化学的核心",
+		"原子经济性",
+		"大气污染",
+		"水污染与废水处理",
+		"CO2 与碳中和",
+		"脱硫与脱硝",
+		"白色污染"
+	],
+	"intro": {
+		"badge": "高考化学 · 综合应用与情境",
+		"title": [
+			[
+				"绿色化学",
+				true
+			],
+			[
+				"与环境保护"
+			]
+		],
+		"subtitle": "原子经济性 · 大气与水 · 碳中和 · 脱硫脱硝",
+		"photo": "gargoyle.jpg",
+		"photoCaption": "被酸雨侵蚀的石雕",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"绿色化学",
+					true
+				]
+			],
+			[
+				[
+					"与环境保护"
+				]
+			]
+		],
+		"photo": "gargoyle.jpg",
+		"photoPos": "center",
+		"photoTag": "酸雨",
+		"credit": "Nino Barbieri, CC BY 2.5",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "先污染后治理符合绿色化学的理念",
+				"ok": false,
+				"fix": "绿色化学是从源头上减少污染"
+			},
+			{
+				"q": "加成反应、加聚反应的原子利用率为 100%",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "pH < 7 的雨水都是酸雨",
+				"ok": false,
+				"fix": "pH < 5.6 才是酸雨"
+			},
+			{
+				"q": "CO2 属于大气污染物",
+				"ok": false,
+				"fix": "CO2 不是污染物，但引起温室效应"
+			},
+			{
+				"q": "明矾既能净水又能消毒",
+				"ok": false,
+				"fix": "明矾只能净水"
+			},
+			{
+				"q": "聚乳酸含有酯基，可以降解",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"绿色化学",
+				true
+			],
+			[
+				"与环境保护"
+			]
+		],
+		"endLine": "源头减污染，加成加聚百分百",
+		"slogan": "源头减污染，加成加聚百分百"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nino Barbieri《Acid rain damaged gargoyle》，CC BY 2.5；插图来自 pixiv：無糖ジョニー、S_Sparky、三つ編み小僧（侵删）",
+	"anime": [
+		{
+			"key": "green",
+			"src": "green.jpg",
+			"credit": "插图：無糖ジョニー《虹夏ちゃん》pixiv #123384101",
+			"url": "https://www.pixiv.net/artworks/123384101"
+		},
+		{
+			"key": "friends",
+			"src": "friends.jpg",
+			"credit": "插图：S_Sparky《紬と…》pixiv #119226632",
+			"url": "https://www.pixiv.net/artworks/119226632"
+		},
+		{
+			"key": "mugi",
+			"src": "mugi.jpg",
+			"credit": "插图：三つ編み小僧《むぎちゃん》pixiv #36825766",
+			"url": "https://www.pixiv.net/artworks/36825766"
+		}
+	]
+}

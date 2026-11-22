@@ -1,0 +1,121 @@
+{
+	"id": "HXA-02",
+	"title": "元素周期表与碱金属、卤族元素",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第2期 / 共21期",
+	"points": [
+		"周期表的结构",
+		"原子序数的关系",
+		"碱金属的化学性质",
+		"碱金属的物理性质",
+		"卤族元素",
+		"卤素间的置换",
+		"位—构—性推理"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"元素周期表"
+			],
+			[
+				"与碱金属、卤族元素",
+				true
+			]
+		],
+		"subtitle": "周期 · 族 · 碱金属 · 卤素 · 递变规律",
+		"photo": "mendeleev-table.jpg",
+		"photoCaption": "门捷列夫 1869 年发表的第一张周期表",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"元素周期表"
+				]
+			],
+			[
+				[
+					"碱金属"
+				],
+				[
+					"卤族",
+					true
+				]
+			]
+		],
+		"photo": "mendeleev-table.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "门捷列夫",
+		"credit": "D. Mendeleev 1869, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "元素周期表有 18 个纵列，也就是 18 个族",
+				"ok": false,
+				"fix": "16 个族，第Ⅷ族占 3 个纵列"
+			},
+			{
+				"q": "同主族相邻元素原子序数之差可能是 2、8、18、32",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "碱金属单质的密度从 Li 到 Cs 依次增大",
+				"ok": false,
+				"fix": "K 的密度比 Na 小"
+			},
+			{
+				"q": "碱金属单质熔点从上到下降低，卤素单质熔点从上到下升高",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "氯水加入 KI 溶液后溶液变色，说明氧化性 Cl2 > I2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "HF、HCl、HBr、HI 的稳定性依次增强",
+				"ok": false,
+				"fix": "依次减弱"
+			}
+		],
+		"endTitle": [
+			[
+				"元素周期表"
+			],
+			[
+				"与碱金属、卤族元素",
+				true
+			]
+		],
+		"endLine": "周期表结构 · 序数关系 · 碱金属 · 卤素 · 位构性",
+		"slogan": "最外层定性质，层数定递变！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Dmitri Mendeleev《Mendeleev's periodic table (1869 year)》Public domain；插图来自 pixiv：スタンプはご遠慮ください、星空モチ、AlwaysBetabeats（侵删）",
+	"anime": [
+		{
+			"key": "bomb",
+			"src": "bomb.jpg",
+			"credit": "插图：スタンプはご遠慮ください《あかりをつけましょ爆弾に》pixiv #33964659",
+			"url": "https://www.pixiv.net/artworks/33964659"
+		},
+		{
+			"key": "paint",
+			"src": "paint.jpg",
+			"credit": "插图：星空モチ《虹色パレットの夢見る画家》pixiv #134731862",
+			"url": "https://www.pixiv.net/artworks/134731862"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：AlwaysBetabeats《A little explosive》pixiv #119823393",
+			"url": "https://www.pixiv.net/artworks/119823393"
+		}
+	]
+}

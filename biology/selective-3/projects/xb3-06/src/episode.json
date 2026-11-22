@@ -1,0 +1,38 @@
+{
+	"id": "XB3-06",
+	"title": "植物细胞工程（下）：应用",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第2章",
+	"points": ["快速繁殖", "作物脱毒", "单倍体育种", "突变体的利用", "细胞产物工厂化", "各种应用的比较"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["植物细胞工程"], ["的应用", true]],
+		"subtitle": "植物细胞工程（下） · 繁殖 · 育种 · 细胞产物",
+		"photo": "jars.jpg",
+		"photoCaption": "组织培养瓶中的试管苗",
+		"photoPos": "60% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["植物细胞工程"]], [["的应用", true]]],
+		"kicker": "快繁 · 脱毒 · 单倍体育种 · 紫杉醇",
+		"photo": "jars.jpg",
+		"photoPos": "60% center",
+		"photoTag": "试管苗",
+		"credit": "Photo: Angphotorion, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "快速繁殖能保持优良品种的遗传特性", "ok": true, "fix": ""},
+			{"q": "脱毒苗具有抗病毒的能力", "ok": false, "fix": "脱毒苗不含病毒，但不抗病毒"},
+			{"q": "花药离体培养得到的植株一般是纯合子", "ok": false, "fix": "得到单倍体，需秋水仙素处理才纯合"},
+			{"q": "愈伤组织细胞分裂旺盛，容易发生突变", "ok": true, "fix": ""},
+			{"q": "紫杉醇生产需将细胞培养成完整植株", "ok": false, "fix": "只需培养到细胞（愈伤组织）阶段"},
+			{"q": "次生代谢物不是植物生长所必需的", "ok": true, "fix": ""}
+		],
+		"endTitle": [["植物细胞工程"], ["的应用", true]],
+		"endLine": "快速繁殖 · 作物脱毒 · 单倍体育种 · 突变体 · 细胞产物",
+		"slogan": "要植株就再分化，要产物停在细胞！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Angphotorion《Plant tissue culture》CC BY-SA 4.0（裁切）"
+}

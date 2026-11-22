@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|周期、族与分区。",
+		"seconds": 2.328
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|结构大题常给出元素信息，让你判断它在第几周期、第几族、哪个区，共七个考点。",
+		"seconds": 8.352
+	},
+	"sy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，元素周期系与构造原理。按构造原理，每一个新能层的开始，就是一个新周期的开始：价层电子从 n s 1 开始，到 n s 2、n p 6 结束。",
+		"seconds": 14.784
+	},
+	"sy2": {
+		"key": "zh-CN-XiaoxiaoNeural|每个周期容纳的能级不同，所以各周期元素种数是2、8、8、18、18、32、32。",
+		"seconds": 9.624
+	},
+	"sy3": {
+		"key": "zh-CN-XiaoxiaoNeural|第一周期只有 1 s，2种；第二、三周期是 n s 和 n p，8种；第四、五周期多了 n减1 d，18种；第六、七周期再加上 n减2 f，32种。",
+		"seconds": 15.432
+	},
+	"sy4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：解释“为什么第四周期有18种元素”：因为第四周期依次填充 4 s、3 d、4 p 三个能级，共9个轨道，容纳18个电子。",
+		"seconds": 12.288
+	},
+	"pe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，周期与能层。周期序数等于能层数，也就是基态原子最高能层的序数。",
+		"seconds": 8.136
+	},
+	"pe1b": {
+		"key": "zh-CN-XiaoxiaoNeural|周期就像楼层：住在几层，就看最外面的电子排到了第几能层。",
+		"seconds": 6.24
+	},
+	"pe2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如铁是氩、3 d 6、4 s 2，最高能层是4，在第四周期；溴是氩、3 d 10、4 s 2、4 p 5，也在第四周期。",
+		"seconds": 12.12
+	},
+	"pe3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：看的是最高能层，不是电子排布式里最后写的能级；铁的 3 d 写在 4 s 前面，但它在第四周期。",
+		"seconds": 10.032
+	},
+	"gr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，族与价层电子排布。主族序数等于价层电子数，也就是最外层电子数：硫 3 s 2、3 p 4，6个价层电子，第六A族。",
+		"seconds": 13.272
+	},
+	"gr2": {
+		"key": "zh-CN-XiaoxiaoNeural|第三B到第七B族：族序数等于n减1 d 和 n s 电子数之和，比如锰 3 d 5、4 s 2，5加2等于7，第七B族。",
+		"seconds": 11.736
+	},
+	"gr3": {
+		"key": "zh-CN-XiaoxiaoNeural|n减1 d 和 n s 电子数之和为8、9、10的，是第八族：铁、钴、镍。",
+		"seconds": 7.848
+	},
+	"gr4": {
+		"key": "zh-CN-XiaoxiaoNeural|第一B、第二B族看 n s 电子数：铜 3 d 10、4 s 1 是第一B，锌 3 d 10、4 s 2 是第二B。",
+		"seconds": 10.032
+	},
+	"gr4b": {
+		"key": "zh-CN-XiaoxiaoNeural|同一族的元素，就像这对姐妹：价层电子排布相同，性质也很像。",
+		"seconds": 6.456
+	},
+	"gr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：第一B、第二B的族序数不能把 d 电子也加进去；铜是第一B，不是第十一B。",
+		"seconds": 8.352
+	},
+	"bl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，按最后填入电子的能级划分，周期表分成 s、p、d、ds、f 五个区。",
+		"seconds": 8.736
+	},
+	"bl2": {
+		"key": "zh-CN-XiaoxiaoNeural|s区：第一A、第二A族，价层电子 n s 1 到 n s 2；氢在 s 区。",
+		"seconds": 7.272
+	},
+	"bl3": {
+		"key": "zh-CN-XiaoxiaoNeural|p区：第三A到第七A族和零族，价层电子 n s 2、n p 1 到 n s 2、n p 6；氦虽然是 1 s 2，也放在 p 区。",
+		"seconds": 11.784
+	},
+	"bl4": {
+		"key": "zh-CN-XiaoxiaoNeural|d区：第三B到第七B族和第八族；ds区：第一B、第二B族，n减1 d 10、n s 1到2。",
+		"seconds": 10.056
+	},
+	"bl5": {
+		"key": "zh-CN-XiaoxiaoNeural|f区：镧系和锕系。d 区、ds 区、f 区的元素全部是金属。",
+		"seconds": 7.104
+	},
+	"bl6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铜、锌在 ds 区，不在 d 区；s 区的氢是非金属，所以“s区全是金属”是错的。",
+		"seconds": 9
+	},
+	"lc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，由价层电子排布推位置。比如价层是 4 s 2、4 p 3：最高能层4，第四周期；有 p 电子，p 区；价层电子5个，第五A族，是砷。",
+		"seconds": 15.12
+	},
+	"lc2": {
+		"key": "zh-CN-XiaoxiaoNeural|价层是 3 d 7、4 s 2：第四周期，d 区，d 加 s 共9个电子，第八族，是钴。",
+		"seconds": 8.688
+	},
+	"lc3": {
+		"key": "zh-CN-XiaoxiaoNeural|只给原子序数时，用0族定位法：记住各稀有气体的原子序数2、10、18、36、54、86。",
+		"seconds": 10.296
+	},
+	"lc4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如34号：比36号的氪少2，在氪的同一周期、往前数两格，是第四周期第六A族的硒。",
+		"seconds": 9.408
+	},
+	"lc5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先定周期（最高能层），再定区（最后填入的能级），最后定族（按区数价层电子）。",
+		"seconds": 9.096
+	},
+	"dg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，对角线规则。周期表中，某些主族元素与右下方的主族元素性质相似。",
+		"seconds": 8.448
+	},
+	"dg2": {
+		"key": "zh-CN-XiaoxiaoNeural|三对最常考：锂和镁、铍和铝、硼和硅。",
+		"seconds": 4.488
+	},
+	"dg3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如锂在氧气中燃烧只生成氧化锂，和镁一样；氢氧化铍和氢氧化铝一样是两性氢氧化物。",
+		"seconds": 9.024
+	},
+	"dg3b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像这两个手拉手的粉头发女孩，不是姐妹，却长得很像：对角线上的两种元素性质相似。",
+		"seconds": 8.328
+	},
+	"dg4": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：它们的电负性相近，对电子的吸引能力差不多。",
+		"seconds": 5.208
+	},
+	"dg5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：由已知元素的性质推测对角线元素的性质，例如写氢氧化铍与氢氧化钠反应的方程式。",
+		"seconds": 9.072
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，易错辨析。第一句：“最外层有2个电子的元素一定在第二A族。”错，氦和很多过渡元素最外层也是2个电子。",
+		"seconds": 12.312
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二句：“铜、锌位于d区。”错，在ds区。",
+		"seconds": 5.208
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三句：“氢在s区，氦在p区。”对。",
+		"seconds": 4.68
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四句：“价层电子排布为 n s 2 的元素都是金属。”错，氦是 1 s 2。",
+		"seconds": 7.632
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：遇到“一定”“都”，先想想氢、氦和过渡元素这几个特殊情况。",
+		"seconds": 6.648
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：周期序数等于能层数？对。判断二：铜位于d区？错，在ds区。",
+		"seconds": 9.168
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：价层 3 d 5、4 s 2 的元素位于第七B族？对，是锰。判断四：最外层有2个电子的一定是第二A族？错。",
+		"seconds": 12.984
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：锂和镁、铍和铝性质相似，因为电负性相近？对。判断六：s 区元素全是金属？错，有氢。",
+		"seconds": 11.736
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|周期看能层，区看最后填入的能级，族看价层电子。下一期：原子半径、电离能与电负性。",
+		"seconds": 9.6
+	}
+}

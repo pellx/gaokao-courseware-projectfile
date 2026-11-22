@@ -1,0 +1,38 @@
+{
+	"id": "BX2-03",
+	"title": "孟德尔的豌豆杂交实验（二）（上）：自由组合定律",
+	"subject": "biology",
+	"book": "人教版·必修2·第1章",
+	"points": ["两对相对性状实验", "对自由组合的解释", "F2基因型与表型", "测交验证", "自由组合定律内容", "孟德尔成功的原因", "遗传规律的再发现"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["自由组合"], ["定律", true]],
+		"subtitle": "孟德尔的豌豆杂交实验（二）（上） · 9∶3∶3∶1",
+		"photo": "yellowpeas.jpg",
+		"photoCaption": "黄色圆粒豌豆",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["自由组合"]], [["定律", true]]],
+		"kicker": "9∶3∶3∶1 · 测交 · 再发现",
+		"photo": "yellowpeas.jpg",
+		"photoPos": "center 50%",
+		"photoTag": "黄色圆粒豌豆",
+		"credit": "Photo: Billjones94, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "F2 中重组类型一定占 3/8", "ok": false, "fix": "亲本为黄皱 × 绿圆时，重组类型占 5/8"},
+			{"q": "F1 YyRr 产生的配子共有 16 种", "ok": false, "fix": "雌雄配子各 4 种，结合方式 16 种"},
+			{"q": "自由组合发生在雌雄配子随机结合时", "ok": false, "fix": "发生在形成配子时"},
+			{"q": "测交后代 1∶1∶1∶1，说明 F1 产生 4 种比例相等的配子", "ok": true, "fix": ""},
+			{"q": "F2 黄色圆粒中，纯合子占 1/9", "ok": true, "fix": ""},
+			{"q": "基因型相同的个体，表型一定相同", "ok": false, "fix": "表型是基因型与环境共同作用的结果"}
+		],
+		"endTitle": [["自由组合"], ["定律", true]],
+		"endLine": "9∶3∶3∶1 · 四种配子 · 测交 1∶1∶1∶1 · 基因与等位基因",
+		"slogan": "两对性状拆开看，每对都是 3∶1！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Billjones94《Raw (dried) yellow peas》CC BY-SA 4.0"
+}

@@ -1,0 +1,130 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第六章第一节的下半部分——动植物细胞有丝分裂的比较和观察根尖细胞有丝分裂的实验。",
+		"seconds": 11.616
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考动植物细胞分裂的区别、实验步骤，以及柱形图和曲线图的识别。",
+		"seconds": 7.344
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，动植物细胞有丝分裂的区别，在前期和末期。",
+		"seconds": 5.52
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|前期纺锤体的形成：植物细胞从细胞两极发出纺锤丝；动物细胞由中心体发出星射线，中心粒在间期倍增。",
+		"seconds": 10.584
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|末期细胞质的分裂：植物细胞在赤道板位置形成细胞板，扩展成细胞壁；动物细胞的细胞膜从中部向内凹陷，缢裂成两个子细胞。",
+		"seconds": 12.384
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：低等植物细胞也有中心体；判断动物还是植物，最可靠的是看有无细胞壁和末期的分裂方式。",
+		"seconds": 9.864
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，有丝分裂的意义。将亲代细胞的染色体经过复制后，精确地平均分配到两个子细胞中。",
+		"seconds": 9.36
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|保持了亲子代细胞之间遗传的稳定性。",
+		"seconds": 3.744
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：平均分配的是细胞核中的DNA；细胞质中的DNA，如线粒体DNA，是随机、不均等分配的。",
+		"seconds": 10.464
+	},
+	"am1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，无丝分裂。分裂过程中没有出现纺锤丝和染色体的变化，所以叫无丝分裂。",
+		"seconds": 8.52
+	},
+	"am2": {
+		"key": "zh-CN-XiaoxiaoNeural|过程：细胞核先延长，核的中部向内凹进，缢裂成两个细胞核；接着整个细胞从中部缢裂成两个子细胞。",
+		"seconds": 10.032
+	},
+	"am3": {
+		"key": "zh-CN-XiaoxiaoNeural|实例：蛙的红细胞的分裂。",
+		"seconds": 2.976
+	},
+	"am4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：无丝分裂也有DNA的复制；它是真核细胞的分裂方式，原核细胞进行的是二分裂；人的成熟红细胞不分裂。",
+		"seconds": 10.752
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，观察根尖分生区组织细胞的有丝分裂。解离：用盐酸和酒精1比1混合的解离液，使组织中的细胞相互分离。",
+		"seconds": 11.736
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|漂洗：用清水漂洗，洗去解离液，防止解离过度，也便于染色。",
+		"seconds": 6.648
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|染色：用甲紫溶液或醋酸洋红液等碱性染料，使染色体着色。",
+		"seconds": 6.504
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|制片：压片使细胞分散开，再用低倍镜找到分生区，换高倍镜观察。",
+		"seconds": 7.2
+	},
+	"st5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：顺序是解离、漂洗、染色、制片，漂洗一定在染色之前；分生区细胞呈正方形、排列紧密。",
+		"seconds": 10.416
+	},
+	"rs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，实验结果分析。视野中大多数细胞处于分裂间期，因为间期在细胞周期中占的时间最长。",
+		"seconds": 10.2
+	},
+	"rs2": {
+		"key": "zh-CN-XiaoxiaoNeural|解离后细胞已经死亡，所以不能看到一个细胞连续分裂的过程，要寻找处于不同时期的细胞。",
+		"seconds": 8.28
+	},
+	"rs3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：某时期细胞数占总数的比例，等于这一时期占细胞周期时间的比例，可以用来估算各时期的时长。",
+		"seconds": 9.888
+	},
+	"gr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，柱形图和曲线图。柱形图中，会变成0的是染色单体。",
+		"seconds": 6.888
+	},
+	"gr2": {
+		"key": "zh-CN-XiaoxiaoNeural|染色单体为0时，染色体数等于核DNA数，对应间期复制前、后期和末期。",
+		"seconds": 7.8
+	},
+	"gr3": {
+		"key": "zh-CN-XiaoxiaoNeural|染色单体不为0时，染色体比核DNA比染色单体等于1比2比2，对应前期和中期。",
+		"seconds": 8.688
+	},
+	"gr4": {
+		"key": "zh-CN-XiaoxiaoNeural|曲线图中，核DNA是斜线上升，因为DNA复制需要时间；染色体是垂直上升，因为着丝粒是一下子分裂的。",
+		"seconds": 10.992
+	},
+	"gr5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先找能变成0的是染色单体，再看有没有斜线区分核DNA和染色体。",
+		"seconds": 8.376
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，区别在前期和末期。判断二？对。",
+		"seconds": 6.48
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，无丝分裂也有DNA复制。判断四？错，要先漂洗再染色。",
+		"seconds": 8.832
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，解离后细胞已经死亡。判断六？对。",
+		"seconds": 6.888
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：前期末期看区别，解离漂洗染色制片。我们下期再见！",
+		"seconds": 8.064
+	}
+}

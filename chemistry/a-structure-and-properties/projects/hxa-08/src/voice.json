@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|化学键：离子键与共价键。",
+		"seconds": 3.192
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常和化学用语一起考：电子式的正误、物质中含有哪些化学键，共八个考点。",
+		"seconds": 8.424
+	},
+	"io1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，离子键。带相反电荷离子之间的相互作用叫离子键，成键微粒是阴、阳离子。",
+		"seconds": 9.024
+	},
+	"io2": {
+		"key": "zh-CN-XiaoxiaoNeural|本质是静电作用：既有阴、阳离子间的静电吸引，也有原子核之间、电子之间的静电排斥。",
+		"seconds": 8.736
+	},
+	"io3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如钠和氯：钠原子失去1个电子变成钠离子，氯原子得到1个电子变成氯离子，两者靠离子键结合成氯化钠。",
+		"seconds": 11.016
+	},
+	"io3b": {
+		"key": "zh-CN-XiaoxiaoNeural|离子键像送礼物：钠把电子“送”给氯，自己带正电，氯带负电，正负相吸。",
+		"seconds": 7.248
+	},
+	"io4": {
+		"key": "zh-CN-XiaoxiaoNeural|含有离子键的化合物是离子化合物：活泼金属与活泼非金属形成的化合物、强碱、大多数盐，还有铵盐。",
+		"seconds": 10.032
+	},
+	"io5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氯化铵全由非金属元素组成，却是离子化合物；氯化铝含金属元素，却是共价化合物。",
+		"seconds": 9.096
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，共价键。原子间通过共用电子对形成的相互作用叫共价键。",
+		"seconds": 7.2
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如两个氯原子各拿出1个电子，共用一对，每个氯原子都达到8电子稳定结构。",
+		"seconds": 7.944
+	},
+	"cv2b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像两个人共撑一把伞：伞是两人共用的，就像共用电子对属于两个原子。",
+		"seconds": 6.792
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|同种原子形成的共价键，共用电子对不偏移，是非极性键，比如氯氯键、氢氢键。",
+		"seconds": 7.944
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|不同原子形成的共价键，共用电子对偏向吸引力强的一方，是极性键，比如氢氯键。",
+		"seconds": 7.896
+	},
+	"cv5": {
+		"key": "zh-CN-XiaoxiaoNeural|只含共价键的化合物叫共价化合物：酸、非金属氢化物、非金属氧化物、大多数有机物。",
+		"seconds": 8.856
+	},
+	"cv6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：非极性键不只存在于单质中，过氧化氢和过氧化钠里的氧氧键也是非极性键。",
+		"seconds": 8.448
+	},
+	"lw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电子式。在元素符号周围用小黑点或叉号表示原子的最外层电子。",
+		"seconds": 7.968
+	},
+	"lw2": {
+		"key": "zh-CN-XiaoxiaoNeural|离子化合物：阴离子要加方括号并标电荷，阳离子除铵根等复杂离子外就是离子符号，比如氯化钠、过氧化钠。",
+		"seconds": 10.992
+	},
+	"lw3": {
+		"key": "zh-CN-XiaoxiaoNeural|共价化合物：不加方括号、不标电荷，要把每个原子的孤电子对画全，比如水、二氧化碳。",
+		"seconds": 8.832
+	},
+	"lw4": {
+		"key": "zh-CN-XiaoxiaoNeural|几个高频的：氮气是三对共用电子；次氯酸的中心原子是氧，写成氢、氧、氯的顺序；氯化铵里铵根要加方括号。",
+		"seconds": 11.184
+	},
+	"lw5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化碳写成一对共用电子、次氯酸写成氢氯氧、氯化钠的氯离子漏写方括号、氮气漏画孤电子对，都是常见错误。",
+		"seconds": 11.808
+	},
+	"fm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，用电子式表示物质的形成过程。左边写原子的电子式，右边写化合物的电子式，中间用箭头连接。",
+		"seconds": 10.584
+	},
+	"fm2": {
+		"key": "zh-CN-XiaoxiaoNeural|离子化合物：用弯箭头表示电子的转移方向，比如钠原子的电子转移给氯原子。",
+		"seconds": 7.656
+	},
+	"fm3": {
+		"key": "zh-CN-XiaoxiaoNeural|共价化合物：不画弯箭头，因为电子没有转移，只是共用。",
+		"seconds": 5.808
+	},
+	"fm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：形成过程中间用“→”，不用等号；左边相同的原子可以合并写，但不能写成分子；离子化合物别漏了弯箭头。",
+		"seconds": 11.136
+	},
+	"md1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，结构式与分子模型。用一根短线表示一对共用电子，忽略孤电子对，得到结构式，比如水、二氧化碳、氮气。",
+		"seconds": 11.952
+	},
+	"md2": {
+		"key": "zh-CN-XiaoxiaoNeural|球棍模型：用球表示原子、棍表示化学键，能看出键角和空间结构。",
+		"seconds": 7.128
+	},
+	"md3": {
+		"key": "zh-CN-XiaoxiaoNeural|空间填充模型：按原子的相对大小紧密堆在一起，更接近分子的真实形状。",
+		"seconds": 7.536
+	},
+	"md4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：画模型时要注意原子的相对大小，比如甲烷的空间填充模型中碳原子比氢原子大；四氯化碳中氯原子比碳原子大。",
+		"seconds": 12.024
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，化学键与物质类别。离子化合物一定含离子键，可能还含共价键：氢氧化钠、过氧化钠、氯化铵。",
+		"seconds": 10.776
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|共价化合物只含共价键，一定不含离子键。",
+		"seconds": 4.392
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|非金属单质大多含非极性键；稀有气体是单原子分子，没有化学键。",
+		"seconds": 6.816
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断顺序：先看是不是离子化合物（有没有活泼金属或铵根），再看原子团内部有没有共价键。",
+		"seconds": 8.832
+	},
+	"ct5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：“下列物质中既含离子键又含非极性键的是”，答案常是过氧化钠。",
+		"seconds": 7.176
+	},
+	"im1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，分子间作用力初识。分子之间存在一种比化学键弱得多的作用力，叫分子间作用力，也叫范德华力。",
+		"seconds": 10.656
+	},
+	"im2": {
+		"key": "zh-CN-XiaoxiaoNeural|它影响物质的熔点、沸点等物理性质：组成和结构相似的分子，相对分子质量越大，分子间作用力越大，熔沸点越高。",
+		"seconds": 11.016
+	},
+	"im3": {
+		"key": "zh-CN-XiaoxiaoNeural|水、氨、氟化氢的分子之间还存在一种特殊的分子间作用力，叫氢键，所以它们的沸点反常地高。",
+		"seconds": 9.504
+	},
+	"im4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：分子间作用力和氢键都不是化学键，不影响分子的化学性质和稳定性；水比硫化氢稳定，是因为氧氢键更牢固。",
+		"seconds": 11.088
+	},
+	"es1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，化学反应的本质：旧化学键断裂和新化学键形成。",
+		"seconds": 6.144
+	},
+	"es2": {
+		"key": "zh-CN-XiaoxiaoNeural|只有旧键断裂、没有新键形成，不是化学变化：比如氯化钠熔化、氯化氢溶于水，离子键或共价键被破坏，但没有新物质生成。",
+		"seconds": 12.072
+	},
+	"es3": {
+		"key": "zh-CN-XiaoxiaoNeural|干冰升华、冰融化，只破坏了分子间作用力，化学键没有变。",
+		"seconds": 6.024
+	},
+	"es4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断某过程破坏了什么作用力。解题方法：先看物质类别，再看过程：离子化合物熔化破坏离子键，分子晶体熔化只破坏分子间作用力。",
+		"seconds": 14.304
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：氯化铵中只含共价键？错，有离子键。判断二：含共价键的化合物一定是共价化合物？错，氢氧化钠就不是。",
+		"seconds": 12.816
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：过氧化钠中既有离子键又有非极性键？对。判断四：稀有气体单质中没有化学键？对。",
+		"seconds": 10.848
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：水比硫化氢稳定是因为有氢键？错，是氧氢键更牢固。判断六：氯化氢溶于水发生了化学变化？错，只断键不成键。",
+		"seconds": 13.56
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|离子键靠静电，共价键靠共用，只断不成不是化学变化。下一期：σ键与π键、键参数。",
+		"seconds": 10.08
+	}
+}

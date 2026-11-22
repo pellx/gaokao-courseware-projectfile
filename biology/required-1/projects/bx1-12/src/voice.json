@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第四章第一节——被动运输。",
+		"seconds": 6.552
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考渗透装置的分析、质壁分离及复原实验，以及自由扩散和协助扩散的比较。",
+		"seconds": 8.52
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"os1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，渗透作用。水分子等溶剂分子透过半透膜，从低浓度溶液一侧向高浓度溶液一侧扩散，叫作渗透作用。",
+		"seconds": 11.208
+	},
+	"os2": {
+		"key": "zh-CN-XiaoxiaoNeural|发生渗透作用有两个条件：一是要有半透膜，二是半透膜两侧的溶液具有浓度差。",
+		"seconds": 7.968
+	},
+	"os3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这里的浓度是物质的量浓度；质量分数相同的葡萄糖溶液和蔗糖溶液，葡萄糖溶液的物质的量浓度更大。",
+		"seconds": 10.656
+	},
+	"dv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，渗透装置的分析。漏斗内装蔗糖溶液，烧杯中是清水，漏斗口封着一层半透膜。",
+		"seconds": 9.288
+	},
+	"dv2": {
+		"key": "zh-CN-XiaoxiaoNeural|单位时间内进入漏斗的水分子多于出来的，漏斗内液面上升。",
+		"seconds": 6.096
+	},
+	"dv3": {
+		"key": "zh-CN-XiaoxiaoNeural|液面上升到一定高度后停止：此时液柱的压力与浓度差的作用相互平衡，水分子进出达到动态平衡。",
+		"seconds": 9.744
+	},
+	"dv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：平衡时漏斗内外浓度并不相等，漏斗内仍高于烧杯；水分子仍在双向移动，只是进出速率相等。",
+		"seconds": 10.416
+	},
+	"an1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，动物细胞的吸水和失水。动物细胞的细胞膜相当于一层半透膜。",
+		"seconds": 7.416
+	},
+	"an2": {
+		"key": "zh-CN-XiaoxiaoNeural|外界溶液浓度低于细胞质浓度时，细胞吸水膨胀，甚至涨破；外界浓度高于细胞质浓度时，细胞失水皱缩。",
+		"seconds": 10.728
+	},
+	"an3": {
+		"key": "zh-CN-XiaoxiaoNeural|两者浓度相同时，水分子进出平衡，细胞形态不变，所以静脉输液要用生理盐水。",
+		"seconds": 8.544
+	},
+	"an4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：红细胞放入不同浓度溶液中的形态变化。解题方法：水往浓处流，先比较细胞内外的浓度。",
+		"seconds": 9.792
+	},
+	"pp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，原生质层。成熟的植物细胞有中央大液泡，液泡内的液体叫细胞液。",
+		"seconds": 8.352
+	},
+	"pp2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞膜和液泡膜，以及两层膜之间的细胞质，称为原生质层，相当于一层半透膜。",
+		"seconds": 7.848
+	},
+	"pp3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞壁是全透性的，而且伸缩性比原生质层小。",
+		"seconds": 5.04
+	},
+	"pp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：原生质层不包括细胞液，也不能把细胞壁算进去；起半透膜作用的是原生质层，不是细胞壁。",
+		"seconds": 9.72
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，探究植物细胞的吸水和失水。常用紫色洋葱鳞片叶的外表皮，液泡有颜色，便于观察。",
+		"seconds": 9.624
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|滴加0.3 克每毫升的蔗糖溶液，原生质层与细胞壁逐渐分离，出现质壁分离，液泡变小、颜色变深。",
+		"seconds": 10.248
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|再滴加清水，液泡逐渐变大，出现质壁分离复原。",
+		"seconds": 5.304
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|整个实验用低倍镜观察三次，形成前后自身对照。",
+		"seconds": 5.424
+	},
+	"pl5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：质壁分离的内因是原生质层的伸缩性大于细胞壁，外因是外界溶液浓度大于细胞液浓度。",
+		"seconds": 9.816
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，质壁分离的应用。可以判断细胞的死活，死细胞不发生质壁分离；还可以估测细胞液浓度的范围。",
+		"seconds": 10.296
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|把细胞放入一定浓度的硝酸钾溶液中，先发生质壁分离，随后会自动复原。",
+		"seconds": 7.2
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|因为钾离子和硝酸根离子可以被细胞主动吸收，细胞液浓度升高，细胞又吸水；尿素、甘油、乙二醇溶液中也会自动复原。",
+		"seconds": 11.952
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：外界溶液浓度过高，细胞失水过多而死亡，就不能复原；动物细胞没有细胞壁，不会发生质壁分离。",
+		"seconds": 10.176
+	},
+	"df1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，被动运输。物质以扩散方式进出细胞，不需要消耗细胞内化学反应释放的能量，包括自由扩散和协助扩散。",
+		"seconds": 11.496
+	},
+	"df2": {
+		"key": "zh-CN-XiaoxiaoNeural|自由扩散：通过简单的扩散作用进出细胞，如氧气、二氧化碳、甘油、乙醇、苯等。",
+		"seconds": 8.616
+	},
+	"df3": {
+		"key": "zh-CN-XiaoxiaoNeural|协助扩散：借助膜上的转运蛋白进出细胞，如葡萄糖进入红细胞，水分子更多地借助水通道蛋白进出。",
+		"seconds": 9.96
+	},
+	"df4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：两者都顺浓度梯度、不耗能，区别在于是否需要转运蛋白。",
+		"seconds": 7.104
+	},
+	"pt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，转运蛋白分为载体蛋白和通道蛋白两类。",
+		"seconds": 5.304
+	},
+	"pt2": {
+		"key": "zh-CN-XiaoxiaoNeural|载体蛋白只容许与自身结合部位相适应的分子或离子通过，每次转运时都会发生自身构象的改变。",
+		"seconds": 9.504
+	},
+	"pt3": {
+		"key": "zh-CN-XiaoxiaoNeural|通道蛋白只容许大小、形状和电荷相适宜的分子或离子通过，分子或离子通过时不需要与通道蛋白结合。",
+		"seconds": 10.176
+	},
+	"pt4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：协助扩散的速率除了受浓度差影响，还受转运蛋白数量的限制，所以曲线最后会趋于平缓。",
+		"seconds": 9.792
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，漏斗内浓度仍然更高。判断二？错，原生质层是两层膜及其间的细胞质。",
+		"seconds": 10.128
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，动物细胞没有细胞壁。",
+		"seconds": 6.48
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，是协助扩散。判断六？错，不需要结合。",
+		"seconds": 7.176
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：水往浓处流，被动运输顺浓度梯度、不耗能。我们下期再见！",
+		"seconds": 8.568
+	}
+}

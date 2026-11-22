@@ -1,0 +1,123 @@
+{
+	"id": "HXF-04",
+	"title": "物质的分离与提纯",
+	"subject": "chemistry",
+	"book": "化学实验 · 第4期 / 共9期",
+	"points": [
+		"分离提纯的原则",
+		"过滤",
+		"蒸发与冷却结晶",
+		"萃取与分液",
+		"蒸馏与分馏",
+		"重结晶",
+		"沉淀的洗涤",
+		"常见物质的除杂"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学实验",
+		"title": [
+			[
+				"物质的分离",
+				true
+			],
+			[
+				"与提纯"
+			]
+		],
+		"subtitle": "过滤 · 结晶 · 萃取 · 蒸馏 · 洗涤 · 除杂",
+		"photo": "brunschwig.jpg",
+		"photoCaption": "1512 年出版的《蒸馏之书》中的蒸馏装置",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"物质的分离",
+					true
+				]
+			],
+			[
+				[
+					"与提纯"
+				]
+			]
+		],
+		"photo": "brunschwig.jpg",
+		"photoPos": {
+			"16x9": "center 60%",
+			"4x3": "center 60%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "蒸馏之书",
+		"credit": "Hieronymus Brunschwig 1512, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "过滤时可以用玻璃棒搅拌以加快过滤",
+				"ok": false,
+				"fix": "会弄破滤纸"
+			},
+			{
+				"q": "从 CuSO4 溶液中得到胆矾，用蒸发浓缩、冷却结晶",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "可以用乙醇萃取碘水中的碘",
+				"ok": false,
+				"fix": "乙醇与水互溶"
+			},
+			{
+				"q": "蒸馏时冷凝水应下进上出",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "检验沉淀是否洗净，应取滤液检验",
+				"ok": false,
+				"fix": "取最后一次洗涤液"
+			},
+			{
+				"q": "用 NaOH 溶液除去乙酸乙酯中的乙酸",
+				"ok": false,
+				"fix": "酯会水解，用饱和 Na2CO3 溶液"
+			}
+		],
+		"endTitle": [
+			[
+				"物质的分离",
+				true
+			],
+			[
+				"与提纯"
+			]
+		],
+		"endLine": "不增不减，含水晶体冷却结晶",
+		"slogan": "不增不减，含水晶体冷却结晶"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Hieronymus Brunschwig《Liber de arte distillandi》（1512）插图，公有领域；插图来自 pixiv：深空、KOGOOMA、ながと（侵删）",
+	"anime": [
+		{
+			"key": "berries",
+			"src": "berries.jpg",
+			"credit": "插图：深空《ほうかごてぃーたいむ》pixiv #16603096",
+			"url": "https://www.pixiv.net/artworks/16603096"
+		},
+		{
+			"key": "strum",
+			"src": "strum.jpg",
+			"credit": "插图：KOGOOMA《ぼっち・ざ・ろっく!》pixiv #145688090",
+			"url": "https://www.pixiv.net/artworks/145688090"
+		},
+		{
+			"key": "bocchi",
+			"src": "bocchi.jpg",
+			"credit": "插图：ながと《ちびキャラ　後藤ひとり》pixiv #123502813",
+			"url": "https://www.pixiv.net/artworks/123502813"
+		}
+	]
+}

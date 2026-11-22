@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第一章第三节——发酵工程及其应用。",
+		"seconds": 8.112
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考发酵工程的基本环节、发酵条件的控制，以及产品分离提纯和各领域应用。",
+		"seconds": 8.136
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，发酵工程。它是利用微生物的特定功能，通过现代工程技术，规模化生产对人类有用的产品。",
+		"seconds": 10.272
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|发酵工程的特点：生产条件温和，原料来源丰富且价格低廉。",
+		"seconds": 6.528
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|产物专一，废弃物对环境的污染小、容易处理。",
+		"seconds": 4.848
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：发酵工程用的是经过选育的优良单一菌种，通常在发酵罐中液体发酵，这正是它与传统发酵技术的主要区别。",
+		"seconds": 11.064
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，发酵工程的基本环节。先选育菌种，再扩大培养，增加菌种的数量。",
+		"seconds": 7.872
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|然后配制培养基、灭菌、接种。",
+		"seconds": 3.6
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|接着在发酵罐内发酵，这是发酵工程的中心环节。",
+		"seconds": 4.896
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|最后分离、提纯产物，获得产品。",
+		"seconds": 3.792
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：排序和找中心环节。易错：扩大培养的目的是增加菌种数量，不是为了获得产物。",
+		"seconds": 9.216
+	},
+	"br1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，菌种的选育。性状优良的菌种，可以从自然界中筛选出来。",
+		"seconds": 6.816
+	},
+	"br2": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以通过诱变育种获得，比如用诱变的方法选育高产青霉素的青霉菌。",
+		"seconds": 6.816
+	},
+	"br3": {
+		"key": "zh-CN-XiaoxiaoNeural|还可以通过基因工程育种获得，比如把乙肝病毒的抗原基因导入酵母菌，生产乙肝疫苗。",
+		"seconds": 8.256
+	},
+	"br4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断育种方法。解题方法：有“诱变”字样或用射线、化学药剂处理的是诱变育种；导入外源基因的是基因工程育种。",
+		"seconds": 12.096
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，发酵过程的控制。要随时检测培养液中的微生物数量和产物浓度，并及时添加必需的营养组分。",
+		"seconds": 10.344
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|还要严格控制温度、pH和溶解氧等发酵条件。",
+		"seconds": 4.776
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|发酵罐上有搅拌叶轮、通入无菌空气的管道，还有温度、pH检测装置和冷却水夹套。",
+		"seconds": 8.496
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|例如谷氨酸棒状杆菌，在中性和弱碱性条件下积累谷氨酸；在酸性条件下容易形成谷氨酰胺和N-乙酰谷氨酰胺。",
+		"seconds": 11.088
+	},
+	"cl5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：环境条件改变，产物也会改变。解题方法：答题时抓住“条件影响微生物的生长繁殖和代谢途径”。",
+		"seconds": 10.752
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，产品的分离和提纯。产品如果是微生物细胞本身，可以采用过滤、沉淀等方法把菌体分离和干燥。",
+		"seconds": 10.44
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|产品如果是代谢物，要根据产物的性质，采取适当的提取、分离和纯化措施。",
+		"seconds": 7.656
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先判断产品是菌体还是代谢物，菌体用过滤、沉淀；代谢物用提取、分离、纯化。",
+		"seconds": 9.672
+	},
+	"be1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，在食品工业上的应用，以啤酒的工业化生产为例。大麦发芽，产生淀粉酶。",
+		"seconds": 8.52
+	},
+	"be2": {
+		"key": "zh-CN-XiaoxiaoNeural|焙烤：加热杀死种子的胚，但不使淀粉酶失活；然后碾磨、糖化，淀粉分解成糖浆。",
+		"seconds": 8.64
+	},
+	"be3": {
+		"key": "zh-CN-XiaoxiaoNeural|蒸煮：产生风味组分，终止酶的进一步作用，并对糖浆灭菌。",
+		"seconds": 6.072
+	},
+	"be4": {
+		"key": "zh-CN-XiaoxiaoNeural|接种酵母菌发酵，分主发酵和后发酵：主发酵中酵母菌繁殖、糖大部分被分解；后发酵要在低温、密闭环境下储存一段时间。",
+		"seconds": 12
+	},
+	"be5": {
+		"key": "zh-CN-XiaoxiaoNeural|发酵工程还能生产酱油等传统产品，生产柠檬酸、味精等食品添加剂，以及淀粉酶等酶制剂。",
+		"seconds": 9.288
+	},
+	"be6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问焙烤、蒸煮的目的。易错：焙烤要杀死胚，但淀粉酶不能失活。",
+		"seconds": 7.848
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，在医药和农牧业上的应用。医药上，可以生产抗生素，比如青霉素；还可以用基因工程菌生产疫苗、激素等。",
+		"seconds": 11.352
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|农牧业上，生产微生物肥料，比如根瘤菌肥、固氮菌肥，能增进土壤肥力。",
+		"seconds": 7.536
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|生产微生物农药，比如用苏云金杆菌防治多种农林害虫。",
+		"seconds": 5.904
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|生产微生物饲料：以淀粉或纤维素的水解液、制糖工业的废液为原料，发酵获得大量的微生物菌体，叫作单细胞蛋白。",
+		"seconds": 11.04
+	},
+	"ap5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：单细胞蛋白是微生物菌体本身，不是从微生物细胞中提取出来的蛋白质。",
+		"seconds": 7.992
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：发酵工程的中心环节是菌种选育？错，是发酵罐内发酵。判断二：优良菌种可以通过诱变育种获得？对。",
+		"seconds": 12.576
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：谷氨酸发酵在酸性条件下积累谷氨酸？错，是中性和弱碱性。判断四：产品是菌体时可用过滤、沉淀分离？对。",
+		"seconds": 13.92
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：单细胞蛋白是从微生物中提取的蛋白质？错，是菌体本身。判断六：苏云金杆菌可以制作微生物农药？对。",
+		"seconds": 12.744
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：发酵罐是中心，条件控制是关键。我们下期再见！",
+		"seconds": 7.464
+	}
+}

@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|杂化轨道与键角比较。",
+		"seconds": 2.544
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|杂化方式选择题、大题都考；键角比较并解释原因是大题的高频设问，共八个考点。",
+		"seconds": 8.304
+	},
+	"th1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，杂化轨道理论。原子成键时，中心原子能量相近的几个原子轨道混杂起来，重新组合成同样数目的新轨道，叫杂化轨道。",
+		"seconds": 12.528
+	},
+	"th1b": {
+		"key": "zh-CN-XiaoxiaoNeural|杂化就像炒饭：几样食材倒进锅里一翻炒，混成一样的一份份；能量相近的轨道“炒”在一起，变成能量相同的杂化轨道。",
+		"seconds": 11.232
+	},
+	"th2": {
+		"key": "zh-CN-XiaoxiaoNeural|杂化轨道数等于参与杂化的原子轨道数等于中心原子的价层电子对数。",
+		"seconds": 6.696
+	},
+	"th3": {
+		"key": "zh-CN-XiaoxiaoNeural|杂化轨道只用来形成西格玛键和容纳孤电子对；没参与杂化的 p 轨道可以形成派键。",
+		"seconds": 8.304
+	},
+	"th4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：杂化发生在形成分子时，孤立原子不杂化；杂化轨道不形成派键。",
+		"seconds": 7.416
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，三种杂化。s p 杂化：1个 s 和1个 p 杂化，得到2个杂化轨道，夹角180度，直线形，比如氯化铍、二氧化碳、乙炔。",
+		"seconds": 13.608
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|s p 2 杂化：1个 s 和2个 p，3个杂化轨道，夹角120度，平面三角形，比如三氟化硼、乙烯、苯。",
+		"seconds": 10.656
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|s p 3 杂化：1个 s 和3个 p，4个杂化轨道，夹角109度28分，四面体形，比如甲烷、氨、水。",
+		"seconds": 10.92
+	},
+	"ty4": {
+		"key": "zh-CN-XiaoxiaoNeural|s p 和 s p 2 杂化后，还剩下未参与杂化的 p 轨道，它们可以“肩并肩”形成派键：乙烯有1个派键，乙炔有2个。",
+		"seconds": 10.488
+	},
+	"ty5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氨和水也是 s p 3 杂化，只是有孤电子对占了杂化轨道，分子才是三角锥形和V形。",
+		"seconds": 9.36
+	},
+	"jd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，判断杂化方式。最快的方法：先算中心原子的价层电子对数。",
+		"seconds": 7.488
+	},
+	"jd2": {
+		"key": "zh-CN-XiaoxiaoNeural|价层电子对数是2，就是 s p；是3，就是 s p 2；是4，就是 s p 3。",
+		"seconds": 7.944
+	},
+	"jd3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如二氧化硫：价层电子对数3，s p 2；硫酸根：4对，s p 3；硝酸根：3对，s p 2；铵根：4对，s p 3。",
+		"seconds": 12.648
+	},
+	"jd4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：杂化轨道数等于西格玛键数加孤电子对数，和上期的价层电子对数是同一个数。",
+		"seconds": 9.072
+	},
+	"or1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，有机物中原子的杂化。碳看连了几个原子：连4个原子的饱和碳是 s p 3；双键碳、苯环碳连3个，是 s p 2；三键碳连2个，是 s p。",
+		"seconds": 14.856
+	},
+	"or2": {
+		"key": "zh-CN-XiaoxiaoNeural|羟基中的氧、氨基中的氮，各连2个、3个原子，还有孤电子对，都是 s p 3。",
+		"seconds": 7.776
+	},
+	"or3": {
+		"key": "zh-CN-XiaoxiaoNeural|和共面共线联系起来：s p 2 碳和它连的3个原子共平面；s p 碳和它连的2个原子共直线；s p 3 碳最多3个原子共面。",
+		"seconds": 11.64
+	},
+	"or4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：数一种有机物中 s p 2 和 s p 3 杂化的碳各有几个，或判断最多几个原子共面。",
+		"seconds": 8.64
+	},
+	"bp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，大派键。这是课本外的拓展，但大题常出现。苯中6个碳都是 s p 2 杂化，每个碳还剩一个垂直于平面的 p 轨道。",
+		"seconds": 12.456
+	},
+	"bp2": {
+		"key": "zh-CN-XiaoxiaoNeural|6个相互平行的 p 轨道“肩并肩”重叠，6个电子在整个环上运动，形成大派键，记作派六六。",
+		"seconds": 9
+	},
+	"bp3": {
+		"key": "zh-CN-XiaoxiaoNeural|符号中，下标 m 是参与的原子数，上标 n 是参与的电子数。碳酸根和硝酸根都是派四六。",
+		"seconds": 9.192
+	},
+	"bp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：课本里没有大派键，考试会用；n 是电子数不是电子对数，m、n 的位置别写反。",
+		"seconds": 8.856
+	},
+	"a11": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，键角比较（一）：中心原子杂化方式不同时，直接按杂化比。",
+		"seconds": 6.768
+	},
+	"a12": {
+		"key": "zh-CN-XiaoxiaoNeural|s p 大于 s p 2 大于 s p 3：180度大于120度大于109度28分。",
+		"seconds": 8.256
+	},
+	"a13": {
+		"key": "zh-CN-XiaoxiaoNeural|比如二氧化碳大于三氟化硼大于甲烷；三氧化硫大于硫酸根。",
+		"seconds": 6.504
+	},
+	"a14": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先分别判断两种分子中心原子的杂化方式，不同就直接下结论。",
+		"seconds": 7.632
+	},
+	"a21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，键角比较（二）：杂化相同时，先比孤电子对数。孤电子对对成键电子对的排斥更大，孤电子对越多，键角越小。",
+		"seconds": 12.48
+	},
+	"a22": {
+		"key": "zh-CN-XiaoxiaoNeural|所以甲烷大于氨大于水：109度28分、107度、105度。",
+		"seconds": 7.248
+	},
+	"a22b": {
+		"key": "zh-CN-XiaoxiaoNeural|孤电子对就像挤进被炉的猫：它一占地方，旁边的成键电子对就被挤得更近，键角就变小了。",
+		"seconds": 8.808
+	},
+	"a23": {
+		"key": "zh-CN-XiaoxiaoNeural|孤电子对数也相同，再看电负性：中心原子电负性越大，成键电子对越靠近中心，排斥越大，键角越大：氨大于磷化氢。",
+		"seconds": 12.192
+	},
+	"a24": {
+		"key": "zh-CN-XiaoxiaoNeural|中心原子相同、配位原子不同：配位原子电负性越大，成键电子对越偏离中心，键角越小：氨大于三氟化氮，水大于二氟化氧。",
+		"seconds": 12.696
+	},
+	"a25": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“中心原子电负性大，键角大”，“配位原子电负性大，键角小”，两条方向相反，别记混。",
+		"seconds": 9.336
+	},
+	"tm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，答题模板。题目：比较水和氨的键角大小，并解释原因。",
+		"seconds": 6.888
+	},
+	"tm2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步：水和氨的中心原子都是 s p 3 杂化。",
+		"seconds": 4.848
+	},
+	"tm3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步：O有2对孤电子对，N有1对孤电子对，孤电子对数不同。",
+		"seconds": 6.48
+	},
+	"tm4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步：孤电子对对成键电子对的排斥力大于成键电子对之间的排斥力。",
+		"seconds": 7.536
+	},
+	"tm5": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步：孤电子对越多，成键电子对被挤压得越厉害，键角越小，所以键角氨大于水。",
+		"seconds": 9.048
+	},
+	"tm6": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：杂化方式相同 → 孤电子对数不同 → 排斥力比较 → 结论，缺“排斥力”这句往往扣分。",
+		"seconds": 8.784
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：氨中氮是 s p 3 杂化？对。判断二：杂化轨道可以形成派键？错。",
+		"seconds": 9.456
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：乙烯中碳是 s p 2 杂化？对。判断四：键角水大于氨大于甲烷？错，正好反过来。",
+		"seconds": 10.896
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：键角氨大于磷化氢？对。判断六：键角三氟化氮大于氨？错，氨更大。",
+		"seconds": 9.576
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|电子对数定杂化，杂化不同比杂化，杂化相同比孤对、再比电负性。下一期：键的极性、分子的极性与手性。",
+		"seconds": 11.208
+	}
+}

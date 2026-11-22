@@ -1,0 +1,108 @@
+{
+	"id": "HXD-13",
+	"title": "沉淀溶解平衡",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第13期 / 共20期",
+	"points": [
+		"平衡的建立",
+		"溶度积 Ksp",
+		"Q 与 Ksp",
+		"Ksp 与溶解度",
+		"沉淀的生成",
+		"沉淀的溶解",
+		"沉淀的转化",
+		"溶解平衡曲线"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"沉淀溶解平衡",
+				true
+			]
+		],
+		"subtitle": "Ksp · 调 pH 除杂 · 沉淀转化 · 平衡曲线",
+		"photo": "cave.jpg",
+		"photoCaption": "溶洞中的钟乳石：碳酸钙的溶解与沉积",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"沉淀溶解平衡",
+					true
+				]
+			]
+		],
+		"photo": "cave.jpg",
+		"photoPos": "center",
+		"photoTag": "钟乳石",
+		"credit": "Killarnee, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "加入 NaCl 后，AgCl 的 K_sp 减小",
+				"ok": false,
+				"fix": "K_sp 只与温度有关"
+			},
+			{
+				"q": "K_sp 小的难溶物，溶解度一定小",
+				"ok": false,
+				"fix": "化学式类型相同才能直接比"
+			},
+			{
+				"q": "离子浓度小于 10^-5 mol/L 时认为沉淀完全",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Mg(OH)2 能溶于 NH4Cl 溶液",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "AgI 不能转化为 AgCl，任何条件下都不行",
+				"ok": false,
+				"fix": "Cl^- 浓度足够大时可以"
+			},
+			{
+				"q": "−lg c 图像中，直线右上方的点有沉淀析出",
+				"ok": false,
+				"fix": "右上方浓度更小，是不饱和溶液"
+			}
+		],
+		"endTitle": [
+			[
+				"沉淀溶解平衡",
+				true
+			]
+		],
+		"endLine": "Q 大析出 Q 小溶，类型相同才能比",
+		"slogan": "Q 大析出 Q 小溶，类型相同才能比"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Killarnee《Stalactite cave Mallorca 1》，CC BY-SA 4.0；插图来自 pixiv：サカバンコーン、負面具、Fuwafuwari（侵删）",
+	"anime": [
+		{
+			"key": "puddle",
+			"src": "puddle.jpg",
+			"credit": "插图：サカバンコーン《溶けた》pixiv #104031513",
+			"url": "https://www.pixiv.net/artworks/104031513"
+		},
+		{
+			"key": "blob",
+			"src": "blob.jpg",
+			"credit": "插图：負面具《お誕生日おめでとう》pixiv #108532708",
+			"url": "https://www.pixiv.net/artworks/108532708"
+		},
+		{
+			"key": "faces",
+			"src": "faces.jpg",
+			"credit": "插图：Fuwafuwari《BTR chibi emote》pixiv #107693279",
+			"url": "https://www.pixiv.net/artworks/107693279"
+		}
+	]
+}

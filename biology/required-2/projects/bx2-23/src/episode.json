@@ -1,0 +1,38 @@
+{
+	"id": "BX2-23",
+	"title": "种群基因组成的变化与物种的形成（下）：隔离与物种的形成",
+	"subject": "biology",
+	"book": "人教版·必修2·第6章",
+	"points": ["物种的概念", "地理隔离与生殖隔离", "物种形成的一般过程", "隔离的作用", "多倍体形成新物种", "进化与物种形成辨析"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["隔离与"], ["物种的形成", true]],
+		"subtitle": "种群基因组成的变化与物种的形成（下） · 生殖隔离",
+		"photo": "finches.jpg",
+		"photoCaption": "加拉帕戈斯群岛的地雀（古尔德绘）",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["隔离与"]], [["物种的形成", true]]],
+		"kicker": "地理隔离 · 生殖隔离",
+		"photo": "finches.jpg",
+		"photoPos": {"16x9": "center 40%", "4x3": "75% 50%", "3x4": "center 40%"},
+		"photoTag": "加拉帕戈斯地雀",
+		"credit": "John Gould (1845), Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "马和驴能交配产生骡，所以马和驴是同一物种", "ok": false, "fix": "骡不育，马和驴之间存在生殖隔离"},
+			{"q": "生殖隔离是新物种形成的标志", "ok": true, "fix": ""},
+			{"q": "新物种的形成一定要经过地理隔离", "ok": false, "fix": "多倍体可不经地理隔离形成新物种"},
+			{"q": "生物进化了就一定形成了新物种", "ok": false, "fix": "进化不一定形成新物种"},
+			{"q": "地理隔离阻止了种群间的基因交流", "ok": true, "fix": ""},
+			{"q": "二倍体西瓜和四倍体西瓜是同一物种", "ok": false, "fix": "杂交产生的三倍体不育，存在生殖隔离"}
+		],
+		"endTitle": [["隔离与"], ["物种的形成", true]],
+		"endLine": "物种 · 地理隔离 · 生殖隔离 · 地雀 · 多倍体",
+		"slogan": "生殖隔离是标志，进化不一定成新种！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— John Gould《Darwin's finches》Public domain"
+}

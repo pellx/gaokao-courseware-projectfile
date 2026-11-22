@@ -1,0 +1,37 @@
+{
+	"id": "XB3-03",
+	"title": "微生物的培养技术（下）：选择培养和计数",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第1章",
+	"points": ["选择培养基", "分离尿素分解菌", "稀释涂布平板法", "菌落计数", "计数结果偏小", "显微镜直接计数", "对照的设置", "酚红鉴定"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["选择培养"], ["和计数", true]],
+		"subtitle": "微生物的培养技术（下） · 选择培养基 · 涂布计数",
+		"photo": "colonies.jpg",
+		"photoCaption": "平板上分散生长的菌落",
+		"photoPos": "center 55%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["微生物的"]], [["选择培养", true]], [["和计数", true]]],
+		"photo": "colonies.jpg",
+		"photoPos": "center 55%",
+		"photoTag": "菌落计数",
+		"credit": "Photo: USDA Forest Service, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "选择培养基上长出的菌落都是目的菌", "ok": false, "fix": "还需进一步鉴定（如加酚红）"},
+			{"q": "分离尿素分解菌要以尿素为唯一氮源", "ok": true, "fix": ""},
+			{"q": "平板划线法也能用来计数", "ok": false, "fix": "计数用稀释涂布平板法"},
+			{"q": "应选菌落数在30～300的平板计数", "ok": true, "fix": ""},
+			{"q": "稀释涂布平板法的计数结果往往偏大", "ok": false, "fix": "细胞连在一起只形成一个菌落，偏小"},
+			{"q": "尿素分解菌使酚红指示剂变红", "ok": true, "fix": ""}
+		],
+		"endTitle": [["选择培养"], ["和计数", true]],
+		"endLine": "选择培养基 · 稀释涂布 · 菌落计数 · 对照 · 酚红鉴定",
+		"slogan": "唯一碳源氮源选菌，30～300个才计数！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— USDA Forest Service, Region 6, State & Private Forestry《Colonies of Bt on agar in petri dish》Public domain"
+}

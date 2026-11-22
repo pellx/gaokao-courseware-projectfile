@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|反应的方向与化学反应的调控。",
+		"seconds": 3.312
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题用德尔塔G判断能否自发，原理大题要回答为什么选这个温度和压强，共六个考点。",
+		"seconds": 8.664
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，自发过程：在一定条件下，不用外界帮助就能自动进行的过程，比如水往低处流、冰在室温下融化。",
+		"seconds": 10.752
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|熵S表示体系的混乱度，混乱度越大，熵越大。同一物质：气态的熵大于液态大于固态。",
+		"seconds": 9.384
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断熵变：气体分子数增加的反应，德尔塔S大于零。例：碳酸钙分解生成氧化钙和二氧化碳气体，熵增。",
+		"seconds": 11.184
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：放热反应有自发的倾向，熵增也有自发的倾向，但单独哪一个都不能决定反应是否自发。",
+		"seconds": 9.264
+	},
+	"dg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，判据：德尔塔G等于德尔塔H减T乘德尔塔S。德尔塔G小于零，反应能自发进行；大于零，不能自发进行。",
+		"seconds": 12.408
+	},
+	"dg2": {
+		"key": "zh-CN-XiaoxiaoNeural|四种组合：德尔塔H小于零、德尔塔S大于零，任何温度都自发；德尔塔H大于零、德尔塔S小于零，任何温度都不自发。",
+		"seconds": 12.144
+	},
+	"dg3": {
+		"key": "zh-CN-XiaoxiaoNeural|德尔塔H小于零、德尔塔S小于零：低温自发；德尔塔H大于零、德尔塔S大于零：高温自发。",
+		"seconds": 9.48
+	},
+	"dg3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩竖起食指：记口诀，两个都有利就总自发，两个都不利就总不自发，一好一坏看温度。",
+		"seconds": 9.192
+	},
+	"dg4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：题目说该反应在低温下能自发进行，德尔塔S又小于零，就能推出德尔塔H小于零。",
+		"seconds": 9.864
+	},
+	"ha1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，“自发”只说明反应有没有可能进行，不说明快慢。",
+		"seconds": 5.856
+	},
+	"ha2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：常温下氢气和氧气反应是自发的，但混合在一起几乎看不到反应，因为速率极慢，要点燃或加催化剂。",
+		"seconds": 10.416
+	},
+	"ha2b": {
+		"key": "zh-CN-XiaoxiaoNeural|红紫色头发的女孩抱着膝盖认真想：能不能和快不快是两回事，判据只管前一个。",
+		"seconds": 7.8
+	},
+	"ha3": {
+		"key": "zh-CN-XiaoxiaoNeural|另外，德尔塔G判据针对的是一定温度和压强下、没有外界做功的情况；电解可以让不自发的反应发生。",
+		"seconds": 9.408
+	},
+	"ha4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“自发反应一定能迅速发生”错；“非自发反应在任何条件下都不能发生”也错，通电、光照可以使它发生。",
+		"seconds": 10.728
+	},
+	"nh1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，合成氨：氮气加三个氢气可逆生成两个氨气，正反应放热。特点：可逆、放热、气体分子数减小。",
+		"seconds": 11.4
+	},
+	"nh2": {
+		"key": "zh-CN-XiaoxiaoNeural|从速率看：高温、高压、催化剂、增大浓度都有利。",
+		"seconds": 5.616
+	},
+	"nh3": {
+		"key": "zh-CN-XiaoxiaoNeural|从平衡看：低温、高压、及时分离出氨气有利于提高平衡产率。",
+		"seconds": 6.624
+	},
+	"nh4": {
+		"key": "zh-CN-XiaoxiaoNeural|矛盾点：温度——速率要高温，平衡要低温，必须折中。",
+		"seconds": 5.664
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，合成氨的实际条件：温度400到500摄氏度，压强10到30兆帕，铁触媒作催化剂。",
+		"seconds": 9.144
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么400到500摄氏度？这个温度下催化剂活性最高，速率也较快。",
+		"seconds": 6.888
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么不用更高的压强？压强越高，对设备和动力的要求越高，成本增加。",
+		"seconds": 7.584
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|还要：及时把氨气液化分离，氮气和氢气循环使用，提高原料利用率。",
+		"seconds": 6.936
+	},
+	"re5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：选400到500摄氏度不是为了提高平衡转化率，升温平衡逆移，转化率是降低的。",
+		"seconds": 8.616
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，工业条件选择的思路：既要考虑速率，又要考虑平衡，还要考虑设备、成本和催化剂。",
+		"seconds": 9.312
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见理由：“温度过低，速率太慢；温度过高，平衡逆移且催化剂活性下降。”",
+		"seconds": 7.944
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|“压强再增大，转化率提高不明显，但对设备要求更高、成本更大。”",
+		"seconds": 6.888
+	},
+	"ch3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑色双马尾女孩握拳加油：答条件选择题，速率、平衡、成本三方面都要说到。",
+		"seconds": 8.112
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：“该温度下催化剂活性最高，反应速率较快；虽然升温不利于平衡，但兼顾了速率和产率。”",
+		"seconds": 9.672
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：放热反应一定自发？错，要综合判断。判断二：焓变、熵变都大于零，高温自发？对。",
+		"seconds": 10.944
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：自发反应一定迅速发生？错，只说方向不说快慢。判断四：选四百到五百摄氏度是为了提高平衡转化率？错，是为了催化剂活性和速率。",
+		"seconds": 15.168
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：及时分离氨气能提高原料转化率？对。判断六：合成氨压强越高越好？错，还要考虑成本。",
+		"seconds": 11.256
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|焓减熵增总自发，条件选择三兼顾。下一期：弱电解质的电离平衡。",
+		"seconds": 7.368
+	}
+}

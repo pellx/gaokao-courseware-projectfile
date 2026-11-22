@@ -1,0 +1,38 @@
+{
+	"id": "BX1-12",
+	"title": "被动运输",
+	"subject": "biology",
+	"book": "人教版·必修1·第4章",
+	"points": ["渗透作用的条件", "渗透装置分析", "动物细胞吸水失水", "原生质层", "质壁分离及复原", "应用与自动复原", "自由扩散与协助扩散", "载体与通道蛋白"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["物质跨膜运输："], ["被动运输", true]],
+		"subtitle": "渗透作用 · 质壁分离 · 转运蛋白",
+		"photo": "pfeffer.jpg",
+		"photoCaption": "普费弗：1877年用渗透计研究渗透作用",
+		"photoPos": "center 35%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["物质跨膜运输"]], [["被动运输", true]]],
+		"kicker": "渗透 · 质壁分离",
+		"photo": "pfeffer.jpg",
+		"photoPos": {"16x9": "center 35%", "4x3": "center 35%", "3x4": "center 18%"},
+		"photoTag": "普费弗",
+		"credit": "Wilhelm Hornung, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "渗透平衡时漏斗内外溶液浓度相等", "ok": false, "fix": "漏斗内浓度仍高于烧杯"},
+			{"q": "原生质层包括细胞膜、液泡膜和细胞核", "ok": false, "fix": "是两层膜及两层膜之间的细胞质"},
+			{"q": "质壁分离过程中细胞液浓度逐渐增大", "ok": true, "fix": ""},
+			{"q": "动物细胞放入高浓度溶液会质壁分离", "ok": false, "fix": "没有细胞壁，只会失水皱缩"},
+			{"q": "葡萄糖进入红细胞属于自由扩散", "ok": false, "fix": "属于协助扩散"},
+			{"q": "分子通过通道蛋白时需要与之结合", "ok": false, "fix": "不需要与通道蛋白结合"}
+		],
+		"endTitle": [["物质跨膜运输："], ["被动运输", true]],
+		"endLine": "渗透 · 吸水失水 · 质壁分离 · 自由扩散 · 协助扩散",
+		"slogan": "水往浓处流，顺浓度梯度不耗能！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Wilhelm Hornung《Wilhelm Pfeffer (vor 1884)》Public domain"
+}

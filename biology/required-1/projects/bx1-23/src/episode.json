@@ -1,0 +1,38 @@
+{
+	"id": "BX1-23",
+	"title": "细胞的增殖（下）",
+	"subject": "biology",
+	"book": "人教版·必修1·第6章",
+	"points": ["动植物有丝分裂区别", "有丝分裂的意义", "无丝分裂", "观察根尖实验步骤", "实验结果分析", "柱形图和曲线图"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["动植物细胞分裂与"], ["观察实验", true]],
+		"subtitle": "细胞的增殖（下） · 无丝分裂 · 图像识别",
+		"photo": "flemming2.jpg",
+		"photoCaption": "弗莱明1882年绘制的细胞核分裂图",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["动植物细胞"]], [["分裂与"], ["观察实验", true]]],
+		"kicker": "区别 · 实验 · 图像",
+		"photo": "flemming2.jpg",
+		"photoPos": "center center",
+		"photoTag": "弗莱明手绘",
+		"credit": "Walther Flemming / Wellcome Collection, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "动植物细胞有丝分裂的区别在中期和后期", "ok": false, "fix": "区别在前期和末期"},
+			{"q": "低等植物细胞由中心体发出星射线", "ok": true, "fix": ""},
+			{"q": "蛙的红细胞进行无丝分裂，没有DNA复制", "ok": false, "fix": "无丝分裂也有DNA复制"},
+			{"q": "实验步骤是解离、染色、漂洗、制片", "ok": false, "fix": "应先漂洗再染色"},
+			{"q": "可以看到一个细胞连续分裂的全过程", "ok": false, "fix": "解离后细胞已死亡"},
+			{"q": "视野中处于分裂间期的细胞数目最多", "ok": true, "fix": ""}
+		],
+		"endTitle": [["动植物细胞分裂与"], ["观察实验", true]],
+		"endLine": "动植物区别 · 意义 · 无丝分裂 · 观察实验 · 图像",
+		"slogan": "解离、漂洗、染色、制片，一步都不能乱！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Walther Flemming / Wellcome Collection《Zellsubstanz, Kern und Zelltheilung》CC BY 4.0（已裁切）"
+}

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Phys: React.FC = () => <AutoScene k="phys" d={{"tag": "考点一", "title": "钠的物理性质、保存与取用", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "外观", "at": "ph1", "text": "银白色、{质软}", "c": "red", "size": 32}]}, {"blocks": [{"t": "rule", "tag": "密度", "at": "ph1", "text": "煤油 < {钠} < 水", "c": "orange", "size": 32}]}, {"blocks": [{"t": "rule", "tag": "熔点", "at": "ph1", "text": "低（< 100 ℃）", "c": "green", "size": 32}]}]}, {"t": "big", "at": "ph2", "text": "保存：{煤油中}（沉底，隔绝空气和水）", "size": 40}, {"t": "chain", "steps": [{"at": "ph3", "text": "镊子夹出"}, {"at": "ph3", "text": "滤纸吸干煤油", "c": "orange"}, {"at": "ph3", "text": "小刀切一小块"}, {"at": "ph3", "text": "剩余放回原瓶", "c": "red"}], "arrows": [], "center": true, "size": 30}], "callout": {"label": "易错", "at": "ph4", "text": "剩余的钠{放回原瓶}；钠着火用{沙土}盖灭，不能用水"}}} />;

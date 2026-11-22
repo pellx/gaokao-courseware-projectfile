@@ -1,0 +1,117 @@
+{
+	"id": "HXA-10",
+	"title": "分子的空间结构（上）：价层电子对互斥模型",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第10期 / 共21期",
+	"points": [
+		"常见分子的空间结构",
+		"价层电子对数",
+		"VSEPR 模型与空间结构",
+		"类型对照表",
+		"判断分子形状",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"价层电子对"
+			],
+			[
+				"互斥模型",
+				true
+			]
+		],
+		"subtitle": "价层电子对数 · VSEPR 模型 · 分子空间结构",
+		"photo": "methane.png",
+		"photoCaption": "甲烷分子的球棍模型：正四面体",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"价层电子对"
+				]
+			],
+			[
+				[
+					"互斥模型",
+					true
+				]
+			]
+		],
+		"photo": "methane.png",
+		"photoPos": "center",
+		"photoTag": "甲烷",
+		"credit": "Ben Mills, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "H2O 的 VSEPR 模型为 V 形",
+				"ok": false,
+				"fix": "四面体形；分子空间结构才是 V 形"
+			},
+			{
+				"q": "NH4^+ 与 CH4 的空间结构都是正四面体形",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "SO2 分子中 S 原子有 1 对孤电子对",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "CO3^2- 的空间结构为三角锥形",
+				"ok": false,
+				"fix": "平面三角形"
+			},
+			{
+				"q": "P4 与 CH4 键角相同",
+				"ok": false,
+				"fix": "P4 为 60°"
+			},
+			{
+				"q": "HCHO 分子中 C 的价层电子对数为 4",
+				"ok": false,
+				"fix": "为 3，双键只算一对"
+			}
+		],
+		"endTitle": [
+			[
+				"价层电子对"
+			],
+			[
+				"互斥模型",
+				true
+			]
+		],
+		"endLine": "常见构型 · 电子对数 · 模型与结构 · 对照表 · 判断要点",
+		"slogan": "先算对数定模型，去掉孤对是形状！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Ben Mills《Methane-CRC-MW-3D-balls》Public domain；插图来自 pixiv：Yukun、べとねこ、もってぃ（侵删）",
+	"anime": [
+		{
+			"key": "ghost",
+			"src": "ghost.jpg",
+			"credit": "插图：Yukun《妖怪ぼっち》pixiv #105676176",
+			"url": "https://www.pixiv.net/artworks/105676176"
+		},
+		{
+			"key": "sulk",
+			"src": "sulk.jpg",
+			"credit": "插图：べとねこ《姉妹喧嘩》pixiv #103520299",
+			"url": "https://www.pixiv.net/artworks/103520299"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：もってぃ《喜多ちゃんハッピーバースデー》pixiv #107383381",
+			"url": "https://www.pixiv.net/artworks/107383381"
+		}
+	]
+}

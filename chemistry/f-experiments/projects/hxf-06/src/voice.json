@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|定量实验：滴定与纯度计算。",
+		"seconds": 3.216
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题和实验题的最后一问常是计算纯度或含量，共七个考点。",
+		"seconds": 6.168
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，配制一定物质的量浓度的溶液：计算 → 称量 → 溶解（冷却）→ 转移 → 洗涤 → 定容 → 摇匀。",
+		"seconds": 8.832
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：溶解后要冷却至室温再转移；用玻璃棒引流；洗涤烧杯和玻璃棒二到三次，洗涤液也转入容量瓶。",
+		"seconds": 10.584
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|定容：加水到刻度线下一到二厘米时改用胶头滴管，平视，凹液面最低处与刻度线相切。",
+		"seconds": 9.216
+	},
+	"pr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑长发女孩抱着贝斯：定容时平视。俯视看，加的水少了，浓度偏高；仰视看，加多了，浓度偏低。",
+		"seconds": 10.488
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：定容时俯视，浓度偏高；没洗涤烧杯，浓度偏低；摇匀后液面下降再加水，浓度偏低。",
+		"seconds": 9.768
+	},
+	"km1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，高锰酸钾滴定：酸性高锰酸钾作氧化剂，测定亚铁离子、草酸、过氧化氢等还原性物质的含量。",
+		"seconds": 10.536
+	},
+	"km2": {
+		"key": "zh-CN-XiaoxiaoNeural|不需要另加指示剂：高锰酸钾本身是紫红色，被还原成几乎无色的锰离子；终点时溶液变成浅红色。",
+		"seconds": 9.744
+	},
+	"km3": {
+		"key": "zh-CN-XiaoxiaoNeural|关系：一个高锰酸根对应五个亚铁离子；两个高锰酸根对应五个草酸。高锰酸钾装在酸式滴定管中。",
+		"seconds": 10.296
+	},
+	"km4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酸化高锰酸钾用稀硫酸，不能用盐酸，氯离子会被氧化，也不能用硝酸。",
+		"seconds": 8.04
+	},
+	"io1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，碘量法：用硫代硫酸钠标准溶液滴定碘：碘加两个硫代硫酸根，生成两个碘离子和连四硫酸根。",
+		"seconds": 10.2
+	},
+	"io2": {
+		"key": "zh-CN-XiaoxiaoNeural|指示剂：淀粉。终点：溶液由蓝色变为无色，且半分钟内不恢复。",
+		"seconds": 7.464
+	},
+	"io3": {
+		"key": "zh-CN-XiaoxiaoNeural|常用于测定氧化性物质：先让它与过量碘化钾反应生成碘，再用硫代硫酸钠滴定碘。比如铜离子、次氯酸根、过氧化氢。",
+		"seconds": 11.976
+	},
+	"io3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩抱着吉他站在玫瑰色背景前：碘量法是两步：先把待测物换成碘，再滴定碘。",
+		"seconds": 8.64
+	},
+	"io4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：关系是一个碘对应两个硫代硫酸根；淀粉一般在接近终点时加入。",
+		"seconds": 7.176
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，关系式法：多步反应中，找出已知量和待求量之间的直接比例，跳过中间物质。",
+		"seconds": 8.352
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：测漂白粉中的次氯酸根：一个次氯酸根对应一个碘，对应两个硫代硫酸根，所以次氯酸根对应两个硫代硫酸根。",
+		"seconds": 10.968
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|找关系的方法：用得失电子守恒最快：次氯酸根变成氯离子得两个电子，硫代硫酸根变成连四硫酸根每个失一个电子。",
+		"seconds": 11.04
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：写出每一步的比例，首尾相连得到关系式；也可以直接用电子守恒。",
+		"seconds": 7.824
+	},
+	"pu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，纯度计算：纯度等于纯物质的质量 ÷ 样品质量乘100%。",
+		"seconds": 7.152
+	},
+	"pu2": {
+		"key": "zh-CN-XiaoxiaoNeural|注意取样比例：配成250毫升溶液，取25毫升滴定，算出的量要乘以10。",
+		"seconds": 7.848
+	},
+	"pu3": {
+		"key": "zh-CN-XiaoxiaoNeural|单位统一：滴定体积是毫升，换算成升要乘10的负3次方；浓度乘体积得到物质的量。",
+		"seconds": 8.52
+	},
+	"pu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：忘了乘取样倍数，是计算题最常见的失分点；表达式要写成带字母的式子时，把250除以25也写进去。",
+		"seconds": 10.92
+	},
+	"er1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，误差分析：算式中标准液的浓度和待测样品量已知，误差都归结到消耗标准液的体积。",
+		"seconds": 9.528
+	},
+	"er2": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定管未用标准液润洗：标准液被稀释，消耗体积偏大，结果偏高。尖嘴气泡滴定前有、滴定后无：读数偏大，偏高。",
+		"seconds": 12.24
+	},
+	"er3": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定后俯视读数：读数偏小，结果偏低。待测液被空气氧化，比如亚铁离子：消耗高锰酸钾偏少，结果偏低。",
+		"seconds": 11.328
+	},
+	"er3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩拎着薄荷绿的袋子，表情有点慌：误差题只问一件事：标准液用多了还是用少了。",
+		"seconds": 8.904
+	},
+	"er4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：每个操作都翻译成标准液体积偏大还是偏小，再判断结果。",
+		"seconds": 7.152
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，滴定终点的规范描述，三个要素一个都不能少：最后半滴、颜色变化、半分钟内不恢复。",
+		"seconds": 9.648
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|高锰酸钾滴定：滴入最后半滴高锰酸钾溶液，溶液由无色变为浅红色，且半分钟内不褪色。",
+		"seconds": 9.144
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|碘量法：滴入最后半滴硫代硫酸钠溶液，溶液由蓝色变为无色，且半分钟内不恢复蓝色。",
+		"seconds": 8.736
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：滴入最后半滴某标准液，溶液由某色变为某色，且半分钟内不恢复。",
+		"seconds": 8.088
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：定容俯视，浓度偏低？错，偏高。判断二：高锰酸钾滴定不用另加指示剂？对。",
+		"seconds": 10.512
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：用盐酸酸化高锰酸钾？错，用稀硫酸。判断四：碘和硫代硫酸根按一比二反应？对。",
+		"seconds": 10.944
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：取十分之一滴定，算纯度不乘十？错。判断六：滴定管没润洗结果偏低？错，偏高。",
+		"seconds": 10.752
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|关系式首尾相连，取样倍数别忘乘。下一期：操作、现象、结论判断。",
+		"seconds": 7.824
+	}
+}

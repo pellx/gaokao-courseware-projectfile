@@ -1,0 +1,38 @@
+{
+	"id": "BX1-19",
+	"title": "光合作用与能量转化（一）",
+	"subject": "biology",
+	"book": "人教版·必修1·第5章",
+	"points": ["提取和分离的原理", "实验步骤与试剂", "四条色素带", "异常结果分析", "色素的吸收光谱", "叶绿体的结构", "恩格尔曼实验"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["捕获光能的"], ["色素和结构", true]],
+		"subtitle": "光合作用与能量转化（一） · 色素的提取和分离",
+		"photo": "tlc.jpg",
+		"photoCaption": "绿叶色素的层析结果：分成几条色素带",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["捕获光能的"]], [["色素和结构", true]]],
+		"kicker": "提取分离 · 吸收光谱",
+		"photo": "tlc.jpg",
+		"photoPos": "center center",
+		"photoTag": "色素带",
+		"credit": "Photo: RIT RAJARSHI, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "提取色素用层析液，分离色素用无水乙醇", "ok": false, "fix": "提取用无水乙醇，分离用层析液"},
+			{"q": "加入CaCO3是为了研磨充分", "ok": false, "fix": "CaCO3防止色素被破坏，SiO2助研磨"},
+			{"q": "滤纸条上最宽的色素带是叶绿素a", "ok": true, "fix": ""},
+			{"q": "类胡萝卜素主要吸收红光和蓝紫光", "ok": false, "fix": "类胡萝卜素主要吸收蓝紫光"},
+			{"q": "光合色素分布在叶绿体基质中", "ok": false, "fix": "分布在类囊体的薄膜上"},
+			{"q": "恩格尔曼实验证明氧气由叶绿体释放", "ok": true, "fix": ""}
+		],
+		"endTitle": [["捕获光能的"], ["色素和结构", true]],
+		"endLine": "提取分离 · 色素带 · 吸收光谱 · 叶绿体 · 恩格尔曼",
+		"slogan": "从上到下：胡、黄、a、b！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— RIT RAJARSHI《Thin-Layer-Chromatography-of-Fresh-Leaf》CC BY 4.0（已裁切）"
+}

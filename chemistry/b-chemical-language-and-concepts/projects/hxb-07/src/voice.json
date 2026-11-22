@@ -1,0 +1,146 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|物质的量、摩尔质量与气体摩尔体积。",
+		"seconds": 3.936
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷很少单独出阿伏加德罗常数题，但大题的纯度、产率、滴定计算全靠它，共六个考点。",
+		"seconds": 9.048
+	},
+	"mo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，物质的量。它是一个物理量，单位是摩尔，符号 m o l。",
+		"seconds": 6.624
+	},
+	"mo2": {
+		"key": "zh-CN-XiaoxiaoNeural|1摩尔粒子的个数叫阿伏加德罗常数，约为6.02乘10的23次方每摩尔。物质的量等于粒子数除以阿伏加德罗常数。",
+		"seconds": 11.784
+	},
+	"mo2b": {
+		"key": "zh-CN-XiaoxiaoNeural|一盒印着女孩头像的饼干：数不过来的东西，就按“盒”来数。摩尔就是把6.02乘10的23次方个粒子打成一包。",
+		"seconds": 10.704
+	},
+	"mo3": {
+		"key": "zh-CN-XiaoxiaoNeural|摩尔只用于微观粒子：分子、原子、离子、电子；不能说“1摩尔大米”。",
+		"seconds": 7.296
+	},
+	"mo4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：使用时要指明粒子种类：“1摩尔氢”说法不明确，应写1摩尔氢原子或1摩尔氢分子。",
+		"seconds": 9.024
+	},
+	"ma1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，摩尔质量：单位物质的量的物质所具有的质量，符号M，单位克每摩尔。",
+		"seconds": 7.68
+	},
+	"ma2": {
+		"key": "zh-CN-XiaoxiaoNeural|以克每摩尔为单位时，数值等于相对原子质量或相对分子质量：水的摩尔质量是18克每摩尔，钠离子是23克每摩尔。",
+		"seconds": 11.64
+	},
+	"ma3": {
+		"key": "zh-CN-XiaoxiaoNeural|物质的量等于质量除以摩尔质量。例：9克水的物质的量是9除以18，等于0.5摩尔。",
+		"seconds": 8.712
+	},
+	"ma4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：摩尔质量、相对分子质量、1摩尔物质的质量，单位各不相同：克每摩尔、一、克。",
+		"seconds": 9.024
+	},
+	"vm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，气体摩尔体积：单位物质的量的气体所占的体积，物质的量等于体积除以气体摩尔体积。",
+		"seconds": 9.312
+	},
+	"vm2": {
+		"key": "zh-CN-XiaoxiaoNeural|标准状况，零摄氏度、101千帕下，气体摩尔体积约为22.4升每摩尔。",
+		"seconds": 7.992
+	},
+	"vm3": {
+		"key": "zh-CN-XiaoxiaoNeural|两个前提缺一不可：标准状况，气体。常温常压下1摩尔气体的体积大于22.4升。",
+		"seconds": 8.928
+	},
+	"vm4": {
+		"key": "zh-CN-XiaoxiaoNeural|标况下不是气体的常见陷阱：水、三氧化硫、四氯化碳、氟化氢、乙醇、苯。",
+		"seconds": 8.184
+	},
+	"vm5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：22.4升每摩尔对混合气体也适用，只要是标况下的气体，不管是不是纯净物。",
+		"seconds": 8.592
+	},
+	"av1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，阿伏加德罗定律：同温同压下，相同体积的任何气体含有相同数目的分子。",
+		"seconds": 8.232
+	},
+	"av1b": {
+		"key": "zh-CN-XiaoxiaoNeural|熊猫装女孩手里的两个气球一样大：不管里面装的是什么气体，分子数一样多。",
+		"seconds": 7.152
+	},
+	"av2": {
+		"key": "zh-CN-XiaoxiaoNeural|推论一：同温同压下，体积比等于物质的量之比。",
+		"seconds": 5.04
+	},
+	"av3": {
+		"key": "zh-CN-XiaoxiaoNeural|推论二：同温同压下，密度比等于摩尔质量之比；比空气重还是轻，就比摩尔质量和29。",
+		"seconds": 8.976
+	},
+	"av4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：定律只对气体成立；分子数相同，原子数不一定相同，比如氧气和臭氧。",
+		"seconds": 8.064
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，微粒数的计算：先求物质的量，再乘每个粒子含几个。",
+		"seconds": 6.12
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|1摩尔水含3摩尔原子、10摩尔质子、10摩尔电子。",
+		"seconds": 5.304
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|过氧化钠由钠离子和过氧根离子构成，1摩尔过氧化钠含2摩尔钠离子、只有1摩尔阴离子。",
+		"seconds": 8.832
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|混合物按最简式算：32克氧气和臭氧的混合气体，就是32克氧原子，含2摩尔氧原子。",
+		"seconds": 9.192
+	},
+	"ct4b": {
+		"key": "zh-CN-XiaoxiaoNeural|满屏同一个粉发女孩的头：不管怎么两个一组、三个一组地分，数的都是同一种“头”，所以按最简式算。",
+		"seconds": 9.624
+	},
+	"ct5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：遇到“混合物”先找共同的最简式：二氧化氮与四氧化二氮都按二氧化氮算，46克含3摩尔原子。",
+		"seconds": 10.776
+	},
+	"ne1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，以物质的量为中心的换算。质量、粒子数、气体体积、溶液浓度，都先换成 n。",
+		"seconds": 8.952
+	},
+	"ne2": {
+		"key": "zh-CN-XiaoxiaoNeural|质量除以摩尔质量得物质的量；粒子数除以阿伏加德罗常数得物质的量；标况下气体体积除以22.4得物质的量；溶液浓度乘体积得物质的量。",
+		"seconds": 13.104
+	},
+	"ne3": {
+		"key": "zh-CN-XiaoxiaoNeural|化学方程式的系数比就是物质的量之比，所以化学计算都在“n”这一层进行。",
+		"seconds": 7.032
+	},
+	"ne4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：已知量先换成 n，按系数比算出目标物质的 n，最后再换成题目要的量。",
+		"seconds": 8.232
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：1摩尔任何物质都含有阿伏加德罗常数个分子？错，有的由原子或离子构成。判断二：硫酸的摩尔质量是98克？错，单位是克每摩尔。",
+		"seconds": 15.336
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：标况下22.4升水是1摩尔？错，标况下水不是气体。判断四：同温同压下，同体积的氧气和氮气分子数相同？对。",
+		"seconds": 14.28
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：1摩尔过氧化钠含2摩尔阴离子？错，只有1摩尔。判断六：32克氧气与臭氧的混合气体含2摩尔氧原子？对。",
+		"seconds": 12.984
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|一切换成n，标况气体才用22.4。下一期：物质的量浓度与溶液配制。",
+		"seconds": 8.136
+	}
+}

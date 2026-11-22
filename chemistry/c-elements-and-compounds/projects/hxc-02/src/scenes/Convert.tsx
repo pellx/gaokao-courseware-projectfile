@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Convert: React.FC = () => <AutoScene k="convert" d={{"tag": "考点四", "title": "相互转化与除杂", "blocks": [{"t": "chain", "steps": [{"at": "cv1", "text": "Na2CO3", "c": "red"}, {"at": "cv2", "text": "NaHCO3", "c": "orange"}], "arrows": ["CO2 + H2O"], "center": true, "size": 44}, {"t": "text", "at": "cv2", "text": "反向：固体{加热}，或溶液中加{适量 NaOH}", "size": 32, "center": true}, {"t": "table", "at": "cv3", "head": ["物质（杂质）", "除杂方法"], "cols": "1.6fr 2fr", "rows": [{"at": "cv3", "cells": ["Na2CO3 固体（NaHCO3）", "{加热}"]}, {"at": "cv3", "cells": ["NaHCO3 溶液（Na2CO3）", "通入{足量 CO2}"]}, {"at": "cv4", "cells": ["CO2（HCl）", "{饱和 NaHCO3 溶液}"]}], "size": 31, "rowHeight": 62}], "callout": {"label": "易错", "at": "cv4", "text": "CO2 中的 HCl 用{饱和 NaHCO3 溶液}除，不用 Na2CO3"}}} />;

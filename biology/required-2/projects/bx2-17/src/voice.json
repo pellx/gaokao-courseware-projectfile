@@ -1,0 +1,126 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第五章第二节的上半部分——染色体数目的变异。",
+		"seconds": 8.232
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考染色体组数的判断、单倍体和多倍体、秋水仙素的作用和低温诱导实验。",
+		"seconds": 8.16
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，染色体变异包括染色体数目的变异和染色体结构的变异。",
+		"seconds": 6.576
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|数目变异又分两类：个别染色体的增加或减少，比如 21 三体综合征；以及以染色体组的形式成倍增加或减少，比如三倍体无子西瓜。",
+		"seconds": 12.96
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：染色体变异在光学显微镜下可以观察到，而基因突变看不到——这是区分它们的常用依据。",
+		"seconds": 9.072
+	},
+	"ge1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，染色体组：细胞中的一组非同源染色体，它们在形态和功能上各不相同，但携带着控制生物生长发育的全部遗传信息。",
+		"seconds": 12.072
+	},
+	"ge2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断方法一：看图——形态、大小相同的染色体有几条，就有几个染色体组。",
+		"seconds": 7.368
+	},
+	"ge3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断方法二：看基因型——控制同一性状的基因出现几次，就有几个染色体组。比如大A大A小a大B大B小b，有3个。",
+		"seconds": 12.048
+	},
+	"ge4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：一个染色体组中没有同源染色体；但含有同源染色体的细胞，不一定只有两个染色体组。",
+		"seconds": 8.928
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，由受精卵发育而来的个体，体细胞中含两个染色体组的叫二倍体，比如人和果蝇。",
+		"seconds": 9.264
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|体细胞中含三个或三个以上染色体组的叫多倍体，比如三倍体香蕉、四倍体马铃薯、六倍体普通小麦。",
+		"seconds": 10.272
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|多倍体的特点：茎秆粗壮，叶片、果实和种子都比较大，糖类和蛋白质等营养物质的含量增加。",
+		"seconds": 9.048
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：多倍体也有缺点，比如发育延迟、结实率低；三倍体减数分裂时联会紊乱，一般不能形成可育配子。",
+		"seconds": 10.512
+	},
+	"ha1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，单倍体：体细胞中的染色体数目与本物种配子染色体数目相同的个体，也就是由配子直接发育而来。",
+		"seconds": 10.44
+	},
+	"ha2": {
+		"key": "zh-CN-XiaoxiaoNeural|单倍体不一定只含一个染色体组。六倍体小麦的配子有三个染色体组，由它发育成的单倍体也有三个。",
+		"seconds": 10.008
+	},
+	"ha3": {
+		"key": "zh-CN-XiaoxiaoNeural|单倍体的特点：植株长得弱小，而且高度不育。",
+		"seconds": 4.704
+	},
+	"ha4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断几倍体，先看来源——由配子发育来的，不管有几个染色体组，都是单倍体；由受精卵发育来的，再数染色体组。",
+		"seconds": 12.12
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，人工诱导多倍体。最常用、最有效的方法是用秋水仙素处理萌发的种子或幼苗。",
+		"seconds": 9.072
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|原理：秋水仙素能抑制纺锤体的形成，染色体不能移向细胞两极，细胞中染色体数目加倍。",
+		"seconds": 9.192
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|低温处理也能抑制纺锤体形成，诱导染色体数目加倍。",
+		"seconds": 5.52
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：秋水仙素作用于分裂前期，不影响着丝粒分裂；处理对象要选分裂旺盛的部位，比如萌发的种子、幼苗的芽尖。",
+		"seconds": 11.4
+	},
+	"lt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，低温诱导实验。蒜或洋葱长出约1厘米的不定根后，放入冰箱冷藏室，在4摄氏度下诱导培养48到72小时。",
+		"seconds": 12.12
+	},
+	"lt2": {
+		"key": "zh-CN-XiaoxiaoNeural|剪取根尖 0.5到1 厘米，放入卡诺氏液中浸泡，固定细胞形态，然后用体积分数 95% 的酒精冲洗两次。",
+		"seconds": 10.632
+	},
+	"lt3": {
+		"key": "zh-CN-XiaoxiaoNeural|制片：解离、漂洗、染色、制片，和观察有丝分裂的步骤一样，用甲紫溶液等碱性染料染色。",
+		"seconds": 9.528
+	},
+	"lt4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：视野中只有少数细胞染色体数目加倍，大多数细胞处于分裂间期；看不到加倍的动态过程，因为细胞已经死亡。",
+		"seconds": 11.136
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？对。判断二？错，由配子发育来的是单倍体。",
+		"seconds": 6.888
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，单倍体不一定只含一个染色体组。判断四？对。",
+		"seconds": 7.608
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，卡诺氏液用于固定。判断六？错，只有少数细胞加倍。",
+		"seconds": 8.112
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：先看来源，再数染色体组。我们下期再见！",
+		"seconds": 6.912
+	}
+}

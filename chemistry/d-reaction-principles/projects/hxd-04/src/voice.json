@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|活化能、反应历程与催化机理。",
+		"seconds": 3.624
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷选择题常给能垒图或催化循环图，问决速步、催化剂和断键成键，共七个考点。",
+		"seconds": 9.12
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，基元反应：能一步完成的反应。大多数反应要经过多个基元反应才能完成，这一系列步骤叫反应历程，也叫反应机理。",
+		"seconds": 12.096
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|碰撞理论：分子要发生反应必须碰撞，但不是每次碰撞都能反应。能发生反应的碰撞叫有效碰撞。",
+		"seconds": 9.864
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|有效碰撞要满足两个条件：分子有足够的能量，也就是活化分子；碰撞时取向合适。",
+		"seconds": 8.544
+	},
+	"co3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩背对着我们，头上鼓起一个大包：撞是撞上了，但能量不够或方向不对，只撞出个包，没发生反应。",
+		"seconds": 9.984
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：活化分子之间的碰撞不一定是有效碰撞，还要看取向。",
+		"seconds": 5.976
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，用活化分子解释速率。活化分子具有的平均能量与反应物分子平均能量的差，叫活化能。活化能越小，反应越快。",
+		"seconds": 12.312
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|增大浓度或压缩体积：单位体积内活化分子数增多，但活化分子百分数不变。",
+		"seconds": 7.824
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|升高温度：部分普通分子获得能量变成活化分子，活化分子百分数增大。",
+		"seconds": 7.488
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|加催化剂：降低活化能，更多分子成为活化分子，活化分子百分数增大。",
+		"seconds": 7.464
+	},
+	"ex5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：增大浓度和压强，活化分子百分数不变；只有温度和催化剂能改变活化分子百分数。",
+		"seconds": 9.192
+	},
+	"ba1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，能垒图。多步反应的能量图有好几个“驼峰”，每一个驼峰对应一个基元反应。",
+		"seconds": 8.376
+	},
+	"ba2": {
+		"key": "zh-CN-XiaoxiaoNeural|每一步的活化能（能垒）等于这一步的峰顶减这一步的起点，不是峰顶减最初的反应物。",
+		"seconds": 7.728
+	},
+	"ba3": {
+		"key": "zh-CN-XiaoxiaoNeural|活化能最大的那一步反应最慢，它决定总反应的速率，叫决速步。",
+		"seconds": 6.216
+	},
+	"ba3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩坐在架子鼓后面：整个乐队跟着鼓点走，最慢的那一步定下了总反应的节奏。",
+		"seconds": 8.088
+	},
+	"ba4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：在图上逐个量峰顶减起点，比较能垒；还要看清楚总反应的德尔塔H是终点减起点。",
+		"seconds": 9.288
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，催化剂和中间体怎么区分？催化剂：先消耗、后生成，反应前后质量和化学性质不变。",
+		"seconds": 10.296
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|中间体：先生成、后消耗，在总反应里不出现。",
+		"seconds": 5.016
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：过氧化氢分解，加入碘离子：第一步过氧化氢加碘离子生成水和次碘酸根，第二步过氧化氢加次碘酸根生成水、氧气和碘离子。碘离子是催化剂，次碘酸根是中间体。",
+		"seconds": 16.992
+	},
+	"ca3b": {
+		"key": "zh-CN-XiaoxiaoNeural|猫耳金发女孩歪着头想：一开始就在、最后还回来的是催化剂；半路冒出来又消失的是中间体。",
+		"seconds": 8.928
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：催化剂参与了反应，只是前后不变，不能说“催化剂不参加反应”。",
+		"seconds": 6.888
+	},
+	"cy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，催化循环图，课本没有，考试会用：一个圈，圈上是催化剂的各种形态，箭头进入圈的是反应物，离开圈的是生成物。",
+		"seconds": 12.144
+	},
+	"cy2": {
+		"key": "zh-CN-XiaoxiaoNeural|写总反应：把所有进入的物质写左边，所有离开的写右边，圈上的物质全部消掉。",
+		"seconds": 7.704
+	},
+	"cy3": {
+		"key": "zh-CN-XiaoxiaoNeural|起点那个物质转一圈又回来，就是催化剂；圈上其他物质都是中间体。",
+		"seconds": 7.008
+	},
+	"cy4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：沿箭头走一圈，标出每一步进出的物质，再配平总反应；注意有没有多个循环共用一个中间体。",
+		"seconds": 9.768
+	},
+	"bo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，机理图中的断键与成键。看每一步前后结构的变化：哪根键断了，哪根键新形成。",
+		"seconds": 8.88
+	},
+	"bo2": {
+		"key": "zh-CN-XiaoxiaoNeural|常考问法：过程中有极性键和非极性键的断裂和形成。氢氢、氧氧、碳碳键是非极性键，碳氢、氧氢、碳氧键是极性键。",
+		"seconds": 12.96
+	},
+	"bo3": {
+		"key": "zh-CN-XiaoxiaoNeural|还会问化合价有没有变化：比如催化剂中金属的化合价先升后降，说明发生了氧化还原。",
+		"seconds": 8.664
+	},
+	"bo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：对比每一步前后的分子式和结构，逐步写出断了什么、连上什么，不要凭感觉整体判断。",
+		"seconds": 9.048
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，催化剂易错辨析。催化剂改变反应历程，降低活化能，同等程度加快正、逆反应速率。",
+		"seconds": 10.176
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|催化剂不改变德尔塔H，不改变平衡常数和平衡转化率，只缩短达到平衡的时间。",
+		"seconds": 8.376
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|催化剂有选择性：同样的反应物，换一种催化剂可能得到不同产物，可以提高目标产物的选择性。",
+		"seconds": 8.904
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：催化剂不能让不能自发的反应发生；“提高了平衡转化率”一定错，但“提高了单位时间内的产率”可以对。",
+		"seconds": 9.816
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：活化分子的碰撞一定有效？错，还要取向合适。判断二：增大浓度，活化分子百分数增大？错，百分数不变。",
+		"seconds": 12.912
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：活化能最大的一步是决速步？对。判断四：先生成后消耗的是催化剂？错，那是中间体。",
+		"seconds": 11.256
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：催化剂能提高平衡转化率？错，不改变平衡。判断六：催化剂参与反应，前后质量不变？对。",
+		"seconds": 11.688
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|能垒最大定快慢，先消后生是催化。下一期：化学平衡状态与平衡移动。",
+		"seconds": 7.872
+	}
+}

@@ -1,0 +1,122 @@
+{
+	"id": "HXC-09",
+	"title": "硫酸与含硫物质的转化",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第9期 / 共16期",
+	"points": [
+		"吸水性与脱水性",
+		"浓硫酸的强氧化性",
+		"铜与浓硫酸实验",
+		"硫酸根的检验",
+		"含硫的价类二维图",
+		"亚硫酸盐与硫化物",
+		"硫代硫酸钠",
+		"含硫物质的探究"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"硫酸",
+				true
+			],
+			[
+				"与含硫物质的转化"
+			]
+		],
+		"subtitle": "吸水 · 脱水 · 强氧化性 · 价类二维图",
+		"photo": "carbon-snake.jpg",
+		"photoCaption": "浓硫酸使蔗糖脱水炭化，形成“黑面包”",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"硫酸",
+					true
+				],
+				[
+					"与含硫"
+				]
+			],
+			[
+				[
+					"物质的转化"
+				]
+			]
+		],
+		"photo": "carbon-snake.jpg",
+		"photoPos": "center",
+		"photoTag": "黑面包实验",
+		"credit": "Thee.p, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "浓硫酸可以干燥 NH3",
+				"ok": false,
+				"fix": "NH3 是碱性气体，不能用浓硫酸干燥"
+			},
+			{
+				"q": "浓硫酸使蔗糖变黑，体现吸水性",
+				"ok": false,
+				"fix": "体现脱水性"
+			},
+			{
+				"q": "足量 Cu 与浓硫酸共热，H2SO4 能完全反应",
+				"ok": false,
+				"fix": "变稀后反应停止"
+			},
+			{
+				"q": "常温下 Fe、Al 遇浓硫酸钝化，可用铁罐储运浓硫酸",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Na2S2O3 与稀硫酸反应生成 S 和 SO2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "检验 Na2SO3 是否变质，可直接加 BaCl2 溶液",
+				"ok": false,
+				"fix": "先加足量盐酸，再加 BaCl2"
+			}
+		],
+		"endTitle": [
+			[
+				"硫酸",
+				true
+			],
+			[
+				"与含硫物质的转化"
+			]
+		],
+		"endLine": "吸水、脱水、强氧化，先加盐酸再加钡盐",
+		"slogan": "吸水脱水强氧化，先加盐酸再钡盐"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Thee.p《Carbon snake2》，CC BY-SA 4.0；插图来自 pixiv：花藤アキヒロ、からいももこ、かぜくまなか（侵删）",
+	"anime": [
+		{
+			"key": "drink",
+			"src": "drink.jpg",
+			"credit": "插图：花藤アキヒロ《水分補給を促す虹夏ちゃん》pixiv #132357986",
+			"url": "https://www.pixiv.net/artworks/132357986"
+		},
+		{
+			"key": "okono",
+			"src": "okono.jpg",
+			"credit": "插图：からいももこ《りせ会長Happy Birthday!》pixiv #98580096",
+			"url": "https://www.pixiv.net/artworks/98580096"
+		},
+		{
+			"key": "cheer",
+			"src": "cheer.jpg",
+			"credit": "插图：かぜくまなか《#中野梓生誕祭2018》pixiv #71601091",
+			"url": "https://www.pixiv.net/artworks/71601091"
+		}
+	]
+}

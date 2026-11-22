@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Net: React.FC = () => <AutoScene k="net" d={{"tag": "考点六", "title": "以物质的量为中心的换算", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "质量 m", "at": "ne2", "text": "n = m / M", "c": "red", "size": 34}]}, {"blocks": [{"t": "rule", "tag": "粒子数 N", "at": "ne2", "text": "n = N / N_A", "c": "orange", "size": 34}]}]}, {"t": "big", "at": "ne1", "text": "物质的量 {n}", "size": 56}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "气体 V", "at": "ne2", "text": "n = V / V_m（标况 22.4）", "c": "green", "size": 34}]}, {"blocks": [{"t": "rule", "tag": "溶液", "at": "ne2", "text": "n = c · V", "c": "brown", "size": 34}]}]}, {"t": "text", "at": "ne3", "text": "方程式系数比 = {物质的量之比}", "size": 34, "center": true}], "callout": {"label": "解题方法", "at": "ne4", "text": "已知量 → {n} → 按系数比 → 目标物质的 n → 题目要的量"}}} />;

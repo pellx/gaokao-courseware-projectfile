@@ -1,0 +1,178 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|共价键：西格玛键与派键、键参数。",
+		"seconds": 4.176
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常考西格玛键和派键的数目，大题偶尔问1摩尔物质含多少西格玛键，还会用键能解释稳定性，共七个考点。",
+		"seconds": 11.088
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，共价键的特征。第一是饱和性：一个原子有几个未成对电子，一般就只能和几个自旋相反的电子配对成键。",
+		"seconds": 11.04
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以氢气是H2，不是H3；氮有3个未成对电子，氨分子里氮连3个氢。",
+		"seconds": 8.064
+	},
+	"fe2b": {
+		"key": "zh-CN-XiaoxiaoNeural|饱和性就像握手会：每个人只有那么几只手，握满了就不能再握。",
+		"seconds": 6.144
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二是方向性：原子轨道要沿着重叠最大的方向成键，所以共价分子有一定的空间结构。",
+		"seconds": 8.592
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：s 轨道是球形，s 轨道和 s 轨道形成的西格玛键没有方向性，比如氢气中的氢氢键。",
+		"seconds": 9.048
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，西格玛键与派键。原子轨道沿核间连线方向“头碰头”重叠形成的是西格玛键，呈轴对称，可以绕键轴旋转。",
+		"seconds": 11.616
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|西格玛键有 s s、s p、p p 三种，比如氢气是 s s，氯化氢是 s p，氯气是 p p。",
+		"seconds": 9.648
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|两个相互平行的 p 轨道“肩并肩”重叠形成的是派键，呈镜面对称，不能旋转。",
+		"seconds": 7.344
+	},
+	"sp3b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像这两个并肩比耶的女孩：派键是两个 p 轨道肩并肩站在一起。",
+		"seconds": 6.216
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|派键重叠程度比西格玛键小，不如西格玛键牢固，容易断裂，所以乙烯比乙烷活泼，能发生加成反应。",
+		"seconds": 10.152
+	},
+	"sp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两个原子之间只能有一个西格玛键；派键不能单独存在，必须和西格玛键一起出现。",
+		"seconds": 8.712
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，西格玛键与派键的计数。口诀：单键1个西格玛；双键1个西格玛、1个派；三键1个西格玛、2个派。",
+		"seconds": 11.016
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|氮气是三键：1个西格玛、2个派；乙烯有4个碳氢键和1个碳碳双键：5个西格玛、1个派。",
+		"seconds": 9.024
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|乙炔：2个碳氢键和1个碳碳三键：3个西格玛、2个派；二氧化碳：两个碳氧双键，2个西格玛、2个派。",
+		"seconds": 10.704
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|配位键也是西格玛键：四氨合铜离子中，4个配位键加12个氮氢键，共16个西格玛键。",
+		"seconds": 8.712
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先画出结构式，数“线”：每两个原子之间算1个西格玛，多出来的线都是派；别漏了配位键和碳氢键。",
+		"seconds": 10.536
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，极性键与非极性键。由成键原子的电负性是否相同来判断。",
+		"seconds": 7.32
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|同种原子电负性相同，共用电子对不偏移，是非极性键，比如氢氢键、碳碳键、氧氧键。",
+		"seconds": 8.976
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|不同原子电负性不同，共用电子对偏向电负性大的一方，是极性键；电负性差越大，键的极性越强。",
+		"seconds": 9.696
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如氢氟键、氢氯键、氢溴键、氢碘键，极性依次减弱。",
+		"seconds": 6
+	},
+	"po5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断分子中含哪种共价键。易错：键的极性看成键原子是否相同，不看分子是否对称。",
+		"seconds": 10.176
+	},
+	"pa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，键参数。键能：气态分子中1摩尔化学键解离成气态原子所吸收的能量，键能越大，键越牢固。",
+		"seconds": 10.872
+	},
+	"pa2": {
+		"key": "zh-CN-XiaoxiaoNeural|键长：形成共价键的两个原子之间的核间距；键长越短，往往键能越大。",
+		"seconds": 7.32
+	},
+	"pa3": {
+		"key": "zh-CN-XiaoxiaoNeural|碳碳单键、双键、三键，键长依次减小，键能依次增大；但碳碳双键的键能不到单键的两倍，说明派键比西格玛键弱。",
+		"seconds": 11.832
+	},
+	"pa4": {
+		"key": "zh-CN-XiaoxiaoNeural|键角：两个共价键之间的夹角，决定分子的空间结构，比如二氧化碳是180度，水约105度，甲烷是109度28分。",
+		"seconds": 12.456
+	},
+	"pa5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：键能、键长决定分子的稳定性；键长、键角决定分子的空间结构。",
+		"seconds": 7.848
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，键能与分子稳定性、反应热。卤化氢的稳定性：氟化氢大于氯化氢大于溴化氢大于碘化氢，因为键长依次增大、键能依次减小。",
+		"seconds": 13.776
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|氮气特别稳定，是因为氮氮三键键能很大，约946千焦每摩尔。",
+		"seconds": 6.72
+	},
+	"en2b": {
+		"key": "zh-CN-XiaoxiaoNeural|键能大，就像这样紧紧握住的手：要把它们分开，得花很大的力气。",
+		"seconds": 6.432
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|反应热：焓变等于反应物键能总和减生成物键能总和。",
+		"seconds": 5.568
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如氢气和氯气生成氯化氢：焓变等于436加243减2乘431，等于负183千焦每摩尔，放热。",
+		"seconds": 12.048
+	},
+	"en5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：用键能算焓变是“反应物减生成物”，和用能量算的“生成物减反应物”正好相反，别记混。",
+		"seconds": 9.048
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，易错辨析。第一句：“氮气化学性质稳定，是因为氮氮三键键能大。”对。",
+		"seconds": 8.832
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二句：“氟化氢比氯化氢稳定，是因为氟化氢分子间有氢键。”错，稳定性看键能，氢氟键键能大，和氢键无关。",
+		"seconds": 11.112
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三句：“派键一定比西格玛键弱。”一般如此，但氮气中的派键就比较牢固，高考选项里说“一般”才稳妥。",
+		"seconds": 10.368
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四句：“1摩尔乙烯含6摩尔西格玛键。”错，是5摩尔西格玛键、1摩尔派键。",
+		"seconds": 8.232
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：稳定性看键能，熔沸点看分子间作用力，这两件事别混。",
+		"seconds": 6.384
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：双键中含2个西格玛键？错，1个西格玛、1个派。判断二：氢气中的 s s 西格玛键没有方向性？对。",
+		"seconds": 12.432
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：乙烯比乙烷活泼，因为派键易断？对。判断四：氟化氢比氯化氢稳定是因为有氢键？错，看键能。",
+		"seconds": 11.832
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：四氨合铜离子中含16个西格玛键？对。判断六：焓变等于生成物键能减反应物键能？错，正好反过来。",
+		"seconds": 12.024
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|头碰头是西格玛，肩并肩是派，单一、双一一、三一二。下一期：价层电子对互斥模型。",
+		"seconds": 9.528
+	}
+}

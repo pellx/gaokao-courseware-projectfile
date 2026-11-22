@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|化工流程上：读流程图与原料预处理。",
+		"seconds": 4.272
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷固定大题：先学会读流程图，再掌握预处理的答题模板，共七个考点。",
+		"seconds": 7.464
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，流程题的结构：原料 → 预处理 → 核心反应 → 分离提纯 → 产品。",
+		"seconds": 7.008
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|题目通常先给原料的成分（主要成分和杂质），再给目的产物，中间每一步都有设问。",
+		"seconds": 7.728
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|设问类型固定：预处理措施、条件控制理由、陌生方程式、滤渣成分、分离操作、Ksp计算、产率纯度。",
+		"seconds": 10.824
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：不用一开始就看懂每一步，先看问题，带着问题回到流程图中找答案。",
+		"seconds": 7.848
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，读流程的方法：先看目的产物含什么元素，再看杂质有哪些。",
+		"seconds": 7.08
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|然后追踪每一种元素：它在哪一步进入溶液、在哪一步变成沉淀被除去，最后到了哪里。",
+		"seconds": 8.136
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|箭头的含义：进入方框的箭头是加入的试剂，离开的是产物或滤渣；回到前面的箭头表示循环利用。",
+		"seconds": 9.6
+	},
+	"re3b": {
+		"key": "zh-CN-XiaoxiaoNeural|满屏的金发小人挤在黄色背景上：元素就像这么多小人，一个一个追踪去向，就不会乱。",
+		"seconds": 8.328
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：在原料成分旁边写出每种元素的去向：铁到滤渣二，硅到滤渣一。",
+		"seconds": 7.824
+	},
+	"gr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，粉碎、研磨的目的：增大反应物的接触面积，加快反应速率，使反应更充分，提高浸出率或原料利用率。",
+		"seconds": 11.136
+	},
+	"gr2": {
+		"key": "zh-CN-XiaoxiaoNeural|同类措施：搅拌、气体从下往上通（逆流），使气固、液固接触更充分。",
+		"seconds": 7.176
+	},
+	"gr3": {
+		"key": "zh-CN-XiaoxiaoNeural|答题时要写全：“增大接触面积，加快反应速率，提高浸出率”。",
+		"seconds": 6.288
+	},
+	"gr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只写“使反应充分”不够；粉碎不改变平衡，只影响速率。",
+		"seconds": 6.312
+	},
+	"ro1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，焙烧和煅烧的目的：除去有机物；把低价态氧化成高价态，比如二硫化亚铁焙烧变成氧化铁。",
+		"seconds": 10.224
+	},
+	"ro2": {
+		"key": "zh-CN-XiaoxiaoNeural|使物质分解，比如碳酸钙变成氧化钙；与添加剂反应，把难溶物变成可溶物，比如加碳酸钠焙烧使二氧化硅变成硅酸钠。",
+		"seconds": 11.88
+	},
+	"ro3": {
+		"key": "zh-CN-XiaoxiaoNeural|焙烧时产生的二氧化硫等气体要吸收，防止污染，也可以用来制硫酸。",
+		"seconds": 6.576
+	},
+	"ro3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩两眼变成小圆点，张着嘴：焙烧时空气中的氧气也参加反应，写方程式别漏了它。",
+		"seconds": 9.24
+	},
+	"ro4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断焙烧产物，先看有没有通空气：有氧气就想到氧化，元素一般升到稳定的高价态。",
+		"seconds": 9.456
+	},
+	"le1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，浸出：用酸、碱或水把有用成分溶解出来。酸浸溶解金属氧化物、碳酸盐；碱浸溶解氧化铝、二氧化硅等两性或酸性氧化物。",
+		"seconds": 13.824
+	},
+	"le2": {
+		"key": "zh-CN-XiaoxiaoNeural|提高浸出率或浸出速率的措施：粉碎、适当升温、适当增大酸或碱的浓度、搅拌，延长浸出时间。",
+		"seconds": 9.96
+	},
+	"le3": {
+		"key": "zh-CN-XiaoxiaoNeural|浸出时有时加入还原剂或氧化剂，比如酸浸二氧化锰时加过氧化氢或二氧化硫，把二氧化锰还原成可溶的锰离子。",
+		"seconds": 11.088
+	},
+	"le4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：将矿石粉碎、适当升高温度、适当增大硫酸浓度、搅拌，写两三条即可。",
+		"seconds": 8.616
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，为什么是适当？温度太高：盐酸、硝酸、氨水挥发；过氧化氢、碳酸氢铵分解；副反应增多。",
+		"seconds": 10.776
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|酸的浓度太高：消耗更多碱来中和，后续调 pH 成本增加；浓硫酸还可能使某些金属钝化。",
+		"seconds": 9
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|浸出时间太长：效率低，生产成本增加。",
+		"seconds": 4.464
+	},
+	"pr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉色茶杯标志前坐着弹键盘的金发女孩：火候太大，水壶会烧干；条件也要恰到好处。",
+		"seconds": 8.592
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：解释温度过高浸出率下降：温度过高，过氧化氢分解或盐酸挥发，导致浸出率下降。",
+		"seconds": 9.6
+	},
+	"rs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，浸出液与滤渣的成分。酸浸时，不溶于酸的二氧化硅进入滤渣；硫酸浸时，钙、铅、钡离子会生成硫酸钙、硫酸铅、硫酸钡进入滤渣。",
+		"seconds": 15.048
+	},
+	"rs2": {
+		"key": "zh-CN-XiaoxiaoNeural|碱浸时，氧化铁、氧化铜、氧化镁等碱性氧化物不溶，进入滤渣；氧化铝、二氧化硅进入溶液。",
+		"seconds": 9.648
+	},
+	"rs3": {
+		"key": "zh-CN-XiaoxiaoNeural|浸出液中还要注意价态：用了氧化剂或还原剂后，铁是亚铁离子还是铁离子。",
+		"seconds": 7.656
+	},
+	"rs4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：写滤渣成分不能只写二氧化硅，用硫酸浸出含钙矿物时还有硫酸钙。",
+		"seconds": 7.704
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：粉碎能提高平衡转化率？错，只影响速率。判断二：焙烧二硫化亚铁，铁被氧化为正三价？对。",
+		"seconds": 11.832
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：温度越高越好？错，要适当。判断四：酸浸后二氧化硅进入滤渣？对。",
+		"seconds": 9.624
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：碱浸时氧化铁进入溶液？错，进入滤渣。判断六：硫酸浸出含钙矿物，滤渣可能有硫酸钙？对。",
+		"seconds": 11.832
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先看问题再读图，追踪元素找去向。下一期：化工流程中：条件控制、除杂与陌生方程式。",
+		"seconds": 9.648
+	}
+}

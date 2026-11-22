@@ -1,0 +1,21 @@
+本期考点
+
+一、平衡的建立（动态平衡，沉淀完全指 c < 10⁻⁵ mol/L）
+二、溶度积 Ksp（表达式，只与温度有关）
+三、Q 与 Ksp（Q > Ksp 析出，混合时浓度减半）
+四、Ksp 与溶解度（化学式类型相同才能直接比）
+五、沉淀的生成（调 pH 除杂，计算沉淀完全的 pH）
+六、沉淀的溶解（Mg(OH)₂ 溶于 NH₄Cl 溶液）
+七、沉淀的转化（AgCl → AgI → Ag₂S，水垢 CaSO₄ 转化）
+八、溶解平衡曲线（−lg c 图像的读法）
+
+图片来源
+1.Killarnee《Stalactite cave Mallorca 1》，CC BY-SA 4.0（Wikimedia Commons）
+2.插图：サカバンコーン《溶けた》
+https://www.pixiv.net/artworks/104031513
+3.插图：負面具《お誕生日おめでとう》
+https://www.pixiv.net/artworks/108532708
+4.插图：Fuwafuwari《BTR chibi emote》
+https://www.pixiv.net/artworks/107693279
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

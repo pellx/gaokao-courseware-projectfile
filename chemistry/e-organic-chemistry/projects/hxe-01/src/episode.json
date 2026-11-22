@@ -1,0 +1,122 @@
+{
+	"id": "HXE-01",
+	"title": "有机物的分类与官能团",
+	"subject": "chemistry",
+	"book": "有机化学 · 第1期 / 共17期",
+	"points": [
+		"按碳骨架分类",
+		"官能团（一）",
+		"官能团（二）",
+		"官能团（三）",
+		"醇与酚的区别",
+		"名称书写规范",
+		"复杂结构识别"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"有机物的分类",
+				true
+			],
+			[
+				"与官能团"
+			]
+		],
+		"subtitle": "碳骨架 · 十几种官能团 · 名称规范",
+		"photo": "wohler.jpg",
+		"photoCaption": "维勒：用无机物合成了尿素",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"有机物的分类",
+					true
+				]
+			],
+			[
+				[
+					"与官能团"
+				]
+			]
+		],
+		"photo": "wohler.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "维勒",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "苯环是一种官能团",
+				"ok": false,
+				"fix": "苯环不是官能团"
+			},
+			{
+				"q": "环己烷属于芳香烃",
+				"ok": false,
+				"fix": "是脂环烃"
+			},
+			{
+				"q": "苯甲醇属于酚类",
+				"ok": false,
+				"fix": "羟基连在侧链上，属于醇"
+			},
+			{
+				"q": "醛基的结构简式写成 —CHO",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "CH3COCH3 中的官能团是酮羰基",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "大题中“碳碳双键”可以简写成“双键”",
+				"ok": false,
+				"fix": "要写全“碳碳双键”"
+			}
+		],
+		"endTitle": [
+			[
+				"有机物的分类",
+				true
+			],
+			[
+				"与官能团"
+			]
+		],
+		"endLine": "官能团定类别，名称一字不能错",
+		"slogan": "官能团定类别，名称一字不能错"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Friedrich Woehler》，公有领域；插图来自 pixiv：まにょ、Shidqi F R、wendy（侵删）",
+	"anime": [
+		{
+			"key": "ears",
+			"src": "ears.jpg",
+			"credit": "插图：まにょ《アニマル軽音部！》pixiv #4228738",
+			"url": "https://www.pixiv.net/artworks/4228738"
+		},
+		{
+			"key": "puzzle",
+			"src": "puzzle.jpg",
+			"credit": "插图：Shidqi F R《Chibi Soyo Nagasaki》pixiv #119102255",
+			"url": "https://www.pixiv.net/artworks/119102255"
+		},
+		{
+			"key": "alert",
+			"src": "alert.jpg",
+			"credit": "插图：wendy《ひらめいた》pixiv #4257571",
+			"url": "https://www.pixiv.net/artworks/4257571"
+		}
+	]
+}

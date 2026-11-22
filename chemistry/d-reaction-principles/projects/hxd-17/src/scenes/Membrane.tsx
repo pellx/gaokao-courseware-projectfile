@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Membrane: React.FC = () => <AutoScene k="membrane" d={{"tag": "考点五", "title": "离子交换膜", "blocks": [{"t": "table", "at": "mb1", "head": ["膜", "允许通过"], "cols": "1.4fr 2fr", "rows": [{"at": "mb1", "cells": ["阳离子交换膜", "{阳离子}"]}, {"at": "mb1", "cells": ["阴离子交换膜", "{阴离子|orange}"]}, {"at": "mb1", "cells": ["质子交换膜", "只有 {H^+}"]}], "size": 33, "rowHeight": 62}, {"t": "chain", "steps": [{"at": "mb3", "text": "阳极室\nH2SO4"}, {"at": "mb3", "text": "中间室\nNa2SO4"}, {"at": "mb3", "text": "阴极室\n{NaOH}"}], "arrows": ["← SO4^2-（阴膜）", "Na^+ →（阳膜）"], "center": true, "size": 30}], "callout": {"label": "解题方法", "at": "mb4", "text": "阴极区需要{阳离子}进来，阳极区需要{阴离子}进来"}, "beat": {"k": "gate", "at": "mb2b", "text": "交换膜像{门卫|red}\n只放一种电荷通过"}}} />;

@@ -1,0 +1,122 @@
+{
+	"id": "HXC-15",
+	"title": "陌生过渡金属（下）：锰、铬、钴、镍",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第15期 / 共16期",
+	"points": [
+		"锰的价态与颜色",
+		"高锰酸根的还原产物",
+		"铬的两种酸根",
+		"钴与镍",
+		"流程中的除铁",
+		"用颜色推价态",
+		"三条规律的综合"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"陌生过渡金属（下）："
+			],
+			[
+				"锰、铬、钴、镍",
+				true
+			]
+		],
+		"subtitle": "高锰酸根看环境 · 铬酸根平衡 · 调 pH 除铁",
+		"photo": "dichromate.jpg",
+		"photoCaption": "重铬酸钾晶体：橙红色的强氧化剂",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"陌生过渡金属",
+					true
+				]
+			],
+			[
+				[
+					"锰铬钴镍"
+				]
+			]
+		],
+		"photo": "dichromate.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "重铬酸钾",
+		"credit": "Mo.3500, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "酸性条件下 MnO4^- 被还原为 MnO2",
+				"ok": false,
+				"fix": "酸性下还原为 Mn^2+"
+			},
+			{
+				"q": "Cr2O7^2- 转化为 CrO4^2- 是氧化还原反应",
+				"ok": false,
+				"fix": "Cr 都是 +6 价，不是氧化还原"
+			},
+			{
+				"q": "向 K2Cr2O7 溶液中加碱，溶液由橙色变为黄色",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "流程中先用 H2O2 把 Fe^2+ 氧化为 Fe^3+，再调 pH 除去",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "酸性 KMnO4 溶液常用盐酸酸化",
+				"ok": false,
+				"fix": "用硫酸酸化，Cl^- 会被氧化"
+			},
+			{
+				"q": "用 H2O2 浸出 Co(Ⅲ) 时，H2O2 作氧化剂",
+				"ok": false,
+				"fix": "H2O2 作还原剂"
+			}
+		],
+		"endTitle": [
+			[
+				"陌生过渡金属（下）："
+			],
+			[
+				"锰、铬、钴、镍",
+				true
+			]
+		],
+		"endLine": "高锰酸根看环境，铬酸根看酸碱",
+		"slogan": "高锰酸根看环境，铬酸根看酸碱，除铁先氧化再调pH"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Mo.3500《Crystals of potassium dichromate》，CC BY-SA 4.0；插图来自 pixiv：shimejime、マゴコロ、あむろん（侵删）",
+	"anime": [
+		{
+			"key": "rainbow",
+			"src": "rainbow.jpg",
+			"credit": "插图：shimejime《block.》pixiv #152290248",
+			"url": "https://www.pixiv.net/artworks/152290248"
+		},
+		{
+			"key": "sticker",
+			"src": "sticker.jpg",
+			"credit": "插图：マゴコロ《うちの子・ちびキャラシール》pixiv #150899251",
+			"url": "https://www.pixiv.net/artworks/150899251"
+		},
+		{
+			"key": "mugi",
+			"src": "mugi.jpg",
+			"credit": "插图：あむろん《ムギちゃん》pixiv #132205703",
+			"url": "https://www.pixiv.net/artworks/132205703"
+		}
+	]
+}

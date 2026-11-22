@@ -1,0 +1,118 @@
+{
+	"id": "HXA-15",
+	"title": "分子晶体与共价晶体",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第15期 / 共21期",
+	"points": [
+		"分子晶体",
+		"分子晶体的两种结构",
+		"分子晶体的性质",
+		"金刚石、晶体硅、SiC",
+		"二氧化硅晶体",
+		"共价晶体的熔点硬度",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"分子晶体"
+			],
+			[
+				"与共价晶体",
+				true
+			]
+		],
+		"subtitle": "干冰 · 冰 · 金刚石 · 二氧化硅",
+		"photo": "diamond.jpg",
+		"photoCaption": "天然金刚石原石：典型的共价晶体",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"分子晶体"
+				]
+			],
+			[
+				[
+					"共价晶体",
+					true
+				]
+			]
+		],
+		"photo": "diamond.jpg",
+		"photoPos": "center",
+		"photoTag": "金刚石",
+		"credit": "W.carter, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "干冰晶体中每个 CO2 分子周围紧邻 12 个 CO2 分子",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "具有共价键的晶体一定是共价晶体",
+				"ok": false,
+				"fix": "干冰、冰是分子晶体"
+			},
+			{
+				"q": "金刚石中碳原子数与 C—C 键数之比为 1∶2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "SiO2 晶体中最小环为 6 元环",
+				"ok": false,
+				"fix": "12 元环（6 Si + 6 O）"
+			},
+			{
+				"q": "熔点：金刚石 > 碳化硅 > 晶体硅",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "分子晶体熔化时破坏了共价键",
+				"ok": false,
+				"fix": "只破坏分子间作用力"
+			}
+		],
+		"endTitle": [
+			[
+				"分子晶体"
+			],
+			[
+				"与共价晶体",
+				true
+			]
+		],
+		"endLine": "分子晶体 · 干冰与冰 · 性质 · 金刚石 · 二氧化硅 · 熔点硬度",
+		"slogan": "金刚石 1∶2，二氧化硅 1∶4！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— W.carter《Raw light brown diamond crystal cut in half 1》CC BY-SA 4.0；插图来自 pixiv：焼き鳥虫、ユリナメクジ、東山南（侵删）",
+	"anime": [
+		{
+			"key": "melt",
+			"src": "melt.jpg",
+			"credit": "插图：焼き鳥虫《結束(物理)して溶ける(物理)》pixiv #114582546",
+			"url": "https://www.pixiv.net/artworks/114582546"
+		},
+		{
+			"key": "yarn",
+			"src": "yarn.jpg",
+			"credit": "插图：ユリナメクジ《飼い主と猫️》pixiv #116352217",
+			"url": "https://www.pixiv.net/artworks/116352217"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：東山南《ちびキャラ：愛宕》pixiv #146995888",
+			"url": "https://www.pixiv.net/artworks/146995888"
+		}
+	]
+}

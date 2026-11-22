@@ -1,0 +1,38 @@
+{
+	"id": "BX1-22",
+	"title": "细胞的增殖（上）",
+	"subject": "biology",
+	"book": "人教版·必修1·第6章",
+	"points": ["细胞不能无限长大", "细胞周期的概念", "细胞周期的表示", "分裂间期", "前期和中期", "后期和末期", "染色体和DNA变化"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞周期与"], ["有丝分裂", true]],
+		"subtitle": "细胞的增殖（上） · 各时期特点与数目变化",
+		"photo": "flemming.jpg",
+		"photoCaption": "弗莱明1882年绘制的细胞分裂图",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞周期与"]], [["有丝分裂", true]]],
+		"kicker": "各时期 · 数目变化",
+		"photo": "flemming.jpg",
+		"photoPos": "center center",
+		"photoTag": "弗莱明手绘",
+		"credit": "Walther Flemming / Wellcome Collection, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "细胞越大，物质运输效率越高", "ok": false, "fix": "细胞越大，相对表面积越小，效率越低"},
+			{"q": "神经细胞具有细胞周期", "ok": false, "fix": "只有连续分裂的细胞才有细胞周期"},
+			{"q": "细胞周期中分裂间期在前、所占时间长", "ok": true, "fix": ""},
+			{"q": "间期DNA复制后染色体数目加倍", "ok": false, "fix": "核DNA加倍，染色体数目不变"},
+			{"q": "中期染色体的着丝粒排列在细胞板上", "ok": false, "fix": "排列在赤道板上"},
+			{"q": "后期着丝粒分裂，染色单体数变为0", "ok": true, "fix": ""}
+		],
+		"endTitle": [["细胞周期与"], ["有丝分裂", true]],
+		"endLine": "细胞周期 · 间期 · 前中后末 · 数目变化",
+		"slogan": "膜仁消失显两体，形定数晰赤道齐！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Walther Flemming / Wellcome Collection《Zellsubstanz, Kern und Zelltheilung》CC BY 4.0（已裁切）"
+}

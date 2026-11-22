@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第二章第二节——细胞中的无机物。",
+		"seconds": 7.056
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考自由水与结合水、无机盐的功能，以及验证必需元素的实验设计。",
+		"seconds": 7.224
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"wc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，水的含量特点。水是细胞中含量最多的化合物，一般占细胞鲜重的百分之七十到百分之九十。",
+		"seconds": 10.056
+	},
+	"wc2": {
+		"key": "zh-CN-XiaoxiaoNeural|不同生物含水量不同：一般水生生物多于陆生生物，水母的含水量可达百分之九十七。",
+		"seconds": 8.376
+	},
+	"wc3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一生物的不同时期、不同器官也不同：幼儿多于成年人，代谢旺盛的器官含水量高。",
+		"seconds": 7.992
+	},
+	"wc4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：比较不同生物、不同器官含水量的高低。解题方法：一般代谢越旺盛，含水量越高。",
+		"seconds": 9.312
+	},
+	"sv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，水为什么是良好的溶剂。水分子是极性分子，带电荷的分子或离子都容易与水结合。",
+		"seconds": 9.744
+	},
+	"sv2": {
+		"key": "zh-CN-XiaoxiaoNeural|水分子之间会形成氢键，氢键不断断裂又不断形成，使水在常温下呈液体状态，具有流动性。",
+		"seconds": 9.672
+	},
+	"sv3": {
+		"key": "zh-CN-XiaoxiaoNeural|氢键还使水具有较高的比热容，水的温度不容易改变，有利于维持生命系统的稳定。",
+		"seconds": 7.752
+	},
+	"sv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：水是良好溶剂，靠的是极性；水的比热容高、能流动，靠的是氢键，不要张冠李戴。",
+		"seconds": 8.856
+	},
+	"fw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，自由水与结合水。细胞中绝大部分的水以游离的形式存在，可以自由流动，叫作自由水。",
+		"seconds": 9.552
+	},
+	"fw2": {
+		"key": "zh-CN-XiaoxiaoNeural|自由水是细胞内良好的溶剂，参与许多生物化学反应，还能运送营养物质和代谢废物。",
+		"seconds": 8.352
+	},
+	"fw3": {
+		"key": "zh-CN-XiaoxiaoNeural|一部分水与细胞内的其他物质相结合，叫作结合水，是细胞结构的重要组成部分。",
+		"seconds": 7.848
+	},
+	"fw4": {
+		"key": "zh-CN-XiaoxiaoNeural|在一定条件下，自由水和结合水可以相互转化。",
+		"seconds": 4.92
+	},
+	"fw5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只有自由水能作溶剂、参与反应和运输；结合水失去了流动性和溶解性，是细胞结构的组成成分。",
+		"seconds": 10.128
+	},
+	"rt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，自由水与结合水的比值。比值越高，细胞代谢越旺盛。",
+		"seconds": 6.96
+	},
+	"rt2": {
+		"key": "zh-CN-XiaoxiaoNeural|比值越低，代谢越慢，但抗寒、抗旱等抗逆性越强。",
+		"seconds": 5.64
+	},
+	"rt3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如冬季来临，冬小麦细胞中结合水的比例逐渐升高，抗寒能力增强。",
+		"seconds": 7.08
+	},
+	"rt4": {
+		"key": "zh-CN-XiaoxiaoNeural|种子晒干时失去的主要是自由水，代谢减弱，便于储存；种子烘烤时失去结合水，就失去活性了。",
+		"seconds": 9.912
+	},
+	"rt5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：结合种子萌发、储存和越冬考比值的变化。解题方法：代谢旺盛看自由水，抗逆性强看结合水。",
+		"seconds": 10.824
+	},
+	"sa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，无机盐的存在形式和功能。细胞中大多数无机盐以离子的形式存在。",
+		"seconds": 7.776
+	},
+	"sa2": {
+		"key": "zh-CN-XiaoxiaoNeural|有些无机盐是复杂化合物的重要组成成分：镁是叶绿素的组成成分，铁是血红素的组成成分。",
+		"seconds": 9.096
+	},
+	"sa3": {
+		"key": "zh-CN-XiaoxiaoNeural|碘是合成甲状腺激素的原料；磷是磷脂、核酸、ATP等的组成元素。",
+		"seconds": 7.08
+	},
+	"sa4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：缺镁叶片发黄，缺铁会贫血，缺碘易患地方性甲状腺肿。解题方法：先说它组成了哪种化合物，再推缺乏的后果。",
+		"seconds": 12.312
+	},
+	"sb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，无机盐对维持生命活动的作用。哺乳动物血液中钙离子含量太低，会出现抽搐等症状。",
+		"seconds": 9.648
+	},
+	"sb2": {
+		"key": "zh-CN-XiaoxiaoNeural|人体内钠离子缺乏，会引起神经、肌肉细胞的兴奋性降低，最终引发肌肉酸痛、无力等。",
+		"seconds": 8.568
+	},
+	"sb3": {
+		"key": "zh-CN-XiaoxiaoNeural|无机盐还能维持细胞的酸碱平衡和渗透压，比如生理盐水是质量分数为百分之零点九的氯化钠溶液。",
+		"seconds": 9.72
+	},
+	"sb4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：无机盐不能为细胞提供能量；大量出汗后，要补充的是淡盐水，而不只是水。",
+		"seconds": 8.232
+	},
+	"ds1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，验证某种无机盐是植物生长所必需的。以镁为例：完全培养液为对照组，缺镁培养液为实验组。",
+		"seconds": 10.824
+	},
+	"ds2": {
+		"key": "zh-CN-XiaoxiaoNeural|把长势相同的幼苗分别放入两组中培养，结果缺镁组的幼苗叶片发黄。",
+		"seconds": 6.984
+	},
+	"ds3": {
+		"key": "zh-CN-XiaoxiaoNeural|还要做二次对照：向缺镁组中补充镁，症状消失、恢复正常，才能说明镁是必需的。",
+		"seconds": 8.424
+	},
+	"ds4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：自变量是有无这种无机盐；对照组用完全培养液，不能用土壤；再用“缺素—补素”前后对照增强说服力。",
+		"seconds": 10.728
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，自由水才是良好溶剂。判断二？错，比值越高，代谢越旺盛，抗逆性越弱。",
+		"seconds": 10.56
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？对。",
+		"seconds": 4.656
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，无机盐不能提供能量。判断六？错，对照组要用完全培养液。",
+		"seconds": 8.856
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：代谢看自由水，抗逆看结合水，无机盐看组成和功能。我们下期再见！",
+		"seconds": 9.408
+	}
+}

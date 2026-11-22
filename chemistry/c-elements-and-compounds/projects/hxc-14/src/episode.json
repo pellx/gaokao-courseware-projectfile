@@ -1,0 +1,118 @@
+{
+	"id": "HXC-14",
+	"title": "陌生过渡金属（上）：铜与银",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第14期 / 共16期",
+	"points": [
+		"铜的价态与颜色",
+		"铜与氧化性酸",
+		"铜的配位化合物",
+		"银的沉淀",
+		"银的配位",
+		"银的氧化还原",
+		"陌生金属的解法"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"陌生过渡金属（上）："
+			],
+			[
+				"铜与银",
+				true
+			]
+		],
+		"subtitle": "亚铜歧化 · 配位与沉淀的竞争 · 可逆的银反应",
+		"photo": "agx.jpg",
+		"photoCaption": "卤化银沉淀：氯化银、溴化银、碘化银",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"陌生过渡金属",
+					true
+				]
+			],
+			[
+				[
+					"铜与银"
+				]
+			]
+		],
+		"photo": "agx.jpg",
+		"photoPos": "center",
+		"photoTag": "卤化银",
+		"credit": "Rrausch1974, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Cu2O 与稀硫酸反应只生成 CuSO4 和 H2O",
+				"ok": false,
+				"fix": "Cu^+ 歧化，还生成 Cu"
+			},
+			{
+				"q": "用 H2O2 和稀硫酸溶解铜，不产生污染性气体",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "AgCl、AgBr、AgI 的溶解度依次增大",
+				"ok": false,
+				"fix": "依次减小"
+			},
+			{
+				"q": "AgCl 能溶于氨水，生成 [Ag(NH3)2]^+",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "配制银氨溶液：向氨水中滴加 AgNO3 溶液",
+				"ok": false,
+				"fix": "向 AgNO3 溶液中滴加稀氨水"
+			},
+			{
+				"q": "Ag^+ 与 Fe^2+ 的反应是可逆反应",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"陌生过渡金属（上）："
+			],
+			[
+				"铜与银",
+				true
+			]
+		],
+		"endLine": "价态、沉淀、配体，三条线推陌生金属",
+		"slogan": "价态、沉淀、配体，三条线推陌生金属"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Rrausch1974《Silberhalogenide》，CC BY-SA 3.0；插图来自 pixiv：WAO、Bondverse、Shizu（侵删）",
+	"anime": [
+		{
+			"key": "pair",
+			"src": "pair.jpg",
+			"credit": "插图：WAO《唯の保護欲》pixiv #152060500",
+			"url": "https://www.pixiv.net/artworks/152060500"
+		},
+		{
+			"key": "white",
+			"src": "white.jpg",
+			"credit": "插图：Bondverse《Fuyui》pixiv #107314685",
+			"url": "https://www.pixiv.net/artworks/107314685"
+		},
+		{
+			"key": "yui",
+			"src": "yui.jpg",
+			"credit": "插图：Shizu《唯ちゃん35》pixiv #89075426",
+			"url": "https://www.pixiv.net/artworks/89075426"
+		}
+	]
+}

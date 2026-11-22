@@ -1,0 +1,128 @@
+{
+	"id": "HXE-03",
+	"title": "有机物的结构特点：共线共面与杂化",
+	"subject": "chemistry",
+	"book": "有机化学 · 第3期 / 共17期",
+	"points": [
+		"碳原子的成键特点",
+		"碳原子的杂化方式",
+		"σ 键与 π 键计数",
+		"四种基本构型",
+		"共面判断",
+		"共线判断",
+		"拆分基本构型"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"有机物的结构特点",
+				true
+			],
+			[
+				"：共线共面与杂化"
+			]
+		],
+		"subtitle": "sp³ sp² sp · σ 键 π 键 · 共线共面",
+		"photo": "pauling.jpg",
+		"photoCaption": "鲍林：提出杂化轨道理论",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"有机物的",
+					true
+				]
+			],
+			[
+				[
+					"结构特点",
+					true
+				]
+			],
+			[
+				[
+					"共线共面与杂化"
+				]
+			]
+		],
+		"photo": "pauling.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "鲍林",
+		"credit": "Nobel Foundation, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "乙烯分子中 6 个原子共面",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "甲苯分子中所有原子可能共面",
+				"ok": false,
+				"fix": "—CH3 为四面体，不可能全部共面"
+			},
+			{
+				"q": "乙炔分子中有 2 个 σ 键和 3 个 π 键",
+				"ok": false,
+				"fix": "3 个 σ 键，2 个 π 键"
+			},
+			{
+				"q": "羧基中的碳原子为 sp² 杂化",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "丙烷分子中 3 个碳原子在一条直线上",
+				"ok": false,
+				"fix": "饱和碳链为锯齿形"
+			},
+			{
+				"q": "苯乙烯分子中所有原子可能共平面",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"有机物的结构特点",
+				true
+			],
+			[
+				"：共线共面与杂化"
+			]
+		],
+		"endLine": "有饱和碳就不全共面，单键能转只算可能",
+		"slogan": "有饱和碳就不全共面，单键能转只算可能"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nobel Foundation《Linus Pauling 1962》，公有领域；插图来自 pixiv：SunTail、一条 高雪、Saku（侵删）",
+	"anime": [
+		{
+			"key": "keyboard",
+			"src": "keyboard.jpg",
+			"credit": "插图：SunTail《Do It Ourselves!! イヴ》pixiv #77641752",
+			"url": "https://www.pixiv.net/artworks/77641752"
+		},
+		{
+			"key": "bass",
+			"src": "bass.jpg",
+			"credit": "插图：一条 高雪《澪　SD》pixiv #4022300",
+			"url": "https://www.pixiv.net/artworks/4022300"
+		},
+		{
+			"key": "spiral",
+			"src": "spiral.jpg",
+			"credit": "插图：Saku《모모카》pixiv #120631124",
+			"url": "https://www.pixiv.net/artworks/120631124"
+		}
+	]
+}

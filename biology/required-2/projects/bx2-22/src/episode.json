@@ -1,0 +1,38 @@
+{
+	"id": "BX2-22",
+	"title": "种群基因组成的变化与物种的形成（上）：种群基因组成的变化",
+	"subject": "biology",
+	"book": "人教版·必修2·第6章",
+	"points": ["种群与基因库", "基因频率的计算", "遗传平衡定律", "X上基因频率计算", "突变和基因重组", "自然选择定方向", "抗生素选择实验"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["种群基因组成的"], ["变化", true]],
+		"subtitle": "种群基因组成的变化与物种的形成（上） · 基因频率",
+		"photo": "moths.jpg",
+		"photoCaption": "桦尺蛾的黑色型和浅色型",
+		"photoPos": "55% 50%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["种群基因"]], [["组成的变化", true]]],
+		"kicker": "基因频率 · 遗传平衡 · 桦尺蛾",
+		"photo": "moths.jpg",
+		"photoPos": {"16x9": "55% 50%", "4x3": "58% 50%", "3x4": "center 50%"},
+		"photoTag": "桦尺蛾",
+		"credit": "Photo: Martinowksy, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "生物进化的基本单位是个体", "ok": false, "fix": "是种群"},
+			{"q": "AA 30%、Aa 60%、aa 10% 的种群中，A 的频率是 60%", "ok": true, "fix": ""},
+			{"q": "遗传平衡的种群中，a 的频率为 0.2，则 Aa 占 0.16", "ok": false, "fix": "Aa = 2 × 0.8 × 0.2 = 0.32"},
+			{"q": "进化的实质是种群基因型频率的改变", "ok": false, "fix": "是种群基因频率的改变"},
+			{"q": "自然选择决定生物进化的方向", "ok": true, "fix": ""},
+			{"q": "抗生素诱导细菌产生了耐药性突变", "ok": false, "fix": "耐药突变本来就有，抗生素起选择作用"}
+		],
+		"endTitle": [["种群基因组成的"], ["变化", true]],
+		"endLine": "基因库 · 基因频率 · 遗传平衡 · 突变提供原材料 · 选择定方向",
+		"slogan": "进化的实质是基因频率的改变！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Martinowksy《Lichte en zwarte versie berkenspanner》CC BY-SA 3.0"
+}

@@ -1,0 +1,122 @@
+{
+	"id": "HXD-08",
+	"title": "弱电解质的电离平衡",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第8期 / 共20期",
+	"points": [
+		"强弱电解质",
+		"电离方程式",
+		"影响电离的因素",
+		"稀释弱酸",
+		"电离常数 Ka",
+		"用 Ka 判断反应",
+		"强酸与弱酸比较"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"弱电解质",
+				true
+			],
+			[
+				"的电离平衡"
+			]
+		],
+		"subtitle": "部分电离 · 稀释 · 电离常数 · 强酸制弱酸",
+		"photo": "arrhenius.jpg",
+		"photoCaption": "阿伦尼乌斯：提出电离理论",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"弱电解质",
+					true
+				]
+			],
+			[
+				[
+					"的电离平衡"
+				]
+			]
+		],
+		"photo": "arrhenius.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "阿伦尼乌斯",
+		"credit": "Meisenbach Riffarth & Co., PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "BaSO4 难溶于水，所以是弱电解质",
+				"ok": false,
+				"fix": "溶解部分全部电离，是强电解质"
+			},
+			{
+				"q": "H2CO3 的电离方程式：H2CO3 ⇌ 2H^+ + CO3^2-",
+				"ok": false,
+				"fix": "分步电离，以第一步为主"
+			},
+			{
+				"q": "稀释醋酸溶液，n(H^+) 增大，c(H^+) 减小",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "加入少量冰醋酸，醋酸的电离程度增大",
+				"ok": false,
+				"fix": "平衡正移，但电离程度减小"
+			},
+			{
+				"q": "NaClO 溶液中通入少量 CO2 生成 Na2CO3",
+				"ok": false,
+				"fix": "生成 NaHCO3 和 HClO"
+			},
+			{
+				"q": "等 pH 的盐酸和醋酸，中和 NaOH 的能力醋酸更强",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"弱电解质",
+				true
+			],
+			[
+				"的电离平衡"
+			]
+		],
+		"endLine": "越稀越电离，强酸制弱酸",
+		"slogan": "越稀越电离，强酸制弱酸"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Meisenbach Riffarth & Co. 照相凹版《Svante Arrhenius》，公有领域；插图来自 pixiv：MOKOLS、たるむ、Shidqi F R（侵删）",
+	"anime": [
+		{
+			"key": "rice",
+			"src": "rice.jpg",
+			"credit": "插图：MOKOLS《gfdgfd》pixiv #129020873",
+			"url": "https://www.pixiv.net/artworks/129020873"
+		},
+		{
+			"key": "box",
+			"src": "box.jpg",
+			"credit": "插图：たるむ《やが君落書き》pixiv #72191021",
+			"url": "https://www.pixiv.net/artworks/72191021"
+		},
+		{
+			"key": "star",
+			"src": "star.jpg",
+			"credit": "插图：Shidqi F R《Chibi Kasumi Toyama》pixiv #135059433",
+			"url": "https://www.pixiv.net/artworks/135059433"
+		}
+	]
+}

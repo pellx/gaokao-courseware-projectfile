@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第五章第一节的上半部分——酶的作用和本质。",
+		"seconds": 7.896
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考比较过氧化氢分解的实验、变量的判断，以及活化能示意图。",
+		"seconds": 6.792
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"mb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，细胞代谢。细胞中每时每刻都进行着许多化学反应，统称为细胞代谢。",
+		"seconds": 8.376
+	},
+	"mb2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞代谢离不开酶的催化，酶使细胞代谢能在温和条件下快速有序地进行。",
+		"seconds": 7.512
+	},
+	"mb3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：细胞代谢的主要场所是细胞质基质，细胞代谢的控制中心是细胞核，两者别混。",
+		"seconds": 8.712
+	},
+	"hp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，比较过氧化氢在不同条件下的分解。四支试管各加2毫升过氧化氢溶液：1号常温，2号90摄氏度水浴，3号滴加氯化铁溶液，4号滴加肝脏研磨液。",
+		"seconds": 16.32
+	},
+	"hp2": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：4号产生气泡最多、最快，带火星的卫生香复燃最猛烈；3号次之，2号也有气泡，1号几乎没有。",
+		"seconds": 10.896
+	},
+	"hp3": {
+		"key": "zh-CN-XiaoxiaoNeural|说明加热、铁离子和过氧化氢酶都能加快过氧化氢分解，而酶的催化效率更高。",
+		"seconds": 8.04
+	},
+	"hp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：肝脏要新鲜，久置的肝脏中过氧化氢酶会因微生物作用而被破坏；研磨是为了让酶充分释放。",
+		"seconds": 9.84
+	},
+	"vb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，变量与对照实验。实验中人为改变的变量叫自变量，比如温度、催化剂的种类。",
+		"seconds": 9.096
+	},
+	"vb2": {
+		"key": "zh-CN-XiaoxiaoNeural|随自变量变化而变化的叫因变量，比如过氧化氢的分解速率，用气泡多少、卫生香复燃程度来检测。",
+		"seconds": 9.816
+	},
+	"vb3": {
+		"key": "zh-CN-XiaoxiaoNeural|其他对实验结果有影响的可变因素叫无关变量，比如过氧化氢的浓度和用量，各组要相同且适宜。",
+		"seconds": 9.312
+	},
+	"vb4": {
+		"key": "zh-CN-XiaoxiaoNeural|除自变量外，其他因素都保持不变的实验叫对照实验，包括对照组和实验组。",
+		"seconds": 7.632
+	},
+	"vb5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看题目“探究甲对乙的影响”——甲是自变量，乙是因变量；本实验的1号试管是对照组。",
+		"seconds": 9.24
+	},
+	"av1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，酶的作用原理。分子从常态转变为容易发生化学反应的活跃状态所需要的能量，叫活化能。",
+		"seconds": 9.912
+	},
+	"av2": {
+		"key": "zh-CN-XiaoxiaoNeural|加热是为反应提供能量；而酶和无机催化剂都是降低化学反应的活化能。",
+		"seconds": 7.224
+	},
+	"av3": {
+		"key": "zh-CN-XiaoxiaoNeural|同无机催化剂相比，酶降低活化能的作用更显著，所以催化效率更高。",
+		"seconds": 7.056
+	},
+	"av4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酶不为反应提供能量，也不改变反应的平衡点，只是加快反应速率。",
+		"seconds": 7.104
+	},
+	"dg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，活化能示意图。纵轴是能量，曲线最高点与反应物所处能量之差，就是活化能。",
+		"seconds": 9.216
+	},
+	"dg2": {
+		"key": "zh-CN-XiaoxiaoNeural|没有催化剂时活化能最大；无机催化剂降低一部分；酶降低得更多。",
+		"seconds": 6.912
+	},
+	"dg3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：酶降低的活化能，等于无催化剂时的活化能减去有酶时的活化能，也就是两条曲线最高点之差。",
+		"seconds": 10.008
+	},
+	"hs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，关于酶本质的探索。巴斯德认为发酵与活细胞有关；李比希认为引起发酵的是酵母菌细胞中的某些物质，但只有在细胞死亡并裂解后才能发挥作用。",
+		"seconds": 14.976
+	},
+	"hs2": {
+		"key": "zh-CN-XiaoxiaoNeural|毕希纳把酵母菌细胞研磨、过滤得到提取液，提取液也能使糖液变成酒，他把其中引起发酵的物质称为酿酶。",
+		"seconds": 10.416
+	},
+	"hs3": {
+		"key": "zh-CN-XiaoxiaoNeural|萨姆纳从刀豆种子中提取到脲酶结晶，并证明脲酶是蛋白质。",
+		"seconds": 6.36
+	},
+	"hs4": {
+		"key": "zh-CN-XiaoxiaoNeural|二十世纪八十年代，切赫和奥尔特曼发现少数RNA也具有生物催化功能。",
+		"seconds": 7.368
+	},
+	"hs5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断各位科学家的结论。易错：毕希纳证明了酿酶离开活细胞也能起作用，证明酶是蛋白质的是萨姆纳。",
+		"seconds": 11.568
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，酶的概念。酶是活细胞产生的、具有催化作用的有机物，其中绝大多数是蛋白质，少数是RNA。",
+		"seconds": 10.68
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以酶的基本单位是氨基酸或核糖核苷酸。",
+		"seconds": 4.728
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酶在细胞内外都能起作用，比如消化酶在消化道中起作用；酶只有催化作用，没有调节作用。",
+		"seconds": 9.84
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，酶是降低活化能。判断二？错，加热是提供能量。",
+		"seconds": 7.992
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？对。",
+		"seconds": 4.656
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，酶在细胞内外都能起作用。判断六？错，少数酶是RNA。",
+		"seconds": 9.12
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：酶不供能，只降低活化能。我们下期再见！",
+		"seconds": 6.72
+	}
+}

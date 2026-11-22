@@ -1,0 +1,138 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第二章第一节的下半部分——观察实验与受精作用。",
+		"seconds": 8.568
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考实验材料的选择、受精作用、配子多样性的原因和异常配子的分析。",
+		"seconds": 7.488
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"ob1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，观察蝗虫精母细胞减数分裂装片。材料选雄性蝗虫的精巢。",
+		"seconds": 7.368
+	},
+	"ob2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：精巢中进行减数分裂的细胞数量多；而卵巢中卵原细胞少，减数分裂二要受精时才完成，过程不完整。",
+		"seconds": 11.208
+	},
+	"ob3": {
+		"key": "zh-CN-XiaoxiaoNeural|步骤：先在低倍镜下找到初级精母细胞、次级精母细胞和精细胞，再换高倍镜观察。",
+		"seconds": 8.4
+	},
+	"ob4": {
+		"key": "zh-CN-XiaoxiaoNeural|依据染色体的形态、位置和数目，判断细胞处于哪个时期。",
+		"seconds": 5.712
+	},
+	"ob5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：装片中的细胞已经死亡，看不到一个细胞连续分裂的动态过程，只能观察不同细胞所处的不同时期。",
+		"seconds": 9.6
+	},
+	"mo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，建立减数分裂中染色体变化的模型。用橡皮泥做染色体，两种颜色分别代表来自父方和母方。",
+		"seconds": 10.56
+	},
+	"mo2": {
+		"key": "zh-CN-XiaoxiaoNeural|长短不同的代表非同源染色体；两条同样颜色、同样长短的并在一起，代表复制后的姐妹染色单体。",
+		"seconds": 9.696
+	},
+	"mo3": {
+		"key": "zh-CN-XiaoxiaoNeural|在纸上画出纺锤体，把模型摆在上面，依次模拟联会、同源染色体分离、着丝粒分裂等变化。",
+		"seconds": 9.168
+	},
+	"mo4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：模拟非同源染色体的自由组合，至少需要两对同源染色体；这是物理模型。",
+		"seconds": 8.088
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，受精作用：卵细胞和精子相互识别、融合成为受精卵的过程。",
+		"seconds": 7.272
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|精子的头部进入卵细胞，卵细胞膜立即发生反应，阻止其他精子进入；然后精子的细胞核与卵细胞的细胞核融合。",
+		"seconds": 10.536
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|受精卵中的染色体，一半来自精子，一半来自卵细胞，染色体数目恢复到体细胞的数目。",
+		"seconds": 8.424
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：受精卵中的细胞质几乎全部来自卵细胞，所以说遗传物质“一半来自父方、一半来自母方”是错的，只能说核遗传物质各一半。",
+		"seconds": 12.192
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，减数分裂和受精作用的意义。亲代 2n 经减数分裂产生 n 的配子，配子经受精作用形成 2n 的受精卵。",
+		"seconds": 11.856
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以二者共同维持了每种生物前后代体细胞中染色体数目的恒定。",
+		"seconds": 6.48
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|同时，减数分裂产生多样的配子，受精时配子随机结合，使后代呈现多样性，有利于适应多变的环境。",
+		"seconds": 10.128
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：对生物的遗传和变异都十分重要。易错：受精卵之后的个体发育靠的是有丝分裂，不是减数分裂。",
+		"seconds": 10.416
+	},
+	"dv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，配子多样性的原因。第一，减数分裂一后期，非同源染色体自由组合。两对同源染色体就有两种排列方式。",
+		"seconds": 12
+	},
+	"dv2": {
+		"key": "zh-CN-XiaoxiaoNeural|n对同源染色体，就能产生二的n次方种配子，人有23对，就是二的23次方种。",
+		"seconds": 8.52
+	},
+	"dv3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，减数分裂一前期，四分体中的非姐妹染色单体之间常发生互换，进一步增加了配子的种类。",
+		"seconds": 9.312
+	},
+	"dv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：互换发生在非姐妹染色单体之间，不是姐妹染色单体；再加上受精时卵细胞和精子随机结合，后代就更加多样。",
+		"seconds": 11.52
+	},
+	"ab1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，异常配子分析，以 XXY 为例。父方减数分裂一时 X 和 Y 没有分离，产生 XY 精子，与 X 卵细胞结合，得到 XXY。",
+		"seconds": 13.68
+	},
+	"ab2": {
+		"key": "zh-CN-XiaoxiaoNeural|母方减数分裂一或减数分裂二异常，产生 XX 卵细胞，与 Y 精子结合，也得到 XXY。",
+		"seconds": 8.832
+	},
+	"ab3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：色觉正常的夫妇生了一个色盲的 X小bX小bY 男孩，X小bX小b 只能来自母亲 X大BX小b 的减数分裂二异常。",
+		"seconds": 12.288
+	},
+	"ab4": {
+		"key": "zh-CN-XiaoxiaoNeural|而 XYY 的男孩，多出来的是两条相同的 Y，来自父方的减数分裂二异常。",
+		"seconds": 7.296
+	},
+	"ab5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：异常配子含一对同源染色体，比如XY、大A小a，是减数分裂一异常；含两条相同染色体，比如大Y大Y、大A大A，是减数分裂二异常。",
+		"seconds": 14.832
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，应选雄性的精巢。判断二？错，细胞质几乎都来自卵细胞。",
+		"seconds": 8.592
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，是非姐妹染色单体。",
+		"seconds": 6.624
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，大Y大Y 精子来自父方减数分裂二异常。",
+		"seconds": 8.544
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：一对同源看减一，两条相同看减二。我们下期再见！",
+		"seconds": 7.608
+	}
+}

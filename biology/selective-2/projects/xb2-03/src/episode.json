@@ -1,0 +1,37 @@
+{
+	"id": "XB2-03",
+	"title": "影响种群数量变化的因素",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第1章",
+	"points": ["非生物因素", "生物因素", "密度制约因素", "捕食者与猎物曲线", "保护濒危动物", "防治与渔业"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["影响种群数量"], ["变化的因素", true]],
+		"subtitle": "非生物因素 · 生物因素 · 密度制约",
+		"photo": "hare.jpg",
+		"photoCaption": "夏季的雪兔",
+		"photoPos": "55% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["影响种群数量"]], [["变化的因素", true]]],
+		"photo": "hare.jpg",
+		"photoPos": "55% center",
+		"photoTag": "雪兔：猞猁的猎物",
+		"credit": "Photo: GlacierNPS, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "林下植物的种群密度主要取决于光照", "ok": true, "fix": ""},
+			{"q": "气温、干旱属于密度制约因素", "ok": false, "fix": "属于非密度制约因素"},
+			{"q": "食物和天敌属于密度制约因素", "ok": true, "fix": ""},
+			{"q": "猞猁和雪兔的曲线中，先增先减的是猞猁", "ok": false, "fix": "先增先减的是被捕食者雪兔"},
+			{"q": "非生物因素的影响往往是综合性的", "ok": true, "fix": ""},
+			{"q": "干旱年份东亚飞蝗种群数量往往下降", "ok": false, "fix": "干旱年份飞蝗往往爆发"}
+		],
+		"endTitle": [["影响种群数量"], ["变化的因素", true]],
+		"endLine": "非生物因素 · 生物因素 · 密度制约 · 捕食曲线 · 种群研究的应用",
+		"slogan": "先增先减是猎物，气候灾害不制约！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— GlacierNPS《Summer snowshoe hare》Public domain"
+}

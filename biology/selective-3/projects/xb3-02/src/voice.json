@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第一章第二节的上半部分——微生物的纯培养。",
+		"seconds": 8.664
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考培养基的成分和类型、消毒与灭菌的区别，以及倒平板和平板划线的操作细节。",
+		"seconds": 8.448
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"md1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，培养基的成分。培养基是人们按照微生物对营养物质的不同需求，配制出的供其生长繁殖的营养基质。",
+		"seconds": 10.992
+	},
+	"md2": {
+		"key": "zh-CN-XiaoxiaoNeural|培养基一般都含有水、碳源、氮源和无机盐这四类基本成分。",
+		"seconds": 6.528
+	},
+	"md3": {
+		"key": "zh-CN-XiaoxiaoNeural|还要满足微生物对pH、特殊营养物质和氧气的要求。比如培养乳酸杆菌要添加维生素。",
+		"seconds": 9.216
+	},
+	"md4": {
+		"key": "zh-CN-XiaoxiaoNeural|培养霉菌时，要把培养基调至酸性；培养细菌时，一般调至中性或弱碱性；培养厌氧微生物要提供无氧条件。",
+		"seconds": 10.968
+	},
+	"md5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：并不是所有培养基都要加有机碳源。自养微生物，比如硝化细菌，能利用二氧化碳，培养基里可以不加有机碳源。",
+		"seconds": 11.976
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，培养基的类型。按物理状态分，有液体培养基和固体培养基。",
+		"seconds": 7.368
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|在液体培养基中加入琼脂等凝固剂，就制成了固体培养基。琼脂是一种多糖，一般不能被微生物利用。",
+		"seconds": 9.768
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|固体培养基用于微生物的分离、计数和观察菌落；液体培养基常用于扩大培养和工业生产。",
+		"seconds": 8.928
+	},
+	"ty4": {
+		"key": "zh-CN-XiaoxiaoNeural|按功能分，还有选择培养基和鉴别培养基，下期详细讲。",
+		"seconds": 5.904
+	},
+	"ty5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出配方判断类型。解题方法：有琼脂就是固体；只能让某一类微生物生长的就是选择培养基。",
+		"seconds": 10.176
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，消毒和灭菌。获得纯净的微生物培养物，关键是防止杂菌污染，也就是无菌技术。",
+		"seconds": 9.24
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|消毒，是使用较为温和的物理、化学或生物等方法，杀死物体表面或内部一部分微生物。",
+		"seconds": 8.592
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|灭菌，是使用强烈的理化方法，杀死物体内外所有的微生物，包括芽孢和孢子。",
+		"seconds": 7.512
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看对象能不能耐受——操作者的双手、牛奶这类不耐高温的对象只能消毒；培养基、器具要灭菌。",
+		"seconds": 10.512
+	},
+	"mt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，常用的灭菌和消毒方法。接种环、接种针、试管口，用灼烧灭菌。",
+		"seconds": 8.184
+	},
+	"mt2": {
+		"key": "zh-CN-XiaoxiaoNeural|玻璃器皿和金属用具，用干热灭菌，放在干热灭菌箱中。",
+		"seconds": 5.808
+	},
+	"mt3": {
+		"key": "zh-CN-XiaoxiaoNeural|培养基，用湿热灭菌，最常用的是高压蒸汽灭菌，在100千帕、121摄氏度条件下维持15到30分钟。",
+		"seconds": 10.704
+	},
+	"mt4": {
+		"key": "zh-CN-XiaoxiaoNeural|消毒方法有：牛奶用巴氏消毒法，双手用酒精擦拭，接种室用紫外线照射。",
+		"seconds": 7.992
+	},
+	"mt5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：培养基不能用干热灭菌，因为它含水；玻璃器皿要先干燥再干热灭菌。",
+		"seconds": 7.92
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，微生物纯培养的步骤。由单一个体繁殖所获得的微生物群体，叫作纯培养物。",
+		"seconds": 8.664
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|步骤是：配制培养基、灭菌、倒平板、接种、分离和培养。",
+		"seconds": 6.408
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|分散的微生物在固体培养基上繁殖，形成肉眼可见的、有一定形态结构的子细胞群体，叫作菌落。",
+		"seconds": 9.384
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：排序题。易错：是先灭菌、后倒平板，倒平板之后不能再灭菌。",
+		"seconds": 7.992
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，倒平板。等培养基冷却到50摄氏度左右，在酒精灯火焰附近操作。",
+		"seconds": 8.016
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|用左手打开培养皿盖的一条缝隙，右手把培养基倒入培养皿，立刻盖上皿盖。",
+		"seconds": 7.44
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|等培养基冷却凝固后，把平板倒过来放置，使皿盖在下、皿底在上。",
+		"seconds": 6.936
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问平板倒置的原因。答：防止皿盖上的冷凝水落入培养基，造成污染。",
+		"seconds": 8.184
+	},
+	"sk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，平板划线法。用接种环在固体培养基表面连续划线，把聚集的菌种逐步稀释分散，最终得到由单个细胞繁殖成的菌落。",
+		"seconds": 12.696
+	},
+	"sk2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二次及以后的划线，都要从上一次划线的末端开始，最后一区不要与第一区相连。",
+		"seconds": 7.704
+	},
+	"sk3": {
+		"key": "zh-CN-XiaoxiaoNeural|接种环每次划线前后都要灼烧：第一次灼烧，杀死环上原有的微生物。",
+		"seconds": 6.864
+	},
+	"sk4": {
+		"key": "zh-CN-XiaoxiaoNeural|每次划线之前灼烧，是杀死上次残留的菌种，使每次划线的菌种都来自上次划线的末端。",
+		"seconds": 8.616
+	},
+	"sk5": {
+		"key": "zh-CN-XiaoxiaoNeural|划线结束后灼烧，是防止菌种污染环境和感染操作者。灼烧后要冷却再划线，以免烫死菌种。",
+		"seconds": 9.552
+	},
+	"sk6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：灼烧次数。解题方法：划了N个区域，接种环就要灼烧N加1次。",
+		"seconds": 7.8
+	},
+	"ys1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，实验：酵母菌的纯培养。步骤：制备马铃薯琼脂培养基、灭菌、倒平板，再用平板划线法接种。",
+		"seconds": 10.896
+	},
+	"ys2": {
+		"key": "zh-CN-XiaoxiaoNeural|把接种后的平板和一个未接种的平板一起倒置，放入恒温培养箱中培养。",
+		"seconds": 6.912
+	},
+	"ys3": {
+		"key": "zh-CN-XiaoxiaoNeural|未接种的平板是对照：如果它上面也长出菌落，说明培养基被污染了。",
+		"seconds": 6.768
+	},
+	"ys4": {
+		"key": "zh-CN-XiaoxiaoNeural|观察菌落时，看它的形状、大小、隆起程度和颜色。不同微生物的菌落特征不同，可以用来鉴别菌种。",
+		"seconds": 9.96
+	},
+	"ys5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问设置未接种平板的目的。解题方法：答“检验培养基是否被污染”，也就是灭菌是否合格。",
+		"seconds": 10.056
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：培养基都必须含有机碳源？错，自养微生物可以不加。判断二：琼脂是凝固剂，一般不被微生物利用？对。",
+		"seconds": 12.384
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：消毒能杀死物体内外所有微生物？错，那是灭菌。判断四：培养基常用高压蒸汽灭菌？对。",
+		"seconds": 11.496
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：平板划线只在开始前灼烧接种环？错，每次划线前后都要灼烧。判断六：平板倒置可防止冷凝水滴落造成污染？对。",
+		"seconds": 14.328
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：无菌贯穿始终，灼烧前后都要做。我们下期再见！",
+		"seconds": 7.488
+	}
+}

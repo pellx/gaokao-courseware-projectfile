@@ -1,0 +1,130 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第五章第二节——细胞的能量“货币”ATP。",
+		"seconds": 7.896
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考ATP的结构、ATP与ADP的相互转化，以及吸能反应和放能反应。",
+		"seconds": 7.8
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，ATP的结构。ATP是腺苷三磷酸的英文名称缩写，结构简式是A，P，P，P。",
+		"seconds": 9.984
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中A代表腺苷，由腺嘌呤和核糖组成；P代表磷酸基团。",
+		"seconds": 6.432
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|ATP由碳、氢、氧、氮、磷五种元素组成。",
+		"seconds": 4.968
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：ATP中的“A”是腺苷，而DNA和RNA中的“A”是腺嘌呤，两者不同。",
+		"seconds": 8.088
+	},
+	"bd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，特殊的化学键。ATP中相邻磷酸基团之间的化学键是一种特殊的化学键，用波浪线表示，一个ATP中有2个。",
+		"seconds": 11.976
+	},
+	"bd2": {
+		"key": "zh-CN-XiaoxiaoNeural|磷酸基团都带负电荷而相互排斥，使这种化学键不稳定，末端磷酸基团有较高的转移势能。",
+		"seconds": 8.856
+	},
+	"bd3": {
+		"key": "zh-CN-XiaoxiaoNeural|ATP水解时，远离A的那个特殊化学键容易断裂，释放能量。",
+		"seconds": 6.144
+	},
+	"bd4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：一个ATP有2个特殊化学键、3个磷酸基团；水解时一般只断裂末端那一个。",
+		"seconds": 8.688
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，ATP与ADP的相互转化。ATP在酶的作用下水解，远离A的特殊化学键断裂，形成ADP和P i，释放能量。",
+		"seconds": 12.528
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|ADP在酶的作用下接受能量，与P i结合，重新形成ATP。",
+		"seconds": 6.624
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|这种转化时刻不停地发生，并且处于动态平衡之中。",
+		"seconds": 5.136
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这种转化不是可逆反应，因为两个方向的酶不同、能量来源和去路不同。",
+		"seconds": 7.488
+	},
+	"sr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，合成ATP的能量来源。对于动物、人、真菌和大多数细菌来说，能量来自细胞呼吸。",
+		"seconds": 9.912
+	},
+	"sr2": {
+		"key": "zh-CN-XiaoxiaoNeural|对于绿色植物来说，能量来自细胞呼吸和光合作用。",
+		"seconds": 5.328
+	},
+	"sr3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以合成ATP的场所：动物细胞是细胞质基质和线粒体；植物细胞还有叶绿体。",
+		"seconds": 8.28
+	},
+	"sr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：叶绿体光反应产生的ATP，主要用于暗反应，一般不用于细胞的其他生命活动。",
+		"seconds": 8.04
+	},
+	"rx1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，ATP的利用。许多吸能反应与ATP水解相联系，比如蛋白质的合成、主动运输、肌肉收缩。",
+		"seconds": 10.536
+	},
+	"rx2": {
+		"key": "zh-CN-XiaoxiaoNeural|许多放能反应与ATP的合成相联系，释放的能量储存在ATP中，比如葡萄糖的氧化分解。",
+		"seconds": 8.928
+	},
+	"rx3": {
+		"key": "zh-CN-XiaoxiaoNeural|能量通过ATP分子在吸能反应和放能反应之间流通，所以ATP被称为细胞的能量“货币”。",
+		"seconds": 9.048
+	},
+	"rx4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看反应耗能还是放能——耗能的伴随ATP水解，放能的伴随ATP合成。",
+		"seconds": 8.496
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，易错辨析。ATP在细胞中含量很少，但与ADP的转化非常迅速。",
+		"seconds": 8.136
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|ATP脱去两个磷酸基团后，就是腺嘌呤核糖核苷酸，是组成RNA的基本单位之一。",
+		"seconds": 8.28
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|安静和运动时，细胞中ATP的含量都相对稳定，变化的是ATP与ADP的转化速率。",
+		"seconds": 8.736
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到“ATP含量大量增加”“ATP大量储存”这类说法，一般是错的。",
+		"seconds": 7.368
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，A代表腺苷。判断二？错，只有2个。",
+		"seconds": 6.864
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，不是可逆反应。判断四？对。",
+		"seconds": 6
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，ATP含量相对稳定。判断六？对。",
+		"seconds": 6.696
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：ATP含量少、转化快，连接吸能反应和放能反应。我们下期再见！",
+		"seconds": 9.168
+	}
+}

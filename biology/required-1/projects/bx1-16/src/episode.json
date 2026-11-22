@@ -1,0 +1,38 @@
+{
+	"id": "BX1-16",
+	"title": "细胞的能量“货币”ATP",
+	"subject": "biology",
+	"book": "人教版·必修1·第5章",
+	"points": ["ATP的结构", "特殊的化学键", "ATP与ADP的转化", "合成ATP的能量来源", "吸能与放能反应", "易错辨析"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞的能量“货币”"], ["ATP", true]],
+		"subtitle": "结构 · 相互转化 · 能量来源与利用",
+		"photo": "firefly.jpg",
+		"photoCaption": "萤火虫发光：ATP 提供能量",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞的能量"]], [["“货币”"], ["ATP", true]]],
+		"kicker": "结构 · 转化 · 利用",
+		"photo": "firefly.jpg",
+		"photoPos": {"16x9": "center center", "4x3": "center center", "3x4": "center 68%"},
+		"photoTag": "萤火虫",
+		"credit": "Photo: art farmer, CC BY-SA 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "ATP中的A代表腺嘌呤", "ok": false, "fix": "代表腺苷（腺嘌呤＋核糖）"},
+			{"q": "一个ATP分子中含有3个特殊的化学键", "ok": false, "fix": "含有2个特殊的化学键"},
+			{"q": "ATP与ADP的相互转化是可逆反应", "ok": false, "fix": "酶、能量和场所不同，不是可逆反应"},
+			{"q": "植物合成ATP的能量来自呼吸和光合作用", "ok": true, "fix": ""},
+			{"q": "剧烈运动时细胞中ATP含量大量增加", "ok": false, "fix": "含量相对稳定，转化速率加快"},
+			{"q": "ATP脱去两个磷酸基团后是RNA的单体之一", "ok": true, "fix": ""}
+		],
+		"endTitle": [["细胞的能量“货币”"], ["ATP", true]],
+		"endLine": "结构 · 特殊化学键 · 相互转化 · 吸能与放能",
+		"slogan": "含量少、转化快，吸能放能靠它连！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— art farmer《Photinus pyralis Firefly glowing》CC BY-SA 2.0"
+}

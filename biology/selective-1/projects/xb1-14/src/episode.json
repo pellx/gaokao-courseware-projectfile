@@ -1,0 +1,98 @@
+{
+	"id": "XB1-14",
+	"title": "特异性免疫（上）：体液免疫",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第4章",
+	"points": [
+		"病原体的识别",
+		"B细胞的激活",
+		"浆细胞与记忆B细胞",
+		"识别抗原的细胞",
+		"二次免疫",
+		"二次免疫曲线",
+		"抗体的本质与分布"
+	],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [
+			[
+				"特异性免疫："
+			],
+			[
+				"体液免疫",
+				true
+			]
+		],
+		"subtitle": "两个信号 · 浆细胞 · 二次免疫",
+		"photo": "behring.jpg",
+		"photoCaption": "贝林：发现抗毒素（抗体）",
+		"photoPos": "50% 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [
+			[
+				[
+					"特异性免疫"
+				]
+			],
+			[
+				[
+					"体液免疫",
+					true
+				]
+			]
+		],
+		"kicker": "B细胞的激活 · 二次免疫",
+		"photo": "behring.jpg",
+		"photoPos": "50% 30%",
+		"photoTag": "贝林：抗毒素的发现者",
+		"credit": "Photo: Luigi Lamarra, public domain"
+	},
+	"review": {
+		"items": [
+			{
+				"q": "浆细胞能特异性识别抗原",
+				"ok": false,
+				"fix": "浆细胞不能识别抗原"
+			},
+			{
+				"q": "激活B细胞需要两个信号",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "记忆B细胞能直接产生大量抗体",
+				"ok": false,
+				"fix": "先增殖分化为浆细胞"
+			},
+			{
+				"q": "二次免疫反应更快、更强",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "一个浆细胞能产生多种抗体",
+				"ok": false,
+				"fix": "只能产生一种抗体"
+			},
+			{
+				"q": "抗体主要分布在细胞内",
+				"ok": false,
+				"fix": "主要分布在血清中"
+			}
+		],
+		"endTitle": [
+			[
+				"特异性免疫"
+			],
+			[
+				"体液免疫",
+				true
+			]
+		],
+		"endLine": "两个信号 · 浆细胞 · 记忆B细胞 · 二次免疫",
+		"slogan": "抓住两个信号，体液免疫不丢分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Luigi Lamarra《Emil Behring 1896 Neapel》Public domain"
+}

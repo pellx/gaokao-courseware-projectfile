@@ -1,0 +1,38 @@
+{
+	"id": "BX2-05",
+	"title": "减数分裂和受精作用（上）：减数分裂",
+	"subject": "biology",
+	"book": "人教版·必修2·第2章",
+	"points": ["减数分裂的概念", "同源染色体与四分体", "减数分裂Ⅰ", "减数分裂Ⅱ", "精子与卵细胞形成", "染色体与DNA变化", "分裂图像辨析", "配子的种类"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["减数"], ["分裂", true]],
+		"subtitle": "减数分裂和受精作用（上） · 同源染色体 · 四分体",
+		"photo": "boveri.jpg",
+		"photoCaption": "博韦里：研究染色体与遗传的先驱",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["减数"]], [["分裂", true]]],
+		"kicker": "四分体 · 曲线 · 图像辨析",
+		"photo": "boveri.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "染色体的行为",
+		"credit": "Theodor Boveri, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "四分体是指一个细胞中含有四条染色体", "ok": false, "fix": "是联会后的一对同源染色体（4 条染色单体）"},
+			{"q": "染色体数目减半发生在减数分裂Ⅱ", "ok": false, "fix": "发生在减数分裂Ⅰ"},
+			{"q": "后期Ⅱ细胞中的染色体数与体细胞相同", "ok": true, "fix": ""},
+			{"q": "细胞质均等分裂的细胞一定来自精子的形成过程", "ok": false, "fix": "也可能是第一极体"},
+			{"q": "一个 AaBb 精原细胞（不考虑互换）产生 4 种精子", "ok": false, "fix": "只产生 2 种"},
+			{"q": "有丝分裂过程中也存在同源染色体", "ok": true, "fix": ""}
+		],
+		"endTitle": [["减数"], ["分裂", true]],
+		"endLine": "同源染色体 · 四分体 · 减Ⅰ减半 · 减Ⅱ分姐妹 · 三看辨图",
+		"slogan": "减Ⅰ分同源，减Ⅱ分姐妹！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 佚名《Theodor Boveri》Public domain"
+}

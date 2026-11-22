@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|能层、能级与原子轨道。",
+		"seconds": 3.12
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这是选择性必修二的第一课，选择题和结构大题都会考：能级的符号与容量、光谱与焰色、s、p轨道的形状，共七个考点。",
+		"seconds": 12.048
+	},
+	"sh1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，能层与能级。核外电子按能量不同分成能层，第一到第七能层依次用 K、L、M、N、O、P、Q 表示。",
+		"seconds": 12.216
+	},
+	"sh2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一能层的电子，能量也可能不同，又分成能级，用 s、p、d、f 表示。",
+		"seconds": 7.944
+	},
+	"sh3": {
+		"key": "zh-CN-XiaoxiaoNeural|规律一：能级数等于能层序数。K层只有1s；L层有2s、2p；M层有3s、3p、3d；N层有4s、4p、4d、4f。",
+		"seconds": 14.688
+	},
+	"sh4": {
+		"key": "zh-CN-XiaoxiaoNeural|规律二：任一能层都从s能级开始；第一能层没有p能级，第二能层没有d能级。",
+		"seconds": 7.992
+	},
+	"sh4b": {
+		"key": "zh-CN-XiaoxiaoNeural|能层就像楼层，能级就像同一层里的台阶：楼层越高，爬上去要的能量越多。",
+		"seconds": 7.368
+	},
+	"sh5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二d、三f这样的能级不存在；判断时看能级字母是否超出这一能层的能级数。",
+		"seconds": 8.496
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，各能层、能级最多容纳的电子数。s、p、d、f 能级最多分别容纳2、6、10、14个电子。",
+		"seconds": 11.448
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|把一个能层里各能级的容量加起来，第n能层最多容纳2n的平方个电子：K层2个，L层8个，M层18个，N层32个。",
+		"seconds": 11.904
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一能层中，不同能级的能量顺序是 n s 小于 n p 小于 n d 小于 n f。",
+		"seconds": 7.368
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问某能级最多容纳几个电子，或判断某种排布是否超过容量。解题方法：s、p、d、f，2、6、10、14，是公差为4的数列。",
+		"seconds": 14.88
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，基态与激发态、原子光谱。处于最低能量状态的原子叫基态原子；基态原子吸收能量，电子跃迁到较高能级，变成激发态原子。",
+		"seconds": 13.92
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子从基态跃迁到激发态，要吸收能量，得到吸收光谱；从激发态跃迁回较低能级，释放能量，得到发射光谱。",
+		"seconds": 10.944
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|不同元素原子的电子跃迁时吸收或发射的光不同，所以可以用光谱分析鉴定元素，氦就是这样在太阳光谱中被发现的。",
+		"seconds": 10.728
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|焰色试验、霓虹灯、激光、烟花，都是电子从激发态跃迁回较低能级时，以光的形式释放能量。",
+		"seconds": 9.552
+	},
+	"sp4b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像这支仙女棒：电子先被“点燃”跃迁上去，再跳回来，能量就变成了一闪一闪的光。",
+		"seconds": 7.992
+	},
+	"sp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：焰色试验是物理变化，体现的是元素的性质；发光是电子跃迁“回来”时释放能量，不是“上去”时。",
+		"seconds": 9.744
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，电子云。核外电子的运动没有确定的轨迹，我们只能描述电子在某处出现的概率。",
+		"seconds": 9.048
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|用小黑点的疏密表示电子在核外各处出现的概率密度，得到的图像叫电子云：点密的地方，电子出现的概率大。",
+		"seconds": 10.512
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|注意：一个小黑点不代表一个电子，而是电子在这里出现过一次。",
+		"seconds": 6.312
+	},
+	"cl3b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像这张图里的很多个粉头发的女孩，其实是同一个人在房间里待过的不同位置；人越常去的地方，身影就越密。",
+		"seconds": 10.008
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|把电子出现概率约为百分之九十的空间圈出来，就得到电子云轮廓图，也就是我们常画的原子轨道形状。",
+		"seconds": 9.384
+	},
+	"cl5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：小黑点越密，说明电子出现的概率越大，不是电子越多；电子云图不表示电子的运动轨迹。",
+		"seconds": 9.12
+	},
+	"ob1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，原子轨道。电子云轮廓图就叫原子轨道。s 轨道是球形，能层越高，球的半径越大。",
+		"seconds": 10.056
+	},
+	"ob2": {
+		"key": "zh-CN-XiaoxiaoNeural|p 轨道是哑铃形，有三个，分别沿 x、y、z 轴伸展，相互垂直，记作 p x、p y、p z。",
+		"seconds": 9.768
+	},
+	"ob3": {
+		"key": "zh-CN-XiaoxiaoNeural|n s、n p、n d、n f 能级分别有1、3、5、7个原子轨道，第n能层共有n的平方个原子轨道。",
+		"seconds": 10.2
+	},
+	"ob4": {
+		"key": "zh-CN-XiaoxiaoNeural|每个原子轨道最多容纳2个电子，所以能级容量正好是轨道数的两倍：2、6、10、14。",
+		"seconds": 9.312
+	},
+	"ob5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断轨道形状、数目。易错：p 能级的三个轨道能量相同，形状相同，只是伸展方向不同。",
+		"seconds": 10.296
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，能级能量的比较。同一能层：n s 小于 n p 小于 n d 小于 n f。",
+		"seconds": 8.088
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一种能级：能层越高能量越高，1 s 小于 2 s 小于 3 s 小于 4 s，2 p 小于 3 p 小于 4 p。",
+		"seconds": 10.392
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一能级的不同轨道能量相等：2 p x 等于 2 p y 等于 2 p z。",
+		"seconds": 6.744
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|但不同能层的能级会出现交错：4 s 的能量比 3 d 低，5 s 比 4 d 低，这在下一期的构造原理里会用到。",
+		"seconds": 10.152
+	},
+	"en5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先看是不是同一能层，再看是不是同一种能级；跨能层的 s 和 d，记住 n s 小于 n减1 d 小于 n p。",
+		"seconds": 11.04
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，易错辨析，四句话逐一判断。",
+		"seconds": 4.224
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一句：“能层越高，能级的能量一定越高。”错，4s比3d低。",
+		"seconds": 6.888
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二句：“原子轨道就是电子运动的固定路线。”错，轨道只是电子出现概率较大的区域。",
+		"seconds": 8.736
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三句：“p 能级能量一定比 s 能级高。”错，比较要在同一能层，3 s 就比 2 p 高。",
+		"seconds": 8.832
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|第四句：“第三能层有3个能级、9个原子轨道，最多容纳18个电子。”对。",
+		"seconds": 7.776
+	},
+	"tp6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：遇到“一定”“都”“就是”这类绝对化的说法，先找反例。",
+		"seconds": 5.52
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：第三能层有3 s、3 p、3 d 三个能级？对。判断二：二d能级最多容纳10个电子？错，第二能层根本没有 d 能级。",
+		"seconds": 13.632
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：焰色是电子吸收能量跃迁时发出的光？错，是跃迁回来时释放的。判断四：电子云图中一个小黑点代表一个电子？错。",
+		"seconds": 13.68
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：p 轨道呈哑铃形，三个 p 轨道相互垂直？对。判断六：能层越高，能级能量一定越高？错，4 s 比 3 d 低。",
+		"seconds": 13.008
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|能级数等于能层序数，s、p、d、f，2、6、10、14。下一期：核外电子排布的规则与表示。",
+		"seconds": 11.208
+	}
+}

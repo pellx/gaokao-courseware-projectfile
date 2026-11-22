@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第三章第一节——DNA 是主要的遗传物质。",
+		"seconds": 7.992
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考肺炎链球菌的转化实验、噬菌体侵染细菌实验和放射性误差分析。",
+		"seconds": 7.68
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"ea1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，对遗传物质的早期推测。20 世纪 20 年代，人们普遍认为蛋白质是遗传物质。",
+		"seconds": 8.88
+	},
+	"ea2": {
+		"key": "zh-CN-XiaoxiaoNeural|理由：蛋白质由多种氨基酸组成，氨基酸多种多样的排列顺序，可能蕴含着遗传信息。",
+		"seconds": 8.376
+	},
+	"ea3": {
+		"key": "zh-CN-XiaoxiaoNeural|到了 20 世纪 30 年代，人们才知道 DNA 由 4 种脱氧核苷酸聚合而成；但对 DNA 的结构了解不清，蛋白质是遗传物质的观点仍占主导。",
+		"seconds": 12.864
+	},
+	"ea4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断科学史的结论。思路是分别研究 DNA 和蛋白质的作用，下面两个经典实验都是这个思路。",
+		"seconds": 10.152
+	},
+	"gr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，格里菲思的体内转化实验。S 型细菌有荚膜，菌落光滑，有致病性；R 型细菌无荚膜，菌落粗糙，无致病性。",
+		"seconds": 12.168
+	},
+	"gr2": {
+		"key": "zh-CN-XiaoxiaoNeural|注射 R 型活菌，小鼠不死；注射 S 型活菌，小鼠死亡；注射加热致死的 S 型菌，小鼠不死。",
+		"seconds": 9.504
+	},
+	"gr3": {
+		"key": "zh-CN-XiaoxiaoNeural|把 R 型活菌和加热致死的 S 型菌混合注射，小鼠死亡，并从小鼠体内分离出了 S 型活菌。",
+		"seconds": 9
+	},
+	"gr4": {
+		"key": "zh-CN-XiaoxiaoNeural|结论：加热致死的 S 型细菌中，含有某种促使 R 型活菌转化为 S 型活菌的活性物质——转化因子。",
+		"seconds": 9.888
+	},
+	"gr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：格里菲思没有证明 DNA 是遗传物质；转化来的 S 型细菌，后代也是 S 型，说明转化是可遗传的。",
+		"seconds": 10.584
+	},
+	"av1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，艾弗里的体外转化实验。把 S 型细菌的细胞提取物分成几组，分别用不同的酶处理。",
+		"seconds": 9.408
+	},
+	"av2": {
+		"key": "zh-CN-XiaoxiaoNeural|不处理、加蛋白酶、加 RNA 酶、加酯酶的组，与 R 型活菌混合培养，都出现了 S 型细菌。",
+		"seconds": 9
+	},
+	"av3": {
+		"key": "zh-CN-XiaoxiaoNeural|只有加 DNA 酶的那一组，DNA 被水解，培养基上只有 R 型细菌。",
+		"seconds": 6.528
+	},
+	"av4": {
+		"key": "zh-CN-XiaoxiaoNeural|结论：DNA 才是使 R 型细菌产生稳定遗传变化的物质，也就是说，DNA 是遗传物质。",
+		"seconds": 8.856
+	},
+	"pp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，控制自变量的两种方法。加法原理：与常态比较，人为增加某种影响因素。",
+		"seconds": 8.64
+	},
+	"pp2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如比较过氧化氢在不同条件下的分解，分别加热、加氯化铁、加肝脏研磨液。",
+		"seconds": 7.8
+	},
+	"pp3": {
+		"key": "zh-CN-XiaoxiaoNeural|减法原理：与常态比较，人为去除某种影响因素。艾弗里用酶分别去除某种物质，就是减法原理。",
+		"seconds": 9.936
+	},
+	"pp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看实验组是“多了”还是“少了”一个因素。去除一种物质，看结果是否消失，从而确定它的作用。",
+		"seconds": 9.864
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，T2噬菌体。它只由蛋白质外壳和头部的DNA组成，专门寄生在大肠杆菌体内。",
+		"seconds": 9.408
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|元素上：仅蛋白质含 S，磷几乎都在 DNA 中。所以能用 35S 和 32P 分别标记。",
+		"seconds": 9.552
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|增殖过程：吸附、注入、合成、组装、释放。注入的只有 DNA，合成子代所用的原料、酶和场所，都来自大肠杆菌。",
+		"seconds": 11.952
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：病毒不能用培养基直接培养。要标记噬菌体，先用含 35S 或 32P 的培养基培养大肠杆菌，再用噬菌体去侵染它。",
+		"seconds": 12.744
+	},
+	"hs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，赫尔希和蔡斯的实验。一组用 35S 标记蛋白质，一组用 32P 标记 DNA，分别侵染未标记的大肠杆菌。",
+		"seconds": 11.904
+	},
+	"hs2": {
+		"key": "zh-CN-XiaoxiaoNeural|短时间保温后，搅拌使吸附在细菌上的噬菌体外壳与细菌分离，离心后，较轻的噬菌体在上清液，细菌在沉淀物。",
+		"seconds": 11.088
+	},
+	"hs3": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：35S 组放射性主要在上清液；32P 组放射性主要在沉淀物，部分子代噬菌体含 32P。",
+		"seconds": 10.104
+	},
+	"hs4": {
+		"key": "zh-CN-XiaoxiaoNeural|结论：DNA 是噬菌体的遗传物质。易错：不能用 C、H、O、N 标记，因为两种物质都含有；两种标记要分开做。",
+		"seconds": 11.88
+	},
+	"er1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，放射性误差分析。32P 组，上清液也有少量放射性，原因有两个。",
+		"seconds": 8.4
+	},
+	"er2": {
+		"key": "zh-CN-XiaoxiaoNeural|保温时间过短，部分噬菌体还没把 DNA 注入细菌；保温时间过长，细菌裂解，子代噬菌体被释放到上清液。",
+		"seconds": 10.656
+	},
+	"er3": {
+		"key": "zh-CN-XiaoxiaoNeural|35S 组，沉淀物也有少量放射性，原因是搅拌不充分，有些蛋白质外壳仍吸附在细菌表面。",
+		"seconds": 9.408
+	},
+	"er4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：32P 组的误差看保温时间，35S 组的误差看搅拌；保温时间对 35S 组的结果基本没有影响。",
+		"seconds": 10.152
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，为什么说 DNA 是主要的遗传物质。从烟草花叶病毒中提取的蛋白质不能使烟草感染，RNA却能使烟草感染。",
+		"seconds": 12.024
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|说明烟草花叶病毒的遗传物质是 RNA。",
+		"seconds": 4.368
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞生物和 DNA 病毒的遗传物质是 DNA，只有少数 RNA 病毒的遗传物质是 RNA。所以说 DNA 是主要的遗传物质。",
+		"seconds": 12.096
+	},
+	"mn4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“主要”是对所有生物而言的；对某一种生物，遗传物质只有一种。不能说细胞生物的遗传物质“主要是 DNA”。",
+		"seconds": 10.512
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，只推出存在转化因子。判断二？对，用酶去除物质是减法原理。",
+		"seconds": 9.24
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，要先标记大肠杆菌。",
+		"seconds": 6.552
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，细胞生物的遗传物质就是 DNA。判断六？对。",
+		"seconds": 7.8
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：分开研究 DNA 和蛋白质，单独看作用。我们下期再见！",
+		"seconds": 8.064
+	}
+}

@@ -1,0 +1,129 @@
+{
+	"id": "HXA-08",
+	"title": "化学键：离子键与共价键",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第8期 / 共21期",
+	"points": [
+		"离子键",
+		"共价键",
+		"电子式",
+		"用电子式表示形成过程",
+		"结构式与分子模型",
+		"化学键与物质类别",
+		"分子间作用力初识",
+		"化学反应的本质"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"化学键："
+			],
+			[
+				"离子键与共价键",
+				true
+			]
+		],
+		"subtitle": "离子键 · 共价键 · 电子式 · 物质类别",
+		"photo": "lewis.jpg",
+		"photoCaption": "路易斯：提出共用电子对理论和电子式",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化学键"
+				]
+			],
+			[
+				[
+					"离子键",
+					true
+				]
+			],
+			[
+				[
+					"共价键",
+					true
+				]
+			]
+		],
+		"photo": "lewis.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "路易斯",
+		"credit": "Johan Hagemeyer, CC BY 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "NH4Cl 中只含共价键",
+				"ok": false,
+				"fix": "含离子键和共价键，是离子化合物"
+			},
+			{
+				"q": "含有共价键的化合物一定是共价化合物",
+				"ok": false,
+				"fix": "NaOH 含共价键，是离子化合物"
+			},
+			{
+				"q": "Na2O2 中既有离子键又有非极性共价键",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "稀有气体单质中不存在化学键",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "H2O 比 H2S 稳定，是因为水分子间有氢键",
+				"ok": false,
+				"fix": "O—H 键比 S—H 键牢固"
+			},
+			{
+				"q": "HCl 溶于水破坏了共价键，发生了化学变化",
+				"ok": false,
+				"fix": "只有旧键断裂，是物理变化"
+			}
+		],
+		"endTitle": [
+			[
+				"化学键："
+			],
+			[
+				"离子键与共价键",
+				true
+			]
+		],
+		"endLine": "离子键 · 共价键 · 电子式 · 形成过程 · 物质类别",
+		"slogan": "离子化合物可含共价键，共价化合物绝无离子键！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Johan Hagemeyer《Gilbert Newton Lewis photo》CC BY 4.0；插图来自 pixiv：青走竜、RYOO(リクエスト募集中)、たかたか（侵删）",
+	"anime": [
+		{
+			"key": "gift",
+			"src": "gift.jpg",
+			"credit": "插图：青走竜《虹夏『ぼっちちゃん誕生日おめでとう！』》pixiv #116243499",
+			"url": "https://www.pixiv.net/artworks/116243499"
+		},
+		{
+			"key": "share",
+			"src": "share.jpg",
+			"credit": "插图：RYOO(リクエスト募集中)《無題》pixiv #133452330",
+			"url": "https://www.pixiv.net/artworks/133452330"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：たかたか《結束バンド》pixiv #134640971",
+			"url": "https://www.pixiv.net/artworks/134640971"
+		}
+	]
+}

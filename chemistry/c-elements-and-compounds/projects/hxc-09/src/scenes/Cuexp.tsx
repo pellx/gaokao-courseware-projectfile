@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Cuexp: React.FC = () => <AutoScene k="cuexp" d={{"tag": "考点三", "title": "铜与浓硫酸实验及产物检验", "blocks": [{"t": "rule", "tag": "检 SO2", "at": "ce1", "text": "品红溶液{褪色}", "c": "red", "size": 30}, {"t": "rule", "tag": "尾气", "at": "ce2", "text": "浸 {NaOH 溶液}的棉花吸收 SO2", "c": "orange", "size": 30}, {"t": "rule", "tag": "看 CuSO4", "at": "ce3", "text": "冷却后把反应液{倒入水中}，不能往试管里加水", "c": "green", "size": 30}, {"t": "chain", "steps": [{"at": "ce4", "text": "无水 CuSO4\n检 {H2O}", "c": "red"}, {"at": "ce4", "text": "品红\n检 SO2"}, {"at": "ce4", "text": "酸性 KMnO4\n除 SO2"}, {"at": "ce4", "text": "品红\n检已除尽"}, {"at": "ce4", "text": "石灰水\n检 CO2", "c": "green"}], "arrows": [], "center": true, "size": 28, "gap": 8}], "callout": {"label": "答题模板", "at": "ce5", "text": "{先检验 H2O}：后面的溶液会带出水蒸气"}}} />;

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Judge: React.FC = () => <AutoScene k="judge" d={{"tag": "考点七", "title": "分类辨析的解题方法", "blocks": [{"t": "chain", "steps": [{"at": "ju2", "text": "① 看组成\n几种物质、几种元素", "c": "orange"}, {"at": "ju2", "text": "② 看性质\n与酸还是碱反应", "c": "orange"}, {"at": "ju3", "text": "③ 举反例\n推翻“一定”", "c": "green"}], "arrows": [], "center": true, "size": 32}, {"t": "table", "at": "ju4", "head": ["反例", "推翻的说法"], "cols": "1fr 2.2fr", "rows": [{"at": "ju4", "cells": ["{Mn2O7}", "金属氧化物一定是碱性氧化物"]}, {"at": "ju4", "cells": ["{CO、NO2}", "非金属氧化物一定是酸性氧化物"]}, {"at": "ju4", "cells": ["{Na2O2}", "能与酸反应的金属氧化物都是碱性氧化物"]}, {"at": "ju4", "cells": ["{O2 + O3}", "同种元素组成的物质一定是纯净物"]}], "size": 30}], "callout": {"label": "解题方法", "at": "ju5", "text": "看到“{一定}”就去反例表里找，找到一个反例就排除"}}} />;

@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|方程式与事实相符吗。",
+		"seconds": 2.616
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷高频设问“下列方程式与所给事实不相符的是”，一道题覆盖元素化合物、电化学和水解，共八个考点。",
+		"seconds": 10.152
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，题型：四个选项各给一个事实和一个方程式，问哪个不相符。",
+		"seconds": 7.008
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|方程式可能是离子方程式、化学方程式、电极反应式，也可能是水解或沉淀转化。",
+		"seconds": 8.208
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：按顺序三查：一查反应和产物，二查拆分，三查守恒，再看用量和先后。",
+		"seconds": 8.688
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，一查反应能否发生、产物对不对。二氧化碳通入氯化钙溶液：弱酸不能制强酸，不反应。",
+		"seconds": 9.864
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|铁与盐酸生成亚铁离子，不是铁离子；铜与稀硫酸不反应。",
+		"seconds": 5.952
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁与稀硝酸生成一氧化氮，不生成氢气；铁离子能氧化碘离子，所以氢氧化铁溶于氢碘酸时还生成碘。",
+		"seconds": 10.464
+	},
+	"re3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩面无表情地盯着你：方程式写得再工整，反应根本不发生，就是不相符。",
+		"seconds": 7.488
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只看配平不看事实，是这道题最常见的失误；先问一句“真的会这样反应吗”。",
+		"seconds": 7.608
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，二查拆分。氯气与水：可逆地生成氢离子、氯离子和次氯酸，次氯酸是弱酸不拆，而且是可逆反应。",
+		"seconds": 11.424
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|醋酸除水垢：醋酸和碳酸钙反应生成钙离子、醋酸根、二氧化碳和水，醋酸和碳酸钙都不拆。",
+		"seconds": 9.528
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|氢氧化镁、氢氧化铝、硫酸钡是沉淀，一水合氨是弱碱，都写化学式。",
+		"seconds": 7.152
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氯气与水写成两个氢离子、氯离子和次氯酸根是错的，次氯酸不能拆。",
+		"seconds": 7.896
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，三查守恒：原子守恒、电荷守恒，氧化还原还要得失电子守恒。",
+		"seconds": 7.752
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化铁腐蚀铜板：铁离子加铜生成亚铁离子和铜离子，原子守恒，但电荷左边正3、右边正4，不守恒。",
+		"seconds": 10.824
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|正确写法：两个铁离子加铜生成两个亚铁离子和铜离子。",
+		"seconds": 5.976
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|钠与水：写成一个钠加一个水，氢原子不守恒，应为两个钠加两个水生成两个钠离子、两个氢氧根和氢气。",
+		"seconds": 9.816
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电荷守恒的选项往往原子是守恒的，一定要数电荷。",
+		"seconds": 5.784
+	},
+	"am1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，少量与过量。方法叫“以少定多”：把少量的那种物质的系数定为 1，按它的需要配另一种。",
+		"seconds": 9.24
+	},
+	"am2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸氢钙中加少量氢氧化钠：一个氢氧根只中和一个碳酸氢根，钙离子加碳酸氢根加氢氧根生成碳酸钙沉淀和水。",
+		"seconds": 11.28
+	},
+	"am3": {
+		"key": "zh-CN-XiaoxiaoNeural|加过量氢氧化钠：碳酸氢钙作1，两个碳酸氢根都被中和，钙离子加两个碳酸氢根加两个氢氧根，生成碳酸钙、碳酸根和两个水。",
+		"seconds": 12.6
+	},
+	"am3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩吃拉面，一个大碗一个小碗：量不同，结果就不同，先看谁是少量。",
+		"seconds": 7.176
+	},
+	"am4": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳与氢氧化钠：二氧化碳少量生成碳酸根，二氧化碳过量生成碳酸氢根。",
+		"seconds": 8.4
+	},
+	"am5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到“少量”“过量”“足量”，先找出少量的物质，系数定为 1，再配平。",
+		"seconds": 7.656
+	},
+	"or1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，反应的先后。还原性亚铁离子大于溴离子，氯气通入溴化亚铁溶液，先氧化亚铁离子。",
+		"seconds": 10.008
+	},
+	"or2": {
+		"key": "zh-CN-XiaoxiaoNeural|少量氯气：只有亚铁离子反应，两个亚铁离子加氯气生成两个铁离子和两个氯离子。",
+		"seconds": 8.088
+	},
+	"or3": {
+		"key": "zh-CN-XiaoxiaoNeural|足量氯气：都被氧化，亚铁离子和溴离子按1比2反应，两个亚铁离子加四个溴离子加三个氯气，生成两个铁离子、两个溴和六个氯离子。",
+		"seconds": 13.248
+	},
+	"or4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：足量氯气时，亚铁离子与溴离子的比例要和溴化亚铁的组成1比2一致，不能随便配。",
+		"seconds": 9.24
+	},
+	"el1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，电化学方程式。电解饱和食盐水：两个氯离子加两个水，通电生成两个氢氧根、氢气和氯气，条件写“通电”。",
+		"seconds": 11.832
+	},
+	"el2": {
+		"key": "zh-CN-XiaoxiaoNeural|铅蓄电池放电：铅加二氧化铅加两个硫酸，生成两个硫酸铅和两个水，两极都生成硫酸铅。",
+		"seconds": 9.24
+	},
+	"el3": {
+		"key": "zh-CN-XiaoxiaoNeural|钢铁吸氧腐蚀的正极：氧气加两个水得四个电子生成四个氢氧根；负极是铁失两个电子生成亚铁离子，不是铁离子。",
+		"seconds": 11.088
+	},
+	"el4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电解条件写“通电”；钢铁腐蚀负极生成亚铁离子。",
+		"seconds": 6.024
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，水解与沉淀转化。碳酸钠溶液显碱性：碳酸根加水可逆地生成碳酸氢根和氢氧根，多元弱酸根分步水解，用可逆号。",
+		"seconds": 13.008
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|制氢氧化铁胶体：铁离子加三个水加热生成氢氧化铁胶体和三个氢离子，不写沉淀符号。",
+		"seconds": 9.024
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|沉淀转化：向氯化银悬浊液中加碘化钾，氯化银固体加碘离子转化为碘化银固体和氯离子，溶解度小的沉淀更容易生成。",
+		"seconds": 12
+	},
+	"hy3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴眼镜的红发女孩推了推眼镜：水解和沉淀转化的选项，专挑可逆号、分步、状态这些细节。",
+		"seconds": 9.264
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碳酸根一步水解到碳酸，是错的。",
+		"seconds": 4.56
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：二氧化碳通入氯化钙溶液产生沉淀？错，不反应。判断二：铁与盐酸生成铁离子？错，生成亚铁离子。",
+		"seconds": 12.744
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氯化铁腐蚀铜板，两个铁离子加铜生成两个亚铁离子和铜离子？对。判断四：碳酸氢钙加少量氢氧化钠，按一比一写？对。",
+		"seconds": 14.784
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：碳酸根一步水解到碳酸？错，分步水解。判断六：氯气与水生成次氯酸根？错，次氯酸不拆。",
+		"seconds": 11.712
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|一查反应，二查拆分，三查守恒，少量定为一。下一期：陌生氧化还原方程式书写。",
+		"seconds": 9.12
+	}
+}

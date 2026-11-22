@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第五章第四节的第三部分——影响光合作用的因素及应用。",
+		"seconds": 8.952
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考光照强度、二氧化碳浓度等因素的曲线分析，以及总光合与净光合的计算。",
+		"seconds": 8.184
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"it1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，光合作用强度。指植物在单位时间内通过光合作用制造糖类的数量。",
+		"seconds": 8.088
+	},
+	"it2": {
+		"key": "zh-CN-XiaoxiaoNeural|可以用单位时间内原料的消耗量，如二氧化碳的吸收量，或产物的生成量，如氧气的释放量、有机物的积累量来表示。",
+		"seconds": 10.488
+	},
+	"it3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：实际测得的二氧化碳吸收量或氧气释放量是净光合速率，因为同时还在进行呼吸作用。",
+		"seconds": 9.384
+	},
+	"dk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，探究光照强度对光合作用强度的影响。用打孔器打出圆形小叶片，用注射器抽出叶片内的气体，叶片沉到水底。",
+		"seconds": 12.264
+	},
+	"dk2": {
+		"key": "zh-CN-XiaoxiaoNeural|把小叶片放入富含二氧化碳的清水中，用不同强度的光照射，比如调节光源与烧杯的距离。",
+		"seconds": 8.64
+	},
+	"dk3": {
+		"key": "zh-CN-XiaoxiaoNeural|光合作用产生氧气，叶片会浮起；单位时间内浮起的叶片越多，光合作用越强。",
+		"seconds": 7.992
+	},
+	"dk4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：自变量是光照强度，因变量是叶片上浮的数量或时间；抽气是为了排除叶片内原有气体的干扰。",
+		"seconds": 10.344
+	},
+	"lc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，光照强度的影响曲线。纵轴是二氧化碳吸收量，光照为0时只进行呼吸作用，曲线在横轴以下。",
+		"seconds": 10.8
+	},
+	"lc2": {
+		"key": "zh-CN-XiaoxiaoNeural|光合速率等于呼吸速率时的光照强度，叫光补偿点。",
+		"seconds": 5.232
+	},
+	"lc3": {
+		"key": "zh-CN-XiaoxiaoNeural|光照增强到一定程度后，光合速率不再增加，这时的光照强度叫光饱和点。",
+		"seconds": 7.368
+	},
+	"lc4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：阴生植物的光补偿点和光饱和点都比阳生植物低。易错：光补偿点时，叶肉细胞的光合速率大于它自身的呼吸速率。",
+		"seconds": 12.168
+	},
+	"gn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，总光合速率与净光合速率。总光合速率等于净光合速率加呼吸速率。",
+		"seconds": 8.424
+	},
+	"gn2": {
+		"key": "zh-CN-XiaoxiaoNeural|表示总光合的词：产生、制造氧气或有机物，固定二氧化碳；表示净光合的词：释放氧气、吸收二氧化碳、积累有机物。",
+		"seconds": 12.048
+	},
+	"gn3": {
+		"key": "zh-CN-XiaoxiaoNeural|黑暗中测得的二氧化碳释放量，就是呼吸速率。",
+		"seconds": 4.68
+	},
+	"gn4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先看关键词判断是总还是净；植物能否生长，看净光合速率是否大于零。",
+		"seconds": 8.712
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，二氧化碳浓度的影响。一定范围内，光合作用强度随二氧化碳浓度增大而增大，达到二氧化碳饱和点后不再增加。",
+		"seconds": 11.976
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳浓度过低时，光合速率小于呼吸速率；两者相等时的二氧化碳浓度，叫二氧化碳补偿点。",
+		"seconds": 9.6
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：温室中增施有机肥，微生物分解有机物产生二氧化碳；也可以通风补充二氧化碳。",
+		"seconds": 8.952
+	},
+	"ot1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，温度、水和矿质元素。温度通过影响酶的活性影响光合作用，曲线先升后降。",
+		"seconds": 9.288
+	},
+	"ot2": {
+		"key": "zh-CN-XiaoxiaoNeural|缺水时叶片气孔关闭，二氧化碳吸收减少，光合作用减弱。",
+		"seconds": 6.384
+	},
+	"ot3": {
+		"key": "zh-CN-XiaoxiaoNeural|矿质元素：如镁是叶绿素的组成成分，氮是酶、ATP、NADPH的组成元素。",
+		"seconds": 7.464
+	},
+	"ot4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：多因素曲线中，上升段的限制因素是横坐标所示因素；到达平台后，限制因素是其他因素。",
+		"seconds": 10.152
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，两类典型曲线。夏季晴天中午，温度高、蒸腾作用强，气孔部分关闭，二氧化碳吸收减少，光合速率下降，出现“午休”现象。",
+		"seconds": 13.608
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|密闭容器中一昼夜的二氧化碳浓度：曲线的最高点和最低点，对应光合速率等于呼吸速率的时刻。",
+		"seconds": 9.312
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|最高点之前，呼吸大于光合，二氧化碳浓度上升；之后光合大于呼吸，二氧化碳浓度下降，直到最低点。",
+		"seconds": 10.464
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：比较一昼夜首尾的二氧化碳浓度，终点低于起点，说明有机物有积累，植物能生长。",
+		"seconds": 9.168
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，光合作用原理的应用。合理密植：充分利用光能，又避免叶片相互遮挡。",
+		"seconds": 8.376
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|间作套种，充分利用光能；温室中适当增加光照、补充二氧化碳。",
+		"seconds": 6.768
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|适当提高昼夜温差：白天温度适宜，光合作用强；夜晚温度低，呼吸作用弱，有机物积累多。",
+		"seconds": 9.192
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：温室补光用红光或蓝紫光；阴天光照弱时，温室应适当降低温度，减少呼吸消耗。",
+		"seconds": 9.144
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，代表净光合速率。判断二？错，阴生植物的光补偿点较低。",
+		"seconds": 8.64
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，是气孔部分关闭。",
+		"seconds": 6.192
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，夜间应适当降温。",
+		"seconds": 6.36
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：能不能生长，看净光合是否大于零。我们下期再见！",
+		"seconds": 7.632
+	}
+}

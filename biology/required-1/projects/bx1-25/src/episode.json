@@ -1,0 +1,38 @@
+{
+	"id": "BX1-25",
+	"title": "细胞的衰老和死亡",
+	"subject": "biology",
+	"book": "人教版·必修1·第6章",
+	"points": ["个体与细胞衰老", "衰老细胞的特征", "自由基与端粒学说", "细胞凋亡", "凋亡与坏死的比较", "细胞自噬"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞的"], ["衰老和死亡", true]],
+		"subtitle": "衰老特征 · 两种学说 · 凋亡 · 坏死 · 自噬",
+		"photo": "froglet.jpg",
+		"photoCaption": "蝌蚪变成幼蛙：尾部细胞通过凋亡消失",
+		"photoPos": "65% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞的"], ["衰老", true]], [["和死亡", true]]],
+		"kicker": "凋亡 · 坏死 · 自噬",
+		"photo": "froglet.jpg",
+		"photoPos": "65% center",
+		"photoTag": "蝌蚪尾的消失",
+		"credit": "Photo: USFWS Mountain-Prairie, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "个体衰老时所有细胞都处于衰老状态", "ok": false, "fix": "多细胞生物个体衰老与细胞衰老不同步"},
+			{"q": "衰老细胞中所有酶的活性都降低", "ok": false, "fix": "是多种酶的活性降低，并非所有酶"},
+			{"q": "衰老细胞的细胞核体积增大", "ok": true, "fix": ""},
+			{"q": "细胞凋亡对生物体是不利的", "ok": false, "fix": "细胞凋亡对生物体是有利的"},
+			{"q": "被病原体感染的细胞的清除属于细胞凋亡", "ok": true, "fix": ""},
+			{"q": "细胞自噬一定会导致细胞死亡", "ok": false, "fix": "有些激烈的细胞自噬才可能诱导凋亡"}
+		],
+		"endTitle": [["细胞的"], ["衰老和死亡", true]],
+		"endLine": "衰老特征 · 两种学说 · 凋亡 · 坏死 · 自噬",
+		"slogan": "凋亡由基因决定，坏死是被动的损伤！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— USFWS Mountain-Prairie《Leopard Frog Froglet》Public domain"
+}

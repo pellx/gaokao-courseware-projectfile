@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第六章第三节的上半部分——种群基因组成的变化。",
+		"seconds": 8.52
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考基因频率的计算、遗传平衡定律和进化的实质。",
+		"seconds": 5.808
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，种群：生活在一定区域的同种生物全部个体的集合。种群是生物进化的基本单位。",
+		"seconds": 9.168
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|基因库：一个种群中全部个体所含有的全部基因。",
+		"seconds": 5.016
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|基因频率：在一个种群基因库中，某个基因占全部等位基因数的比值。",
+		"seconds": 6.504
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：基因库是全部个体的全部基因，不是某一个体的；个体会死亡，但基因库可以在繁殖中保留和发展。",
+		"seconds": 10.056
+	},
+	"fq1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，基因频率的计算。方法一，数基因：A 的频率等于A 的个数 ÷ (A加a 的总数)。",
+		"seconds": 8.904
+	},
+	"fq2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：100个个体中，大A大A 30个，大A小a 60个，小a小a 10个。大A有30乘2加60，等于120个，总共200个，大A的频率是百分之六十。",
+		"seconds": 15.264
+	},
+	"fq3": {
+		"key": "zh-CN-XiaoxiaoNeural|方法二，用基因型频率：大A的频率等于大A大A的频率，加上二分之一大A小a的频率，等于百分之三十加百分之三十，等于百分之六十。",
+		"seconds": 13.152
+	},
+	"fq4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：A 和 a 的频率之和等于 1；基因型频率之和也等于 1。",
+		"seconds": 6.24
+	},
+	"hw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，遗传平衡定律，也叫哈迪—温伯格定律。设 A 的频率为 p，a 的频率为 q，p加q等于1。",
+		"seconds": 10.08
+	},
+	"hw2": {
+		"key": "zh-CN-XiaoxiaoNeural|在理想条件下，大A大A等于p的平方，大A小a等于二pq，小a小a等于q的平方，基因频率和基因型频率都世代不变。",
+		"seconds": 11.904
+	},
+	"hw3": {
+		"key": "zh-CN-XiaoxiaoNeural|理想条件：种群非常大，随机交配，没有迁入迁出，没有自然选择，没有突变。",
+		"seconds": 7.752
+	},
+	"hw4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：已知隐性个体小a小a占百分之一，则q等于0.1，p等于0.9，携带者大A小a等于2乘0.9乘0.1，等于百分之十八。",
+		"seconds": 13.752
+	},
+	"xf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，X 染色体上基因频率的计算。男性只有一条 X，Y 上没有对应的基因，所以男性只算一个。",
+		"seconds": 10.104
+	},
+	"xf2": {
+		"key": "zh-CN-XiaoxiaoNeural|X小b 的频率等于X小b 的个数 ÷ (女性人数乘2加男性人数)。",
+		"seconds": 6.48
+	},
+	"xf3": {
+		"key": "zh-CN-XiaoxiaoNeural|规律：男性中色盲的发病率，就等于X小b的基因频率。例：男性色盲约占百分之八，则X小b的频率约为百分之八，女性色盲约为百分之八乘百分之八，等于百分之零点六四。",
+		"seconds": 17.328
+	},
+	"xf4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：分母不能写成“总人数乘2”，男性只有一个 X。",
+		"seconds": 5.4
+	},
+	"mu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，突变和基因重组提供进化的原材料。这里的突变包括基因突变和染色体变异。",
+		"seconds": 8.856
+	},
+	"mu2": {
+		"key": "zh-CN-XiaoxiaoNeural|突变频率虽然低，但种群中个体数多，每一代都会产生大量突变；突变和重组都是随机的、不定向的。",
+		"seconds": 9.888
+	},
+	"mu3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：突变的有害或有利不是绝对的，取决于生物的生存环境；只有可遗传的变异才能为进化提供原材料。",
+		"seconds": 9.96
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，自然选择决定生物进化的方向。以桦尺蛾为例：工业污染前，树干浅色，浅色蛾不易被鸟发现，小s基因频率高。",
+		"seconds": 12.432
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|工业污染后，树干被熏黑，黑色蛾不易被发现，存活和繁殖的机会多，黑色基因大S的频率逐代升高。",
+		"seconds": 9.816
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|自然选择使种群的基因频率发生定向改变，生物朝着一定的方向进化。",
+		"seconds": 6.888
+	},
+	"se4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：生物进化的实质是种群基因频率的改变，而不是基因型频率；只要基因频率改变，生物就进化了。",
+		"seconds": 9.912
+	},
+	"ab1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，探究实验：抗生素对细菌的选择作用。在培养基上涂布细菌，放上含抗生素的纸片，培养后纸片周围出现抑菌圈。",
+		"seconds": 12.624
+	},
+	"ab2": {
+		"key": "zh-CN-XiaoxiaoNeural|从抑菌圈边缘的菌落挑取细菌，继续培养，重复几代。",
+		"seconds": 5.424
+	},
+	"ab3": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：抑菌圈直径逐代变小，说明细菌的耐药性越来越强。",
+		"seconds": 6
+	},
+	"ab4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：耐药性变异在使用抗生素之前就存在，抗生素只起选择作用；从边缘挑菌，是因为那里的细菌可能耐药。",
+		"seconds": 10.872
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，进化的基本单位是种群。判断二？对。",
+		"seconds": 6.84
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，大A小a等于二pq，等于0.32。判断四？错，实质是基因频率的改变。",
+		"seconds": 10.368
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，耐药突变本来就有，抗生素只起选择作用。",
+		"seconds": 8.472
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：进化的实质是基因频率的改变。我们下期再见！",
+		"seconds": 7.2
+	}
+}

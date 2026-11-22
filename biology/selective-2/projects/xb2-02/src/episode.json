@@ -1,0 +1,38 @@
+{
+	"id": "XB2-02",
+	"title": "种群数量的变化",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第1章",
+	"points": ["建构数学模型", "“J”形增长", "“S”形增长与K值", "增长速率曲线", "K值的应用", "波动和下降", "酵母菌数量探究", "λ曲线的判读"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["种群数量的"], ["变化", true]],
+		"subtitle": "“J”形 · “S”形 · K值 · 酵母菌计数",
+		"photo": "yeast.jpg",
+		"photoCaption": "显微镜下的酵母菌",
+		"photoPos": "center center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["种群数量"]], [["的变化", true]]],
+		"kicker": "J形 · S形 · K值",
+		"photo": "yeast.jpg",
+		"photoPos": "center center",
+		"photoTag": "显微镜下的酵母菌",
+		"credit": "Photo: Ajay Kumar Chaurasiya, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "“J”形增长的种群，增长率保持不变", "ok": true, "fix": ""},
+			{"q": "种群数量达到K值后就不再变化", "ok": false, "fix": "在K值附近上下波动"},
+			{"q": "环境条件改变，K值不会改变", "ok": false, "fix": "K值随环境条件改变而改变"},
+			{"q": "捕捞后种群数量应维持在K/2左右", "ok": true, "fix": ""},
+			{"q": "计数时先滴培养液，再盖盖玻片", "ok": false, "fix": "先盖盖玻片，再滴培养液"},
+			{"q": "λ下降时，种群数量一定减少", "ok": false, "fix": "λ仍大于1时，数量仍在增加"}
+		],
+		"endTitle": [["种群数量的"], ["变化", true]],
+		"endLine": "“J”形增长 · “S”形增长 · K值 · 酵母菌计数 · λ曲线",
+		"slogan": "K/2增长最快，λ和1比大小！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Ajay Kumar Chaurasiya《Yeast cells in wet mount of culture》CC BY-SA 4.0"
+}

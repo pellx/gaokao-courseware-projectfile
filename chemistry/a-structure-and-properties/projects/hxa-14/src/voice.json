@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|晶体的常识与晶胞。",
+		"seconds": 2.328
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考晶体与非晶体的区别，大题考均摊法求化学式，这是后面晶胞计算的基础，共六个考点。",
+		"seconds": 9.408
+	},
+	"cr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，晶体与非晶体。晶体内部粒子在三维空间里周期性有序排列；非晶体的粒子排列相对无序，比如玻璃、石蜡。",
+		"seconds": 12
+	},
+	"cr2": {
+		"key": "zh-CN-XiaoxiaoNeural|晶体有三个特点。第一，自范性：能自发地呈现多面体外形。",
+		"seconds": 6.576
+	},
+	"cr3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，各向异性：比如导热性、强度、光学性质在不同方向上不同。第三，有固定的熔点。",
+		"seconds": 9.48
+	},
+	"cr4": {
+		"key": "zh-CN-XiaoxiaoNeural|区分晶体和非晶体，最可靠的方法是对固体进行 X 射线衍射实验。",
+		"seconds": 6.888
+	},
+	"cr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：有规则几何外形的不一定是晶体，比如切割好的玻璃；研磨成粉末的晶体仍是晶体。",
+		"seconds": 8.928
+	},
+	"ob1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，获得晶体的三条途径。第一，熔融态物质凝固，比如熔融的硫冷却得到硫晶体。",
+		"seconds": 8.88
+	},
+	"ob2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，气态物质冷却不经液态直接凝固，也就是凝华，比如碘蒸气凝华得到碘晶体。",
+		"seconds": 8.472
+	},
+	"ob3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，溶质从溶液中析出，比如从饱和氯化钠溶液中析出食盐晶体。",
+		"seconds": 6.864
+	},
+	"ob4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：选择题让你判断某种方法得到的是不是晶体，或把三条途径和实例对应起来。",
+		"seconds": 8.016
+	},
+	"uc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，晶胞。晶胞是描述晶体结构的基本单元，常规的晶胞都是平行六面体。",
+		"seconds": 8.232
+	},
+	"uc2": {
+		"key": "zh-CN-XiaoxiaoNeural|整块晶体可以看作是数量巨大的晶胞“无隙并置”而成：相邻晶胞之间没有任何间隙，所有晶胞平行排列、取向相同。",
+		"seconds": 10.944
+	},
+	"uc2b": {
+		"key": "zh-CN-XiaoxiaoNeural|晶胞就像装着粒子的小纸箱：一个个纸箱整整齐齐摞起来，中间不留空，就是一整块晶体。",
+		"seconds": 8.4
+	},
+	"uc3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以晶胞的顶点、棱、面上的粒子，会被相邻的几个晶胞共用。",
+		"seconds": 6.264
+	},
+	"uc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不同晶体的晶胞，大小和形状可以不同；同一种晶体，所有晶胞完全相同。",
+		"seconds": 7.896
+	},
+	"sh1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，均摊法。晶胞中的粒子被几个晶胞共用，就只算它的几分之一。",
+		"seconds": 7.44
+	},
+	"sh2": {
+		"key": "zh-CN-XiaoxiaoNeural|立方晶胞：顶点上的粒子被8个晶胞共用，算八分之一；棱上的被4个共用，算四分之一。",
+		"seconds": 8.76
+	},
+	"sh3": {
+		"key": "zh-CN-XiaoxiaoNeural|面上的被2个共用，算二分之一；体内的完全属于这个晶胞，算1。",
+		"seconds": 6.432
+	},
+	"sh3b": {
+		"key": "zh-CN-XiaoxiaoNeural|均摊就像分蛋糕：顶点那一块要和8个晶胞分，每个只能拿到八分之一。",
+		"seconds": 6.84
+	},
+	"sh4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如铜的晶胞：8个顶点、6个面心有铜原子，8乘八分之一加6乘二分之一等于4，一个铜晶胞含4个铜原子。",
+		"seconds": 10.872
+	},
+	"sh5": {
+		"key": "zh-CN-XiaoxiaoNeural|课外拓展：六棱柱晶胞顶点上的粒子被6个晶胞共用，算六分之一。",
+		"seconds": 6.672
+	},
+	"sh6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：八分之一、四分之一、二分之一只适用于立方晶胞，六棱柱要重新数共用的晶胞数。",
+		"seconds": 8.976
+	},
+	"fm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，由晶胞求化学式。先用均摊法分别数出每种粒子的个数，再化成最简整数比。",
+		"seconds": 8.952
+	},
+	"fm2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：某晶胞顶点是A，体心是B，棱心是C。A：8乘八分之一等于1；B：1；C：12乘四分之一等于3。",
+		"seconds": 11.496
+	},
+	"fm3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以化学式是 A B C 3，这正是钙钛矿钛酸钙的结构类型。",
+		"seconds": 6.24
+	},
+	"fm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：列表数：位置乘份数乘个数，每种粒子一行，最后比一比；化学式里的原子个数比必须等于晶胞里的个数比。",
+		"seconds": 11.136
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，易错辨析。第一句：“玻璃有固定的熔点。”错，玻璃是非晶体，没有固定熔点，加热时逐渐软化。",
+		"seconds": 11.064
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二句：“有规则外形的固体一定是晶体。”错，切割的玻璃也有规则外形。",
+		"seconds": 7.584
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三句：“晶体研碎成粉末后就不再是晶体。”错，粉末的每个小颗粒仍是晶体。",
+		"seconds": 8.136
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四句：“不同晶体的晶胞大小和形状都相同。”错，晶胞随晶体不同而不同。",
+		"seconds": 8.016
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断晶体看内部结构是否有序，最可靠的是 X 射线衍射，不看外形。",
+		"seconds": 7.824
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：区分晶体和非晶体最可靠的是 X 射线衍射？对。判断二：有规则外形的固体一定是晶体？错。",
+		"seconds": 11.88
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：碘蒸气凝华可以得到碘晶体？对。判断四：立方晶胞棱上的粒子按二分之一算？错，是四分之一。",
+		"seconds": 12.024
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：铜晶胞中含4个铜原子？对。判断六：晶体粉碎后就变成非晶体？错。",
+		"seconds": 9.912
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|顶点八分之一，棱上四分之一，面上二分之一，体内算一个。下一期：分子晶体与共价晶体。",
+		"seconds": 9.552
+	}
+}

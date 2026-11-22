@@ -1,0 +1,122 @@
+{
+	"id": "HXC-16",
+	"title": "价-类二维图与物质转化",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第16期 / 共16期",
+	"points": [
+		"二维图的读法",
+		"五种元素对照",
+		"性质与用途对应",
+		"能否一步实现",
+		"颜色与状态速查",
+		"气体制备与检验",
+		"选择题解题方法"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"价-类二维图",
+				true
+			],
+			[
+				"与物质转化"
+			]
+		],
+		"subtitle": "同列靠氧化还原 · 同行靠复分解 · 速查表",
+		"photo": "alchemist.jpg",
+		"photoCaption": "约瑟夫·赖特《炼金术士》：人类探索物质转化的早期尝试",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"价-类二维图",
+					true
+				]
+			],
+			[
+				[
+					"与物质转化"
+				]
+			]
+		],
+		"photo": "alchemist.jpg",
+		"photoPos": {
+			"16x9": "center 60%",
+			"4x3": "center 60%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "炼金术士",
+		"credit": "Joseph Wright of Derby, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "同一行物质的相互转化一定需要氧化剂或还原剂",
+				"ok": false,
+				"fix": "同一行价态不变，靠复分解或酸碱反应"
+			},
+			{
+				"q": "SiO2 硬度大，所以用作光导纤维",
+				"ok": false,
+				"fix": "光纤利用的是导光性"
+			},
+			{
+				"q": "NaHCO3 受热分解产生 CO2，可用作膨松剂",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "S 在足量 O2 中燃烧可一步生成 SO3",
+				"ok": false,
+				"fix": "只生成 SO2"
+			},
+			{
+				"q": "Fe 与 FeCl3 溶液反应可得到 FeCl2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "用干燥的红色石蕊试纸检验 NH3",
+				"ok": false,
+				"fix": "试纸要湿润"
+			}
+		],
+		"endTitle": [
+			[
+				"价-类二维图",
+				true
+			],
+			[
+				"与物质转化"
+			]
+		],
+		"endLine": "竖着走氧化还原，横着走复分解",
+		"slogan": "竖着走氧化还原，横着走复分解"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Joseph Wright of Derby《The Alchemist》，公有领域；插图来自 pixiv：たい焼き漁師‪🎣‬🐟、ほたるる、ぼうふら海将補🇫🇷（侵删）",
+	"anime": [
+		{
+			"key": "rpg",
+			"src": "rpg.jpg",
+			"credit": "插图：たい焼き漁師‪🎣‬🐟《けいおん！ for Nintendo DS》pixiv #150383982",
+			"url": "https://www.pixiv.net/artworks/150383982"
+		},
+		{
+			"key": "quiz",
+			"src": "quiz.jpg",
+			"credit": "插图：ほたるる《あろえ》pixiv #93891451",
+			"url": "https://www.pixiv.net/artworks/93891451"
+		},
+		{
+			"key": "yui",
+			"src": "yui.jpg",
+			"credit": "插图：ぼうふら海将補🇫🇷《平沢唯》pixiv #128114814",
+			"url": "https://www.pixiv.net/artworks/128114814"
+		}
+	]
+}

@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第五章第三节——植物生长调节剂的应用。",
+		"seconds": 8.448
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考调节剂的应用实例、探究插条生根的最适浓度，以及二四D除草的原理。",
+		"seconds": 7.728
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，植物生长调节剂，是由人工合成的，对植物的生长、发育有调节作用的化学物质。",
+		"seconds": 8.688
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|它的优点是原料广泛、容易合成、效果稳定。",
+		"seconds": 4.848
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|效果为什么稳定？因为植物体内往往缺乏分解它的酶，它在体内作用的时间更长。",
+		"seconds": 7.896
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：植物生长调节剂是人工合成的，不属于植物激素。判断时看来源：植物体内产生的是激素，人工合成的是调节剂。",
+		"seconds": 11.976
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，从分子结构来看，植物生长调节剂主要有两大类。",
+		"seconds": 5.904
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|一类分子结构和生理效应都与植物激素类似，比如吲哚丁酸。",
+		"seconds": 6.168
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|另一类分子结构与植物激素完全不同，但具有与植物激素类似的生理效应，比如阿尔法萘乙酸和矮壮素。",
+		"seconds": 9.48
+	},
+	"ty4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断是不是植物生长调节剂，看来源；判断属于哪一类，才看分子结构。",
+		"seconds": 7.944
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，应用实例。",
+		"seconds": 2.52
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|用乙烯利催熟凤梨、香蕉等水果，乙烯利能释放出乙烯。",
+		"seconds": 5.904
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|用赤霉素处理大麦种子，使它无须发芽就能产生阿尔法淀粉酶，用于啤酒生产，降低成本。",
+		"seconds": 8.832
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|用膨大剂使水果长势加快、个头变大，但可能影响口感，也不利于长时间储存。",
+		"seconds": 7.944
+	},
+	"ap5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：常问调节剂模拟了哪种激素：乙烯利对应乙烯，膨大剂多为细胞分裂素类，萘乙酸、二四D对应生长素。",
+		"seconds": 11.016
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，施用植物生长调节剂，要注意哪些问题？",
+		"seconds": 4.944
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|要选择恰当的种类，考虑施用的浓度、时间和部位，以及植物的生理状态和气候条件等。",
+		"seconds": 8.16
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|还要注意调节剂的残留，以及对人体健康和环境的影响。",
+		"seconds": 5.352
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：调节剂不是越多越好，浓度不当会适得其反。比如赤霉素过量，水稻会疯长，结实率反而降低。",
+		"seconds": 10.536
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，探究实践：探索生长素类调节剂促进插条生根的最适浓度。",
+		"seconds": 6.936
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|先做预实验：在较大的浓度范围内设置浓度梯度，摸索最适浓度的大致范围，避免盲目开展实验，造成浪费。",
+		"seconds": 10.728
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|处理插条有两种方法：浸泡法，溶液浓度较低，处理时间较长；沾蘸法，溶液浓度较高，处理时间较短，约5秒。",
+		"seconds": 11.184
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|自变量是调节剂的浓度，因变量是插条生根的数目或长度；插条的长短、芽的数量、处理时间等是无关变量，要相同且适宜。",
+		"seconds": 12.264
+	},
+	"ex5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：预实验要设置蒸馏水的空白对照；正式实验在预实验确定的范围内缩小浓度梯度，各组之间相互对照。",
+		"seconds": 10.632
+	},
+	"rs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，实验结果分析。以调节剂浓度为横轴、生根数为纵轴，曲线先升后降。",
+		"seconds": 8.4
+	},
+	"rs2": {
+		"key": "zh-CN-XiaoxiaoNeural|曲线最高点对应的浓度是最适浓度；在最适浓度两侧，存在两个不同浓度，生根效果相同。",
+		"seconds": 8.688
+	},
+	"rs3": {
+		"key": "zh-CN-XiaoxiaoNeural|和蒸馏水对照组比：生根数多于对照组，是促进；少于对照组，才是抑制。",
+		"seconds": 7.656
+	},
+	"rs4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断促进还是抑制，一定要和空白对照比较，不能只看曲线是上升还是下降。",
+		"seconds": 8.664
+	},
+	"hb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，高浓度的二四D可以用作除草剂。",
+		"seconds": 4.512
+	},
+	"hb2": {
+		"key": "zh-CN-XiaoxiaoNeural|双子叶植物对生长素类调节剂比单子叶植物更敏感。在单子叶作物的农田里，用一定浓度的二四D，能抑制甚至杀死双子叶杂草，对作物却影响较小。",
+		"seconds": 14.568
+	},
+	"hb3": {
+		"key": "zh-CN-XiaoxiaoNeural|看曲线：选择的浓度，要落在双子叶植物曲线的抑制区，同时落在单子叶植物曲线的促进区。",
+		"seconds": 8.832
+	},
+	"hb4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：除草的原理是不同植物对它的敏感程度不同；小麦田、玉米田可以用，大豆田不能用，因为大豆也是双子叶植物。",
+		"seconds": 11.328
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|植物生长调节剂具有原料广泛、容易合成、效果稳定等优点？对。施用浓度越高效果越好？错，浓度要适宜。",
+		"seconds": 12.096
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|用赤霉素处理大麦，可使其无须发芽就产生阿尔法淀粉酶？对。浸泡法处理插条时溶液浓度较高？错，浓度较低、时间较长。",
+		"seconds": 13.512
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|预实验可以为正式实验摸索条件？对。可以用二四D除去大豆田中的双子叶杂草？错，大豆也是双子叶植物。",
+		"seconds": 11.52
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串起来：调节剂人工合成、效果稳定，应用时浓度要适宜，探究最适浓度先做预实验，判断促抑看对照。掌握这些，这一节就能稳稳拿分！我们下期再见！",
+		"seconds": 16.176
+	}
+}

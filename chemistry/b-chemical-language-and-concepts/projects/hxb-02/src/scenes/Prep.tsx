@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Prep: React.FC = () => <AutoScene k="prep" d={{"tag": "考点二", "title": "氢氧化铁胶体的制备", "blocks": [{"t": "chain", "steps": [{"at": "pr1", "text": "沸腾的\n蒸馏水", "c": "orange"}, {"at": "pr1", "text": "逐滴加\n饱和 FeCl3", "c": "red"}, {"at": "pr1", "text": "煮沸至\n{红褐色}", "c": "red"}, {"at": "pr1", "text": "停止加热", "c": "green"}], "arrows": [], "center": true, "size": 34}, {"t": "big", "at": "pr2", "text": "FeCl3 + 3H2O ═△═ Fe(OH)3（{胶体}）+ 3HCl", "size": 40}, {"t": "row", "cols": [{"blocks": [{"t": "mark", "ok": false, "at": "pr3", "text": "用 NaOH 溶液 → 生成沉淀", "size": 28}]}, {"blocks": [{"t": "mark", "ok": false, "at": "pr3", "text": "长时间加热 → 聚沉", "size": 28}]}, {"blocks": [{"t": "mark", "ok": false, "at": "pr3", "text": "用自来水 → 电解质使其聚沉", "size": 28}]}]}], "callout": {"label": "考法", "at": "pr4", "text": "沸水 + 饱和 FeCl3 + 红褐色即停；方程式写“{胶体}”，不写“↓”"}}} />;

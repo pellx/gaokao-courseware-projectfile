@@ -1,0 +1,38 @@
+{
+	"id": "BX1-10",
+	"title": "细胞器之间的分工合作（下）",
+	"subject": "biology",
+	"book": "人教版·必修1·第3章",
+	"points": ["分泌蛋白", "同位素标记法", "合成和运输途径", "放射性与膜面积", "生物膜系统", "易错辨析"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞器之间的"], ["协调配合", true]],
+		"subtitle": "细胞器之间的分工合作（下） · 生物膜系统",
+		"photo": "pancreas.jpg",
+		"photoCaption": "电镜下的胰腺腺泡细胞：充满分泌颗粒",
+		"photoPos": "70% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞器之间的"]], [["协调配合", true]]],
+		"kicker": "分泌蛋白 · 生物膜系统",
+		"photo": "pancreas.jpg",
+		"photoPos": "70% center",
+		"photoTag": "胰腺腺泡细胞",
+		"credit": "OpenStax, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "呼吸酶、血红蛋白都属于分泌蛋白", "ok": false, "fix": "它们在细胞内起作用，不是分泌蛋白"},
+			{"q": "研究分泌蛋白时可用^3H标记亮氨酸", "ok": true, "fix": ""},
+			{"q": "分泌蛋白最先在内质网上开始合成", "ok": false, "fix": "先在游离的核糖体上合成一段肽链"},
+			{"q": "分泌过程中高尔基体膜面积明显增加", "ok": false, "fix": "先增后减，前后基本不变"},
+			{"q": "小肠黏膜属于细胞的生物膜系统", "ok": false, "fix": "生物膜系统指细胞内的膜结构"},
+			{"q": "分泌蛋白通过胞吐分泌，穿过0层膜", "ok": true, "fix": ""}
+		],
+		"endTitle": [["细胞器之间的"], ["协调配合", true]],
+		"endLine": "分泌蛋白 · 同位素标记 · 膜面积 · 生物膜系统",
+		"slogan": "核糖体→内质网→高尔基体→细胞膜！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— OpenStax《0311 Pancreatic Cells Micrograph》CC BY 4.0（已裁切）"
+}

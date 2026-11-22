@@ -1,0 +1,38 @@
+{
+	"id": "XB1-05",
+	"title": "兴奋在神经纤维上的传导",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第2章",
+	"points": ["静息电位", "动作电位", "局部电流与传导方向", "双向传导与单向传导", "膜电位变化曲线", "细胞外离子浓度的影响", "测量电位时电极的放置", "电表指针偏转问题"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["神经冲动的"], ["产生和传导", true]],
+		"subtitle": "（上）兴奋在神经纤维上的传导",
+		"photo": "loligo.jpg",
+		"photoCaption": "枪乌贼：巨大轴突是研究神经冲动的经典材料",
+		"photoPos": "40% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["神经冲动的"]], [["产生和传导", true]]],
+		"kicker": "（上）兴奋在神经纤维上的传导",
+		"photo": "loligo.jpg",
+		"photoPos": "42% center",
+		"photoTag": "枪乌贼的巨大轴突",
+		"credit": "Photo: Hans Hillewaert, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "静息电位的形成主要是Na⁺内流", "ok": false, "fix": "主要是K⁺外流"},
+			{"q": "产生动作电位时，膜电位表现为外负内正", "ok": true, "fix": ""},
+			{"q": "兴奋的传导方向与膜外局部电流方向一致", "ok": false, "fix": "与膜内电流方向一致"},
+			{"q": "K⁺外流和Na⁺内流都属于协助扩散", "ok": true, "fix": ""},
+			{"q": "细胞外Na⁺浓度升高，动作电位峰值升高", "ok": true, "fix": ""},
+			{"q": "刺激两电极的中点，电表指针偏转两次", "ok": false, "fix": "指针不偏转"}
+		],
+		"endTitle": [["兴奋在神经纤维上的"], ["传导", true]],
+		"endLine": "静息电位 · 动作电位 · 局部电流 · 膜电位曲线 · 电表偏转",
+		"slogan": "离子机制理清楚，曲线和电表题都不怕！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Hans Hillewaert《Loligo vulgaris》CC BY-SA 4.0；NIH History Office《Giant Axon of Squid》公有领域"
+}

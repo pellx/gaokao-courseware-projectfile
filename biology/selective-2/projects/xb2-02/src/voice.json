@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修二第一章第二节——种群数量的变化。",
+		"seconds": 7.752
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考“J”形和“S”形增长曲线、K值的含义与应用，以及培养液中酵母菌数量的探究。",
+		"seconds": 8.712
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"md1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，建构种群增长模型的方法。数学模型是用来描述一个系统或它的性质的数学形式。",
+		"seconds": 9.048
+	},
+	"md2": {
+		"key": "zh-CN-XiaoxiaoNeural|建构步骤：观察研究对象，提出问题，提出合理的假设，用数学形式表达，再检验或修正。",
+		"seconds": 8.976
+	},
+	"md3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如，细菌每20分钟分裂一次，在资源和空间无限的条件下，n代后的数量N n等于2的n次方。",
+		"seconds": 9.456
+	},
+	"md4": {
+		"key": "zh-CN-XiaoxiaoNeural|数学公式精确，曲线图直观，两种形式各有优点。",
+		"seconds": 5.304
+	},
+	"md5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出建模的几个步骤让你排序，或者问“资源和空间无限”属于哪一步——它属于提出合理的假设。",
+		"seconds": 9.336
+	},
+	"jc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，“J”形增长。条件是食物和空间条件充裕、气候适宜、没有天敌和其他竞争物种等理想条件。",
+		"seconds": 10.392
+	},
+	"jc2": {
+		"key": "zh-CN-XiaoxiaoNeural|种群的数量每年以一定的倍数增长，第t年的数量等于初始数量乘兰姆达的t次方。",
+		"seconds": 7.968
+	},
+	"jc3": {
+		"key": "zh-CN-XiaoxiaoNeural|兰姆达表示该种群数量是前一年种群数量的倍数。兰姆达大于1且保持不变，曲线就呈J形。",
+		"seconds": 9.528
+	},
+	"jc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：增长率等于兰姆达减1，J形增长的增长率保持不变；但增长速率，也就是单位时间增加的个体数，越来越大。",
+		"seconds": 11.352
+	},
+	"sc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，“S”形增长。自然界的资源和空间总是有限的。",
+		"seconds": 6.048
+	},
+	"sc2": {
+		"key": "zh-CN-XiaoxiaoNeural|种群密度增大，种内竞争加剧，天敌数量也会增加，于是出生率降低、死亡率升高。",
+		"seconds": 8.376
+	},
+	"sc3": {
+		"key": "zh-CN-XiaoxiaoNeural|当出生率等于死亡率时，种群停止增长，数量稳定在一定水平，曲线呈“S”形。",
+		"seconds": 7.632
+	},
+	"sc4": {
+		"key": "zh-CN-XiaoxiaoNeural|一定的环境条件所能维持的种群最大数量，叫做环境容纳量，又称K值。",
+		"seconds": 7.08
+	},
+	"sc5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：K值不是固定不变的。环境遭到破坏，K值下降；环境改善，K值上升。种群数量达到K值后，会在K值附近上下波动。",
+		"seconds": 13.152
+	},
+	"rr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，增长速率曲线。“S”形增长中，增长速率先增大、后减小。",
+		"seconds": 7.464
+	},
+	"rr2": {
+		"key": "zh-CN-XiaoxiaoNeural|种群数量为二分之K时，增长速率最大。",
+		"seconds": 4.296
+	},
+	"rr3": {
+		"key": "zh-CN-XiaoxiaoNeural|种群数量达到 K值 时，增长速率为零。",
+		"seconds": 4.44
+	},
+	"rr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：增长速率曲线的最高点对应二分之K，增长速率降到零的点对应K值。不要把增长速率最大的时刻当成数量最多的时刻。",
+		"seconds": 12.912
+	},
+	"ka1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，K值与二分之K的应用。先看渔业捕捞。",
+		"seconds": 5.568
+	},
+	"ka2": {
+		"key": "zh-CN-XiaoxiaoNeural|捕捞后，让剩余量维持在二分之K左右，种群增长速率最快，可以持续获得较大的捕捞量。",
+		"seconds": 8.64
+	},
+	"ka3": {
+		"key": "zh-CN-XiaoxiaoNeural|再看有害生物防治，比如灭鼠：硬化地面、储藏好粮食、养殖天敌，降低K值，从根本上控制鼠害。",
+		"seconds": 10.008
+	},
+	"ka4": {
+		"key": "zh-CN-XiaoxiaoNeural|防治越早越好，要在种群数量达到二分之K之前进行。",
+		"seconds": 5.496
+	},
+	"ka5": {
+		"key": "zh-CN-XiaoxiaoNeural|保护濒危动物，要建立自然保护区，改善栖息环境，提高K值。",
+		"seconds": 6.336
+	},
+	"ka6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：是捕捞后剩余二分之K，不是捕捞到二分之K才开始；灭鼠的关键是降低K值，而不是把数量控制在二分之K。",
+		"seconds": 11.28
+	},
+	"fl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，种群数量的波动和下降。在自然界，大多数种群的数量总是在波动中。",
+		"seconds": 8.16
+	},
+	"fl2": {
+		"key": "zh-CN-XiaoxiaoNeural|有些种群会出现周期性波动，有些则会在短时间内大量增长，比如东亚飞蝗的爆发、赤潮中藻类的激增。",
+		"seconds": 9.936
+	},
+	"fl3": {
+		"key": "zh-CN-XiaoxiaoNeural|当种群长久处于不利条件下，比如遭遇人类乱捕滥杀和栖息地破坏，种群数量会持续下降，甚至灭亡。",
+		"seconds": 10.08
+	},
+	"fl4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：种群数量的变化包括增长、波动和下降。“S”形增长达到K值后并不是一条直线，而是在K值附近波动。",
+		"seconds": 10.992
+	},
+	"ys1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，探究培养液中酵母菌种群数量的变化。用血细胞计数板在显微镜下计数。",
+		"seconds": 8.616
+	},
+	"ys2": {
+		"key": "zh-CN-XiaoxiaoNeural|操作顺序：先盖盖玻片，再把培养液滴在盖玻片边缘，让它自行渗入，吸去多余的培养液。",
+		"seconds": 9.048
+	},
+	"ys3": {
+		"key": "zh-CN-XiaoxiaoNeural|从试管中吸取培养液前要振荡，使酵母菌分布均匀；稍等片刻，待酵母菌沉降到计数室底部再计数。",
+		"seconds": 9.816
+	},
+	"ys4": {
+		"key": "zh-CN-XiaoxiaoNeural|计数室的体积是1毫米乘1毫米乘0.1毫米，即0.1立方毫米。每毫升酵母菌数，等于计数室中的酵母菌数乘一万，再乘稀释倍数。",
+		"seconds": 13.416
+	},
+	"ys5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：顺序不能反；菌体过多要稀释；本实验不需要另设对照，前后自身对照，但要重复实验取平均值。",
+		"seconds": 10.392
+	},
+	"lb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，兰姆达曲线的判读。高考常给出兰姆达随时间变化的曲线。",
+		"seconds": 7.056
+	},
+	"lb2": {
+		"key": "zh-CN-XiaoxiaoNeural|兰姆达大于1，种群数量增加；兰姆达等于1，数量不变；兰姆达小于1，数量减少。",
+		"seconds": 8.472
+	},
+	"lb3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以，兰姆达虽然在下降，但只要仍大于1，种群数量就仍在增加。",
+		"seconds": 6.696
+	},
+	"lb4": {
+		"key": "zh-CN-XiaoxiaoNeural|种群数量最多的时刻，是兰姆达从大于1降到等于1的时刻；最少的时刻，是兰姆达从小于1回升到等于1的时刻。",
+		"seconds": 10.656
+	},
+	"lb5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看兰姆达和1比大小，不看兰姆达升还是降。",
+		"seconds": 5.568
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：“J”形增长的种群，增长率保持不变？对。判断二：种群数量达到K值后就不再变化？错，在K值附近波动。",
+		"seconds": 12.888
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：环境条件改变，K值不会改变？错。判断四：捕捞后种群数量应维持在二分之K左右？对。",
+		"seconds": 11.568
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：计数时先滴培养液，再盖盖玻片？错，先盖后滴。判断六：兰姆达下降时，种群数量一定减少？错。",
+		"seconds": 12.528
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：二分之K增长最快，兰姆达和1比大小。我们下期再见！",
+		"seconds": 8.112
+	}
+}

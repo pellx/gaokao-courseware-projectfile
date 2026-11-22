@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Hcl: React.FC = () => <AutoScene k="hcl" d={{"tag": "考点二", "title": "与盐酸的反应", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "NaHCO3：一步", "at": "hc1", "lines": ["HCO3^- + H^+ = CO2↑ + H2O", "反应{更快}"], "c": "orange", "size": 31}]}, {"blocks": [{"t": "panel", "title": "Na2CO3：两步", "at": "hc2", "lines": ["CO3^2- + H^+ = HCO3^-", "HCO3^- + H^+ = CO2↑ + H2O"], "c": "red", "size": 31}]}]}, {"t": "table", "at": "hc3", "head": ["操作", "现象"], "cols": "2fr 2fr", "rows": [{"at": "hc3", "cells": ["向 Na2CO3 溶液中滴加盐酸", "开始{无气泡}，后有气泡"]}, {"at": "hc3", "cells": ["向盐酸中滴加 Na2CO3 溶液", "{立即有气泡|orange}"]}], "size": 31, "rowHeight": 62}], "callout": {"label": "易错", "at": "hc4", "text": "等质量与足量盐酸反应：{NaHCO3 放出的 CO2 更多}"}}} />;

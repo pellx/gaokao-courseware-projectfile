@@ -1,0 +1,38 @@
+{
+	"id": "BX2-01",
+	"title": "孟德尔的豌豆杂交实验（一）（上）：一对相对性状的杂交实验",
+	"subject": "biology",
+	"book": "人教版·必修2·第1章",
+	"points": ["豌豆作材料的优点", "人工异花传粉", "遗传学基本概念", "一对相对性状实验", "对分离现象的解释", "性状分离比模拟", "测交实验", "假说—演绎法"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["一对相对性状的"], ["杂交实验", true]],
+		"subtitle": "孟德尔的豌豆杂交实验（一）（上） · 分离现象 · 测交",
+		"photo": "mendel.jpg",
+		"photoCaption": "孟德尔（1822—1884）",
+		"photoPos": "center 15%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["一对相对性状"]], [["杂交实验", true]]],
+		"kicker": "分离现象 · 测交 · 假说—演绎",
+		"photo": "mendel-cover.jpg",
+		"photoPos": {"16x9": "center 20%", "4x3": "center 25%", "3x4": "center 42%"},
+		"photoTag": "遗传学之父孟德尔",
+		"credit": "Portrait of G. J. Mendel, Wellcome Collection, CC BY 4.0 (cropped)"
+	},
+	"review": {
+		"items": [
+			{"q": "豌豆自花传粉、闭花受粉，自然状态下一般是纯种", "ok": true, "fix": ""},
+			{"q": "人工异花传粉时，应在豌豆开花后对母本去雄", "ok": false, "fix": "应在花蕾期（花粉成熟前）去雄"},
+			{"q": "F2 中同时出现高茎和矮茎的现象叫作性状分离", "ok": true, "fix": ""},
+			{"q": "F1 产生的雌配子和雄配子数量相等", "ok": false, "fix": "雄配子远多于雌配子；D∶d = 1∶1"},
+			{"q": "模拟实验中，两个小桶里的彩球总数必须相等", "ok": false, "fix": "每个小桶内两种彩球数量相等即可"},
+			{"q": "“演绎推理”就是进行测交实验", "ok": false, "fix": "是设计测交实验并预测结果"}
+		],
+		"endTitle": [["一对相对性状的"], ["杂交实验", true]],
+		"endLine": "豌豆 · 杂交操作 · 分离现象 · 测交 · 假说—演绎",
+		"slogan": "记住 3∶1 和 1∶1，分清“演绎”和“检验”！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Wellcome Collection《Portrait of Gregor Johann Mendel》CC BY 4.0；Reaperman《Pisum sativum flower》CC BY-SA 3.0"
+}

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Vt: React.FC = () => <AutoScene k="vt" d={{"tag": "考点五", "title": "含硫物质的价类二维图", "blocks": [{"t": "table", "at": "vt2", "head": ["价态", "氢化物 / 单质 / 氧化物", "酸", "盐"], "cols": "0.7fr 1.5fr 1fr 1.3fr", "rows": [{"at": "vt2", "cells": ["{+6}", "SO3", "H2SO4", "Na2SO4"]}, {"at": "vt2", "cells": ["{+4|orange}", "SO2", "H2SO3", "Na2SO3、NaHSO3"]}, {"at": "vt2", "cells": ["0", "S", "—", "—"]}, {"at": "vt2", "cells": ["−2", "H2S", "（氢硫酸）", "Na2S"]}], "size": 31, "rowHeight": 64}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "竖着走", "at": "vt3", "text": "{氧化还原}", "c": "red", "size": 30}]}, {"blocks": [{"t": "rule", "tag": "横着走", "at": "vt4", "text": "{酸碱反应|orange}", "c": "orange", "size": 30}]}]}], "callout": {"label": "解题方法", "at": "vt5", "text": "先找{起点和终点的价态}"}}} />;

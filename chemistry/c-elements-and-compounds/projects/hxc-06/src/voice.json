@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|铁盐和亚铁盐：转化与检验。",
+		"seconds": 3.336
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验探究题的常客：铁离子与亚铁离子的相互转化、检验和除杂，共八个考点。",
+		"seconds": 7.728
+	},
+	"f31": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，铁离子的氧化性。与铁：两个铁离子加铁生成三个亚铁离子；与铜：两个铁离子加铜生成两个亚铁离子和铜离子，用来腐蚀铜制印刷电路板。",
+		"seconds": 14.904
+	},
+	"f32": {
+		"key": "zh-CN-XiaoxiaoNeural|与碘离子：两个铁离子加两个碘离子生成两个亚铁离子和碘；与二氧化硫：两个铁离子加二氧化硫加两个水，生成两个亚铁离子、硫酸根和四个氢离子。",
+		"seconds": 14.352
+	},
+	"f33": {
+		"key": "zh-CN-XiaoxiaoNeural|与硫化氢：生成亚铁离子和硫沉淀。规律：铁离子的氧化性比铜离子、碘强，比氯气弱。",
+		"seconds": 9.696
+	},
+	"f34": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氯化铁腐蚀铜板不是置换反应，生成的是亚铁离子，不是铁。",
+		"seconds": 7.008
+	},
+	"f21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，亚铁离子的还原性。被氯气氧化：两个亚铁离子加氯气生成两个铁离子和两个氯离子。",
+		"seconds": 9.528
+	},
+	"f22": {
+		"key": "zh-CN-XiaoxiaoNeural|被过氧化氢氧化：两个亚铁离子加过氧化氢加两个氢离子，生成两个铁离子和两个水，这是除杂时的绿色氧化剂，不引入杂质。",
+		"seconds": 12
+	},
+	"f23": {
+		"key": "zh-CN-XiaoxiaoNeural|被酸性高锰酸钾氧化：一个高锰酸根加五个亚铁离子加八个氢离子，生成锰离子、五个铁离子和四个水，是滴定测铁含量的反应。",
+		"seconds": 12.528
+	},
+	"f23b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩一脸问号，旁边飘着蓝发女孩的头像：亚铁离子和铁离子一会儿变成对方，要看遇到的是氧化剂还是还原剂。",
+		"seconds": 10.848
+	},
+	"f24": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：保存硫酸亚铁溶液要加铁粉，防止亚铁离子被空气氧化；不是加盐酸。",
+		"seconds": 7.992
+	},
+	"d31": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，铁离子的检验。最常用：滴加硫氰化钾溶液，溶液变红色。",
+		"seconds": 7.512
+	},
+	"d32": {
+		"key": "zh-CN-XiaoxiaoNeural|本质是铁离子与硫氰根生成红色的配合物，不是沉淀。",
+		"seconds": 5.64
+	},
+	"d32b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩举着画笔，脸颊红红：硫氰化钾一碰到铁离子，溶液就变红，灵敏度很高。",
+		"seconds": 8.328
+	},
+	"d33": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以加氢氧化钠溶液，生成红褐色沉淀氢氧化铁。",
+		"seconds": 5.352
+	},
+	"d34": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“生成红色沉淀”是错的，硫氰化钾检验铁离子是溶液变红。",
+		"seconds": 6.792
+	},
+	"d21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，亚铁离子的检验。方法一：先加硫氰化钾溶液，无明显现象，再加氯水，溶液变红。",
+		"seconds": 9.936
+	},
+	"d22": {
+		"key": "zh-CN-XiaoxiaoNeural|顺序不能反：先加氯水，就分不清红色来自原有的铁离子还是新生成的铁离子。",
+		"seconds": 7.872
+	},
+	"d23": {
+		"key": "zh-CN-XiaoxiaoNeural|方法二：加铁氰化钾溶液，生成蓝色沉淀，专门检验亚铁离子，不受铁离子干扰。",
+		"seconds": 8.352
+	},
+	"d24": {
+		"key": "zh-CN-XiaoxiaoNeural|方法三：亚铁离子使酸性高锰酸钾褪色，但有氯离子时不能用，氯离子也能使它褪色。",
+		"seconds": 8.64
+	},
+	"d25": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：溶液里已经有铁离子，检验亚铁离子不能用硫氰化钾法，用铁氰化钾，或者在没有氯离子时用酸性高锰酸钾。",
+		"seconds": 11.712
+	},
+	"pu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，除杂。氯化铁中混有氯化亚铁：通入氯气，或加过氧化氢，把亚铁离子氧化成铁离子。",
+		"seconds": 10.2
+	},
+	"pu2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化亚铁中混有氯化铁：加入过量铁粉，充分反应后过滤。",
+		"seconds": 6.024
+	},
+	"pu3": {
+		"key": "zh-CN-XiaoxiaoNeural|铜离子溶液中混有铁离子：加氧化铜或氢氧化铜调节pH，使铁离子转化为氢氧化铁沉淀，再过滤。",
+		"seconds": 10.224
+	},
+	"pu4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：除杂三原则：不增、不减、易分离；调 pH 要用含被提纯金属的物质，不引入新杂质。",
+		"seconds": 9.864
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，铁离子的水解：铁离子加三个水可逆地生成氢氧化铁和三个氢离子，溶液显酸性。",
+		"seconds": 9.168
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|配制 FeCl3 溶液：先把晶体溶在浓盐酸中再稀释，抑制水解。",
+		"seconds": 6.768
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化铁溶液蒸干：氯化氢挥发，水解彻底，得到氢氧化铁；再灼烧得到氧化铁。",
+		"seconds": 8.184
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：配氯化铁溶液加盐酸是为了抑制水解；配硫酸亚铁溶液加铁粉是为了防止氧化。两者别混。",
+		"seconds": 10.056
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，实验探究中的 Fe^3+。北京卷常探究 Fe^3+ 与 I^-、S氧气、Ag 等反应：能不能发生、进行到什么程度。",
+		"seconds": 12.048
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|铁离子与碘离子是可逆反应：氯化铁与过量碘化钾反应后，加硫氰化钾仍变红，说明铁离子没有反应完。",
+		"seconds": 10.176
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁离子与银也是可逆的：铁离子加银可逆地生成亚铁离子和银离子，改变浓度可以让反应向不同方向进行。",
+		"seconds": 10.392
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到“先出现某现象，后又变化”，要想到速率和限度的竞争：快的反应先出现，平衡决定最终结果。",
+		"seconds": 10.512
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，铁及其化合物的颜色速查。溶液：铁离子黄色，亚铁离子浅绿色，硫氰化铁红色。",
+		"seconds": 9.6
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|沉淀：氢氧化亚铁白色，氢氧化铁红褐色；亚铁离子遇铁氰化钾生成蓝色沉淀。",
+		"seconds": 8.28
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|固体：Fe2O3 红棕色，FeO 和 Fe3O4 黑色，FeCl3 固体棕褐色。",
+		"seconds": 7.752
+	},
+	"co3b": {
+		"key": "zh-CN-XiaoxiaoNeural|琴键前笑得眯起眼的金发女孩，背景是一片薄荷绿：记住，亚铁离子溶液是浅绿色。",
+		"seconds": 8.136
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：描述现象要写全：溶液由浅绿色变为黄色，或产生红褐色沉淀，不能只写“变色”。",
+		"seconds": 9.288
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：铁离子与硫氰化钾生成红色沉淀？错，溶液变红。判断二：先加氯水再加硫氰化钾变红，说明有亚铁离子？错，顺序反了。",
+		"seconds": 14.784
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氯化铁溶液能腐蚀铜板？对。判断四：除去氯化亚铁中的氯化铁，加过量铁粉过滤？对。",
+		"seconds": 11.28
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：配氯化铁溶液加盐酸是防止被还原？错，是抑制水解。判断六：氯化铁溶液蒸干灼烧得氯化铁？错，得氧化铁。",
+		"seconds": 13.656
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先硫氰后氯水，有三价用铁氰。下一期：金属材料：合金与铝。",
+		"seconds": 7.176
+	}
+}

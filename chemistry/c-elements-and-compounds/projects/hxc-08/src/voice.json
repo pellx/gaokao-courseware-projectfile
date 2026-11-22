@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|硫与二氧化硫。",
+		"seconds": 2.016
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验探究常以二氧化硫为题材：它的酸性、还原性、氧化性、漂白性分别怎么体现，共七个考点。",
+		"seconds": 9.96
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，硫单质：俗称硫黄，淡黄色晶体；难溶于水，微溶于酒精，易溶于二硫化碳。",
+		"seconds": 8.928
+	},
+	"su1b": {
+		"key": "zh-CN-XiaoxiaoNeural|从蛋壳里探出头的小鸡女孩，一身鹅黄：硫黄就是这种淡黄色。",
+		"seconds": 6.336
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|硫的氧化性较弱，与变价金属反应生成低价硫化物：铁和硫生成硫化亚铁，铜和硫生成硫化亚铜。",
+		"seconds": 9.816
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|硫在氧气中燃烧，无论氧气多少，都只生成二氧化硫，在纯氧中发出明亮的蓝紫色火焰。",
+		"seconds": 8.736
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：硫不能一步生成三氧化硫；洗去试管壁上的硫，用二硫化碳或热的氢氧化钠溶液。",
+		"seconds": 8.616
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，二氧化硫是酸性氧化物：二氧化硫与水可逆地生成亚硫酸，亚硫酸是中强酸。",
+		"seconds": 8.904
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|与碱：少量二氧化硫生成亚硫酸钠，过量二氧化硫生成亚硫酸氢钠；与碱性氧化物：二氧化硫加氧化钙生成亚硫酸钙。",
+		"seconds": 11.76
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|通入澄清石灰水：先变浑浊，过量后变澄清，和二氧化碳的现象一样。",
+		"seconds": 7.08
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化硫通入氯化钡溶液，弱酸不能制强酸，没有沉淀。",
+		"seconds": 6.528
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，二氧化硫的还原性：硫是正4价，能被氧化成正6价。使酸性高锰酸钾溶液、溴水褪色。",
+		"seconds": 10.296
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|与溴水：二氧化硫加溴加两个水，生成硫酸和两个溴化氢；与氧气：两个二氧化硫加氧气在催化剂加热下可逆生成两个三氧化硫。",
+		"seconds": 12.912
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|还能被铁离子、过氧化氢、硝酸氧化：二氧化硫通入硝酸钡溶液，酸性下硝酸根把它氧化成硫酸根，有白色沉淀硫酸钡。",
+		"seconds": 11.856
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化硫使酸性高锰酸钾、溴水褪色体现的是还原性，不是漂白性。",
+		"seconds": 8.016
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，二氧化硫的氧化性：遇到更强的还原剂硫化氢时，硫从正4降到0。",
+		"seconds": 7.656
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化硫加两个硫化氢生成三个硫沉淀和两个水，产生淡黄色沉淀，是硫元素的归中反应。",
+		"seconds": 8.784
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化产物和还原产物都是硫，质量比为2比1。",
+		"seconds": 4.8
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化硫以还原性为主，只有遇到硫化氢这类强还原剂才表现氧化性。",
+		"seconds": 7.752
+	},
+	"bl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，二氧化硫的漂白性：与有色物质化合成不稳定的无色物质，使品红溶液褪色，加热后恢复红色。",
+		"seconds": 10.032
+	},
+	"bl1b": {
+		"key": "zh-CN-XiaoxiaoNeural|捧着热饮的粉发猫耳女孩：粉红色就像品红，二氧化硫让它褪色，一加热又粉回来了。",
+		"seconds": 8.352
+	},
+	"bl2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化硫不能漂白酸碱指示剂：通入紫色石蕊溶液，只变红，不褪色。",
+		"seconds": 7.056
+	},
+	"bl3": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化硫和氯气等物质的量混合：生成硫酸和两个氯化氢，漂白性消失。",
+		"seconds": 7.248
+	},
+	"bl4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：检验二氧化硫：通入品红溶液，褪色，加热后又恢复红色，证明是二氧化硫。",
+		"seconds": 9.144
+	},
+	"so1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，三氧化硫与工业制硫酸。三氧化硫是酸性氧化物，与水生成硫酸；标准状况下三氧化硫不是气体。",
+		"seconds": 11.208
+	},
+	"so2": {
+		"key": "zh-CN-XiaoxiaoNeural|工业制硫酸三步：黄铁矿煅烧生成二氧化硫；二氧化硫在催化剂作用下氧化成三氧化硫；三氧化硫被吸收成硫酸。",
+		"seconds": 11.64
+	},
+	"so3": {
+		"key": "zh-CN-XiaoxiaoNeural|吸收三氧化硫用98.3%的浓硫酸，不用水，避免形成酸雾、吸收不完全。",
+		"seconds": 8.208
+	},
+	"so4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“用水吸收三氧化硫”是错的；标况下22.4升三氧化硫不是1摩尔。",
+		"seconds": 7.776
+	},
+	"id1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，鉴别二氧化硫和二氧化碳。两者都能使澄清石灰水先浑浊后澄清，所以不能用石灰水鉴别。",
+		"seconds": 10.704
+	},
+	"id2": {
+		"key": "zh-CN-XiaoxiaoNeural|能用：品红溶液、酸性高锰酸钾溶液、溴水，二氧化硫能使它们褪色，二氧化碳不能。",
+		"seconds": 8.928
+	},
+	"id2b": {
+		"key": "zh-CN-XiaoxiaoNeural|眨着眼敲鼓的金发女孩：两种气体都能让石灰水变浑浊，别被骗，要用品红区分。",
+		"seconds": 8.16
+	},
+	"id3": {
+		"key": "zh-CN-XiaoxiaoNeural|混合气体中检验二氧化碳：品红检验二氧化硫，酸性高锰酸钾除去二氧化硫，品红检验已除尽，澄清石灰水检验二氧化碳。",
+		"seconds": 12.552
+	},
+	"id4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：第二个品红溶液不褪色，石灰水变浑浊，才能证明含二氧化碳。",
+		"seconds": 7.44
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：硫在过量氧气中燃烧生成三氧化硫？错，只生成二氧化硫。判断二：二氧化硫通入氯化钡溶液有沉淀？错。",
+		"seconds": 13.104
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：二氧化硫使酸性高锰酸钾褪色是漂白性？错，是还原性。判断四：二氧化硫使品红褪色，加热恢复？对。",
+		"seconds": 13.392
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：能用澄清石灰水鉴别二氧化硫和二氧化碳？错。判断六：铜和硫加热生成硫化亚铜？对。",
+		"seconds": 11.64
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|品红褪色加热回，高锰酸钾褪色是还原。下一期：硫酸与含硫物质的转化。",
+		"seconds": 7.944
+	}
+}

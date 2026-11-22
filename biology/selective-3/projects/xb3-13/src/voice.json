@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第三章第二节的上半部分——获取目的基因与构建基因表达载体。",
+		"seconds": 10.416
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考P C R的原理、条件和计算，基因表达载体的组成，以及限制酶的选择。",
+		"seconds": 7.848
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，基因工程的基本操作程序，一共四步。第一步，目的基因的筛选与获取。",
+		"seconds": 8.16
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，基因表达载体的构建，这是基因工程的核心。",
+		"seconds": 5.136
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，将目的基因导入受体细胞。",
+		"seconds": 3.768
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，目的基因的检测与鉴定。",
+		"seconds": 3.504
+	},
+	"st5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：核心步骤是构建基因表达载体，不是获取目的基因；其中只有导入受体细胞这一步不涉及碱基互补配对。",
+		"seconds": 10.296
+	},
+	"ta1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，目的基因的筛选与获取。在基因工程中，目的基因主要是指编码蛋白质的基因，比如苏云金杆菌的B t抗虫蛋白基因。",
+		"seconds": 12.216
+	},
+	"ta2": {
+		"key": "zh-CN-XiaoxiaoNeural|筛选：从相关的已知结构和功能清晰的基因中进行筛选，是较为有效的方法。",
+		"seconds": 7.728
+	},
+	"ta3": {
+		"key": "zh-CN-XiaoxiaoNeural|获取：常用P C R特异性地快速扩增目的基因；也可以人工合成，或通过构建基因文库来获取。",
+		"seconds": 9.384
+	},
+	"ta4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问获取方法。解题方法：已知目的基因两端的序列、需要大量扩增时，首选P C R。",
+		"seconds": 9.192
+	},
+	"pc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，P C R的原理与过程。P C R是聚合酶链式反应，原理是D N A半保留复制。",
+		"seconds": 9.312
+	},
+	"pc2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步，变性：温度上升到90摄氏度以上，双链D N A解聚为单链。",
+		"seconds": 7.08
+	},
+	"pc3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，复性：温度下降到50摄氏度左右，两种引物通过碱基互补配对与两条单链结合。",
+		"seconds": 9.096
+	},
+	"pc4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，延伸：温度上升到72摄氏度左右，耐高温的D N A聚合酶从引物的三撇端开始，合成新的D N A链。",
+		"seconds": 10.968
+	},
+	"pc5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：P C R不用解旋酶，靠高温解旋；子链的延伸方向是五撇到三撇。",
+		"seconds": 7.704
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，P C R的条件与计算。需要：模板D N A、两种引物、4种脱氧核苷酸、耐高温的D N A聚合酶，缓冲液中一般还要添加镁离子。",
+		"seconds": 14.16
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|引物是一小段能与D N A母链的一段碱基序列互补配对的短单链核酸，使D N A聚合酶能够从引物的三撇端开始连接脱氧核苷酸。",
+		"seconds": 12.384
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|计算：1个D N A分子经过n轮循环，得到2的n次方个D N A分子，共消耗引物2的n加1次方减2个。",
+		"seconds": 10.656
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|第3轮循环开始出现两条链等长的目的基因片段；n轮后，这样的片段有2的n次方减2n个。",
+		"seconds": 9.264
+	},
+	"ca5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：引物数等于新合成的子链数——总链数减去2条母链，再一一对应。",
+		"seconds": 7.584
+	},
+	"ve1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，基因表达载体的组成。除了目的基因，还要有启动子、终止子、标记基因和复制原点。",
+		"seconds": 9.576
+	},
+	"ve2": {
+		"key": "zh-CN-XiaoxiaoNeural|启动子：位于基因上游，是R N A聚合酶识别和结合的部位，驱动基因转录出m R N A。",
+		"seconds": 9.048
+	},
+	"ve3": {
+		"key": "zh-CN-XiaoxiaoNeural|终止子：位于基因下游，使转录在所需要的地方停下来。",
+		"seconds": 5.616
+	},
+	"ve4": {
+		"key": "zh-CN-XiaoxiaoNeural|标记基因：便于鉴别和筛选含有目的基因的细胞，常用抗生素抗性基因。",
+		"seconds": 7.032
+	},
+	"ve5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问构建表达载体的目的。解题方法：答“使目的基因在受体细胞中稳定存在，并且可以遗传给下一代，同时使目的基因能够表达和发挥作用”。",
+		"seconds": 13.896
+	},
+	"bu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，基因表达载体的构建。先用同种限制酶或能产生相同末端的限制酶，切割载体和含目的基因的D N A片段。",
+		"seconds": 11.64
+	},
+	"bu2": {
+		"key": "zh-CN-XiaoxiaoNeural|再用D N A连接酶把目的基因和载体连接起来，形成重组D N A。",
+		"seconds": 6.744
+	},
+	"bu3": {
+		"key": "zh-CN-XiaoxiaoNeural|常用两种不同的限制酶同时切割，也就是双酶切：可以防止目的基因和载体自身环化，还能防止目的基因反向连接。",
+		"seconds": 10.656
+	},
+	"bu4": {
+		"key": "zh-CN-XiaoxiaoNeural|选限制酶的原则：不能破坏目的基因；也不能破坏载体上的启动子、终止子、复制原点，至少保留一个标记基因。",
+		"seconds": 10.464
+	},
+	"bu5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看图选酶时，先把切点在目的基因内部的酶排除，再排除会切坏载体必需结构的酶。",
+		"seconds": 9.288
+	},
+	"cd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，启动子与起始密码子、终止子与终止密码子的区别。启动子和终止子，是D N A上的一段序列，控制的是转录。",
+		"seconds": 11.88
+	},
+	"cd2": {
+		"key": "zh-CN-XiaoxiaoNeural|起始密码子和终止密码子，位于m R N A上，控制的是翻译的开始和结束。",
+		"seconds": 7.32
+	},
+	"cd3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：启动子不是起始密码子；终止子不是终止密码子。一个看D N A和转录，一个看m R N A和翻译。",
+		"seconds": 10.728
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：基因工程的核心是构建基因表达载体？对。判断二：P C R用解旋酶解开双链？错，靠高温变性。",
+		"seconds": 12.144
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：P C R需要耐高温的D N A聚合酶？对。判断四：n轮循环需要2的n次方个引物？错，是2的n加1次方减2个。",
+		"seconds": 14.064
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：启动子是m R N A上起始翻译的序列？错。判断六：双酶切可以防止自身环化？对。",
+		"seconds": 11.016
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：核心是构建，P C R靠温度。我们下期再见！",
+		"seconds": 7.152
+	}
+}

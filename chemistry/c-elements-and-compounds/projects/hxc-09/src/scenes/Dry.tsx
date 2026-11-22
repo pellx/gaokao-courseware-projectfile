@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Dry: React.FC = () => <AutoScene k="dry" d={{"tag": "考点一", "title": "浓硫酸的吸水性与脱水性", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "吸水性：吸收现成的水", "at": "dr1", "lines": ["作干燥剂", {"at": "dr2", "text": "能干燥：Cl2、SO2、CO2、HCl"}, {"at": "dr2", "text": "不能：{NH3}（碱性）"}, {"at": "dr2", "text": "不能：{H2S、HI、HBr}（还原性）"}], "c": "red", "size": 30}]}, {"blocks": [{"t": "panel", "title": "脱水性：按 2 : 1 夺走 H、O", "at": "dr3", "lines": ["蔗糖炭化成“{黑面包|orange}”", "纸张、木条变黑"], "c": "orange", "size": 30}]}]}], "callout": {"label": "易错", "at": "dr4", "text": "胆矾变白：{吸水性}；蔗糖变黑：{脱水性|orange}"}, "beat": [{"k": "drink", "at": "dr2b", "text": "见到水就吸\n= {吸水性|red}"}, {"k": "okono", "at": "dr3b", "text": "蔗糖变“黑面包”\n= {脱水性|red}"}]}} />;

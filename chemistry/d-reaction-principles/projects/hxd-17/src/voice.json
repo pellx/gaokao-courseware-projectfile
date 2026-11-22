@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电解的应用与离子交换膜。",
+		"seconds": 3.048
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷原理大题偏爱电解制备与膜分离：写电极反应、说明离子怎么迁移，共八个考点。",
+		"seconds": 8.832
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，氯碱工业：电解饱和食盐水。阳极两个氯离子失去两个电子生成氯气；阴极两个水得到两个电子，生成氢气和两个氢氧根。",
+		"seconds": 13.56
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|总反应：两个氯化钠加两个水，通电生成两个氢氧化钠、氢气和氯气。氢氧化钠在阴极区生成。",
+		"seconds": 9.984
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|用阳离子交换膜：只让钠离子从阳极区移到阴极区，阻止氢氧根移向阳极、阻止氯气与氢氧化钠反应，也防止氢气和氯气混合爆炸。",
+		"seconds": 12.72
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：精制食盐水要除去钙离子、镁离子、硫酸根，碳酸钠要加在氯化钡之后，以除去过量的钡离子。",
+		"seconds": 10.344
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电镀：在金属表面镀上一层其他金属。镀层金属作阳极，镀件作阴极，含镀层金属离子的溶液作电镀液。",
+		"seconds": 11.712
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：铁上镀铜。阳极铜失去两个电子变成铜离子，阴极铜离子得到两个电子析出铜。阳极溶解多少铜，阴极就析出多少。",
+		"seconds": 12.792
+	},
+	"pl2b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩站在橙色波点背景前：要给谁“镀金”，谁就站在阴极；金子本身站在阳极，慢慢溶下来。",
+		"seconds": 9.624
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以电镀过程中，电镀液的浓度基本不变。",
+		"seconds": 4.608
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：镀件接电源负极，不是正极；接反了，镀件自己会被溶解。",
+		"seconds": 6.864
+	},
+	"rf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电解精炼铜：粗铜作阳极，纯铜作阴极，硫酸铜溶液作电解质。",
+		"seconds": 7.728
+	},
+	"rf2": {
+		"key": "zh-CN-XiaoxiaoNeural|阳极：比铜活泼的锌、铁、镍先失电子进入溶液，然后铜失电子；比铜不活泼的银、金沉在底部，形成阳极泥。",
+		"seconds": 11.4
+	},
+	"rf3": {
+		"key": "zh-CN-XiaoxiaoNeural|阴极只有铜离子得电子析出铜。阳极溶解的铜比阴极析出的少，所以铜离子浓度略有减小。",
+		"seconds": 9.528
+	},
+	"rf4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：精炼时阳极减少的质量不等于阴极增加的质量；电镀时二者相等。",
+		"seconds": 7.32
+	},
+	"mt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，电冶金：活泼金属只能用电解法冶炼，而且要电解熔融化合物。",
+		"seconds": 7.728
+	},
+	"mt2": {
+		"key": "zh-CN-XiaoxiaoNeural|钠：电解熔融氯化钠；镁：电解熔融氯化镁；铝：电解熔融氧化铝，加冰晶石降低熔点。",
+		"seconds": 9.384
+	},
+	"mt3": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么不电解氯化铝？氯化铝是共价化合物，熔融时不导电。为什么不电解氧化镁？氧化镁熔点太高，耗能大。",
+		"seconds": 11.376
+	},
+	"mt4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电解氯化钠溶液得不到钠，得到的是氢氧化钠、氢气和氯气。",
+		"seconds": 6.792
+	},
+	"mb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，离子交换膜。阳离子交换膜只允许阳离子通过；阴离子交换膜只允许阴离子通过；质子交换膜只允许氢离子通过。",
+		"seconds": 12.528
+	},
+	"mb2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断用哪种膜：看目标产物在哪一室生成，需要什么离子从另一室迁移过来补充电荷。",
+		"seconds": 8.28
+	},
+	"mb2b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴贝雷帽的银发女孩双手交握，站得笔直：交换膜就像门卫，只放一种电荷的离子过去。",
+		"seconds": 8.52
+	},
+	"mb3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：电解硫酸钠溶液制氢氧化钠和硫酸：中间室放硫酸钠，阴极侧用阳离子膜让钠离子过去，阳极侧用阴离子膜让硫酸根过去。",
+		"seconds": 12.6
+	},
+	"mb4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：阴极区生成氢氧根，需要阳离子进来；阳极区生成氢离子，需要阴离子进来。",
+		"seconds": 8.544
+	},
+	"bp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，双极膜，课本没有，北京卷原理题常考：由阳膜和阴膜复合而成，中间的水在电场作用下解离成氢离子和氢氧根。",
+		"seconds": 12.096
+	},
+	"bp2": {
+		"key": "zh-CN-XiaoxiaoNeural|氢离子移向阴极一侧，氢氧根移向阳极一侧。双极膜本身就是氢离子和氢氧根的来源。",
+		"seconds": 8.592
+	},
+	"bp3": {
+		"key": "zh-CN-XiaoxiaoNeural|应用：用盐制取对应的酸和碱，比如用氯化钠溶液同时得到盐酸和氢氧化钠。",
+		"seconds": 7.584
+	},
+	"bp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：画出双极膜两侧离子的去向：氢离子跟着阳离子走向阴极，氢氧根跟着阴离子走向阳极。",
+		"seconds": 10.032
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，膜两侧溶液浓度的变化：结合电极反应和离子迁移一起分析。",
+		"seconds": 7.152
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：氯碱工业阴极室，每转移两摩尔电子，生成两摩尔氢氧根，同时有两摩尔钠离子迁移进来，所以氢氧化钠浓度增大。",
+		"seconds": 11.688
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|阳极室：氯离子放电减少，钠离子迁出，氯化钠浓度减小，要不断补充饱和食盐水，流出淡盐水。",
+		"seconds": 9.744
+	},
+	"cc3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩站在红色聚光灯下，张大了嘴：别只看电极反应，迁进来、迁出去的离子也要算进去！",
+		"seconds": 9.144
+	},
+	"cc4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：算一个室的质量变化或浓度变化等于电极反应引起的变化加迁移进出的离子，两部分都要算。",
+		"seconds": 9.816
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，电解制备题的四步法。第一步，定阴阳极：看电源正负极，或看哪一极发生氧化。",
+		"seconds": 9.288
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，写电极反应：目标产物在哪一极生成，就写那一极；注意溶液的酸碱性。",
+		"seconds": 8.016
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，判断离子迁移：看膜的种类和电荷平衡。第四步，算电子：用转移电子数串联各量。",
+		"seconds": 10.008
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：解释“膜的作用”时写：允许某离子通过，使某室生成某产物，同时防止某物质混合或反应。",
+		"seconds": 9.72
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：氯碱工业氢氧化钠在阳极区生成？错，在阴极区。判断二：电镀时镀件作阳极？错，作阴极。",
+		"seconds": 12
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：精炼铜阳极减少等于阴极增加？错，不相等。判断四：电解熔融氧化铝炼铝？对。",
+		"seconds": 10.704
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：阳离子交换膜只让阳离子通过？对。判断六：双极膜中氢离子移向阳极？错，移向阴极。",
+		"seconds": 11.304
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|镀件放阴极，粗铜放阳极，膜只放一种离子。下一期：金属的腐蚀与防护。",
+		"seconds": 7.848
+	}
+}

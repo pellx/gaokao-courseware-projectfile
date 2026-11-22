@@ -1,0 +1,38 @@
+{
+	"id": "XB1-18",
+	"title": "植物生长素（上）：生长素的发现",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第5章",
+	"points": ["达尔文的实验", "鲍森·詹森的实验", "拜尔的实验", "温特的实验", "生长素的化学本质", "向光性的原因", "植物激素的概念", "胚芽鞘生长的判断"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["生长素的"], ["发现", true]],
+		"subtitle": "植物生长素（上）· 经典实验 · 向光性",
+		"photo": "darwin.jpg",
+		"photoCaption": "达尔文：最早研究植物的向光性",
+		"photoPos": "50% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生长素的"], ["发现", true]]],
+		"kicker": "四个经典实验 · 向光性",
+		"photo": "darwin.jpg",
+		"photoPos": "50% center",
+		"photoTag": "达尔文与胚芽鞘实验",
+		"credit": "Photo: Elliott & Fry, public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "达尔文的实验发现了生长素", "ok": false, "fix": "只提出尖端产生某种“影响”"},
+			{"q": "感受单侧光刺激的部位是胚芽鞘尖端", "ok": true, "fix": ""},
+			{"q": "拜尔的实验要在单侧光下进行", "ok": false, "fix": "在黑暗中进行，排除光照的影响"},
+			{"q": "温特命名了生长素，但没有提取出它", "ok": true, "fix": ""},
+			{"q": "单侧光使向光侧生长素合成减少", "ok": false, "fix": "改变的是生长素的分布"},
+			{"q": "2,4-D属于植物激素", "ok": false, "fix": "属于植物生长调节剂"}
+		],
+		"endTitle": [["生长素的"], ["发现", true]],
+		"endLine": "达尔文 · 鲍森·詹森 · 拜尔 · 温特 · 向光性",
+		"slogan": "先找生长素来源，再看分布是否均匀！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Elliott & Fry《Charles Darwin in 1881》Public domain"
+}

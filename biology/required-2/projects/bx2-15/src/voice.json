@@ -1,0 +1,130 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第四章第二节——基因表达与性状的关系。",
+		"seconds": 7.752
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考基因控制性状的两条途径、细胞分化的实质和表观遗传。",
+		"seconds": 6.6
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，基因通过控制酶的合成来控制代谢过程，进而间接控制生物体的性状。",
+		"seconds": 7.584
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|例一，白化病：控制酪氨酸酶的基因异常，不能合成酪氨酸酶，酪氨酸不能转变为黑色素。",
+		"seconds": 8.784
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|例二，皱粒豌豆：编码淀粉分支酶的基因被插入了一段外来 DNA 序列，淀粉分支酶异常、活性大大降低，淀粉含量降低，豌豆成熟时失水皱缩。",
+		"seconds": 14.424
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：题中出现“某种酶”不能合成、代谢受阻，就是间接控制。",
+		"seconds": 6.768
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，基因通过控制蛋白质的结构，直接控制生物体的性状。",
+		"seconds": 6.048
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|例一，囊性纤维化：编码CFTR蛋白的基因缺失了3个碱基对，CFTR蛋白第508位缺少苯丙氨酸，空间结构改变，转运氯离子的功能异常。",
+		"seconds": 14.544
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|例二，镰状细胞贫血：血红蛋白中一个氨基酸被替换，红细胞变成镰刀状。",
+		"seconds": 7.56
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：结构蛋白、载体蛋白、血红蛋白这类非酶蛋白结构改变，是直接控制。",
+		"seconds": 8.28
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，基因的选择性表达与细胞分化。同一个体的不同细胞，遗传物质相同，但表达的基因不完全相同。",
+		"seconds": 10.32
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|一类基因在所有细胞中都表达，比如核糖体蛋白基因、ATP 合成酶基因；另一类只在某类细胞中特异性表达，比如卵清蛋白基因、胰岛素基因。",
+		"seconds": 13.776
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞分化的实质，就是基因的选择性表达。",
+		"seconds": 4.2
+	},
+	"se4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：鸡的胰岛细胞中也有卵清蛋白基因和珠蛋白基因，只是不表达；细胞分化不改变遗传物质。",
+		"seconds": 9.432
+	},
+	"ep1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，表观遗传的实例。柳穿鱼两种花形不同的植株，L c y c基因的碱基序列完全相同。",
+		"seconds": 9.432
+	},
+	"ep2": {
+		"key": "zh-CN-XiaoxiaoNeural|区别是：一种植株的L c y c基因被高度甲基化，不能表达，花形就不同。",
+		"seconds": 7.584
+	},
+	"ep3": {
+		"key": "zh-CN-XiaoxiaoNeural|小鼠毛色也是这样：A v y基因前端的甲基化程度不同，小鼠毛色从黄色到黑色深浅不一。",
+		"seconds": 8.904
+	},
+	"ep4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：表观遗传是生物体基因的碱基序列保持不变，但基因表达和表型发生可遗传变化的现象。",
+		"seconds": 9.072
+	},
+	"eq1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，表观遗传的机制。DNA 甲基化：DNA 的某些碱基连接上甲基基团，抑制基因的表达。",
+		"seconds": 9.648
+	},
+	"eq2": {
+		"key": "zh-CN-XiaoxiaoNeural|此外，构成染色体的组蛋白发生甲基化、乙酰化等修饰，也会影响基因表达。",
+		"seconds": 7.584
+	},
+	"eq3": {
+		"key": "zh-CN-XiaoxiaoNeural|表观遗传的特点：可遗传；碱基序列不变；而且可能受环境影响，比如吸烟会使精子 DNA 甲基化水平升高。",
+		"seconds": 10.704
+	},
+	"eq4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：甲基化不改变碱基序列，所以不是基因突变；它主要抑制的是转录，而不是 DNA 复制。",
+		"seconds": 9.24
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，基因与性状的关系。基因与性状不是简单的一一对应关系。",
+		"seconds": 6.864
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|一个基因可以影响多个性状；一个性状也可以受多个基因的影响，比如人的身高。",
+		"seconds": 7.416
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|基因与基因、基因与基因产物、基因与环境之间相互作用，精细地调控着生物体的性状。",
+		"seconds": 8.352
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：表型等于基因型加环境。同一株水毛茛，水中和空气中的叶形不同，就是环境的影响。",
+		"seconds": 9.192
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，白化病是通过控制酶的合成间接控制。判断二？对。",
+		"seconds": 7.992
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，遗传物质不变。判断四？错，甲基化不改变碱基序列。",
+		"seconds": 8.328
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，基因与性状不是一一对应的。",
+		"seconds": 7.248
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：序列不变，表达可变。我们下期再见！",
+		"seconds": 6.408
+	}
+}

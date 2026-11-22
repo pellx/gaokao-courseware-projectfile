@@ -1,0 +1,38 @@
+{
+	"id": "XB3-01",
+	"title": "传统发酵技术的应用",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第1章",
+	"points": ["传统发酵技术", "腐乳与毛霉", "泡菜的制作", "亚硝酸盐曲线", "果酒的制作", "果醋的制作", "发酵装置分析", "发酵结果检测"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["传统发酵"], ["技术的应用", true]],
+		"subtitle": "泡菜 · 果酒 · 果醋 · 腐乳",
+		"photo": "tan.jpg",
+		"photoCaption": "泡菜坛：坛沿水槽注满水，隔绝空气",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["传统发酵"]], [["技术的应用", true]]],
+		"kicker": "泡菜 · 果酒 · 果醋 · 腐乳",
+		"photo": "tan.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "泡菜坛",
+		"credit": "Photo: AngyHe, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "传统发酵一般用单一菌种进行发酵", "ok": false, "fix": "多为天然存在的混合菌种"},
+			{"q": "腐乳制作中起主要作用的是毛霉", "ok": true, "fix": ""},
+			{"q": "泡菜盐水煮沸后要趁热倒入坛中", "ok": false, "fix": "要冷却后再倒入，以免杀死乳酸菌"},
+			{"q": "果酒发酵中要每隔一段时间拧松瓶盖排气", "ok": true, "fix": ""},
+			{"q": "果酒变果醋只需把温度升到30～35 ℃", "ok": false, "fix": "还要通入无菌空气（醋酸菌好氧）"},
+			{"q": "酸性重铬酸钾变灰绿色，一定说明有酒精", "ok": false, "fix": "葡萄糖也能使其变色，需耗尽葡萄糖"}
+		],
+		"endTitle": [["传统发酵"], ["技术的应用", true]],
+		"endLine": "腐乳 · 泡菜 · 亚硝酸盐 · 果酒 · 果醋 · 检测",
+		"slogan": "先认菌种，再定氧气和温度！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— AngyHe《Sichuan Pao Cai and Pao Cai Jar》CC BY-SA 4.0（裁切）"
+}

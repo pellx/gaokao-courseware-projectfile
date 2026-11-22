@@ -1,0 +1,121 @@
+{
+	"id": "HXC-03",
+	"title": "氯气的性质与次氯酸",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第3期 / 共16期",
+	"points": [
+		"氯气的物理性质",
+		"与金属和氢气",
+		"氯气与水",
+		"氯水的性质",
+		"次氯酸",
+		"漂白液与漂白粉",
+		"漂白原理的比较"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"氯气",
+				true
+			],
+			[
+				"的性质与次氯酸"
+			]
+		],
+		"subtitle": "氯水成分 · 次氯酸 · 漂白粉 · 漂白原理",
+		"photo": "chlorine.jpg",
+		"photoCaption": "液氯：黄绿色的氯气加压液化而成",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"氯气",
+					true
+				],
+				[
+					"的性质"
+				]
+			],
+			[
+				[
+					"与次氯酸"
+				]
+			]
+		],
+		"photo": "chlorine.jpg",
+		"photoPos": "center",
+		"photoTag": "液氯",
+		"credit": "Alchemist-hp, FAL",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Fe 在少量 Cl2 中燃烧生成 FeCl2",
+				"ok": false,
+				"fix": "不论用量都生成 FeCl3"
+			},
+			{
+				"q": "新制氯水中含有 Cl2、HClO、H2O 三种分子",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "久置氯水的酸性比新制氯水弱",
+				"ok": false,
+				"fix": "久置变成稀盐酸，酸性增强"
+			},
+			{
+				"q": "HClO 的酸性比 H2CO3 强",
+				"ok": false,
+				"fix": "HClO 的酸性比碳酸弱"
+			},
+			{
+				"q": "漂白粉的有效成分是 Ca(ClO)2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Cl2 使湿润有色布条褪色，说明 Cl2 有漂白性",
+				"ok": false,
+				"fix": "起漂白作用的是 HClO"
+			}
+		],
+		"endTitle": [
+			[
+				"氯气",
+				true
+			],
+			[
+				"的性质与次氯酸"
+			]
+		],
+		"endLine": "三分子四离子，漂白靠次氯酸",
+		"slogan": "三分子四离子，漂白靠次氯酸"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Alchemist-hp《Chlorine liquid in an ampoule》，自由艺术许可证（FAL）；插图来自 pixiv：Broken heart、ぺんたごん、YumeHoshiLabs（侵删）",
+	"anime": [
+		{
+			"key": "soda",
+			"src": "soda.jpg",
+			"credit": "插图：Broken heart《メロンクリームソーダ温泉》pixiv #147552101",
+			"url": "https://www.pixiv.net/artworks/147552101"
+		},
+		{
+			"key": "sun",
+			"src": "sun.jpg",
+			"credit": "插图：ぺんたごん《ﾊｯ！》pixiv #85932181",
+			"url": "https://www.pixiv.net/artworks/85932181"
+		},
+		{
+			"key": "bleach",
+			"src": "bleach.jpg",
+			"credit": "插图：YumeHoshiLabs《あかりアーツ》pixiv #75892743",
+			"url": "https://www.pixiv.net/artworks/75892743"
+		}
+	]
+}

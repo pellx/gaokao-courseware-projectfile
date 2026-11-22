@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第四章第一节的下半部分——翻译与中心法则。",
+		"seconds": 8.064
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考密码子和反密码子、翻译过程的图像、数量计算和中心法则。",
+		"seconds": 7.272
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，翻译：游离在细胞质中的各种氨基酸，以 mRNA 为模板合成具有一定氨基酸顺序的蛋白质。",
+		"seconds": 9.768
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|场所：核糖体；模板：mRNA；原料：21 种氨基酸；运载工具：tRNA；还需要酶和能量。",
+		"seconds": 10.224
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|产物：多肽链，再经过盘曲折叠，形成有一定空间结构的蛋白质。",
+		"seconds": 6.696
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：翻译的直接产物是多肽，不一定直接具有生物活性；翻译时碱基配对发生在 mRNA 和 tRNA 之间。",
+		"seconds": 10.464
+	},
+	"cd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，密码子：mRNA 上决定一个氨基酸的 3 个相邻碱基。",
+		"seconds": 6.216
+	},
+	"cd2": {
+		"key": "zh-CN-XiaoxiaoNeural|密码子共有 64 种。AUG 是起始密码子，也编码甲硫氨酸；UAA、UAG、UGA 是终止密码子。",
+		"seconds": 9.792
+	},
+	"cd3": {
+		"key": "zh-CN-XiaoxiaoNeural|一种氨基酸可以对应一种或几种密码子，这叫密码子的简并，能增强容错性。",
+		"seconds": 7.368
+	},
+	"cd4": {
+		"key": "zh-CN-XiaoxiaoNeural|密码子在几乎所有生物中都是通用的，这说明生物有共同的起源。",
+		"seconds": 6.552
+	},
+	"cd5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：终止密码子一般不决定氨基酸；但在特殊情况下，UGA 可以编码硒代半胱氨酸。",
+		"seconds": 8.568
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，tRNA。tRNA 呈三叶草形，一端是携带氨基酸的部位，另一端有 3 个碱基，叫反密码子。",
+		"seconds": 10.464
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|反密码子能与 mRNA 上的密码子互补配对。",
+		"seconds": 4.752
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|每种 tRNA 只能识别并转运一种氨基酸；但一种氨基酸可以由一种或几种 tRNA 转运。",
+		"seconds": 8.616
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：密码子在 mRNA 上，反密码子在 tRNA 上；tRNA 不是只有 3 个碱基，而是由许多核苷酸组成。",
+		"seconds": 10.512
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，翻译的过程。mRNA 进入细胞质，与核糖体结合。携带甲硫氨酸的 tRNA 识别起始密码子 AUG。",
+		"seconds": 11.208
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|携带下一个氨基酸的 tRNA 进入，两个氨基酸之间脱水缩合形成肽键。",
+		"seconds": 7.152
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|核糖体沿着 mRNA 移动，读取下一个密码子，空载的 tRNA 离开，再去转运氨基酸。",
+		"seconds": 8.472
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|核糖体遇到终止密码子，合成停止，肽链脱离核糖体。",
+		"seconds": 5.592
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：读图判断核糖体移动方向——肽链越长的核糖体，越早开始翻译，所以核糖体向肽链长的一侧移动，也就是沿mRNA的5撇到3撇方向。",
+		"seconds": 13.8
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，多聚核糖体。一个 mRNA 上可以相继结合多个核糖体，同时合成多条肽链。",
+		"seconds": 8.928
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|意义：少量的 mRNA 分子就可以迅速合成大量的蛋白质。",
+		"seconds": 5.976
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|由于模板是同一条 mRNA，合成的多条肽链氨基酸序列相同。",
+		"seconds": 6.264
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：多个核糖体是各自合成一条肽链，不是共同合成一条；它缩短的是合成大量蛋白质的时间，不是缩短合成一条肽链的时间。",
+		"seconds": 12.192
+	},
+	"pk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，原核细胞边转录边翻译。原核细胞没有核膜，mRNA 还没转录完，核糖体就结合上去开始翻译。",
+		"seconds": 10.968
+	},
+	"pk2": {
+		"key": "zh-CN-XiaoxiaoNeural|真核细胞的核基因，转录在细胞核，翻译在细胞质的核糖体上，先转录、后翻译，在时间和空间上分开。",
+		"seconds": 10.104
+	},
+	"pk3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看图中 DNA 和核糖体是否在一起——转录和翻译同时同地进行的，是原核细胞，或者真核细胞的线粒体、叶绿体。",
+		"seconds": 12.144
+	},
+	"ra1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，基因表达中的数量关系。mRNA 上 3 个碱基决定 1 个氨基酸，mRNA 是由 DNA 一条链转录的。",
+		"seconds": 10.632
+	},
+	"ra2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以 DNA 碱基数∶mRNA 碱基数∶氨基酸数等于6比3比1。",
+		"seconds": 6.576
+	},
+	"ra3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：一个蛋白质含 100 个氨基酸，控制它合成的基因至少有 600 个碱基，mRNA 至少 300 个碱基。",
+		"seconds": 9.864
+	},
+	"ra4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：要写“至少”，因为没算终止密码子和不翻译的序列；问 tRNA 时，氨基酸数等于需要转运的 tRNA 次数，而不是 tRNA 的种类。",
+		"seconds": 13.248
+	},
+	"dg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，中心法则。克里克提出：遗传信息可以从 DNA 流向 DNA，即复制；也可以从 DNA 流向 RNA，进而流向蛋白质，即转录和翻译。",
+		"seconds": 14.376
+	},
+	"dg2": {
+		"key": "zh-CN-XiaoxiaoNeural|后来发现，一些 RNA 病毒能进行 RNA 复制，比如烟草花叶病毒。",
+		"seconds": 7.2
+	},
+	"dg3": {
+		"key": "zh-CN-XiaoxiaoNeural|有些病毒能以RNA为模板合成DNA，即逆转录，需要逆转录酶，比如H I V。",
+		"seconds": 8.424
+	},
+	"dg4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：RNA 复制和逆转录发生在被病毒侵染的宿主细胞中，病毒自己不能独立完成；正常细胞中一般没有这两个过程。",
+		"seconds": 11.136
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，终止密码子一般不决定氨基酸。判断二？对。",
+		"seconds": 7.488
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，反密码子在 tRNA 上。判断四？错，每个核糖体各合成一条肽链。",
+		"seconds": 9.6
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，原核细胞才边转录边翻译。判断六？对。",
+		"seconds": 7.248
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：mRNA 是模板，tRNA 来搬运。我们下期再见！",
+		"seconds": 7.728
+	}
+}

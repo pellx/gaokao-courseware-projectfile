@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第三章第一节——细胞膜的结构和功能。",
+		"seconds": 7.608
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考细胞膜的三大功能、膜结构的探索历程，以及流动镶嵌模型。",
+		"seconds": 6.84
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"fn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，细胞膜的功能。第一，将细胞与外界环境分隔开，保障细胞内部环境的相对稳定。",
+		"seconds": 9.192
+	},
+	"fn2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，控制物质进出细胞；但这种控制作用是相对的，有些病毒、病菌也能侵入细胞。",
+		"seconds": 8.352
+	},
+	"fn3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，进行细胞间的信息交流。",
+		"seconds": 3.48
+	},
+	"fn4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：用台盼蓝染色鉴别死活细胞，死细胞被染色，活细胞不着色，体现了细胞膜控制物质进出的功能。",
+		"seconds": 10.128
+	},
+	"sg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，细胞间信息交流的三种方式。第一，通过化学物质传递：如激素随血液到达全身，与靶细胞膜表面的受体结合。",
+		"seconds": 11.976
+	},
+	"sg2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，相邻两个细胞的细胞膜直接接触：如精子和卵细胞之间的识别和结合。",
+		"seconds": 7.68
+	},
+	"sg3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，相邻两个细胞之间形成通道：如高等植物细胞之间的胞间连丝。",
+		"seconds": 7.008
+	},
+	"sg4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：信息交流不一定需要膜上的受体，胞间连丝就不需要；有些激素的受体在细胞内。",
+		"seconds": 8.544
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，对细胞膜成分的探索。欧文顿发现，溶于脂质的物质更容易穿过细胞膜，推测细胞膜的主要组成成分中有脂质。",
+		"seconds": 11.904
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|进一步分析得知，膜中的脂质主要是磷脂。",
+		"seconds": 4.344
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|科学家从人的红细胞中提取脂质，铺成单分子层，面积恰为红细胞表面积的2倍，推断磷脂分子排列为连续的两层。",
+		"seconds": 11.232
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|人们又发现细胞的表面张力明显低于油—水界面，推测细胞膜中还附有蛋白质。",
+		"seconds": 7.728
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：为什么用哺乳动物成熟的红细胞制备细胞膜？解题方法：它没有细胞核和众多的细胞器，得到的膜比较纯净。",
+		"seconds": 11.256
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，对细胞膜结构的探索。罗伯特森在电镜下看到细胞膜呈清晰的“暗、亮、暗”三层结构。",
+		"seconds": 9.792
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|他提出细胞膜由“蛋白质、脂质、蛋白质”三层构成，是静态的统一结构；但这无法解释细胞的生长、变形虫的运动等现象。",
+		"seconds": 11.568
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|一九七〇年，科学家用荧光染料分别标记小鼠细胞和人细胞表面的蛋白质，再让两种细胞融合。",
+		"seconds": 9.456
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|刚融合时，一半发红色荧光，一半发绿色荧光；37摄氏度下经过40分钟，两种颜色均匀分布，说明细胞膜具有流动性。",
+		"seconds": 12
+	},
+	"st5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：人鼠细胞融合实验证明膜蛋白可以运动，用的是荧光标记法，不是同位素标记法。",
+		"seconds": 8.616
+	},
+	"md1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，流动镶嵌模型。一九七二年，辛格和尼科尔森提出了流动镶嵌模型。",
+		"seconds": 8.112
+	},
+	"md2": {
+		"key": "zh-CN-XiaoxiaoNeural|磷脂双分子层是膜的基本支架，磷脂分子的头部亲水，尾部疏水。",
+		"seconds": 6.648
+	},
+	"md3": {
+		"key": "zh-CN-XiaoxiaoNeural|蛋白质分子有的镶在磷脂双分子层表面，有的部分或全部嵌入其中，有的贯穿整个磷脂双分子层。",
+		"seconds": 9.312
+	},
+	"md4": {
+		"key": "zh-CN-XiaoxiaoNeural|磷脂分子可以侧向自由移动，大多数蛋白质分子也能运动。",
+		"seconds": 6.096
+	},
+	"md5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：是大多数蛋白质能运动，不是全部；膜的功能主要由蛋白质承担，功能越复杂，蛋白质的种类和数量越多。",
+		"seconds": 10.944
+	},
+	"gl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，糖被。细胞膜外表面的糖类分子，与蛋白质结合形成糖蛋白，与脂质结合形成糖脂，这些糖类分子叫作糖被。",
+		"seconds": 12.36
+	},
+	"gl2": {
+		"key": "zh-CN-XiaoxiaoNeural|糖被与细胞表面的识别、细胞间的信息传递等功能有密切关系。",
+		"seconds": 6.144
+	},
+	"gl3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：糖被只分布在细胞膜的外侧，有糖被的一侧是细胞外，可以用来判断膜的内外。",
+		"seconds": 8.424
+	},
+	"pp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，结构特点和功能特性。细胞膜的结构特点是具有一定的流动性。",
+		"seconds": 7.488
+	},
+	"pp2": {
+		"key": "zh-CN-XiaoxiaoNeural|实例有变形虫的变形运动、胞吞和胞吐、细胞融合、质壁分离等。",
+		"seconds": 6.792
+	},
+	"pp3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞膜的功能特性是选择透过性，这与膜上转运蛋白的种类和数量有关。",
+		"seconds": 7.056
+	},
+	"pp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：流动性是结构特点，选择透过性是功能特性，别颠倒；流动性是选择透过性的基础。",
+		"seconds": 9.408
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，控制作用是相对的。判断二？错，胞间连丝不需要受体。",
+		"seconds": 8.256
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，用的是荧光标记法。",
+		"seconds": 6.408
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，糖被只在外侧。判断六？错，功能特性是选择透过性。",
+		"seconds": 8.544
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：结构决定功能，流动性是选择透过性的基础。我们下期再见！",
+		"seconds": 8.544
+	}
+}

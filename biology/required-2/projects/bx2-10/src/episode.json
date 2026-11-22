@@ -1,0 +1,38 @@
+{
+	"id": "BX2-10",
+	"title": "DNA的结构",
+	"subject": "biology",
+	"book": "人教版·必修2·第3章",
+	"points": ["DNA模型的构建", "脱氧核苷酸与连接", "双螺旋结构的特点", "碱基互补配对", "碱基计算（一）", "碱基计算（二）", "多样性和特异性"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["DNA 的"], ["结构", true]],
+		"subtitle": "双螺旋结构 · 碱基互补配对 · 碱基计算",
+		"photo": "template.jpg",
+		"photoCaption": "沃森和克里克 DNA 模型中的碱基 A 模板（1953）",
+		"photoPos": "45% 50%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["DNA 的"]], [["结构", true]]],
+		"kicker": "双螺旋 · 碱基计算",
+		"photo": "template.jpg",
+		"photoPos": "45% 50%",
+		"photoTag": "DNA 双螺旋模型",
+		"credit": "Science Museum London / SSPL, CC BY-SA 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "DNA 双螺旋结构模型是富兰克林构建的", "ok": false, "fix": "由沃森和克里克构建，富兰克林提供衍射图谱"},
+			{"q": "DNA 的基本骨架由脱氧核糖和磷酸交替连接构成", "ok": true, "fix": ""},
+			{"q": "DNA 中每个脱氧核糖都连着两个磷酸", "ok": false, "fix": "每条链 3′ 端的脱氧核糖只连一个磷酸"},
+			{"q": "G—C 碱基对的比例越高，DNA 结构越稳定", "ok": true, "fix": ""},
+			{"q": "一条链中 (A+G)/(T+C) = 0.5，互补链中也是 0.5", "ok": false, "fix": "互补链中为 2，互为倒数"},
+			{"q": "一条链中 (A+T)/(G+C) = 0.5，整个 DNA 中也是 0.5", "ok": true, "fix": ""}
+		],
+		"endTitle": [["DNA 的"], ["结构", true]],
+		"endLine": "模型构建 · 反向平行 · 外侧骨架 · 碱基配对 · 碱基计算",
+		"slogan": "A 配 T、G 配 C，计算先画两条链！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Science Museum London / Science and Society Picture Library《Template from Crick and Watson’s DNA molecular model, 1953》CC BY-SA 2.0"
+}

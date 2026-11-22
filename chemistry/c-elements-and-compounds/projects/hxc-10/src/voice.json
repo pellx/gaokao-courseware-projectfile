@@ -1,0 +1,178 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|氮气、氮氧化物、氨与铵盐。",
+		"seconds": 3.36
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|原理大题常用合成氨、氮循环作情境；选择题考氨的制备与喷泉实验、铵根的检验，共八个考点。",
+		"seconds": 9.432
+	},
+	"n21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，氮气：分子中是氮氮三键，键能大，所以化学性质很稳定。",
+		"seconds": 7.032
+	},
+	"n22": {
+		"key": "zh-CN-XiaoxiaoNeural|氮的固定：把游离态的氮转化为化合态。自然固氮有雷电：氮气和氧气放电生成两个一氧化氮；还有豆科植物的根瘤菌。",
+		"seconds": 11.76
+	},
+	"n22b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴发箍的女孩用力敲鼓，鼓边划出两道闪电：雷电能把空气里的氮气变成一氧化氮，这就是自然固氮。",
+		"seconds": 9.504
+	},
+	"n23": {
+		"key": "zh-CN-XiaoxiaoNeural|人工固氮：工业合成氨，氮气加三个氢气在高温、高压、催化剂下可逆生成两个氨。",
+		"seconds": 8.784
+	},
+	"n24": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氨合成尿素、一氧化氮转化为二氧化氮，都不是固氮，起点必须是氮气。",
+		"seconds": 7.968
+	},
+	"no1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，一氧化氮与二氧化氮。一氧化氮无色、难溶于水、有毒，遇空气立即变成红棕色：两个一氧化氮加氧气生成两个二氧化氮。",
+		"seconds": 12.816
+	},
+	"no2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化氮红棕色、有刺激性气味、有毒，易溶于水并反应：三个二氧化氮加水生成两个硝酸和一氧化氮。",
+		"seconds": 10.08
+	},
+	"no3": {
+		"key": "zh-CN-XiaoxiaoNeural|这个反应是氮的歧化：二氧化氮既是氧化剂又是还原剂，氧化剂和还原剂的物质的量之比为1比2。",
+		"seconds": 9.72
+	},
+	"no4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：收集一氧化氮只能用排水法，因为会和氧气反应；收集二氧化氮只能用向上排空气法，因为会和水反应。",
+		"seconds": 10.896
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，氮氧化物溶于水的计算。二氧化氮和氧气混合通入水中，按4比1恰好全部转化为硝酸：四个二氧化氮加氧气加两个水生成四个硝酸。",
+		"seconds": 14.256
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|一氧化氮和氧气按4比3恰好全部转化：四个一氧化氮加三个氧气加两个水生成四个硝酸。",
+		"seconds": 8.88
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|比例不对时，看谁过量：氧气过量剩氧气；二氧化氮过量，多余的二氧化氮再与水反应，最后剩一氧化氮。",
+		"seconds": 10.68
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：本质是得失电子守恒：N 失去的电子全部被 氧气 得到，用电子守恒最快。",
+		"seconds": 8.976
+	},
+	"nh1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，氨的性质。氨气无色、有刺激性气味，极易溶于水，1体积水约溶700体积。",
+		"seconds": 9
+	},
+	"nh2": {
+		"key": "zh-CN-XiaoxiaoNeural|与水：氨与水可逆地生成一水合氨，再部分电离出铵根和氢氧根，氨水显弱碱性，使酚酞变红。",
+		"seconds": 9.6
+	},
+	"nh3": {
+		"key": "zh-CN-XiaoxiaoNeural|与酸：氨加氯化氢生成氯化铵，两根分别蘸浓氨水和浓盐酸的玻璃棒靠近，产生白烟。",
+		"seconds": 8.544
+	},
+	"nh3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩身边各蹲着一团白白软软的小家伙：氨遇氯化氢，生成的氯化铵就是这样一团白烟。",
+		"seconds": 8.664
+	},
+	"nh4": {
+		"key": "zh-CN-XiaoxiaoNeural|还原性：催化氧化，四个氨加五个氧气在催化剂、加热下生成四个一氧化氮和六个水，是工业制硝酸的第一步。",
+		"seconds": 10.8
+	},
+	"nh5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氨水中含量最多的粒子是一水合氨分子；氨本身是非电解质。",
+		"seconds": 7.152
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，氨的实验室制法：两个氯化铵加氢氧化钙加热，生成氯化钙、两个氨气和两个水，固固加热，试管口略向下倾斜。",
+		"seconds": 12.288
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|干燥用碱石灰，不能用浓硫酸，也不能用氯化钙，因为会结合氨气。",
+		"seconds": 6.432
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|收集用向下排空气法，管口塞一团棉花，减少与空气对流。",
+		"seconds": 6.168
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|验满：湿润的红色石蕊试纸变蓝，或蘸浓盐酸的玻璃棒产生白烟。",
+		"seconds": 6.696
+	},
+	"pr4b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩被呛得眼泪汪汪：氨气刺激性气味很重，是中学化学里唯一的碱性气体。",
+		"seconds": 7.848
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能只用氯化铵加热制氨，分解出的氨和氯化氢在管口又会重新化合成氯化铵。",
+		"seconds": 8.28
+	},
+	"sa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，铵盐的性质：都易溶于水；受热易分解：氯化铵加热生成氨气和氯化氢，遇冷又化合。",
+		"seconds": 9.432
+	},
+	"sa2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸氢铵受热分解：生成氨气、二氧化碳和水，所以碳铵化肥要低温密封保存。",
+		"seconds": 8.28
+	},
+	"sa3": {
+		"key": "zh-CN-XiaoxiaoNeural|与碱共热放出氨气：铵根加氢氧根加热生成氨气和水，所以铵态氮肥不能和碱性物质混用，比如草木灰。",
+		"seconds": 10.464
+	},
+	"sa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：NH4Cl 受热分解、遇冷化合，是化学变化，不是升华。",
+		"seconds": 6.84
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，铵根离子的检验：取样，加氢氧化钠溶液并加热，用湿润的红色石蕊试纸放在试管口，试纸变色说明有铵根。",
+		"seconds": 11.76
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个关键：一要加热，稀溶液不加热氨气逸不出来；二要湿润，干燥试纸上氨不能电离出氢氧根。",
+		"seconds": 9.288
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：取少量待测液于试管中，加入氢氧化钠溶液，加热，将湿润的红色石蕊试纸放在试管口，试纸变蓝，则含铵根离子。",
+		"seconds": 12.576
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，喷泉实验。原理：气体迅速溶解或反应，烧瓶内压强骤降，外界大气压把液体压进烧瓶。",
+		"seconds": 10.728
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|条件：气体极易溶于该液体，或能与之反应：氨气、氯化氢用水；二氧化碳、二氧化硫、氯气用氢氧化钠溶液。",
+		"seconds": 11.304
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|引发：挤压胶头滴管，把少量水挤入烧瓶。氨气的喷泉滴了酚酞，呈红色。",
+		"seconds": 7.92
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|计算：标况下烧瓶充满氨气或氯化氢，水充满烧瓶后，溶液浓度都是22.4分之一摩尔每升，与烧瓶大小无关。",
+		"seconds": 11.448
+	},
+	"fo5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化碳在水中溶解度不大，用水不能形成喷泉，换成氢氧化钠溶液才行。",
+		"seconds": 8.376
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：氮气稳定是因为氮氮三键键能大？对。判断二：二氧化氮与水反应只作氧化剂？错，既是氧化剂又是还原剂。",
+		"seconds": 13.224
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：可用浓硫酸干燥氨气？错，用碱石灰。判断四：氯化铵分解再化合是升华？错，是化学变化。",
+		"seconds": 11.856
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：检验铵根要加氢氧化钠加热，用湿润的红色石蕊试纸？对。判断六：一氧化氮用向上排空气法收集？错，用排水法。",
+		"seconds": 13.632
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|氨气碱石灰干燥，铵根要加热要湿润。下一期：硝酸、氮循环与环境。",
+		"seconds": 7.848
+	}
+}

@@ -1,0 +1,96 @@
+{
+	"id": "XB3-17",
+	"title": "转基因产品的安全性",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第4章",
+	"points": [
+		"转基因成果与利弊",
+		"安全性的争论",
+		"我国的管理",
+		"理性看待转基因",
+		"辩证分析答题法"
+	],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [
+			[
+				"转基因产品"
+			],
+			[
+				"的安全性",
+				true
+			]
+		],
+		"subtitle": "食物安全 · 生物安全 · 环境安全",
+		"photo": "cotton.jpg",
+		"photoCaption": "转基因抗虫棉：虫害后叶片仍完好",
+		"photoPos": "28% 75%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [
+			[
+				[
+					"转基因产品"
+				]
+			],
+			[
+				[
+					"的安全性",
+					true
+				]
+			]
+		],
+		"kicker": "争论 · 标识制度 · 辩证分析",
+		"photo": "cotton.jpg",
+		"photoPos": "28% 75%",
+		"photoTag": "转基因抗虫棉",
+		"credit": "Photo: Plant Industry, CSIRO, CC BY 3.0"
+	},
+	"review": {
+		"items": [
+			{
+				"q": "转基因作物都对人体有害",
+				"ok": false,
+				"fix": "要靠科学证据，不能一概而论"
+			},
+			{
+				"q": "转基因植物的外源基因可能通过花粉扩散",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "将目的基因导入叶绿体可减少基因污染",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "我国对农业转基因生物实行标识制度",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "转基因技术安全争论早已有了定论，无需评价",
+				"ok": false,
+				"fix": "需要个案评价、依法监管"
+			},
+			{
+				"q": "面对转基因，应全盘接受或全盘否定",
+				"ok": false,
+				"fix": "应理性看待，趋利避害"
+			}
+		],
+		"endTitle": [
+			[
+				"转基因产品"
+			],
+			[
+				"的安全性",
+				true
+			]
+		],
+		"endLine": "利与弊 · 三类安全 · 安全评价 · 标识制度 · 理性看待",
+		"slogan": "靠证据说话，趋利又避害！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Plant Industry, CSIRO《CSIRO ScienceImage 381 Genetically Modified Cotton vs Normal Cotton》CC BY 3.0"
+}

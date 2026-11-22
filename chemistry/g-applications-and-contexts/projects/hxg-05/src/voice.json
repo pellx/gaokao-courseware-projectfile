@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|化工流程下：分离操作、Ksp计算与产率纯度。",
+		"seconds": 5.16
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题的最后几问：怎样得到产品、Ksp怎么算、产率纯度怎么求，共七个考点。",
+		"seconds": 7.896
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分离操作。固液分离用过滤；产物溶解度随温度变化大，用蒸发浓缩、冷却结晶。",
+		"seconds": 9.576
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|要除去的杂质溶解度随温度变化大，而产物变化小：蒸发结晶、趁热过滤。",
+		"seconds": 7.656
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|萃取与反萃取：用有机萃取剂，常写成H R，把金属离子萃取到有机层，再加酸把金属离子反萃取回水层。",
+		"seconds": 10.968
+	},
+	"se4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：萃取平衡中，金属离子加两个H R可逆生成M R 2和两个氢离子：氢离子浓度增大，平衡逆移，金属离子回到水层，这就是反萃取的原理。",
+		"seconds": 14.832
+	},
+	"wa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，晶体的洗涤。用冰水洗：降低晶体的溶解度，减少溶解损失。",
+		"seconds": 7.56
+	},
+	"wa2": {
+		"key": "zh-CN-XiaoxiaoNeural|用乙醇洗：减少晶体溶解损失；乙醇易挥发，晶体容易干燥；除去晶体表面的水。",
+		"seconds": 8.16
+	},
+	"wa3": {
+		"key": "zh-CN-XiaoxiaoNeural|用饱和溶液洗：比如用饱和氯化钠溶液洗氯化钠晶体，既除去杂质，又不溶解产物。",
+		"seconds": 8.184
+	},
+	"wa3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴棕色贝雷帽的金发女孩捧着杯子：洗涤是为了除杂，选什么洗，是为了少损失。",
+		"seconds": 8.016
+	},
+	"wa4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：“用乙醇洗涤的目的：减少晶体的溶解损失，乙醇易挥发便于干燥。”",
+		"seconds": 7.536
+	},
+	"ks1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，用Ksp计算。求某离子沉淀完全时的pH：令该离子浓度等于10的负5次方摩尔每升，代入Ksp求氢氧根浓度。",
+		"seconds": 12.384
+	},
+	"ks2": {
+		"key": "zh-CN-XiaoxiaoNeural|求残留浓度：已知pH等于3，氢氧化铁的Ksp等于4乘10的负38次方，氢氧根浓度是10的负11次方，铁离子浓度等于4乘10的负38次方除以10的负11次方的立方，等于4乘10的负5次方摩尔每升。",
+		"seconds": 19.56
+	},
+	"ks3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断是否沉淀：算出Q与Ksp比较；两种离子竞争同一沉淀剂时，比较开始沉淀所需的浓度，需要量少的先沉淀。",
+		"seconds": 10.992
+	},
+	"ks3b": {
+		"key": "zh-CN-XiaoxiaoNeural|扎丸子头的红发女孩站得笔直：Ksp计算就是代公式，难点只在幂次和单位。",
+		"seconds": 7.92
+	},
+	"ks4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氢氧化铁的Ksp中氢氧根浓度要三次方；由pH求氢氧根浓度要用水的离子积换算。",
+		"seconds": 9.264
+	},
+	"cy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，物料循环：流程图中从后面指回前面的箭头，就是可以循环利用的物质。",
+		"seconds": 7.8
+	},
+	"cy2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断方法：某物质在前面作为反应物加入，在后面又作为生成物出现，就可以循环。",
+		"seconds": 8.112
+	},
+	"cy3": {
+		"key": "zh-CN-XiaoxiaoNeural|常见：母液，含有未结晶的产物；萃取剂；反萃取后的有机层；生成的酸或碱，比如硫酸、氨气。",
+		"seconds": 10.08
+	},
+	"cy4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：“可循环利用的物质是……，循环的目的：提高原料利用率、降低成本。”",
+		"seconds": 7.416
+	},
+	"yi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，产率等于实际产量 ÷ 理论产量乘100%。理论产量按原料中的关键元素守恒计算。",
+		"seconds": 10.104
+	},
+	"yi2": {
+		"key": "zh-CN-XiaoxiaoNeural|纯度等于纯物质质量 ÷ 样品质量乘100%，常用滴定法测定，注意取样倍数。",
+		"seconds": 8.016
+	},
+	"yi3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：100克含二氧化锰百分之87的软锰矿，理论上最多得一水合硫酸锰：锰的物质的量等于87除以87，等于1摩尔，质量等于1乘169，等于169克。",
+		"seconds": 16.008
+	},
+	"yi3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩捧着饮料吸了一口：算产率，先找哪个元素从头走到尾，用它守恒最快。",
+		"seconds": 8.064
+	},
+	"yi4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：理论产量要用含量换算后的纯原料计算；产品带结晶水时，摩尔质量要加上结晶水。",
+		"seconds": 9.264
+	},
+	"lo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，产品损失与误差分析。洗涤用水太多、用常温水洗：产品溶解损失，产率偏低。",
+		"seconds": 9.504
+	},
+	"lo2": {
+		"key": "zh-CN-XiaoxiaoNeural|未洗涤或洗涤不净：产品表面附着杂质，测得质量偏大，纯度偏低。",
+		"seconds": 7.08
+	},
+	"lo3": {
+		"key": "zh-CN-XiaoxiaoNeural|干燥温度太高：含结晶水的晶体失去结晶水，或产物分解；需要“低温烘干”或“真空干燥”。",
+		"seconds": 8.592
+	},
+	"lo4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：若某操作不当，会导致溶解损失、分解或含有杂质，使产率或纯度偏高或偏低。",
+		"seconds": 9.456
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，流程题答题模板汇总。提高浸出率：粉碎、适当升温、适当增大浓度、搅拌。",
+		"seconds": 9.408
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|调pH的目的：使某离子沉淀完全，而某离子不沉淀。加过氧化氢的目的：将亚铁离子氧化为铁离子，便于沉淀除去。",
+		"seconds": 11.904
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|温度控制：低了速率慢，高了分解或挥发。检验沉淀洗净：取最后一次洗涤液……；得到晶体：蒸发浓缩、冷却结晶、过滤、洗涤、干燥。",
+		"seconds": 13.464
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：流程题大部分设问都有固定答法，先套模板，再换上题目中的具体物质。",
+		"seconds": 8.088
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：加酸能反萃取？对。判断二：乙醇洗涤只为除杂？错，还为减少损失、便于干燥。",
+		"seconds": 10.488
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：沉淀完全时浓度取十的负五次方？对。判断四：氢氧化铁的Ksp里氢氧根不用三次方？错。",
+		"seconds": 11.712
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：前面加入后面生成的能循环？对。判断六：含结晶水的产品高温烘干？错。",
+		"seconds": 9.84
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|冰水乙醇减损失，前加后生可循环。下一期：绿色化学与环境保护。",
+		"seconds": 7.632
+	}
+}

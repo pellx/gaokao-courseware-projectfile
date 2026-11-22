@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第一章第二节的下半部分——自由组合定律的应用。",
+		"seconds": 8.28
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考遗传大题几乎都要用它：拆分法、9比3比3比1 的变式、致死和两病概率。",
+		"seconds": 8.136
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，拆分法。例：大A小a大B小b大C小c，乘大A小a大B小b小c小c，求子代中大A大A小b小b大C小c的比例。",
+		"seconds": 13.296
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步，拆成三个一对相对性状：大A小a乘大A小a，大B小b乘大B小b，大C小c乘小c小c。",
+		"seconds": 10.176
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，分别求：大A大A 占 4分之1，小b小b 占 4分之1，大C小c 占 2分之1。",
+		"seconds": 8.664
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，相乘：4分之1乘4分之1乘2分之1等于32分之1。",
+		"seconds": 6.84
+	},
+	"sp5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先拆后乘。前提是各对基因独立遗传，也就是位于不同对的同源染色体上。",
+		"seconds": 8.76
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，种类和比例的计算。大A小a大B小b大C小c产生的配子种类是二的三次方，8种，n是杂合基因的对数。",
+		"seconds": 11.88
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|某种配子的比例也是相乘：大A大B大C占二分之一乘二分之一乘二分之一，等于八分之一。",
+		"seconds": 8.928
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|大A小a大B小b大C小c乘大A小a大B小b小c小c，子代基因型3乘3乘2，18种，表型2乘2乘2，8种。",
+		"seconds": 12.024
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二的n次方中的n只数杂合的那几对；纯合的一对只产生一种配子，比如大A小a大B小b小c小c只有4种配子。",
+		"seconds": 12.168
+	},
+	"if1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，由子代比例推亲代。9比3比3比1 拆成 (3比1)(3比1)，亲本是 大A小a大B小b乘大A小a大B小b。",
+		"seconds": 12.264
+	},
+	"if2": {
+		"key": "zh-CN-XiaoxiaoNeural|1比1比1比1 拆成 (1比1)(1比1)，亲本是 大A小a大B小b乘小a小a小b小b 或 大A小a小b小b乘小a小a大B小b。",
+		"seconds": 12.864
+	},
+	"if3": {
+		"key": "zh-CN-XiaoxiaoNeural|3比3比1比1 拆成 (3比1)(1比1)，亲本是 大A小a大B小b乘大A小a小b小b 或 大A小a大B小b乘小a小a大B小b。",
+		"seconds": 13.152
+	},
+	"if4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：把子代比例拆成每对性状的比例，分别反推，再组合；注意可能有两种答案。",
+		"seconds": 8.712
+	},
+	"va1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，9比3比3比1 的变式，都是 大A小a大B小b 自交的结果，只是把某几项合并了。",
+		"seconds": 9.336
+	},
+	"va2": {
+		"key": "zh-CN-XiaoxiaoNeural|9比7：双显性表现一种性状，其余 3加3加1 合并；9比6比1：两种单显性表现相同，3加3 合并。",
+		"seconds": 10.992
+	},
+	"va3": {
+		"key": "zh-CN-XiaoxiaoNeural|15比1：只要有显性基因就表现，9加3加3 合并；12比3比1 和 9比3比4，分别是 9加3、3加1 合并。",
+		"seconds": 11.304
+	},
+	"va4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：比例之和是 16，就说明是 大A小a大B小b 自交、遵循自由组合；测交时按同样方式合并 1比1比1比1，比如 9比7 对应 1比3。",
+		"seconds": 14.376
+	},
+	"le1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，致死问题。大A小a大B小b 自交，如果 大A大A 致死：A 这一对变成 2比1，B 这一对还是 3比1。",
+		"seconds": 11.592
+	},
+	"le2": {
+		"key": "zh-CN-XiaoxiaoNeural|相乘：(2比1)(3比1)等于6比3比2比1。",
+		"seconds": 4.92
+	},
+	"le3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果 大A大A 和 大B大B 都致死：(2比1)(2比1)等于4比2比2比1。",
+		"seconds": 7.824
+	},
+	"le4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到 6比3比2比1 或 4比2比2比1，就想到显性纯合致死；仍然是先拆成一对一对，再相乘。",
+		"seconds": 10.752
+	},
+	"tw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，两种遗传病的概率。父亲多指，母亲正常，生了一个手指正常但患白化病的孩子。",
+		"seconds": 9.048
+	},
+	"tw2": {
+		"key": "zh-CN-XiaoxiaoNeural|推出父亲大T小t大A小a，母亲小t小t大A小a。再生一个孩子：患多指二分之一，患白化病四分之一。",
+		"seconds": 10.728
+	},
+	"tw3": {
+		"key": "zh-CN-XiaoxiaoNeural|两病兼患等于2分之1乘4分之1等于8分之1；完全正常等于2分之1乘4分之3等于8分之3。",
+		"seconds": 9.792
+	},
+	"tw4": {
+		"key": "zh-CN-XiaoxiaoNeural|只患一种病等于1减8分之3减8分之1等于2分之1。",
+		"seconds": 5.544
+	},
+	"tw5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先求每种病的患病概率m和n。兼患等于m乘n，正常等于一减m乘一减n，只患一种等于m加n减二mn。",
+		"seconds": 12.192
+	},
+	"id1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，判断两对基因是否位于两对同源染色体上。自交法：大A小a大B小b 自交，后代 9比3比3比1 或比例之和为 16，就是独立遗传。",
+		"seconds": 14.256
+	},
+	"id2": {
+		"key": "zh-CN-XiaoxiaoNeural|测交法：大A小a大B小b 测交，后代 1比1比1比1，说明产生了四种比例相等的配子。",
+		"seconds": 9
+	},
+	"id3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果自交后代是 3比1 或 1比2比1，测交后代是 1比1，说明两对基因位于一对同源染色体上。",
+		"seconds": 9.456
+	},
+	"id4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：位于一对同源染色体上的两对基因，不遵循自由组合定律，但每一对仍然遵循分离定律。",
+		"seconds": 8.856
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，小c小c只产生一种配子，共4种。判断二？对。",
+		"seconds": 8.136
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，也可能是 大A小a大B小b乘小a小a大B小b。",
+		"seconds": 9.624
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，只患一种是m加n减二mn。判断六？错，同源染色体上的非等位基因不遵循。",
+		"seconds": 10.752
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：先拆成一对一对，再相乘。我们下期再见！",
+		"seconds": 6.84
+	}
+}

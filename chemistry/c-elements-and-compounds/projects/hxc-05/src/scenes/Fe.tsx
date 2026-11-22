@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Fe: React.FC = () => <AutoScene k="fe" d={{"tag": "考点一", "title": "铁与非金属、与水蒸气", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "强氧化剂 → +3 价", "at": "fe1", "lines": ["2Fe + 3Cl2 ═点燃═ {2FeCl3}"], "c": "red", "size": 32}]}, {"blocks": [{"t": "panel", "title": "弱氧化剂 → +2 价", "at": "fe2", "lines": ["Fe + S ═△═ {FeS|orange}", "Fe + I2 = {FeI2|orange}"], "c": "orange", "size": 32}]}]}, {"t": "big", "at": "fe3", "text": "3Fe + 4H2O(g) ═高温═ {Fe3O4} + 4H2", "size": 42}, {"t": "text", "at": "fe3", "text": "湿棉花提供水蒸气；肥皂泡收集 H2，点燃有爆鸣声", "size": 30, "center": true, "c": "muted"}], "callout": {"label": "易错", "at": "fe4", "text": "Fe 与水蒸气生成 {Fe3O4}，不是 Fe2O3"}, "beat": {"k": "steam", "at": "fe3b", "text": "冷水不行\n{高温水蒸气|red}才反应\n→ Fe3O4"}}} />;

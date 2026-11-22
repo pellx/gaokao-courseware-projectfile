@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第五章第四节的第一部分——捕获光能的色素和结构。",
+		"seconds": 8.52
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考色素提取和分离实验、色素带和异常结果分析，以及色素的吸收光谱。",
+		"seconds": 8.112
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"pc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，绿叶中色素的提取和分离。提取的原理：色素能够溶解在有机溶剂无水乙醇中。",
+		"seconds": 8.856
+	},
+	"pc2": {
+		"key": "zh-CN-XiaoxiaoNeural|分离的原理：不同色素在层析液中的溶解度不同，溶解度高的随层析液在滤纸上扩散得快，反之则慢。",
+		"seconds": 9.648
+	},
+	"pc3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：提取用无水乙醇，分离用层析液，别混；分离的方法叫纸层析法。",
+		"seconds": 7.488
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验步骤。研磨时加入二氧化硅，有助于研磨充分；加入碳酸钙，防止研磨中色素被破坏。",
+		"seconds": 10.656
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|研磨后用单层尼龙布过滤，收集滤液。",
+		"seconds": 4.224
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|画滤液细线要细、直、齐，待滤液干后再画一两次，使色素多而集中。",
+		"seconds": 7.224
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|层析时，层析液不能没及滤液细线，否则色素会溶解到层析液中。",
+		"seconds": 6.6
+	},
+	"sp5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：一种试剂一个作用——二氧化硅助研磨，碳酸钙护色素，无水乙醇溶色素，层析液分色素。",
+		"seconds": 9.792
+	},
+	"rs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，实验结果。滤纸条上从上到下依次是：胡萝卜素，橙黄色；叶黄素，黄色；",
+		"seconds": 9.216
+	},
+	"rs2": {
+		"key": "zh-CN-XiaoxiaoNeural|叶绿素a，蓝绿色；叶绿素b，黄绿色。",
+		"seconds": 4.488
+	},
+	"rs3": {
+		"key": "zh-CN-XiaoxiaoNeural|最宽的是叶绿素a，含量最多；最窄的是胡萝卜素；胡萝卜素在层析液中溶解度最高，扩散最快。",
+		"seconds": 9.48
+	},
+	"rs4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：顺序记“胡、黄、a、b”；宽度看含量：叶绿素a、叶绿素b、叶黄素、胡萝卜素依次减少。",
+		"seconds": 10.848
+	},
+	"ab1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，异常结果分析。色素带颜色都很浅：可能是研磨不充分、未加二氧化硅、无水乙醇加得过多，或画线次数太少。",
+		"seconds": 12.12
+	},
+	"ab2": {
+		"key": "zh-CN-XiaoxiaoNeural|叶绿素带很窄甚至没有：可能是未加碳酸钙，叶绿素被破坏；或者选用了发黄的叶片。",
+		"seconds": 8.256
+	},
+	"ab3": {
+		"key": "zh-CN-XiaoxiaoNeural|没有色素带：可能是层析液没及了滤液细线，或者用水代替了无水乙醇。",
+		"seconds": 6.84
+	},
+	"ab4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：对照每一步的作用，缺了哪一步，就出现哪种异常。",
+		"seconds": 5.88
+	},
+	"sc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，色素的吸收光谱。叶绿素a和叶绿素b主要吸收蓝紫光和红光。",
+		"seconds": 7.608
+	},
+	"sc2": {
+		"key": "zh-CN-XiaoxiaoNeural|胡萝卜素和叶黄素，也就是类胡萝卜素，主要吸收蓝紫光。",
+		"seconds": 5.736
+	},
+	"sc3": {
+		"key": "zh-CN-XiaoxiaoNeural|色素对绿光吸收最少，绿光被反射出来，所以叶片呈绿色。",
+		"seconds": 6.408
+	},
+	"sc4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：温室补光选红光或蓝紫光，不用绿光。易错：类胡萝卜素不吸收红光。",
+		"seconds": 8.256
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，叶绿体的结构适于进行光合作用。叶绿体有双层膜，内部有许多基粒，每个基粒由类囊体堆叠而成。",
+		"seconds": 10.776
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|吸收光能的四种色素，都分布在类囊体的薄膜上。",
+		"seconds": 4.848
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|类囊体薄膜上和叶绿体基质中，含有许多进行光合作用所必需的酶。",
+		"seconds": 6.672
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：基粒和类囊体极大地扩展了受光面积，体现了结构与功能相适应。",
+		"seconds": 7.464
+	},
+	"eg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，恩格尔曼的实验。把载有水绵和需氧细菌的临时装片，放在没有空气的黑暗环境里，用极细的光束照射。",
+		"seconds": 10.704
+	},
+	"eg2": {
+		"key": "zh-CN-XiaoxiaoNeural|需氧细菌只向叶绿体被光束照射到的部位集中；如果完全暴露在光下，细菌就分布在叶绿体所有受光的部位。",
+		"seconds": 10.248
+	},
+	"eg3": {
+		"key": "zh-CN-XiaoxiaoNeural|结论：叶绿体能吸收光能用于光合作用放氧；结合其他证据，得出叶绿体是光合作用的场所。",
+		"seconds": 9.24
+	},
+	"eg4": {
+		"key": "zh-CN-XiaoxiaoNeural|他还用透过三棱镜的光照射水绵，发现细菌主要聚集在红光和蓝紫光区域。",
+		"seconds": 7.2
+	},
+	"eg5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：选水绵是因为它的叶绿体呈螺旋带状，便于观察；黑暗、无空气是为了排除光和氧气的干扰。",
+		"seconds": 10.32
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，提取用无水乙醇，分离用层析液。判断二？错，助研磨的是二氧化硅。",
+		"seconds": 9.648
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，类胡萝卜素主要吸收蓝紫光。",
+		"seconds": 7.368
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，色素在类囊体薄膜上。判断六？对。",
+		"seconds": 6.84
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：从上到下，胡、黄、a、b。我们下期再见！",
+		"seconds": 7.368
+	}
+}

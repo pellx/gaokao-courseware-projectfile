@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第一章第二节——内环境的稳态。",
+		"seconds": 7.44
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一节高考常考模拟生物体维持PH稳定的实验、稳态的调节机制，以及稳态失调的实例分析。",
+		"seconds": 8.88
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"ep1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验：模拟生物体维持PH的稳定。",
+		"seconds": 4.896
+	},
+	"ep2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验分三组：自来水、缓冲液和生物材料，比如肝匀浆。每组取二十五毫升，先测起始PH，再逐滴加入零点一摩尔每升的盐酸，每加五滴测一次PH，一共加三十滴。",
+		"seconds": 16.44
+	},
+	"ep3": {
+		"key": "zh-CN-XiaoxiaoNeural|充分冲洗烧杯后，再用零点一摩尔每升的氢氧化钠重复实验。以滴数为横坐标、PH为纵坐标画出曲线。",
+		"seconds": 10.608
+	},
+	"ep4": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：自来水的PH变化明显；缓冲液和肝匀浆的PH变化很小。",
+		"seconds": 6.84
+	},
+	"ep5": {
+		"key": "zh-CN-XiaoxiaoNeural|结论：生物材料的性质类似于缓冲液而不同于自来水，说明生物材料内含有缓冲物质，能维持PH的相对稳定。",
+		"seconds": 10.824
+	},
+	"ep6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：自变量是材料的种类和滴加酸碱的量，因变量是PH的变化。自来水组和缓冲液组都是对照组，生物材料组是实验组。",
+		"seconds": 12.504
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，稳态的概念。",
+		"seconds": 2.664
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|十九世纪，法国生理学家贝尔纳推测，内环境的恒定主要依赖神经系统的调节。",
+		"seconds": 7.704
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|后来，美国生理学家坎农提出了稳态的概念：内环境稳态是在神经调节和体液调节的共同作用下，通过机体各种器官、系统分工合作、协调统一而实现的。",
+		"seconds": 14.832
+	},
+	"cn4": {
+		"key": "zh-CN-XiaoxiaoNeural|现在把它表述为：正常机体通过调节作用，使各个器官、系统协调活动，共同维持内环境的相对稳定状态，叫作稳态。",
+		"seconds": 11.256
+	},
+	"cn5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：稳态不是恒定不变，而是一种动态平衡。内环境的化学成分和理化性质都在一定范围内波动。",
+		"seconds": 9.912
+	},
+	"mc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，稳态的调节机制。",
+		"seconds": 3.024
+	},
+	"mc2": {
+		"key": "zh-CN-XiaoxiaoNeural|直接参与维持内环境稳态的，有消化、呼吸、循环、泌尿四大系统，而它们的协调活动离不开调节。",
+		"seconds": 9.912
+	},
+	"mc3": {
+		"key": "zh-CN-XiaoxiaoNeural|目前普遍认为，神经—体液—免疫调节网络是机体维持稳态的主要调节机制。",
+		"seconds": 6.864
+	},
+	"mc4": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，人体维持稳态的调节能力是有一定限度的。当外界环境的变化过于剧烈，或者人体自身的调节功能出现障碍时，内环境稳态就会遭到破坏。",
+		"seconds": 14.016
+	},
+	"mc5": {
+		"key": "zh-CN-XiaoxiaoNeural|比如，到高海拔地区，有人会出现头痛、乏力、心跳加快等高原反应，就是外界环境的变化超出了调节能力。",
+		"seconds": 10.392
+	},
+	"mc6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：题目说“稳态能一直维持”或“调节能力是无限的”，都是错的。",
+		"seconds": 6.312
+	},
+	"ds1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，内环境稳态失调与疾病。",
+		"seconds": 3.72
+	},
+	"ds2": {
+		"key": "zh-CN-XiaoxiaoNeural|先看成分失调：血糖浓度过低，会出现低血糖症状；尿素等代谢废物不能及时排出，会引起尿毒症。",
+		"seconds": 10.104
+	},
+	"ds3": {
+		"key": "zh-CN-XiaoxiaoNeural|再看理化性质失调：PH失调，引起酸中毒或碱中毒；体温失调，出现发烧或中暑；渗透压失调，细胞会吸水或失水，形态和功能出现异常。",
+		"seconds": 14.112
+	},
+	"ds4": {
+		"key": "zh-CN-XiaoxiaoNeural|还有一个常考点：血液中钙离子含量过低会引起抽搐，过高则会引起肌无力。",
+		"seconds": 7.704
+	},
+	"ds5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出一种病症，判断是哪种成分或哪种理化性质失调。",
+		"seconds": 6.336
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，稳态的意义：内环境稳态是机体进行正常生命活动的必要条件。",
+		"seconds": 7.344
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如，细胞代谢离不开酶，酶的活性需要适宜的温度和PH；细胞呼吸需要血糖和氧气的稳定供应，才能为生命活动提供能量。",
+		"seconds": 12.024
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，稳态概念的发展。稳态已经成为生命科学的一大基本概念，在生命系统的各个层次都普遍存在。",
+		"seconds": 10.368
+	},
+	"mn4": {
+		"key": "zh-CN-XiaoxiaoNeural|分子水平：基因表达的稳态、激素分泌的稳态、酶活性的稳态。",
+		"seconds": 6.216
+	},
+	"mn5": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞水平：细胞分裂和分化的稳态。器官水平：心脏活动的稳态，比如血压和心率；还有消化腺分泌消化液的稳态。",
+		"seconds": 11.424
+	},
+	"mn6": {
+		"key": "zh-CN-XiaoxiaoNeural|群体水平：种群数量变化的稳态，生态系统结构和功能的稳态。",
+		"seconds": 6.432
+	},
+	"mn7": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：“稳态只存在于人体内环境中”，这种说法是错的。",
+		"seconds": 5.568
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|内环境稳态是指成分和理化性质恒定不变？错，它们处于动态平衡之中。神经—体液—免疫调节网络是稳态的主要调节机制？对。",
+		"seconds": 13.152
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|内环境稳态时，人一定不会患病？错，比如遗传病。模拟实验中，自来水组是对照组？对。",
+		"seconds": 9.888
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|人体维持稳态的调节能力是无限的？错，它有一定限度。稳态只存在于人体内环境中？错，各个生命层次都存在稳态。",
+		"seconds": 12.528
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：用实验认识稳态，理解稳态的概念、机制和限度，再看失调、意义和发展。掌握这些，这一节就能稳稳拿分！我们下期再见！",
+		"seconds": 14.808
+	}
+}

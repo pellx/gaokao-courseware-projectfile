@@ -1,0 +1,122 @@
+{
+	"id": "HXA-18",
+	"title": "晶胞计算（上）：配位数、密度与距离",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第18期 / 共21期",
+	"points": [
+		"配位数的数法",
+		"堆积方式与空间利用率",
+		"密度公式",
+		"单位换算",
+		"反求边长或 NA",
+		"最近距离",
+		"半径与晶胞参数",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"晶胞计算（上）："
+			],
+			[
+				"配位数、密度与距离",
+				true
+			]
+		],
+		"subtitle": "配位数 · 空间利用率 · 密度公式 · 最近距离",
+		"photo": "copper.jpg",
+		"photoCaption": "天然铜：面心立方最密堆积的金属",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"晶胞计算"
+				]
+			],
+			[
+				[
+					"密度",
+					true
+				],
+				[
+					"与距离"
+				]
+			]
+		],
+		"photo": "copper.jpg",
+		"photoPos": "center",
+		"photoTag": "天然铜",
+		"credit": "Jonathan Zander, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "体心立方堆积的金属，配位数为 8",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "面心立方与六方最密堆积的空间利用率不同",
+				"ok": false,
+				"fix": "都约 74%"
+			},
+			{
+				"q": "ρ = NM/(N_A a^3) 中 N 是晶胞中的原子总数",
+				"ok": false,
+				"fix": "是“化学式”的个数"
+			},
+			{
+				"q": "1 pm = 10^-10 cm",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "金刚石中两个碳原子最近距离为体对角线的一半",
+				"ok": false,
+				"fix": "是体对角线的 1/4"
+			},
+			{
+				"q": "面心立方金属中 √2a = 4r",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"晶胞计算（上）："
+			],
+			[
+				"配位数、密度与距离",
+				true
+			]
+		],
+		"endLine": "配位数 · 堆积方式 · 密度公式 · 单位换算 · 最近距离 · 半径",
+		"slogan": "均摊求 N，质量除以体积！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Jonathan Zander (Digon3)《Native Copper Macro Digon3》CC BY-SA 3.0；插图来自 pixiv：Rebecca、城石へる、大木菜こたつ（侵删）",
+	"anime": [
+		{
+			"key": "box",
+			"src": "box.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ⑩》pixiv #107072028",
+			"url": "https://www.pixiv.net/artworks/107072028"
+		},
+		{
+			"key": "math",
+			"src": "math.jpg",
+			"credit": "插图：城石へる《『光の中へ』の歌詞で\"私\"について考え直すぼっちちゃん》pixiv #108408968",
+			"url": "https://www.pixiv.net/artworks/108408968"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：大木菜こたつ《クリスマスいちごケーキ》pixiv #114502324",
+			"url": "https://www.pixiv.net/artworks/114502324"
+		}
+	]
+}

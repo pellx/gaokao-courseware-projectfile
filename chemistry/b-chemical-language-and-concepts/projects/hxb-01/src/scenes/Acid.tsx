@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Acid: React.FC = () => <AutoScene k="acid" d={{"tag": "考点四", "title": "酸和碱的分类", "blocks": [{"t": "big", "at": "ac1", "text": "几元酸 = 能电离出的 {H^+} 个数", "size": 40}, {"t": "table", "at": "ac2", "head": ["物质", "分子中 H 原子", "能电离的 H^+", "类别"], "cols": "1.3fr 1fr 1fr 1fr", "rows": [{"at": "ac2", "cells": ["CH3COOH", "4", "1", "{一元酸}"]}, {"at": "ac3", "cells": ["H3PO2〔课外〕", "3", "1", "{一元酸|orange}"]}, {"at": "ac3", "cells": ["H3PO3〔课外〕", "3", "2", "{二元酸|orange}"]}, {"at": "ac4", "cells": ["H2SO4", "2", "2", "二元酸"]}], "size": 30}, {"t": "text", "at": "ac4", "text": "酸：含氧酸 / 无氧酸、强酸 / 弱酸　　碱：强碱 / 弱碱、可溶 / 难溶", "size": 28, "c": "muted"}], "callout": {"label": "解题方法", "at": "ac5", "text": "看{羟基氢}个数，或看它与 NaOH 反应生成的盐"}}} />;

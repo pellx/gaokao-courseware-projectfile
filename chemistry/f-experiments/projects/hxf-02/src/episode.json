@@ -1,0 +1,122 @@
+{
+	"id": "HXF-02",
+	"title": "装置图正误判断",
+	"subject": "chemistry",
+	"book": "化学实验 · 第2期 / 共9期",
+	"points": [
+		"判断四步法",
+		"气体发生装置",
+		"收集装置",
+		"洗气与干燥",
+		"分离装置",
+		"验证性质的装置",
+		"常见陷阱汇总"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学实验",
+		"title": [
+			[
+				"装置图",
+				true
+			],
+			[
+				"正误判断"
+			]
+		],
+		"subtitle": "试剂 · 装置 · 导管 · 条件",
+		"photo": "kipp.jpg",
+		"photoCaption": "启普发生器：固体与液体不加热制气体的经典装置",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"装置图",
+					true
+				]
+			],
+			[
+				[
+					"正误判断"
+				]
+			]
+		],
+		"photo": "kipp.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "启普发生器",
+		"credit": "nl:User:Josh, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "加热固体制气体时，试管口应略向下倾斜",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NO 可以用向上排空气法收集",
+				"ok": false,
+				"fix": "NO 与 O2 反应，用排水法"
+			},
+			{
+				"q": "可用浓硫酸干燥 NH3",
+				"ok": false,
+				"fix": "用碱石灰"
+			},
+			{
+				"q": "洗气瓶中气体应长进短出",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "用 NaOH 溶液除去 CO2 中的 HCl",
+				"ok": false,
+				"fix": "用饱和 NaHCO3 溶液"
+			},
+			{
+				"q": "MnO2 与稀盐酸加热可以制取 Cl2",
+				"ok": false,
+				"fix": "要用浓盐酸"
+			}
+		],
+		"endTitle": [
+			[
+				"装置图",
+				true
+			],
+			[
+				"正误判断"
+			]
+		],
+		"endLine": "试剂装置导管条件，一处有错就不行",
+		"slogan": "试剂装置导管条件，一处有错就不行"
+	},
+	"credits": "图片来源：Wikimedia Commons —— nl:User:Josh《Toestel van Kipp》，CC BY-SA 3.0；插图来自 pixiv：せいさく、よなか亜希@ご依頼受付中です、八式 あらた（侵删）",
+	"anime": [
+		{
+			"key": "four",
+			"src": "four.jpg",
+			"credit": "插图：せいさく《けいほん！！４ベタ塗り》pixiv #16780522",
+			"url": "https://www.pixiv.net/artworks/16780522"
+		},
+		{
+			"key": "stamp",
+			"src": "stamp.jpg",
+			"credit": "插图：よなか亜希@ご依頼受付中です《ぼ虹》pixiv #122710052",
+			"url": "https://www.pixiv.net/artworks/122710052"
+		},
+		{
+			"key": "wink",
+			"src": "wink.jpg",
+			"credit": "插图：八式 あらた《伊地知虹夏》pixiv #108540621",
+			"url": "https://www.pixiv.net/artworks/108540621"
+		}
+	]
+}

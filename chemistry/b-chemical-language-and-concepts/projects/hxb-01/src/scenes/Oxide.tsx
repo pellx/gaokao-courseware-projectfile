@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Oxide: React.FC = () => <AutoScene k="oxide" d={{"tag": "考点三", "title": "氧化物的分类", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "酸性氧化物", "at": "ox1", "lines": ["与碱反应 → {只生成盐和水|red}", "CO2、SO2、SO3、SiO2"], "c": "orange"}]}, {"blocks": [{"t": "panel", "title": "碱性氧化物", "at": "ox2", "lines": ["与酸反应 → {只生成盐和水|red}", "Na2O、CaO、CuO、Fe2O3"], "c": "green"}]}]}, {"t": "rule", "tag": "陷阱一", "at": "ox3", "text": "{Mn2O7}：金属氧化物，却是{酸性氧化物}；Al2O3 是两性氧化物", "c": "red"}, {"t": "rule", "tag": "陷阱二", "at": "ox4", "text": "CO、NO：{不成盐氧化物|orange}；NO2 与碱反应有价态变化，不是酸性氧化物", "c": "orange"}, {"t": "rule", "tag": "陷阱三", "at": "ox5", "text": "{Na2O2} 与酸反应还生成 O2，{不是碱性氧化物}", "c": "brown"}], "callout": {"label": "易错", "at": "ox6", "text": "碱性氧化物{一定}是金属氧化物；金属氧化物、非金属氧化物都{不一定|orange}对应碱性、酸性氧化物"}}} />;

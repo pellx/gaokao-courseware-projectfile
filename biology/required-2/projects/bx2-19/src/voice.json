@@ -1,0 +1,146 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第五章第三节——人类遗传病。",
+		"seconds": 6.84
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考遗传病的类型和实例、21 三体综合征的成因、调查方法和检测预防。",
+		"seconds": 8.088
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，人类遗传病：由遗传物质改变而引起的人类疾病。",
+		"seconds": 5.928
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|主要分三类：单基因遗传病、多基因遗传病和染色体异常遗传病。",
+		"seconds": 6.576
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：单基因遗传病是受一对等位基因控制的遗传病，不是一个基因；多基因遗传病是受两对或两对以上等位基因控制。",
+		"seconds": 11.088
+	},
+	"si1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，单基因遗传病的归类。常染色体显性：多指、并指、软骨发育不全。",
+		"seconds": 8.256
+	},
+	"si2": {
+		"key": "zh-CN-XiaoxiaoNeural|常染色体隐性：白化病、苯丙酮尿症、镰状细胞贫血、囊性纤维化。",
+		"seconds": 7.128
+	},
+	"si3": {
+		"key": "zh-CN-XiaoxiaoNeural|伴 X 显性：抗维生素 D 佝偻病。伴 X 隐性：红绿色盲、血友病、进行性肌营养不良。",
+		"seconds": 9.288
+	},
+	"si4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：常常给出病名，让你判断遗传方式或计算概率——这些实例要记熟。",
+		"seconds": 7.392
+	},
+	"mu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，多基因遗传病：受两对或两对以上等位基因控制的遗传病。",
+		"seconds": 6.624
+	},
+	"mu2": {
+		"key": "zh-CN-XiaoxiaoNeural|实例：原发性高血压、冠心病、哮喘、青少年型糖尿病。",
+		"seconds": 6.336
+	},
+	"mu3": {
+		"key": "zh-CN-XiaoxiaoNeural|特点：在群体中发病率较高；容易受环境因素影响；常表现出家族聚集现象。",
+		"seconds": 7.92
+	},
+	"mu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：多基因遗传病不遵循孟德尔遗传规律那样简单的比例，所以调查遗传病时一般不选多基因遗传病，而选发病率较高的单基因遗传病。",
+		"seconds": 13.248
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，染色体异常遗传病：由染色体变异引起的遗传病。",
+		"seconds": 5.904
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|结构异常：如猫叫综合征，5 号染色体部分缺失。数目异常：如唐氏综合征（21 三体综合征），患者体细胞中多了一条 21 号染色体，共 47 条。",
+		"seconds": 15.048
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|21 三体的成因：亲代形成配子时，减数分裂一或减数分裂二中 21 号染色体没有正常分离，产生了含两条 21 号染色体的配子。",
+		"seconds": 12.912
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：染色体异常遗传病患者不一定携带致病基因；它可以用显微镜观察染色体来诊断，而单基因病不能。",
+		"seconds": 10.272
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，调查人群中的遗传病。选择群体中发病率较高的单基因遗传病，比如红绿色盲、白化病、高度近视。",
+		"seconds": 10.776
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|调查发病率：在人群中随机抽样调查，调查的群体要足够大。",
+		"seconds": 6.264
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|调查遗传方式：在患者家系中调查，绘制遗传系谱图。",
+		"seconds": 5.736
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|发病率等于患病人数 ÷ 被调查人数乘100%。",
+		"seconds": 5.208
+	},
+	"su5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：一句话记住——发病率在人群，遗传方式在家系。",
+		"seconds": 6.024
+	},
+	"pv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，遗传病的检测和预防，主要手段是遗传咨询和产前诊断。",
+		"seconds": 6.888
+	},
+	"pv2": {
+		"key": "zh-CN-XiaoxiaoNeural|遗传咨询：了解家族病史，分析遗传病的传递方式，推算后代的再发风险率，提出防治对策和建议。",
+		"seconds": 9.936
+	},
+	"pv3": {
+		"key": "zh-CN-XiaoxiaoNeural|产前诊断：羊水检查、B超检查、孕妇血细胞检查和基因检测等，确定胎儿是否患有遗传病或先天性疾病。",
+		"seconds": 10.752
+	},
+	"pv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：唐氏综合征是染色体数目异常，可以通过羊水检查做染色体分析来诊断；禁止近亲结婚主要降低隐性遗传病的发病率。",
+		"seconds": 12.288
+	},
+	"pf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，三个概念的辨析。先天性疾病：出生时就有的疾病，不一定是遗传病，比如母亲孕期感染风疹导致的先天性心脏病。",
+		"seconds": 12.336
+	},
+	"pf2": {
+		"key": "zh-CN-XiaoxiaoNeural|家族性疾病：一个家族中多个成员患病，不一定是遗传病，比如饮食缺碘引起的地方性甲状腺肿。",
+		"seconds": 9.096
+	},
+	"pf3": {
+		"key": "zh-CN-XiaoxiaoNeural|遗传病：不一定出生就发病，比如有些遗传病到成年才发病；也不一定有家族史。",
+		"seconds": 7.968
+	},
+	"pf4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断是不是遗传病，只看一点——遗传物质有没有改变。",
+		"seconds": 6.528
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，是一对等位基因控制。判断二？对。",
+		"seconds": 6.432
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，遗传方式要在患者家系中调查。",
+		"seconds": 7.656
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，第一步是了解家族病史、作出诊断。判断六？对。",
+		"seconds": 7.968
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：发病率在人群，遗传方式在家系。我们下期再见！",
+		"seconds": 7.464
+	}
+}

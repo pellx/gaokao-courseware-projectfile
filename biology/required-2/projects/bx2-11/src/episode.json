@@ -1,0 +1,38 @@
+{
+	"id": "BX2-11",
+	"title": "DNA的复制",
+	"subject": "biology",
+	"book": "人教版·必修2·第3章",
+	"points": ["复制方式的推测", "梅塞尔森实验", "实验的科学方法", "DNA复制的过程", "复制的特点与意义", "复制的相关计算", "细胞分裂标记问题"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["DNA 的"], ["复制", true]],
+		"subtitle": "半保留复制 · 密度梯度离心 · 复制计算",
+		"photo": "kornberg.jpg",
+		"photoCaption": "科恩伯格：发现 DNA 聚合酶（1959 年诺贝尔奖）",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["DNA 的"]], [["复制", true]]],
+		"kicker": "半保留复制 · 计算",
+		"photo": "kornberg.jpg",
+		"photoPos": {"16x9": "center 30%", "4x3": "center 30%", "3x4": "center 24%"},
+		"photoTag": "DNA 聚合酶的发现者",
+		"credit": "Arthur Kornberg (1959), Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "DNA 复制的方式是全保留复制", "ok": false, "fix": "是半保留复制"},
+			{"q": "梅塞尔森和斯塔尔通过检测放射性区分 ^[15]N 和 ^[14]N", "ok": false, "fix": "^[15]N 没有放射性，靠密度梯度离心区分"},
+			{"q": "DNA 复制需要解旋酶和 DNA 聚合酶", "ok": true, "fix": ""},
+			{"q": "DNA 复制只发生在细胞核中", "ok": false, "fix": "主要在细胞核，线粒体、叶绿体中也有"},
+			{"q": "1 个 DNA 复制 3 次，含母链的 DNA 占 1/4", "ok": true, "fix": ""},
+			{"q": "含 m 个 A 的 DNA，第 n 次复制需要 m(2^n − 1) 个 A", "ok": false, "fix": "第 n 次复制需要 m·2^[n−1] 个"}
+		],
+		"endTitle": [["DNA 的"], ["复制", true]],
+		"endLine": "半保留 · 离心分带 · 解旋与聚合 · 复制计算 · 标记去向",
+		"slogan": "半保留复制，画出双链一次一次推！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 佚名《Arthur Kornberg 1959》Public domain"
+}

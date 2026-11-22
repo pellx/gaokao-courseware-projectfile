@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|研究有机物的方法：分离提纯与波谱。",
+		"seconds": 3.912
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考分离提纯操作和三种波谱分别测什么，共七个考点。",
+		"seconds": 6.312
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，研究有机物的一般步骤：分离、提纯 → 确定实验式 → 确定分子式 → 确定结构式。",
+		"seconds": 8.424
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|分离提纯用蒸馏、萃取、重结晶；实验式用元素分析；分子式用质谱测相对分子质量；结构式用红外光谱和核磁共振氢谱。",
+		"seconds": 12.792
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|每一步都有对应的方法，考试常把方法和目的错配来设陷阱。",
+		"seconds": 6.024
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：记住“质谱测分子量，红外测官能团，核磁测氢种类”。",
+		"seconds": 6.528
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，蒸馏：分离沸点相差较大，一般大于30摄氏度的互溶液体。",
+		"seconds": 6.864
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|装置要点：温度计水银球在蒸馏烧瓶支管口处；冷凝水下进上出；加碎瓷片防暴沸。",
+		"seconds": 8.904
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：工业乙醇中加生石灰再蒸馏，得到无水乙醇；石油分馏也是蒸馏。",
+		"seconds": 7.248
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：温度计测的是蒸气的温度，不能插到液面以下；忘加碎瓷片要冷却后再补加。",
+		"seconds": 8.328
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，萃取：利用溶质在两种互不相溶的溶剂中溶解度不同，用萃取剂把溶质从原溶剂中提取出来。",
+		"seconds": 9.912
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|萃取剂的要求：与原溶剂互不相溶、溶质在其中溶解度更大、不与溶质反应。常用四氯化碳、苯、乙酸乙酯。",
+		"seconds": 10.944
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|分液：下层液体从下口放出，上层液体从上口倒出。四氯化碳密度比水大，在下层；苯在上层。",
+		"seconds": 10.248
+	},
+	"ex3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑发女孩害羞地坐在一汪浅蓝色里：两种溶剂互不相溶，就会分成上下两层，各待各的。",
+		"seconds": 8.568
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：乙醇不能作萃取剂萃取水中的溶质，因为乙醇与水互溶。",
+		"seconds": 6.408
+	},
+	"rc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，重结晶：利用被提纯物质和杂质的溶解度随温度变化不同来提纯固体。",
+		"seconds": 7.848
+	},
+	"rc2": {
+		"key": "zh-CN-XiaoxiaoNeural|提纯苯甲酸：加热溶解 → 趁热过滤除去不溶性杂质 → 冷却结晶 → 过滤、洗涤、干燥。",
+		"seconds": 8.304
+	},
+	"rc3": {
+		"key": "zh-CN-XiaoxiaoNeural|溶剂的要求：杂质在其中很易溶或很难溶；被提纯物质的溶解度受温度影响较大。",
+		"seconds": 8.112
+	},
+	"rc3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴眼镜的棕发女孩趴在笔记本上睡着了：冷却结晶要慢慢来，静置冷却，晶体才大、才纯。",
+		"seconds": 9.048
+	},
+	"rc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：趁热过滤是为了防止苯甲酸提前析出，混在不溶性杂质里一起被滤掉。",
+		"seconds": 7.728
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，确定实验式：元素分析测出各元素的质量分数，换算成原子个数比。",
+		"seconds": 7.824
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：某有机物含碳百分之52.2、氢百分之13.0、其余是氧，碳氢氧原子个数比是2比6比1，实验式C 2 H 6 O。",
+		"seconds": 12.096
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|确定分子式：用质谱测相对分子质量，看最大质荷比。若为46，分子式就是C 2 H 6 O。",
+		"seconds": 9.6
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：质谱图中最右边、质荷比最大的峰对应相对分子质量，不是最高的峰。",
+		"seconds": 7.584
+	},
+	"ir1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，红外光谱：不同的化学键和官能团吸收频率不同，在谱图上不同位置出现吸收峰。",
+		"seconds": 9.168
+	},
+	"ir2": {
+		"key": "zh-CN-XiaoxiaoNeural|作用：判断分子中含有哪些化学键或官能团，如氧氢键、碳氧双键、碳氧碳。",
+		"seconds": 8.064
+	},
+	"ir3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：C 2 H 6 O的红外光谱有氧氢键吸收，说明是乙醇；只有碳氧碳，没有氧氢键，就是甲醚。",
+		"seconds": 9.528
+	},
+	"ir3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿白大褂的女孩比着剪刀手：红外光谱看的是化学键，告诉你“有什么”，不告诉你“有几个”。",
+		"seconds": 8.592
+	},
+	"ir4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：红外光谱不能确定氢原子的种类和个数，那是核磁共振氢谱的工作。",
+		"seconds": 7.368
+	},
+	"hn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，核磁共振氢谱：吸收峰的组数等于氢原子的种类数；峰面积之比等于各类氢原子的个数之比。",
+		"seconds": 9.864
+	},
+	"hn2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：乙醇有3组峰，面积比3比2比1；甲醚只有1组峰。",
+		"seconds": 5.976
+	},
+	"hn3": {
+		"key": "zh-CN-XiaoxiaoNeural|三种波谱配合：质谱定分子量，红外定官能团，核磁定氢的种类和比例，就能确定结构。",
+		"seconds": 8.616
+	},
+	"hn4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：给出氢谱，先数峰组数，再用面积比分配氢原子，和候选结构逐一比对。",
+		"seconds": 8.448
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：温度计插入液面以下？错，在支管口处。判断二：用乙醇萃取碘水？错，乙醇和水互溶。",
+		"seconds": 11.256
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：提纯苯甲酸要趁热过滤？对。判断四：质谱最高峰是分子量？错，看最大质荷比。",
+		"seconds": 10.8
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：红外光谱能确定氢的种类？错，那是核磁。判断六：乙醇氢谱有3组峰？对。",
+		"seconds": 10.128
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|质谱定分子量，红外看化学键，核磁数氢种类。下一期：烷烃、烯烃与炔烃。",
+		"seconds": 8.544
+	}
+}

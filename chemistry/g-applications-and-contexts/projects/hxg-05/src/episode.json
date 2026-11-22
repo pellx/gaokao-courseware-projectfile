@@ -1,0 +1,134 @@
+{
+	"id": "HXG-05",
+	"title": "化工流程（下）：分离操作、Ksp 计算与产率纯度",
+	"subject": "chemistry",
+	"book": "综合应用与情境 · 第5期 / 共7期",
+	"points": [
+		"分离操作",
+		"晶体的洗涤",
+		"K_sp 计算",
+		"物料循环",
+		"产率与纯度",
+		"损失与误差分析",
+		"答题模板汇总"
+	],
+	"intro": {
+		"badge": "高考化学 · 综合应用与情境",
+		"title": [
+			[
+				"化工流程（下）",
+				true
+			],
+			[
+				"：分离操作、Ksp 计算与产率纯度"
+			]
+		],
+		"subtitle": "结晶 · 洗涤 · Ksp · 循环 · 产率",
+		"photo": "agricola-3.png",
+		"photoCaption": "《矿冶全书》（1556）中的蒸发池",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化工流程",
+					true
+				]
+			],
+			[
+				[
+					"（下）",
+					false
+				]
+			],
+			[
+				[
+					"分离、计算",
+					false
+				]
+			],
+			[
+				[
+					"与产率"
+				]
+			]
+		],
+		"photo": "agricola-3.png",
+		"photoPos": {
+			"16x9": "center 60%",
+			"4x3": "center 60%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "矿冶全书",
+		"credit": "Agricola 1556, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "加酸可以使萃取到有机层的金属离子回到水层",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "用乙醇洗涤晶体只是为了除去杂质",
+				"ok": false,
+				"fix": "还为了减少溶解损失、便于干燥"
+			},
+			{
+				"q": "计算 Fe^3+ 沉淀完全时，令 c(Fe^3+) = 10^-5 mol/L",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "K_sp[Fe(OH)3] = c(Fe^3+)·c(OH^-)",
+				"ok": false,
+				"fix": "c(OH^-) 要三次方"
+			},
+			{
+				"q": "前面加入、后面又生成的物质可以循环利用",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "含结晶水的产品可以高温烘干",
+				"ok": false,
+				"fix": "会失去结晶水，应低温烘干"
+			}
+		],
+		"endTitle": [
+			[
+				"化工流程（下）",
+				true
+			],
+			[
+				"：分离操作、Ksp 计算与产率纯度"
+			]
+		],
+		"endLine": "冰水乙醇减损失，前加后生可循环",
+		"slogan": "冰水乙醇减损失，前加后生可循环"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Georgius Agricola《De re metallica》（1556）木刻插图，公有领域；插图来自 pixiv：mono(単)、若凜＠わかりん、オッドアイまさお（侵删）",
+	"anime": [
+		{
+			"key": "beret",
+			"src": "beret.jpg",
+			"credit": "插图：mono(単)《ちびむぎ》pixiv #25571992",
+			"url": "https://www.pixiv.net/artworks/25571992"
+		},
+		{
+			"key": "bun",
+			"src": "bun.jpg",
+			"credit": "插图：若凜＠わかりん《わぁい》pixiv #33035998",
+			"url": "https://www.pixiv.net/artworks/33035998"
+		},
+		{
+			"key": "drink",
+			"src": "drink.jpg",
+			"credit": "插图：オッドアイまさお《虹夏ちゃん》pixiv #123073207",
+			"url": "https://www.pixiv.net/artworks/123073207"
+		}
+	]
+}

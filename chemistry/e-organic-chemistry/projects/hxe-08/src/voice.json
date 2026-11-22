@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|芳香烃。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考苯的结构和性质，大题考苯的同系物侧链氧化，共七个考点。",
+		"seconds": 6.696
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，苯的结构：平面正六边形，6个碳碳键完全相同，是介于单键和双键之间的独特的键。",
+		"seconds": 9.432
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|证据：邻二甲苯只有一种结构；苯不能使溴水和酸性高锰酸钾溶液因反应而褪色。",
+		"seconds": 8.328
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以苯“易取代、难加成、难氧化”。",
+		"seconds": 3.936
+	},
+	"st3b": {
+		"key": "zh-CN-XiaoxiaoNeural|头戴葡萄花饰的金发小女孩：苯环像一顶完美对称的花冠，六个碳一模一样，没有单双之分。",
+		"seconds": 8.496
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：苯加入溴水后振荡，水层褪色是萃取，不是加成反应。",
+		"seconds": 6.384
+	},
+	"sb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，苯的取代反应。溴代：苯与液溴在溴化铁催化下反应，生成溴苯和溴化氢。",
+		"seconds": 9.024
+	},
+	"sb2": {
+		"key": "zh-CN-XiaoxiaoNeural|硝化：苯与浓硝酸在浓硫酸作用下，50到60摄氏度反应，生成硝基苯和水。",
+		"seconds": 8.016
+	},
+	"sb3": {
+		"key": "zh-CN-XiaoxiaoNeural|浓硫酸在硝化中的作用：催化剂和吸水剂。",
+		"seconds": 4.68
+	},
+	"sb4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：苯与溴水不发生取代反应，必须用液溴；实际起催化作用的是溴化铁，加入铁粉也可以。",
+		"seconds": 9.552
+	},
+	"ad1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，苯的加成反应：在镍催化、加热条件下与氢气加成，生成环己烷。",
+		"seconds": 7.8
+	},
+	"ad2": {
+		"key": "zh-CN-XiaoxiaoNeural|1摩尔苯最多与3摩尔氢气加成。",
+		"seconds": 3.624
+	},
+	"ad3": {
+		"key": "zh-CN-XiaoxiaoNeural|苯燃烧时火焰明亮，有浓烟，因为含碳量高。",
+		"seconds": 4.56
+	},
+	"ad4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：定量计算一摩尔有机物消耗氢气的量，苯环按三摩尔计算。",
+		"seconds": 6.648
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，溴苯的制备：生成的溴化氢遇水蒸气形成白雾；导管末端不能插入水中，防止倒吸。",
+		"seconds": 9.384
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|粗溴苯因溶有溴呈褐色，用氢氧化钠溶液洗涤，再分液。",
+		"seconds": 5.904
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|硝基苯的制备：先加浓硝酸，再慢慢加入浓硫酸，冷却后加苯；用水浴加热控制50到60摄氏度。",
+		"seconds": 9.552
+	},
+	"pr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩抱着吉他“嘎——”地扫了一下弦：实验也要按顺序来，浓硫酸后加、慢慢加，不然会飞溅。",
+		"seconds": 9.12
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：证明苯与溴发生的是取代反应，要检验溴化氢，但要先除去挥发出的溴，用四氯化碳，否则溴也会使硝酸银产生沉淀。",
+		"seconds": 12.144
+	},
+	"ho1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，苯的同系物：只有一个苯环、侧链是烷基。",
+		"seconds": 5.112
+	},
+	"ho2": {
+		"key": "zh-CN-XiaoxiaoNeural|侧链氧化：甲苯能使酸性高锰酸钾溶液褪色，侧链被氧化成羧基，生成苯甲酸。",
+		"seconds": 8.352
+	},
+	"ho3": {
+		"key": "zh-CN-XiaoxiaoNeural|条件：与苯环直接相连的碳上要有氢。不管侧链多长，都被氧化成羧基连在苯环上。",
+		"seconds": 8.736
+	},
+	"ho4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：叔丁苯与苯环相连的碳上没有氢，不能被酸性高锰酸钾氧化。",
+		"seconds": 6.792
+	},
+	"to1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，甲苯的取代位置看条件。光照与氯气：取代侧链甲基上的氢，生成苄基氯。",
+		"seconds": 8.568
+	},
+	"to2": {
+		"key": "zh-CN-XiaoxiaoNeural|催化剂溴化铁与溴：取代苯环上的氢，主要在甲基的邻位和对位。",
+		"seconds": 6.336
+	},
+	"to3": {
+		"key": "zh-CN-XiaoxiaoNeural|甲苯与浓硝酸硝化，可以生成2,4,6-三硝基甲苯，也就是T N T，说明甲基使苯环邻、对位的氢更活泼。",
+		"seconds": 11.424
+	},
+	"to4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：记口诀“光照取代侧链，催化取代苯环”，大题根据条件判断取代位置。",
+		"seconds": 8.184
+	},
+	"mu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，苯环与侧链的相互影响。侧链影响苯环：甲基使苯环邻、对位上的氢更易被取代，甲苯硝化比苯容易。",
+		"seconds": 11.376
+	},
+	"mu2": {
+		"key": "zh-CN-XiaoxiaoNeural|苯环影响侧链：苯环使甲基更易被氧化，甲苯能使酸性高锰酸钾褪色，甲烷不能。",
+		"seconds": 8.376
+	},
+	"mu2b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发、粗眉毛的女孩：苯环和侧链就像好朋友，互相影响，一个变活泼，另一个也跟着变。",
+		"seconds": 8.736
+	},
+	"mu3": {
+		"key": "zh-CN-XiaoxiaoNeural|同理，苯酚中羟基使苯环邻、对位更活泼，苯环又使羟基显弱酸性，下一章细讲。",
+		"seconds": 8.424
+	},
+	"mu4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：选择题问下列事实能说明苯环对侧链有影响的是哪个：选甲苯能被酸性高锰酸钾氧化而甲烷不能。",
+		"seconds": 10.344
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：苯是单双键交替？错，六个键完全相同。判断二：苯和溴水在溴化铁催化下取代？错，要用液溴。",
+		"seconds": 12.288
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：1摩尔苯最多与3摩尔氢气加成？对。判断四：制硝基苯先加浓硫酸？错，后加浓硫酸。",
+		"seconds": 11.304
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：甲苯被高锰酸钾氧化成苯甲酸？对。判断六：甲苯光照取代苯环上的氢？错，取代侧链。",
+		"seconds": 11.472
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|易取代难加成，光照侧链催化苯环。下一期：卤代烃。",
+		"seconds": 6.216
+	}
+}

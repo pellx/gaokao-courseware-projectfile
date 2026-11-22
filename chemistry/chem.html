@@ -1,0 +1,321 @@
+<title>北京高考化学考点清单</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Noto+Serif+SC:wght@600;900&family=JetBrains+Mono:wght@500;700&display=swap">
+<style>
+/* Layout: 顶部考试结构 + 粘性筛选栏 + 7 个"元素格"板块，每个板块按逻辑主线排列考点卡 */
+:root{
+  --bg:#f3f5f8; --surface:#ffffff; --ink:#18202b; --muted:#5b6676; --line:#dbe1e9;
+  --accent:#1f4fd1;            /* 硫酸铜蓝 */
+  --sel:#0f7a74; --sel-bg:#dff3f1;   /* 选择题 */
+  --big:#b4530e; --big-bg:#fbeadb;   /* 大题 */
+  --both:#6a3fc2; --both-bg:#ece4fb; /* 两类都考 */
+  --heat:#d13a1f;
+  --f-display:"Noto Serif SC","Songti SC",serif;
+  --f-body:"Noto Sans SC","PingFang SC","Microsoft YaHei",sans-serif;
+  --f-mono:"JetBrains Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#0f141b; --surface:#171e28; --ink:#e7ecf3; --muted:#9aa6b6; --line:#2a3442;
+  --accent:#7ea2ff; --sel:#5fd0c7; --sel-bg:#123331; --big:#f0a165; --big-bg:#3a2516;
+  --both:#b89cff; --both-bg:#2a2140; --heat:#ff7a5c; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f141b; --surface:#171e28; --ink:#e7ecf3; --muted:#9aa6b6; --line:#2a3442;
+  --accent:#7ea2ff; --sel:#5fd0c7; --sel-bg:#123331; --big:#f0a165; --big-bg:#3a2516;
+  --both:#b89cff; --both-bg:#2a2140; --heat:#ff7a5c; color-scheme:dark}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.65}
+.wrap{max-width:1080px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:28px 64px}
+h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0}
+h1{font-size:clamp(26px,4.4vw,38px);font-weight:900;letter-spacing:.02em}
+.lede{color:var(--muted);max-width:62ch;margin:10px 0 0}
+.eyebrow{font-family:var(--f-mono);font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent)}
+section.block{margin-top:36px}
+h2{font-size:22px;font-weight:900;margin-bottom:12px}
+
+/* 试卷结构 */
+.paper{display:grid;grid-template-columns:minmax(0,42fr) minmax(0,58fr);gap:4px;margin-top:20px;border-radius:10px;overflow:hidden}
+.paper div{padding:14px 16px;min-width:0}
+.paper .p-sel{background:var(--sel-bg);color:var(--ink)} .paper .p-big{background:var(--big-bg);color:var(--ink)}
+.paper b{font-family:var(--f-mono);font-size:22px;display:block}
+.paper .p-sel b{color:var(--sel)} .paper .p-big b{color:var(--big)}
+.paper small{color:var(--muted);display:block}
+
+.legend{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:14px;color:var(--muted);font-size:13px;align-items:center}
+
+/* 题型映射表 */
+.tbl{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:10px}
+table{border-collapse:collapse;width:100%;min-width:620px;font-size:14px}
+th,td{text-align:left;padding:10px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-weight:700;color:var(--muted);font-size:12px;letter-spacing:.06em}
+tr:last-child td{border-bottom:0}
+td .ids{font-family:var(--f-mono);font-size:12.5px;color:var(--accent)}
+
+/* 筛选栏 */
+.bar{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);padding-block:10px;margin-top:28px;border-bottom:1px solid var(--line);display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
+.seg{display:flex;flex-wrap:wrap;gap:6px}
+.chip{font:inherit;font-size:13px;border:1px solid var(--line);background:var(--surface);color:var(--ink);padding:5px 12px;border-radius:999px;cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#q{font:inherit;font-size:13px;padding:5px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--ink);flex:1 1 160px;min-width:0}
+.prog{font-family:var(--f-mono);font-size:12.5px;color:var(--muted);margin-left:auto;white-space:nowrap}
+
+/* 板块 */
+.mod{margin-top:30px}
+.mod-head{display:flex;gap:14px;align-items:flex-start}
+.tile{flex:none;width:58px;height:62px;border:2px solid var(--ink);border-radius:4px;display:flex;flex-direction:column;justify-content:space-between;padding:4px 6px;background:var(--surface)}
+.tile .z{font-family:var(--f-mono);font-size:10px;color:var(--muted)}
+.tile .s{font-family:var(--f-mono);font-weight:700;font-size:24px;line-height:1;color:var(--accent)}
+.tile .n{font-size:9px;color:var(--muted);white-space:nowrap;overflow:hidden}
+.mod-head > div{min-width:0}
+.mod-head h3{font-size:20px;font-weight:900}
+.chain{font-size:13.5px;color:var(--muted);margin-top:2px}
+.chain b{color:var(--ink);font-weight:500}
+.mbar{height:4px;background:var(--line);border-radius:2px;margin-top:8px;overflow:hidden;max-width:260px}
+.mbar i{display:block;height:100%;background:var(--accent);width:0;transition:width .3s}
+.list{display:grid;gap:8px;margin-top:14px}
+.kp{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;display:grid;grid-template-columns:auto minmax(0,1fr);gap:4px 12px}
+.kp.done{opacity:.55}
+.kp input{width:18px;height:18px;margin-top:3px;accent-color:var(--accent);cursor:pointer}
+.kp .top{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 10px}
+.kp .id{font-family:var(--f-mono);font-size:12px;color:var(--muted)}
+.kp .name{font-weight:700;font-size:15.5px}
+.tag{font-size:12px;font-weight:700;padding:1px 8px;border-radius:4px;white-space:nowrap}
+.t-sel{color:var(--sel);background:var(--sel-bg)} .t-big{color:var(--big);background:var(--big-bg)} .t-both{color:var(--both);background:var(--both-bg)}
+.heat{color:var(--heat);font-size:12px;letter-spacing:1px}
+.heat .off{color:var(--line)}
+.kp .body{grid-column:2;font-size:14px}
+.kp .pt{margin:2px 0 0}
+.kp .how,.kp .trap{margin:4px 0 0;font-size:13.5px;color:var(--muted)}
+.kp .how b,.kp .trap b{font-weight:700}
+.kp .how b{color:var(--accent)} .kp .trap b{color:var(--heat)}
+.empty{color:var(--muted);font-size:14px;padding:8px 2px}
+
+/* 答题模板 */
+.tpl{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:10px}
+.tpl div{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:12px 14px;min-width:0}
+.tpl h4{margin:0 0 4px;font-size:14.5px}
+.tpl p{margin:0;font-size:13.5px;color:var(--muted)}
+ol.plan{padding-left:1.3em;margin:0;max-width:70ch} ol.plan li{margin-bottom:6px}
+.note{font-size:12.5px;color:var(--muted);margin-top:40px;border-top:1px solid var(--line);padding-top:12px}
+@media (prefers-reduced-motion:reduce){.mbar i{transition:none}}
+@media (max-width:520px){.prog{margin-left:0;width:100%}}
+</style>
+
+<div class="wrap">
+  <div class="eyebrow">北京卷 · 新高考 · 化学 100 分</div>
+  <h1>北京高考化学考点清单</h1>
+  <p class="lede">考点按知识之间的逻辑关系分成 7 个板块，每个板块内顺着一条主线排列。每个考点都标了北京卷的出题偏好：<b>选择题爱考</b>、<b>大题爱考</b>，还是<b>两类都考</b>，再配上热度和典型考法。勾选已掌握的考点，进度会保存在你的浏览器里。</p>
+
+  <div class="paper" aria-label="北京卷试卷结构">
+    <div class="p-sel"><b>42 分</b>选择题 14 道 × 3 分<small>覆盖面广、单点考查，比的是"快、准"</small></div>
+    <div class="p-big"><b>58 分</b>非选择题 5 道<small>物质结构 · 反应原理 · 有机 · 工艺流程 · 实验探究</small></div>
+  </div>
+  <div class="legend">
+    <span><span class="tag t-sel">选择</span> 主要在选择题出现</span>
+    <span><span class="tag t-big">大题</span> 主要在非选择题出现</span>
+    <span><span class="tag t-both">双考</span> 两类题都常考，优先复习</span>
+    <span><span class="heat">★★★</span> 几乎每年考 · ★★ 常考 · ★ 偶考</span>
+  </div>
+
+  <section class="block">
+    <h2>5 道大题分别吃哪些考点</h2>
+    <div class="tbl"><table>
+      <thead><tr><th>大题</th><th>分值约</th><th>核心考点编号</th><th>北京卷特点</th></tr></thead>
+      <tbody>
+        <tr><td>物质结构与性质</td><td>9–11</td><td class="ids">A1 A3 A6 A7 A9 A10 A12</td><td>常用一种陌生物质串起来问；"从结构角度解释"类设问分值高</td></tr>
+        <tr><td>化学反应原理</td><td>10–12</td><td class="ids">D2 D6 D7 D12 D13 B5</td><td>常结合碳中和、氮循环、制氢等情境；电解装置与离子交换膜是重点</td></tr>
+        <tr><td>有机推断与合成</td><td>11–13</td><td class="ids">E1 E3 E5 E6 E7 E8 E9</td><td>给陌生反应信息，靠分子式差值和断键位置推结构</td></tr>
+        <tr><td>化工流程</td><td>10–12</td><td class="ids">G2 B5 D10 F4 C7 F6</td><td>陌生氧化还原方程式、条件控制解释、纯度计算三件套</td></tr>
+        <tr><td>实验探究</td><td>12–14</td><td class="ids">F8 F9 F5 F6 C3 C4 C7 A9</td><td>北京卷标志题：对比实验、控制变量、排除干扰、用平衡或氧化还原能力解释现象</td></tr>
+      </tbody>
+    </table></div>
+  </section>
+
+  <div class="bar" role="toolbar" aria-label="筛选考点">
+    <div class="seg" id="typeSeg">
+      <button class="chip" data-t="all" aria-pressed="true">全部</button>
+      <button class="chip" data-t="sel" aria-pressed="false">选择题爱考</button>
+      <button class="chip" data-t="big" aria-pressed="false">大题爱考</button>
+      <button class="chip" data-t="both" aria-pressed="false">双考</button>
+    </div>
+    <div class="seg">
+      <button class="chip" id="hot" aria-pressed="false">只看 ★★★</button>
+      <button class="chip" id="todo" aria-pressed="false">只看未掌握</button>
+    </div>
+    <input id="q" type="search" placeholder="搜索考点，如 晶胞、盖斯、手性" aria-label="搜索考点">
+    <span class="prog" id="prog"></span>
+  </div>
+
+  <div id="mods"></div>
+
+  <section class="block">
+    <h2>大题答题模板</h2>
+    <div class="tpl">
+      <div><h4>第一电离能 / 电负性比较</h4><p>写出两者的价层电子排布 → 指出某一方为半充满或全充满的稳定结构（或核电荷数、原子半径差异）→ 失去一个电子所需能量更大 → 结论。</p></div>
+      <div><h4>键角大小比较</h4><p>中心原子杂化方式相同 → 孤电子对数不同 → 孤电子对对成键电子对的排斥力更大 → 孤电子对越多键角越小。杂化方式不同时先比杂化方式。</p></div>
+      <div><h4>熔沸点 / 溶解性解释</h4><p>先判断晶体类型 → 同类型比作用力（分子晶体看氢键和相对分子质量，离子晶体看离子半径和电荷）→ 作用力越强熔沸点越高。</p></div>
+      <div><h4>平衡移动解释</h4><p>写出存在的平衡 → 指明改变的条件使某浓度或温度怎样变化 → 平衡向哪个方向移动 → 导致观察到的现象或数据变化。</p></div>
+      <div><h4>温度对产率"先增后减"</h4><p>低温段：升温速率加快，未达平衡，产率上升；高温段：反应放热，升温平衡逆移（或催化剂失活、副反应增多），产率下降。</p></div>
+      <div><h4>实验探究结论</h4><p>对比实验 X 与 Y，只有某条件不同 → 现象差异 → 说明该条件影响……；若有干扰，补"排除了……的干扰"。结论要回扣题目的探究目的。</p></div>
+      <div><h4>沉淀洗涤与检验洗净</h4><p>沿玻璃棒向漏斗中加蒸馏水至浸没沉淀，自然流下，重复 2–3 次。取最后一次洗涤液，加入某试剂，若无某现象，则已洗净。</p></div>
+      <div><h4>浸出时"提高速率"措施</h4><p>粉碎增大接触面积、适当升温、适当增大酸的浓度、搅拌。注意"适当"二字，并说明过高的弊端（挥发、分解、副反应）。</p></div>
+    </div>
+  </section>
+
+  <section class="block">
+    <h2>怎么用这份清单复习</h2>
+    <ol class="plan">
+      <li><b>先清"双考 ★★★"。</b>点上方"双考"和"只看 ★★★"，这些考点选择题和大题都会碰到，投入产出比最高。</li>
+      <li><b>选择题考点专项刷。</b>切到"选择题爱考"，按题位练：STSE、化学用语、周期律、方程式与事实、有机结构、高分子、实验装置、机理图、电化学、溶液图像、探究型选择。目标是每题 2 分钟内拿下。</li>
+      <li><b>大题按 5 种题型模板化。</b>切到"大题爱考"，每种大题对照上面的映射表，各练一套完整真题，背熟答题模板，重点练"从结构/平衡角度解释"的文字表达。</li>
+      <li><b>用易错点自查。</b>每个考点下的"易错"一行就是丢分点，做错题时对照检查是不是落在这里。</li>
+      <li><b>回到逻辑主线。</b>每个板块开头那条主线是串记忆的线索，复习完一个板块，试着不看清单把主线和其中考点复述一遍。</li>
+    </ol>
+  </section>
+
+  <p class="note">出题偏好依据近年北京新高考卷的命题规律归纳，属于复习方向参考，不是对某一年试题的预测。具体年份题号请以真题原卷为准。勾选进度只保存在当前浏览器。</p>
+</div>
+
+<script>
+const MODS=[
+{k:"A",sym:"St",z:"01",n:"Structure",title:"物质结构与性质",
+ chain:"<b>原子结构</b> → <b>化学键与分子结构</b> → <b>分子间作用力</b> → <b>晶体</b>，全程贯穿“结构决定性质”",
+ items:[
+ ["A1","核外电子排布","both",3,"能层能级、构造原理、泡利原理与洪特规则；1–36 号元素电子排布式、价层电子排布式、轨道表示式；Cr、Cu 特例；离子的排布（如 Fe³⁺ 3d⁵）。","选择题辨析轨道表示式是否违背洪特规则；结构大题第一空常问基态原子价层电子排布或未成对电子数。","看清问的是“价层”还是“完整”排布；过渡金属失电子先失 4s。"],
+ ["A2","周期表分区与元素推断","big",2,"s、p、d、ds、f 区划分；由价层电子排布确定周期和族。","大题给出元素信息，让你判断位置、所在区。","Cu、Zn 属 ds 区，不是 d 区。"],
+ ["A3","电离能与电负性","both",3,"第一电离能同周期总体增大，ⅡA>ⅢA、ⅤA>ⅥA 反常；逐级电离能突跃判断化合价；电负性递变及应用（判断成键类型、化合价正负）。","大题“比较并从结构角度解释”；选择题与元素推断结合比较大小。","解释时必须落到“半充满/全充满更稳定”或“核电荷数、半径”，只写结论不得分。"],
+ ["A4","元素周期律","sel",3,"原子半径、金属性与非金属性、最高价氧化物对应水化物酸碱性、简单氢化物稳定性的递变。","北京卷经典设问：“下列事实不能用元素周期律解释的是”。","H₂SO₄>H₂SO₃ 的酸性、Na₂CO₃ 比 NaHCO₃ 稳定，都不能用周期律解释；比的必须是最高价含氧酸。"],
+ ["A5","共价键的类型与参数","both",2,"σ 键与 π 键的判断与计数；极性键与非极性键；键能、键长与分子稳定性。","选择题判断 σ/π 键数目；大题偶问 1 mol 物质含 σ 键数目。","配位键也是 σ 键；双键 1σ1π，三键 1σ2π。"],
+ ["A6","VSEPR 模型与杂化轨道","both",3,"价层电子对数 = σ 键电子对数 + 孤电子对数；VSEPR 模型与分子空间结构的区别；sp、sp²、sp³ 杂化判断。","选择题化学用语给出 VSEPR 模型图让你判断；大题判断杂化方式与空间结构。","H₂O 的 VSEPR 模型是四面体形，空间结构是 V 形，两者别混。"],
+ ["A7","键角大小比较","big",3,"先比杂化方式（sp>sp²>sp³），杂化相同时比孤电子对数；再看中心原子或配位原子电负性。","大题给两种分子让你比较键角并解释原因。","答“孤电子对对成键电子对的排斥力大于成键电子对之间的排斥力”，缺一环就扣分。"],
+ ["A8","分子极性与手性","sel",1,"由分子空间结构判断极性；手性分子与手性碳。","选择题中零散出现，常与有机结构题合并考查。","极性键构成的分子不一定是极性分子，如 CO₂、CH₄。"],
+ ["A9","配位键与配合物","both",3,"配体、配位原子、配位数；[Cu(NH₃)₄]²⁺、[Fe(SCN)]²⁺、[Ag(NH₃)₂]⁺、[Fe(CN)₆]³⁻；配位能力强弱与配合物转化。","结构大题问配位原子和配位数；实验探究题用配位平衡解释颜色变化或沉淀溶解。","NH₃ 中配位原子是 N；判断配位能力要看现象（谁能把谁替换下来）。"],
+ ["A10","分子间作用力与氢键","both",3,"范德华力与相对分子质量；氢键对熔沸点、溶解性、密度的影响；分子内氢键使熔沸点降低。","选择题“下列事实与氢键无关的是”；大题解释熔沸点或溶解度差异。","HF、H₂O 的热稳定性与氢键无关，那是共价键键能决定的。"],
+ ["A11","晶体类型与性质","sel",2,"分子、共价、离子、金属晶体的判断与熔点比较；过渡晶体、混合型晶体（石墨）。","选择题给新材料判断晶体类型或性质。","石墨熔点高于金刚石；判断离子晶体熔点看离子电荷和半径。"],
+ ["A12","晶胞计算","big",3,"均摊法求化学式；配位数；密度 ρ = N·M /(N<sub>A</sub>·a³)；原子分数坐标；两原子最近距离。","结构大题最后一空的固定压轴，几乎每年都有。","pm 换 cm 乘 10⁻¹⁰；面心、棱心、顶点的均摊系数要分清（1/2、1/4、1/8）。"],
+ ["A13","超分子与新型材料","sel",1,"超分子的分子识别与自组装；冠醚、离子液体、石墨烯等。","作为选择题新情境出现，考点仍是氢键、配位、晶体类型。",""]
+]},
+{k:"B",sym:"Lg",z:"02",n:"Language",title:"化学语言与基本概念",
+ chain:"<b>用符号描述物质</b> → <b>用物质的量定量</b> → 两大反应规律 <b>氧化还原</b> 与 <b>离子反应</b>，方程式书写贯穿所有大题",
+ items:[
+ ["B1","物质分类与变化","sel",2,"纯净物与混合物、酸碱盐与氧化物、同素异形体、胶体性质；物理变化与化学变化。","常藏在第 1 题 STSE 或传统文化情境里。","焰色试验是物理变化；石油分馏是物理变化，裂化裂解是化学变化。"],
+ ["B2","化学用语规范","sel",3,"电子式（离子化合物、共价化合物、用电子式表示形成过程）、结构式、球棍与空间填充模型、原子结构示意图、核素符号。","北京卷第 2 题前后基本固定一道化学用语正误判断。","Na₂O₂、NH₄Cl、HClO 的电子式最常设错；HClO 中 O 在中间。"],
+ ["B3","物质的量与计算","big",2,"n、M、V<sub>m</sub>、c 的换算；一定物质的量浓度溶液的配制。","北京卷很少单独出阿伏加德罗常数选择题，计算主要出现在大题的纯度、产率、滴定中。","V<sub>m</sub>=22.4 L/mol 只适用于标准状况下的气体。"],
+ ["B4","氧化还原基本规律","both",3,"氧化剂与还原剂、得失电子守恒、强弱规律、先后规律、价态规律（歧化、归中）。","选择题判断说法正误；大题贯穿方程式书写与计算。","同一物质既做氧化剂又做还原剂的情况（Cl₂ 与 NaOH、Na₂O₂ 与水）要会算转移电子数。"],
+ ["B5","陌生氧化还原方程式书写","big",3,"四步法：定产物 → 得失电子守恒 → 电荷守恒（补 H⁺、OH⁻）→ 原子守恒（补 H₂O）；注意酸碱性环境决定产物形式。","流程、原理、实验三道大题都会要求写，是大题最大的共性失分点。","酸性溶液中不能出现 OH⁻，碱性溶液中不能出现 H⁺；MnO₄⁻ 在酸性下还原为 Mn²⁺，中性下为 MnO₂。"],
+ ["B6","离子方程式正误与“方程式解释事实”","sel",3,"拆分原则、守恒检查、量的关系（少量与过量）、反应能否发生。","北京卷高频设问：“下列方程式与所给事实不相符的是”，一题覆盖元素化合物、电化学、有机。","Ca(HCO₃)₂ 与 NaOH 少量/过量产物不同；Fe³⁺ 与 I⁻ 能反应。"],
+ ["B7","离子共存","sel",1,"因复分解、氧化还原、双水解、配位而不能共存。","北京卷较少单独命题，多融入实验或流程判断。","酸性条件下 NO₃⁻ 有强氧化性，不能与 Fe²⁺、I⁻ 共存。"]
+]},
+{k:"C",sym:"El",z:"03",n:"Elements",title:"元素及其化合物",
+ chain:"用<b>价-类二维图</b>串联：同一价态不同类别靠复分解与酸碱反应转化，不同价态靠<b>氧化还原</b>转化",
+ items:[
+ ["C1","钠及其化合物","both",2,"Na 与水、Na₂O₂ 与 H₂O/CO₂（电子转移）、Na₂CO₃ 与 NaHCO₃ 的鉴别与除杂、侯氏制碱法。","选择题考性质与用途对应；流程题偶以侯氏制碱为背景。","Na₂O₂ 中阴阳离子个数比为 1:2。"],
+ ["C2","氯及其化合物","both",3,"Cl₂ 实验室制法、氯水成分、HClO 的漂白性与不稳定性、NaClO（84 消毒液）、ClO₂；歧化与归中。","选择题方程式与事实；实验题探究 Cl₂ 或 ClO⁻ 的氧化性。","84 消毒液与洁厕灵（含 HCl）混用会产生 Cl₂。"],
+ ["C3","铁及其化合物","both",3,"Fe²⁺ 与 Fe³⁺ 的相互转化与检验（KSCN、K₃[Fe(CN)₆]）、Fe(OH)₂ 的制备、Fe³⁺ 水解。","实验探究题常客，常与 I⁻、SO₂、Cu 等组合探究氧化还原能否发生。","K₃[Fe(CN)₆] 检验 Fe²⁺ 生成蓝色沉淀；Fe³⁺ 与 KSCN 生成的是络合物，不是沉淀。"],
+ ["C4","硫及其化合物","both",3,"SO₂ 的酸性氧化物通性、还原性、氧化性、漂白性；浓硫酸的吸水性、脱水性、强氧化性；SO₃²⁻、S₂O₃²⁻、S²⁻ 的转化。","实验探究常以 SO₂ 与 Fe³⁺、Ag⁺、Cu²⁺ 反应为题材；选择题考性质与现象对应。","SO₂ 使酸性 KMnO₄ 褪色体现还原性，不是漂白性；S₂O₃²⁻ 遇酸生成 S 和 SO₂。"],
+ ["C5","氮及其化合物","both",3,"NH₃ 的制备与喷泉实验、铵盐检验、硝酸的强氧化性（与 Cu、Fe）、NOₓ 污染与治理（选择性催化还原）、氮循环。","原理大题常用氮循环、合成氨、脱硝作情境。","浓硝酸与 Cu 生成 NO₂，稀硝酸生成 NO；Fe 过量时生成 Fe²⁺。"],
+ ["C6","碳、硅与无机非金属材料","sel",1,"Si 与 SiO₂ 的性质与用途、硅酸盐材料、碳纳米管与石墨烯、SiC。","第 1 题科技成就类情境常见。","光导纤维是 SiO₂，芯片和太阳能电池板是 Si。"],
+ ["C7","陌生过渡金属（Cu、Mn、Cr、Ag、Co、Ni）","big",3,"Cu⁺ 歧化、MnO₄⁻ 在不同酸碱性下的还原产物、Cr₂O₇²⁻ 与 CrO₄²⁻ 的平衡、Ag⁺ 的沉淀与配位。","流程题与实验探究题的主角，靠“给信息 + 迁移”考查。","没学过的物质，先标化合价，再按氧化还原和平衡规律推。"],
+ ["C8","金属冶炼与金属材料","big",2,"热分解、热还原、电解法的选择；合金；Al 的两性（新教材弱化，但流程中仍会出现）。","流程题的最后一步常问冶炼方法。","Al 用电解熔融 Al₂O₃，不用 AlCl₃（共价化合物）。"]
+]},
+{k:"D",sym:"Rx",z:"04",n:"Reaction",title:"化学反应原理",
+ chain:"<b>能量</b>（热）→ <b>快慢</b>（速率）→ <b>限度</b>（平衡）→ 平衡在溶液中的应用（<b>水溶液</b>）→ 化学能与电能转化（<b>电化学</b>）",
+ items:[
+ ["D1","反应热与焓变","both",2,"放热与吸热判断；ΔH = 反应物键能总和 − 生成物键能总和；能量变化图。","选择题读能量图；大题用键能求 ΔH。","ΔH 与反应条件、是否使用催化剂无关。"],
+ ["D2","盖斯定律与热化学方程式","big",3,"目标方程式由已知方程式线性组合得到，ΔH 同步运算；热化学方程式要标状态。","原理大题第一问的常规题型。","方程式反写 ΔH 变号，系数乘倍数 ΔH 也乘。"],
+ ["D3","反应历程与催化机理","sel",3,"基元反应、活化能、决速步（活化能最大的一步）、中间体与催化剂的区分；循环机理图。","北京卷选择题常给催化循环图或能垒图，问断键成键、决速步、催化剂作用。","先消耗后生成的是催化剂，先生成后消耗的是中间体；催化剂不改变 ΔH 和平衡。"],
+ ["D4","化学反应速率","both",2,"速率计算；浓度、温度、压强、催化剂、接触面积的影响；控制变量设计。","实验探究题用控制变量比较速率。","恒容充入惰性气体，浓度不变，速率不变。"],
+ ["D5","平衡状态与平衡移动","both",3,"平衡标志（变量不变）；勒夏特列原理分析浓度、温度、压强的影响。","选择题判断说法正误；大题与实验题用来解释现象。","解释要写出具体平衡式，不能只说“平衡移动”。"],
+ ["D6","平衡常数与转化率计算","big",3,"三段式；K 的表达式与计算；用 Q 与 K 判断反应方向；K 只与温度有关；Kp 偶考。","原理大题的计算核心。","固体和纯液体不写入 K；K 值大小与反应速率无关。"],
+ ["D7","平衡图像与条件选择","both",3,"转化率、产率、选择性随温度、压强、投料比变化的图像；最佳条件的选择与理由。","大题“解释某温度后产率下降”“为何选择该压强”；选择题读多曲线图。","答题区分“未达平衡受速率控制”和“已达平衡受平衡移动控制”两段。"],
+ ["D8","弱电解质电离与 pH","both",2,"电离平衡及影响因素、Ka 与 Kw、pH 计算、强弱电解质比较。","选择题比较稀释或中和过程；大题用 Ka 判断反应方向。","稀释弱酸，c(H⁺) 减小但 n(H⁺) 增大。"],
+ ["D9","盐类水解与粒子浓度关系","sel",3,"越弱越水解、水解的促进与抑制；电荷守恒、物料守恒、质子守恒；盐溶液蒸干产物。","选择题判断粒子浓度大小或守恒关系，常结合图像。","NaHCO₃ 溶液显碱性（水解大于电离），NaHSO₃ 溶液显酸性（电离大于水解）。"],
+ ["D10","沉淀溶解平衡","both",3,"Ksp 计算、Q 与 Ksp 的比较、沉淀的生成、溶解与转化。","流程题用 Ksp 算除杂所需 pH 或残留浓度；选择题与实验探究判断沉淀转化。","Ksp 小的不一定溶解度小，要化学式类型相同才能直接比。"],
+ ["D11","酸碱中和滴定与滴定曲线","both",2,"曲线关键点（起点、半中和点、中性点、恰好反应点）；指示剂选择；误差分析。","选择题读滴定曲线；大题做定量计算。","恰好中和不等于溶液呈中性。"],
+ ["D12","原电池与化学电源","both",3,"正负极判断、电极反应式、电子与离子迁移方向；燃料电池；锂电池等新型电池。","选择题给新型电池装置判断说法；大题写电极反应式。","书写电极反应要看电解质：酸性、碱性、熔融碳酸盐、固体氧化物各不相同。"],
+ ["D13","电解池与离子交换膜","both",3,"阴阳极判断、放电顺序、电极反应式；电解精炼、电镀、氯碱工业；阳离子膜、阴离子膜、双极膜的作用；转移电子计算。","北京卷原理大题偏爱电解制备与膜分离装置，要求写电极反应并说明离子迁移。","离子迁移方向：阳离子移向阴极；膜两侧溶液浓度变化要结合迁移来分析。"],
+ ["D14","金属腐蚀与防护","sel",2,"析氢腐蚀与吸氧腐蚀；牺牲阳极法、外加电流法。","选择题考腐蚀原理；北京卷曾用 K₃[Fe(CN)₆] 检验 Fe²⁺ 探究牺牲阳极法是否有效。","K₃[Fe(CN)₆] 本身能氧化 Fe，直接加到铁电极附近会干扰判断。"]
+]},
+{k:"E",sym:"Or",z:"05",n:"Organic",title:"有机化学",
+ chain:"<b>结构</b>（碳骨架 + 官能团）→ <b>性质</b>（官能团的反应）→ <b>转化</b>（合成路线）→ <b>高分子</b>与生命物质",
+ items:[
+ ["E1","官能团识别与命名","both",3,"常见官能团名称与结构；系统命名法（烷、烯、醇、芳香族）。","有机大题第一问常问“A 中含氧官能团名称”或物质名称。","酯基、酰胺基、碳碳双键的名称要写全，“羰基”和“醛基”别混。"],
+ ["E2","分子结构特点","sel",3,"共线共面判断、手性碳、顺反异构、σ/π 键数、碳原子杂化方式。","选择题给一个新药或天然产物的结构，问多个结构性质。","饱和碳原子连的原子不可能全部共面；双键碳上两个基团相同时没有顺反异构。"],
+ ["E3","同分异构体","big",3,"按限定条件（芳香族、能发生银镜反应、与 FeCl₃ 显色、核磁共振氢谱峰数和面积比）书写；数目判断。","有机大题必有一问。","先由不饱和度和条件锁定官能团，再用对称性控制氢的种类。"],
+ ["E4","烃的性质","both",2,"烷烃取代、烯炔加成与氧化、苯及其同系物的取代与侧链氧化。","选择题判断性质；大题作为合成起点。","苯的同系物侧链被酸性 KMnO₄ 氧化，要求与苯环相连的碳上有氢。"],
+ ["E5","卤代烃、醇、酚","both",3,"卤代烃水解与消去条件；醇的消去与催化氧化规律；酚的弱酸性、与浓溴水取代、遇 FeCl₃ 显紫色。","大题根据反应条件推断官能团变化。","NaOH 水溶液是水解，NaOH 醇溶液是消去；与羟基相连碳上无氢的醇不能催化氧化。"],
+ ["E6","醛、酮、羧酸、酯、酰胺","both",3,"银镜反应与新制 Cu(OH)₂；酯化与水解；酰胺的水解；羧酸与碳酸、酚的酸性比较。","选择题计算消耗 NaOH 的量；大题写方程式与推结构。","酚酯水解消耗 2 mol NaOH；甲酸酯能发生银镜反应。"],
+ ["E7","反应类型与方程式书写","big",3,"取代、加成、消去、氧化、还原、加聚、缩聚的判断；有机方程式规范。","大题每年都有“反应类型”和“写方程式”的设问。","缩聚反应别漏小分子（H₂O）；有机方程式用箭头，注明条件。"],
+ ["E8","信息迁移（陌生反应）","big",3,"读懂题给反应的断键与成键位置，用分子式差值确定变化，迁移到新的底物上。","北京卷有机大题的核心能力，题目常给 1–3 个陌生反应信息。","先对比前后分子式，算出增减了什么原子，再对照信息找断键位置。"],
+ ["E9","合成路线推断与设计","big",3,"正推、逆推、两头夹击；碳链增长与缩短；官能团的引入、转化与保护。","大题推中间体结构，偶有设计短合成路线。","设计路线时注意保护易被氧化的官能团（如酚羟基、碳碳双键）。"],
+ ["E10","有机定量计算","sel",2,"1 mol 有机物消耗 NaOH、H₂、Br₂ 的物质的量。","选择题给复杂结构问消耗量。","苯环能与 H₂ 加成，酯基和羧基中的 C=O 一般不与 H₂ 加成。"],
+ ["E11","高分子化合物","sel",3,"加聚与缩聚单体判断、链节、聚合度；可降解高分子、交联结构、导电高分子。","北京卷选择题几乎年年有一道高分子题，常给陌生聚合物结构。","缩聚物找单体从酯基、酰胺基处断开补 –OH 和 –H。"],
+ ["E12","生物大分子","sel",2,"糖类、油脂、蛋白质、核酸；氨基酸成肽；DNA 碱基间的氢键配对。","选择题考组成与性质。","葡萄糖是单糖不水解；蛋白质遇重金属盐变性，遇浓 (NH₄)₂SO₄ 盐析。"],
+ ["E13","有机实验与波谱","sel",2,"乙酸乙酯制备、重结晶提纯苯甲酸、蒸馏、萃取；质谱、红外光谱、核磁共振氢谱的作用。","选择题考实验操作与波谱解读。","质谱测相对分子质量，红外测官能团和化学键，核磁共振氢谱测氢的种类与个数比。"]
+]},
+{k:"F",sym:"Ex",z:"06",n:"Experiment",title:"化学实验",
+ chain:"<b>安全与基本操作</b> → <b>制备</b> → <b>分离提纯</b> → <b>检验</b> → <b>定量</b> → <b>探究</b>，难度逐级上升",
+ items:[
+ ["F1","仪器与基本操作","sel",2,"常用仪器用途、试剂保存、实验安全。","选择题考操作规范。","容量瓶、滴定管使用前要检漏。"],
+ ["F2","装置图正误判断","sel",3,"判断装置能否达到实验目的：气体制备、除杂、收集、分离、验证性质。","北京卷选择题必有一道看图判断。","逐一检查试剂、装置、导管进出方向和是否需要加热。"],
+ ["F3","气体制备、净化与尾气处理","both",2,"Cl₂、NH₃、SO₂、O₂ 的实验室制法；除杂顺序；尾气吸收与防倒吸。","实验大题的装置分析部分。","除杂一般先除杂质气体再干燥；NH₃ 不能用浓硫酸或 CaCl₂ 干燥。"],
+ ["F4","物质的分离与提纯","both",3,"过滤、蒸发结晶与冷却结晶、萃取分液、蒸馏、重结晶；沉淀洗涤与检验洗净。","流程题“操作 X 是什么”“如何得到晶体”；选择题判断方法是否正确。","含结晶水或受热易分解的物质用“蒸发浓缩、冷却结晶”。"],
+ ["F5","物质与离子检验","both",3,"Fe²⁺、Fe³⁺、NH₄⁺、SO₄²⁻、Cl⁻、I₂ 等的检验；表述含“取样、操作、现象、结论”。","实验探究题用于证明产物；选择题判断检验方案。","检验 SO₄²⁻ 要先加盐酸排除 CO₃²⁻、SO₃²⁻、Ag⁺ 的干扰。"],
+ ["F6","定量实验与误差分析","big",3,"氧化还原滴定（KMnO₄ 法、碘量法用 Na₂S₂O₃）；纯度、含量的计算；误差分析。","流程题与实验题最后一问常考计算。","找准关系式，单位换算到 mL 和 L 要统一；滴定终点描述要写“半分钟内不变色”。"],
+ ["F7","“操作-现象-结论”表格判断","sel",3,"判断给出的实验现象能否推出相应结论，重点看有无干扰、变量是否唯一。","北京卷选择题常见设问。","产生白色沉淀不代表一定是某物质；褪色可能是氧化还原、也可能是漂白或稀释。"],
+ ["F8","实验探究","big",3,"提出假设 → 设计对比实验 → 控制单一变量 → 解释现象 → 排除干扰 → 得出结论 → 反思改进。常见主题：氧化还原能否发生及产物、沉淀与配位的竞争、浓度对氧化性或还原性的影响、反应速率异常。","北京卷压轴大题，选择题最后一题也常是探究型。","对照实验只能改一个变量；结论要回答题目最初的探究问题。"],
+ ["F9","用原理解释实验现象","big",3,"用平衡移动、沉淀溶解平衡、配位平衡、氧化还原能力随浓度和酸碱性变化来解释现象。","探究题中分值最高的“解释原因”类设问。","写出相关平衡或电极反应，再说明某离子浓度如何变化导致现象。"]
+]},
+{k:"G",sym:"Ap",z:"07",n:"Applied",title:"综合应用与情境",
+ chain:"把 <b>B 化学语言</b>、<b>C 元素化合物</b>、<b>D 反应原理</b>、<b>F 实验</b> 放进真实生产与科技情境",
+ items:[
+ ["G1","化学与 STSE、传统文化、科技成就","sel",3,"我国科技成就中的材料与能源、古籍中的化学、生活中的化学。","北京卷第 1 题固定题型，难度低但不能丢分。","判断要落到具体知识：是物理变化还是化学变化、是什么材料类别。"],
+ ["G2","化工流程","big",3,"原料预处理（粉碎、焙烧、浸出）、条件控制（温度、pH）、除杂方法、陌生方程式、Ksp 计算、分离操作、物料循环、产率与纯度。","北京卷流程大题的固定结构，每个环节都对应一类模板化设问。","先看流程的目的产物和杂质去向，再逐步标出每种元素的走向。"],
+ ["G3","绿色化学与环境","both",2,"原子经济性、绿色化学原则、CO₂ 资源化利用、碳中和、废水与废气处理。","选择题判断说法；原理大题以碳中和为背景。","原子利用率 100% 的典型是加成、加聚和化合反应。"],
+ ["G4","新能源与新型电化学装置","both",2,"锂离子电池、燃料电池、电解水制氢、液流电池、电化学合成。","选择题判断装置说法；原理大题写电极反应。","分析新装置时先找电子从哪里来、到哪里去，再定正负极或阴阳极。"]
+]}
+];
+
+const TYPE={sel:["选择","t-sel"],big:["大题","t-big"],both:["双考","t-both"]};
+const KEY="bj-chem-done-v1";
+let done={};
+try{done=JSON.parse(localStorage.getItem(KEY)||"{}")||{}}catch(e){done={}}
+const save=()=>{try{localStorage.setItem(KEY,JSON.stringify(done))}catch(e){}};
+const state={t:"all",hot:false,todo:false,q:""};
+
+function render(){
+  const root=document.getElementById("mods");root.innerHTML="";
+  let total=0,got=0;
+  MODS.forEach(m=>{
+    const mt=m.items.length,mg=m.items.filter(i=>done[i[0]]).length;total+=mt;got+=mg;
+    const vis=m.items.filter(i=>{
+      if(state.t!=="all"&&i[2]!==state.t)return false;
+      if(state.hot&&i[3]<3)return false;
+      if(state.todo&&done[i[0]])return false;
+      if(state.q){const s=(i[0]+i[1]+i[4]+i[5]+i[6]).toLowerCase();if(!s.includes(state.q))return false}
+      return true});
+    const sec=document.createElement("section");sec.className="mod";sec.id="mod-"+m.k;
+    sec.innerHTML=`<div class="mod-head"><div class="tile" aria-hidden="true"><span class="z">${m.z}</span><span class="s">${m.sym}</span><span class="n">${m.n}</span></div><div><h3>${m.k} · ${m.title}</h3><div class="chain">主线：${m.chain}</div><div class="mbar"><i style="width:${mg/mt*100}%"></i></div></div></div>`;
+    const list=document.createElement("div");list.className="list";
+    if(!vis.length){list.innerHTML='<div class="empty">当前筛选下这一板块没有考点。</div>'}
+    vis.forEach(i=>{
+      const [id,name,t,h,pt,how,trap]=i;
+      const el=document.createElement("div");el.className="kp"+(done[id]?" done":"");
+      const stars="★".repeat(h)+`<span class="off">${"★".repeat(3-h)}</span>`;
+      el.innerHTML=`<input type="checkbox" id="cb-${id}" ${done[id]?"checked":""} aria-label="已掌握 ${name}">
+        <div class="top"><span class="id">${id}</span><label class="name" for="cb-${id}">${name}</label><span class="tag ${TYPE[t][1]}">${TYPE[t][0]}</span><span class="heat" aria-label="热度${h}星">${stars}</span></div>
+        <div class="body"><p class="pt">${pt}</p><p class="how"><b>北京卷考法</b>　${how}</p>${trap?`<p class="trap"><b>易错</b>　${trap}</p>`:""}</div>`;
+      el.querySelector("input").addEventListener("change",e=>{if(e.target.checked)done[id]=1;else delete done[id];save();render()});
+      list.appendChild(el)});
+    sec.appendChild(list);root.appendChild(sec)});
+  document.getElementById("prog").textContent=`已掌握 ${got} / ${total}`;
+}
+document.querySelectorAll("#typeSeg .chip").forEach(b=>b.addEventListener("click",()=>{
+  state.t=b.dataset.t;document.querySelectorAll("#typeSeg .chip").forEach(x=>x.setAttribute("aria-pressed",x===b));render()}));
+["hot","todo"].forEach(k=>{const b=document.getElementById(k);b.addEventListener("click",()=>{state[k]=!state[k];b.setAttribute("aria-pressed",state[k]);render()})});
+document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value.trim().toLowerCase();render()});
+render();
+</script>

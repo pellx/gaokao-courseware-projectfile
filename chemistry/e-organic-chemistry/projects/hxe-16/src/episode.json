@@ -1,0 +1,112 @@
+{
+	"id": "HXE-16",
+	"title": "生物大分子",
+	"subject": "chemistry",
+	"book": "有机化学 · 第16期 / 共17期",
+	"points": [
+		"糖类的分类",
+		"葡萄糖与果糖",
+		"二糖与多糖",
+		"氨基酸",
+		"盐析与变性",
+		"显色反应与灼烧",
+		"核酸",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"生物大分子",
+				true
+			]
+		],
+		"subtitle": "糖类 · 氨基酸 · 蛋白质 · 核酸",
+		"photo": "fischer.jpg",
+		"photoCaption": "埃米尔·费歇尔：研究糖类和多肽的结构",
+		"photoPos": "center 35%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"生物大分子",
+					true
+				]
+			]
+		],
+		"photo": "fischer.jpg",
+		"photoPos": {
+			"16x9": "center 35%",
+			"4x3": "center 35%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "费歇尔",
+		"credit": "Reichard & Lindner, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "葡萄糖能发生水解反应",
+				"ok": false,
+				"fix": "葡萄糖是单糖，不能水解"
+			},
+			{
+				"q": "蔗糖是还原糖，能发生银镜反应",
+				"ok": false,
+				"fix": "蔗糖不是还原糖"
+			},
+			{
+				"q": "淀粉和纤维素互为同分异构体",
+				"ok": false,
+				"fix": "n 不同，不是同分异构体"
+			},
+			{
+				"q": "向蛋白质溶液中加入饱和 (NH4)2SO4 溶液发生盐析",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "蛋白质遇 CuSO4 溶液发生盐析，加水后能再溶解",
+				"ok": false,
+				"fix": "重金属盐使蛋白质变性，不可逆"
+			},
+			{
+				"q": "DNA 中碱基通过氢键配对",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"生物大分子",
+				true
+			]
+		],
+		"endLine": "单糖不水解，铵盐盐析，重金属变性",
+		"slogan": "单糖不水解，铵盐盐析，重金属变性"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Reichard & Lindner《Hermann Emil Fischer, c. 1897》，公有领域；插图来自 pixiv：そら、SunTail、たい焼き漁師‪🎣‬🐟（侵删）",
+	"anime": [
+		{
+			"key": "maid",
+			"src": "maid.jpg",
+			"credit": "插图：そら《もえもえきゅ～ん！》pixiv #4069139",
+			"url": "https://www.pixiv.net/artworks/4069139"
+		},
+		{
+			"key": "bearears",
+			"src": "bearears.jpg",
+			"credit": "插图：SunTail《Do It Ourselves!! 美咲》pixiv #77637438",
+			"url": "https://www.pixiv.net/artworks/77637438"
+		},
+		{
+			"key": "duo",
+			"src": "duo.jpg",
+			"credit": "插图：たい焼き漁師‪🎣‬🐟《猛特訓！！喉枯れた！！》pixiv #139733392",
+			"url": "https://www.pixiv.net/artworks/139733392"
+		}
+	]
+}

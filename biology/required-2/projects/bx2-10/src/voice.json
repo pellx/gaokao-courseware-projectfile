@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第三章第二节——DNA 的结构。",
+		"seconds": 6.864
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考模型构建的科学史、双螺旋结构的特点和碱基的相关计算。",
+		"seconds": 6.744
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"hi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，DNA 双螺旋结构模型的构建。威尔金斯和富兰克林获得了高质量的 DNA X 射线衍射图谱，沃森和克里克据此推算出 DNA 呈螺旋结构。",
+		"seconds": 14.904
+	},
+	"hi2": {
+		"key": "zh-CN-XiaoxiaoNeural|沃森和克里克尝试搭建了很多种不同的双螺旋和三螺旋结构模型，但都被否定了。",
+		"seconds": 7.728
+	},
+	"hi3": {
+		"key": "zh-CN-XiaoxiaoNeural|查哥夫发现：在 DNA 中，A 的量总是等于 T，G 的量总是等于 C。",
+		"seconds": 6.552
+	},
+	"hi4": {
+		"key": "zh-CN-XiaoxiaoNeural|1953 年，沃森和克里克让碱基在内侧、A 与 T 配对、G 与 C 配对，构建出了 DNA 双螺旋结构模型。",
+		"seconds": 10.608
+	},
+	"hi5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：模型是沃森和克里克构建的，富兰克林提供的是衍射图谱；他们构建的是物理模型。",
+		"seconds": 9.096
+	},
+	"un1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，DNA 的基本单位——脱氧核苷酸，由一分子磷酸、一分子脱氧核糖和一分子含氮碱基组成。",
+		"seconds": 9.48
+	},
+	"un2": {
+		"key": "zh-CN-XiaoxiaoNeural|碱基有4种：A、T、G、C，所以脱氧核苷酸也有4种。碱基连在脱氧核糖的1撇碳上，磷酸连在5撇碳上。",
+		"seconds": 11.688
+	},
+	"un3": {
+		"key": "zh-CN-XiaoxiaoNeural|相邻的脱氧核苷酸之间，前一个的脱氧核糖和后一个的磷酸相连，形成长链。",
+		"seconds": 7.416
+	},
+	"un4": {
+		"key": "zh-CN-XiaoxiaoNeural|每条链有游离磷酸基团的一端叫5撇端，另一端叫3撇端。",
+		"seconds": 5.808
+	},
+	"un5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：链中大多数脱氧核糖连着两个磷酸，但3撇端的那个脱氧核糖只连一个。",
+		"seconds": 7.992
+	},
+	"he1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，DNA 双螺旋结构的主要特点。第一，DNA 由两条链组成，两条链按反向平行方式盘旋成双螺旋。",
+		"seconds": 11.4
+	},
+	"he2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，脱氧核糖和磷酸交替连接，排列在外侧，构成基本骨架。",
+		"seconds": 6.528
+	},
+	"he3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，碱基排列在内侧，两条链上的碱基通过氢键连接成碱基对。",
+		"seconds": 6.792
+	},
+	"he4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：看图识结构。易错：基本骨架在外侧，由脱氧核糖和磷酸构成，不含碱基；同一条链上相邻碱基之间不是氢键，而是“脱氧核糖—磷酸—脱氧核糖”。",
+		"seconds": 15.24
+	},
+	"pa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，碱基互补配对原则：A 与 T 配对，G 与 C 配对。",
+		"seconds": 6
+	},
+	"pa2": {
+		"key": "zh-CN-XiaoxiaoNeural|A 和 T 之间有两个氢键，G 和 C 之间有三个氢键。",
+		"seconds": 5.28
+	},
+	"pa3": {
+		"key": "zh-CN-XiaoxiaoNeural|配对的总是一个嘌呤和一个嘧啶，所以每个碱基对的宽度一样，DNA 的直径保持恒定。",
+		"seconds": 8.304
+	},
+	"pa4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：G 与 C 含量越高，氢键越多，DNA 结构越稳定，越耐高温。",
+		"seconds": 7.056
+	},
+	"c11": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，碱基计算一。双链DNA中，A等于T，G等于C，所以嘌呤数等于嘧啶数，各占百分之五十。",
+		"seconds": 10.872
+	},
+	"c12": {
+		"key": "zh-CN-XiaoxiaoNeural|整个DNA中，A加G比上T加C，等于1。",
+		"seconds": 4.704
+	},
+	"c13": {
+		"key": "zh-CN-XiaoxiaoNeural|如果一条链中，A加G比上T加C等于a，那么互补链中这个比值是a分之一，两条链互为倒数。",
+		"seconds": 9.216
+	},
+	"c14": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：画出两条链，标上一链、二链，利用一链的A等于二链的T、一链的G等于二链的C，逐项代换。",
+		"seconds": 10.92
+	},
+	"c21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，碱基计算二。A加T比上G加C，在一条链、互补链和整个DNA中都相等。",
+		"seconds": 9
+	},
+	"c22": {
+		"key": "zh-CN-XiaoxiaoNeural|同理，A加T占整个DNA碱基的比例，等于它占每一条单链的比例。例：DNA中A加T占百分之四十，每条链中A加T也占百分之四十。",
+		"seconds": 14.016
+	},
+	"c23": {
+		"key": "zh-CN-XiaoxiaoNeural|例：一链中A占该链的百分之二十，二链中A占该链的百分之三十，整个DNA中A占百分之二十加百分之三十再除以二，等于百分之二十五。",
+		"seconds": 13.776
+	},
+	"c24": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：分清百分比是占单链还是占双链；占单链的比例换算成双链，要除以 2。",
+		"seconds": 8.208
+	},
+	"dv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，DNA的多样性和特异性。多样性：碱基对的排列顺序千变万化，n个碱基对有四的n次方种排列方式。",
+		"seconds": 11.52
+	},
+	"dv2": {
+		"key": "zh-CN-XiaoxiaoNeural|特异性：每个 DNA 分子都有特定的碱基排列顺序。",
+		"seconds": 5.184
+	},
+	"dv3": {
+		"key": "zh-CN-XiaoxiaoNeural|稳定性：外侧的基本骨架稳定，碱基之间有氢键，双螺旋结构相对稳定。",
+		"seconds": 7.44
+	},
+	"dv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：四的n次方中的n是碱基对数，不是碱基数；遗传信息蕴藏在碱基的排列顺序中。",
+		"seconds": 8.856
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，模型是沃森和克里克构建的。判断二？对。",
+		"seconds": 7.152
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，3撇端的脱氧核糖只连一个磷酸。判断四？对。",
+		"seconds": 7.752
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，互补链中是 2，互为倒数。判断六？对。",
+		"seconds": 7.176
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：A 配 T、G 配 C，计算先画两条链。我们下期再见！",
+		"seconds": 7.968
+	}
+}

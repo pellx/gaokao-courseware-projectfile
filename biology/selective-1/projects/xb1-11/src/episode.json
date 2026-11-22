@@ -1,0 +1,38 @@
+{
+	"id": "XB1-11",
+	"title": "分级调节与反馈调节",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第3章",
+	"points": ["甲状腺调节轴", "分级调节及其意义", "负反馈调节", "缺碘导致甲状腺肿", "其他调节轴", "切除、注射后的变化", "激素调节的特点", "判断病变部位"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["分级调节与"], ["反馈调节", true]],
+		"subtitle": "激素调节的过程（下）",
+		"photo": "goitre-photo.jpg",
+		"photoCaption": "甲状腺肿患者（20世纪初的临床照片）",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["分级调节与"]], [["反馈调节", true]]],
+		"kicker": "激素调节的过程（下）",
+		"photo": "goitre-photo.jpg",
+		"photoPos": "center 62%",
+		"photoTag": "缺碘与甲状腺肿",
+		"credit": "Photo: Wellcome Collection, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "TRH直接作用于甲状腺", "ok": false, "fix": "TRH作用于垂体"},
+			{"q": "分级调节可以放大激素的调节效应", "ok": true, "fix": ""},
+			{"q": "甲状腺激素只反馈抑制垂体", "ok": false, "fix": "同时抑制下丘脑和垂体"},
+			{"q": "缺碘时TSH分泌增加，导致甲状腺肿大", "ok": true, "fix": ""},
+			{"q": "切除垂体后，TRH含量减少", "ok": false, "fix": "失去反馈抑制，TRH增加"},
+			{"q": "激素一经靶细胞接受并起作用后就失活", "ok": true, "fix": ""}
+		],
+		"endTitle": [["分级调节与"], ["反馈调节", true]],
+		"endLine": "甲状腺轴 · 分级调节 · 负反馈 · 甲状腺肿 · 病变判断",
+		"slogan": "顺着分级推下去，逆着反馈推上来！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Wellcome Collection《Woman with goitre》（St Bartholomew's Hospital）CC BY 4.0"
+}

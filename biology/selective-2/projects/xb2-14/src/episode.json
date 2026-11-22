@@ -1,0 +1,38 @@
+{
+	"id": "XB2-14",
+	"title": "生物多样性及其保护",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第4章",
+	"points": ["三个层次", "三种价值", "价值类型的判断", "多样性丧失的原因", "保护措施", "协调人与环境"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["生物多样性"], ["及其保护", true]],
+		"subtitle": "三个层次 · 三种价值 · 就地保护",
+		"photo": "panda.jpg",
+		"photoCaption": "大熊猫：我国特有的珍稀物种",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生物多样性"]], [["及其保护", true]]],
+		"kicker": "层次 · 价值 · 保护",
+		"photo": "panda.jpg",
+		"photoPos": "center 40%",
+		"photoTag": "大熊猫",
+		"credit": "Photo: Kevin Dooley, CC BY 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "生物多样性包括遗传、物种、生态系统多样性", "ok": true, "fix": ""},
+			{"q": "湿地蓄洪防旱体现了直接价值", "ok": false, "fix": "体现了间接价值"},
+			{"q": "生物多样性的间接价值明显大于直接价值", "ok": true, "fix": ""},
+			{"q": "外来物种入侵是生物多样性丧失的最主要原因", "ok": false, "fix": "最主要是栖息地丧失和碎片化"},
+			{"q": "建立自然保护区是最有效的保护措施", "ok": true, "fix": ""},
+			{"q": "保护生物多样性就是禁止开发利用", "ok": false, "fix": "合理利用就是最好的保护"}
+		],
+		"endTitle": [["生物多样性"], ["及其保护", true]],
+		"endLine": "三个层次 · 三种价值 · 丧失原因 · 就地保护 · 易地保护",
+		"slogan": "间接价值大于直接，就地保护最有效！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Kevin Dooley《Giant panda eating bamboo》CC BY 2.0"
+}

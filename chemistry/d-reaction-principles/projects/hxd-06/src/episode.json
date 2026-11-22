@@ -1,0 +1,123 @@
+{
+	"id": "HXD-06",
+	"title": "平衡常数与三段式计算",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第6期 / 共20期",
+	"points": [
+		"K 的表达式",
+		"K 与方程式",
+		"K 只与温度有关",
+		"Q 与 K 判断方向",
+		"三段式",
+		"平衡转化率",
+		"压强平衡常数",
+		"等效平衡"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"平衡常数",
+				true
+			],
+			[
+				"与三段式计算"
+			]
+		],
+		"subtitle": "K 的表达式 · Q 与 K · 三段式 · 转化率",
+		"photo": "guldberg-waage.jpg",
+		"photoCaption": "古德贝格与瓦格：提出质量作用定律",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"平衡常数",
+					true
+				]
+			],
+			[
+				[
+					"与三段式计算"
+				]
+			]
+		],
+		"photo": "guldberg-waage.jpg",
+		"photoPos": {
+			"16x9": "center 40%",
+			"4x3": "center 40%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "质量作用定律",
+		"credit": "H. Riffarth, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "C(s) + H2O(g) ⇌ CO(g) + H2(g) 的 K 中要写入 c(C)",
+				"ok": false,
+				"fix": "固体不写入 K"
+			},
+			{
+				"q": "方程式系数都乘 2，K 也乘 2",
+				"ok": false,
+				"fix": "K 变为原来的平方"
+			},
+			{
+				"q": "增大压强，平衡正向移动，K 增大",
+				"ok": false,
+				"fix": "K 只与温度有关"
+			},
+			{
+				"q": "Q < K 时，反应正向进行",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "增大 N2 浓度，H2 的转化率增大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "K 越大，反应速率越快",
+				"ok": false,
+				"fix": "K 表示反应程度，与速率无关"
+			}
+		],
+		"endTitle": [
+			[
+				"平衡常数",
+				true
+			],
+			[
+				"与三段式计算"
+			]
+		],
+		"endLine": "K 只认温度，Q 比 K 定方向",
+		"slogan": "K 只认温度，Q 比 K 定方向"
+	},
+	"credits": "图片来源：Wikimedia Commons —— H. Riffarth 照相凹版《Guldberg und Waage》，公有领域；插图来自 pixiv：だんちょねこ、五代かおる、倉林（侵删）",
+	"anime": [
+		{
+			"key": "stage",
+			"src": "stage.jpg",
+			"credit": "插图：だんちょねこ《どんとこいです！！》pixiv #12061957",
+			"url": "https://www.pixiv.net/artworks/12061957"
+		},
+		{
+			"key": "dino",
+			"src": "dino.jpg",
+			"credit": "插图：五代かおる《承認・お節・休み欲求モンスターズ》pixiv #130134910",
+			"url": "https://www.pixiv.net/artworks/130134910"
+		},
+		{
+			"key": "three",
+			"src": "three.jpg",
+			"credit": "插图：倉林《ユイーズ》pixiv #12804524",
+			"url": "https://www.pixiv.net/artworks/12804524"
+		}
+	]
+}

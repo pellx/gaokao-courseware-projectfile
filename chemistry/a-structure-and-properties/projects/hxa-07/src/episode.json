@@ -1,0 +1,124 @@
+{
+	"id": "HXA-07",
+	"title": "原子半径、电离能与电负性",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第7期 / 共21期",
+	"points": [
+		"原子半径",
+		"第一电离能的定义",
+		"第一电离能的递变",
+		"第一电离能的反常",
+		"逐级电离能",
+		"电负性",
+		"电负性的应用",
+		"答题模板",
+		"易错辨析"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"半径、电离能"
+			],
+			[
+				"与电负性",
+				true
+			]
+		],
+		"subtitle": "半径 · 第一电离能 · 逐级电离能 · 电负性",
+		"photo": "pauling.jpg",
+		"photoCaption": "鲍林：提出电负性标度",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"电离能"
+				]
+			],
+			[
+				[
+					"电负性",
+					true
+				]
+			]
+		],
+		"photo": "pauling.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "鲍林",
+		"credit": "Nobel Foundation, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "第一电离能：Mg > Al，N > O",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "同周期从左到右第一电离能逐渐增大",
+				"ok": false,
+				"fix": "总体增大，ⅡA、ⅤA 反常"
+			},
+			{
+				"q": "某元素 I2 ≫ I1，则其最外层有 1 个电子",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电负性越大，元素的非金属性越强",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "因为第一电离能 N > O，所以电负性 N > O",
+				"ok": false,
+				"fix": "电负性 O > N"
+			},
+			{
+				"q": "两元素电负性差值大于 1.7，一定形成离子键",
+				"ok": false,
+				"fix": "一般如此，HF 是例外"
+			}
+		],
+		"endTitle": [
+			[
+				"半径、电离能"
+			],
+			[
+				"与电负性",
+				true
+			]
+		],
+		"endLine": "半径 · 第一电离能 · 反常 · 逐级电离能 · 电负性",
+		"slogan": "ⅡA ⅤA 反常，写理由四步走！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nobel Foundation《Linus Pauling 1962》Public domain；插图来自 pixiv：なゆこ、Rebecca、西瓜（侵删）",
+	"anime": [
+		{
+			"key": "height",
+			"src": "height.jpg",
+			"credit": "插图：なゆこ《あのたき　身長差》pixiv #113769022",
+			"url": "https://www.pixiv.net/artworks/113769022"
+		},
+		{
+			"key": "hug",
+			"src": "hug.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ⑳》pixiv #110615100",
+			"url": "https://www.pixiv.net/artworks/110615100"
+		},
+		{
+			"key": "pull",
+			"src": "pull.jpg",
+			"credit": "插图：西瓜《no title》pixiv #87094086",
+			"url": "https://www.pixiv.net/artworks/87094086"
+		}
+	]
+}

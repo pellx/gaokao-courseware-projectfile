@@ -1,0 +1,123 @@
+{
+	"id": "HXA-11",
+	"title": "分子的空间结构（下）：杂化轨道与键角比较",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第11期 / 共21期",
+	"points": [
+		"杂化轨道理论",
+		"sp、sp²、sp³ 杂化",
+		"判断杂化方式",
+		"有机物中的杂化",
+		"大 π 键",
+		"键角比较（一）",
+		"键角比较（二）",
+		"答题模板"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"杂化轨道"
+			],
+			[
+				"与键角比较",
+				true
+			]
+		],
+		"subtitle": "sp · sp² · sp³ · 大 π 键 · 键角大小",
+		"photo": "vanthoff.jpg",
+		"photoCaption": "范托夫：提出碳原子的四面体结构",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"杂化轨道"
+				]
+			],
+			[
+				[
+					"键角比较",
+					true
+				]
+			]
+		],
+		"photo": "vanthoff.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "范托夫",
+		"credit": "Nicola Perscheid, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "NH3 中 N 原子为 sp^3 杂化",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "杂化轨道可以用于形成 π 键",
+				"ok": false,
+				"fix": "只形成 σ 键、容纳孤电子对"
+			},
+			{
+				"q": "乙烯分子中的碳原子为 sp^2 杂化",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "键角：H2O > NH3 > CH4",
+				"ok": false,
+				"fix": "CH4 > NH3 > H2O"
+			},
+			{
+				"q": "键角：NH3 > PH3",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "键角：NF3 > NH3",
+				"ok": false,
+				"fix": "NH3 > NF3"
+			}
+		],
+		"endTitle": [
+			[
+				"杂化轨道"
+			],
+			[
+				"与键角比较",
+				true
+			]
+		],
+		"endLine": "杂化理论 · 三种杂化 · 判断方法 · 有机物 · 大 π 键 · 键角",
+		"slogan": "先比杂化，再比孤对，最后比电负性！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nicola Perscheid《Jacobus van 't Hoff by Perscheid 1904》Public domain；插图来自 pixiv：ぽじ@Skeb募集中、描愛ゆう、もっちキング（侵删）",
+	"anime": [
+		{
+			"key": "wok",
+			"src": "wok.jpg",
+			"credit": "插图：ぽじ@Skeb募集中《ぼっちちゃんのチャーハンクッキング》pixiv #123079690",
+			"url": "https://www.pixiv.net/artworks/123079690"
+		},
+		{
+			"key": "squeeze",
+			"src": "squeeze.jpg",
+			"credit": "插图：描愛ゆう《こたつで 〜結束ねこニャンド〜》pixiv #103760806",
+			"url": "https://www.pixiv.net/artworks/103760806"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：もっちキング《唯ちゃん誕生日！！》pixiv #124691502",
+			"url": "https://www.pixiv.net/artworks/124691502"
+		}
+	]
+}

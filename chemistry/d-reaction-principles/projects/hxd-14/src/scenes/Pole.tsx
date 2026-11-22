@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Pole: React.FC = () => <AutoScene k="pole" d={{"tag": "考点二", "title": "正负极判断", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "负极", "at": "po1", "text": "失电子，{氧化反应}", "c": "red", "size": 33}]}, {"blocks": [{"t": "rule", "tag": "正极", "at": "po1", "text": "得电子，{还原反应|orange}", "c": "orange", "size": 33}]}]}, {"t": "text", "at": "po2", "text": "Zn-Cu-稀硫酸：负极 Zn − 2e^- = Zn^2+；正极 2H^+ + 2e^- = H2↑", "size": 31, "center": true}, {"t": "panel", "title": "特例", "at": "po3", "lines": ["Mg-Al-NaOH 溶液：{Al} 是负极", "Fe-Cu-浓硝酸：Fe 钝化，{Cu} 是负极"], "c": "red", "size": 32}], "callout": {"label": "解题方法", "at": "po4", "text": "看{谁失电子}：化合价升高的一极是负极"}, "beat": {"k": "sweat", "at": "po3b", "text": "不只看活泼性\n看{谁真正反应|red}"}}} />;

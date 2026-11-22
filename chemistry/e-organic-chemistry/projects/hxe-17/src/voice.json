@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|合成高分子。",
+		"seconds": 1.92
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷选择题几乎年年有一道：给一个陌生聚合物，判断单体、反应类型和性质，共八个考点。",
+		"seconds": 9.12
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，加聚反应：单体含碳碳双键等不饱和键，打开派键首尾相连，没有小分子生成。",
+		"seconds": 8.76
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|缩聚反应：单体含两个或以上官能团，相互反应生成高分子，同时有小分子，比如水生成。",
+		"seconds": 8.976
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|看主链：主链上只有碳原子的，一般是加聚产物；主链上有酯基、酰胺基等，一般是缩聚产物。",
+		"seconds": 9.288
+	},
+	"ty3b": {
+		"key": "zh-CN-XiaoxiaoNeural|五个小人排成一排：加聚就是大家手拉手连成一条长链，中间谁也没掉东西。",
+		"seconds": 7.392
+	},
+	"ty4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断聚合类型，先看主链上有没有杂原子（O、N）。",
+		"seconds": 6.36
+	},
+	"am1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，加聚物找单体：弯箭头法。在链节的主链上，从一端开始，每两个碳一组，单键变双键，双键断开。",
+		"seconds": 10.968
+	},
+	"am2": {
+		"key": "zh-CN-XiaoxiaoNeural|主链只有2个碳：单体就是一种烯烃，比如聚氯乙烯的单体是氯乙烯。",
+		"seconds": 6.576
+	},
+	"am3": {
+		"key": "zh-CN-XiaoxiaoNeural|主链有4个碳且中间有双键：单体是1,3-丁二烯类，比如顺丁橡胶的单体是1,3-丁二烯。",
+		"seconds": 9.384
+	},
+	"am4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：主链有 4 个碳但没有双键，要从中间断开，是两种单烯烃共聚。",
+		"seconds": 7.008
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，缩聚物找单体：在酯基或酰胺基处断开。",
+		"seconds": 5.328
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|酯基断开：碳氧双键一侧补羟基成羧酸，氧一侧补氢成醇。比如涤纶的单体是对苯二甲酸和乙二醇。",
+		"seconds": 10.584
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|酰胺基断开：碳氧双键一侧补羟基，氮一侧补氢。比如尼龙66的单体是己二酸和己二胺。",
+		"seconds": 9.432
+	},
+	"cm3b": {
+		"key": "zh-CN-XiaoxiaoNeural|纸箱里的猫耳黑发女孩：在酯基处剪开，两边各补一个小零件，单体就回来了。",
+		"seconds": 7.2
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：口诀“羰基补羟基，氧氮补氢”。",
+		"seconds": 4.392
+	},
+	"un1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，链节：高分子中重复出现的结构单元；聚合度 n：链节重复的次数。",
+		"seconds": 7.92
+	},
+	"un2": {
+		"key": "zh-CN-XiaoxiaoNeural|高分子是混合物：每个分子的 n 不完全相同，所以没有固定的熔点，相对分子质量是平均值。",
+		"seconds": 8.904
+	},
+	"un3": {
+		"key": "zh-CN-XiaoxiaoNeural|缩聚物的结构简式要写端基：两端分别是氢和羟基（或其他），中括号外写n。",
+		"seconds": 7.608
+	},
+	"un4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：聚乙烯是混合物，不是纯净物；聚乙烯和乙烯的最简式相同，等质量完全燃烧耗氧相同。",
+		"seconds": 9.264
+	},
+	"ma1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，三大合成材料：塑料、合成纤维、合成橡胶。",
+		"seconds": 6
+	},
+	"ma2": {
+		"key": "zh-CN-XiaoxiaoNeural|塑料：聚乙烯、聚氯乙烯、聚苯乙烯、酚醛树脂。合成纤维：涤纶、锦纶（尼龙）、腈纶。合成橡胶：顺丁橡胶、丁苯橡胶。",
+		"seconds": 13.536
+	},
+	"ma3": {
+		"key": "zh-CN-XiaoxiaoNeural|天然高分子：淀粉、纤维素、蛋白质、天然橡胶。棉花、羊毛、蚕丝是天然纤维；人造丝，也就是黏胶纤维，是用纤维素加工的。",
+		"seconds": 13.68
+	},
+	"ma4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：橡胶硫化后形成网状结构，弹性和强度提高；聚氯乙烯不能用于包装食品。",
+		"seconds": 8.472
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，线型结构：长链，可以带支链；加热能软化熔融，冷却后又变硬，有热塑性，能溶于适当溶剂。",
+		"seconds": 10.368
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|网状（体型）结构：链与链之间交联；加热不软化、不熔融，有热固性，不溶于溶剂。",
+		"seconds": 8.424
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：聚乙烯是线型，热塑性；酚醛树脂（电木）、硫化橡胶是网状，热固性。",
+		"seconds": 7.752
+	},
+	"st3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女仆端着托盘笑：线型的像一根根面条，加热就软；网状的像一张织好的网，加热也不变形。",
+		"seconds": 9.312
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：北京卷常给“交联剂”的信息，问加入后性能怎么变：交联后强度、耐热性提高，溶解性降低。",
+		"seconds": 9.864
+	},
+	"fu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，功能高分子。高吸水性树脂：含大量亲水基团，交联成网状，能吸收自身质量几百倍的水。",
+		"seconds": 10.44
+	},
+	"fu2": {
+		"key": "zh-CN-XiaoxiaoNeural|可降解高分子：聚乳酸等，含酯基，能水解，减少白色污染。",
+		"seconds": 6.432
+	},
+	"fu3": {
+		"key": "zh-CN-XiaoxiaoNeural|导电高分子：聚乙炔，主链有单双键交替的共轭结构，掺杂后能导电。",
+		"seconds": 7.032
+	},
+	"fu4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断性质看官能团：含酯基能水解、可降解；含羧酸钠基团、羟基多就亲水。",
+		"seconds": 9.312
+	},
+	"uk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，陌生聚合物结构的分析方法。第一步，找出链节，看主链上有没有 O、N，判断加聚还是缩聚。",
+		"seconds": 10.32
+	},
+	"uk2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，找单体：加聚用弯箭头法；缩聚在酯基、酰胺基处断开补羟基和氢。",
+		"seconds": 8.04
+	},
+	"uk3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，看官能团推性质：能否水解、能否降解、是否亲水、有没有手性碳或顺反异构。",
+		"seconds": 9.144
+	},
+	"uk4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：选项里说“单体有 n 种”，要把单体一个一个写出来再数，别凭印象。",
+		"seconds": 7.224
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：加聚有小分子生成？错，缩聚才有。判断二：聚氯乙烯的单体是氯乙烯？对。",
+		"seconds": 10.032
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：涤纶的单体是对苯二甲酸和乙二醇？对。判断四：聚乙烯有固定熔点？错，是混合物。",
+		"seconds": 11.064
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：酚醛树脂是热塑性？错，是热固性。判断六：聚乳酸可以降解？对。",
+		"seconds": 9.312
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|主链全碳是加聚，酯基酰胺处断开。模块E到这里就讲完了。",
+		"seconds": 6.12
+	}
+}

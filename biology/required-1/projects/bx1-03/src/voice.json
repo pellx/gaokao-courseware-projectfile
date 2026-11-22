@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第二章第一节——细胞中的元素和化合物。",
+		"seconds": 7.8
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考元素的种类和含量，以及还原糖、脂肪和蛋白质的检测实验。",
+		"seconds": 7.08
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"un1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，生物界与非生物界的统一性和差异性。组成细胞的化学元素，在无机自然界中都能找到。",
+		"seconds": 9.744
+	},
+	"un2": {
+		"key": "zh-CN-XiaoxiaoNeural|没有一种元素是细胞所特有的，这体现了生物界与非生物界的统一性。",
+		"seconds": 6.456
+	},
+	"un3": {
+		"key": "zh-CN-XiaoxiaoNeural|但细胞中各种元素的相对含量与无机自然界大不相同，这体现了差异性。",
+		"seconds": 7.032
+	},
+	"un4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看元素种类说统一性，看元素含量说差异性。",
+		"seconds": 5.784
+	},
+	"ma1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，大量元素和微量元素。大量元素有碳、氢、氧、氮、磷、硫、钾、钙、镁。",
+		"seconds": 9.504
+	},
+	"ma2": {
+		"key": "zh-CN-XiaoxiaoNeural|微量元素有铁、锰、锌、铜、硼、钼，含量很少，但同样必不可少。",
+		"seconds": 7.248
+	},
+	"ma3": {
+		"key": "zh-CN-XiaoxiaoNeural|微量元素可以用口诀记：“铁猛碰新木桶”——铁、锰、硼、锌、钼、铜。",
+		"seconds": 7.224
+	},
+	"ma4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：大量、微量是按含量分的，不是按作用大小；镁、钙是大量元素，常被混进微量元素里。",
+		"seconds": 9.816
+	},
+	"cb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，碳是核心元素。生物大分子以碳链为基本骨架，所以说碳是生命的核心元素。",
+		"seconds": 9.024
+	},
+	"cb2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞鲜重中，含量最多的元素是氧，因为细胞里水最多。",
+		"seconds": 5.568
+	},
+	"cb3": {
+		"key": "zh-CN-XiaoxiaoNeural|人体细胞干重中，含量最多的元素是碳；不过课本表里玉米细胞干重中氧略多于碳。",
+		"seconds": 8.208
+	},
+	"cb4": {
+		"key": "zh-CN-XiaoxiaoNeural|鲜重中从多到少是氧、碳、氢、氮；人体细胞干重中是碳、氧、氮、氢。",
+		"seconds": 8.136
+	},
+	"cb5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给柱形图判断是鲜重还是干重。解题方法：氧远多于碳是鲜重；碳排第一，一般是干重。",
+		"seconds": 10.128
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，细胞中的化合物。分为无机化合物——水和无机盐，和有机化合物——糖类、脂质、蛋白质和核酸。",
+		"seconds": 10.896
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞中含量最多的化合物是水。",
+		"seconds": 3.504
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|含量最多的有机化合物是蛋白质；占细胞干重最多的化合物，也是蛋白质。",
+		"seconds": 7.392
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：问“化合物”答水，问“有机物”答蛋白质；问“元素”，还要先分清鲜重还是干重。",
+		"seconds": 8.328
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，检测还原糖。葡萄糖、果糖、麦芽糖等还原糖，与斐林试剂发生作用，生成砖红色沉淀。",
+		"seconds": 10.176
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|斐林试剂由甲液氢氧化钠溶液和乙液硫酸铜溶液等量混匀而成，要现配现用。",
+		"seconds": 7.608
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|加入后要50到65摄氏度水浴加热约2分钟，才会出现砖红色沉淀。",
+		"seconds": 6.984
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|材料要选含还原糖多、颜色浅的，如苹果、梨；甘蔗、甜菜主要含蔗糖，西瓜汁颜色太深，都不合适。",
+		"seconds": 10.8
+	},
+	"su5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：蔗糖和淀粉不是还原糖；不水浴加热就看不到砖红色沉淀。",
+		"seconds": 6.864
+	},
+	"ft1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，检测脂肪。脂肪被苏丹三染液染成橘黄色。",
+		"seconds": 6.048
+	},
+	"ft2": {
+		"key": "zh-CN-XiaoxiaoNeural|材料用花生种子的子叶，切成薄片，染色后制成临时装片。",
+		"seconds": 6.192
+	},
+	"ft3": {
+		"key": "zh-CN-XiaoxiaoNeural|染色后用体积分数为百分之五十的酒精洗去浮色。",
+		"seconds": 5.04
+	},
+	"ft4": {
+		"key": "zh-CN-XiaoxiaoNeural|在显微镜下，可以看到被染成橘黄色的脂肪颗粒。",
+		"seconds": 5.064
+	},
+	"ft5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这里酒精的作用是洗去浮色；观察切片中的脂肪颗粒才要用显微镜，检测组织样液不用。",
+		"seconds": 9.432
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，检测蛋白质。蛋白质与双缩脲试剂发生作用，产生紫色反应。",
+		"seconds": 7.632
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|使用时先加A液氢氧化钠溶液1毫升，摇匀；再加B液硫酸铜溶液4滴，摇匀。",
+		"seconds": 8.304
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|双缩脲试剂不需要加热，和斐林试剂的“等量混匀、水浴加热”正好不同。",
+		"seconds": 6.984
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|两者硫酸铜溶液的浓度也不同：斐林试剂乙液是0.05克每毫升，双缩脲试剂B液是0.01克每毫升。",
+		"seconds": 10.08
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：斐林试剂“混合、加热”，双缩脲试剂“分开加、不加热”。",
+		"seconds": 6.744
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，没有一种元素是细胞特有的。判断二？错，镁是大量元素。",
+		"seconds": 8.736
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，鲜重中氧最多。判断四？对。",
+		"seconds": 6.192
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，蔗糖不是还原糖。判断六？错，要先加A液，再加B液。",
+		"seconds": 8.664
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：元素看种类和含量，检测记准试剂、条件和颜色。我们下期再见！",
+		"seconds": 9.096
+	}
+}

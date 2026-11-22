@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Oxide: React.FC = () => <AutoScene k="oxide" d={{"tag": "考点三", "title": "铁的三种氧化物", "blocks": [{"t": "table", "at": "ox1", "head": ["比较项目", "FeO", "Fe2O3", "Fe3O4"], "cols": "1fr 1fr 1.2fr 1.4fr", "rows": [{"at": "ox1", "cells": ["颜色", "黑色", "{红棕色|orange}", "黑色（有磁性）"]}, {"at": "ox1", "cells": ["俗称", "—", "铁红", "磁性氧化铁"]}, {"at": "ox2", "cells": ["铁的价态", "+2", "+3", "{+2、+3}"]}, {"at": "ox3", "cells": ["与盐酸", "Fe^2+", "Fe^3+", "{Fe^2+ 和 Fe^3+}"]}], "size": 31, "rowHeight": 66}, {"t": "big", "at": "ox3", "text": "Fe3O4 + 8H^+ = Fe^2+ + 2Fe^3+ + 4H2O", "size": 38}], "callout": {"label": "易错", "at": "ox4", "text": "Fe3O4 是{纯净物}；Fe2O3 是{红棕色|orange}"}, "beat": {"k": "back", "at": "ox3b", "text": "+2 和 +3\n{同住在 Fe3O4 里|red}"}}} />;

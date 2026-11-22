@@ -1,0 +1,38 @@
+{
+	"id": "XB2-07",
+	"title": "生态系统的结构",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第3章",
+	"points": ["生态系统的概念", "四种组成成分", "成分判断的易错", "成分之间的关系", "食物链", "食物网", "数量变化分析"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["生态系统的"], ["结构", true]],
+		"subtitle": "组成成分 · 食物链 · 食物网",
+		"photo": "fungi.jpg",
+		"photoCaption": "倒木上的真菌：分解者",
+		"photoPos": "35% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生态系统的"]], [["结构", true]]],
+		"kicker": "组成成分 · 食物链 · 食物网",
+		"photo": "fungi.jpg",
+		"photoPos": "35% center",
+		"photoTag": "真菌：分解者",
+		"credit": "Photo: The Other 95%, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "生物圈是地球上最大的生态系统", "ok": true, "fix": ""},
+			{"q": "细菌都是分解者", "ok": false, "fix": "硝化细菌是生产者，寄生细菌是消费者"},
+			{"q": "蚯蚓、蜣螂属于分解者", "ok": true, "fix": ""},
+			{"q": "食物链中包含分解者", "ok": false, "fix": "食物链只含生产者和消费者"},
+			{"q": "同一生物在食物网中只占一个营养级", "ok": false, "fix": "可以占不同的营养级"},
+			{"q": "食物网越复杂，抵抗干扰的能力越强", "ok": true, "fix": ""}
+		],
+		"endTitle": [["生态系统的"], ["结构", true]],
+		"endLine": "组成成分 · 成分判断 · 食物链 · 食物网 · 数量变化",
+		"slogan": "成分看营养方式，链条从生产者数起！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— The Other 95%《Labagh Woods Bracket Fungi on Fallen Tree II》CC BY-SA 4.0"
+}

@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|化学与S T S E下：传统文化与生活中的化学。",
+		"seconds": 5.04
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一题的另一类素材：诗词古籍和日常生活，判断其中的变化、操作和物质，共七个考点。",
+		"seconds": 8.808
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，古籍中的变化。千锤万凿出深山，烈火焚烧若等闲：石灰石煅烧分解，碳酸钙生成氧化钙和二氧化碳，是化学变化。",
+		"seconds": 13.152
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|“蜡炬成灰泪始干”：蜡烛燃烧是化学变化，“泪”是蜡熔化，是物理变化。",
+		"seconds": 7.2
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|春蚕到死丝方尽：蚕丝的主要成分是蛋白质。丹砂烧之成水银：硫化汞分解生成汞，是化学变化。",
+		"seconds": 10.176
+	},
+	"ch3b": {
+		"key": "zh-CN-XiaoxiaoNeural|扎丸子头的红发女孩高高跳起：古诗里藏着化学，有没有新物质生成，是判断的唯一标准。",
+		"seconds": 8.664
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：野火烧不尽是燃烧，化学变化；只要功夫深，铁杵磨成针只是形状改变，物理变化。",
+		"seconds": 9.24
+	},
+	"op1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，古籍中的实验操作。凡酸坏之酒，皆可蒸烧；用浓酒和糟入甑，蒸令气上：蒸馏。",
+		"seconds": 9.552
+	},
+	"op2": {
+		"key": "zh-CN-XiaoxiaoNeural|将生砒就置火上，以器覆之，令砒烟上飞着覆器，遂凝结：升华。",
+		"seconds": 6.864
+	},
+	"op3": {
+		"key": "zh-CN-XiaoxiaoNeural|屠呦呦用乙醚从青蒿中提取青蒿素：萃取；煮海水得盐：蒸发结晶。",
+		"seconds": 7.152
+	},
+	"op4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：抓关键字：蒸令气上是蒸馏，上飞再凝结是升华，渍、提取多为萃取或浸取。",
+		"seconds": 9.456
+	},
+	"cr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，传统工艺。陶瓷：黏土高温烧制，是硅酸盐材料，属于无机非金属材料，烧制是化学变化。",
+		"seconds": 10.704
+	},
+	"cr2": {
+		"key": "zh-CN-XiaoxiaoNeural|青铜：铜锡合金，金属材料；造纸：原料中的纤维素，是天然有机高分子。",
+		"seconds": 7.992
+	},
+	"cr3": {
+		"key": "zh-CN-XiaoxiaoNeural|酿酒：淀粉水解成葡萄糖，再发酵成乙醇，发生了化学变化。黑火药：一硫二硝三木炭，硫加两个硝酸钾加三个碳，生成硫化钾、氮气和三个二氧化碳。",
+		"seconds": 15.36
+	},
+	"cr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：黑火药爆炸中硝酸钾和硫都是氧化剂，碳是还原剂。",
+		"seconds": 6.24
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，古籍中的物质。硝石是硝酸钾：以火烧之，紫青烟起，是钾的焰色。",
+		"seconds": 8.28
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|胆矾是五水硫酸铜：熬胆矾铁釜，久之亦化为铜，铁加硫酸铜生成硫酸亚铁和铜，置换反应。",
+		"seconds": 9.648
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|绿矾是七水硫酸亚铁；朱砂也叫丹砂，是硫化汞；草木灰的主要成分是碳酸钾，水溶液显碱性。",
+		"seconds": 9.624
+	},
+	"su3b": {
+		"key": "zh-CN-XiaoxiaoNeural|长着狐狸尾巴的红发女孩歪头看着问号：古书里的名字，要先翻译成化学式再判断。",
+		"seconds": 8.16
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：紫青烟起是焰色，物理变化；熬胆矾铁釜是置换，属于氧化还原。",
+		"seconds": 7.464
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，食品添加剂：防腐剂、抗氧化剂比如维生素C、着色剂、膨松剂比如碳酸氢钠；按国家标准限量使用是安全的。",
+		"seconds": 12.288
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|消毒剂：84消毒液是次氯酸钠，还有二氧化氯、过氧乙酸，利用强氧化性；医用酒精是百分之75，使蛋白质变性。",
+		"seconds": 11.664
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|维生素C作抗氧化剂，体现的是还原性；铁粉作食品包装中的双吸剂，吸收氧气和水。",
+		"seconds": 8.88
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酒精不是越浓越好，百分之95的酒精会使细菌表面迅速凝固，反而杀菌效果差；84消毒液不能与洁厕灵混用。",
+		"seconds": 11.736
+	},
+	"li1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，药物：阿司匹林解热镇痛；碳酸氢钠、氢氧化铝治疗胃酸过多；钡餐用硫酸钡，不能用碳酸钡，它溶于胃酸。",
+		"seconds": 12.096
+	},
+	"li2": {
+		"key": "zh-CN-XiaoxiaoNeural|洗涤剂：肥皂是高级脂肪酸钠；热的纯碱溶液去油污，因为加热促进碳酸根水解，碱性增强。",
+		"seconds": 9.504
+	},
+	"li3": {
+		"key": "zh-CN-XiaoxiaoNeural|化肥：铵态氮肥不能与草木灰混用，铵根与碳酸根相互促进水解，生成氨气逸出，降低肥效。",
+		"seconds": 9.6
+	},
+	"li3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发丸子头的女孩眯眼笑着：生活里的小常识，背后都是课本上的原理：水解、沉淀、氧化还原。",
+		"seconds": 9.504
+	},
+	"li4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：生活题先找出对应的化学原理，再判断说法对不对。",
+		"seconds": 6.144
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，常见陷阱。胶体：雾、云、烟、豆浆、血液、淀粉溶液是胶体，能产生丁达尔效应；日照香炉生紫烟常用来考丁达尔效应。",
+		"seconds": 13.872
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|焰色：“火树银花”“紫青烟起”是焰色，物理变化。",
+		"seconds": 4.824
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化还原：冶炼金属、燃烧、生锈、置换都是；“煮豆燃豆萁”的燃烧是，“熬胆矾”也是。",
+		"seconds": 8.856
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：遇到古诗文，先翻译成现代化学语言，再判断类别、变化、原理。",
+		"seconds": 7.92
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：蜡炬成灰只有物理变化？错，燃烧是化学变化。判断二：蒸令气上是蒸馏？对。",
+		"seconds": 10.44
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：熬胆矾铁釜是置换反应？对。判断四：酒精越浓消毒越好？错，百分之七十五最好。",
+		"seconds": 10.992
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：碳酸钡作钡餐？错，用硫酸钡。判断六：焰色试验是化学变化？错。",
+		"seconds": 9.504
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|古诗文先翻译，再判断变化与原理。下一期：化工流程上：读流程图与原料预处理。",
+		"seconds": 9
+	}
+}

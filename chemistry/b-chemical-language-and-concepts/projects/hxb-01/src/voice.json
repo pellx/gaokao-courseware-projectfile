@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|物质的分类。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷第一题常把分类藏在科技和传统文化情境里：氧化物、酸、盐的类别，混合物与纯净物，同素异形体，共七个考点。",
+		"seconds": 12.096
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分类方法。树状分类法按层级往下分：物质分为纯净物和混合物，纯净物再分为单质和化合物。",
+		"seconds": 11.04
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|化合物里最常考的四类：酸、碱、盐和氧化物。",
+		"seconds": 5.28
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|交叉分类法从不同角度给同一物质归类。碳酸钠，按阳离子是钠盐，按阴离子是碳酸盐，按组成是正盐。",
+		"seconds": 10.8
+	},
+	"me3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个戴发箍的女孩：她是乐队的鼓手，也爱吃甜点，换个角度就属于不同的“类”。",
+		"seconds": 7.608
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断“某物质属于某类”时，先问清分类标准，标准不同，结论不同。",
+		"seconds": 7.464
+	},
+	"pu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，纯净物与混合物。只由一种物质组成的是纯净物，不看含几种元素。",
+		"seconds": 7.512
+	},
+	"pu2": {
+		"key": "zh-CN-XiaoxiaoNeural|结晶水合物如五水硫酸铜是纯净物，冰水混合物也是纯净物，液氯是纯净物。",
+		"seconds": 8.016
+	},
+	"pu3": {
+		"key": "zh-CN-XiaoxiaoNeural|混合物：漂白粉、氨水、氯水、盐酸、玻璃、合金、空气，还有淀粉、纤维素这类高分子，聚合度不同。",
+		"seconds": 10.872
+	},
+	"pu3b": {
+		"key": "zh-CN-XiaoxiaoNeural|一屋子性格各异的女孩挤在一起，各干各的：这就是混合物，各成分保持自己的性质。",
+		"seconds": 8.04
+	},
+	"pu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：由同种元素组成的物质不一定是纯净物，氧气和臭氧混在一起就是混合物。",
+		"seconds": 7.968
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，氧化物的分类。能与碱反应只生成盐和水的是酸性氧化物，如二氧化碳、二氧化硫、二氧化硅。",
+		"seconds": 10.872
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|能与酸反应只生成盐和水的是碱性氧化物，如氧化钠、氧化钙、氧化铁。",
+		"seconds": 7.632
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|第一个陷阱：七氧化二锰是金属氧化物，却是酸性氧化物；氧化铝是两性氧化物。",
+		"seconds": 8.16
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|第二个陷阱：一氧化碳、一氧化氮不与碱反应，是不成盐氧化物；二氧化氮与碱反应价态变了，也不是酸性氧化物。",
+		"seconds": 10.752
+	},
+	"ox5": {
+		"key": "zh-CN-XiaoxiaoNeural|第三个陷阱：过氧化钠与酸反应还放出氧气，不是碱性氧化物。",
+		"seconds": 6.336
+	},
+	"ox6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碱性氧化物一定是金属氧化物；金属氧化物不一定是碱性氧化物；非金属氧化物也不一定是酸性氧化物。",
+		"seconds": 10.728
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，酸和碱的分类。酸按能电离出的氢离子个数分为一元酸、二元酸、三元酸。",
+		"seconds": 8.616
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|关键是“能电离出的”，不是分子里氢原子的个数：醋酸有4个氢，却是一元酸。",
+		"seconds": 7.272
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|课本外常考：次磷酸只能电离出1个氢离子，是一元酸；亚磷酸是二元酸。",
+		"seconds": 7.368
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|酸还可分为含氧酸和无氧酸、强酸和弱酸；碱分为强碱和弱碱、可溶性碱和难溶性碱。",
+		"seconds": 8.808
+	},
+	"ac5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断几元酸，看羟基氢的个数，或看题目给的它与氢氧化钠反应生成的盐。",
+		"seconds": 8.136
+	},
+	"sa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，盐的分类。酸中的氢被完全中和得到正盐，如硫酸钠、碳酸钠。",
+		"seconds": 7.944
+	},
+	"sa2": {
+		"key": "zh-CN-XiaoxiaoNeural|酸中的氢部分被中和得到酸式盐，如碳酸氢钠、硫酸氢钠。",
+		"seconds": 6.24
+	},
+	"sa3": {
+		"key": "zh-CN-XiaoxiaoNeural|碱中的氢氧根部分被中和得到碱式盐，如铜绿碱式碳酸铜。",
+		"seconds": 6.072
+	},
+	"sa4": {
+		"key": "zh-CN-XiaoxiaoNeural|课本外的陷阱：次磷酸是一元酸，所以次磷酸二氢钠已经完全中和，是正盐，不是酸式盐。",
+		"seconds": 9.288
+	},
+	"sa5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断正盐还是酸式盐，要先确定对应的酸是几元酸，不能看化学式里有没有 H。",
+		"seconds": 8.424
+	},
+	"al1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，同素异形体：同种元素形成的不同单质。",
+		"seconds": 5.112
+	},
+	"al2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见三组：氧气与臭氧；金刚石、石墨与碳60；红磷与白磷。",
+		"seconds": 6.984
+	},
+	"al2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这对戴眼镜的双胞胎：出身相同，却是两个人。同素异形体也一样：元素相同，结构不同，是两种物质。",
+		"seconds": 10.224
+	},
+	"al3": {
+		"key": "zh-CN-XiaoxiaoNeural|同素异形体之间的转化，生成了新物质，是化学变化，但元素化合价不变，不是氧化还原反应。",
+		"seconds": 8.928
+	},
+	"al4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氢气与重氢气只是同位素组成不同，不是同素异形体；同素异形体的研究对象是单质。",
+		"seconds": 9.024
+	},
+	"ju1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，分类辨析的解题方法。选择题最爱用“一定”“都是”设陷阱。",
+		"seconds": 6.816
+	},
+	"ju2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步看组成：几种物质、几种元素；第二步看性质：能和酸还是碱反应，生成什么。",
+		"seconds": 8.616
+	},
+	"ju3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步举反例：金属氧化物一定是碱性氧化物？七氧化二锰就是反例。",
+		"seconds": 7.44
+	},
+	"ju4": {
+		"key": "zh-CN-XiaoxiaoNeural|常用反例一张表：七氧化二锰、氧化铝、一氧化碳、二氧化氮、过氧化钠、氧气和臭氧的混合物。",
+		"seconds": 9.48
+	},
+	"ju5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到“一定”，先在反例表里找；找到一个反例，这个选项就错。",
+		"seconds": 6.984
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：过氧化钠是碱性氧化物？错，它与酸反应还生成氧气。判断二：碱性氧化物一定是金属氧化物？对。",
+		"seconds": 12.312
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：同种元素组成的物质一定是纯净物？错，氧气和臭氧混合是混合物。判断四：醋酸是四元酸？错，是一元酸。",
+		"seconds": 13.104
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：五水硫酸铜是纯净物？对。判断六：石墨变金刚石是物理变化？错，是化学变化。",
+		"seconds": 10.56
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|看到“一定”找反例，几元酸看电离出的氢。下一期：分散系、胶体与物质的转化。",
+		"seconds": 8.016
+	}
+}

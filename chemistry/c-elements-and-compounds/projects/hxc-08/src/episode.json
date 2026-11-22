@@ -1,0 +1,130 @@
+{
+	"id": "HXC-08",
+	"title": "硫与二氧化硫",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第8期 / 共16期",
+	"points": [
+		"硫单质",
+		"酸性氧化物通性",
+		"二氧化硫的还原性",
+		"二氧化硫的氧化性",
+		"二氧化硫的漂白性",
+		"三氧化硫与制硫酸",
+		"两种气体的鉴别"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"硫",
+				true
+			],
+			[
+				"与"
+			],
+			[
+				"二氧化硫",
+				true
+			]
+		],
+		"subtitle": "酸性氧化物 · 还原性 · 漂白性 · 工业制硫酸",
+		"photo": "sulfur.jpg",
+		"photoCaption": "硫晶体：硫黄是淡黄色固体",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"硫",
+					true
+				],
+				[
+					"与"
+				]
+			],
+			[
+				[
+					"二氧化硫",
+					true
+				]
+			]
+		],
+		"photo": "sulfur.jpg",
+		"photoPos": "center",
+		"photoTag": "硫晶体",
+		"credit": "Maxim Bilovitskiy, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "S 在过量 O2 中燃烧生成 SO3",
+				"ok": false,
+				"fix": "只生成 SO2"
+			},
+			{
+				"q": "SO2 通入 BaCl2 溶液中产生白色沉淀",
+				"ok": false,
+				"fix": "弱酸不能制强酸，不反应"
+			},
+			{
+				"q": "SO2 使酸性 KMnO4 溶液褪色，体现漂白性",
+				"ok": false,
+				"fix": "体现还原性"
+			},
+			{
+				"q": "SO2 使品红溶液褪色，加热后恢复红色",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "可以用澄清石灰水鉴别 SO2 和 CO2",
+				"ok": false,
+				"fix": "两者都先浑浊后澄清"
+			},
+			{
+				"q": "Cu 与 S 加热生成 Cu2S",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"硫",
+				true
+			],
+			[
+				"与"
+			],
+			[
+				"二氧化硫",
+				true
+			]
+		],
+		"endLine": "品红褪色能恢复，高锰酸钾褪色是还原性",
+		"slogan": "品红褪色加热回，高锰酸钾褪色是还原"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Maxim Bilovitskiy《Sulfur crystals 1》，CC BY-SA 4.0；插图来自 pixiv：アイリーン@AIイラスト、けんぢる、TRO（侵删）",
+	"anime": [
+		{
+			"key": "chick",
+			"src": "chick.jpg",
+			"credit": "插图：アイリーン@AIイラスト《本日のお題･たまご》pixiv #131354205",
+			"url": "https://www.pixiv.net/artworks/131354205"
+		},
+		{
+			"key": "pink",
+			"src": "pink.jpg",
+			"credit": "插图：けんぢる《もう寒くないっすね(*´∀｀*)》pixiv #127786138",
+			"url": "https://www.pixiv.net/artworks/127786138"
+		},
+		{
+			"key": "wink",
+			"src": "wink.jpg",
+			"credit": "插图：TRO《にじか》pixiv #145360379",
+			"url": "https://www.pixiv.net/artworks/145360379"
+		}
+	]
+}

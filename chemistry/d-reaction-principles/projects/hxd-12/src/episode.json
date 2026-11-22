@@ -1,0 +1,125 @@
+{
+	"id": "HXD-12",
+	"title": "溶液中的粒子浓度关系",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第12期 / 共20期",
+	"points": [
+		"两个“微弱”",
+		"电荷守恒",
+		"物料守恒",
+		"质子守恒",
+		"单一溶液排序",
+		"混合溶液排序",
+		"解题方法"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"溶液中的",
+				false
+			],
+			[
+				"粒子浓度关系",
+				true
+			]
+		],
+		"subtitle": "电荷守恒 · 物料守恒 · 质子守恒 · 大小排序",
+		"photo": "bronsted.jpg",
+		"photoCaption": "布朗斯特：提出酸碱质子理论",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"溶液中的",
+					false
+				]
+			],
+			[
+				[
+					"粒子浓度关系",
+					true
+				]
+			]
+		],
+		"photo": "bronsted.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "布朗斯特",
+		"credit": "Peter Elfelt, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Na2CO3 溶液中：c(Na^+) + c(H^+) = c(CO3^2-) + c(HCO3^-) + c(OH^-)",
+				"ok": false,
+				"fix": "c(CO3^2-) 前要乘 2"
+			},
+			{
+				"q": "Na2CO3 溶液中：c(Na^+) = 2[c(CO3^2-) + c(HCO3^-) + c(H2CO3)]",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NaHCO3 溶液中：c(CO3^2-) > c(H2CO3)",
+				"ok": false,
+				"fix": "水解大于电离，c(H2CO3) 更大"
+			},
+			{
+				"q": "NH4Cl 溶液中：c(Cl^-) > c(NH4^+) > c(H^+) > c(OH^-)",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "等浓度 CH3COOH 与 CH3COONa 混合溶液显碱性",
+				"ok": false,
+				"fix": "电离大于水解，显酸性"
+			},
+			{
+				"q": "电荷守恒式中要写入 H2CO3 的浓度",
+				"ok": false,
+				"fix": "电荷守恒只写离子"
+			}
+		],
+		"endTitle": [
+			[
+				"溶液中的",
+				false
+			],
+			[
+				"粒子浓度关系",
+				true
+			]
+		],
+		"endLine": "先定溶质再比大小，电荷物料联立出质子",
+		"slogan": "先定溶质再比大小，电荷物料联立出质子"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Peter Elfelt《Johannes Brønsted》，公有领域；插图来自 pixiv：Guyooku、6っ２、じゅんけい（侵删）",
+	"anime": [
+		{
+			"key": "three",
+			"src": "three.jpg",
+			"credit": "插图：Guyooku《035 安和すばる, ガールズバンドクライ》pixiv #119149526",
+			"url": "https://www.pixiv.net/artworks/119149526"
+		},
+		{
+			"key": "row",
+			"src": "row.jpg",
+			"credit": "插图：6っ２《冬コミC103 新刊サンプル（ぼざろフルカラー漫画）》pixiv #114577887",
+			"url": "https://www.pixiv.net/artworks/114577887"
+		},
+		{
+			"key": "smug",
+			"src": "smug.jpg",
+			"credit": "插图：じゅんけい《かすみ》pixiv #137361437",
+			"url": "https://www.pixiv.net/artworks/137361437"
+		}
+	]
+}

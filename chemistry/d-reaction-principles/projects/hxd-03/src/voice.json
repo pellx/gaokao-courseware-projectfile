@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|化学反应速率及影响因素。",
+		"seconds": 3.168
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考速率计算和影响因素，实验探究题用控制变量比较速率，共七个考点。",
+		"seconds": 7.776
+	},
+	"ra1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，化学反应速率：单位时间内反应物浓度的减少或生成物浓度的增加，v等于浓度变化量除以时间，单位摩尔每升每分钟或摩尔每升每秒。",
+		"seconds": 13.728
+	},
+	"ra2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一反应中，用不同物质表示的速率之比等于化学计量数之比。氮气加三个氢气可逆生成两个氨气，三者的速率之比是一比三比二。",
+		"seconds": 12.576
+	},
+	"ra3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：两升容器中，两分钟内氨气的物质的量增加0.8摩尔，氨气的速率等于0.8除以2再除以2，等于0.2摩尔每升每分钟。",
+		"seconds": 12.624
+	},
+	"ra4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：算速率用的是浓度变化，先除以体积；不能用固体或纯液体表示速率，它们的浓度视为常数。",
+		"seconds": 9.792
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，比较速率大小。不同物质表示的速率不能直接比，要换算成同一种物质。",
+		"seconds": 8.016
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|更快的办法：用每种物质的速率除以它的计量数，比较商的大小。",
+		"seconds": 6.192
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：A加三B生成二C，A的速率0.15，B的速率0.6，C的速率0.4。除以计量数：0.15、0.2、0.2，所以B、C两种表示一样快，A最慢。",
+		"seconds": 16.44
+	},
+	"cm3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发的小女孩横着飞了出去：比快慢之前，先把大家换成同一把尺子，再比谁飞得远。",
+		"seconds": 8.688
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：单位要统一，摩尔每升每秒换成摩尔每升每分钟要乘60。",
+		"seconds": 6.84
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，浓度的影响：其他条件不变，增大反应物浓度，速率加快。",
+		"seconds": 6.84
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|压强的影响：对有气体参加的反应，压缩体积增大压强，气体浓度增大，速率加快。",
+		"seconds": 8.256
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|关键：压强是通过改变浓度起作用的。浓度没变，速率就不变。",
+		"seconds": 6.696
+	},
+	"cc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：增加固体或纯液体的量，速率不变；对没有气体的反应，改变压强速率不变。",
+		"seconds": 8.136
+	},
+	"in31": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，充入惰性气体。恒容充入不参加反应的气体：总压增大，但各反应物的浓度不变，速率不变。",
+		"seconds": 10.08
+	},
+	"in32": {
+		"key": "zh-CN-XiaoxiaoNeural|恒压充入惰性气体：体积必须变大，各反应物浓度减小，速率减慢。",
+		"seconds": 6.84
+	},
+	"in32b": {
+		"key": "zh-CN-XiaoxiaoNeural|蓝头发的女孩也飞了出去，旁边写着“贝斯”：充进来的气体不参加反应，就像只是路过的观众，关键看反应物的浓度变没变。",
+		"seconds": 11.136
+	},
+	"in33": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：遇到“充入某气体”，先问两件事：它参不参加反应？容器是恒容还是恒压？",
+		"seconds": 8.64
+	},
+	"te1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，温度的影响：升高温度，速率加快，吸热反应和放热反应都加快。",
+		"seconds": 7.392
+	},
+	"te2": {
+		"key": "zh-CN-XiaoxiaoNeural|经验规律：温度每升高10摄氏度，速率通常增大到原来的二到四倍。",
+		"seconds": 6.792
+	},
+	"te3": {
+		"key": "zh-CN-XiaoxiaoNeural|催化剂：能同等程度地加快正、逆反应速率，大大加快反应。",
+		"seconds": 6.456
+	},
+	"te3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩张开双臂往前冲：温度一高，分子跑得更快、撞得更猛，正反应、逆反应都加速。",
+		"seconds": 8.856
+	},
+	"te4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：升温时放热反应的速率也加快，不是减慢；催化剂不改变平衡和德尔塔H。",
+		"seconds": 8.28
+	},
+	"ot1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，其他因素。增大接触面积：块状变粉末、搅拌，速率加快。",
+		"seconds": 7.512
+	},
+	"ot2": {
+		"key": "zh-CN-XiaoxiaoNeural|形成原电池：粗锌比纯锌与稀硫酸反应快；锌和稀硫酸里加几滴硫酸铜溶液，置换出的铜与锌构成原电池，速率加快。",
+		"seconds": 11.976
+	},
+	"ot3": {
+		"key": "zh-CN-XiaoxiaoNeural|还有光照、溶剂、超声波等。但浓硫酸与锌反应不生成氢气，铁遇浓硫酸、浓硝酸钝化，不能用浓度越大越快来判断。",
+		"seconds": 11.928
+	},
+	"ot4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：加硫酸铜速率加快，但锌被消耗了一部分，生成氢气的总量可能减少。",
+		"seconds": 7.584
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，控制变量法：探究某一因素的影响时，只改变这一个条件，其他条件都相同。",
+		"seconds": 8.208
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：用硫代硫酸钠与稀硫酸反应，比较出现浑浊的时间。探究温度时，浓度和体积都相同，只改变温度。",
+		"seconds": 10.512
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|表格题常见陷阱：两组实验改变的是浓度，但加水量不同，总体积不同，就有两个变量。要补水使总体积相同。",
+		"seconds": 11.304
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：对比实验一和二，其他条件相同，只有某条件不同，实验二速率更快，说明某条件怎样影响速率。",
+		"seconds": 10.44
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：不同物质表示的速率数值一定相同？错，之比等于计量数之比。判断二：增加固体的量速率加快？错，速率不变。",
+		"seconds": 13.08
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：恒容充入氦气速率加快？错，浓度不变速率不变。判断四：升温吸热、放热反应速率都加快？对。",
+		"seconds": 12.024
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：锌与稀硫酸中加几滴硫酸铜，速率加快？对，形成原电池。判断六：用浓硫酸产生氢气更快？错，生成的是二氧化硫。",
+		"seconds": 14.088
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|压强看浓度，升温都加快。下一期：活化能、反应历程与催化机理。",
+		"seconds": 7.536
+	}
+}

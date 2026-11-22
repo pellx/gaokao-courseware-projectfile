@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸钠与碳酸氢钠、焰色试验。",
+		"seconds": 3.528
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考两种盐的性质、鉴别和除杂，流程题偶尔以侯氏制碱法为背景，共七个考点。",
+		"seconds": 8.4
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，碳酸钠与碳酸氢钠的性质比较。俗名：碳酸钠是纯碱、苏打，碳酸氢钠是小苏打。",
+		"seconds": 9.6
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|溶解度：碳酸钠大于碳酸氢钠。同浓度溶液的碱性：碳酸钠强于碳酸氢钠。",
+		"seconds": 8.16
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|热稳定性：碳酸钠受热不分解；碳酸氢钠受热分解：两个碳酸氢钠加热生成碳酸钠、二氧化碳和水。",
+		"seconds": 10.296
+	},
+	"cm3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这对戴眼镜的双胞胎姐妹长得几乎一样：碳酸钠和碳酸氢钠也是一对双胞胎，要靠性质差异区分。",
+		"seconds": 9.288
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两者都显碱性，但碳酸氢钠的碱性更弱；溶解度也是碳酸氢钠更小，侯氏制碱法正是利用这一点。",
+		"seconds": 10.464
+	},
+	"hc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，与盐酸的反应。碳酸氢钠与盐酸一步放出二氧化碳：碳酸氢根加氢离子生成二氧化碳和水，反应更快。",
+		"seconds": 11.28
+	},
+	"hc2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸钠与盐酸分两步：先碳酸根加氢离子生成碳酸氢根，再碳酸氢根加氢离子生成二氧化碳和水。",
+		"seconds": 9.84
+	},
+	"hc3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以滴加顺序不同现象不同：向碳酸钠中滴加盐酸，开始无气泡，后来才有；向盐酸中滴加碳酸钠，立即有气泡。",
+		"seconds": 11.208
+	},
+	"hc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：等质量的两种盐与足量盐酸反应，碳酸氢钠放出的二氧化碳更多，因为它的摩尔质量更小。",
+		"seconds": 9.528
+	},
+	"id1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，鉴别方法。固体：加热，能产生使澄清石灰水变浑浊气体的是碳酸氢钠。",
+		"seconds": 9.048
+	},
+	"id2": {
+		"key": "zh-CN-XiaoxiaoNeural|溶液：加氯化钙或氯化钡溶液，有白色沉淀的是碳酸钠，碳酸氢钠无明显现象。",
+		"seconds": 8.088
+	},
+	"id3": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以逐滴加入稀盐酸，立即产生气泡的是碳酸氢钠；或测同浓度溶液的pH，大的是碳酸钠。",
+		"seconds": 9.264
+	},
+	"id4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能用澄清石灰水鉴别两者的溶液，两者都会生成碳酸钙白色沉淀。",
+		"seconds": 7.8
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，相互转化与除杂。碳酸钠转化为碳酸氢钠：通入足量二氧化碳：碳酸钠加二氧化碳加水生成两个碳酸氢钠。",
+		"seconds": 12.096
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸氢钠转化为碳酸钠：固体加热；溶液中加适量氢氧化钠：碳酸氢钠加氢氧化钠生成碳酸钠和水。",
+		"seconds": 10.344
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|除杂：碳酸钠固体中混有碳酸氢钠，加热；碳酸氢钠溶液中混有碳酸钠，通入足量二氧化碳。",
+		"seconds": 9.696
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：除去二氧化碳中的氯化氢，用饱和碳酸氢钠溶液，不能用碳酸钠溶液，因为它也吸收二氧化碳。",
+		"seconds": 9.648
+	},
+	"ho1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，侯氏制碱法。向饱和食盐水中先通氨气，再通二氧化碳，析出碳酸氢钠晶体。",
+		"seconds": 9.288
+	},
+	"ho2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化钠加氨加二氧化碳加水，生成碳酸氢钠沉淀和氯化铵；过滤后加热碳酸氢钠得到纯碱。",
+		"seconds": 9.168
+	},
+	"ho2b": {
+		"key": "zh-CN-XiaoxiaoNeural|女仆装的女孩端着一叠刚出炉的松饼：碳酸氢钠受热放出二氧化碳，让面团蓬松；侯氏制碱法里加热它就得到纯碱。",
+		"seconds": 11.232
+	},
+	"ho3": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么先通氨气？二氧化碳在水中溶解度小，氨极易溶，先通氨气使溶液呈碱性，能吸收更多二氧化碳。",
+		"seconds": 10.584
+	},
+	"ho4": {
+		"key": "zh-CN-XiaoxiaoNeural|循环利用：二氧化碳循环使用；母液中加氯化钠析出氯化铵作化肥，剩余溶液循环。",
+		"seconds": 8.592
+	},
+	"ho5": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：“为什么析出的是碳酸氢钠”：因为碳酸氢钠的溶解度较小。",
+		"seconds": 6.624
+	},
+	"fl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，焰色试验：很多金属或它们的化合物在灼烧时，火焰呈现特殊的颜色。",
+		"seconds": 8.112
+	},
+	"fl2": {
+		"key": "zh-CN-XiaoxiaoNeural|操作：铂丝或光洁无锈的铁丝，先用盐酸洗净，在火焰上灼烧至与原火焰颜色相同；再蘸取试样灼烧。",
+		"seconds": 10.464
+	},
+	"fl3": {
+		"key": "zh-CN-XiaoxiaoNeural|钠：黄色；钾：紫色，要透过蓝色钴玻璃观察，滤去钠的黄光干扰。",
+		"seconds": 7.152
+	},
+	"fl3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿着黄色连帽衫、笑眯眯的女孩：钠的焰色就是这种明亮的黄色。",
+		"seconds": 6.36
+	},
+	"fl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：焰色试验是物理变化；它检验的是元素，单质和化合物都可以。",
+		"seconds": 6.864
+	},
+	"gr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，课本外的图像题：向碳酸钠和碳酸氢钠的混合溶液中逐滴加入盐酸，画二氧化碳体积随盐酸体积的变化。",
+		"seconds": 11.16
+	},
+	"gr2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一段：碳酸根加氢离子生成碳酸氢根，不产生气体；第二段：碳酸氢根加氢离子生成二氧化碳和水，产生气体。",
+		"seconds": 11.52
+	},
+	"gr3": {
+		"key": "zh-CN-XiaoxiaoNeural|只有碳酸钠时，两段消耗的盐酸相等；第二段更长，说明原来还有碳酸氢钠。",
+		"seconds": 7.608
+	},
+	"gr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：读图看两段的长度比：第一段对应碳酸根，第二段减去第一段，就是原有的碳酸氢根。",
+		"seconds": 9.12
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：同浓度碳酸氢钠溶液碱性比碳酸钠强？错。判断二：能用澄清石灰水鉴别两者溶液？错，都有沉淀。",
+		"seconds": 12.648
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：除去碳酸钠固体中的碳酸氢钠可加热？对。判断四：侯氏制碱法先通二氧化碳？错，先通氨气。",
+		"seconds": 12.072
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：观察钾的焰色要透过蓝色钴玻璃？对。判断六：焰色试验是化学变化？错，是物理变化。",
+		"seconds": 11.184
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|小苏打怕热，先氨后碳，钾透钴玻璃。下一期：氯气的性质与次氯酸。",
+		"seconds": 7.68
+	}
+}

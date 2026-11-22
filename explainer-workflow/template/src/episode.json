@@ -1,0 +1,31 @@
+{
+	"id": "XB1-00",
+	"title": "示例标题",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第1章",
+	"points": ["考点名称一", "考点名称二"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["示例"], ["标题", true]],
+		"subtitle": "副标题 · 关键词",
+		"photo": "example.jpg",
+		"photoCaption": "图片说明"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["示例"]], [["标题", true]]],
+		"photo": "example.jpg",
+		"photoTag": "封面图片标签",
+		"credit": "Photo: Author, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "判断题一", "ok": false, "fix": "改正"},
+			{"q": "判断题二", "ok": true, "fix": ""}
+		],
+		"endTitle": [["示例"], ["标题", true]],
+		"endLine": "考点 · 考点 · 考点",
+		"slogan": "结束语"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 作者《标题》许可"
+}

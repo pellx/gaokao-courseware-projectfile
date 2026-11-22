@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第四章第三节——免疫失调。",
+		"seconds": 7.296
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考过敏反应的机理、自身免疫病的判断，以及艾滋病的曲线和传播途径。",
+		"seconds": 7.704
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"al1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，过敏反应。已免疫的机体，在再次接触相同的抗原时，有时会发生引发组织损伤或功能紊乱的免疫反应，这就是过敏反应。",
+		"seconds": 12.96
+	},
+	"al2": {
+		"key": "zh-CN-XiaoxiaoNeural|引起过敏反应的抗原物质叫做过敏原，比如花粉、室内尘土、青霉素、鱼虾等。",
+		"seconds": 7.896
+	},
+	"al3": {
+		"key": "zh-CN-XiaoxiaoNeural|过敏原第一次进入人体，刺激机体产生抗体。这些抗体吸附在某些细胞的表面，比如皮肤、呼吸道或消化道黏膜中的某些细胞。",
+		"seconds": 12.48
+	},
+	"al4": {
+		"key": "zh-CN-XiaoxiaoNeural|当相同的过敏原再次进入机体时，就会与吸附在细胞表面的抗体结合，使这些细胞释放组胺等物质。",
+		"seconds": 9.456
+	},
+	"al5": {
+		"key": "zh-CN-XiaoxiaoNeural|组胺引起毛细血管扩张、血管壁通透性增强、平滑肌收缩和腺体分泌增多，于是出现皮肤红肿、发疹、哮喘等症状。",
+		"seconds": 11.712
+	},
+	"al6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：过敏反应的抗体吸附在细胞表面，而一般的抗体主要分布在血清中；第一次接触过敏原不会发生过敏反应。",
+		"seconds": 10.896
+	},
+	"ft1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，过敏反应的特点和预防。",
+		"seconds": 3.528
+	},
+	"ft2": {
+		"key": "zh-CN-XiaoxiaoNeural|过敏反应有快慢之分：有的在接触过敏原后几分钟内就出现，有的要在几十个小时后才出现。",
+		"seconds": 8.28
+	},
+	"ft3": {
+		"key": "zh-CN-XiaoxiaoNeural|许多过敏反应还有明显的遗传倾向和个体差异。",
+		"seconds": 4.8
+	},
+	"ft4": {
+		"key": "zh-CN-XiaoxiaoNeural|预防过敏反应的主要措施，是找出过敏原，并且尽量避免再次接触。",
+		"seconds": 6.528
+	},
+	"ft5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：过敏反应是免疫功能过强，属于免疫防御功能异常，不是免疫功能不足。",
+		"seconds": 7.704
+	},
+	"au1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，自身免疫病。免疫系统对自身成分发生反应，对组织和器官造成损伤并出现症状，就叫做自身免疫病。",
+		"seconds": 11.592
+	},
+	"au2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见的有风湿性心脏病、类风湿关节炎和系统性红斑狼疮。",
+		"seconds": 6.216
+	},
+	"au3": {
+		"key": "zh-CN-XiaoxiaoNeural|以风湿性心脏病为例：某种链球菌表面的一种抗原分子，与心脏瓣膜上的一种物质结构十分相似。感染这种链球菌后，产生的抗体在攻击链球菌的同时，也会攻击心脏瓣膜。",
+		"seconds": 16.296
+	},
+	"au4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：自身免疫病是免疫功能过强、“敌我不分”，属于免疫自稳功能异常；治疗时常用免疫抑制剂。",
+		"seconds": 9.408
+	},
+	"df1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，免疫缺陷病，是由机体免疫功能不足或缺乏而引起的疾病。",
+		"seconds": 6.864
+	},
+	"df2": {
+		"key": "zh-CN-XiaoxiaoNeural|一类是由于遗传而生来就有免疫缺陷的，叫做先天性免疫缺陷病，比如重症联合免疫缺陷病。",
+		"seconds": 8.88
+	},
+	"df3": {
+		"key": "zh-CN-XiaoxiaoNeural|另一类是由疾病和其他因素引起的，叫做获得性免疫缺陷病，最典型的就是艾滋病。",
+		"seconds": 8.04
+	},
+	"df4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：免疫缺陷病是免疫功能不足，患者容易反复感染，甚至发生恶性肿瘤，和过敏反应、自身免疫病的“过强”正好相反。",
+		"seconds": 11.952
+	},
+	"hv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，艾滋病，全称获得性免疫缺陷综合征，由人类免疫缺陷病毒，也就是 H I V 引起。",
+		"seconds": 9.312
+	},
+	"hv2": {
+		"key": "zh-CN-XiaoxiaoNeural|H I V 是 R N A 病毒，它能识别并结合辅助性T细胞表面的受体，进入细胞，经逆转录合成 D N A，整合到宿主细胞的染色体上。",
+		"seconds": 12.6
+	},
+	"hv3": {
+		"key": "zh-CN-XiaoxiaoNeural|看曲线：H I V 刚侵入时浓度迅速上升；随后免疫系统摧毁大多数 H I V，H I V 浓度下降，T细胞数量回升。",
+		"seconds": 11.424
+	},
+	"hv4": {
+		"key": "zh-CN-XiaoxiaoNeural|但 H I V 不能被完全清除。经过几年的潜伏期，H I V 浓度逐渐升高，辅助性T细胞数量持续下降。",
+		"seconds": 10.296
+	},
+	"hv5": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，患者的免疫功能几乎全部丧失，各种感染或恶性肿瘤乘虚而入，导致死亡。",
+		"seconds": 8.352
+	},
+	"hv6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：曲线分三段。初期 H I V 先升后降；潜伏期 H I V 缓慢上升，T细胞缓慢下降；后期 H I V 迅速上升，T细胞降到很低。",
+		"seconds": 14.304
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，艾滋病的传播途径与预防。",
+		"seconds": 3.792
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|H I V 主要存在于感染者的血液、精液、乳汁等中，传播途径主要有三条：性接触传播、血液传播和母婴传播。",
+		"seconds": 11.088
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|与感染者握手、拥抱、共同进餐，一般不会传染艾滋病。",
+		"seconds": 5.712
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|预防：洁身自爱，不共用注射器、牙刷和剃须刀，输血要严格检测；对感染者要关心和帮助，不歧视。",
+		"seconds": 10.416
+	},
+	"sp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：艾滋病患者的直接死因，往往是免疫功能丧失后发生的严重感染或恶性肿瘤，而不是 H I V 本身。",
+		"seconds": 10.536
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，把三类免疫失调放在一起比较。",
+		"seconds": 4.2
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|过敏反应：免疫功能过强，针对外来的过敏原，属于免疫防御功能异常。",
+		"seconds": 6.936
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|自身免疫病：免疫功能过强，攻击自身的组织和器官，属于免疫自稳功能异常。",
+		"seconds": 7.536
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|免疫缺陷病：免疫功能不足或缺乏，比如艾滋病。",
+		"seconds": 5.064
+	},
+	"cm5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先问“免疫功能是过强还是不足”，再问“针对的是外来物质还是自身成分”，两步就能判断。",
+		"seconds": 9.504
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一次接触过敏原就会发生过敏反应？错，再次接触相同过敏原时才发生。过敏反应中的抗体吸附在某些细胞表面？对。",
+		"seconds": 12.528
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|风湿性心脏病属于自身免疫病？对。H I V 主要侵染细胞毒性T细胞？错，主要侵染辅助性T细胞。",
+		"seconds": 10.92
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|握手、共同进餐会传播艾滋病？错。过敏反应和自身免疫病都是免疫功能过强？对。",
+		"seconds": 10.056
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串起来：过敏反应和自身免疫病是过强，免疫缺陷病是不足，艾滋病看曲线和传播途径。掌握这些，免疫失调就能稳稳拿分！我们下期再见！",
+		"seconds": 15.048
+	}
+}

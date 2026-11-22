@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|陌生过渡金属：铜与银。",
+		"seconds": 2.928
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题和实验探究题的主角。考的不是背过的性质，而是用氧化还原、沉淀、配位三种规律推断，共七个考点。",
+		"seconds": 11.112
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，铜的价态与颜色。铜单质紫红色；氧化亚铜砖红色；氧化铜黑色；硫酸铜白色，五水硫酸铜是蓝色晶体。",
+		"seconds": 12.072
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|正1价的亚铜离子在酸性溶液中不稳定，会歧化：氧化亚铜加两个氢离子生成铜、铜离子和水。",
+		"seconds": 9.624
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以氧化亚铜加稀硫酸，得到红色固体和含铜离子的溶液。",
+		"seconds": 6.096
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：检验铜中是否混有氧化亚铜，不能用稀硝酸，铜也会被氧化；用稀硫酸，看溶液是否变色。",
+		"seconds": 9.816
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，铜与氧化性酸。铜不与稀硫酸、盐酸反应，只能被氧化性酸溶解：浓硫酸生成二氧化硫，浓硝酸生成二氧化氮，稀硝酸生成一氧化氮。",
+		"seconds": 14.424
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题更常用“绿色溶铜”：铜加过氧化氢加硫酸生成硫酸铜和两个水，没有污染性气体。",
+		"seconds": 8.88
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|或者通入空气并加热：两个铜加氧气加两个硫酸，加热生成两个硫酸铜和两个水。",
+		"seconds": 8.208
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问“用过氧化氢溶铜的优点”，答不产生二氧化硫、氮氧化物等污染性气体，硫酸利用率高。",
+		"seconds": 9.144
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，铜的配位化合物。向硫酸铜溶液中滴加氨水：先生成氢氧化铜沉淀，氨水过量后沉淀溶解，生成深蓝色的四氨合铜离子。",
+		"seconds": 13.128
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯离子浓度大时生成黄色的四氯合铜离子，和四水合铜离子存在平衡，所以氯化铜溶液会显黄绿色。",
+		"seconds": 10.416
+	},
+	"cc2b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩紧紧依偎在一起：配体用孤电子对“抱住”中心离子，形成配离子。",
+		"seconds": 7.344
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|课本外：铜离子、铜与氯离子反应生成氯化亚铜白色沉淀：铜离子加铜加两个氯离子生成两个氯化亚铜沉淀。",
+		"seconds": 10.536
+	},
+	"cc4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：溶液颜色变了，先想配离子之间的平衡移动，用勒夏特列原理解释。",
+		"seconds": 7.752
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，银的沉淀：氯化银白色，溴化银浅黄色，碘化银黄色，硫化银黑色。",
+		"seconds": 8.04
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|溶解度：氯化银大于溴化银大于碘化银大于硫化银，所以沉淀可以依次转化。",
+		"seconds": 7.872
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：向氯化银悬浊液中滴加碘化钾溶液，白色沉淀变成黄色：氯化银加碘离子转化为碘化银和氯离子。",
+		"seconds": 10.464
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：证明氯化银的溶度积大于碘化银，必须让氯化银沉淀完全后再加碘离子，银离子有剩余时直接生成碘化银不能说明问题。",
+		"seconds": 12.504
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，银的配位：银离子加两个氨生成二氨合银离子，就是银氨溶液。",
+		"seconds": 7.128
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|配制：向硝酸银溶液中逐滴加入稀氨水，先生成沉淀，沉淀恰好溶解时停止。顺序不能反。",
+		"seconds": 9.84
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化银能溶于氨水：氯化银加两个氨可逆地生成二氨合银离子和氯离子；再加稀硝酸，氨被中和，氯化银又析出。",
+		"seconds": 11.328
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|AgI 的溶解度太小，不溶于氨水。这是配位和沉淀的竞争：谁更稳定，平衡就偏向谁。",
+		"seconds": 8.832
+	},
+	"ac5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：沉淀溶解或重新析出，就写出沉淀和配位两个平衡，看加入的物质让哪个平衡移动。",
+		"seconds": 9.24
+	},
+	"ar1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，银的氧化还原。银离子有氧化性：亚铁离子加银离子可逆地生成铁离子和银，这是一个可逆反应。",
+		"seconds": 10.632
+	},
+	"ar2": {
+		"key": "zh-CN-XiaoxiaoNeural|反过来，银也能被铁离子氧化：浓度改变，反应方向就改变，北京卷实验题考过多次。",
+		"seconds": 8.424
+	},
+	"ar2b": {
+		"key": "zh-CN-XiaoxiaoNeural|银白头发的小女孩瞪大眼睛：银和铁之间的反应，能正着来也能反着来。",
+		"seconds": 7.2
+	},
+	"ar3": {
+		"key": "zh-CN-XiaoxiaoNeural|清洗试管上的银镜：用稀硝酸，三个银加四个硝酸生成三个硝酸银、一氧化氮和两个水。",
+		"seconds": 9
+	},
+	"ar4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：银不溶于稀盐酸和稀硫酸，要用稀硝酸溶解。",
+		"seconds": 5.376
+	},
+	"mt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，陌生金属的解题方法。没学过的物质不用慌，按三步推。",
+		"seconds": 6.744
+	},
+	"mt2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步，标化合价：看有没有价态变化，有就按氧化还原写，按得失电子配平。",
+		"seconds": 7.896
+	},
+	"mt3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，看有没有沉淀：比较溶解度和溶度积。第三步，看有没有配体：氨、氯离子、氰根、硫氰根。",
+		"seconds": 10.344
+	},
+	"mt3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿粉色毛衣的短发女孩静静站着：遇到陌生金属，冷静地按三步走就行。",
+		"seconds": 7.344
+	},
+	"mt4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：价态 → 氧化还原；沉淀 → Ksp；配体 → 配位平衡。题目给的颜色和现象，就是判断依据。",
+		"seconds": 10.416
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：氧化亚铜与稀硫酸只生成硫酸铜和水？错，还生成铜。判断二：用过氧化氢和稀硫酸溶铜没有污染性气体？对。",
+		"seconds": 13.656
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氯化银、溴化银、碘化银溶解度依次增大？错，依次减小。判断四：氯化银能溶于氨水？对。",
+		"seconds": 11.856
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：配银氨溶液是向氨水中滴硝酸银？错，顺序反了。判断六：银离子与亚铁离子的反应可逆？对。",
+		"seconds": 11.88
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|价态、沉淀、配体，三条线推陌生金属。下一期：陌生过渡金属：锰、铬、钴、镍。",
+		"seconds": 9.648
+	}
+}

@@ -1,0 +1,111 @@
+{
+	"id": "HXD-15",
+	"title": "化学电源",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第15期 / 共20期",
+	"points": [
+		"碱性锌锰电池",
+		"铅酸蓄电池",
+		"充电时的连接",
+		"燃料电池（酸碱）",
+		"燃料电池（熔融）",
+		"锂离子电池",
+		"新型电池解题法"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"化学电源",
+				true
+			]
+		],
+		"subtitle": "一次电池 · 铅酸蓄电池 · 燃料电池 · 锂离子电池",
+		"photo": "plante.jpg",
+		"photoCaption": "普朗特：发明铅酸蓄电池",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化学电源",
+					true
+				]
+			]
+		],
+		"photo": "plante.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "普朗特",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "铅酸蓄电池放电时，负极质量减小",
+				"ok": false,
+				"fix": "生成 PbSO4，两极质量都增加"
+			},
+			{
+				"q": "二次电池充电时，正极接电源的正极",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "碱性氢氧燃料电池正极：O2 + 4H^+ + 4e^- = 2H2O",
+				"ok": false,
+				"fix": "碱性中：O2 + 2H2O + 4e^- = 4OH^-"
+			},
+			{
+				"q": "碱性甲烷燃料电池中，碳元素最终生成 CO2 放出",
+				"ok": false,
+				"fix": "生成 CO3^2-"
+			},
+			{
+				"q": "锂离子电池放电时，Li^+ 向正极移动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "锂离子电池可以用水溶液作电解质",
+				"ok": false,
+				"fix": "Li 会与水反应"
+			}
+		],
+		"endTitle": [
+			[
+				"化学电源",
+				true
+			]
+		],
+		"endLine": "正接正负接负，电解质定补什么离子",
+		"slogan": "正接正负接负，电解质定补什么离子"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Gaston Planté》，公有领域；插图来自 pixiv：まりまりも、Guyooku、赫赫700@AI（侵删）",
+	"anime": [
+		{
+			"key": "sign",
+			"src": "sign.jpg",
+			"credit": "插图：まりまりも《ゆい　うらおん！》pixiv #11198981",
+			"url": "https://www.pixiv.net/artworks/11198981"
+		},
+		{
+			"key": "amp",
+			"src": "amp.jpg",
+			"credit": "插图：Guyooku《後藤ひとり, ぼっち・ざ・ろっく》pixiv #107893734",
+			"url": "https://www.pixiv.net/artworks/107893734"
+		},
+		{
+			"key": "hood",
+			"src": "hood.jpg",
+			"credit": "插图：赫赫700@AI《結束バンドで恐竜パーカー》pixiv #143681134",
+			"url": "https://www.pixiv.net/artworks/143681134"
+		}
+	]
+}

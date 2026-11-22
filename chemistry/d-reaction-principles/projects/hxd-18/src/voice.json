@@ -1,0 +1,138 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|金属的腐蚀与防护。",
+		"seconds": 2.304
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考腐蚀原理和防护方法，北京卷还用铁氰化钾探究防护是否有效，共六个考点。",
+		"seconds": 8.64
+	},
+	"ki1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，金属腐蚀的本质：金属原子失电子被氧化。",
+		"seconds": 5.352
+	},
+	"ki2": {
+		"key": "zh-CN-XiaoxiaoNeural|化学腐蚀：金属直接与氧化性物质反应，没有电流产生，例如铁丝在氯气中被腐蚀。",
+		"seconds": 8.448
+	},
+	"ki3": {
+		"key": "zh-CN-XiaoxiaoNeural|电化学腐蚀：不纯的金属与电解质溶液接触，形成原电池，较活泼的金属被氧化。这是最普遍、危害最大的腐蚀。",
+		"seconds": 11.568
+	},
+	"ki4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电化学腐蚀有微弱电流，比化学腐蚀快得多；钢铁在潮湿空气中的腐蚀主要是电化学腐蚀。",
+		"seconds": 9.696
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，钢铁的两种电化学腐蚀。析氢腐蚀：水膜酸性较强，负极铁失去两个电子变成亚铁离子，正极两个氢离子得到两个电子生成氢气。",
+		"seconds": 14.448
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|吸氧腐蚀：水膜酸性很弱或呈中性，正极氧气加两个水得到四个电子，生成四个氢氧根。更普遍。",
+		"seconds": 10.416
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁锈的形成：亚铁离子与氢氧根生成氢氧化亚铁，被氧气氧化成氢氧化铁，再脱水生成铁锈。",
+		"seconds": 9.456
+	},
+	"hy3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴红发箍的女孩哭得稀里哗啦：潮湿的空气里有氧气，铁默默地被吸氧腐蚀，慢慢长出红褐色的锈。",
+		"seconds": 9.576
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两种腐蚀负极反应一样，都是铁失去两个电子生成亚铁离子，不是铁离子。",
+		"seconds": 8.064
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，腐蚀快慢比较：电解池的阳极大于原电池的负极，大于化学腐蚀，大于原电池的正极，大于电解池的阴极。",
+		"seconds": 11.304
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一金属：强电解质溶液大于弱电解质溶液大于非电解质溶液。两种金属活泼性相差越大，活泼的那个腐蚀越快。",
+		"seconds": 11.376
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：镀锌铁破损后，锌作负极，铁被保护；镀锡铁破损后，铁作负极，腐蚀更快。",
+		"seconds": 8.592
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：镀锡铁“镀层完好时”耐腐蚀，一旦破损，比普通铁更容易被腐蚀。",
+		"seconds": 7.368
+	},
+	"sa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，牺牲阳极法：利用原电池原理，把比被保护金属更活泼的金属，比如锌、镁，连在一起，活泼金属作负极被腐蚀。",
+		"seconds": 11.976
+	},
+	"sa2": {
+		"key": "zh-CN-XiaoxiaoNeural|被保护的金属作正极，不被腐蚀。例：船体外壳嵌锌块、地下管道连镁块。",
+		"seconds": 8.064
+	},
+	"sa2b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩紧张地攥着衣角：锌块挺身而出，自己被腐蚀，把铁保护下来。",
+		"seconds": 7.104
+	},
+	"sa3": {
+		"key": "zh-CN-XiaoxiaoNeural|名字里叫“阳极”，是因为它失电子、发生氧化，在原电池里它就是负极。",
+		"seconds": 7.128
+	},
+	"sa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：牺牲阳极法用的是原电池，不是电解池；锌块要定期更换。",
+		"seconds": 6.768
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，外加电流法：利用电解池原理，被保护的金属接直流电源的负极作阴极，辅助阳极接正极。",
+		"seconds": 9.792
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|阴极上发生还原反应，金属本身不失电子，得到保护。例：钢闸门、地下管道。",
+		"seconds": 8.568
+	},
+	"cu2b": {
+		"key": "zh-CN-XiaoxiaoNeural|猫耳黑色双马尾女孩抱着红吉他：被保护的金属接负极当阴极，电子源源不断送过来，它就不会失电子。",
+		"seconds": 9.936
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|其他防护：涂油漆、镀层、改变金属内部结构（不锈钢），把金属和电解质隔开。",
+		"seconds": 7.992
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：被保护的金属接电源正极就成了阳极，反而加速腐蚀。",
+		"seconds": 6.312
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，检验防护是否有效：取铁电极附近的溶液，滴加铁氰化钾溶液，无蓝色沉淀，说明没有亚铁离子生成，铁被保护。",
+		"seconds": 12.192
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷实验：直接在铁电极附近滴加铁氰化钾，也出现了蓝色沉淀，原因是铁氰化钾本身能氧化铁，生成亚铁离子。",
+		"seconds": 11.544
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|改进：先取出溶液再检验，不让试剂接触铁；或用对照实验排除干扰。",
+		"seconds": 7.2
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：取少量铁电极附近的溶液于试管中，滴加铁氰化钾溶液，无蓝色沉淀，说明铁未被腐蚀。",
+		"seconds": 10.08
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：钢铁在潮湿空气中主要是化学腐蚀？错，是电化学腐蚀。判断二：吸氧腐蚀正极生成氢氧根？对。",
+		"seconds": 12.12
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：铁失去三个电子生成铁离子？错，生成亚铁离子。判断四：镀锡铁破损后更耐腐蚀？错，腐蚀更快。",
+		"seconds": 12.792
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：外加电流法被保护金属接负极？对。判断六：牺牲阳极法用电解池原理？错，用原电池原理。",
+		"seconds": 11.736
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|中性吸氧酸析氢，活泼作负极、被保护接负极。下一期：平衡图像与条件选择。",
+		"seconds": 8.568
+	}
+}

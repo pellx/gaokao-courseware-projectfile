@@ -1,0 +1,122 @@
+{
+	"id": "HXD-19",
+	"title": "平衡图像与条件选择",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第19期 / 共20期",
+	"points": [
+		"速率-时间图",
+		"浓度-时间图",
+		"定一议二",
+		"先拐先平",
+		"产率先增后减",
+		"选择性与竞争反应",
+		"条件选择答题模板"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"平衡图像",
+				true
+			],
+			[
+				"与条件选择"
+			]
+		],
+		"subtitle": "v-t 图 · 定一议二 · 先拐先平 · 先增后减",
+		"photo": "reactor.jpg",
+		"photoCaption": "早期合成氨的高压反应器",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"平衡图像",
+					true
+				]
+			],
+			[
+				[
+					"与条件选择"
+				]
+			]
+		],
+		"photo": "reactor.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "合成氨反应器",
+		"credit": "Dietmar Rabich, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "v-t 图中两条线都连续变化，说明改变了温度",
+				"ok": false,
+				"fix": "温度改变时两条线都跳跃"
+			},
+			{
+				"q": "浓度-时间图中两条曲线的交点就是平衡点",
+				"ok": false,
+				"fix": "浓度不再变化时才达平衡"
+			},
+			{
+				"q": "先出现拐点的曲线对应的温度更高",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "两条曲线平台一样高，只是一条先拐，可能是加了催化剂",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "产率先增后减，最高点之前反应已达平衡",
+				"ok": false,
+				"fix": "最高点之前未达平衡，受速率控制"
+			},
+			{
+				"q": "转化率高，目标产物的选择性一定高",
+				"ok": false,
+				"fix": "还可能发生副反应"
+			}
+		],
+		"endTitle": [
+			[
+				"平衡图像",
+				true
+			],
+			[
+				"与条件选择"
+			]
+		],
+		"endLine": "定一议二，先拐先平，前看速率后看平衡",
+		"slogan": "定一议二，先拐先平，前看速率后看平衡"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Dietmar Rabich《Karlsruhe, Hochdruckreaktor zur Ammoniak-Synthese》，CC BY-SA 4.0；插图来自 pixiv：あれですよ、べーにゃん@お仕事募集中！、Lcron（侵删）",
+	"anime": [
+		{
+			"key": "panels",
+			"src": "panels.jpg",
+			"credit": "插图：あれですよ《けいおん! ちびキャラ風》pixiv #150106754",
+			"url": "https://www.pixiv.net/artworks/150106754"
+		},
+		{
+			"key": "first",
+			"src": "first.jpg",
+			"credit": "插图：べーにゃん@お仕事募集中！《平沢唯アクキー風》pixiv #96366073",
+			"url": "https://www.pixiv.net/artworks/96366073"
+		},
+		{
+			"key": "keys",
+			"src": "keys.jpg",
+			"credit": "插图：Lcron《けいおん/むぎちゃん》pixiv #89263269",
+			"url": "https://www.pixiv.net/artworks/89263269"
+		}
+	]
+}

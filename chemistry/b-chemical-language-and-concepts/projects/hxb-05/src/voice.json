@@ -1,0 +1,146 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化还原反应的概念与电子转移。",
+		"seconds": 3.624
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化还原贯穿北京卷所有大题：选择题考概念判断和转移电子数，大题考配平和计算，本期先打牢概念，共六个考点。",
+		"seconds": 11.784
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，氧化还原反应的特征：反应前后有元素的化合价发生变化。判断时只看这一条。",
+		"seconds": 8.88
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|它的本质是电子转移：钠与氯气反应，钠把电子给了氯，是电子的得失。",
+		"seconds": 6.768
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|氢气与氯气反应生成氯化氢，没有完全得失，而是共用电子对偏向氯，是电子的偏移，也叫电子转移。",
+		"seconds": 9.816
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：特征是化合价升降，本质是电子转移，别说反了；有没有氧元素参加都无关。",
+		"seconds": 8.376
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，与四种基本反应类型的关系。置换反应一定是氧化还原反应；复分解反应一定不是。",
+		"seconds": 9.192
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|化合反应和分解反应：有单质参加的化合反应、有单质生成的分解反应是氧化还原反应。",
+		"seconds": 8.424
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|但“有单质参加的反应一定是氧化还原”是错的：氧气转化为臭氧，氧的化合价都是零，不是氧化还原。",
+		"seconds": 9.36
+	},
+	"ty4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同素异形体之间的转化有单质参加，但不是氧化还原反应。",
+		"seconds": 6.552
+	},
+	"va1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，化合价的标定。规则：化合物中各元素化合价代数和为 0，离子中等于离子所带电荷。",
+		"seconds": 10.056
+	},
+	"va2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见元素的价态要熟：氢一般正一价、氧一般负二价、钠与钾正一价、氯在化合物中常为负一价。",
+		"seconds": 9.24
+	},
+	"va3": {
+		"key": "zh-CN-XiaoxiaoNeural|陌生物质是大题的高频陷阱：氢化钠中氢是负一价，过氧化氢中氧是负一价，硫代硫酸钠中硫是正二价。",
+		"seconds": 10.416
+	},
+	"va4": {
+		"key": "zh-CN-XiaoxiaoNeural|亚氯酸钠中氯是正三价，高铁酸钾中铁是正六价，四氧化三铁中铁是正二和正三都有，平均三分之八。",
+		"seconds": 10.656
+	},
+	"va5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先标确定的元素（H、O、碱金属），最后用代数和为 0 算出未知元素。",
+		"seconds": 8.256
+	},
+	"ag1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，氧化剂和还原剂。口诀：升失氧，还原剂；降得还，氧化剂。",
+		"seconds": 7.944
+	},
+	"ag2": {
+		"key": "zh-CN-XiaoxiaoNeural|还原剂：化合价升高，失去电子，被氧化，得到氧化产物。",
+		"seconds": 6.168
+	},
+	"ag3": {
+		"key": "zh-CN-XiaoxiaoNeural|氧化剂：化合价降低，得到电子，被还原，得到还原产物。",
+		"seconds": 6.192
+	},
+	"ag3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个红发女孩一跳老高：化合价升高，就是失去电子、被氧化，她是还原剂。",
+		"seconds": 7.344
+	},
+	"ag4": {
+		"key": "zh-CN-XiaoxiaoNeural|例：氧化铁和一氧化碳高温反应生成铁和二氧化碳，氧化铁是氧化剂，一氧化碳是还原剂，二氧化碳是氧化产物，铁是还原产物。",
+		"seconds": 12.792
+	},
+	"ag5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“氧化剂被氧化”是错的，氧化剂被还原；名称和过程正好相反。",
+		"seconds": 7.08
+	},
+	"db1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，双线桥法。以二氧化锰和浓盐酸制氯气为例：先标出变价元素的化合价。",
+		"seconds": 8.52
+	},
+	"db2": {
+		"key": "zh-CN-XiaoxiaoNeural|一条线从反应物里的锰指向生成物里的锰：正四降到正二，得到两个电子，被还原。",
+		"seconds": 7.824
+	},
+	"db3": {
+		"key": "zh-CN-XiaoxiaoNeural|另一条线从氯指向氯气：负一升到零，失去二乘一个电子，被氧化。四个氯化氢只有两个被氧化。",
+		"seconds": 9.552
+	},
+	"db3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个眨眼的金发女孩比个手势：电子是“送出去”的，失去多少，就有人得到多少。",
+		"seconds": 7.44
+	},
+	"db4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：双线桥两条线都从反应物指向生成物同种元素，标“得”“失”，得失总数相等。",
+		"seconds": 8.424
+	},
+	"si1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，单线桥法：只画一条线，在反应物之间，从失电子的元素指向得电子的元素。",
+		"seconds": 8.448
+	},
+	"si2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：钠与氯气生成氯化钠，从钠指向氯，线上只写转移总数两个电子。",
+		"seconds": 7.248
+	},
+	"si2b": {
+		"key": "zh-CN-XiaoxiaoNeural|背着吉他的粉发女孩在等：单线桥就是一句话，谁把电子给了谁。",
+		"seconds": 6.12
+	},
+	"si3": {
+		"key": "zh-CN-XiaoxiaoNeural|双线桥看得清得失和变价，适合分析；单线桥简洁，适合标转移总数。",
+		"seconds": 7.368
+	},
+	"si4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：单线桥不写“得”“失”，箭头不跨到生成物，只标转移电子总数。",
+		"seconds": 6.744
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：有单质参加的反应一定是氧化还原？错，氧气变臭氧不是。判断二：置换反应一定是氧化还原？对。",
+		"seconds": 12.12
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氢化钠中氢是正一价？错，是负一价。判断四：氧化剂失去电子？错，氧化剂得到电子。",
+		"seconds": 11.304
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：还原剂被氧化，生成氧化产物？对。判断六：单线桥要标得失？错，只标转移总数。",
+		"seconds": 10.896
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|升失氧还原剂，降得还氧化剂。下一期：氧化剂、还原剂与氧化还原规律。",
+		"seconds": 8.088
+	}
+}

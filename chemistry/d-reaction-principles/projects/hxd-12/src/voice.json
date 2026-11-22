@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|溶液中的粒子浓度关系。",
+		"seconds": 2.64
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷选择题高频：写三大守恒、比较粒子浓度大小，常和图像结合，共七个考点。",
+		"seconds": 8.424
+	},
+	"wk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，两个微弱。弱电解质的电离是微弱的：0.1摩尔每升醋酸中，醋酸浓度远大于醋酸根浓度。",
+		"seconds": 10.248
+	},
+	"wk2": {
+		"key": "zh-CN-XiaoxiaoNeural|盐的水解也是微弱的：0.1摩尔每升醋酸钠中，醋酸根浓度远大于醋酸浓度。",
+		"seconds": 7.848
+	},
+	"wk3": {
+		"key": "zh-CN-XiaoxiaoNeural|多元弱酸分步电离、多元弱酸根分步水解，第一步远大于第二步。",
+		"seconds": 6.36
+	},
+	"wk4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：排序时，先排大量存在的离子，再排电离或水解生成的少量粒子，最后排氢离子或氢氧根中较小的那个。",
+		"seconds": 11.304
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电荷守恒：溶液呈电中性，阳离子所带正电荷总数等于阴离子所带负电荷总数。",
+		"seconds": 9.096
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸钠溶液：钠离子浓度加氢离子浓度，等于两倍碳酸根浓度加碳酸氢根浓度加氢氧根浓度。",
+		"seconds": 9.432
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|关键：离子带几个电荷，浓度前就乘几。碳酸根乘二，磷酸根乘三。",
+		"seconds": 7.44
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电荷守恒只写离子，不写碳酸这样的分子；也不要漏掉氢离子和氢氧根。",
+		"seconds": 7.992
+	},
+	"ma1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，物料守恒（元素守恒）：某种元素无论以什么形式存在，总量不变。",
+		"seconds": 7.344
+	},
+	"ma2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸钠中钠和碳的物质的量之比是二比一，所以钠离子浓度等于两倍的碳酸根、碳酸氢根、碳酸三者浓度之和。",
+		"seconds": 11.184
+	},
+	"ma3": {
+		"key": "zh-CN-XiaoxiaoNeural|等浓度醋酸和醋酸钠混合：两倍钠离子浓度等于醋酸根浓度加醋酸浓度。",
+		"seconds": 7.488
+	},
+	"ma3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个女孩挤在黄色书封上：不管怎么站、怎么换造型，一个人都不会少，这就是物料守恒。",
+		"seconds": 8.28
+	},
+	"ma4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：含碳的粒子要写全三种：碳酸根、碳酸氢根、碳酸；系数看原子个数比，不是电荷。",
+		"seconds": 9.48
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，质子守恒：水电离出的氢离子和氢氧根相等，粒子得到的氢离子总数等于失去的氢离子总数。",
+		"seconds": 9.768
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸钠溶液：氢氧根浓度等于氢离子浓度加碳酸氢根浓度加两倍碳酸浓度。碳酸得到了两个氢离子，所以乘二。",
+		"seconds": 11.136
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|最稳妥的写法：电荷守恒和物料守恒联立，消去钠离子浓度，就得到质子守恒。",
+		"seconds": 7.848
+	},
+	"pr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑长发女孩站在灰色卡片中间：三大守恒就三个，电荷、物料、质子，前两个一减就是第三个。",
+		"seconds": 9.696
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：选择题判断质子守恒是否正确，直接用电荷守恒减物料守恒验证，不容易出错。",
+		"seconds": 8.904
+	},
+	"si1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，单一溶液的排序。氯化铵：氯离子大于铵根大于氢离子大于氢氧根，铵根水解显酸性。",
+		"seconds": 9.816
+	},
+	"si2": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸钠：钠离子大于碳酸根大于氢氧根大于碳酸氢根大于氢离子。氢氧根来自两步水解和水，比碳酸氢根多。",
+		"seconds": 11.328
+	},
+	"si3": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸氢钠：钠离子大于碳酸氢根大于氢氧根大于氢离子，而且碳酸浓度大于碳酸根浓度，因为水解大于电离。",
+		"seconds": 11.304
+	},
+	"si4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：亚硫酸氢钠溶液电离大于水解，亚硫酸根浓度大于亚硫酸浓度，和碳酸氢钠正好相反。",
+		"seconds": 9.336
+	},
+	"mx1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，混合溶液。等浓度醋酸和醋酸钠混合：醋酸的电离大于醋酸根的水解，溶液显酸性。",
+		"seconds": 9.912
+	},
+	"mx2": {
+		"key": "zh-CN-XiaoxiaoNeural|排序：醋酸根大于钠离子大于醋酸大于氢离子大于氢氧根。",
+		"seconds": 6.384
+	},
+	"mx3": {
+		"key": "zh-CN-XiaoxiaoNeural|等浓度氨水和氯化铵混合：电离大于水解，显碱性：铵根大于氯离子大于一水合氨大于氢氧根大于氢离子。",
+		"seconds": 10.56
+	},
+	"mx4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：等浓度氢氰酸和氰化钠混合却显碱性，因为氢氰酸很弱，氰根水解大于氢氰酸电离。不能死记，要看题目给的pH或K。",
+		"seconds": 13.344
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，解题方法。第一步，确定溶质及比例：混合溶液先写反应，算出剩下什么、各多少。",
+		"seconds": 9.576
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，判断电离和水解谁大：看题目给的pH、Ka与水解常数的比较。",
+		"seconds": 7.2
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，写守恒式检验选项：等式用守恒，不等式用排序。",
+		"seconds": 6.096
+	},
+	"me3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩一脸得意，嘴角上扬：先定溶质、再比大小、最后写守恒，三步走完，选项一个个就能排除。",
+		"seconds": 10.128
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：选项是等式，先看是哪种守恒；系数对不上的，可能是两种守恒相加减得到的。",
+		"seconds": 8.904
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：碳酸钠的电荷守恒，碳酸根前不乘二？错，要乘二。判断二：碳酸钠的物料守恒，钠等于两倍含碳粒子之和？对。",
+		"seconds": 13.296
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：碳酸氢钠中碳酸根多于碳酸？错，碳酸更多。判断四：氯化铵中氯离子大于铵根大于氢离子大于氢氧根？对。",
+		"seconds": 13.44
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：等浓度醋酸和醋酸钠混合显碱性？错，显酸性。判断六：电荷守恒要写碳酸？错，只写离子。",
+		"seconds": 12.264
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先定溶质再比大小，电荷物料联立出质子。下一期：沉淀溶解平衡。",
+		"seconds": 7.344
+	}
+}

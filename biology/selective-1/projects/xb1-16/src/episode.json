@@ -1,0 +1,38 @@
+{
+	"id": "XB1-16",
+	"title": "免疫失调",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第4章",
+	"points": ["过敏反应的机理", "过敏反应的特点", "自身免疫病", "免疫缺陷病", "HIV与T细胞曲线", "艾滋病的传播与预防", "三类免疫失调的比较"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["免疫"], ["失调", true]],
+		"subtitle": "过敏反应 · 自身免疫病 · 艾滋病",
+		"photo": "ribbon.jpg",
+		"photoCaption": "红丝带：关注艾滋病防治",
+		"photoPos": "45% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["免疫"], ["失调", true]]],
+		"kicker": "过敏 · 自身免疫病 · 艾滋病",
+		"photo": "ribbon.jpg",
+		"photoPos": "45% center",
+		"photoTag": "红丝带：艾滋病防治",
+		"credit": "Photo: NIAID, CC BY 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "第一次接触过敏原就会发生过敏反应", "ok": false, "fix": "再次接触相同过敏原时才发生"},
+			{"q": "过敏反应中的抗体吸附在某些细胞表面", "ok": true, "fix": ""},
+			{"q": "风湿性心脏病属于自身免疫病", "ok": true, "fix": ""},
+			{"q": "HIV主要侵染细胞毒性T细胞", "ok": false, "fix": "主要侵染辅助性T细胞"},
+			{"q": "握手、共同进餐会传播艾滋病", "ok": false, "fix": "经性接触、血液、母婴传播"},
+			{"q": "过敏反应和自身免疫病都是免疫功能过强", "ok": true, "fix": ""}
+		],
+		"endTitle": [["免疫"], ["失调", true]],
+		"endLine": "过敏反应 · 自身免疫病 · 免疫缺陷病 · 艾滋病",
+		"slogan": "先问过强还是不足，免疫失调一判就准！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— NIAID《AIDS Awareness Ribbon》CC BY 2.0"
+}

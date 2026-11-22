@@ -1,0 +1,97 @@
+{
+	"id": "XB3-16",
+	"title": "蛋白质工程的原理和应用",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第3章",
+	"points": [
+		"蛋白质工程的概念",
+		"蛋白质工程的思路",
+		"操作对象是基因",
+		"与基因工程的比较",
+		"蛋白质工程的应用",
+		"能否产生新蛋白质"
+	],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [
+			[
+				"蛋白质工程的"
+			],
+			[
+				"原理和应用",
+				true
+			]
+		],
+		"subtitle": "第二代基因工程 · 从预期功能出发",
+		"photo": "insulin.png",
+		"photoCaption": "胰岛素单体的空间结构示意图",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [
+			[
+				[
+					"蛋白质工程"
+				]
+			],
+			[
+				[
+					"原理和应用",
+					true
+				]
+			]
+		],
+		"kicker": "预期功能 · 改造基因 · 速效胰岛素",
+		"photo": "insulin.png",
+		"photoPos": "center",
+		"photoTag": "胰岛素结构",
+		"credit": "Image: Fvasconcellos, Public domain"
+	},
+	"review": {
+		"items": [
+			{
+				"q": "蛋白质工程被称为第二代基因工程",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "蛋白质工程直接对蛋白质分子进行改造",
+				"ok": false,
+				"fix": "通过改造或合成基因来实现"
+			},
+			{
+				"q": "蛋白质工程从预期的蛋白质功能出发",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "基因工程能生产自然界不存在的蛋白质",
+				"ok": false,
+				"fix": "基因工程原则上只生产天然蛋白质"
+			},
+			{
+				"q": "速效胰岛素是改变了氨基酸序列的胰岛素",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "推出的脱氧核苷酸序列是唯一的",
+				"ok": false,
+				"fix": "密码子简并，序列不唯一"
+			}
+		],
+		"endTitle": [
+			[
+				"蛋白质工程的"
+			],
+			[
+				"原理和应用",
+				true
+			]
+		],
+		"endLine": "第二代基因工程 · 逆中心法则思路 · 改造基因 · 新蛋白质",
+		"slogan": "从功能倒推，最终改的是基因！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Fvasconcellos《Insulin monomer 4INS》Public domain"
+}

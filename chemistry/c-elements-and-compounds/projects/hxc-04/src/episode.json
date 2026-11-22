@@ -1,0 +1,122 @@
+{
+	"id": "HXC-04",
+	"title": "氯气的制法与含氯消毒剂",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第4期 / 共16期",
+	"points": [
+		"实验室制氯气",
+		"装置与除杂顺序",
+		"其他制法",
+		"氯离子的检验",
+		"84消毒液",
+		"二氧化氯",
+		"含氯物质的探究"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"氯气的制法",
+				true
+			],
+			[
+				"与含氯消毒剂"
+			]
+		],
+		"subtitle": "二氧化锰与浓盐酸 · 除杂顺序 · 84 消毒液 · 二氧化氯",
+		"photo": "berthollet.jpg",
+		"photoCaption": "贝托莱：最早用氯气漂白布匹",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"氯气的制法",
+					true
+				]
+			],
+			[
+				[
+					"与含氯消毒剂"
+				]
+			]
+		],
+		"photo": "berthollet.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "贝托莱",
+		"credit": "André Dutertre, CC0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "MnO2 与稀盐酸加热也能制得 Cl2",
+				"ok": false,
+				"fix": "必须用浓盐酸"
+			},
+			{
+				"q": "除去 Cl2 中的 HCl 可用饱和食盐水",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Cl2 的尾气可以用澄清石灰水吸收",
+				"ok": false,
+				"fix": "Ca(OH)2 溶解度小，用 NaOH 溶液"
+			},
+			{
+				"q": "检验 Cl^- 时用稀盐酸酸化",
+				"ok": false,
+				"fix": "用稀硝酸酸化"
+			},
+			{
+				"q": "84 消毒液与洁厕灵混用会产生 Cl2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "KMnO4 与浓盐酸常温反应，说明氧化性 KMnO4 > MnO2",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"氯气的制法",
+				true
+			],
+			[
+				"与含氯消毒剂"
+			]
+		],
+		"endLine": "浓盐酸加热，先食盐水后浓硫酸，尾气碱液吸收",
+		"slogan": "浓盐酸加热，先食盐水后浓硫酸，尾气碱液吸收"
+	},
+	"credits": "图片来源：Wikimedia Commons —— André Dutertre《Portrait de Berthollet》，CC0；插图来自 pixiv：よなかあお、黒須照頼、けば（侵删）",
+	"anime": [
+		{
+			"key": "lab",
+			"src": "lab.jpg",
+			"credit": "插图：よなかあお《喜多郁代》pixiv #103810983",
+			"url": "https://www.pixiv.net/artworks/103810983"
+		},
+		{
+			"key": "mask",
+			"src": "mask.jpg",
+			"credit": "插图：黒須照頼《RT2のマスカーをチビキャラ化》pixiv #122428830",
+			"url": "https://www.pixiv.net/artworks/122428830"
+		},
+		{
+			"key": "point",
+			"src": "point.jpg",
+			"credit": "插图：けば《ちなつのデフォルメ》pixiv #42427002",
+			"url": "https://www.pixiv.net/artworks/42427002"
+		}
+	]
+}

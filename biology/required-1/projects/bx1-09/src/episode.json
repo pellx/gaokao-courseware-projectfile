@@ -1,0 +1,38 @@
+{
+	"id": "BX1-09",
+	"title": "细胞器之间的分工合作（上）",
+	"subject": "biology",
+	"book": "人教版·必修1·第3章",
+	"points": ["差速离心法", "线粒体", "叶绿体", "内质网与高尔基体", "溶酶体与液泡", "核糖体中心体骨架", "细胞器的归纳", "观察叶绿体实验"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞器之间的"], ["分工", true]],
+		"subtitle": "细胞器之间的分工合作（上） · 结构与功能",
+		"photo": "golgi.jpg",
+		"photoCaption": "高尔基：1898年发现高尔基体",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞器"]], [["之间的"], ["分工", true]]],
+		"kicker": "结构 · 功能 · 归纳",
+		"photo": "golgi.jpg",
+		"photoPos": "center 25%",
+		"photoTag": "高尔基",
+		"credit": "Camillo Golgi, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "差速离心法是逐渐降低离心速率", "ok": false, "fix": "是逐渐提高离心速率"},
+			{"q": "线粒体能将葡萄糖彻底氧化分解", "ok": false, "fix": "葡萄糖先在细胞质基质中分解为丙酮酸"},
+			{"q": "植物细胞都含有叶绿体", "ok": false, "fix": "根尖细胞等没有叶绿体"},
+			{"q": "溶酶体中的水解酶由溶酶体自身合成", "ok": false, "fix": "水解酶在核糖体上合成"},
+			{"q": "中心体和核糖体都没有膜结构", "ok": true, "fix": ""},
+			{"q": "视野中胞质顺时针流动，实际也是顺时针", "ok": true, "fix": ""}
+		],
+		"endTitle": [["细胞器之间的"], ["分工", true]],
+		"endLine": "线粒体 · 叶绿体 · 内质网 · 高尔基体 · 溶酶体",
+		"slogan": "膜层数、核酸、色素、分布，四个维度来归纳！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Camillo Golgi》Public domain"
+}

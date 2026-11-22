@@ -1,0 +1,123 @@
+{
+	"id": "HXD-05",
+	"title": "化学平衡状态与平衡移动",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第5期 / 共20期",
+	"points": [
+		"平衡状态的特征",
+		"平衡标志的判断",
+		"浓度的影响",
+		"压强的影响",
+		"温度的影响",
+		"催化剂与平衡",
+		"勒夏特列原理",
+		"平衡移动答题模板"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"化学平衡状态",
+				true
+			],
+			[
+				"与平衡移动"
+			]
+		],
+		"subtitle": "变量不变 · 浓度 · 压强 · 温度 · 勒夏特列",
+		"photo": "lechatelier.jpg",
+		"photoCaption": "勒夏特列：提出平衡移动原理",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化学平衡状态",
+					true
+				]
+			],
+			[
+				[
+					"与平衡移动"
+				]
+			]
+		],
+		"photo": "lechatelier.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "勒夏特列",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "达到平衡时，正、逆反应都停止了",
+				"ok": false,
+				"fix": "是动态平衡，正逆速率相等但不为零"
+			},
+			{
+				"q": "H2 + I2 ⇌ 2HI 在恒容容器中，压强不变说明已达平衡",
+				"ok": false,
+				"fix": "分子数不变，压强始终不变"
+			},
+			{
+				"q": "FeCl3 与 KSCN 的平衡体系中加 KCl 固体，平衡不移动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "压缩 NO2 与 N2O4 的平衡体系，最终颜色比原来浅",
+				"ok": false,
+				"fix": "先变深后变浅，最终仍比原来深"
+			},
+			{
+				"q": "升高温度，平衡向吸热方向移动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "使用催化剂，平衡正向移动，产率提高",
+				"ok": false,
+				"fix": "催化剂不使平衡移动"
+			}
+		],
+		"endTitle": [
+			[
+				"化学平衡状态",
+				true
+			],
+			[
+				"与平衡移动"
+			]
+		],
+		"endLine": "变量不变是平衡，移动只能减弱它",
+		"slogan": "变量不变是平衡，移动只能减弱它"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Henry Louis Le Chatelier (1850—1936)》，公有领域；插图来自 pixiv：シャコバン、ぬーちー、JadenXD（侵删）",
+	"anime": [
+		{
+			"key": "pair",
+			"src": "pair.jpg",
+			"credit": "插图：シャコバン《無題》pixiv #137412640",
+			"url": "https://www.pixiv.net/artworks/137412640"
+		},
+		{
+			"key": "sun",
+			"src": "sun.jpg",
+			"credit": "插图：ぬーちー《パリピぼっちちゃん！》pixiv #127756805",
+			"url": "https://www.pixiv.net/artworks/127756805"
+		},
+		{
+			"key": "fluster",
+			"src": "fluster.jpg",
+			"credit": "插图：JadenXD《lil doodle bocchi》pixiv #141066471",
+			"url": "https://www.pixiv.net/artworks/141066471"
+		}
+	]
+}

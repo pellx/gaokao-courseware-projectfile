@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|晶胞计算（下）：原子分数坐标、投影图与陌生晶胞。",
+		"seconds": 5.472
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|结构大题压轴空的新花样：写原子坐标、认投影图、分析陌生晶胞，共七个考点。",
+		"seconds": 8.088
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，原子分数坐标，这是课本外的拓展。以晶胞的一个顶点为原点，以晶胞边长为单位1，用 x、y、z 表示原子在晶胞中的位置。",
+		"seconds": 13.56
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|坐标的每个值都在0到1之间：原点是 0、0、0，体心是 二分之一、二分之一、二分之一。",
+		"seconds": 9.6
+	},
+	"co2b": {
+		"key": "zh-CN-XiaoxiaoNeural|原子坐标就像棋盘上的格子：先定原点和方向，每个位置就有了确定的“门牌号”。",
+		"seconds": 7.704
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|面心：比如底面中心 二分之一、二分之一、0，前面中心 二分之一、0、二分之一。棱心：比如 二分之一、0、0。",
+		"seconds": 12.792
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：坐标是分数，不是长度；顶点上的原子，题目通常只写原点 0、0、0 代表。",
+		"seconds": 8.952
+	},
+	"in_1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，由已知坐标推其他原子的坐标。先看已知点在晶胞的哪个位置，再利用对称性推。",
+		"seconds": 9.144
+	},
+	"in_2": {
+		"key": "zh-CN-XiaoxiaoNeural|金刚石型和硫化锌型：四面体空隙里的原子，坐标是 四分之一、四分之一、四分之一，以及另外三个，每个坐标两个四分之三、一个四分之一。",
+		"seconds": 13.992
+	},
+	"in_3": {
+		"key": "zh-CN-XiaoxiaoNeural|规律：这四个点把晶胞分成8个小立方体后，交替占据其中4个小立方体的体心。",
+		"seconds": 7.824
+	},
+	"in_4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先在图上找到已知坐标的原子，确定 x、y、z 轴方向，再把要求的原子投影到三个轴上读数。",
+		"seconds": 10.464
+	},
+	"pj1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，晶胞投影图，课本外。沿 z 轴投影，就是从正上方往下看，把所有原子压到底面上。",
+		"seconds": 10.08
+	},
+	"pj1b": {
+		"key": "zh-CN-XiaoxiaoNeural|投影就像墙上的影子：立体的东西被“压扁”，上下重叠的点就会落到同一个位置。",
+		"seconds": 7.488
+	},
+	"pj2": {
+		"key": "zh-CN-XiaoxiaoNeural|面心立方沿 z 轴投影：顶点和上下面心落在正方形的四角和中心，侧面面心落在四条边的中点。",
+		"seconds": 9.408
+	},
+	"pj3": {
+		"key": "zh-CN-XiaoxiaoNeural|金刚石型再加上4个四面体空隙原子，它们投影到正方形内四个四分之一、四分之三的位置。",
+		"seconds": 9
+	},
+	"pj4": {
+		"key": "zh-CN-XiaoxiaoNeural|沿体对角线投影：立方体投影成正六边形，体对角线两端的顶点重合在中心。",
+		"seconds": 7.92
+	},
+	"pj5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：投影图中一个点可能对应多个原子，不能用投影图直接数原子个数。",
+		"seconds": 7.464
+	},
+	"vd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，四面体空隙与八面体空隙，课本外。在面心立方中，由4个原子围成的空隙叫四面体空隙，由6个原子围成的叫八面体空隙。",
+		"seconds": 13.392
+	},
+	"vd1b": {
+		"key": "zh-CN-XiaoxiaoNeural|空隙就像纸箱里留出的空位：别的原子可以“躲”进去。",
+		"seconds": 4.968
+	},
+	"vd2": {
+		"key": "zh-CN-XiaoxiaoNeural|面心立方晶胞中：四面体空隙8个，在8个小立方体的体心；八面体空隙4个，在体心和12条棱的中点。",
+		"seconds": 10.032
+	},
+	"vd3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：氯化钠中钠离子填满了八面体空隙；硫化锌中锌离子填了一半的四面体空隙；氟化钙中氟离子填满了全部四面体空隙。",
+		"seconds": 12.024
+	},
+	"vd4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问某原子填在哪种空隙、填充率是多少，或者它的配位多面体是什么形状。",
+		"seconds": 8.064
+	},
+	"dp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，掺杂、取代与空位，课本外。题目给出“某些原子被另一种原子替换”或“某位置缺失”，要重新求化学式。",
+		"seconds": 11.112
+	},
+	"dp2": {
+		"key": "zh-CN-XiaoxiaoNeural|取代：被替换的位置按均摊重新数，比如一个面心的原子被替换，原来的数目减二分之一，新原子加二分之一。",
+		"seconds": 10.872
+	},
+	"dp3": {
+		"key": "zh-CN-XiaoxiaoNeural|空位：缺一个原子，就在原数目里减去它的均摊份额，再检查电荷是否守恒，有时需要变价离子来平衡电荷。",
+		"seconds": 10.776
+	},
+	"dp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：画出新晶胞，逐个位置重新均摊；最后检查化合价代数和是否为零。",
+		"seconds": 8.184
+	},
+	"nv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，陌生晶胞综合分析。典型一：钙钛矿钛酸钙，钛在体心，钙在顶点，氧在面心。",
+		"seconds": 9.432
+	},
+	"nv2": {
+		"key": "zh-CN-XiaoxiaoNeural|均摊：钙8乘八分之一等于1，钛1，氧6乘二分之一等于3，正好 Ca Ti O 3。",
+		"seconds": 8.256
+	},
+	"nv3": {
+		"key": "zh-CN-XiaoxiaoNeural|钛周围最近的氧有6个，八面体；钛周围最近的钛在相邻晶胞的体心，有6个，距离是 a。",
+		"seconds": 8.856
+	},
+	"nv4": {
+		"key": "zh-CN-XiaoxiaoNeural|典型二：铁的两种晶胞：阿尔法铁是体心立方，配位数8；伽马铁是面心立方，配位数12。两种晶胞所含铁原子数之比1比2。",
+		"seconds": 12.768
+	},
+	"nv5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：换一种选晶胞的方式，比如把钛放在顶点，坐标和位置都变，但化学式和配位数不变。",
+		"seconds": 9.216
+	},
+	"od1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，压轴空的审题顺序。第一步：先定化学式，用均摊法数出各粒子个数。",
+		"seconds": 8.376
+	},
+	"od2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步：再找最近距离，判断两原子在顶点和面心、顶点和体心、还是四面体空隙。",
+		"seconds": 8.4
+	},
+	"od3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步：最后列密度式：密度等于 N 乘 M 除以 N A 乘 a 的立方，单位换算写进式子里。",
+		"seconds": 8.472
+	},
+	"od4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：化学式 → 配位数或距离 → 密度；每一步的结论都能当下一步的条件，按顺序做最稳。",
+		"seconds": 9.288
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：体心原子的坐标是三个二分之一？对。判断二：分数坐标可以大于1？错。",
+		"seconds": 9.72
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：能用投影图直接数原子个数？错。判断四：面心立方晶胞中有8个四面体空隙？对。",
+		"seconds": 10.992
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：钛酸钙中钛周围最近的氧有6个？对。判断六：阿尔法铁与伽马铁配位数相同？错，是8和12。",
+		"seconds": 11.928
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|坐标以边长为1，投影会重叠，先化学式、再距离、后密度。下一期：元素推断选择题。",
+		"seconds": 9.576
+	}
+}

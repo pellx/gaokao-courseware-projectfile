@@ -1,0 +1,38 @@
+{
+	"id": "XB3-15",
+	"title": "基因工程的应用",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第3章",
+	"points": ["抗虫抗病抗除草剂", "改良品质与生长", "乳腺生物反应器", "工程菌与器官移植", "食品工业中的应用", "乳腺与膀胱反应器"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["基因工程"], ["的应用", true]],
+		"subtitle": "农牧业 · 医药卫生 · 食品工业",
+		"photo": "rice.jpg",
+		"photoCaption": "富含 β-胡萝卜素的“黄金大米”（右）与普通大米",
+		"photoPos": "65% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["基因工程"]], [["的应用", true]]],
+		"kicker": "抗虫棉 · 乳腺生物反应器 · 工程菌",
+		"photo": "rice.jpg",
+		"photoPos": "65% center",
+		"photoTag": "黄金大米",
+		"credit": "Photo: International Rice Research Institute (IRRI), CC BY 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "转基因抗虫棉对所有害虫都有抗性", "ok": false, "fix": "Bt蛋白只对特定害虫有毒"},
+			{"q": "乳腺生物反应器要用乳腺蛋白基因的启动子", "ok": true, "fix": ""},
+			{"q": "乳腺生物反应器的受体细胞是乳腺细胞", "ok": false, "fix": "受体细胞是受精卵"},
+			{"q": "大肠杆菌可作为生产胰岛素的工程菌", "ok": true, "fix": ""},
+			{"q": "雄性转基因动物也能用乳腺生物反应器生产药物", "ok": false, "fix": "只有雌性泌乳期才能分泌"},
+			{"q": "膀胱生物反应器不受性别和年龄的限制", "ok": true, "fix": ""}
+		],
+		"endTitle": [["基因工程"], ["的应用", true]],
+		"endLine": "抗虫抗病 · 改良品质 · 生物反应器 · 工程菌 · 食品用酶",
+		"slogan": "乳腺看启动子，受体选受精卵！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— International Rice Research Institute (IRRI)《Golden Rice》CC BY 2.0"
+}

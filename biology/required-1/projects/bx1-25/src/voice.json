@@ -1,0 +1,126 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第六章第三节——细胞的衰老和死亡，也是必修一的最后一节。",
+		"seconds": 9.408
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考衰老细胞的特征、细胞凋亡与细胞坏死的区别，以及细胞自噬。",
+		"seconds": 7.272
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"ag1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，个体衰老与细胞衰老的关系。单细胞生物：细胞的衰老或死亡就是个体的衰老或死亡。",
+		"seconds": 9.696
+	},
+	"ag2": {
+		"key": "zh-CN-XiaoxiaoNeural|多细胞生物：个体衰老与细胞衰老不是一回事；但个体衰老的过程，也是组成个体的细胞普遍衰老的过程。",
+		"seconds": 10.128
+	},
+	"ag3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：幼年个体中也有衰老的细胞，老年个体中也有新生的细胞，比如造血干细胞仍在分裂。",
+		"seconds": 9.12
+	},
+	"ft1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，衰老细胞的主要特征。细胞内水分减少，细胞萎缩，体积变小，新陈代谢速率减慢。",
+		"seconds": 9.528
+	},
+	"ft2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞内多种酶的活性降低，比如酪氨酸酶活性降低，黑色素合成减少，所以老年人头发变白。",
+		"seconds": 9.288
+	},
+	"ft3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞内的色素逐渐积累，比如老年斑；细胞呼吸速率减慢。",
+		"seconds": 5.784
+	},
+	"ft4": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞核的体积增大，核膜内折，染色质收缩、染色加深；细胞膜通透性改变，物质运输功能降低。",
+		"seconds": 9.792
+	},
+	"ft5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：衰老细胞的细胞体积变小，但细胞核体积变大；“白头发”是酶活性降低，“白化病”是基因异常、不能合成酪氨酸酶，别混。",
+		"seconds": 12.288
+	},
+	"th1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，细胞衰老的原因。自由基学说：细胞代谢产生的自由基，会攻击和破坏细胞内各种执行正常功能的生物分子。",
+		"seconds": 11.64
+	},
+	"th2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如攻击磷脂产生更多自由基，攻击DNA可能引起基因突变，攻击蛋白质使其活性下降。",
+		"seconds": 9.264
+	},
+	"th3": {
+		"key": "zh-CN-XiaoxiaoNeural|端粒学说：端粒是每条染色体两端的一段特殊序列的DNA和蛋白质复合体，每次细胞分裂后会缩短一截。",
+		"seconds": 10.32
+	},
+	"th4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：端粒内侧的正常基因受到损伤后，细胞活动逐渐异常；原核细胞没有染色体，也就没有端粒。",
+		"seconds": 9.912
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，细胞凋亡。由基因所决定的细胞自动结束生命的过程，也常被称为细胞编程性死亡。",
+		"seconds": 9.48
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|实例：蝌蚪尾的消失、人胚胎发育中手指间细胞的凋亡、被病原体感染的细胞的清除。",
+		"seconds": 8.352
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|意义：保证多细胞生物体完成正常发育，维持内部环境的稳定，抵御外界各种因素的干扰。",
+		"seconds": 8.856
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：细胞凋亡对生物体是有利的；被病原体感染的细胞的清除属于凋亡，不是坏死。",
+		"seconds": 8.4
+	},
+	"nc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，细胞凋亡与细胞坏死的比较。细胞凋亡是基因控制的主动死亡，对机体有利。",
+		"seconds": 8.904
+	},
+	"nc2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞坏死是在种种不利因素的影响下，由于细胞正常代谢活动受损或中断引起的细胞损伤和死亡，是被动的，对机体有害。",
+		"seconds": 11.592
+	},
+	"nc3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看原因——自然的、程序性的是凋亡；由极端物理、化学因素或严重病理刺激引起的是坏死，比如烫伤、缺氧。",
+		"seconds": 11.856
+	},
+	"au1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，细胞自噬。在一定条件下，细胞会将受损或功能退化的细胞结构等，通过溶酶体降解后再利用。",
+		"seconds": 10.512
+	},
+	"au2": {
+		"key": "zh-CN-XiaoxiaoNeural|营养缺乏时，细胞通过自噬获得维持生存所需的物质和能量；自噬还能清除受损的细胞器和感染的微生物、毒素，维持细胞内部环境的稳定。",
+		"seconds": 13.416
+	},
+	"au3": {
+		"key": "zh-CN-XiaoxiaoNeural|有些激烈的细胞自噬，可能诱导细胞凋亡。",
+		"seconds": 4.2
+	},
+	"au4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：细胞自噬不一定导致细胞死亡；参与自噬的主要细胞器是溶酶体。",
+		"seconds": 7.32
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，个体衰老与细胞衰老不同步。判断二？错，是多种酶活性降低，并非所有酶。",
+		"seconds": 10.296
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，凋亡对生物体有利。",
+		"seconds": 6.456
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，自噬不一定导致死亡。",
+		"seconds": 6.504
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：凋亡由基因决定，坏死是被动的损伤。必修一到这里就全部梳理完了，我们下期再见！",
+		"seconds": 10.44
+	}
+}

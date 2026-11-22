@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Combust: React.FC = () => <AutoScene k="combust" d={{"tag": "考点六", "title": "燃烧热", "blocks": [{"t": "rule", "tag": "定义", "at": "c1", "text": "101 kPa，{1 mol 纯物质}完全燃烧生成{指定产物}放出的热量", "c": "red", "size": 32}, {"t": "row", "cols": [{"blocks": [{"t": "table", "at": "c2", "head": ["元素", "指定产物"], "cols": "1fr 1.6fr", "rows": [{"at": "c2", "cells": ["C", "CO2(g)"]}, {"at": "c2", "cells": ["H", "{H2O(l)}"]}, {"at": "c2", "cells": ["S", "SO2(g)"]}, {"at": "c2", "cells": ["N", "N2(g)"]}], "size": 30, "rowHeight": 54}], "flex": null, "w": 480}, {"blocks": [{"t": "big", "at": "c3", "text": "CH4(g) + 2O2(g) = CO2(g) + 2H2O(l)\nΔH = {−890.3 kJ/mol}", "size": 34}]}]}], "callout": {"label": "易错", "at": "c4", "text": "生成 H2O(g)、生成 CO、可燃物系数不是 1：{都不是燃烧热}"}, "beat": {"k": "blush", "at": "c3b", "text": "燃烧一定放热\n燃烧热对应 {ΔH < 0|red}"}}} />;

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Amount: React.FC = () => <AutoScene k="amount" d={{"tag": "考点五", "title": "少量与过量", "blocks": [{"t": "big", "at": "am1", "text": "以少定多：{少量的物质系数定为 1}", "size": 40}, {"t": "table", "at": "am2", "head": ["反应", "离子方程式"], "cols": "1.3fr 3fr", "rows": [{"at": "am2", "cells": ["Ca(HCO3)2 + {少量} NaOH", "Ca^2+ + HCO3^- + OH^- = CaCO3↓ + H2O"]}, {"at": "am3", "cells": ["Ca(HCO3)2 + {过量|orange} NaOH", "Ca^2+ + 2HCO3^- + 2OH^- = CaCO3↓ + {CO3^2-} + 2H2O"]}, {"at": "am4", "cells": ["{少量} CO2 + NaOH", "CO2 + 2OH^- = {CO3^2-} + H2O"]}, {"at": "am4", "cells": ["{过量|orange} CO2 + NaOH", "CO2 + OH^- = {HCO3^-|orange}"]}], "size": 29, "rowHeight": 64}], "callout": {"label": "解题方法", "at": "am5", "text": "先找{少量}的物质，系数定为 1，再配另一种"}, "beat": {"k": "ramen", "at": "am3b", "text": "量不同，结果不同\n{先看谁是少量|red}"}}} />;

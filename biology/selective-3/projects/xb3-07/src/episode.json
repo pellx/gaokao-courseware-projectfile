@@ -1,0 +1,38 @@
+{
+	"id": "XB3-07",
+	"title": "动物细胞工程（一）：动物细胞培养",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第2章",
+	"points": ["动物细胞工程", "培养条件", "原代与传代培养", "贴壁与接触抑制", "干细胞的类型", "干细胞的应用", "与植物组培比较"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["动物细胞"], ["培养", true]],
+		"subtitle": "动物细胞工程（一） · 培养条件 · 干细胞",
+		"photo": "dish.jpg",
+		"photoCaption": "倒置显微镜下观察培养皿中的细胞",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["动物细胞"]], [["培养", true]]],
+		"kicker": "培养条件 · 传代 · 干细胞",
+		"photo": "dish.jpg",
+		"photoPos": "center 65%",
+		"photoTag": "细胞培养",
+		"credit": "Photo: Darja.Lavogina, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "动物细胞培养常需加入血清等天然成分", "ok": true, "fix": ""},
+			{"q": "气体环境中的CO2主要用于细胞呼吸", "ok": false, "fix": "CO2主要作用是维持培养液的pH"},
+			{"q": "分散动物组织可以用胃蛋白酶", "ok": false, "fix": "用胰蛋白酶、胶原蛋白酶"},
+			{"q": "接触抑制时需要分瓶进行传代培养", "ok": true, "fix": ""},
+			{"q": "成体干细胞能发育成完整个体", "ok": false, "fix": "成体干细胞一般只分化为特定细胞"},
+			{"q": "动物细胞培养不能体现细胞的全能性", "ok": true, "fix": ""}
+		],
+		"endTitle": [["动物细胞"], ["培养", true]],
+		"endLine": "培养条件 · 原代与传代 · 接触抑制 · 干细胞",
+		"slogan": "胰酶分散、血清营养，CO2 稳 pH！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Darja.Lavogina《Petri U2OS 20221105》CC BY-SA 4.0"
+}

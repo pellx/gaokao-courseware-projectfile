@@ -1,0 +1,124 @@
+{
+	"id": "HXG-03",
+	"title": "化工流程（上）：读流程图与原料预处理",
+	"subject": "chemistry",
+	"book": "综合应用与情境 · 第3期 / 共7期",
+	"points": [
+		"流程题的结构",
+		"读流程的方法",
+		"粉碎与研磨",
+		"焙烧与煅烧",
+		"浸出",
+		"浸出的“适当”",
+		"浸出液与滤渣"
+	],
+	"intro": {
+		"badge": "高考化学 · 综合应用与情境",
+		"title": [
+			[
+				"化工流程（上）",
+				true
+			],
+			[
+				"：读流程图与原料预处理"
+			]
+		],
+		"subtitle": "追踪元素 · 粉碎 · 焙烧 · 浸出 · 滤渣",
+		"photo": "agricola-1.png",
+		"photoCaption": "阿格里科拉《矿冶全书》（1556）中的选矿场景",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"化工流程",
+					true
+				]
+			],
+			[
+				[
+					"（上）",
+					false
+				]
+			],
+			[
+				[
+					"读图与预处理"
+				]
+			]
+		],
+		"photo": "agricola-1.png",
+		"photoPos": "center",
+		"photoTag": "矿冶全书",
+		"credit": "Agricola 1556, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "粉碎矿石可以提高平衡转化率",
+				"ok": false,
+				"fix": "只加快速率、提高浸出率，不改变平衡"
+			},
+			{
+				"q": "焙烧 FeS2 时，Fe 被氧化为 +3 价",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "提高浸出速率时，温度越高越好",
+				"ok": false,
+				"fix": "要适当，过高会挥发、分解"
+			},
+			{
+				"q": "酸浸后 SiO2 进入滤渣",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "碱浸时 Fe2O3 进入溶液",
+				"ok": false,
+				"fix": "Fe2O3 不溶于碱，进入滤渣"
+			},
+			{
+				"q": "硫酸浸出含钙矿物，滤渣中可能有 CaSO4",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"化工流程（上）",
+				true
+			],
+			[
+				"：读流程图与原料预处理"
+			]
+		],
+		"endLine": "先看问题再读图，追踪元素找去向",
+		"slogan": "先看问题再读图，追踪元素找去向"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Georgius Agricola《De re metallica》（1556）木刻插图，公有领域；插图来自 pixiv：祢衣、なりなり、はち（侵删）",
+	"anime": [
+		{
+			"key": "many",
+			"src": "many.jpg",
+			"credit": "插图：祢衣《伊地知虹夏》pixiv #121822282",
+			"url": "https://www.pixiv.net/artworks/121822282"
+		},
+		{
+			"key": "shock",
+			"src": "shock.jpg",
+			"credit": "插图：なりなり《デフォルメムギ》pixiv #30801980",
+			"url": "https://www.pixiv.net/artworks/30801980"
+		},
+		{
+			"key": "htt",
+			"src": "htt.jpg",
+			"credit": "插图：はち《琴吹紬さん》pixiv #43174232",
+			"url": "https://www.pixiv.net/artworks/43174232"
+		}
+	]
+}

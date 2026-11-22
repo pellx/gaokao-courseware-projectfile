@@ -1,0 +1,120 @@
+{
+	"id": "HXC-05",
+	"title": "铁、铁的氧化物与氢氧化物",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第5期 / 共16期",
+	"points": [
+		"铁与非金属和水",
+		"铁与酸",
+		"铁的氧化物",
+		"氢氧化亚铁制备",
+		"氢氧化铁",
+		"铁的价类二维图"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"铁",
+				true
+			],
+			[
+				"、铁的氧化物与氢氧化物"
+			]
+		],
+		"subtitle": "与水蒸气反应 · 三种氧化物 · 白→灰绿→红褐",
+		"photo": "magnetite.jpg",
+		"photoCaption": "磁铁矿：主要成分是四氧化三铁",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"铁",
+					true
+				],
+				[
+					"的氧化物"
+				]
+			],
+			[
+				[
+					"与氢氧化物"
+				]
+			]
+		],
+		"photo": "magnetite.jpg",
+		"photoPos": "center",
+		"photoTag": "磁铁矿",
+		"credit": "Archaeodontosaurus, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Fe 与 S 加热生成 Fe2S3",
+				"ok": false,
+				"fix": "生成 FeS"
+			},
+			{
+				"q": "Fe 与水蒸气高温反应生成 Fe2O3 和 H2",
+				"ok": false,
+				"fix": "生成 Fe3O4 和 H2"
+			},
+			{
+				"q": "常温下铁遇浓硫酸不发生反应",
+				"ok": false,
+				"fix": "发生钝化，是化学变化"
+			},
+			{
+				"q": "Fe3O4 溶于盐酸生成 FeCl2 和 FeCl3",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Fe(OH)2 在空气中由白色变灰绿色，最后变红褐色",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Fe2O3 是黑色固体，俗称铁红",
+				"ok": false,
+				"fix": "Fe2O3 是红棕色"
+			}
+		],
+		"endTitle": [
+			[
+				"铁",
+				true
+			],
+			[
+				"、铁的氧化物与氢氧化物"
+			]
+		],
+		"endLine": "强氧化剂到 +3，弱氧化剂到 +2",
+		"slogan": "强氧化剂到正三，弱氧化剂到正二，水蒸气给四氧化三铁"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Archaeodontosaurus《Magnetite》，CC BY-SA 3.0；插图来自 pixiv：Shizu、鬼廻、こもり@古守精華堂（侵删）",
+	"anime": [
+		{
+			"key": "steam",
+			"src": "steam.jpg",
+			"credit": "插图：Shizu《唯ちゃん46》pixiv #89312924",
+			"url": "https://www.pixiv.net/artworks/89312924"
+		},
+		{
+			"key": "back",
+			"src": "back.jpg",
+			"credit": "插图：鬼廻《リバーシブル(物理)》pixiv #32682185",
+			"url": "https://www.pixiv.net/artworks/32682185"
+		},
+		{
+			"key": "change",
+			"src": "change.jpg",
+			"credit": "插图：こもり@古守精華堂《魔法少女ミッシェルSD》pixiv #142846708",
+			"url": "https://www.pixiv.net/artworks/142846708"
+		}
+	]
+}

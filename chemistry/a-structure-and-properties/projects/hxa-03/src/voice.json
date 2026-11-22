@@ -1,0 +1,214 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|元素周期律。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷选择题几乎年年考：微粒半径比较、金属性和非金属性的判断，还有经典设问“不能用元素周期律解释的是”，共八个考点。",
+		"seconds": 12.144
+	},
+	"pd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，原子结构的周期性变化。1到18号元素，随着原子序数递增，最外层电子数从1到8周期性重复。",
+		"seconds": 11.04
+	},
+	"pd2": {
+		"key": "zh-CN-XiaoxiaoNeural|原子半径：同周期从左到右逐渐减小，同主族从上到下逐渐增大。",
+		"seconds": 7.128
+	},
+	"pd3": {
+		"key": "zh-CN-XiaoxiaoNeural|比较微粒半径，按顺序看三步。第一步看电子层数，层数多的半径大。",
+		"seconds": 7.104
+	},
+	"pd4": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，层数相同看核电荷数，核电荷数大的半径小：钠离子大于镁离子大于铝离子，氧离子大于氟离子大于钠离子。",
+		"seconds": 11.928
+	},
+	"pd5": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，核电荷数也相同，看电子数，电子多的半径大：氯离子大于氯原子，亚铁离子大于铁离子。",
+		"seconds": 9.984
+	},
+	"pd6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电子层结构相同的离子，核电荷数越大，半径越小，记作“序大径小”。",
+		"seconds": 7.728
+	},
+	"va1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，主要化合价。主族元素的最高正价等于主族序数，也就是最外层电子数。",
+		"seconds": 8.232
+	},
+	"va2": {
+		"key": "zh-CN-XiaoxiaoNeural|非金属的最低负价等于主族序数减8，所以最高正价和最低负价的绝对值之和等于8。",
+		"seconds": 8.544
+	},
+	"va3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三周期从钠到氯，最高正价从正一升到正七；从硅开始出现负价，从负四升到负一。",
+		"seconds": 8.808
+	},
+	"va4": {
+		"key": "zh-CN-XiaoxiaoNeural|两个例外：氧和氟没有最高正价，氟甚至没有正价；金属元素没有负价。",
+		"seconds": 7.2
+	},
+	"va5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：推断题看到“最高正价正七”，锁定氯，不可能是氟；看到“无正价”，就是氟。",
+		"seconds": 8.328
+	},
+	"mt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，金属性强弱的判断。金属性就是元素原子失电子的能力。",
+		"seconds": 6.936
+	},
+	"mt2": {
+		"key": "zh-CN-XiaoxiaoNeural|依据一：单质与水或酸反应置换出氢气越容易，金属性越强。",
+		"seconds": 6.384
+	},
+	"mt3": {
+		"key": "zh-CN-XiaoxiaoNeural|依据二：最高价氧化物对应水化物的碱性越强，金属性越强，比如氢氧化钠强于氢氧化镁。",
+		"seconds": 9.024
+	},
+	"mt4": {
+		"key": "zh-CN-XiaoxiaoNeural|依据三：金属之间的置换反应，强的置换弱的，比如铁能从硫酸铜溶液中置换出铜。",
+		"seconds": 8.52
+	},
+	"mt4b": {
+		"key": "zh-CN-XiaoxiaoNeural|判断金属性，就像让两位选手同台对决：比谁更容易和水反应、谁的碱更强、谁能把对方置换出来。",
+		"seconds": 9.744
+	},
+	"mt5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：金属性看失电子的难易，不看失电子的多少；铝失3个电子、钠失1个，但钠的金属性更强。",
+		"seconds": 9.888
+	},
+	"nm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，非金属性强弱的判断。非金属性就是元素原子得电子的能力。",
+		"seconds": 7.248
+	},
+	"nm2": {
+		"key": "zh-CN-XiaoxiaoNeural|依据一：单质与氢气化合越容易，生成的简单氢化物越稳定，非金属性越强。",
+		"seconds": 7.776
+	},
+	"nm3": {
+		"key": "zh-CN-XiaoxiaoNeural|依据二：最高价氧化物对应水化物的酸性越强，非金属性越强。",
+		"seconds": 6.504
+	},
+	"nm4": {
+		"key": "zh-CN-XiaoxiaoNeural|依据三：非金属单质之间的置换，比如氯气能把溴从溴化钠溶液中置换出来，说明氯的非金属性强于溴。",
+		"seconds": 10.368
+	},
+	"nm5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：必须是最高价含氧酸，必须是简单氢化物的稳定性；次氯酸的酸性比碳酸弱，不能说明氯的非金属性比碳弱。",
+		"seconds": 11.28
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，第三周期金属性的递变实验。除去氧化膜的镁条放入水中，滴入酚酞：冷水中反应很缓慢，加热到沸腾后溶液变红。",
+		"seconds": 12.456
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|钠和冷水就能剧烈反应，镁要加热才明显，所以金属性钠大于镁。",
+		"seconds": 6.648
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|再比较碱性：向氯化镁和氯化铝溶液中分别滴加氢氧化钠溶液，直到过量。",
+		"seconds": 7.488
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|两支试管都先生成白色沉淀；继续滴加，氢氧化镁沉淀不溶解，氢氧化铝沉淀溶解了。",
+		"seconds": 8.568
+	},
+	"ex5": {
+		"key": "zh-CN-XiaoxiaoNeural|氢氧化铝既能和酸反应，又能和强碱反应，是两性氢氧化物。",
+		"seconds": 6.24
+	},
+	"ex5b": {
+		"key": "zh-CN-XiaoxiaoNeural|实验结论就像这位穿白大褂的同学写下的：碱性氢氧化钠大于氢氧化镁大于氢氧化铝，金属性钠大于镁大于铝。",
+		"seconds": 10.896
+	},
+	"ex6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：写氢氧化铝与氢氧化钠反应的离子方程式。易错：氢氧化铝不溶于氨水，实验室用铝盐和氨水制取氢氧化铝。",
+		"seconds": 12
+	},
+	"nn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，第三周期非金属性的递变。从硅到氯，与氢气化合越来越容易：硅只在高温下与氢气反应，氯气光照或点燃就能剧烈化合。",
+		"seconds": 13.248
+	},
+	"nn2": {
+		"key": "zh-CN-XiaoxiaoNeural|最高价含氧酸的酸性逐渐增强：硅酸小于磷酸小于硫酸小于高氯酸，高氯酸是最强的无机含氧酸。",
+		"seconds": 9.792
+	},
+	"nn3": {
+		"key": "zh-CN-XiaoxiaoNeural|结论：同周期从左到右，金属性减弱，非金属性增强。",
+		"seconds": 6.024
+	},
+	"nn4": {
+		"key": "zh-CN-XiaoxiaoNeural|用氯水与硫化钠溶液反应生成淡黄色硫沉淀，可以证明氯的非金属性强于硫；氯水要新制，因为久置的氯水已经变成稀盐酸，没有氯气了。",
+		"seconds": 12.864
+	},
+	"nn5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：比较酸性只能用最高价含氧酸，亚硫酸不是硫的最高价含氧酸。",
+		"seconds": 7.2
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，北京卷的经典设问：“下列事实不能用元素周期律解释的是”。",
+		"seconds": 6.912
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|能用周期律解释的，是同周期、同主族元素之间的递变，比较对象必须是金属性、非金属性对应的“标准”物质。",
+		"seconds": 10.344
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|典型一：硫酸酸性强于亚硫酸，是同一元素不同价态，不能用周期律解释。",
+		"seconds": 7.56
+	},
+	"cn4": {
+		"key": "zh-CN-XiaoxiaoNeural|典型二：碳酸钠比碳酸氢钠稳定，和周期律无关。",
+		"seconds": 5.256
+	},
+	"cn5": {
+		"key": "zh-CN-XiaoxiaoNeural|典型三：盐酸酸性强于氢硫酸，比的是氢化物水溶液的酸性，不是周期律的判断依据。",
+		"seconds": 8.52
+	},
+	"cn6": {
+		"key": "zh-CN-XiaoxiaoNeural|典型四：氟化氢沸点高于氯化氢，是因为氟化氢分子间有氢键，也不是周期律。",
+		"seconds": 7.848
+	},
+	"cn7": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先看是不是同周期或同主族，再看比的是不是最高价含氧酸、简单氢化物稳定性、金属性这些标准对象。",
+		"seconds": 11.4
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，周期表和周期律的应用。在金属与非金属的分界线附近寻找半导体材料，比如硅、锗。",
+		"seconds": 9.6
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|在过渡元素中寻找催化剂和耐高温、耐腐蚀的合金材料。",
+		"seconds": 5.928
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|在周期表右上方的氟、氯、硫、磷等元素附近，研制农药。",
+		"seconds": 6
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|还能根据位置预测未知元素的性质：门捷列夫就预言过“类铝”和“类硅”，后来发现的镓和锗正好对上。",
+		"seconds": 9.792
+	},
+	"ap5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：选项常把三个“寻找”互相调换，记住：半导体找分界线，催化剂找过渡元素，农药找右上方。",
+		"seconds": 10.056
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：离子半径钠离子大于镁离子大于铝离子？对。判断二：主族元素的最高正价都等于主族序数？错，氧和氟除外。",
+		"seconds": 13.344
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：盐酸酸性强于氢硫酸，可以用周期律解释？错。判断四：碱性氢氧化钠大于氢氧化镁大于氢氧化铝，说明金属性钠大于镁大于铝？对。",
+		"seconds": 15.888
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：次氯酸酸性比碳酸弱，说明氯的非金属性比碳弱？错，次氯酸不是最高价含氧酸。判断六：在过渡元素中找半导体？错，要在分界线附近找。",
+		"seconds": 16.416
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|同周期从左到右金属性减弱、非金属性增强，同主族从上到下金属性增强、非金属性减弱。下一期：能层、能级与原子轨道。",
+		"seconds": 13.344
+	}
+}

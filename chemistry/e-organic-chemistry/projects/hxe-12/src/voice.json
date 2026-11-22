@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|羧酸、酯与酰胺。",
+		"seconds": 2.328
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常算消耗氢氧化钠的量，大题写酯化和水解方程式，共八个考点。",
+		"seconds": 7.272
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，羧酸的酸性：能与钠、氢氧化钠、碳酸钠、碳酸氢钠反应，能使石蕊变红。",
+		"seconds": 8.664
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|酸性强弱：羧酸大于碳酸大于苯酚大于碳酸氢根；甲酸大于乙酸。",
+		"seconds": 7.08
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|能与碳酸氢钠反应放出二氧化碳的，只有羧基，这是区分羧基和酚羟基的方法。",
+		"seconds": 7.776
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：比较羟基上氢的活泼性：羧基大于酚羟基大于水大于醇羟基。",
+		"seconds": 7.44
+	},
+	"es1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，酯化反应：酸与醇在浓硫酸、加热条件下生成酯和水，是可逆反应，属于取代反应。",
+		"seconds": 9.528
+	},
+	"es2": {
+		"key": "zh-CN-XiaoxiaoNeural|机理：酸脱羟基，醇脱氢。用氧18标记的乙醇实验，氧18出现在酯中，不在水中。",
+		"seconds": 8.976
+	},
+	"es3": {
+		"key": "zh-CN-XiaoxiaoNeural|浓硫酸的作用：催化剂和吸水剂，吸水使平衡正向移动，提高产率。",
+		"seconds": 7.008
+	},
+	"es4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酯化方程式要写可逆号，别漏了生成的水。",
+		"seconds": 5.256
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，乙酸乙酯的制备：加液顺序：先加乙醇，再慢慢加浓硫酸，冷却后加乙酸。",
+		"seconds": 8.568
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|用饱和碳酸钠溶液收集：中和乙酸、溶解乙醇、降低乙酸乙酯的溶解度，便于分层。",
+		"seconds": 8.424
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|导管末端在液面上方，不能插入液面以下，防止倒吸。乙酸乙酯在上层，有香味。",
+		"seconds": 8.4
+	},
+	"pr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|手捧蛋糕的蓝发女孩：做实验像做蛋糕，加料顺序错了就做不成。",
+		"seconds": 6.672
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能用氢氧化钠溶液收集乙酸乙酯，它会让酯水解。",
+		"seconds": 6
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，酯的水解：在酸性条件下水解，是可逆反应，生成羧酸和醇。",
+		"seconds": 7.368
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|在碱性条件下水解，生成羧酸盐和醇，水解彻底，不可逆。",
+		"seconds": 6.24
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：乙酸乙酯加氢氧化钠，生成乙酸钠和乙醇。",
+		"seconds": 5.016
+	},
+	"hy3b": {
+		"key": "zh-CN-XiaoxiaoNeural|系着黄丝带的粉发女孩：碱一来，羧酸马上变成盐，逆反应就没法进行了。",
+		"seconds": 7.368
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酸性水解用可逆号；碱性水解用箭头，生成的是羧酸钠，不是羧酸。",
+		"seconds": 7.656
+	},
+	"pe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，酚酯的水解：比如乙酸苯酯，碱性水解生成乙酸钠和苯酚。",
+		"seconds": 6.96
+	},
+	"pe2": {
+		"key": "zh-CN-XiaoxiaoNeural|生成的苯酚还要与氢氧化钠反应，所以1摩尔酚酯消耗2摩尔氢氧化钠。",
+		"seconds": 7.224
+	},
+	"pe3": {
+		"key": "zh-CN-XiaoxiaoNeural|方程式：乙酸苯酯加两个氢氧化钠，生成乙酸钠、苯酚钠和水。",
+		"seconds": 6.384
+	},
+	"pe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：普通酯 1 摩尔 消耗 1 摩尔 氢氧化钠，酚酯消耗 2 摩尔；数 氢氧化钠 时先分清是哪种酯。",
+		"seconds": 10.344
+	},
+	"fa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，油脂：高级脂肪酸与甘油形成的酯。常温下液态的叫油，含不饱和脂肪酸多；固态的叫脂肪。",
+		"seconds": 10.464
+	},
+	"fa2": {
+		"key": "zh-CN-XiaoxiaoNeural|皂化反应：油脂在碱性条件下水解，生成高级脂肪酸钠（肥皂的主要成分）和甘油。",
+		"seconds": 8.208
+	},
+	"fa3": {
+		"key": "zh-CN-XiaoxiaoNeural|氢化，也叫硬化：液态油中的碳碳双键与氢气加成，变成固态脂肪，便于储存运输。",
+		"seconds": 8.568
+	},
+	"fa3b": {
+		"key": "zh-CN-XiaoxiaoNeural|深蓝色短发的女孩安静地站着：油能使溴水褪色，是因为它含有碳碳双键。",
+		"seconds": 7.344
+	},
+	"fa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：油脂不是高分子；油脂与矿物油不同，加氢氧化钠溶液加热后不分层的是油脂。",
+		"seconds": 8.496
+	},
+	"am1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，胺：烃基取代氨分子中的氢，比如甲胺、苯胺，显碱性，能与盐酸反应。",
+		"seconds": 8.232
+	},
+	"am2": {
+		"key": "zh-CN-XiaoxiaoNeural|酰胺：含酰胺基，比如乙酰胺。由羧酸和胺或氨脱水形成。",
+		"seconds": 6.696
+	},
+	"am3": {
+		"key": "zh-CN-XiaoxiaoNeural|酰胺的水解：酸性条件生成羧酸和铵盐；碱性条件生成羧酸盐和氨或胺。",
+		"seconds": 7.8
+	},
+	"am4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：酰胺水解断的是 C—N 键，和酯水解断 C—O 键一样，都是“哪里连上的就从哪里断开”。",
+		"seconds": 9.12
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，甲酸：结构中既有羧基，又相当于有醛基，所以既有酸性，又能发生银镜反应。",
+		"seconds": 8.496
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|甲酸酯HCOOR：也含醛基，能发生银镜反应，也能水解。",
+		"seconds": 5.64
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|区分甲酸和乙醛：加碳酸氢钠溶液，有气泡的是甲酸。",
+		"seconds": 5.64
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能发生银镜反应的有：醛、甲酸、甲酸盐、甲酸酯、葡萄糖、麦芽糖。",
+		"seconds": 8.28
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：苯酚能和碳酸氢钠反应放出二氧化碳？错。判断二：酯化反应酸脱羟基醇脱氢？对。",
+		"seconds": 11.088
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：用氢氧化钠溶液收集乙酸乙酯？错，用饱和碳酸钠。判断四：1摩尔乙酸苯酯消耗2摩尔氢氧化钠？对。",
+		"seconds": 12.384
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：油脂是高分子？错。判断六：甲酸能发生银镜反应？对。",
+		"seconds": 8.328
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|酸脱羟基醇脱氢，酚酯水解耗两碱。下一期：反应类型、方程式与定量计算。",
+		"seconds": 8.568
+	}
+}

@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第五章第一节的下半部分——生长素的合成、运输与生理作用。",
+		"seconds": 10.104
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一部分是植物激素的重中之重，高考常考极性运输、生长素浓度曲线、顶端优势和根的向地性。",
+		"seconds": 9.792
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按九个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"sy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，生长素的合成。生长素主要的合成部位是芽、幼嫩的叶和发育中的种子。",
+		"seconds": 8.28
+	},
+	"sy2": {
+		"key": "zh-CN-XiaoxiaoNeural|在这些部位，色氨酸经过一系列反应，转变成生长素。",
+		"seconds": 5.376
+	},
+	"sy3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：生长素是由色氨酸转变来的小分子有机物，不是蛋白质；记合成部位，抓住“幼嫩”和“发育中”两个关键词。",
+		"seconds": 10.728
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，生长素的运输，分三种。",
+		"seconds": 3.792
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|极性运输：在胚芽鞘、芽、幼叶和幼根中，生长素只能从形态学上端运输到形态学下端，不能反过来。极性运输是一种主动运输。",
+		"seconds": 13.296
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|非极性运输：在成熟组织中，生长素可以通过输导组织进行非极性运输。",
+		"seconds": 7.416
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|横向运输：在尖端等部位，单侧光、重力等单一方向的刺激，会使生长素横向运输。",
+		"seconds": 8.304
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：极性运输的方向由形态学上下端决定，与重力无关。考法：缺氧或者加入呼吸抑制剂，极性运输会受到抑制，因为它是主动运输，需要消耗能量。",
+		"seconds": 15.168
+	},
+	"ds1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，生长素的分布。生长素在植物体各器官中都有分布，但相对集中地分布在生长旺盛的部位。",
+		"seconds": 10.128
+	},
+	"ds2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如胚芽鞘、芽和根尖的分生组织、形成层、发育中的种子和果实等处。",
+		"seconds": 7.176
+	},
+	"ds3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：生长素合成多和分布多的部位大体一致，都是幼嫩、生长旺盛的部位；衰老的组织中生长素较少。",
+		"seconds": 10.296
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，生长素的生理作用。",
+		"seconds": 3.144
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|在细胞水平上，生长素能促进细胞伸长生长，诱导细胞分化。",
+		"seconds": 6.192
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|在器官水平上，它影响器官的生长和发育，比如促进侧根和不定根的发生，影响花、叶和果实的发育。",
+		"seconds": 9.528
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|生长素发挥作用时，首先要与细胞内的生长素受体特异性结合，引发一系列信号转导，进而诱导特定基因的表达。",
+		"seconds": 10.464
+	},
+	"ac5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：生长素是传递信息的信号分子，它不直接参与细胞代谢，既不提供能量，也不起催化作用。",
+		"seconds": 9.552
+	},
+	"ft1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，生长素作用的特点：一般情况下，浓度较低时促进生长，浓度过高时抑制生长。",
+		"seconds": 8.976
+	},
+	"ft2": {
+		"key": "zh-CN-XiaoxiaoNeural|看曲线：横轴是生长素浓度，纵轴是促进或抑制的程度，曲线最高点对应的是最适浓度。",
+		"seconds": 9.072
+	},
+	"ft3": {
+		"key": "zh-CN-XiaoxiaoNeural|在最适浓度两侧，存在促进效果相同的两个不同浓度。",
+		"seconds": 5.28
+	},
+	"ft4": {
+		"key": "zh-CN-XiaoxiaoNeural|曲线与横轴的交点，表示这个浓度既不促进也不抑制；超过这个浓度，才是抑制。",
+		"seconds": 7.752
+	},
+	"ft5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：曲线在横轴以上都是促进，最适浓度右侧下降的那一段，只是促进作用减弱，不是抑制。",
+		"seconds": 9.216
+	},
+	"or1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，不同器官对生长素的敏感程度不同：根最敏感，芽其次，茎最不敏感。",
+		"seconds": 7.92
+	},
+	"or2": {
+		"key": "zh-CN-XiaoxiaoNeural|看三条曲线：根的最适浓度大约是十的负十次方摩尔每升，芽大约是十的负八次方，茎大约是十的负四次方。",
+		"seconds": 10.776
+	},
+	"or3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一浓度，比如十的负六次方摩尔每升的生长素，促进茎的生长，对芽几乎没有影响，却抑制根的生长。",
+		"seconds": 9.648
+	},
+	"or4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：同一浓度对不同器官的作用可能不同；另外，双子叶植物一般比单子叶植物对生长素更敏感，幼嫩的细胞比衰老的细胞更敏感。",
+		"seconds": 12.888
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，顶端优势：顶芽优先生长，侧芽生长受到抑制的现象。",
+		"seconds": 6.648
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：顶芽产生的生长素向下运输，在侧芽部位积累。侧芽对生长素比较敏感，浓度过高，生长受到抑制。",
+		"seconds": 11.184
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|而顶芽处生长素浓度较低，促进生长。所以顶端优势体现了生长素低浓度促进、高浓度抑制的特点。",
+		"seconds": 10.032
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|应用：去掉顶芽，侧芽处的生长素浓度降低，侧芽就能发育成侧枝，比如棉花打顶、果树修剪。",
+		"seconds": 9.624
+	},
+	"ap5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：离顶芽越近的侧芽，生长素浓度越高，受抑制越明显。去掉顶芽后，如果在切口处放含生长素的琼脂块，侧芽仍然受抑制。",
+		"seconds": 12.912
+	},
+	"gv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，把幼苗横放，根会向地弯曲生长，茎会背地弯曲生长。",
+		"seconds": 6.264
+	},
+	"gv2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：在重力作用下，生长素发生横向运输，近地侧的生长素浓度高于远地侧。",
+		"seconds": 8.232
+	},
+	"gv3": {
+		"key": "zh-CN-XiaoxiaoNeural|茎对生长素不敏感：近地侧浓度高，促进作用更强，生长得快，所以茎背地生长。",
+		"seconds": 8.016
+	},
+	"gv4": {
+		"key": "zh-CN-XiaoxiaoNeural|根对生长素敏感：近地侧浓度高，反而抑制生长；远地侧浓度低，促进生长，所以根向地生长。",
+		"seconds": 9.504
+	},
+	"gv5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：根的向地性和顶端优势，都体现了低浓度促进、高浓度抑制；而茎的背地性和向光性，只体现了促进作用。",
+		"seconds": 10.824
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，实验：验证生长素的极性运输。",
+		"seconds": 4.416
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|取一段胚芽鞘，在形态学上端放含生长素的琼脂块，形态学下端放空白琼脂块。一段时间后，下面的琼脂块中含有生长素。",
+		"seconds": 12.552
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|把这段胚芽鞘倒过来，让形态学下端朝上，在上面放含生长素的琼脂块，结果下面的琼脂块中检测不到生长素。",
+		"seconds": 10.704
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|结论：生长素只能从形态学上端运输到形态学下端。",
+		"seconds": 5.64
+	},
+	"pl5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：检测琼脂块中有没有生长素，可以把它放在去尖端的胚芽鞘一侧，看是否弯曲；必须设置倒置的一组，才能排除重力的影响。",
+		"seconds": 12.456
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|生长素主要在芽、幼嫩的叶和发育中的种子中合成？对。极性运输的方向由重力决定？错，由形态学上、下端决定。",
+		"seconds": 12.576
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|最适浓度右侧曲线下降的一段表示抑制？错，只要在横轴以上，就是促进作用减弱。根对生长素的敏感程度大于茎？对。",
+		"seconds": 12.432
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|茎的背地性体现了高浓度抑制生长？错，只体现促进作用。去掉顶芽可以解除顶端优势？对。",
+		"seconds": 10.224
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|九个考点串起来：芽和幼叶合成生长素，极性运输从上到下，作用特点是低促进、高抑制，根最敏感、茎最不敏感。掌握这些，生长素就能稳稳拿分！我们下期再见！",
+		"seconds": 16.752
+	}
+}

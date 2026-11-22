@@ -1,0 +1,38 @@
+{
+	"id": "BX1-11",
+	"title": "细胞核的结构和功能",
+	"subject": "biology",
+	"book": "人教版·必修1·第3章",
+	"points": ["细胞核的功能", "美西螈与蝾螈实验", "变形虫与伞藻实验", "细胞核的结构", "染色质与染色体", "建构模型"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞核的"], ["结构和功能", true]],
+		"subtitle": "核移植 · 伞藻嫁接 · 核膜 · 核孔 · 核仁",
+		"photo": "acetabularia.jpg",
+		"photoCaption": "伞藻（海克尔绘）：单细胞，细胞核在假根中",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞核的"], ["结构", true]], [["和功能", true]]],
+		"kicker": "实验探究 · 结构",
+		"photo": "acetabularia.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "伞藻",
+		"credit": "Ernst Haeckel, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "细胞核是细胞代谢的中心", "ok": false, "fix": "是细胞代谢和遗传的控制中心"},
+			{"q": "美西螈实验说明肤色由细胞核控制", "ok": true, "fix": ""},
+			{"q": "伞藻嫁接实验证明伞帽形状由细胞核决定", "ok": false, "fix": "只说明与假根有关，还需核移植实验"},
+			{"q": "DNA可以通过核孔进入细胞质", "ok": false, "fix": "核孔具有选择性，DNA不能出核"},
+			{"q": "染色质和染色体是两种不同的物质", "ok": false, "fix": "是同一物质在不同时期的两种状态"},
+			{"q": "拍摄的洋葱表皮细胞照片属于物理模型", "ok": false, "fix": "照片不是模型"}
+		],
+		"endTitle": [["细胞核的"], ["结构和功能", true]],
+		"endLine": "功能 · 实验 · 核膜 · 核孔 · 核仁 · 染色质 · 模型",
+		"slogan": "遗传信息库，代谢和遗传的控制中心！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Ernst Haeckel《Haeckel Acetabularia acetabulum》Public domain"
+}

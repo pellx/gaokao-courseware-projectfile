@@ -1,0 +1,38 @@
+{
+	"id": "BX2-13",
+	"title": "基因指导蛋白质的合成（上）：RNA与转录",
+	"subject": "biology",
+	"book": "人教版·必修2·第4章",
+	"points": ["RNA的组成和结构", "三种RNA的功能", "转录的概念与条件", "转录的过程", "转录与复制的比较", "转录的易错点"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["RNA 与"], ["转录", true]],
+		"subtitle": "基因指导蛋白质的合成（上） · mRNA · RNA 聚合酶",
+		"photo": "nirenberg.jpg",
+		"photoCaption": "尼伦伯格在实验室（破译遗传密码的科学家）",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["RNA 与"]], [["转录", true]]],
+		"kicker": "三种 RNA · 转录过程",
+		"photo": "nirenberg.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "基因的表达",
+		"credit": "NIH / N. MacVicar, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "RNA 一般是单链，含有核糖和碱基 U", "ok": true, "fix": ""},
+			{"q": "tRNA 只含有 3 个碱基", "ok": false, "fix": "tRNA 由许多核苷酸组成，一端的 3 个碱基构成反密码子"},
+			{"q": "转录以 DNA 的两条链为模板", "ok": false, "fix": "以 DNA 的一条链为模板"},
+			{"q": "转录需要解旋酶和 DNA 聚合酶", "ok": false, "fix": "需要 RNA 聚合酶（它兼有解旋作用）"},
+			{"q": "转录时碱基配对方式有 A—U", "ok": true, "fix": ""},
+			{"q": "一个 DNA 只能转录出一种 mRNA", "ok": false, "fix": "以基因为单位转录，可转录出多种 RNA"}
+		],
+		"endTitle": [["RNA 与"], ["转录", true]],
+		"endLine": "RNA 结构 · 三种 RNA · 转录条件 · 过程 · 与复制比较",
+		"slogan": "一条链作模板，A 配 U！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— N. MacVicar, National Institutes of Health《Marshall Nirenberg performing experiment》Public domain"
+}

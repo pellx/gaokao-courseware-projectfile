@@ -1,0 +1,38 @@
+{
+	"id": "BX2-21",
+	"title": "自然选择与适应的形成",
+	"subject": "biology",
+	"book": "人教版·必修2·第6章",
+	"points": ["适应的普遍与相对", "拉马克的进化学说", "达尔文自然选择学说", "适应的形成", "达尔文学说的评价", "变异在前选择在后"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["自然选择与"], ["适应的形成", true]],
+		"subtitle": "拉马克 · 达尔文 · 适应的相对性",
+		"photo": "darwin.jpg",
+		"photoCaption": "达尔文（1809—1882）",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["自然选择与"]], [["适应的形成", true]]],
+		"kicker": "拉马克 · 达尔文",
+		"photo": "darwin.jpg",
+		"photoPos": "center 25%",
+		"photoTag": "达尔文",
+		"credit": "Photo: Julia Margaret Cameron (1868), Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "适应具有普遍性，也具有相对性", "ok": true, "fix": ""},
+			{"q": "“长颈鹿的长颈是经常伸长脖子吃高处树叶的结果”是拉马克的观点", "ok": true, "fix": ""},
+			{"q": "达尔文认为环境使生物产生了适应性变异", "ok": false, "fix": "变异是不定向的，环境起选择作用"},
+			{"q": "达尔文科学地解释了遗传和变异的本质", "ok": false, "fix": "这是达尔文学说的局限性"},
+			{"q": "农药使害虫产生了抗药性突变", "ok": false, "fix": "抗药性变异原本就存在，农药只起选择作用"},
+			{"q": "自然选择直接作用于个体的表型", "ok": true, "fix": ""}
+		],
+		"endTitle": [["自然选择与"], ["适应的形成", true]],
+		"endLine": "适应的相对性 · 用进废退 · 自然选择 · 局限性",
+		"slogan": "变异在前，选择在后！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Julia Margaret Cameron《Charles Darwin, c. 1868》Public domain"
+}

@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|物质的分离与提纯。",
+		"seconds": 2.28
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题常问“操作 X 是什么”“如何得到晶体”“怎样检验洗净”，共八个考点。",
+		"seconds": 6.816
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分离提纯的原则：不增（不引入新杂质）、不减（不减少被提纯物质）、易分离、易复原。",
+		"seconds": 9.288
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|分离：把混合物中的各组分分开，都要得到；提纯：除去杂质，只要主要成分。",
+		"seconds": 7.872
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|选方法看性质差异：溶解性不同用过滤，溶解度随温度变化不同用结晶，沸点不同用蒸馏，在两种溶剂中溶解度不同用萃取。",
+		"seconds": 12.6
+	},
+	"pr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉色波点和草莓背景上站着五个女孩：分离就是把混在一起的大家一个一个分开。",
+		"seconds": 7.776
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先找出要分离的两种物质在哪个性质上差别最大，再选对应的方法。",
+		"seconds": 7.656
+	},
+	"fi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，过滤：分离不溶性固体和液体。",
+		"seconds": 4.344
+	},
+	"fi2": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：一贴（滤纸紧贴漏斗内壁）；二低（滤纸边缘低于漏斗边缘，液面低于滤纸边缘）；三靠（烧杯靠玻璃棒、玻璃棒靠三层滤纸、漏斗下端靠烧杯内壁）。",
+		"seconds": 14.976
+	},
+	"fi3": {
+		"key": "zh-CN-XiaoxiaoNeural|玻璃棒的作用：引流。滤液仍浑浊，可能是滤纸破损或液面高于滤纸边缘，要重新过滤。",
+		"seconds": 9.12
+	},
+	"fi4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：过滤时不能用玻璃棒搅拌漏斗中的液体，会弄破滤纸。",
+		"seconds": 6.24
+	},
+	"cr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，蒸发结晶：溶解度随温度变化不大的物质，比如氯化钠；蒸发皿中出现较多固体时停止加热，用余热蒸干。",
+		"seconds": 11.328
+	},
+	"cr2": {
+		"key": "zh-CN-XiaoxiaoNeural|冷却结晶：溶解度随温度变化大的物质，比如硝酸钾；还有含结晶水或受热易分解的物质，比如胆矾、绿矾、氯化铵。",
+		"seconds": 11.448
+	},
+	"cr3": {
+		"key": "zh-CN-XiaoxiaoNeural|标准答法：“蒸发浓缩、冷却结晶、过滤、洗涤、干燥”。",
+		"seconds": 6.096
+	},
+	"cr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩抱着吉他低头弹着：含结晶水的晶体不能蒸干，不然结晶水也跑了。",
+		"seconds": 7.296
+	},
+	"cr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氯化钠中混有少量硝酸钾，用蒸发结晶、趁热过滤；硝酸钾中混有少量氯化钠，用冷却结晶。",
+		"seconds": 10.368
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，萃取：萃取剂与原溶剂互不相溶，溶质在萃取剂中溶解度更大，且不反应。",
+		"seconds": 8.592
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：用四氯化碳萃取碘水中的碘：振荡、静置，下层紫红色；用苯萃取，上层紫红色。",
+		"seconds": 9.048
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|分液：打开上口塞子（或使凹槽对准小孔），下层液体从下口放出，上层液体从上口倒出。",
+		"seconds": 9.024
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：乙醇、乙酸与水互溶，不能作萃取剂；萃取后还要分液，萃取和分液是两步。",
+		"seconds": 8.52
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，蒸馏：分离沸点相差较大的互溶液体，如从海水中制取蒸馏水、分离乙醇和水（加生石灰后蒸馏）。",
+		"seconds": 10.656
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：温度计水银球在支管口处；冷凝水下进上出；加碎瓷片防暴沸；先通冷凝水再加热。",
+		"seconds": 9.768
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|分馏：多次蒸馏，按沸点范围分成几部分，如石油分馏，是物理变化。",
+		"seconds": 7.152
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：沸点相近的液体用蒸馏分不开；乙醇和水直接蒸馏得不到无水乙醇，要先加生石灰。",
+		"seconds": 9.12
+	},
+	"rc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，重结晶：利用溶解度随温度变化的差异，把含杂质的晶体溶解再结晶，提高纯度。",
+		"seconds": 9.24
+	},
+	"rc2": {
+		"key": "zh-CN-XiaoxiaoNeural|步骤：加热溶解，趁热过滤除不溶性杂质，冷却结晶，过滤，洗涤，干燥。",
+		"seconds": 8.04
+	},
+	"rc3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：提纯苯甲酸。冷却结晶时慢慢冷却得到的晶体颗粒大、纯度高。",
+		"seconds": 7.488
+	},
+	"rc3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发小女孩攥着双手站得笔直：重结晶就是溶开再长一次，把杂质留在母液里。",
+		"seconds": 7.704
+	},
+	"rc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：趁热过滤是为了防止被提纯物提前析出；不溶性杂质留在滤纸上，可溶性杂质留在母液里。",
+		"seconds": 9.6
+	},
+	"wa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，沉淀的洗涤，答题模板：沿玻璃棒向漏斗中加蒸馏水至浸没沉淀，待水自然流下，重复操作二到三次。",
+		"seconds": 11.28
+	},
+	"wa2": {
+		"key": "zh-CN-XiaoxiaoNeural|检验是否洗净：“取最后一次洗涤液少许于试管中，加入某试剂，若无某现象，则已洗净。”",
+		"seconds": 8.712
+	},
+	"wa3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：硫酸钡沉淀表面吸附氯离子，取最后一次洗涤液，加稀硝酸酸化的硝酸银溶液，无白色沉淀，说明已洗净。",
+		"seconds": 11.112
+	},
+	"wa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：洗涤时不能用玻璃棒搅拌；检验要取“最后一次”洗涤液，不是“滤液”。",
+		"seconds": 7.104
+	},
+	"im1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，常见物质的除杂。气体：二氧化碳中的氯化氢用饱和碳酸氢钠；氯气中的氯化氢用饱和食盐水；甲烷中的乙烯用溴水。",
+		"seconds": 12.768
+	},
+	"im2": {
+		"key": "zh-CN-XiaoxiaoNeural|溶液：氯化亚铁中的氯化铁加过量铁粉过滤；氯化铁中的氯化亚铁通氯气；碳酸氢钠中的碳酸钠通过量二氧化碳。",
+		"seconds": 11.4
+	},
+	"im3": {
+		"key": "zh-CN-XiaoxiaoNeural|有机物：乙酸乙酯中的乙酸用饱和碳酸钠溶液、分液；溴苯中的溴用氢氧化钠溶液、分液；乙醇中的水加生石灰、蒸馏。",
+		"seconds": 11.832
+	},
+	"im4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：除去乙酸乙酯中的乙酸不能用氢氧化钠溶液，酯会水解；除去苯中的苯酚不能用浓溴水，三溴苯酚溶于苯。",
+		"seconds": 10.776
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：过滤时可以搅拌？错。判断二：得到胆矾用蒸发浓缩、冷却结晶？对。",
+		"seconds": 9.552
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：用乙醇萃取碘水？错，乙醇和水互溶。判断四：冷凝水下进上出？对。",
+		"seconds": 9.792
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：检验洗净取滤液？错，取最后一次洗涤液。判断六：氢氧化钠除去乙酸乙酯中的乙酸？错，用饱和碳酸钠。",
+		"seconds": 12.312
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|不增不减，含水晶体冷却结晶，最后一次洗涤液验洗净。下一期：物质与离子的检验。",
+		"seconds": 8.76
+	}
+}

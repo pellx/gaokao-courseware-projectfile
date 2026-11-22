@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|物质的量浓度与溶液配制。",
+		"seconds": 2.976
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验题常考配制步骤和误差分析，大题的滴定和产率计算都要用到浓度，共七个考点。",
+		"seconds": 8.4
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，物质的量浓度：单位体积溶液里所含溶质的物质的量，浓度等于物质的量除以体积，单位摩尔每升。",
+		"seconds": 10.224
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|体积是溶液的体积，不是溶剂的体积：58.5克氯化钠溶于1升水，浓度不是1摩尔每升。",
+		"seconds": 8.856
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|溶液是均一的：从中取出任意体积，浓度不变，只是所含溶质的物质的量变了。",
+		"seconds": 7.56
+	},
+	"cc3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这位金发女孩端着一套茶具：从一壶茶里倒出一小杯，浓淡跟整壶一样。",
+		"seconds": 6.84
+	},
+	"cc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：用五水硫酸铜配溶液，溶质是硫酸铜，算物质的量时要用胆矾的摩尔质量250去除。",
+		"seconds": 9.264
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，浓度的换算。质量分数换成物质的量浓度：浓度等于一千乘密度乘质量分数，再除以摩尔质量，密度的单位是克每毫升。",
+		"seconds": 12.6
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：98%的浓硫酸，密度1.84克每毫升，浓度等于一千乘1.84乘98%再除以98，等于18.4摩尔每升。",
+		"seconds": 12.696
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|稀释前后溶质的物质的量不变：浓度一乘体积一等于浓度二乘体积二。",
+		"seconds": 6.792
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：浓溶液配稀溶液，先用稀释公式算出要量取的浓溶液体积，再用量筒量取。",
+		"seconds": 8.544
+	},
+	"to1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，配制所需仪器。核心是容量瓶：规格有100、250、500、1000毫升，瓶上标有温度、容积和刻度线。",
+		"seconds": 12.048
+	},
+	"to2": {
+		"key": "zh-CN-XiaoxiaoNeural|使用前要检查是否漏水；不能用来溶解、稀释、反应，不能加热，不能长期存放溶液。",
+		"seconds": 8.712
+	},
+	"to3": {
+		"key": "zh-CN-XiaoxiaoNeural|其他仪器：固体用托盘天平称量，液体用量筒量取；还有烧杯、玻璃棒、胶头滴管。",
+		"seconds": 8.52
+	},
+	"to4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：答仪器要写规格，“500毫升容量瓶”，只写“容量瓶”要扣分。",
+		"seconds": 6.672
+	},
+	"st1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，配制步骤：计算、称量、溶解、转移、洗涤、定容、摇匀。",
+		"seconds": 7.776
+	},
+	"st2": {
+		"key": "zh-CN-XiaoxiaoNeural|溶解后要冷却到室温再转移；转移时用玻璃棒引流。",
+		"seconds": 5.52
+	},
+	"st3": {
+		"key": "zh-CN-XiaoxiaoNeural|洗涤烧杯和玻璃棒 2 到 3 次，洗涤液也要转入容量瓶。",
+		"seconds": 5.568
+	},
+	"st4": {
+		"key": "zh-CN-XiaoxiaoNeural|定容：加水到离刻度线1到2厘米时，改用胶头滴管，滴到凹液面最低处与刻度线相切。",
+		"seconds": 8.928
+	},
+	"st4b": {
+		"key": "zh-CN-XiaoxiaoNeural|系着围裙端菜的女孩：配溶液就像照菜谱做菜，顺序不能乱，一步不能省。",
+		"seconds": 7.392
+	},
+	"st5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：要配480毫升，没有这个规格，选500毫升容量瓶，并且按500毫升计算溶质的量。",
+		"seconds": 9.048
+	},
+	"er1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，误差分析：抓住浓度等于物质的量除以体积，看操作让n变了还是V变了。",
+		"seconds": 8.496
+	},
+	"er2": {
+		"key": "zh-CN-XiaoxiaoNeural|使n偏小、浓度偏低：没有洗涤烧杯和玻璃棒，转移时溶液洒出。",
+		"seconds": 6.528
+	},
+	"er3": {
+		"key": "zh-CN-XiaoxiaoNeural|使 V 变化：定容时俯视刻度线，V 偏小，浓度偏高；仰视，V 偏大，浓度偏低；未冷却就定容，V 偏小，浓度偏高。",
+		"seconds": 12.168
+	},
+	"er3b": {
+		"key": "zh-CN-XiaoxiaoNeural|喝珍珠奶茶的粉发女孩：水加多了，奶茶就淡了；溶液也一样，V 偏大，浓度偏低。",
+		"seconds": 8.136
+	},
+	"er4": {
+		"key": "zh-CN-XiaoxiaoNeural|摇匀后液面低于刻度线又加水，V 偏大，浓度偏低；容量瓶没干燥，无影响。",
+		"seconds": 8.04
+	},
+	"er5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：每个操作只问一句：n和V谁变了、往哪变，再代入浓度等于n除以V。",
+		"seconds": 8.448
+	},
+	"ec1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，物质的量用于方程式计算：方程式的系数之比等于物质的量之比。",
+		"seconds": 7.2
+	},
+	"ec2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：5.6克铁与足量盐酸反应，铁是0.1摩尔，按铁与盐酸生成氯化亚铁和氢气，生成氢气0.1摩尔，标况下2.24升。",
+		"seconds": 13.008
+	},
+	"ec3": {
+		"key": "zh-CN-XiaoxiaoNeural|列比例时“上下单位一致，左右相当”：同一种物质上下单位相同，不同物质左右的量相对应。",
+		"seconds": 8.904
+	},
+	"ec4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“足量”“过量”说明另一种物质完全反应，要用不足量的那种物质来算。",
+		"seconds": 7.32
+	},
+	"no1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，计算的规范。大题计算按步骤写：设、写方程式、标出已知和未知、列比例、求解、作答。",
+		"seconds": 10.728
+	},
+	"no2": {
+		"key": "zh-CN-XiaoxiaoNeural|数值带单位代入，最后结果写单位；质量分数、产率写成百分数。",
+		"seconds": 7.08
+	},
+	"no3": {
+		"key": "zh-CN-XiaoxiaoNeural|题目给的是毫升，代入浓度公式前先换成升：25.00毫升就是0.02500升。",
+		"seconds": 8.64
+	},
+	"no4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：写出带字母的表达式，再代数；字母表达式往往就是得分点。",
+		"seconds": 7.368
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：58.5克氯化钠溶于1升水，浓度是1摩尔每升？错，溶液体积不是1升。判断二：取出10毫升，浓度变成十分之一？错，浓度不变。",
+		"seconds": 15.144
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：配480毫升溶液，选500毫升容量瓶并按500毫升计算？对。判断四：可以直接在容量瓶中溶解固体？错。",
+		"seconds": 13.128
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：定容时俯视刻度线，浓度偏高？对。判断六：容量瓶未干燥，浓度偏低？错，无影响。",
+		"seconds": 11.256
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|误差就看 n 和 V，俯视偏高仰视低。下一期：化学用语正误判断。",
+		"seconds": 6.96
+	}
+}

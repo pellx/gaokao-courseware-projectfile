@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修二第三章第二节——生态系统的能量流动，上集讲过程和特点。",
+		"seconds": 10.296
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考摄入量、同化量和粪便量的关系、能量去向的分析，以及单向流动、逐级递减的原因。",
+		"seconds": 9.288
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，能量流动的概念。生态系统中能量的输入、传递、转化和散失的过程，叫做能量流动。",
+		"seconds": 9.936
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|输入：流经生态系统的总能量，是生产者固定的太阳能总量；人工生态系统还要加上人工输入的有机物中的能量。",
+		"seconds": 10.728
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|传递：沿着食物链和食物网，以有机物中的化学能形式传递。",
+		"seconds": 5.952
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|转化：太阳能、化学能、热能；散失：最终以热能形式，通过呼吸作用散失。",
+		"seconds": 8.256
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：总能量是生产者固定的太阳能，不是照射到生产者上的太阳能，也不是生产者积累的能量。",
+		"seconds": 9.048
+	},
+	"l11": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，能量流经第一营养级。生产者通过光合作用，把太阳能固定在有机物中。",
+		"seconds": 8.304
+	},
+	"l12": {
+		"key": "zh-CN-XiaoxiaoNeural|这些能量，一部分在生产者的呼吸作用中以热能的形式散失。",
+		"seconds": 5.952
+	},
+	"l13": {
+		"key": "zh-CN-XiaoxiaoNeural|另一部分用于生产者的生长、发育和繁殖，储存在植物体的有机物中。",
+		"seconds": 6.576
+	},
+	"l14": {
+		"key": "zh-CN-XiaoxiaoNeural|这部分能量中，一部分随残枝败叶流向分解者，一部分被初级消费者摄入，流入第二营养级。",
+		"seconds": 8.856
+	},
+	"l15": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出能量流动图，让你填写各个箭头的含义。解题方法：每个营养级都按“固定或同化的能量，分成呼吸散失和用于生长发育繁殖”两部分拆开。",
+		"seconds": 14.256
+	},
+	"l21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，能量流经第二营养级。初级消费者吃进去的能量叫摄入量。",
+		"seconds": 7.08
+	},
+	"l22": {
+		"key": "zh-CN-XiaoxiaoNeural|摄入量等于同化量加粪便量。粪便中的能量没有被消化吸收，最终流向分解者。",
+		"seconds": 8.28
+	},
+	"l23": {
+		"key": "zh-CN-XiaoxiaoNeural|同化量才是真正流入第二营养级的能量，它又分为呼吸作用散失和用于生长、发育和繁殖两部分。",
+		"seconds": 9.312
+	},
+	"l24": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：初级消费者粪便中的能量，不属于初级消费者的同化量，而是属于上一营养级，也就是生产者同化的能量。",
+		"seconds": 10.728
+	},
+	"ft1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，同化量的去向。把每个营养级的能量拆开来看。",
+		"seconds": 5.928
+	},
+	"ft2": {
+		"key": "zh-CN-XiaoxiaoNeural|同化量等于呼吸作用散失的能量，加上用于生长、发育和繁殖的能量。",
+		"seconds": 6.792
+	},
+	"ft3": {
+		"key": "zh-CN-XiaoxiaoNeural|用于生长、发育和繁殖的能量，等于流入下一营养级的，加上流向分解者的，再加上未利用的。",
+		"seconds": 8.664
+	},
+	"ft4": {
+		"key": "zh-CN-XiaoxiaoNeural|所以，一定时间内，同化量的去向有四个：呼吸散失、流入下一营养级、流向分解者、未利用。",
+		"seconds": 9.48
+	},
+	"ft5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：最高营养级没有“流入下一营养级”这一项；“未利用”是指暂时没有被利用的能量，只在定时分析时出现。",
+		"seconds": 10.128
+	},
+	"lk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，赛达伯格湖的能量流动定量分析，这是美国生态学家林德曼的经典研究。",
+		"seconds": 7.872
+	},
+	"lk2": {
+		"key": "zh-CN-XiaoxiaoNeural|生产者固定的太阳能是464.6焦每平方厘米每年，植食性动物同化62.8，肉食性动物同化12.6。",
+		"seconds": 11.016
+	},
+	"lk3": {
+		"key": "zh-CN-XiaoxiaoNeural|传递效率：62.8除以464.6，约为百分之13.5；12.6除以62.8，约为百分之20。",
+		"seconds": 10.584
+	},
+	"lk4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：传递效率等于下一营养级同化量除以上一营养级同化量；分子分母都必须是同化量，不能用摄入量。",
+		"seconds": 10.68
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，能量流动的特点。第一，单向流动：只能沿食物链由低营养级流向高营养级，不可逆转，也不能循环流动。",
+		"seconds": 11.616
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：捕食关系是长期自然选择的结果，不可逆转；散失的热能不能再被生物利用。",
+		"seconds": 8.352
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，逐级递减：相邻两个营养级之间的传递效率大约是百分之10到百分之20。",
+		"seconds": 7.824
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：每个营养级都有能量在呼吸作用中散失，还有一部分流向分解者，一部分未被利用。",
+		"seconds": 8.616
+	},
+	"fe5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：传递效率是相邻两个营养级之间的，不是两个个体之间的；一只狼吃一只兔，可能获得兔的大部分能量。",
+		"seconds": 10.248
+	},
+	"py1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，生态金字塔。把各营养级的数值，由低到高绘制成图，就是生态金字塔。",
+		"seconds": 8.424
+	},
+	"py2": {
+		"key": "zh-CN-XiaoxiaoNeural|能量金字塔：由于能量逐级递减，通常都是上窄下宽的正金字塔。",
+		"seconds": 6.456
+	},
+	"py3": {
+		"key": "zh-CN-XiaoxiaoNeural|数量金字塔：可能倒置，比如一棵树上生活着成千上万只昆虫。",
+		"seconds": 6.312
+	},
+	"py4": {
+		"key": "zh-CN-XiaoxiaoNeural|生物量金字塔：一般是正的，但在海洋中，某一时刻浮游植物的生物量可能低于浮游动物，出现倒置。",
+		"seconds": 9.528
+	},
+	"py5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问哪种金字塔通常不会倒置——能量金字塔。数量和生物量金字塔都可能倒置。",
+		"seconds": 8.712
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：总能量是照到生产者上的太阳能？错，是生产者固定的太阳能总量。判断二：初级消费者粪便中的能量属于它的同化量？错，属于上一营养级。",
+		"seconds": 15.672
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：同化量等于呼吸散失加用于生长发育和繁殖？对。判断四：传递效率指相邻两个个体之间？错，指相邻两个营养级。",
+		"seconds": 13.8
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：能量金字塔通常不会倒置？对。判断六：能量可以循环利用？错，能量单向流动。",
+		"seconds": 10.368
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：摄入减粪便是同化，粪便算上一级。下集讲能量流动的计算和实践意义，我们下期再见！",
+		"seconds": 10.776
+	}
+}

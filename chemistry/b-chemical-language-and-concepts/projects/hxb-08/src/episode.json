@@ -1,0 +1,122 @@
+{
+	"id": "HXB-08",
+	"title": "物质的量浓度与溶液配制",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第8期 / 共12期",
+	"points": [
+		"物质的量浓度",
+		"浓度的换算",
+		"配制所需仪器",
+		"配制步骤",
+		"误差分析",
+		"方程式中的计算",
+		"计算的规范"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"物质的量浓度",
+				true
+			],
+			[
+				"与溶液配制"
+			]
+		],
+		"subtitle": "c = n/V · 容量瓶 · 误差分析",
+		"photo": "flask.jpg",
+		"photoCaption": "容量瓶：配制一定物质的量浓度溶液的专用仪器",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"物质的量浓度",
+					true
+				]
+			],
+			[
+				[
+					"与溶液配制"
+				]
+			]
+		],
+		"photo": "flask.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "容量瓶",
+		"credit": "Lucasbosch, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "58.5 g NaCl 溶于 1 L 水，所得溶液浓度为 1 mol/L",
+				"ok": false,
+				"fix": "溶液体积不是 1 L"
+			},
+			{
+				"q": "从 1 mol/L NaCl 溶液中取出 10 mL，浓度为 0.1 mol/L",
+				"ok": false,
+				"fix": "浓度仍为 1 mol/L"
+			},
+			{
+				"q": "配制 480 mL 溶液，选 500 mL 容量瓶并按 500 mL 计算",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "可以直接在容量瓶中溶解固体",
+				"ok": false,
+				"fix": "应在烧杯中溶解，冷却后转移"
+			},
+			{
+				"q": "定容时俯视刻度线，所配溶液浓度偏高",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "容量瓶洗净后未干燥，所配溶液浓度偏低",
+				"ok": false,
+				"fix": "无影响"
+			}
+		],
+		"endTitle": [
+			[
+				"物质的量浓度",
+				true
+			],
+			[
+				"与溶液配制"
+			]
+		],
+		"endLine": "c = n/V，误差只看 n 和 V",
+		"slogan": "误差就看 n 和 V，俯视偏高仰视低"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Lucasbosch《Brand volumetric flask 100ml》，CC BY-SA 3.0；插图来自 pixiv：カネコ、ハコニワ・ハルキ、Hariz Hakimi（侵删）",
+	"anime": [
+		{
+			"key": "tea",
+			"src": "tea.jpg",
+			"credit": "插图：カネコ《琴吹紬誕生日イラスト2019》pixiv #75520480",
+			"url": "https://www.pixiv.net/artworks/75520480"
+		},
+		{
+			"key": "apron",
+			"src": "apron.jpg",
+			"credit": "插图：ハコニワ・ハルキ《大室撫子-1》pixiv #112001460",
+			"url": "https://www.pixiv.net/artworks/112001460"
+		},
+		{
+			"key": "drink",
+			"src": "drink.jpg",
+			"credit": "插图：Hariz Hakimi《Hehehehehe》pixiv #102401124",
+			"url": "https://www.pixiv.net/artworks/102401124"
+		}
+	]
+}

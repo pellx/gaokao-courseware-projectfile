@@ -1,0 +1,98 @@
+{
+	"id": "XB3-04",
+	"title": "发酵工程及其应用",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第1章",
+	"points": [
+		"发酵工程的特点",
+		"发酵工程的环节",
+		"菌种的选育",
+		"发酵条件的控制",
+		"产品的分离提纯",
+		"啤酒的工业化生产",
+		"医药与农牧业应用"
+	],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [
+			[
+				"发酵工程"
+			],
+			[
+				"及其应用",
+				true
+			]
+		],
+		"subtitle": "菌种选育 · 发酵罐 · 分离提纯 · 单细胞蛋白",
+		"photo": "tanks.jpg",
+		"photoCaption": "工业化生产用的发酵罐",
+		"photoPos": "center 65%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [
+			[
+				[
+					"发酵工程"
+				]
+			],
+			[
+				[
+					"及其应用",
+					true
+				]
+			]
+		],
+		"kicker": "发酵罐 · 啤酒 · 单细胞蛋白",
+		"photo": "tanks.jpg",
+		"photoPos": "center 65%",
+		"photoTag": "发酵罐",
+		"credit": "Photo: EJ&EZ, CC BY 2.0"
+	},
+	"review": {
+		"items": [
+			{
+				"q": "发酵工程的中心环节是菌种选育",
+				"ok": false,
+				"fix": "中心环节是发酵罐内发酵"
+			},
+			{
+				"q": "性状优良的菌种可通过诱变育种获得",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "谷氨酸发酵在酸性条件下积累谷氨酸",
+				"ok": false,
+				"fix": "中性和弱碱性条件下积累谷氨酸"
+			},
+			{
+				"q": "产品是菌体时，可用过滤、沉淀分离",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "单细胞蛋白是从微生物中提取的蛋白质",
+				"ok": false,
+				"fix": "单细胞蛋白是微生物菌体本身"
+			},
+			{
+				"q": "苏云金杆菌可用来制作微生物农药",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"发酵工程"
+			],
+			[
+				"及其应用",
+				true
+			]
+		],
+		"endLine": "选育菌种 · 扩大培养 · 发酵罐 · 分离提纯 · 应用",
+		"slogan": "发酵罐是中心，条件控制是关键！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— EJ&EZ《Stainless steel fermentation tank》CC BY 2.0"
+}

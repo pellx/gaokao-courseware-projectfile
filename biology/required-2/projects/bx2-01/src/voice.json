@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第一章第一节的上半部分——一对相对性状的杂交实验。",
+		"seconds": 8.88
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考豌豆杂交的操作、对分离现象的解释、测交和假说—演绎法。",
+		"seconds": 6.84
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"pe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，豌豆作遗传材料的优点。第一，豌豆是自花传粉、闭花受粉的植物，自然状态下一般都是纯种。",
+		"seconds": 10.68
+	},
+	"pe2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，豌豆有许多易于区分的相对性状，比如高茎和矮茎，实验结果容易观察和分析。",
+		"seconds": 8.328
+	},
+	"pe3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，豌豆花比较大，便于人工操作；子代数量多，便于统计分析。",
+		"seconds": 6.936
+	},
+	"pe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：闭花受粉是指花还没开放就已经完成受粉，所以人工杂交必须在花蕾期去雄。",
+		"seconds": 8.784
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，人工异花传粉。提供花粉的植株叫父本，接受花粉的植株叫母本。",
+		"seconds": 7.752
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步去雄：在花蕾期，除去母本花的全部雄蕊。第二步套袋，防止外来花粉干扰。",
+		"seconds": 8.232
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步人工授粉：采集父本的花粉，涂在去雄花的雌蕊柱头上。第四步再套袋。",
+		"seconds": 7.92
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问步骤顺序和目的。易错：去雄要在花粉成熟前、要彻底；两次套袋的目的都是避免外来花粉的干扰。",
+		"seconds": 11.184
+	},
+	"te1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，几个基本概念。相对性状，是一种生物的同一种性状的不同表现类型。",
+		"seconds": 7.848
+	},
+	"te2": {
+		"key": "zh-CN-XiaoxiaoNeural|杂种子一代显现出来的性状叫显性性状，没有显现出来的叫隐性性状。",
+		"seconds": 7.032
+	},
+	"te3": {
+		"key": "zh-CN-XiaoxiaoNeural|杂种后代中同时出现显性性状和隐性性状的现象，叫性状分离。",
+		"seconds": 6.72
+	},
+	"te4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断相对性状抓三个关键词——同种生物、同一性状、不同表现。狗的长毛和兔的短毛就不是。",
+		"seconds": 10.824
+	},
+	"cr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，一对相对性状的杂交实验。纯种高茎和纯种矮茎杂交，F1 全是高茎。",
+		"seconds": 8.736
+	},
+	"cr2": {
+		"key": "zh-CN-XiaoxiaoNeural|F1 自交，F2 中既有高茎又有矮茎，787 株对 277 株，数量比接近 3比1。",
+		"seconds": 9.24
+	},
+	"cr3": {
+		"key": "zh-CN-XiaoxiaoNeural|无论高茎作母本还是作父本，也就是正交和反交，结果都一样。",
+		"seconds": 6.264
+	},
+	"cr4": {
+		"key": "zh-CN-XiaoxiaoNeural|孟德尔研究的其他六对相对性状，F2 也都接近 3比1。",
+		"seconds": 5.616
+	},
+	"cr5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：F1 只表现显性性状，F2 出现性状分离，比例 3比1；3比1 是大量统计的结果，株数少时不一定符合。",
+		"seconds": 11.568
+	},
+	"ex1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，孟德尔对分离现象的解释，一共四点。第一，生物的性状是由遗传因子决定的：显性用大写字母、隐性用小写字母表示。",
+		"seconds": 12.864
+	},
+	"ex2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，在体细胞中，遗传因子是成对存在的。纯种高茎是 大D大D，纯种矮茎是 小d小d，F1 是 大D小d。",
+		"seconds": 12.168
+	},
+	"ex3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，形成配子时，成对的遗传因子彼此分离，分别进入不同的配子中，配子只含每对中的一个。",
+		"seconds": 9.312
+	},
+	"ex4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四，受精时，雌雄配子的结合是随机的。所以 F2 是 大D大D∶大D小d∶小d小d等于1比2比1，高茎∶矮茎等于3比1。",
+		"seconds": 13.248
+	},
+	"ex5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：F1 产生的雌配子和雄配子数量并不相等，雄配子远多于雌配子；相等的是大D和小d两种配子的比例，1比1。",
+		"seconds": 11.832
+	},
+	"si1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，性状分离比的模拟实验。两个小桶分别代表雌、雄生殖器官，桶里的彩球代表雌、雄配子。",
+		"seconds": 10.704
+	},
+	"si2": {
+		"key": "zh-CN-XiaoxiaoNeural|从两个桶里各随机抓取一个彩球组合在一起，模拟雌雄配子的随机结合。",
+		"seconds": 6.96
+	},
+	"si3": {
+		"key": "zh-CN-XiaoxiaoNeural|每次抓取后要放回原来的小桶并摇匀，重复多次，统计组合的比例。",
+		"seconds": 6.792
+	},
+	"si4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：每个桶内两种彩球数量必须相等；但两个桶的彩球总数可以不同，因为雄配子比雌配子多。",
+		"seconds": 9.432
+	},
+	"tc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，测交实验。测交就是让 F1 与隐性纯合子杂交，也就是 大D小d 乘 小d小d。",
+		"seconds": 9.864
+	},
+	"tc2": {
+		"key": "zh-CN-XiaoxiaoNeural|隐性纯合子只产生一种配子小d，所以后代的表型和比例，直接反映了 F1 产生的配子种类和比例。",
+		"seconds": 9.84
+	},
+	"tc3": {
+		"key": "zh-CN-XiaoxiaoNeural|预期高茎∶矮茎等于1比1；实际得到 87 株高茎、79 株矮茎，接近 1比1，证明解释是正确的。",
+		"seconds": 9.912
+	},
+	"tc4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：测交能检验 F1 的遗传因子组成，也能检验 F1 产生的配子类型和比例，不能证明雌雄配子数量相等。",
+		"seconds": 10.728
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，假说—演绎法。第一步，在观察和分析的基础上提出问题：F2 为什么出现 3比1？",
+		"seconds": 9.096
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，通过推理和想象提出假说，就是刚才的四点解释。",
+		"seconds": 5.784
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，演绎推理：如果假说正确，测交后代应该是 1比1。第四步，实验检验：真的去做测交。",
+		"seconds": 10.056
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|第五步，实验结果和预期相符，得出结论：分离定律。",
+		"seconds": 5.616
+	},
+	"me5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“演绎推理”是设计测交实验并预测结果，是纸上推理；真正做测交属于实验检验。",
+		"seconds": 8.904
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？对。判断二？错，应在花蕾期去雄。",
+		"seconds": 6.216
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，雄配子远多于雌配子，大D和小d的比例才是1比1。",
+		"seconds": 9.72
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，两个桶的总数可以不同。判断六？错，演绎推理是设计并预测，做实验是检验。",
+		"seconds": 10.464
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：记住 3比1 和 1比1，分清“演绎”和“检验”。我们下期再见！",
+		"seconds": 8.064
+	}
+}

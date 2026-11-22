@@ -1,0 +1,38 @@
+{
+	"id": "XB2-12",
+	"title": "生态系统的稳定性",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第3章",
+	"points": ["生态平衡与负反馈", "自我调节能力", "抵抗力与恢复力", "两种稳定性的关系", "提高稳定性的措施", "设计制作生态缸"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["生态系统的"], ["稳定性", true]],
+		"subtitle": "生态平衡 · 抵抗力 · 恢复力",
+		"photo": "terrarium.jpg",
+		"photoCaption": "密封的玻璃生态瓶",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生态系统的"]], [["稳定性", true]]],
+		"kicker": "抵抗力 · 恢复力 · 生态缸",
+		"photo": "terrarium.jpg",
+		"photoPos": "center 70%",
+		"photoTag": "玻璃生态瓶",
+		"credit": "Photo: Plantlover93, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "负反馈调节是自我调节能力的基础", "ok": true, "fix": ""},
+			{"q": "生态系统的自我调节能力是无限的", "ok": false, "fix": "是有一定限度的"},
+			{"q": "热带雨林的抵抗力稳定性比草原高", "ok": true, "fix": ""},
+			{"q": "抵抗力稳定性低，恢复力稳定性一定高", "ok": false, "fix": "冻原、荒漠两者都低"},
+			{"q": "生态缸应放在阳光直射的地方", "ok": false, "fix": "放在散射光下，避免阳光直射"},
+			{"q": "生态缸中投放的动物不宜过多", "ok": true, "fix": ""}
+		],
+		"endTitle": [["生态系统的"], ["稳定性", true]],
+		"endLine": "生态平衡 · 负反馈 · 抵抗力稳定性 · 恢复力稳定性 · 生态缸",
+		"slogan": "结构越复杂越抗扰，冻原荒漠两头低！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Plantlover93《Terrarium by plantlover93》CC BY-SA 4.0"
+}

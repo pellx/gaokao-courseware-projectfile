@@ -1,0 +1,38 @@
+{
+	"id": "XB3-02",
+	"title": "微生物的培养技术（上）：微生物的纯培养",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第1章",
+	"points": ["培养基的成分", "培养基的类型", "消毒与灭菌", "常用灭菌方法", "纯培养的步骤", "倒平板", "平板划线法", "酵母菌的纯培养"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["微生物的"], ["纯培养", true]],
+		"subtitle": "微生物的培养技术（上） · 培养基 · 无菌技术 · 平板划线",
+		"photo": "plate.jpg",
+		"photoCaption": "平板划线法得到的酵母菌菌落",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["微生物的"]], [["纯培养", true]]],
+		"kicker": "培养基 · 灭菌 · 平板划线",
+		"photo": "plate.jpg",
+		"photoPos": "center 55%",
+		"photoTag": "平板划线",
+		"credit": "Photo: Awkwafaba, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "培养基中都必须含有机碳源", "ok": false, "fix": "自养微生物的培养基可不含有机碳源"},
+			{"q": "琼脂是凝固剂，一般不能被微生物利用", "ok": true, "fix": ""},
+			{"q": "消毒能杀死物体内外所有微生物", "ok": false, "fix": "那是灭菌；消毒只杀死部分微生物"},
+			{"q": "培养基常用高压蒸汽灭菌", "ok": true, "fix": ""},
+			{"q": "平板划线时只在开始前灼烧接种环", "ok": false, "fix": "每次划线前后都要灼烧"},
+			{"q": "平板倒置可防止冷凝水滴落造成污染", "ok": true, "fix": ""}
+		],
+		"endTitle": [["微生物的"], ["纯培养", true]],
+		"endLine": "培养基 · 消毒与灭菌 · 倒平板 · 平板划线",
+		"slogan": "无菌贯穿始终，灼烧前后都要做！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Awkwafaba《Phaffia rhodozyma on PDA plate 01》CC BY-SA 4.0"
+}

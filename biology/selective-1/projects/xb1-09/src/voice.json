@@ -1,0 +1,306 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课一轮复习人教版选择性必修一第三章第一节——激素与内分泌系统。",
+		"seconds": 8.616
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一节高考常考三类题：激素发现的实验分析、腺体与激素的对应，以及激素的作用与特点。",
+		"seconds": 8.856
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按九个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，促胰液素的发现。",
+		"seconds": 2.976
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|19世纪，人们普遍认为：胃酸刺激小肠的神经，神经把兴奋传给胰腺，胰腺分泌胰液。",
+		"seconds": 8.688
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|沃泰默做了三组实验：稀盐酸注入小肠肠腔，胰腺分泌胰液；稀盐酸直接注入血液，不分泌；",
+		"seconds": 9.168
+	},
+	"se4": {
+		"key": "zh-CN-XiaoxiaoNeural|切除通向这段小肠的神经，只留血管，再把稀盐酸注入小肠，仍然分泌。",
+		"seconds": 7.104
+	},
+	"se5": {
+		"key": "zh-CN-XiaoxiaoNeural|但沃泰默固执地认为，这是小肠上的神经没有剔除干净，是一个“顽固的神经反射”。",
+		"seconds": 7.464
+	},
+	"se6": {
+		"key": "zh-CN-XiaoxiaoNeural|斯他林和贝利斯大胆假设：这是化学调节。他们剪下小肠，刮下黏膜，与稀盐酸混合磨碎制成提取液，",
+		"seconds": 10.464
+	},
+	"se7": {
+		"key": "zh-CN-XiaoxiaoNeural|注射到同一条狗的静脉中，胰腺分泌了胰液。这种物质叫促胰液素，是人们发现的第一种激素。",
+		"seconds": 8.568
+	},
+	"se8": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：常考实验对照的含义。第一组和第二组对照，说明胰液分泌不是盐酸直接作用于胰腺；",
+		"seconds": 9.216
+	},
+	"se9": {
+		"key": "zh-CN-XiaoxiaoNeural|刮下黏膜再磨碎，目的是彻底排除神经调节的干扰。",
+		"seconds": 5.448
+	},
+	"se10": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：促胰液素由小肠黏膜分泌，作用于胰腺；而胰液是消化液，经导管排出，不是激素。",
+		"seconds": 9.24
+	},
+	"is1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，胰岛素的发现。",
+		"seconds": 2.736
+	},
+	"is2": {
+		"key": "zh-CN-XiaoxiaoNeural|胰腺包括两部分：外分泌部分泌胰液，含胰蛋白酶；内分泌部就是胰岛。",
+		"seconds": 7.104
+	},
+	"is3": {
+		"key": "zh-CN-XiaoxiaoNeural|科学家发现，切除胰腺的狗会患糖尿病，推测胰腺中有一种降血糖的物质。",
+		"seconds": 7.416
+	},
+	"is4": {
+		"key": "zh-CN-XiaoxiaoNeural|可是把胰腺直接研磨制成提取液，注射给糖尿病狗，却收效甚微。",
+		"seconds": 6.528
+	},
+	"is5": {
+		"key": "zh-CN-XiaoxiaoNeural|班廷想到：结扎胰管，让外分泌部萎缩，只剩下胰岛，再用它制备提取液，",
+		"seconds": 7.464
+	},
+	"is6": {
+		"key": "zh-CN-XiaoxiaoNeural|注射给糖尿病狗，血糖迅速下降。这种物质就是胰岛素。",
+		"seconds": 6.168
+	},
+	"is7": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：为什么直接研磨胰腺提取不到胰岛素？因为胰岛素是蛋白质，会被胰液中的胰蛋白酶分解。",
+		"seconds": 9.48
+	},
+	"is8": {
+		"key": "zh-CN-XiaoxiaoNeural|结扎胰管，就是为了让外分泌部萎缩，避免胰岛素被分解。",
+		"seconds": 5.688
+	},
+	"is9": {
+		"key": "zh-CN-XiaoxiaoNeural|另外，切除胰腺属于减法原理，注射胰岛提取液属于加法原理。",
+		"seconds": 6.336
+	},
+	"ts1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，睾丸分泌雄激素的研究，以及实验中的加法原理和减法原理。",
+		"seconds": 6.912
+	},
+	"ts2": {
+		"key": "zh-CN-XiaoxiaoNeural|1849年，科学家摘除公鸡的睾丸，公鸡的雄性性征明显消失，比如鸡冠萎缩、不再鸣啼求偶。",
+		"seconds": 9.312
+	},
+	"ts3": {
+		"key": "zh-CN-XiaoxiaoNeural|把睾丸重新移植回去，公鸡的雄性特征又逐步恢复。后来科学家从睾丸中提取出了睾酮，也就是雄激素。",
+		"seconds": 10.224
+	},
+	"ts4": {
+		"key": "zh-CN-XiaoxiaoNeural|与常态相比，人为去除某种影响因素，叫减法原理，比如摘除睾丸；",
+		"seconds": 6.864
+	},
+	"ts5": {
+		"key": "zh-CN-XiaoxiaoNeural|人为增加某种影响因素，叫加法原理，比如移植睾丸、注射激素。",
+		"seconds": 6.624
+	},
+	"ts6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断实验用了哪种原理。还要会跨章节迁移：艾弗里实验中，用DNA酶处理提取物，也是减法原理。",
+		"seconds": 10.728
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，研究激素功能的常用方法和对照设计，这是实验大题的高频考点。",
+		"seconds": 7.344
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|常用方法有四种：摘除法、移植法、注射法和饲喂法。",
+		"seconds": 5.712
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|注意，饲喂法只适用于不会被消化的激素，比如用含甲状腺激素的饲料喂蝌蚪，它会提前变成小青蛙。",
+		"seconds": 9.72
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|对照组怎么设？摘除实验的对照组要做假手术，即做相同手术但不摘除，排除手术本身的影响。",
+		"seconds": 9.888
+	},
+	"me5": {
+		"key": "zh-CN-XiaoxiaoNeural|注射实验的对照组，注射等量的生理盐水或溶剂。",
+		"seconds": 4.92
+	},
+	"me6": {
+		"key": "zh-CN-XiaoxiaoNeural|来看例题：探究甲状腺激素对小鼠代谢的影响。甲组切除甲状腺，乙组应如何处理？测什么指标？",
+		"seconds": 10.488
+	},
+	"me7": {
+		"key": "zh-CN-XiaoxiaoNeural|乙组：做手术但不切除甲状腺。指标：耗氧量。预期甲组耗氧量低于乙组。",
+		"seconds": 8.712
+	},
+	"me8": {
+		"key": "zh-CN-XiaoxiaoNeural|若要进一步证明是甲状腺激素的作用，可以给甲组注射甲状腺激素，耗氧量恢复。这就是“先减后加”。",
+		"seconds": 9.768
+	},
+	"gl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，内分泌系统的组成。它由内分泌腺和分散在一些器官中的内分泌细胞组成。",
+		"seconds": 8.544
+	},
+	"gl2": {
+		"key": "zh-CN-XiaoxiaoNeural|下丘脑：分泌多种促激素释放激素，如促甲状腺激素释放激素；还合成抗利尿激素，由垂体释放。",
+		"seconds": 10.08
+	},
+	"gl3": {
+		"key": "zh-CN-XiaoxiaoNeural|垂体：分泌生长激素，以及促甲状腺激素、促性腺激素、促肾上腺皮质激素等促激素。",
+		"seconds": 9
+	},
+	"gl4": {
+		"key": "zh-CN-XiaoxiaoNeural|甲状腺：分泌甲状腺激素，合成需要碘。",
+		"seconds": 4.512
+	},
+	"gl5": {
+		"key": "zh-CN-XiaoxiaoNeural|肾上腺：皮质分泌醛固酮、皮质醇，髓质分泌肾上腺素。",
+		"seconds": 6.36
+	},
+	"gl6": {
+		"key": "zh-CN-XiaoxiaoNeural|胰岛：A细胞分泌胰高血糖素，B细胞分泌胰岛素。",
+		"seconds": 5.256
+	},
+	"gl7": {
+		"key": "zh-CN-XiaoxiaoNeural|性腺：睾丸分泌雄激素，卵巢分泌雌激素和孕激素。",
+		"seconds": 5.688
+	},
+	"gl8": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：腺体与激素的对应是基础送分题。易错：抗利尿激素由下丘脑合成、垂体释放，不是垂体合成的。",
+		"seconds": 11.016
+	},
+	"fn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，主要激素的功能，以及激素之间的相互作用。",
+		"seconds": 5.064
+	},
+	"fn2": {
+		"key": "zh-CN-XiaoxiaoNeural|甲状腺激素：调节有机物代谢，促进生长和发育，提高神经系统的兴奋性。",
+		"seconds": 7.584
+	},
+	"fn3": {
+		"key": "zh-CN-XiaoxiaoNeural|生长激素：调节生长发育，促进蛋白质合成和骨的生长。",
+		"seconds": 6.288
+	},
+	"fn4": {
+		"key": "zh-CN-XiaoxiaoNeural|胰岛素是唯一能降低血糖的激素；胰高血糖素和肾上腺素能升高血糖。",
+		"seconds": 7.2
+	},
+	"fn5": {
+		"key": "zh-CN-XiaoxiaoNeural|肾上腺素还能提高机体的应激能力；性激素促进生殖器官发育和生殖细胞形成，维持第二性征。",
+		"seconds": 9.624
+	},
+	"fn6": {
+		"key": "zh-CN-XiaoxiaoNeural|激素之间的关系：作用效果相同，叫协同作用，比如生长激素和甲状腺激素都促进生长发育；",
+		"seconds": 9.168
+	},
+	"fn7": {
+		"key": "zh-CN-XiaoxiaoNeural|作用效果相反，叫相抗衡，比如胰岛素和胰高血糖素。",
+		"seconds": 5.544
+	},
+	"fn8": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：选择题常把激素和功能打乱配对。记住降血糖只有胰岛素，和促进发育、提高兴奋性的是甲状腺激素。",
+		"seconds": 11.256
+	},
+	"na1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，激素的化学本质，它决定了激素能不能口服。",
+		"seconds": 5.616
+	},
+	"na2": {
+		"key": "zh-CN-XiaoxiaoNeural|蛋白质和多肽类：下丘脑和垂体分泌的激素、胰岛素、胰高血糖素、促胰液素。",
+		"seconds": 7.92
+	},
+	"na3": {
+		"key": "zh-CN-XiaoxiaoNeural|氨基酸衍生物：甲状腺激素和肾上腺素。",
+		"seconds": 4.656
+	},
+	"na4": {
+		"key": "zh-CN-XiaoxiaoNeural|类固醇：性激素、醛固酮、皮质醇。",
+		"seconds": 4.224
+	},
+	"na5": {
+		"key": "zh-CN-XiaoxiaoNeural|蛋白质类激素口服会被消化酶分解，所以只能注射，不能口服；另外两类既可注射也可口服。",
+		"seconds": 9.12
+	},
+	"na6": {
+		"key": "zh-CN-XiaoxiaoNeural|拓展：蛋白质类激素不能进入细胞，受体在细胞膜上；性激素是脂溶性的，受体在细胞内。",
+		"seconds": 9.096
+	},
+	"na7": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：糖尿病人为什么注射而不口服胰岛素？答：胰岛素是蛋白质，口服会在消化道中被分解而失效。",
+		"seconds": 10.608
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，激素分泌异常与疾病。",
+		"seconds": 3.432
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|幼年生长激素不足，患侏儒症，身材矮小但智力正常；幼年甲状腺激素不足，患呆小症，身材矮小且智力低下。",
+		"seconds": 11.352
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|幼年生长激素过多，患巨人症；成年后过多，患肢端肥大症。",
+		"seconds": 6.168
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|甲状腺激素过多，患甲亢，表现为消瘦、易激动；缺碘导致地方性甲状腺肿，俗称大脖子病。",
+		"seconds": 9.336
+	},
+	"di5": {
+		"key": "zh-CN-XiaoxiaoNeural|胰岛B细胞受损，胰岛素分泌不足，导致糖尿病。",
+		"seconds": 5.112
+	},
+	"di6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：侏儒症和呆小症的区别，关键看智力；病因要分清是幼年还是成年。",
+		"seconds": 7.68
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，激素调节的四个特点。",
+		"seconds": 3.336
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一，通过体液运输。激素弥散到体液中，随血液流到全身。",
+		"seconds": 6.48
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，作用于靶器官、靶细胞，因为只有靶细胞上有相应的特异性受体。",
+		"seconds": 6.888
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，作为信使传递信息。激素一经靶细胞接受并起作用后就失活了，所以需要源源不断地产生。",
+		"seconds": 9.528
+	},
+	"fe5": {
+		"key": "zh-CN-XiaoxiaoNeural|第四，微量和高效。血液中激素含量很低，作用却很显著。",
+		"seconds": 6.48
+	},
+	"fe6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：激素随血液运输到全身各处，不是只运输到靶细胞；激素不组成细胞结构、不提供能量、不起催化作用。",
+		"seconds": 10.8
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|促胰液素由胰腺分泌？错，由小肠黏膜分泌。胰液属于激素？错，胰液是消化液。",
+		"seconds": 9.456
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|摘除睾丸利用了减法原理？对。胰岛素可以口服？错，它是蛋白质，只能注射。",
+		"seconds": 9.168
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|幼年缺乏甲状腺激素会患侏儒症？错，是呆小症。激素只运输到靶细胞？错，运输到全身，只作用于靶细胞。",
+		"seconds": 11.832
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|九个考点串成一条线：发现史、研究方法、腺体与激素、功能、本质、疾病与特点。把实验逻辑练熟，这一节稳稳拿分！",
+		"seconds": 12.096
+	}
+}

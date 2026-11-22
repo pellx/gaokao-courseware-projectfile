@@ -1,0 +1,38 @@
+{
+	"id": "XB2-11",
+	"title": "生态系统的信息传递",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第3章",
+	"points": ["信息的种类", "信息种类的判断", "信息传递的过程", "信息传递的作用", "在农业生产中的应用", "三大功能的比较"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["生态系统的"], ["信息传递", true]],
+		"subtitle": "物理信息 · 化学信息 · 行为信息",
+		"photo": "bee.jpg",
+		"photoCaption": "蜜蜂与花：信息传递无处不在",
+		"photoPos": "55% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生态系统的"]], [["信息传递", true]]],
+		"kicker": "物理 · 化学 · 行为信息",
+		"photo": "bee.jpg",
+		"photoPos": "55% center",
+		"photoTag": "向日葵上的蜜蜂",
+		"credit": "Photo: Mustang Joe, CC0"
+	},
+	"review": {
+		"items": [
+			{"q": "蜜蜂跳舞属于物理信息", "ok": false, "fix": "属于行为信息"},
+			{"q": "萤火虫发光属于物理信息", "ok": true, "fix": ""},
+			{"q": "信息只能在生物与生物之间传递", "ok": false, "fix": "也可来自非生物环境"},
+			{"q": "用性引诱剂诱杀害虫属于化学防治", "ok": false, "fix": "属于生物防治"},
+			{"q": "信息传递能调节生物的种间关系", "ok": true, "fix": ""},
+			{"q": "生物之间的信息传递往往是双向的", "ok": true, "fix": ""}
+		],
+		"endTitle": [["生态系统的"], ["信息传递", true]],
+		"endLine": "信息种类 · 传递过程 · 三大作用 · 农业应用 · 三大功能",
+		"slogan": "看载体定种类，看对象定作用！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Mustang Joe《Honeybee on sunflower》CC0"
+}

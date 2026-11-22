@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第二章第一节的下半部分——植物细胞工程的应用。",
+		"seconds": 9.024
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考脱毒苗与抗毒苗的区别、单倍体育种的流程，以及细胞产物工厂化生产。",
+		"seconds": 7.944
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"ra1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，快速繁殖，也叫微型繁殖。它是用于快速繁殖优良品种的植物组织培养技术。",
+		"seconds": 8.64
+	},
+	"ra2": {
+		"key": "zh-CN-XiaoxiaoNeural|优点一：属于无性繁殖，能保持优良品种的遗传特性。",
+		"seconds": 5.496
+	},
+	"ra3": {
+		"key": "zh-CN-XiaoxiaoNeural|优点二：高效、快速地实现种苗的大量繁殖，而且不受季节和气候的限制。",
+		"seconds": 7.368
+	},
+	"ra4": {
+		"key": "zh-CN-XiaoxiaoNeural|常用于优良的观赏植物、经济林木、无性繁殖作物和濒危植物的繁殖。",
+		"seconds": 6.888
+	},
+	"ra5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问快速繁殖的优点。解题方法：答“保持优良品种的遗传特性，高效快速地大量繁殖”。",
+		"seconds": 9.336
+	},
+	"vr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，作物脱毒。马铃薯、草莓、香蕉等无性繁殖的作物，感染的病毒会逐代积累，导致产量降低、品质变差。",
+		"seconds": 11.64
+	},
+	"vr2": {
+		"key": "zh-CN-XiaoxiaoNeural|植物顶端分生区附近，比如茎尖，病毒极少，甚至没有病毒。",
+		"seconds": 6.024
+	},
+	"vr3": {
+		"key": "zh-CN-XiaoxiaoNeural|切取一定大小的茎尖进行组织培养，再生的植株就可能不带病毒，这就是脱毒苗。",
+		"seconds": 7.968
+	},
+	"vr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：脱毒不等于抗毒。脱毒苗只是不含病毒，种下去仍可能被感染；抗病毒植株要靠基因工程导入抗病毒基因。",
+		"seconds": 11.784
+	},
+	"ha1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，单倍体育种。先进行花药离体培养，得到单倍体植株。",
+		"seconds": 6.816
+	},
+	"ha2": {
+		"key": "zh-CN-XiaoxiaoNeural|再用秋水仙素处理单倍体幼苗，使染色体数目加倍，得到纯合的二倍体，最后从中选育新品种。",
+		"seconds": 9.384
+	},
+	"ha3": {
+		"key": "zh-CN-XiaoxiaoNeural|它的优点是：后代都是纯合子，能明显缩短育种年限。",
+		"seconds": 5.496
+	},
+	"ha4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：花药离体培养得到的只是单倍体，一般高度不育，必须再用秋水仙素处理，才能得到可育的纯合植株。",
+		"seconds": 10.68
+	},
+	"mu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，突变体的利用。在组织培养过程中，培养细胞一直处于不断增殖的状态。",
+		"seconds": 8.184
+	},
+	"mu2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以它们容易受到培养条件和诱变因素，比如射线、化学物质的影响，产生突变。",
+		"seconds": 7.776
+	},
+	"mu3": {
+		"key": "zh-CN-XiaoxiaoNeural|从中筛选出对人们有用的突变体，培育成新品种，比如抗花叶病的甘蔗、抗盐碱的野生烟草。",
+		"seconds": 8.88
+	},
+	"mu4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：为什么选愈伤组织进行诱变？解题方法：答“细胞分裂旺盛，DNA复制时容易发生突变”；突变不定向，所以还要筛选。",
+		"seconds": 12.504
+	},
+	"pd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，细胞产物的工厂化生产。很多植物产物属于次生代谢物，比如酚类、萜类和含氮化合物。",
+		"seconds": 9.936
+	},
+	"pd2": {
+		"key": "zh-CN-XiaoxiaoNeural|次生代谢物不是植物基本生命活动所必需的，含量往往很低。",
+		"seconds": 5.928
+	},
+	"pd3": {
+		"key": "zh-CN-XiaoxiaoNeural|例如从红豆杉中提取的紫杉醇，是一种抗肿瘤药物。",
+		"seconds": 5.136
+	},
+	"pd4": {
+		"key": "zh-CN-XiaoxiaoNeural|利用植物细胞培养，在离体条件下让细胞增殖，就能大量生产，而且不占用耕地，几乎不受季节、天气限制。",
+		"seconds": 10.464
+	},
+	"pd5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：细胞产物的生产不需要培养成完整植株，一般培养到细胞或愈伤组织阶段就可以提取。",
+		"seconds": 8.808
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，各种应用的比较。快速繁殖和作物脱毒，都要培养成完整植株，属于无性繁殖。",
+		"seconds": 8.88
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|单倍体育种从花药开始培养，还要秋水仙素处理，也要得到完整植株。",
+		"seconds": 6.816
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|突变体利用在愈伤组织阶段诱变、筛选，最后也要培育成植株。",
+		"seconds": 6.36
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|只有细胞产物的工厂化生产，培养到细胞阶段就停止，不需要再分化。",
+		"seconds": 6.504
+	},
+	"cm5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看目的——要新植株，就必须经过再分化；要细胞产物，停在细胞阶段就行。",
+		"seconds": 8.448
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：快速繁殖能保持优良品种的遗传特性？对。判断二：脱毒苗具有抗病毒能力？错，脱毒不等于抗毒。",
+		"seconds": 12.264
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：花药离体培养得到的植株一般是纯合子？错，得到的是单倍体。判断四：愈伤组织细胞分裂旺盛，容易突变？对。",
+		"seconds": 13.272
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：生产紫杉醇要把细胞培养成完整植株？错，培养到细胞阶段即可。判断六：次生代谢物不是植物生长所必需的？对。",
+		"seconds": 13.584
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：要植株就再分化，要产物停在细胞。我们下期再见！",
+		"seconds": 7.536
+	}
+}

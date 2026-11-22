@@ -1,0 +1,38 @@
+{
+	"id": "XB3-09",
+	"title": "动物细胞工程（三）：核移植技术与克隆动物",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第2章",
+	"points": ["核移植的概念", "体细胞核移植过程", "为何用MⅡ卵母细胞", "遗传物质的来源", "核移植的应用", "与供体不同的原因"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["核移植与"], ["克隆动物", true]],
+		"subtitle": "动物细胞工程（三） · 重构胚 · 克隆羊多莉",
+		"photo": "dolly.jpg",
+		"photoCaption": "第一只体细胞克隆哺乳动物：克隆羊多莉（标本）",
+		"photoPos": "62% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["核移植与"]], [["克隆动物", true]]],
+		"kicker": "重构胚 · MⅡ期卵母细胞 · 多莉",
+		"photo": "dolly.jpg",
+		"photoPos": "62% center",
+		"photoTag": "克隆羊多莉",
+		"credit": "Photo: Toni Barros, CC BY-SA 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "体细胞核移植比胚胎细胞核移植更容易", "ok": false, "fix": "体细胞分化程度高，难度明显更大"},
+			{"q": "受体卵母细胞要培养到MⅡ期", "ok": true, "fix": ""},
+			{"q": "去核去除的是完整的细胞核", "ok": false, "fix": "去除的是纺锤体—染色体复合物"},
+			{"q": "克隆动物的性别与供核个体相同", "ok": true, "fix": ""},
+			{"q": "克隆动物与供体性状完全相同", "ok": false, "fix": "细胞质基因、环境等会造成差异"},
+			{"q": "体细胞核移植体现了动物细胞核的全能性", "ok": true, "fix": ""}
+		],
+		"endTitle": [["核移植与"], ["克隆动物", true]],
+		"endLine": "核移植 · 去核 · 重构胚 · 激活 · 胚胎移植",
+		"slogan": "核来自供体，质来自受体！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Toni Barros《Dolly face closeup》CC BY-SA 2.0"
+}

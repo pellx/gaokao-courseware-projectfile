@@ -1,0 +1,131 @@
+{
+	"id": "HXB-02",
+	"title": "分散系、胶体与物质的转化",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第2期 / 共12期",
+	"points": [
+		"分散系的分类",
+		"胶体的制备",
+		"胶体的性质与应用",
+		"酸碱盐的转化",
+		"转化的应用",
+		"物理与化学变化",
+		"传统文化情境题"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"分散系、"
+			],
+			[
+				"胶体",
+				true
+			],
+			[
+				"与物质的转化"
+			]
+		],
+		"subtitle": "丁达尔效应 · 胶体制备 · 物理变化与化学变化",
+		"photo": "tyndall.jpg",
+		"photoCaption": "丁达尔：研究光通过胶体的散射现象",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"分散系与"
+				],
+				[
+					"胶体",
+					true
+				]
+			],
+			[
+				[
+					"物质的转化"
+				]
+			]
+		],
+		"photo": "tyndall.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "丁达尔",
+		"credit": "Herbert Rose Barraud, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "胶体与溶液的本质区别是有无丁达尔效应",
+				"ok": false,
+				"fix": "本质区别是分散质粒子直径"
+			},
+			{
+				"q": "制 Fe(OH)3 胶体：向沸水中滴加饱和 FeCl3 溶液",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "明矾净水是利用胶体杀菌消毒",
+				"ok": false,
+				"fix": "是吸附悬浮杂质，不能杀菌"
+			},
+			{
+				"q": "焰色试验是化学变化",
+				"ok": false,
+				"fix": "是物理变化"
+			},
+			{
+				"q": "煤的干馏是化学变化，石油的分馏是物理变化",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "胶体粒子不能透过滤纸",
+				"ok": false,
+				"fix": "能透过滤纸，不能透过半透膜"
+			}
+		],
+		"endTitle": [
+			[
+				"分散系、"
+			],
+			[
+				"胶体",
+				true
+			],
+			[
+				"与物质的转化"
+			]
+		],
+		"endLine": "分散系看粒子直径，变化看有无新物质",
+		"slogan": "胶体看直径，变化看新物质"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Herbert Rose Barraud《John Tyndall (ca. 1885)》，公有领域；插图来自 pixiv：とーにょ、YA-DON@一日一絵、柑乃和稀（侵删）",
+	"anime": [
+		{
+			"key": "milk",
+			"src": "milk.jpg",
+			"credit": "插图：とーにょ《むぎちゃんハピバ》pixiv #146716405",
+			"url": "https://www.pixiv.net/artworks/146716405"
+		},
+		{
+			"key": "cook",
+			"src": "cook.jpg",
+			"credit": "插图：YA-DON@一日一絵《rkgk 憂ちゃん》pixiv #149492271",
+			"url": "https://www.pixiv.net/artworks/149492271"
+		},
+		{
+			"key": "melt",
+			"src": "melt.jpg",
+			"credit": "插图：柑乃和稀《デフォまとめ9月》pixiv #77054016",
+			"url": "https://www.pixiv.net/artworks/77054016"
+		}
+	]
+}

@@ -1,0 +1,125 @@
+{
+	"id": "HXA-16",
+	"title": "金属晶体、离子晶体、过渡晶体与混合型晶体",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第16期 / 共21期",
+	"points": [
+		"金属键与电子气",
+		"离子晶体的性质",
+		"离子晶体熔点比较",
+		"NaCl 与 CsCl 晶胞",
+		"萤石与闪锌矿晶胞",
+		"离子液体",
+		"过渡晶体",
+		"石墨",
+		"四类晶体的比较"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"金属晶体、离子晶体"
+			],
+			[
+				"与混合型晶体",
+				true
+			]
+		],
+		"subtitle": "电子气 · NaCl · CsCl · 过渡晶体 · 石墨",
+		"photo": "halite.jpg",
+		"photoCaption": "岩盐（NaCl）晶体：典型的离子晶体",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"金属晶体"
+				]
+			],
+			[
+				[
+					"离子晶体",
+					true
+				]
+			],
+			[
+				[
+					"石墨"
+				]
+			]
+		],
+		"photo": "halite.jpg",
+		"photoPos": "center",
+		"photoTag": "岩盐",
+		"credit": "Ra'ike, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "金属晶体中有阳离子，也有阴离子",
+				"ok": false,
+				"fix": "只有阳离子和自由电子"
+			},
+			{
+				"q": "熔点：MgO > NaCl > KCl",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NaCl 晶体中每个 Na^+ 周围有 8 个 Cl^-",
+				"ok": false,
+				"fix": "6 个"
+			},
+			{
+				"q": "CsCl 晶体中 Cs^+ 的配位数为 8",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "石墨能导电，是因为层间有自由电子",
+				"ok": false,
+				"fix": "层内未杂化的 p 电子可自由移动"
+			},
+			{
+				"q": "石墨的熔点比金刚石高",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"金属晶体、离子晶体"
+			],
+			[
+				"与混合型晶体",
+				true
+			]
+		],
+		"endLine": "金属键 · 离子晶体 · NaCl 与 CsCl · 过渡晶体 · 石墨 · 综合比较",
+		"slogan": "NaCl 配位 6，CsCl 配位 8！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Ra'ike《Halite crystal with orange inclusions》CC BY-SA 3.0；插图来自 pixiv：すず、リリア（Лилія）、ぷらぺちぬ（侵删）",
+	"anime": [
+		{
+			"key": "cheek",
+			"src": "cheek.jpg",
+			"credit": "插图：すず《作詞をがんばる燈ちゃん》pixiv #124357832",
+			"url": "https://www.pixiv.net/artworks/124357832"
+		},
+		{
+			"key": "pancake",
+			"src": "pancake.jpg",
+			"credit": "插图：リリア（Лилія）《パンケーキ》pixiv #102185340",
+			"url": "https://www.pixiv.net/artworks/102185340"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：ぷらぺちぬ《神沙映月生誕祭》pixiv #109043983",
+			"url": "https://www.pixiv.net/artworks/109043983"
+		}
+	]
+}

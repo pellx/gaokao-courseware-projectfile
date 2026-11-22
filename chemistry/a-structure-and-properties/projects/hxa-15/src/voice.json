@@ -1,0 +1,162 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|分子晶体与共价晶体。",
+		"seconds": 2.856
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常给出一种新材料，让你判断晶体类型或性质，还要会数金刚石和二氧化硅里的环和键，共七个考点。",
+		"seconds": 10.176
+	},
+	"mc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，分子晶体。构成微粒是分子，微粒之间靠分子间作用力结合：范德华力，有的还有氢键。",
+		"seconds": 10.176
+	},
+	"mc2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见的分子晶体：大多数非金属单质，比如卤素、氧气、氮气、白磷、硫、碳六十；稀有气体也是。",
+		"seconds": 10.344
+	},
+	"mc3": {
+		"key": "zh-CN-XiaoxiaoNeural|还有：所有非金属氢化物、大多数非金属氧化物，二氧化硅除外、几乎所有的酸、大多数有机物。",
+		"seconds": 9.576
+	},
+	"mc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：稀有气体晶体由单原子分子构成，是分子晶体，但晶体中没有化学键。",
+		"seconds": 7.776
+	},
+	"pk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，分子晶体的两种结构。只有范德华力时，分子尽可能紧密堆积：干冰、碳六十都是面心立方，每个分子周围有12个紧邻分子。",
+		"seconds": 13.296
+	},
+	"pk2": {
+		"key": "zh-CN-XiaoxiaoNeural|有氢键时，氢键有方向性：冰中每个水分子只与周围4个水分子以氢键相连，形成四面体结构。",
+		"seconds": 9.84
+	},
+	"pk3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以冰的空间利用率不高，留有相当大的空隙，密度比液态水小。",
+		"seconds": 6.48
+	},
+	"pk4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问干冰晶胞中一个二氧化碳分子周围紧邻几个二氧化碳分子：12个；冰中一个水分子周围有几个水分子：4个。",
+		"seconds": 11.856
+	},
+	"mp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，分子晶体的性质。分子间作用力弱，所以分子晶体熔沸点低、硬度小，很多常温下是气体或液体。",
+		"seconds": 10.752
+	},
+	"mp1b": {
+		"key": "zh-CN-XiaoxiaoNeural|分子晶体就像这个一碰就“化了”的女孩：分子之间靠得不牢，一加热就熔化。",
+		"seconds": 6.864
+	},
+	"mp2": {
+		"key": "zh-CN-XiaoxiaoNeural|分子晶体熔化时，破坏的是分子间作用力，分子内的共价键不断。",
+		"seconds": 6.408
+	},
+	"mp3": {
+		"key": "zh-CN-XiaoxiaoNeural|分子晶体的熔沸点看分子间作用力：有氢键的反常高；没有氢键时，相对分子质量越大越高。",
+		"seconds": 8.808
+	},
+	"mp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：分子晶体的稳定性看分子内共价键的键能，熔沸点看分子间作用力，两件事别混。",
+		"seconds": 8.736
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，共价晶体。所有原子之间都以共价键相结合，形成空间立体网状结构，比如金刚石、晶体硅、碳化硅、二氧化硅。",
+		"seconds": 12.696
+	},
+	"cv1b": {
+		"key": "zh-CN-XiaoxiaoNeural|共价晶体就像毛线织成的网：每个原子都被共价键牢牢织进去，整块晶体就是一个巨大的整体。",
+		"seconds": 9.216
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|金刚石中每个碳原子都是 s p 3 杂化，与4个碳原子形成正四面体结构，键角109度28分。",
+		"seconds": 10.056
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|金刚石中最小的环是6元环；每个碳形成4个碳碳键，每个键被2个碳共用，所以碳原子数与碳碳键数之比是1比2。",
+		"seconds": 11.4
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|晶体硅、碳化硅的结构和金刚石类似：把碳换成硅，或者碳、硅交替。",
+		"seconds": 7.416
+	},
+	"cv5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：1摩尔金刚石含2摩尔碳碳键；12克金刚石含2 N A 个共价键。",
+		"seconds": 7.416
+	},
+	"si1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，二氧化硅晶体。可以看作在晶体硅的每个硅硅键中间插入一个氧原子。",
+		"seconds": 7.8
+	},
+	"si2": {
+		"key": "zh-CN-XiaoxiaoNeural|每个硅与4个氧相连，每个氧与2个硅相连，形成正四面体结构单元。",
+		"seconds": 7.008
+	},
+	"si3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以硅原子数与硅氧键数之比是1比4，1摩尔二氧化硅含4摩尔硅氧键。",
+		"seconds": 7.656
+	},
+	"si4": {
+		"key": "zh-CN-XiaoxiaoNeural|最小环是12元环：6个硅和6个氧交替。",
+		"seconds": 4.344
+	},
+	"si5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：二氧化硅的“S i O 2”是化学式，表示晶体中硅和氧的原子个数比是1比2，晶体中不存在二氧化硅分子。",
+		"seconds": 11.016
+	},
+	"hd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，共价晶体的熔点和硬度。共价晶体熔化要破坏共价键，所以熔点高、硬度大，一般不导电，难溶于溶剂。",
+		"seconds": 11.088
+	},
+	"hd2": {
+		"key": "zh-CN-XiaoxiaoNeural|比较熔点：原子半径越小，键长越短、键能越大，熔点越高、硬度越大。",
+		"seconds": 7.56
+	},
+	"hd3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以金刚石大于碳化硅大于晶体硅：碳碳键最短，碳硅键次之，硅硅键最长。",
+		"seconds": 8.352
+	},
+	"hd4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：都是共价晶体，原子半径碳小于硅，键长碳碳小于碳硅小于硅硅，键能依次减小，熔点依次降低。",
+		"seconds": 10.968
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，易错辨析。第一句：“具有共价键的晶体叫共价晶体。”错，干冰、冰都有共价键，却是分子晶体。",
+		"seconds": 11.184
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二句：“分子晶体熔化时破坏共价键。”错，只破坏分子间作用力。",
+		"seconds": 7.248
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三句：“水比硫化氢稳定，是因为水分子间有氢键。”错，稳定性看共价键键能。",
+		"seconds": 8.256
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四句：“60克二氧化硅中含2 N A 个硅氧键。”错，60克是1摩尔，含4 N A 个硅氧键。",
+		"seconds": 9.168
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断晶体类型看构成微粒和微粒间作用力，不看有没有共价键。",
+		"seconds": 7.176
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：干冰中每个二氧化碳分子周围紧邻12个？对。判断二：具有共价键的晶体一定是共价晶体？错。",
+		"seconds": 11.736
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：金刚石中碳原子与碳碳键之比是1比2？对。判断四：二氧化硅中最小环是6元环？错，是12元环。",
+		"seconds": 12.792
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：熔点金刚石大于碳化硅大于晶体硅？对。判断六：分子晶体熔化破坏共价键？错。",
+		"seconds": 10.944
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|分子晶体看分子间作用力，共价晶体看键长键能。下一期：金属晶体、离子晶体、过渡晶体与混合型晶体。",
+		"seconds": 11.28
+	}
+}

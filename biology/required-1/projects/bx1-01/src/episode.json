@@ -1,0 +1,38 @@
+{
+	"id": "BX1-01",
+	"title": "细胞是生命活动的基本单位",
+	"subject": "biology",
+	"book": "人教版·必修1·第1章",
+	"points": ["细胞学说的建立", "细胞学说的内容", "细胞学说的意义", "完全与不完全归纳", "生命活动离不开细胞", "生命系统结构层次"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞是生命活动的"], ["基本单位", true]],
+		"subtitle": "细胞学说 · 归纳法 · 生命系统",
+		"photo": "hooke.png",
+		"photoCaption": "胡克《显微图谱》中的软木薄片（1665）",
+		"photoPos": "center 38%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞是生命"]], [["活动的"], ["基本单位", true]]],
+		"kicker": "细胞学说 · 生命系统",
+		"photo": "hooke.png",
+		"photoPos": "center 38%",
+		"photoTag": "胡克看到的“小室”",
+		"credit": "Robert Hooke, Micrographia (1665), Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "细胞学说是由胡克建立的", "ok": false, "fix": "主要由施莱登和施旺建立，胡克是细胞的命名者"},
+			{"q": "细胞学说揭示了生物界的统一性和多样性", "ok": false, "fix": "只揭示了统一性，没有涉及多样性"},
+			{"q": "“新细胞是由老细胞分裂产生的”是魏尔肖的补充", "ok": true, "fix": ""},
+			{"q": "施莱登和施旺运用了完全归纳法", "ok": false, "fix": "运用的是不完全归纳法"},
+			{"q": "病毒没有细胞结构，所以生命活动与细胞无关", "ok": false, "fix": "病毒只能寄生在活细胞中才能增殖"},
+			{"q": "一棵松树具有的生命系统层次中没有“系统”", "ok": true, "fix": ""}
+		],
+		"endTitle": [["细胞是生命活动的"], ["基本单位", true]],
+		"endLine": "建立 · 内容 · 意义 · 归纳法 · 结构层次",
+		"slogan": "记准人名和年代，分清统一性与多样性！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Robert Hooke《Cork Micrographia Hooke》Public domain"
+}

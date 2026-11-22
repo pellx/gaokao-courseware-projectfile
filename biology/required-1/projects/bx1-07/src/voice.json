@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第二章第五节——核酸是遗传信息的携带者。",
+		"seconds": 8.016
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考DNA与RNA的比较、不同生物所含碱基和核苷酸的种类，以及生物大分子的单体。",
+		"seconds": 9
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"kn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，核酸的种类和分布。核酸包括两大类：脱氧核糖核酸，DNA，和核糖核酸，RNA。",
+		"seconds": 9.84
+	},
+	"kn2": {
+		"key": "zh-CN-XiaoxiaoNeural|真核细胞的DNA主要分布在细胞核中，线粒体、叶绿体内也含有少量的DNA。",
+		"seconds": 7.68
+	},
+	"kn3": {
+		"key": "zh-CN-XiaoxiaoNeural|RNA主要分布在细胞质中。",
+		"seconds": 3.12
+	},
+	"kn4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：是“主要”分布，不是“只”分布；原核细胞没有细胞核，DNA在拟核中。",
+		"seconds": 7.224
+	},
+	"nt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，核苷酸的组成。核酸的基本单位是核苷酸。",
+		"seconds": 5.736
+	},
+	"nt2": {
+		"key": "zh-CN-XiaoxiaoNeural|一分子核苷酸由一分子磷酸、一分子五碳糖和一分子含氮碱基组成。",
+		"seconds": 6.744
+	},
+	"nt3": {
+		"key": "zh-CN-XiaoxiaoNeural|核苷酸连接成长链构成核酸：DNA通常由两条脱氧核苷酸链构成，RNA通常由一条核糖核苷酸链构成。",
+		"seconds": 10.896
+	},
+	"nt4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：核酸初步水解得到核苷酸，彻底水解得到磷酸、五碳糖和含氮碱基。",
+		"seconds": 7.896
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，DNA与RNA的比较。基本单位：DNA是脱氧核苷酸，RNA是核糖核苷酸，各有4种。",
+		"seconds": 10.704
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|五碳糖：DNA含脱氧核糖，RNA含核糖。",
+		"seconds": 4.992
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|碱基：两者都有A、G、C；DNA特有T，胸腺嘧啶；RNA特有U，尿嘧啶。",
+		"seconds": 8.64
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：区分DNA和RNA，看五碳糖，或者看含T还是含U。",
+		"seconds": 7.056
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，不同生物的碱基和核苷酸种类。细胞生物同时含有DNA和RNA。",
+		"seconds": 8.28
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以细胞生物有5种碱基、8种核苷酸、2种五碳糖。",
+		"seconds": 5.712
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|病毒只含有一种核酸，DNA或RNA，所以只有4种碱基、4种核苷酸。",
+		"seconds": 7.584
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碱基5种、核苷酸却有8种，因为A、G、C各对应两种核苷酸，T和U只各对应一种。",
+		"seconds": 10.08
+	},
+	"gm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，生物的遗传物质。细胞生物，无论真核还是原核，遗传物质都是DNA。",
+		"seconds": 8.232
+	},
+	"gm2": {
+		"key": "zh-CN-XiaoxiaoNeural|病毒的遗传物质是DNA或RNA：噬菌体是DNA；H I V、烟草花叶病毒、新冠病毒是RNA。",
+		"seconds": 10.512
+	},
+	"gm3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“细胞质中的遗传物质是RNA”是错的，细胞生物的遗传物质只有DNA。",
+		"seconds": 7.608
+	},
+	"fc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，核酸的功能。核酸是细胞内携带遗传信息的物质，在遗传、变异和蛋白质的生物合成中有极其重要的作用。",
+		"seconds": 11.568
+	},
+	"fc2": {
+		"key": "zh-CN-XiaoxiaoNeural|遗传信息储存在核苷酸的排列顺序中；对DNA来说，就是脱氧核苷酸的排列顺序。",
+		"seconds": 8.352
+	},
+	"fc3": {
+		"key": "zh-CN-XiaoxiaoNeural|核苷酸虽然只有4种，但数量多、排列顺序千变万化，所以DNA能储存大量的遗传信息。",
+		"seconds": 8.952
+	},
+	"fc4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：DNA指纹用于刑侦和亲子鉴定。解题方法：原理是不同个体DNA的脱氧核苷酸序列不同。",
+		"seconds": 10.032
+	},
+	"mm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，生物大分子以碳链为骨架。多糖、蛋白质、核酸都是生物大分子，由许多单体连接成多聚体。",
+		"seconds": 10.992
+	},
+	"mm2": {
+		"key": "zh-CN-XiaoxiaoNeural|多糖的单体是单糖，蛋白质的单体是氨基酸，核酸的单体是核苷酸。",
+		"seconds": 6.504
+	},
+	"mm3": {
+		"key": "zh-CN-XiaoxiaoNeural|每个单体都以若干个相连的碳原子构成的碳链为基本骨架，所以说“碳是生命的核心元素”。",
+		"seconds": 8.424
+	},
+	"mm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：脂肪不是生物大分子，没有单体；淀粉、糖原、纤维素的单体都是葡萄糖。",
+		"seconds": 8.4
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，DNA主要分布在细胞核。判断二？错，五碳糖也不同。",
+		"seconds": 8.256
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？对。判断四？错，细胞生物的遗传物质都是DNA。",
+		"seconds": 7.512
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，彻底水解得到磷酸、五碳糖和碱基。判断六？对。",
+		"seconds": 8.112
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：看五碳糖和碱基，分清DNA和RNA。我们下期再见！",
+		"seconds": 8.376
+	}
+}

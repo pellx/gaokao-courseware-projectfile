@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|陌生过渡金属：锰、铬、钴、镍。",
+		"seconds": 3.984
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题的常客：高锰酸根在不同环境下的产物、铬酸根的平衡、钴镍的分离和除铁，共七个考点。",
+		"seconds": 9.432
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，锰的价态与颜色。正2价锰离子稀溶液几乎无色；正4价二氧化锰黑色固体。",
+		"seconds": 9
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|正6价锰酸根绿色；正7价高锰酸根紫红色。",
+		"seconds": 4.896
+	},
+	"mn2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这三个站在一起的女孩，发色各不相同：锰的每种价态，也都有自己的颜色。",
+		"seconds": 7.056
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化锰的两种角色：在过氧化氢、氯酸钾分解中作催化剂；与浓盐酸共热制氯气时作氧化剂。",
+		"seconds": 9.768
+	},
+	"mn4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到紫红色褪去，就是高锰酸根被还原了；看到黑色沉淀，往二氧化锰想。",
+		"seconds": 8.352
+	},
+	"mo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，高锰酸根的还原产物看环境：酸性生成锰离子，中性或弱碱性生成二氧化锰，强碱性生成锰酸根。",
+		"seconds": 10.992
+	},
+	"mo2": {
+		"key": "zh-CN-XiaoxiaoNeural|酸性：两个高锰酸根加五个亚硫酸根加六个氢离子，生成两个锰离子、五个硫酸根和三个水。",
+		"seconds": 9.288
+	},
+	"mo3": {
+		"key": "zh-CN-XiaoxiaoNeural|中性：两个高锰酸根加三个亚硫酸根加水，生成两个二氧化锰沉淀、三个硫酸根和两个氢氧根，生成黑色沉淀。",
+		"seconds": 10.944
+	},
+	"mo4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酸性高锰酸钾一般用硫酸酸化，不用盐酸，因为氯离子会被它氧化。",
+		"seconds": 7.56
+	},
+	"cr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，铬的两种酸根：重铬酸根橙色，铬酸根黄色，两者存在平衡。",
+		"seconds": 7.296
+	},
+	"cr2": {
+		"key": "zh-CN-XiaoxiaoNeural|重铬酸根加水可逆地生成两个铬酸根和两个氢离子。加酸，平衡左移，溶液变橙色；加碱，平衡右移，变黄色。",
+		"seconds": 11.544
+	},
+	"cr2b": {
+		"key": "zh-CN-XiaoxiaoNeural|贴纸上一排红发小人，表情各不相同：重铬酸根和铬酸根也一样，同一个铬，换个环境换个样。",
+		"seconds": 8.808
+	},
+	"cr3": {
+		"key": "zh-CN-XiaoxiaoNeural|这个平衡里 Cr 都是 +6 价，没有价态变化，不是氧化还原反应。",
+		"seconds": 6.432
+	},
+	"cr4": {
+		"key": "zh-CN-XiaoxiaoNeural|重铬酸根有强氧化性，在酸性下被还原成绿色的铬离子，可用于检测司机是否饮酒。",
+		"seconds": 8.304
+	},
+	"cr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：重铬酸根与铬酸根的转化不是氧化还原；六价铬被还原成三价铬才是。",
+		"seconds": 7.632
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，钴与镍。流程中常见钴离子和镍离子，它们化学性质相近，常靠调pH或萃取分离。",
+		"seconds": 10.104
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|课本外：三价钴的氧化性很强，在酸性溶液中能把氯离子氧化成氯气，自身变成二价钴。",
+		"seconds": 9
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以从含三价钴的废料中浸出钴，常加过氧化氢或亚硫酸钠作还原剂，把它还原成二价钴再溶解。",
+		"seconds": 9.504
+	},
+	"cn4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这一步过氧化氢作还原剂，不是氧化剂：遇到更强的氧化剂三价钴，过氧化氢被氧化成氧气。",
+		"seconds": 9.624
+	},
+	"fr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，流程中的除铁：两步走。第一步，加氧化剂把亚铁离子氧化成铁离子，常用过氧化氢，不引入杂质。",
+		"seconds": 11.256
+	},
+	"fr2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，调pH到约3到4，铁离子完全沉淀为氢氧化铁，而铜离子、钴离子、镍离子还不沉淀。",
+		"seconds": 10.128
+	},
+	"fr3": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么先氧化？氢氧化亚铁开始沉淀的pH和氢氧化铜等接近，不氧化就分不开。",
+		"seconds": 8.304
+	},
+	"fr4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：问“加过氧化氢的目的”，答“将亚铁离子氧化为铁离子，便于调pH时除去”。",
+		"seconds": 8.232
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，用颜色推价态。题目给的颜色就是线索：溶液由紫红色变无色，是高锰酸根变成锰离子。",
+		"seconds": 10.152
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|橙色变绿色，是重铬酸根变成铬离子；黄色变橙色，是铬酸根变成重铬酸根，只是酸碱变了。",
+		"seconds": 9.312
+	},
+	"co2b": {
+		"key": "zh-CN-XiaoxiaoNeural|眼睛睁得大大的金发女孩：题目里写的颜色，一个都别放过，每个都是价态线索。",
+		"seconds": 7.656
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|蓝色变深蓝，是铜离子与氨配位；浅绿变黄，是亚铁离子被氧化成铁离子。",
+		"seconds": 7.8
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：颜色变化先分两类：价态变了（氧化还原），还是价态没变（配位或酸碱平衡）。",
+		"seconds": 8.88
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，三条规律的综合。陌生过渡金属流程题，每一步都能归到氧化还原、沉淀、配位三条规律之一。",
+		"seconds": 10.512
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|浸出：酸溶或加氧化剂、还原剂，改变价态让它溶解。除杂：先调价态，再调 pH 沉淀。",
+		"seconds": 9.792
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|分离：萃取、调 pH、加沉淀剂；得到产品：结晶、电解或热还原。",
+		"seconds": 7.824
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：每一步先问“加了什么、为什么加”：改价态、改 pH、还是加配体，然后写出对应的方程式。",
+		"seconds": 9.888
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：酸性条件下高锰酸根被还原为二氧化锰？错，是锰离子。判断二：重铬酸根转化为铬酸根是氧化还原？错。",
+		"seconds": 13.224
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：重铬酸钾溶液加碱由橙变黄？对。判断四：流程中先氧化亚铁离子再调pH除铁？对。",
+		"seconds": 11.376
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：酸性高锰酸钾用盐酸酸化？错，用硫酸。判断六：过氧化氢浸出三价钴时作氧化剂？错，作还原剂。",
+		"seconds": 12.864
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|高锰酸根看环境，铬酸根看酸碱，除铁先氧化再调pH。下一期：价-类二维图与物质转化。",
+		"seconds": 10.056
+	}
+}

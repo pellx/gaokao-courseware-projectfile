@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Strength: React.FC = () => <AutoScene k="strength" d={{"tag": "考点三", "title": "强弱规律", "blocks": [{"t": "big", "at": "st1", "text": "氧化性：{氧化剂 > 氧化产物}　　还原性：{还原剂 > 还原产物|orange}", "size": 36}, {"t": "big", "at": "st2", "text": "2Fe^3+ + 2I^- = 2Fe^2+ + I2　→　氧化性 {Fe^3+ > I2}，还原性 {I^- > Fe^2+|orange}", "size": 32, "c": "line", "soft": "panel"}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "判反应", "at": "st3", "text": "已知强弱，“{强制弱}”才能发生", "c": "red", "size": 28}]}, {"blocks": [{"t": "rule", "tag": "看条件", "at": "st4", "text": "常温就反应的更强：KMnO4 > MnO2", "c": "orange", "size": 28}]}]}], "callout": {"label": "解题方法", "at": "st5", "text": "找出{氧化剂和氧化产物}，把几组强弱串成一条链"}, "beat": {"k": "arm", "at": "st2b", "text": "掰手腕：强的赢\n{氧化剂 > 氧化产物|red}"}}} />;

@@ -1,0 +1,38 @@
+{
+	"id": "BX2-04",
+	"title": "孟德尔的豌豆杂交实验（二）（下）：自由组合定律的应用",
+	"subject": "biology",
+	"book": "人教版·必修2·第1章",
+	"points": ["拆分法", "种类与比例计算", "由子代比例推亲代", "9∶3∶3∶1变式", "致死问题", "两病概率计算", "判断是否独立遗传"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["自由组合定律的"], ["应用", true]],
+		"subtitle": "孟德尔的豌豆杂交实验（二）（下） · 拆分法 · 变式",
+		"photo": "mendelmonk.jpg",
+		"photoCaption": "孟德尔",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["自由组合定律"]], [["的应用", true]]],
+		"kicker": "拆分法 · 9∶3∶3∶1 变式 · 致死",
+		"photo": "mendelmonk.jpg",
+		"photoPos": "center 25%",
+		"photoTag": "遗传题的通用解法",
+		"credit": "Portrait of G. Mendel, from W. Bateson (1909), Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "AaBbcc 产生的配子有 8 种", "ok": false, "fix": "cc 只产生一种配子，共 4 种"},
+			{"q": "AaBb × aabb 的后代表型比为 1∶1∶1∶1", "ok": true, "fix": ""},
+			{"q": "F2 出现 9∶7，说明性状由两对独立遗传的基因控制", "ok": true, "fix": ""},
+			{"q": "子代 3∶3∶1∶1，亲本一定是 AaBb × Aabb", "ok": false, "fix": "也可能是 AaBb × aaBb"},
+			{"q": "患甲病 m、乙病 n，只患一种病的概率为 m + n", "ok": false, "fix": "应为 m + n − 2mn"},
+			{"q": "同源染色体上的非等位基因遵循自由组合定律", "ok": false, "fix": "不遵循，只有非同源染色体上的才遵循"}
+		],
+		"endTitle": [["自由组合定律的"], ["应用", true]],
+		"endLine": "拆分 · 计数 · 推亲代 · 变式 · 致死 · 两病 · 独立遗传",
+		"slogan": "先拆成一对一对，再相乘！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— William Bateson《Gregor Mendel Monk》Public domain"
+}

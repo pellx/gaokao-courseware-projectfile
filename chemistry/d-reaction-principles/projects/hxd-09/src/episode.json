@@ -1,0 +1,122 @@
+{
+	"id": "HXD-09",
+	"title": "水的电离与溶液的 pH",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第9期 / 共20期",
+	"points": [
+		"水的离子积 Kw",
+		"影响水的电离",
+		"水电离的 c(H^+)",
+		"溶液的酸碱性",
+		"pH 的计算",
+		"稀释时 pH 的变化",
+		"pH 的测定"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"水的电离",
+				true
+			],
+			[
+				"与溶液的 pH"
+			]
+		],
+		"subtitle": "Kw · 水电离的氢离子 · pH 计算 · 稀释规律",
+		"photo": "sorensen.jpg",
+		"photoCaption": "索伦森：提出用 pH 表示溶液的酸碱度",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"水的电离",
+					true
+				]
+			],
+			[
+				[
+					"与溶液的 pH"
+				]
+			]
+		],
+		"photo": "sorensen.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "索伦森",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "K_w 只适用于纯水",
+				"ok": false,
+				"fix": "适用于任何稀的水溶液"
+			},
+			{
+				"q": "加入 NH4Cl 固体，促进水的电离",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "水电离出的 c(H^+) = 10^-12 mol/L 的溶液一定显酸性",
+				"ok": false,
+				"fix": "也可能是碱溶液"
+			},
+			{
+				"q": "pH = 7 的溶液一定呈中性",
+				"ok": false,
+				"fix": "看 c(H^+) 与 c(OH^-)，与温度有关"
+			},
+			{
+				"q": "pH = 5 的盐酸稀释 1000 倍，pH = 8",
+				"ok": false,
+				"fix": "pH 接近 7"
+			},
+			{
+				"q": "用 pH 试纸测氯水的 pH",
+				"ok": false,
+				"fix": "氯水有漂白性，不能用试纸"
+			}
+		],
+		"endTitle": [
+			[
+				"水的电离",
+				true
+			],
+			[
+				"与溶液的 pH"
+			]
+		],
+		"endLine": "酸碱抑制盐促进，中性要看氢氧比",
+		"slogan": "酸碱抑制盐促进，中性要看氢氧比"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Søren Peter Lauritz Sørensen (1868-1939)》，公有领域；插图来自 pixiv：wendy、Studio Haoto、でかりぼん（侵删）",
+	"anime": [
+		{
+			"key": "blank",
+			"src": "blank.jpg",
+			"credit": "插图：wendy《夏服唯ちゃん》pixiv #16926917",
+			"url": "https://www.pixiv.net/artworks/16926917"
+		},
+		{
+			"key": "shock",
+			"src": "shock.jpg",
+			"credit": "插图：Studio Haoto《デフォルメ》pixiv #107509110",
+			"url": "https://www.pixiv.net/artworks/107509110"
+		},
+		{
+			"key": "sit",
+			"src": "sit.jpg",
+			"credit": "插图：でかりぼん《けいおん! デフォルメ　箱入》pixiv #152064946",
+			"url": "https://www.pixiv.net/artworks/152064946"
+		}
+	]
+}

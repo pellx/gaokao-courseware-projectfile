@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Write: React.FC = () => <AutoScene k="write" d={{"tag": "考点二", "title": "离子方程式书写：写、拆、删、查", "blocks": [{"t": "chain", "steps": [{"at": "wr1", "text": "写", "c": "red"}, {"at": "wr1", "text": "拆", "c": "red"}, {"at": "wr1", "text": "删", "c": "red"}, {"at": "wr1", "text": "查", "c": "red"}], "arrows": [], "center": true, "size": 40}, {"t": "items", "items": [{"at": "wr2", "text": "写：Na2SO4 + BaCl2 = BaSO4↓ + 2NaCl"}, {"at": "wr2", "text": "拆：2Na^+ + SO4^2- + Ba^2+ + 2Cl^- = BaSO4↓ + 2Na^+ + 2Cl^-"}, {"at": "wr3", "text": "删：{Ba^2+ + SO4^2- = BaSO4↓}"}, {"at": "wr4", "text": "查：{原子守恒、电荷守恒}（氧化还原还要得失电子守恒）"}], "size": 32}], "callout": {"label": "易错", "at": "wr5", "text": "“查”不能省：{电荷不守恒}是选择题的常设陷阱"}, "beat": {"k": "pair", "at": "wr3b", "text": "一见面就抱紧\n= 结合成{沉淀|red}\n退出溶液"}}} />;

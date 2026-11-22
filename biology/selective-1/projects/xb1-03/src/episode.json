@@ -1,0 +1,37 @@
+{
+	"id": "XB1-03",
+	"title": "神经调节的结构基础",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第2章",
+	"points": ["中枢神经系统", "外周神经系统", "自主神经系统", "交感与副交感神经", "神经元的结构", "神经胶质细胞", "神经纤维与神经"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["神经调节的"], ["结构基础", true]],
+		"subtitle": "中枢与外周 · 自主神经 · 神经元",
+		"photo": "brain-slice.jpg",
+		"photoCaption": "人头部正中矢状切面标本：脑和脊髓",
+		"photoPos": "center 35%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["神经调节的"]], [["结构基础", true]]],
+		"photo": "brain-slice.jpg",
+		"photoPos": "center 35%",
+		"photoTag": "脑和脊髓：中枢神经系统",
+		"credit": "Photo: Caldwbr, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "脑神经和脊神经属于中枢神经系统", "ok": false, "fix": "属于外周神经系统"},
+			{"q": "自主神经系统包括传入神经和传出神经", "ok": false, "fix": "只包括传出神经"},
+			{"q": "交感神经兴奋使胃肠蠕动加强", "ok": false, "fix": "交感神经使胃肠蠕动减弱"},
+			{"q": "呼吸中枢位于脑干", "ok": true, "fix": ""},
+			{"q": "神经胶质细胞的数量比神经元少", "ok": false, "fix": "是神经元的10～50倍"},
+			{"q": "神经元是神经系统结构与功能的基本单位", "ok": true, "fix": ""}
+		],
+		"endTitle": [["神经调节的"], ["结构基础", true]],
+		"endLine": "中枢 · 外周 · 自主神经 · 神经元 · 胶质细胞",
+		"slogan": "分清层次和功能，这一节稳稳拿分！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Caldwbr《Sagittal brain slice, UB Museum of Neuroanatomy, Buffalo, New York》CC BY-SA 4.0；Santiago Ramón y Cajal《Purkinje cell》公有领域"
+}

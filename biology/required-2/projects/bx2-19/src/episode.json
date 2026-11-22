@@ -1,0 +1,38 @@
+{
+	"id": "BX2-19",
+	"title": "人类遗传病",
+	"subject": "biology",
+	"book": "人教版·必修2·第5章",
+	"points": ["遗传病的三种类型", "单基因遗传病归类", "多基因遗传病", "染色体异常遗传病", "调查人群中的遗传病", "遗传咨询与产前诊断", "先天性疾病辨析"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["人类"], ["遗传病", true]],
+		"subtitle": "单基因 · 多基因 · 染色体异常 · 调查与预防",
+		"photo": "karyotype.png",
+		"photoCaption": "唐氏综合征患者的染色体组成示意",
+		"photoPos": "center 85%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["人类"]], [["遗传病", true]]],
+		"kicker": "三种类型 · 调查 · 产前诊断",
+		"photo": "karyotype.png",
+		"photoPos": {"16x9": "center 85%", "4x3": "8% 50%", "3x4": "center 100%"},
+		"photoTag": "21 三体综合征",
+		"credit": "NHGRI, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "单基因遗传病是由一个基因控制的遗传病", "ok": false, "fix": "由一对等位基因控制"},
+			{"q": "多基因遗传病在群体中的发病率较高", "ok": true, "fix": ""},
+			{"q": "21 三体综合征患者体细胞中有 47 条染色体", "ok": true, "fix": ""},
+			{"q": "调查遗传病的遗传方式应在人群中随机抽样", "ok": false, "fix": "遗传方式在患者家系中调查"},
+			{"q": "遗传咨询的第一步是推算后代的再发风险率", "ok": false, "fix": "第一步是了解家族病史，对是否患遗传病作出诊断"},
+			{"q": "先天性疾病不一定是遗传病", "ok": true, "fix": ""}
+		],
+		"endTitle": [["人类"], ["遗传病", true]],
+		"endLine": "三种类型 · 发病率在人群 · 遗传方式在家系 · 遗传咨询 · 产前诊断",
+		"slogan": "发病率在人群，遗传方式在家系！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— National Human Genome Research Institute《Down Syndrome Karyotype》Public domain"
+}

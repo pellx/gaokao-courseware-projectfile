@@ -1,0 +1,38 @@
+{
+	"id": "BX1-05",
+	"title": "细胞中的糖类和脂质",
+	"subject": "biology",
+	"book": "人教版·必修1·第2章",
+	"points": ["糖类的元素与功能", "单糖", "二糖", "多糖", "脂质的种类与功能", "脂肪的组成", "糖类与脂肪比较", "糖类和脂质的转化"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞中的"], ["糖类和脂质", true]],
+		"subtitle": "单糖 · 二糖 · 多糖 · 脂肪 · 磷脂 · 固醇",
+		"photo": "cane.jpg",
+		"photoCaption": "甘蔗：茎中富含蔗糖",
+		"photoPos": "center 45%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞中的"], ["糖类", true]], [["和脂质", true]]],
+		"kicker": "种类 · 功能 · 比较",
+		"photo": "cane.jpg",
+		"photoPos": "center 45%",
+		"photoTag": "甘蔗",
+		"credit": "Pierre Jean François Turpin, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "糖类都是能源物质", "ok": false, "fix": "纤维素、核糖、脱氧核糖等不供能"},
+			{"q": "蔗糖和麦芽糖的水解产物都只有葡萄糖", "ok": false, "fix": "蔗糖水解为葡萄糖和果糖"},
+			{"q": "淀粉、糖原、纤维素的单体都是葡萄糖", "ok": true, "fix": ""},
+			{"q": "胆固醇是构成动物细胞膜的重要成分", "ok": true, "fix": ""},
+			{"q": "等质量的脂肪比糖类氧化分解释放能量少", "ok": false, "fix": "脂肪含H多，耗氧多，释放能量多"},
+			{"q": "脂肪在细胞中可以大量转化为糖类", "ok": false, "fix": "糖类可大量转化为脂肪，反之不能"}
+		],
+		"endTitle": [["细胞中的"], ["糖类和脂质", true]],
+		"endLine": "单糖 · 二糖 · 多糖 · 脂肪 · 磷脂 · 固醇",
+		"slogan": "分清种类、分布和功能！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Pierre Jean François Turpin《Noble cane - Sugar cane Saccharum officinarum stalk and leaf》Public domain"
+}

@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第二章第二节——神经调节的基本方式。",
+		"seconds": 8.112
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一节高考常考反射弧的结构与判断、反射弧受损的分析，以及条件反射与非条件反射。",
+		"seconds": 8.904
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"rf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，反射的概念。神经调节的基本方式是反射。",
+		"seconds": 5.856
+	},
+	"rf2": {
+		"key": "zh-CN-XiaoxiaoNeural|反射是指在中枢神经系统参与下，机体对内外刺激所产生的规律性应答反应。",
+		"seconds": 7.536
+	},
+	"rf3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如医生用小锤叩击膝盖下方的韧带，小腿会突然弹起，这就是膝跳反射。",
+		"seconds": 7.392
+	},
+	"rf4": {
+		"key": "zh-CN-XiaoxiaoNeural|完成反射需要两个条件：一是完整的反射弧，二是适宜的刺激。",
+		"seconds": 6.216
+	},
+	"rf5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：草履虫没有神经系统，它对刺激作出的反应不是反射；直接刺激传出神经引起肌肉收缩，没有经过完整的反射弧，也不是反射。",
+		"seconds": 12.576
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，反射弧。反射的结构基础是反射弧，由五个部分组成。",
+		"seconds": 6.84
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|感受器接受刺激，产生兴奋；",
+		"seconds": 3.336
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|传入神经把兴奋传向神经中枢；",
+		"seconds": 3.696
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|神经中枢对传入的信息进行分析和综合；",
+		"seconds": 4.584
+	},
+	"ac5": {
+		"key": "zh-CN-XiaoxiaoNeural|传出神经把兴奋传向效应器；",
+		"seconds": 3.456
+	},
+	"ac6": {
+		"key": "zh-CN-XiaoxiaoNeural|效应器作出应答。",
+		"seconds": 2.232
+	},
+	"ac7": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：效应器不只是肌肉或腺体，而是传出神经末梢和它所支配的肌肉或腺体。",
+		"seconds": 8.04
+	},
+	"jd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，怎样判断传入神经和传出神经？这是高频考点，常用四种方法。",
+		"seconds": 7.752
+	},
+	"jd2": {
+		"key": "zh-CN-XiaoxiaoNeural|方法一，看神经节：有神经节的是传入神经。",
+		"seconds": 4.92
+	},
+	"jd3": {
+		"key": "zh-CN-XiaoxiaoNeural|方法二，看脊髓灰质：与前角，也就是较宽大的一侧相连的是传出神经；与后角，较狭窄的一侧相连的是传入神经。",
+		"seconds": 11.112
+	},
+	"jd4": {
+		"key": "zh-CN-XiaoxiaoNeural|方法三，看突触：兴奋在突触处只能由一个神经元的轴突末梢，传向下一个神经元，顺着这个方向，就能分出传入和传出。",
+		"seconds": 11.4
+	},
+	"jd5": {
+		"key": "zh-CN-XiaoxiaoNeural|方法四，切断实验：切断某条神经，刺激它靠近中枢的一端，效应器有反应，说明它是传入神经；刺激靠近效应器的一端有反应，它就是传出神经。",
+		"seconds": 14.016
+	},
+	"jd6": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先用神经节或前角、后角确定方向，再按感受器、传入神经、神经中枢、传出神经、效应器的顺序，依次标出五个部分。",
+		"seconds": 13.056
+	},
+	"bk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，反射弧受损的分析。抓住两点：感觉在大脑皮层形成，反应由效应器完成。",
+		"seconds": 8.736
+	},
+	"bk2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果感受器、传入神经或神经中枢受损，兴奋传不上去，既没有感觉，也没有反应。",
+		"seconds": 8.304
+	},
+	"bk3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果传出神经或效应器受损，兴奋仍能经脊髓传到大脑皮层，所以有感觉，但没有反应。",
+		"seconds": 8.688
+	},
+	"bk4": {
+		"key": "zh-CN-XiaoxiaoNeural|如果脊髓里通向大脑的传导通路受损，反射弧本身完整，就没有感觉，但有反应，比如高位截瘫的病人仍有膝跳反射。",
+		"seconds": 11.088
+	},
+	"bk5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：题目说“有感觉、无反应”，受损部位在传出神经或效应器；“无感觉、有反应”，受损的是通向大脑的传导通路。",
+		"seconds": 11.448
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，反射分为非条件反射和条件反射。",
+		"seconds": 4.872
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|非条件反射是出生后无须训练就具有的，比如膝跳反射、眨眼反射、缩手反射，吃东西时分泌唾液。",
+		"seconds": 9.912
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|条件反射是出生后在生活过程中通过学习和训练形成的，比如望梅止渴、谈虎色变。",
+		"seconds": 8.544
+	},
+	"ty4": {
+		"key": "zh-CN-XiaoxiaoNeural|非条件反射的神经中枢在大脑皮层以下，数量有限，终生存在；条件反射需要大脑皮层参与，数量几乎无限，需要不断强化，否则会消退。",
+		"seconds": 13.344
+	},
+	"ty5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：判断条件反射，抓住“后天学习、大脑皮层参与”。其中谈虎色变与语言文字有关，是人类特有的条件反射。",
+		"seconds": 11.592
+	},
+	"pv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，条件反射的建立与消退。照片是巴甫洛夫实验用过的一只狗，嘴边的导管用来收集唾液。",
+		"seconds": 9.84
+	},
+	"pv2": {
+		"key": "zh-CN-XiaoxiaoNeural|给狗喂食，狗会分泌唾液，这是非条件反射，食物是非条件刺激。",
+		"seconds": 6.744
+	},
+	"pv3": {
+		"key": "zh-CN-XiaoxiaoNeural|单独给狗听铃声，狗不会分泌唾液，这时铃声是无关刺激。",
+		"seconds": 6.024
+	},
+	"pv4": {
+		"key": "zh-CN-XiaoxiaoNeural|每次喂食前先响铃，再给食物，重复多次以后，狗一听到铃声就分泌唾液。这时铃声已经变成条件刺激，条件反射就建立了。",
+		"seconds": 12.384
+	},
+	"pv5": {
+		"key": "zh-CN-XiaoxiaoNeural|如果反复只响铃、不喂食，唾液分泌会逐渐减少，直至消失，这就是条件反射的消退。",
+		"seconds": 8.616
+	},
+	"pv6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：消退不是条件反射的简单丧失，而是一个新的学习过程，需要大脑皮层参与，使铃声由引起兴奋的信号，变为产生抑制效应的信号。",
+		"seconds": 12.912
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，条件反射的意义。条件反射是在非条件反射的基础上，通过学习和训练建立的。",
+		"seconds": 9.096
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|它使机体具有更强的预见性、灵活性和适应性，大大提高了动物应对复杂环境变化的能力。",
+		"seconds": 8.448
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问条件反射的意义，答出“使机体能识别刺激物的性质，预先作出反应，提高适应复杂环境变化的能力”。",
+		"seconds": 10.464
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|只要反射弧完整，就能发生反射？错，还需要适宜的刺激。效应器就是肌肉或腺体？错，是传出神经末梢和它支配的肌肉或腺体。",
+		"seconds": 13.488
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|有神经节的是传入神经？对。传出神经受损，既无感觉又无反应？错，是有感觉、无反应。",
+		"seconds": 10.632
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|望梅止渴属于非条件反射？错，属于条件反射。条件反射的消退需要大脑皮层参与？对。",
+		"seconds": 10.104
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串起来：反射靠反射弧完成，先学会判断传入和传出，再分析受损现象，最后分清两类反射。掌握这些，这一节就能稳稳拿分！我们下期再见！",
+		"seconds": 15.264
+	}
+}

@@ -1,0 +1,20 @@
+本期考点
+
+一、元素周期系与构造原理（各周期元素种数2、8、8、18、18、32、32的由来）
+二、周期与能层（周期序数=最高能层序数）
+三、族与价层电子排布（主族看价层电子数，ⅢB～ⅦB看(n−1)d+ns，Ⅷ族，ⅠB、ⅡB）
+四、s、p、d、ds、f区（价层电子排布通式，d、ds、f区全是金属）
+五、由排布推位置（先定周期、再定区、最后定族；0族定位法）
+六、对角线规则（Li与Mg、Be与Al、B与Si，电负性相近）
+七、易错辨析（Cu、Zn在ds区，H在s区、He在p区）
+
+图片来源
+1.Atomic Energy Commission《Glenn Seaborg - 1964》Public domain（Wikimedia Commons）
+2.插图：ちゃなつ！《ラビットカンパニーへようこそ！ 27羽目》
+https://www.pixiv.net/artworks/110736788
+3.插图：sakuzo《ふたりちゃんとぼっちちゃん》
+https://www.pixiv.net/artworks/146913659
+4.插图：あぬ《ピンク髪の二人》
+https://www.pixiv.net/artworks/64509968
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

@@ -1,0 +1,38 @@
+{
+	"id": "XB3-12",
+	"title": "重组DNA技术的基本工具",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第3章",
+	"points": ["基因工程的概念", "限制酶", "黏性末端与平末端", "DNA连接酶", "质粒载体", "其他载体", "DNA的粗提取与鉴定", "几种酶的比较"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["重组DNA技术的"], ["基本工具", true]],
+		"subtitle": "分子手术刀 · 分子缝合针 · 分子运输车",
+		"photo": "berg.jpg",
+		"photoCaption": "保罗·伯格：1972 年构建出第一个重组 DNA 分子",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["重组DNA技术"]], [["基本工具", true]]],
+		"kicker": "限制酶 · DNA连接酶 · 载体",
+		"photo": "berg.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "保罗·伯格",
+		"credit": "Photo: Unknown author, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "限制酶主要从原核生物中分离纯化", "ok": true, "fix": ""},
+			{"q": "限制酶切割的是氢键", "ok": false, "fix": "切割的是特定部位的磷酸二酯键"},
+			{"q": "E. coli DNA连接酶能连接平末端", "ok": false, "fix": "只能连接黏性末端；T​4 DNA连接酶两种都能连"},
+			{"q": "质粒是存在于细菌拟核中的DNA", "ok": false, "fix": "质粒是拟核外的小型环状DNA"},
+			{"q": "DNA不溶于酒精，某些蛋白质溶于酒精", "ok": true, "fix": ""},
+			{"q": "DNA连接酶和DNA聚合酶都形成磷酸二酯键", "ok": true, "fix": ""}
+		],
+		"endTitle": [["重组DNA技术的"], ["基本工具", true]],
+		"endLine": "限制酶 · 黏性末端 · DNA连接酶 · 载体 · DNA粗提取",
+		"slogan": "剪刀切、针缝合、车运输！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Unknown author《Paul Berg in 1980》Public domain"
+}

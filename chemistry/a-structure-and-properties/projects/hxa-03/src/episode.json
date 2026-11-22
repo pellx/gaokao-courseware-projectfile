@@ -1,0 +1,117 @@
+{
+	"id": "HXA-03",
+	"title": "元素周期律",
+	"subject": "chemistry",
+	"book": "物质结构与性质 · 第3期 / 共21期",
+	"points": [
+		"周期性与半径比较",
+		"主要化合价",
+		"金属性的判断",
+		"非金属性的判断",
+		"第三周期金属实验",
+		"第三周期非金属",
+		"不能用周期律解释",
+		"周期表的应用"
+	],
+	"intro": {
+		"badge": "高考化学 · 物质结构与性质",
+		"title": [
+			[
+				"元素"
+			],
+			[
+				"周期律",
+				true
+			]
+		],
+		"subtitle": "半径 · 化合价 · 金属性 · 非金属性",
+		"photo": "mendeleev-law.jpg",
+		"photoCaption": "门捷列夫手书的周期律",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"元素"
+				],
+				[
+					"周期律",
+					true
+				]
+			]
+		],
+		"photo": "mendeleev-law.jpg",
+		"photoPos": "center 30%",
+		"photoTag": "门捷列夫",
+		"credit": "Serge Lachinov, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "离子半径：Na^+ > Mg^2+ > Al^3+",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "主族元素的最高正价都等于其主族序数",
+				"ok": false,
+				"fix": "O、F 除外"
+			},
+			{
+				"q": "酸性 HCl > H2S，可以用元素周期律解释",
+				"ok": false,
+				"fix": "比较的不是最高价含氧酸"
+			},
+			{
+				"q": "碱性 NaOH > Mg(OH)2 > Al(OH)3，说明金属性 Na > Mg > Al",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "HClO 的酸性比 H2CO3 弱，说明非金属性 Cl < C",
+				"ok": false,
+				"fix": "HClO 不是最高价含氧酸"
+			},
+			{
+				"q": "在过渡元素中寻找半导体材料",
+				"ok": false,
+				"fix": "在金属与非金属分界线附近找"
+			}
+		],
+		"endTitle": [
+			[
+				"元素"
+			],
+			[
+				"周期律",
+				true
+			]
+		],
+		"endLine": "半径 · 化合价 · 金属性 · 非金属性 · 不能解释的事实",
+		"slogan": "序大径小，比酸只比最高价！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Serge Lachinov（加工）《Mendeleev law》Public domain；插图来自 pixiv：黒崎@リクエストお断り、mohei🍤、ミモリ（侵删）",
+	"anime": [
+		{
+			"key": "versus",
+			"src": "versus.jpg",
+			"credit": "插图：黒崎@リクエストお断り《ゴジラvs承認欲求モンスター》pixiv #112247938",
+			"url": "https://www.pixiv.net/artworks/112247938"
+		},
+		{
+			"key": "lab",
+			"src": "lab.jpg",
+			"credit": "插图：mohei🍤《ココアちゃんおめでとう！！》pixiv #117702770",
+			"url": "https://www.pixiv.net/artworks/117702770"
+		},
+		{
+			"key": "end",
+			"src": "end.jpg",
+			"credit": "插图：ミモリ《虹夏ちゃん》pixiv #108291223",
+			"url": "https://www.pixiv.net/artworks/108291223"
+		}
+	]
+}

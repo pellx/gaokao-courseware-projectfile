@@ -1,0 +1,124 @@
+{
+	"id": "HXC-01",
+	"title": "钠与钠的氧化物",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第1期 / 共16期",
+	"points": [
+		"钠的性质与保存",
+		"钠与氧气",
+		"钠与水",
+		"两种氧化物的比较",
+		"过氧化钠的反应",
+		"过氧化钠的氧化性"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"钠",
+				true
+			],
+			[
+				"与钠的氧化物"
+			]
+		],
+		"subtitle": "浮熔游响红 · 过氧化钠 · 转移电子",
+		"photo": "davy.jpg",
+		"photoCaption": "戴维：用电解法首次制得金属钠",
+		"photoPos": "center 20%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"钠",
+					true
+				],
+				[
+					"与钠的"
+				]
+			],
+			[
+				[
+					"氧化物"
+				]
+			]
+		],
+		"photo": "davy.jpg",
+		"photoPos": {
+			"16x9": "center 20%",
+			"4x3": "center 20%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "戴维",
+		"credit": "Thomas Lawrence, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "钠保存在煤油中，是因为钠的密度比煤油小",
+				"ok": false,
+				"fix": "钠比煤油重，沉在底部隔绝空气"
+			},
+			{
+				"q": "钠投入 CuSO4 溶液中能置换出铜",
+				"ok": false,
+				"fix": "先与水反应，生成 Cu(OH)2 沉淀"
+			},
+			{
+				"q": "Na2O 和 Na2O2 中阴、阳离子个数比都是 1 : 2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Na2O2 是碱性氧化物",
+				"ok": false,
+				"fix": "与水反应还生成 O2，不是碱性氧化物"
+			},
+			{
+				"q": "Na2O2 与 CO2 反应，每生成 1 mol O2 转移 2 mol 电子",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "钠在空气中加热生成白色的 Na2O",
+				"ok": false,
+				"fix": "生成淡黄色的 Na2O2"
+			}
+		],
+		"endTitle": [
+			[
+				"钠",
+				true
+			],
+			[
+				"与钠的氧化物"
+			]
+		],
+		"endLine": "钠先与水反应，过氧化钠自身歧化",
+		"slogan": "浮熔游响红，过氧根一个，歧化转移一"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Thomas Lawrence《Sir Humphry Davy, Bt》，公有领域；插图来自 pixiv：Sp.、SunTail、リリー（侵删）",
+	"anime": [
+		{
+			"key": "panic",
+			"src": "panic.jpg",
+			"credit": "插图：Sp.《惊恐波奇》pixiv #109729716",
+			"url": "https://www.pixiv.net/artworks/109729716"
+		},
+		{
+			"key": "bang",
+			"src": "bang.jpg",
+			"credit": "插图：SunTail《あかり 爆発》pixiv #77971594",
+			"url": "https://www.pixiv.net/artworks/77971594"
+		},
+		{
+			"key": "yellow",
+			"src": "yellow.jpg",
+			"credit": "插图：リリー《伊地知虹夏さん》pixiv #146757352",
+			"url": "https://www.pixiv.net/artworks/146757352"
+		}
+	]
+}

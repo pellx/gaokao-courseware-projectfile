@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修一第四章第二节的上半部分——体液免疫。",
+		"seconds": 8.112
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|体液免疫是免疫调节的核心，高考常考B细胞的激活、哪些细胞能识别抗原，以及二次免疫的曲线。",
+		"seconds": 9.888
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"rc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，免疫系统怎样识别病原体？",
+		"seconds": 3.936
+	},
+	"rc2": {
+		"key": "zh-CN-XiaoxiaoNeural|人体所有细胞的细胞膜表面，都有作为分子标签起作用的蛋白质，就像身份标志，能被自身的免疫细胞识别，所以免疫细胞一般不攻击自身细胞。",
+		"seconds": 13.44
+	},
+	"rc3": {
+		"key": "zh-CN-XiaoxiaoNeural|病毒、细菌等病原体也带有各自的身份标签，它们能引发免疫反应，就是抗原。",
+		"seconds": 7.752
+	},
+	"rc4": {
+		"key": "zh-CN-XiaoxiaoNeural|免疫细胞靠细胞表面的受体识别抗原。一个B细胞或T细胞，只能识别一种特定的抗原。",
+		"seconds": 8.664
+	},
+	"rc5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：识别的本质是受体与抗原的特异性结合；受体的化学本质是蛋白质。",
+		"seconds": 7.656
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，体液免疫的过程。体液免疫主要靠B细胞产生抗体，消灭体液中的病原体。",
+		"seconds": 8.568
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|一些病原体可以和B细胞直接接触，这为激活B细胞提供了第一个信号。",
+		"seconds": 6.888
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|另一些病原体被树突状细胞、B细胞等抗原呈递细胞摄取、处理，呈递在细胞表面，然后传递给辅助性T细胞。",
+		"seconds": 10.896
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|辅助性T细胞表面的特定分子发生变化，并与B细胞结合，这是激活B细胞的第二个信号。",
+		"seconds": 8.688
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|辅助性T细胞开始分裂、分化，并分泌细胞因子，细胞因子能促进B细胞的分裂、分化过程。",
+		"seconds": 9.624
+	},
+	"pr6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：B细胞要受到两个信号的刺激才开始分裂、分化；细胞因子的作用是促进，它不是那两个信号之一。",
+		"seconds": 10.056
+	},
+	"pl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，B细胞活化以后，开始分裂、分化，大部分分化为浆细胞，小部分分化为记忆B细胞。",
+		"seconds": 9.24
+	},
+	"pl2": {
+		"key": "zh-CN-XiaoxiaoNeural|浆细胞产生和分泌大量抗体，抗体随体液在全身循环，与这种病原体结合。",
+		"seconds": 7.656
+	},
+	"pl3": {
+		"key": "zh-CN-XiaoxiaoNeural|抗体与病原体结合，可以抑制病原体的增殖，或者抑制它对人体细胞的黏附。",
+		"seconds": 7.296
+	},
+	"pl4": {
+		"key": "zh-CN-XiaoxiaoNeural|多数情况下，抗原和抗体结合后会形成沉淀等，进而被其他免疫细胞吞噬消化。",
+		"seconds": 7.704
+	},
+	"pl5": {
+		"key": "zh-CN-XiaoxiaoNeural|记忆B细胞可以存活几年甚至几十年，当再接触这种抗原时，能迅速增殖、分化。",
+		"seconds": 8.256
+	},
+	"pl6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：抗体只能由浆细胞产生，一个浆细胞只产生一种抗体。",
+		"seconds": 6.408
+	},
+	"rz1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，哪些细胞能识别抗原？这是选择题的高频考点。",
+		"seconds": 6.024
+	},
+	"rz2": {
+		"key": "zh-CN-XiaoxiaoNeural|在体液免疫中，B细胞、辅助性T细胞和记忆B细胞都能特异性识别抗原。",
+		"seconds": 7.44
+	},
+	"rz3": {
+		"key": "zh-CN-XiaoxiaoNeural|抗原呈递细胞中的树突状细胞、巨噬细胞能识别抗原，但没有特异性。",
+		"seconds": 6.96
+	},
+	"rz4": {
+		"key": "zh-CN-XiaoxiaoNeural|浆细胞不能识别抗原，它只负责分泌抗体。",
+		"seconds": 4.416
+	},
+	"rz5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：浆细胞是唯一不能识别抗原的；巨噬细胞、树突状细胞能识别但不具特异性；其余的淋巴细胞都能特异性识别。",
+		"seconds": 11.784
+	},
+	"sc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，二次免疫。当同种抗原再次侵入机体时，记忆B细胞迅速增殖、分化，分化后快速产生大量抗体。",
+		"seconds": 11.232
+	},
+	"sc2": {
+		"key": "zh-CN-XiaoxiaoNeural|与初次免疫相比，二次免疫反应更快、更强，产生的抗体更多，往往在病原体致病之前就把它消灭了。",
+		"seconds": 9.84
+	},
+	"sc3": {
+		"key": "zh-CN-XiaoxiaoNeural|二次免疫中的浆细胞，主要来自记忆B细胞，也有一部分来自B细胞。",
+		"seconds": 6.552
+	},
+	"sc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：记忆B细胞自己不产生抗体，它要先增殖、分化为浆细胞；记忆细胞只对同种抗原起作用。",
+		"seconds": 9.624
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，二次免疫的曲线。第一次接触抗原后，抗体浓度上升较慢，峰值较低。",
+		"seconds": 8.208
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二次接触同种抗原后，抗体浓度迅速上升，峰值远高于第一次。",
+		"seconds": 6.528
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|患病程度的曲线正好相反：二次免疫时患病程度很轻，甚至不发病。",
+		"seconds": 7.08
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|接种疫苗正是利用这个原理：相当于先让人体经历一次初次免疫，留下记忆细胞和抗体。",
+		"seconds": 8.4
+	},
+	"cv5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：抗体浓度上升更快、峰值更高的一段就是二次免疫；画曲线时，二次免疫要从第二次接触抗原的时间开始上升。",
+		"seconds": 11.808
+	},
+	"nt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，抗体的本质与分布。抗体的化学本质是蛋白质，也叫免疫球蛋白。",
+		"seconds": 7.56
+	},
+	"nt2": {
+		"key": "zh-CN-XiaoxiaoNeural|抗体属于分泌蛋白：在核糖体上合成，经内质网、高尔基体加工，以胞吐的方式分泌，整个过程由线粒体供能。",
+		"seconds": 10.536
+	},
+	"nt3": {
+		"key": "zh-CN-XiaoxiaoNeural|抗体主要分布在血清中，也分布在组织液和外分泌液中，比如乳汁。",
+		"seconds": 6.336
+	},
+	"nt4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：浆细胞的内质网和高尔基体发达；抗体在细胞外起作用，所以进入细胞内的病原体，要靠细胞免疫来对付。",
+		"seconds": 10.824
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|浆细胞能特异性识别抗原？错，浆细胞不能识别抗原。激活B细胞需要两个信号？对。",
+		"seconds": 9.768
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|记忆B细胞能直接产生大量抗体？错，要先增殖分化为浆细胞。二次免疫反应更快、更强？对。",
+		"seconds": 10.92
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|一个浆细胞能产生多种抗体？错，只能产生一种。抗体主要分布在细胞内？错，主要分布在血清中。",
+		"seconds": 10.752
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串起来：受体识别抗原，两个信号激活B细胞，浆细胞分泌抗体，记忆细胞带来二次免疫。掌握这些，体液免疫就能稳稳拿分！我们下期再见！",
+		"seconds": 14.856
+	}
+}

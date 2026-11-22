@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Hydrogen: React.FC = () => <AutoScene k="hydrogen" d={{"tag": "考点二", "title": "析氢腐蚀与吸氧腐蚀", "blocks": [{"t": "table", "at": "hy1", "head": ["比较项目", "析氢腐蚀", "吸氧腐蚀"], "cols": "1fr 1.6fr 1.6fr", "rows": [{"at": "hy1", "cells": ["条件", "酸性较强", "{弱酸性或中性}"]}, {"at": "hy1", "cells": ["负极", "Fe − 2e^- = Fe^2+", "Fe − 2e^- = Fe^2+"]}, {"at": "hy2", "cells": ["正极", "2H^+ + 2e^- = H2↑", "O2 + 2H2O + 4e^- = {4OH^-}"]}, {"at": "hy2", "cells": ["普遍性", "较少", "{更普遍}"]}], "size": 29, "rowHeight": 60}, {"t": "text", "at": "hy3", "text": "铁锈：Fe(OH)2 → Fe(OH)3 → {Fe2O3·xH2O}", "size": 32, "center": true}], "callout": {"label": "易错", "at": "hy4", "text": "负极都生成 {Fe^2+}，不是 Fe^3+"}, "beat": {"k": "cry", "at": "hy3b", "text": "潮湿空气里\n铁被{吸氧腐蚀|red}"}}} />;

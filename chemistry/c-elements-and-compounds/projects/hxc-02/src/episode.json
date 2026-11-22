@@ -1,0 +1,126 @@
+{
+	"id": "HXC-02",
+	"title": "碳酸钠与碳酸氢钠、焰色试验",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第2期 / 共16期",
+	"points": [
+		"两种盐的性质比较",
+		"与盐酸的反应",
+		"鉴别方法",
+		"相互转化与除杂",
+		"侯氏制碱法",
+		"焰色试验",
+		"滴加盐酸的图像"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"碳酸钠与碳酸氢钠",
+				true
+			],
+			[
+				"、焰色试验"
+			]
+		],
+		"subtitle": "热稳定性 · 鉴别与除杂 · 侯氏制碱 · 焰色",
+		"photo": "hou.jpg",
+		"photoCaption": "侯德榜：发明侯氏制碱法",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"碳酸钠",
+					true
+				],
+				[
+					"与"
+				]
+			],
+			[
+				[
+					"碳酸氢钠",
+					true
+				]
+			]
+		],
+		"photo": "hou.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "侯德榜",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "同浓度时 NaHCO3 溶液的碱性比 Na2CO3 强",
+				"ok": false,
+				"fix": "Na2CO3 的碱性更强"
+			},
+			{
+				"q": "可用澄清石灰水鉴别 Na2CO3 和 NaHCO3 溶液",
+				"ok": false,
+				"fix": "两者都生成白色沉淀"
+			},
+			{
+				"q": "除去 Na2CO3 固体中的 NaHCO3，可用加热的方法",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "侯氏制碱法中应先通 CO2，再通 NH3",
+				"ok": false,
+				"fix": "先通 NH3，再通 CO2"
+			},
+			{
+				"q": "观察钾的焰色要透过蓝色钴玻璃",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "焰色试验是化学变化",
+				"ok": false,
+				"fix": "是物理变化"
+			}
+		],
+		"endTitle": [
+			[
+				"碳酸钠与碳酸氢钠",
+				true
+			],
+			[
+				"、焰色试验"
+			]
+		],
+		"endLine": "小苏打怕热，先氨后碳，钾透钴玻璃",
+		"slogan": "小苏打怕热，先氨后碳，钾透钴玻璃"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《侯德榜》，公有领域；插图来自 pixiv：AlwaysBetabeats、羅威懴 (raiza)、TokiSan（侵删）",
+	"anime": [
+		{
+			"key": "twins",
+			"src": "twins.jpg",
+			"credit": "插图：AlwaysBetabeats《Adorable Ikeda twins》pixiv #128048465",
+			"url": "https://www.pixiv.net/artworks/128048465"
+		},
+		{
+			"key": "bake",
+			"src": "bake.jpg",
+			"credit": "插图：羅威懴 (raiza)《ホットケーキ》pixiv #126542669",
+			"url": "https://www.pixiv.net/artworks/126542669"
+		},
+		{
+			"key": "flame",
+			"src": "flame.jpg",
+			"credit": "插图：TokiSan《Mugi-chan》pixiv #77535701",
+			"url": "https://www.pixiv.net/artworks/77535701"
+		}
+	]
+}

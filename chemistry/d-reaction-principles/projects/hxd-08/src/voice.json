@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|弱电解质的电离平衡。",
+		"seconds": 2.568
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题比较稀释和中和过程，大题用电离常数判断反应能否发生，共七个考点。",
+		"seconds": 8.136
+	},
+	"sw1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，强电解质在水溶液中全部电离：强酸、强碱、绝大多数盐。弱电解质部分电离：弱酸、弱碱、水。",
+		"seconds": 11.52
+	},
+	"sw2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见弱酸：醋酸、碳酸、次氯酸、氢氟酸、氢硫酸、亚硫酸；常见弱碱：一水合氨。",
+		"seconds": 9.096
+	},
+	"sw2b": {
+		"key": "zh-CN-XiaoxiaoNeural|手掌大的粉发女孩站在一碗米饭上：弱电解质只有一小部分电离成离子，大部分还是分子。",
+		"seconds": 8.856
+	},
+	"sw3": {
+		"key": "zh-CN-XiaoxiaoNeural|强弱看的是电离程度，和溶解性无关：硫酸钡难溶，但溶解的部分全部电离，是强电解质。",
+		"seconds": 8.784
+	},
+	"sw4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：导电能力看离子浓度和电荷，强电解质的稀溶液导电性可能比弱电解质的浓溶液弱。",
+		"seconds": 8.64
+	},
+	"io1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电离方程式。强电解质用等号：氯化氢等于氢离子加氯离子；弱电解质用可逆号：醋酸可逆电离成醋酸根和氢离子。",
+		"seconds": 12.72
+	},
+	"io2": {
+		"key": "zh-CN-XiaoxiaoNeural|多元弱酸分步电离，以第一步为主：碳酸可逆电离成氢离子和碳酸氢根，碳酸氢根再可逆电离成氢离子和碳酸根。",
+		"seconds": 11.136
+	},
+	"io3": {
+		"key": "zh-CN-XiaoxiaoNeural|多元弱碱一步写出：氢氧化铁可逆电离成铁离子和三个氢氧根。",
+		"seconds": 6.408
+	},
+	"io4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：硫酸氢钠在水中电离成钠离子、氢离子和硫酸根；熔融时只电离成钠离子和硫酸氢根。碳酸氢钠电离成钠离子和碳酸氢根，不能拆出氢离子。",
+		"seconds": 15.12
+	},
+	"fa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，影响电离平衡的因素。以醋酸的电离为例。电离是吸热过程，升温促进电离。",
+		"seconds": 8.952
+	},
+	"fa2": {
+		"key": "zh-CN-XiaoxiaoNeural|加水稀释：越稀越电离，电离程度增大。",
+		"seconds": 4.416
+	},
+	"fa3": {
+		"key": "zh-CN-XiaoxiaoNeural|同离子效应：加入醋酸钠固体，醋酸根浓度增大，平衡逆移，电离程度减小。",
+		"seconds": 7.824
+	},
+	"fa4": {
+		"key": "zh-CN-XiaoxiaoNeural|加入能反应的物质：加氢氧化钠，消耗氢离子，平衡正移。",
+		"seconds": 5.976
+	},
+	"fa5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：加冰醋酸，平衡正移，但醋酸的电离程度减小，因为醋酸浓度变大了。",
+		"seconds": 7.776
+	},
+	"di1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，稀释弱酸。以醋酸溶液为例：氢离子的物质的量增大，因为电离程度变大了。",
+		"seconds": 8.52
+	},
+	"di2": {
+		"key": "zh-CN-XiaoxiaoNeural|但溶液体积增大得更多，氢离子浓度减小，pH增大。",
+		"seconds": 5.376
+	},
+	"di3": {
+		"key": "zh-CN-XiaoxiaoNeural|比值题：醋酸根浓度与醋酸浓度之比，等于Ka除以氢离子浓度，氢离子浓度减小，比值增大。",
+		"seconds": 9.408
+	},
+	"di3b": {
+		"key": "zh-CN-XiaoxiaoNeural|五个一模一样的橙发女孩挤在一个箱子里：加水就像把箱子换大，人数还多了一点，但每平方米的人更少了。",
+		"seconds": 9.72
+	},
+	"di4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：遇到稀释时的比值，乘上同一个量凑成Ka或Kw，再看剩下的量怎么变。",
+		"seconds": 8.4
+	},
+	"ka1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，电离常数：醋酸的Ka等于醋酸根浓度乘氢离子浓度，除以醋酸浓度。",
+		"seconds": 7.728
+	},
+	"ka2": {
+		"key": "zh-CN-XiaoxiaoNeural|Ka只与温度有关，升温Ka增大。",
+		"seconds": 3.48
+	},
+	"ka3": {
+		"key": "zh-CN-XiaoxiaoNeural|同温下，Ka越大，酸性越强。多元弱酸Ka一远大于Ka二，酸性主要由第一步决定。",
+		"seconds": 8.52
+	},
+	"ka3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩握着拳，身边飘着星星：Ka越大，就像星星越亮，酸性越强。",
+		"seconds": 7.32
+	},
+	"ka4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：稀释、加酸、加盐都不改变Ka；常见酸性：醋酸大于碳酸大于次氯酸大于碳酸氢根。",
+		"seconds": 9.792
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，用Ka判断反应：强酸制弱酸。酸性强的酸能和酸性弱的酸对应的盐反应。",
+		"seconds": 8.448
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|次氯酸钠溶液中通入少量二氧化碳：酸性碳酸大于次氯酸大于碳酸氢根，所以生成次氯酸和碳酸氢钠，不生成碳酸钠。",
+		"seconds": 11.616
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|方程式：次氯酸根加二氧化碳加水，生成次氯酸和碳酸氢根。",
+		"seconds": 6.528
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：把酸性从强到弱排成一列，只能前面的酸制后面的酸；看产物时比较的是次氯酸和碳酸氢根谁更强。",
+		"seconds": 10.872
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，强酸与弱酸的比较。等浓度的盐酸和醋酸：盐酸的氢离子浓度大，与锌开始反应快；中和氢氧化钠的能力相同。",
+		"seconds": 11.76
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|等pH的盐酸和醋酸：醋酸浓度远大于盐酸，与足量锌反应产生氢气更多，中和氢氧化钠更多。",
+		"seconds": 9.6
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|等pH的两种酸稀释相同倍数，醋酸pH变化更小，因为稀释时还会继续电离。",
+		"seconds": 8.304
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先分清是等浓度还是等pH，再判断；等pH时，反应过程中醋酸的氢离子浓度下降更慢，反应更快。",
+		"seconds": 11.28
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：硫酸钡难溶，是弱电解质？错，是强电解质。判断二：碳酸一步电离出两个氢离子？错，要分步写。",
+		"seconds": 12.312
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：稀释醋酸，氢离子物质的量增大、浓度减小？对。判断四：加冰醋酸，电离程度增大？错，电离程度减小。",
+		"seconds": 13.248
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：次氯酸钠溶液中通少量二氧化碳生成碳酸钠？错，生成碳酸氢钠。判断六：等pH的盐酸和醋酸，醋酸中和碱更多？对。",
+		"seconds": 14.352
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|越稀越电离，强酸制弱酸。下一期：水的电离与溶液的pH。",
+		"seconds": 6.696
+	}
+}

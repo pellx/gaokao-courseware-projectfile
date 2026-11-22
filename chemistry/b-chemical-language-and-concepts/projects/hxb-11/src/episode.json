@@ -1,0 +1,126 @@
+{
+	"id": "HXB-11",
+	"title": "陌生氧化还原方程式书写",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第11期 / 共12期",
+	"points": [
+		"四步法",
+		"定产物的对应表",
+		"环境决定补什么",
+		"从信息读产物",
+		"歧化与归中的写法",
+		"有机物参与",
+		"化学式与离子式",
+		"典型失分点"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"陌生",
+				true
+			],
+			[
+				"氧化还原方程式书写"
+			]
+		],
+		"subtitle": "定产物 · 电子守恒 · 电荷守恒 · 原子守恒",
+		"photo": "bromine.jpg",
+		"photoCaption": "液溴：流程题中常见的氧化剂",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"陌生",
+					true
+				],
+				[
+					"方程式"
+				]
+			],
+			[
+				[
+					"四步写对"
+				]
+			]
+		],
+		"photo": "bromine.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "液溴",
+		"credit": "Alchemist-hp, CC BY-SA 3.0 de",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "酸性 KMnO4 作氧化剂时被还原为 MnO2",
+				"ok": false,
+				"fix": "酸性条件下被还原为 Mn^2+"
+			},
+			{
+				"q": "酸性溶液中配平离子方程式可以补 OH^-",
+				"ok": false,
+				"fix": "只能补 H^+ 和 H2O"
+			},
+			{
+				"q": "2MnO4^- + 5H2O2 + 6H^+ = 2Mn^2+ + 5O2↑ + 8H2O",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "H2O2 作氧化剂时被还原为 O2",
+				"ok": false,
+				"fix": "作氧化剂生成 H2O，作还原剂生成 O2"
+			},
+			{
+				"q": "配平时先配电荷守恒，再配得失电子守恒",
+				"ok": false,
+				"fix": "先配得失电子守恒"
+			},
+			{
+				"q": "Cl2 与热的 NaOH 溶液反应可生成 NaClO3",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"陌生",
+				true
+			],
+			[
+				"氧化还原方程式书写"
+			]
+		],
+		"endLine": "定产物、配电子、配电荷、配原子",
+		"slogan": "定产物，配电子，配电荷，配原子"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Alchemist-hp《Bromine vial in acrylic cube》，CC BY-SA 3.0 de；插图来自 pixiv：どど、ハコニワ・ハルキ、けば（侵删）",
+	"anime": [
+		{
+			"key": "puzzle",
+			"src": "puzzle.jpg",
+			"credit": "插图：どど《inktober 10/26 puzzling》pixiv #136985729",
+			"url": "https://www.pixiv.net/artworks/136985729"
+		},
+		{
+			"key": "curry",
+			"src": "curry.jpg",
+			"credit": "插图：ハコニワ・ハルキ《大室櫻子-1》pixiv #111992256",
+			"url": "https://www.pixiv.net/artworks/111992256"
+		},
+		{
+			"key": "akari",
+			"src": "akari.jpg",
+			"credit": "插图：けば《赤座あかりデフォルメ》pixiv #42446719",
+			"url": "https://www.pixiv.net/artworks/42446719"
+		}
+	]
+}

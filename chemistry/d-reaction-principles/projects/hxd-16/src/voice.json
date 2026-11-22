@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电解原理。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|先定阴阳极，再按放电顺序写电极反应，最后用电子守恒计算，共七个考点。",
+		"seconds": 7.896
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，电解：在直流电作用下，电解质在两个电极上分别发生氧化反应和还原反应。电能转化为化学能。",
+		"seconds": 10.896
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|阴阳极判断：与电源正极相连的是阳极，发生氧化反应；与电源负极相连的是阴极，发生还原反应。",
+		"seconds": 10.104
+	},
+	"po2b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴发箍的棕发女孩额头闪闪发亮，一脸不服：记住阳极接正极、阳极氧化，两个“阳”字连在一起。",
+		"seconds": 9.384
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以从现象判断：产生氯气、氧气的是阳极；析出金属、产生氢气的通常是阴极。",
+		"seconds": 8.64
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：原电池叫正负极，电解池叫阴阳极，别混用；电解池的阳极对应原电池的“失电子”。",
+		"seconds": 9.12
+	},
+	"mv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，离子的移动：阳离子移向阴极，阴离子移向阳极。",
+		"seconds": 5.856
+	},
+	"mv2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子：从电源负极流向阴极，从阳极流回电源正极。电子同样不经过溶液。",
+		"seconds": 7.8
+	},
+	"mv3": {
+		"key": "zh-CN-XiaoxiaoNeural|对比原电池：原电池阳离子移向正极，电解池阳离子移向阴极。共同点是：阳离子总是移向得电子的那一极。",
+		"seconds": 10.848
+	},
+	"mv4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：别用“异性相吸”只记一半，记住阳离子去还原的电极：原电池正极、电解池阴极。",
+		"seconds": 8.688
+	},
+	"an1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，阳极放电顺序。先看电极：活性电极，也就是除金、铂外的金属作阳极，电极本身先失电子。",
+		"seconds": 10.824
+	},
+	"an2": {
+		"key": "zh-CN-XiaoxiaoNeural|惰性电极，也就是石墨或铂：溶液中阴离子按顺序放电：硫离子、碘离子、溴离子、氯离子、氢氧根，最后才是含氧酸根。",
+		"seconds": 12.552
+	},
+	"an3": {
+		"key": "zh-CN-XiaoxiaoNeural|含氧酸根比如硫酸根、硝酸根一般不放电，此时是水电离的氢氧根放电：两个水失去四个电子，生成氧气和四个氢离子。",
+		"seconds": 11.76
+	},
+	"an3b": {
+		"key": "zh-CN-XiaoxiaoNeural|扎着丸子头的红发女孩眨眼指着前方：先看电极是不是活性的，再排阴离子的队。",
+		"seconds": 7.776
+	},
+	"an4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：用铜作阳极电解硫酸铜溶液，放电的是铜本身，不是氢氧根。",
+		"seconds": 6.888
+	},
+	"ca1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，阴极放电顺序：阴极不管电极材料，只看溶液中阳离子得电子的能力。",
+		"seconds": 7.92
+	},
+	"ca2": {
+		"key": "zh-CN-XiaoxiaoNeural|顺序：银离子、铁离子、铜离子、酸中的氢离子，然后是铅离子、亚铁离子、锌离子、水中的氢离子，最后是铝离子、镁离子、钠离子。",
+		"seconds": 14.256
+	},
+	"ca3": {
+		"key": "zh-CN-XiaoxiaoNeural|水溶液中铝离子、镁离子、钠离子、钾离子不放电，是水电离的氢离子放电：两个水得到两个电子，生成氢气和两个氢氧根。",
+		"seconds": 12.24
+	},
+	"ca4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铁离子先得电子变成亚铁离子，不是直接变成铁；要得到钠、镁、铝，必须电解熔融化合物。",
+		"seconds": 10.176
+	},
+	"ty1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，用惰性电极电解溶液的四种类型。电解水型：硫酸、氢氧化钠、硫酸钠溶液，实质是电解水，浓度增大。",
+		"seconds": 11.784
+	},
+	"ty2": {
+		"key": "zh-CN-XiaoxiaoNeural|电解电解质型：盐酸、氯化铜溶液，电解质本身分解。",
+		"seconds": 5.808
+	},
+	"ty3": {
+		"key": "zh-CN-XiaoxiaoNeural|放氢生碱型：氯化钠溶液，生成氢氧化钠、氢气、氯气，pH增大。放氧生酸型：硫酸铜、硝酸银溶液，生成酸，pH减小。",
+		"seconds": 13.272
+	},
+	"ty4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：分别写出阴阳两极放电的离子，就能判断属于哪一类，溶液 pH 怎么变。",
+		"seconds": 8.016
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，电解后溶液的复原：出什么，加什么。从溶液中出去了什么元素，就按比例加回什么。",
+		"seconds": 9.216
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|电解硫酸铜溶液：阴极出铜，阳极出氧气，相当于出去了氧化铜，加氧化铜复原，也可以加碳酸铜。",
+		"seconds": 9.84
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|电解氯化钠溶液：出去的是氢气和氯气，应通入氯化氢气体，不是加盐酸。",
+		"seconds": 7.416
+	},
+	"re3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩被画成了一颗豆子，笑眯眯的：少了什么就补什么，一样一样对上。",
+		"seconds": 6.744
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电解硫酸铜溶液，如果铜离子电解完后继续电解水，要加氢氧化铜才能复原。",
+		"seconds": 8.496
+	},
+	"cc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，电解计算：串联电路中，各电极转移的电子数相等。",
+		"seconds": 6.216
+	},
+	"cc2": {
+		"key": "zh-CN-XiaoxiaoNeural|用电子串联关系式：四个电子对应一个氧气、两个铜、两个氯气、两个氢气、四个银、四个氢离子、四个氢氧根。",
+		"seconds": 10.848
+	},
+	"cc3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：电解硫酸铜溶液，阴极析出6.4克铜，即0.1摩尔，转移0.2摩尔电子，阳极生成氧气0.05摩尔。",
+		"seconds": 11.136
+	},
+	"cc4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先写出两极反应，找出已知量对应的电子数，再用电子守恒求其他量；气体体积注意是否标准状况。",
+		"seconds": 10.656
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：与正极相连的是阴极？错，是阳极。判断二：阳离子移向阴极？对。",
+		"seconds": 9.216
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：铜作阳极电解硫酸铜，阳极放氧气？错，铜自己溶解。判断四：电解硫酸钠溶液实质是电解水？对。",
+		"seconds": 12.864
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：电解氯化钠溶液后加盐酸复原？错，通氯化氢气体。判断六：电解硝酸银溶液pH增大？错，生成酸，pH减小。",
+		"seconds": 13.968
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|阳极接正失电子，活性电极先溶解，出什么加什么。下一期：电解的应用与离子交换膜。",
+		"seconds": 9.192
+	}
+}

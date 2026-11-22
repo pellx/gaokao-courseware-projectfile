@@ -1,0 +1,20 @@
+本期考点
+
+一、关系式法（碘量法测 Cu²⁺：Cu²⁺ ～ S₂O₃²⁻）
+二、电子守恒建关系（只看始态和终态：2n(Cu) = 4n(O₂)）
+三、原子守恒（FeS₂ ～ 2H₂SO₄，产率按关键元素算）
+四、滴定计算（MnO₄⁻ ～ 5Fe²⁺、Cr₂O₇²⁻ ～ 6Fe²⁺、I₂ ～ 2S₂O₃²⁻）
+五、纯度与产率表达式（mL 乘 10⁻³，比例和倍数都写进去）
+六、滴定误差分析（未润洗偏高、锥形瓶有水无影响）
+七、答题规范（读数两位小数，舍去离群数据）
+
+图片来源
+1.P. E. Alessandri 1895 年化学书插图《Titration with a Mohr burette》，公有领域（Wikimedia Commons）
+2.插图：月明 桜《けいおん！》
+https://www.pixiv.net/artworks/72927224
+3.插图：のりもとパイン《ぼっちちゃん》
+https://www.pixiv.net/artworks/124029146
+4.插图：铁锈味容器《K-ON!》
+https://www.pixiv.net/artworks/139872968
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

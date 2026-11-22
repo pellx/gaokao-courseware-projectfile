@@ -1,0 +1,38 @@
+{
+	"id": "BX1-17",
+	"title": "细胞呼吸的原理和应用（上）",
+	"subject": "biology",
+	"book": "人教版·必修1·第5章",
+	"points": ["实验装置", "二氧化碳与酒精检测", "对比实验", "有氧呼吸总反应式", "有氧呼吸三个阶段", "能量与元素去向", "易错辨析"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞呼吸："], ["有氧呼吸", true]],
+		"subtitle": "细胞呼吸的原理和应用（上） · 酵母菌呼吸方式的探究",
+		"photo": "pasteur.jpg",
+		"photoCaption": "巴斯德：研究发酵与酵母菌",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞呼吸"]], [["有氧呼吸", true]]],
+		"kicker": "实验探究 · 三个阶段",
+		"photo": "pasteur.jpg",
+		"photoPos": "center 25%",
+		"photoTag": "巴斯德",
+		"credit": "Paul Nadar, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "NaOH溶液用来吸收酵母菌产生的CO2", "ok": false, "fix": "吸收的是空气中的CO2"},
+			{"q": "酒精可使酸性重铬酸钾溶液变成灰绿色", "ok": true, "fix": ""},
+			{"q": "有氧呼吸第三阶段需要水参与", "ok": false, "fix": "水在第二阶段参与反应"},
+			{"q": "O2中的氧最终进入CO2中", "ok": false, "fix": "O2中的氧进入生成的水中"},
+			{"q": "线粒体可以直接分解葡萄糖", "ok": false, "fix": "进入线粒体的是丙酮酸"},
+			{"q": "没有线粒体的细胞也可能进行有氧呼吸", "ok": true, "fix": ""}
+		],
+		"endTitle": [["细胞呼吸："], ["有氧呼吸", true]],
+		"endLine": "实验装置 · 产物检测 · 对比实验 · 三个阶段",
+		"slogan": "水二耗三生，氧气只在第三阶段！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Paul Nadar《Louis Pasteur》Public domain"
+}

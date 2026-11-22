@@ -1,0 +1,38 @@
+{
+	"id": "XB2-08",
+	"title": "生态系统的能量流动（上）：过程和特点",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第3章",
+	"points": ["能量流动的概念", "流经第一营养级", "流经第二营养级", "同化量的去向", "赛达伯格湖", "单向流动逐级递减", "生态金字塔"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["能量流动："], ["过程和特点", true]],
+		"subtitle": "生态系统的能量流动（上）",
+		"photo": "grasshopper.jpg",
+		"photoCaption": "蝗虫取食玉米叶：能量流入第二营养级",
+		"photoPos": "55% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["能量流动"]], [["过程和特点", true]]],
+		"kicker": "单向流动 · 逐级递减",
+		"photo": "grasshopper.jpg",
+		"photoPos": "55% center",
+		"photoTag": "蝗虫取食玉米叶",
+		"credit": "Photo: Shree Krishna Dhital, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "总能量是照射到生产者上的太阳能", "ok": false, "fix": "是生产者固定的太阳能总量"},
+			{"q": "初级消费者粪便中的能量属于它的同化量", "ok": false, "fix": "属于上一营养级的同化量"},
+			{"q": "同化量 = 呼吸散失 + 生长发育繁殖", "ok": true, "fix": ""},
+			{"q": "传递效率指相邻两个个体之间的效率", "ok": false, "fix": "指相邻两个营养级之间"},
+			{"q": "能量金字塔通常不会倒置", "ok": true, "fix": ""},
+			{"q": "能量可以在生态系统中循环利用", "ok": false, "fix": "能量单向流动，不能循环"}
+		],
+		"endTitle": [["能量流动："], ["过程和特点", true]],
+		"endLine": "输入 · 传递 · 转化 · 散失 · 单向流动 · 逐级递减",
+		"slogan": "摄入减粪便是同化，粪便算上一级！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Shree Krishna Dhital《Grasshopper eating the maize leaf》CC BY-SA 3.0"
+}

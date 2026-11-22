@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Step: React.FC = () => <AutoScene k="step" d={{"tag": "考点二", "title": "滴定操作步骤", "blocks": [{"t": "chain", "steps": [{"at": "sp1", "text": "{检漏}"}, {"at": "sp1", "text": "洗涤"}, {"at": "sp1", "text": "{润洗}"}, {"at": "sp1", "text": "装液"}, {"at": "sp1", "text": "赶气泡"}, {"at": "sp1", "text": "调零"}], "arrows": [], "center": true, "size": 32}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "滴定管", "at": "sp2", "text": "用待装液{润洗 2～3 次}", "c": "red", "size": 31}]}, {"blocks": [{"t": "rule", "tag": "锥形瓶", "at": "sp2", "text": "{不能润洗|orange}", "c": "orange", "size": 31}]}]}, {"t": "text", "at": "sp3", "text": "眼睛注视{锥形瓶内溶液颜色}，不是看滴定管", "size": 32}], "callout": {"label": "易错", "at": "sp4", "text": "锥形瓶有蒸馏水：{不影响}结果"}, "beat": {"k": "mio", "at": "sp3b", "text": "滴定管{润洗|red}\n锥形瓶{不润洗|red}"}}} />;

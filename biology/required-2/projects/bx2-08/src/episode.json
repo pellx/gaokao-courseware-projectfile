@@ -1,0 +1,38 @@
+{
+	"id": "BX2-08",
+	"title": "伴性遗传",
+	"subject": "biology",
+	"book": "人教版·必修2·第2章",
+	"points": ["伴性遗传与性别决定", "红绿色盲的遗传", "伴X隐性遗传特点", "伴X显性遗传", "伴Y遗传与同源区段", "芦花鸡辨别雌雄", "系谱图遗传方式判断", "基因位置的实验判断"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["伴性"], ["遗传", true]],
+		"subtitle": "红绿色盲 · 抗维生素 D 佝偻病 · 芦花鸡 · 系谱图",
+		"photo": "barred.jpg",
+		"photoCaption": "芦花鸡：羽毛有黑白相间的横斑",
+		"photoPos": "88% 50%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["伴性"]], [["遗传", true]]],
+		"kicker": "系谱图 · 实验设计",
+		"photo": "barred.jpg",
+		"photoPos": {"16x9": "88% 50%", "4x3": "70% 50%", "3x4": "center 50%"},
+		"photoTag": "芦花鸡",
+		"credit": "Illustration: Arthur O. Schilling, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "性染色体上的基因都与性别决定有关", "ok": false, "fix": "不一定，如红绿色盲基因"},
+			{"q": "色盲男孩的致病基因来自他的父亲", "ok": false, "fix": "只能来自母亲"},
+			{"q": "伴 X 隐性遗传病女患者的父亲和儿子一定患病", "ok": true, "fix": ""},
+			{"q": "抗维生素 D 佝偻病男患者的女儿一定患病", "ok": true, "fix": ""},
+			{"q": "鸡的性别决定方式是 XY 型", "ok": false, "fix": "是 ZW 型，雌鸡为 ZW"},
+			{"q": "正交与反交结果不同，基因可能位于 X 染色体上", "ok": true, "fix": ""}
+		],
+		"endTitle": [["伴性"], ["遗传", true]],
+		"endLine": "XY 与 ZW · 色盲 · 佝偻病 · 伴 Y · 芦花鸡 · 系谱图 · 实验设计",
+		"slogan": "隐性看女病，显性看男病！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Arthur Oscar Schilling《Barred Plymouth Rocks》Public domain"
+}

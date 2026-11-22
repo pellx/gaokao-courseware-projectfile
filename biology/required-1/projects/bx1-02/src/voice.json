@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第一章第二节——细胞的多样性和统一性。",
+		"seconds": 7.68
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考高倍显微镜的使用和相关计算，以及原核细胞与真核细胞的比较。",
+		"seconds": 7.44
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"sc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，高倍显微镜的使用。第一步，先在低倍镜下找到要观察的物像。",
+		"seconds": 7.392
+	},
+	"sc2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，把物像移到视野中央；第三步，转动转换器，换上高倍物镜。",
+		"seconds": 6.912
+	},
+	"sc3": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，视野变暗时调大光圈或换凹面镜，再转动细准焦螺旋，直到物像清晰。",
+		"seconds": 7.992
+	},
+	"sc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：换高倍镜前不用升高镜筒，换高倍镜后不能再动粗准焦螺旋。",
+		"seconds": 7.248
+	},
+	"im1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，显微镜成像的特点。显微镜成的是放大的倒像，相当于把图像旋转一百八十度。",
+		"seconds": 8.88
+	},
+	"im2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以物像在视野的左下方，实际物体在右上方；要把物像移到中央，装片要向左下方移动。",
+		"seconds": 8.736
+	},
+	"im3": {
+		"key": "zh-CN-XiaoxiaoNeural|放大倍数等于目镜倍数乘物镜倍数，指的是物体长度或宽度的放大，不是面积。",
+		"seconds": 7.704
+	},
+	"im4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：移装片记住“偏哪移哪”；判断实物形状时，把图像旋转一百八十度。",
+		"seconds": 7.728
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，放大倍数改变后视野中细胞数目的计算。分两种情况。",
+		"seconds": 6.936
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞排成一行：放大倍数变为原来的4倍，看到的细胞数变为原来的四分之一。比如8个变成2个。",
+		"seconds": 9.864
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞充满视野：长和宽都放大4倍，面积放大16倍，细胞数变为十六分之一。比如64个变成4个。",
+		"seconds": 10.8
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：放大n倍，一行的除以n，充满视野的除以n的平方。",
+		"seconds": 6.24
+	},
+	"pe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，原核细胞与真核细胞。两者最根本的区别：有无以核膜为界限的细胞核。",
+		"seconds": 8.664
+	},
+	"pe2": {
+		"key": "zh-CN-XiaoxiaoNeural|原核细胞没有成形的细胞核，DNA集中在拟核区域，是裸露的环状DNA，不形成染色体。",
+		"seconds": 8.976
+	},
+	"pe3": {
+		"key": "zh-CN-XiaoxiaoNeural|原核细胞只有核糖体一种细胞器；真核细胞有线粒体、叶绿体、内质网等多种细胞器。",
+		"seconds": 8.592
+	},
+	"pe4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：有无细胞壁不是区别——细菌也有细胞壁，但成分是肽聚糖，植物细胞壁是纤维素和果胶。",
+		"seconds": 9.288
+	},
+	"pk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，常见的原核生物。第一类是细菌：球菌、杆菌、螺旋菌，比如大肠杆菌、乳酸菌。",
+		"seconds": 9.48
+	},
+	"pk2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二类是蓝细菌：色球蓝细菌、颤蓝细菌、念珠蓝细菌，还有发菜。",
+		"seconds": 7.056
+	},
+	"pk3": {
+		"key": "zh-CN-XiaoxiaoNeural|蓝细菌没有叶绿体，但含有藻蓝素和叶绿素，能进行光合作用，是自养生物。",
+		"seconds": 7.464
+	},
+	"pk4": {
+		"key": "zh-CN-XiaoxiaoNeural|还有支原体，它没有细胞壁，课本说它可能是最小、最简单的单细胞生物。",
+		"seconds": 7.152
+	},
+	"pk5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能光合作用的不一定有叶绿体，蓝细菌就是例子；水体富营养化时的“水华”，就有蓝细菌大量繁殖。",
+		"seconds": 10.224
+	},
+	"un1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，原核细胞与真核细胞的统一性。它们都有细胞膜和细胞质。",
+		"seconds": 6.816
+	},
+	"un2": {
+		"key": "zh-CN-XiaoxiaoNeural|都有核糖体这种细胞器，用来合成蛋白质。",
+		"seconds": 4.464
+	},
+	"un3": {
+		"key": "zh-CN-XiaoxiaoNeural|遗传物质都是DNA。这体现了细胞的统一性，也说明生物之间存在亲缘关系。",
+		"seconds": 7.992
+	},
+	"un4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问原核细胞和真核细胞的共同点。解题方法：记住四个“都有”——膜、质、核糖体、DNA。",
+		"seconds": 10.296
+	},
+	"cf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，易混生物辨析。名字带“菌”的不一定是细菌：酵母菌、霉菌和蘑菇都是真菌，属于真核生物。",
+		"seconds": 10.176
+	},
+	"cf2": {
+		"key": "zh-CN-XiaoxiaoNeural|名字里带杆、球、弧、螺旋的菌，以及乳酸菌，才是细菌，属于原核生物。",
+		"seconds": 7.896
+	},
+	"cf3": {
+		"key": "zh-CN-XiaoxiaoNeural|衣藻、水绵、黑藻这些绿藻和植物是真核生物，而蓝细菌是原核生物。",
+		"seconds": 7.608
+	},
+	"cf4": {
+		"key": "zh-CN-XiaoxiaoNeural|病毒没有细胞结构，既不是原核生物，也不是真核生物。",
+		"seconds": 5.4
+	},
+	"cf5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先排除病毒，再看有没有成形的细胞核；记住常见的几种真菌和蓝细菌就够用了。",
+		"seconds": 8.904
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，应调光圈或反光镜，只能用细准焦螺旋。判断二？对，偏哪移哪。",
+		"seconds": 9.552
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，根本区别是有无以核膜为界限的细胞核。判断四？错，蓝细菌能光合作用。",
+		"seconds": 10.392
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，酵母菌是真核生物。",
+		"seconds": 6.504
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：先看有没有成形的细胞核。我们下期再见！",
+		"seconds": 6.576
+	}
+}

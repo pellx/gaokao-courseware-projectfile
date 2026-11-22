@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第一章第二节的下半部分——微生物的选择培养和计数。",
+		"seconds": 9.528
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考选择培养基的设计、稀释涂布平板法的计数公式和误差，以及对照组的作用。",
+		"seconds": 8.16
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"se1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，选择培养基。它允许特定种类的微生物生长，同时抑制或阻止其他种类微生物生长。",
+		"seconds": 9.36
+	},
+	"se2": {
+		"key": "zh-CN-XiaoxiaoNeural|以尿素为唯一氮源，只有能分解尿素的微生物才能生长。",
+		"seconds": 5.52
+	},
+	"se3": {
+		"key": "zh-CN-XiaoxiaoNeural|加入青霉素，可以抑制细菌，从而筛选出酵母菌、霉菌等真菌。",
+		"seconds": 6.12
+	},
+	"se4": {
+		"key": "zh-CN-XiaoxiaoNeural|不加氮源的培养基，可以筛选出固氮微生物。",
+		"seconds": 4.344
+	},
+	"se5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：设计选择培养基，抓住目的菌独有的能力，把相应物质设为唯一碳源或唯一氮源。",
+		"seconds": 9.264
+	},
+	"ur1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，土壤中分解尿素的细菌的分离与计数。这类细菌能合成脲酶，把尿素分解成氨。",
+		"seconds": 8.976
+	},
+	"ur2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以培养基要以尿素为唯一氮源，其他微生物因为缺少氮源而不能生长。",
+		"seconds": 7.56
+	},
+	"ur3": {
+		"key": "zh-CN-XiaoxiaoNeural|实验步骤：取土样、样品稀释、涂布平板、培养、观察计数。",
+		"seconds": 6.648
+	},
+	"ur4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：培养基中不能再加牛肉膏、蛋白胨这类含氮的物质，否则就失去了选择作用。",
+		"seconds": 7.992
+	},
+	"sd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，稀释涂布平板法。分两步：梯度稀释和涂布平板。",
+		"seconds": 6.792
+	},
+	"sd2": {
+		"key": "zh-CN-XiaoxiaoNeural|梯度稀释：取 1 毫升 菌液，加入 9 毫升 无菌水中，就稀释了10倍；依次进行，得到一系列稀释液。",
+		"seconds": 10.032
+	},
+	"sd3": {
+		"key": "zh-CN-XiaoxiaoNeural|涂布：取 0.1 毫升 稀释液滴到平板表面，用涂布器涂布均匀。",
+		"seconds": 6.624
+	},
+	"sd4": {
+		"key": "zh-CN-XiaoxiaoNeural|涂布器先浸在酒精中，再在火焰上引燃，待酒精燃尽、冷却后再涂布。",
+		"seconds": 6.984
+	},
+	"sd5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：涂布器是引燃酒精，不是在火焰上灼烧到烧红；涂布法既能分离，又能计数，平板划线法只能分离。",
+		"seconds": 10.632
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，菌落计数。选择菌落数在30到300之间的平板计数，每个稀释度至少涂布3个平板，取平均值。",
+		"seconds": 10.824
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|公式：每克样品中的菌株数，等于C除以V再乘以M。C是平均菌落数，V是涂布的体积，M是稀释倍数。",
+		"seconds": 11.28
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|例如稀释10的5次方倍，三个平板分别是156、178、191，平均175个，涂布0.1毫升，结果是1.75乘10的8次方个每克。",
+		"seconds": 14.736
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不在30到300之间的平板不计；V的单位是毫升，0.1毫升要除，不要漏掉。",
+		"seconds": 8.496
+	},
+	"sm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，计数结果为什么偏小。当两个或多个细胞连在一起时，平板上观察到的只是一个菌落。",
+		"seconds": 9.24
+	},
+	"sm2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以稀释涂布平板法统计的菌落数，往往比活菌的实际数目少。",
+		"seconds": 6.288
+	},
+	"sm3": {
+		"key": "zh-CN-XiaoxiaoNeural|因此，统计结果一般用菌落数而不是活菌数来表示。",
+		"seconds": 5.352
+	},
+	"sm4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问结果偏小的原因。解题方法：标准答案就一句——两个或多个细胞连在一起时，只能形成一个菌落。",
+		"seconds": 10.416
+	},
+	"mi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，显微镜直接计数法。利用特定的细菌计数板或血细胞计数板，在显微镜下计数。",
+		"seconds": 9.096
+	},
+	"mi2": {
+		"key": "zh-CN-XiaoxiaoNeural|它统计的是活菌和死菌的总和，所以结果往往比实际的活菌数偏大。",
+		"seconds": 6.456
+	},
+	"mi3": {
+		"key": "zh-CN-XiaoxiaoNeural|稀释涂布平板法只统计活菌，结果偏小，但需要培养，耗时较长。",
+		"seconds": 6.888
+	},
+	"mi4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：比较两种方法的结果。解题方法：看能不能分辨死活——显微镜分不清死活，所以偏大；平板计数细胞重叠，所以偏小。",
+		"seconds": 12.6
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，对照的设置。第一种：未接种的选择培养基平板，和实验组一起培养。",
+		"seconds": 8.232
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果它长出菌落，说明培养基被污染，灭菌不合格，实验结果不可信。",
+		"seconds": 6.816
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二种：用同样的土样接种牛肉膏蛋白胨培养基，它几乎能让各种细菌生长。",
+		"seconds": 7.488
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|如果它上面的菌落数明显多于选择培养基，说明选择培养基起到了选择作用。",
+		"seconds": 7.344
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问对照的目的。解题方法：空白平板看有没有污染，牛肉膏蛋白胨平板看有没有选择作用。",
+		"seconds": 9.96
+	},
+	"id1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，分解尿素的细菌的鉴定。在以尿素为唯一氮源的培养基中加入酚红指示剂。",
+		"seconds": 8.376
+	},
+	"id2": {
+		"key": "zh-CN-XiaoxiaoNeural|细菌分解尿素产生氨，使培养基pH升高，酚红指示剂变红。",
+		"seconds": 6.288
+	},
+	"id3": {
+		"key": "zh-CN-XiaoxiaoNeural|菌落周围出现红色，就可以初步鉴定这种细菌能分解尿素。",
+		"seconds": 6.024
+	},
+	"id4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：选择培养基上长出的菌落不一定都是目的菌，所以要再用酚红鉴定；酚红是变红，不要记成别的颜色。",
+		"seconds": 10.08
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：选择培养基上长出的都是目的菌？错，还要鉴定。判断二：分离尿素分解菌要以尿素为唯一氮源？对。",
+		"seconds": 12.336
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：平板划线法也能计数？错，计数用稀释涂布平板法。判断四：选菌落数在30到300的平板计数？对。",
+		"seconds": 12.696
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：稀释涂布平板法的结果往往偏大？错，偏小。判断六：尿素分解菌使酚红指示剂变红？对。",
+		"seconds": 11.808
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：唯一碳源氮源选菌，30到300个才计数。我们下期再见！",
+		"seconds": 8.064
+	}
+}

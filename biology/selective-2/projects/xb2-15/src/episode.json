@@ -1,0 +1,38 @@
+{
+	"id": "XB2-15",
+	"title": "生态工程",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第4章",
+	"points": ["生态工程的概念", "自生原理", "循环原理", "协调原理", "整体原理", "原理的判断", "生态工程实例"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["生态"], ["工程", true]],
+		"subtitle": "自生 · 循环 · 协调 · 整体",
+		"photo": "terraces.jpg",
+		"photoCaption": "哈尼梯田：森林、村寨、梯田、水系一体",
+		"photoPos": "92% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["生态"]], [["工程", true]]],
+		"kicker": "自生 · 循环 · 协调 · 整体",
+		"photo": "terraces.jpg",
+		"photoPos": "92% center",
+		"photoTag": "哈尼梯田",
+		"credit": "Photo: xiquinhosilva, CC BY 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "生态工程的特点是少消耗、多效益、可持续", "ok": true, "fix": ""},
+			{"q": "种植多种植物、提高生物多样性体现了循环原理", "ok": false, "fix": "体现了自生原理"},
+			{"q": "无废弃物农业主要体现了循环原理", "ok": true, "fix": ""},
+			{"q": "西北干旱地区大量种植杨树体现协调原理", "ok": false, "fix": "违背协调原理"},
+			{"q": "兼顾自然、经济、社会效益体现整体原理", "ok": true, "fix": ""},
+			{"q": "矿区生态恢复的关键是尽快种植农作物", "ok": false, "fix": "关键是恢复植被和土壤微生物群落"}
+		],
+		"endTitle": [["生态"], ["工程", true]],
+		"endLine": "自生 · 循环 · 协调 · 整体 · 生态工程实例",
+		"slogan": "多物种讲自生，无废弃讲循环；适地适种讲协调，三效兼顾讲整体！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— xiquinhosilva《Hani Rice Terraces》CC BY 2.0"
+}

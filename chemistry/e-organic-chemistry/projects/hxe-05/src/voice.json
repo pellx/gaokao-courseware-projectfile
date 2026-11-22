@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同分异构体下：限定条件书写。",
+		"seconds": 3.456
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|有机大题必有一问：按条件写出同分异构体的结构简式，共七个考点。",
+		"seconds": 6.864
+	},
+	"om1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，不饱和度：对于含碳氢氧的分子，不饱和度等于二倍碳原子数加二减氢原子数，再除以二，氧不影响；有氮时每个氮多算一个氢的位置，卤素当作氢。",
+		"seconds": 15.216
+	},
+	"om2": {
+		"key": "zh-CN-XiaoxiaoNeural|每个双键或环：不饱和度为1；三键：为2；苯环：为4，一个环加三个双键。",
+		"seconds": 8.16
+	},
+	"om3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：C 8 H 8 O 2，不饱和度等于18减8再除以2，等于5：一个苯环用掉4，还剩1，可能是一个碳氧双键。",
+		"seconds": 10.968
+	},
+	"om4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：不饱和度大于等于4先考虑苯环；剩下的不饱和度和氧原子数，决定还有哪些官能团。",
+		"seconds": 9.456
+	},
+	"c11": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，条件翻译一。能发生银镜反应：含醛基，可能是醛，也可能是甲酸酯。",
+		"seconds": 8.232
+	},
+	"c12": {
+		"key": "zh-CN-XiaoxiaoNeural|能与碳酸氢钠溶液反应放出二氧化碳：含羧基。",
+		"seconds": 5.04
+	},
+	"c13": {
+		"key": "zh-CN-XiaoxiaoNeural|遇氯化铁溶液显紫色：含酚羟基，羟基直接连在苯环上。",
+		"seconds": 5.832
+	},
+	"c13b": {
+		"key": "zh-CN-XiaoxiaoNeural|灰发小女孩捂着头一脸惊讶：原来一句话就锁定了一个官能团！",
+		"seconds": 6
+	},
+	"c14": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能发生银镜反应的不一定是醛，甲酸、甲酸酯、葡萄糖都可以。",
+		"seconds": 7.176
+	},
+	"c21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，条件翻译（二）。“能发生水解反应”：含酯基、酰胺基或碳卤键。",
+		"seconds": 7.728
+	},
+	"c22": {
+		"key": "zh-CN-XiaoxiaoNeural|能与钠反应放出氢气：含羟基或羧基。能与氢氧化钠反应：含酚羟基、羧基、酯基或碳卤键。",
+		"seconds": 9.888
+	},
+	"c23": {
+		"key": "zh-CN-XiaoxiaoNeural|1摩尔该物质最多消耗2摩尔氢氧化钠，而且只有一个酯基：说明是酚酯，水解后生成酚，酚还要消耗氢氧化钠。",
+		"seconds": 10.776
+	},
+	"c24": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：醇羟基不与氢氧化钠反应，只与钠反应；能与钠反应不能说明一定有羧基。",
+		"seconds": 8.04
+	},
+	"nm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，核磁共振氢谱：有几组峰，就有几种等效氢；峰面积之比等于各种氢的个数之比。",
+		"seconds": 9
+	},
+	"nm2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：要求4组峰，面积比6比2比1比1，6往往是两个对称的甲基。",
+		"seconds": 7.032
+	},
+	"nm3": {
+		"key": "zh-CN-XiaoxiaoNeural|峰越少，分子越对称：苯环对位二取代、叔丁基、两个相同取代基对称放置，都能减少峰数。",
+		"seconds": 9.312
+	},
+	"nm3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴草帽的棕发小女孩：想让峰变少，就让结构左右对称。",
+		"seconds": 5.616
+	},
+	"nm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先用峰面积比分配氢原子：3对应甲基，9对应叔丁基，6对应两个等效甲基。",
+		"seconds": 9.216
+	},
+	"ri1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，苯环上取代基的位置：对位最对称。两个相同取代基在对位，苯环上只有 1 种氢。",
+		"seconds": 9.264
+	},
+	"ri2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个相同取代基在邻位、间位时，苯环上分别有 2 种、3 种氢；两个不同取代基在对位，有 2 种。",
+		"seconds": 10.008
+	},
+	"ri3": {
+		"key": "zh-CN-XiaoxiaoNeural|三个取代基：两个相同的放在对称位置，夹着第三个，才能减少峰数。",
+		"seconds": 6.912
+	},
+	"ri4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：要求“苯环上一氯代物只有 2 种”或“苯环上有 2 种氢”，首选对位二取代。",
+		"seconds": 7.872
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，书写四步法。第一步，由分子式算不饱和度。",
+		"seconds": 5.952
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，把题目条件翻译成官能团，扣除它们占用的原子和不饱和度。",
+		"seconds": 6.672
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，把剩下的碳拼成碳骨架；第四步，按核磁共振氢谱调整对称性，写出结构简式。",
+		"seconds": 9.288
+	},
+	"sp3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩眼睛转成圈圈，却比着剪刀手：步骤一多就晕？一步一步来，每步只做一件事。",
+		"seconds": 8.976
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：写完要回头检查：分子式对不对、条件是否都满足、峰数和面积比是否吻合。",
+		"seconds": 8.832
+	},
+	"fm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，两个特殊酯。甲酸酯：既有酯基能水解，又有醛基能发生银镜反应。",
+		"seconds": 8.208
+	},
+	"fm2": {
+		"key": "zh-CN-XiaoxiaoNeural|酚酯：水解生成羧酸和酚，1摩尔消耗2摩尔氢氧化钠。",
+		"seconds": 5.856
+	},
+	"fm3": {
+		"key": "zh-CN-XiaoxiaoNeural|甲酸酚酯：同时满足银镜反应、水解、1摩尔消耗2摩尔氢氧化钠，水解后还能遇氯化铁显紫色。",
+		"seconds": 9.72
+	},
+	"fm4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：条件里同时出现“银镜”和“水解”，第一反应就是甲酸酯；再出现“2 摩尔 氢氧化钠”，就是甲酸酚酯。",
+		"seconds": 10.608
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：C 8 H 8 O 2的不饱和度是5？对。判断二：能发生银镜反应一定是醛？错，甲酸酯也行。",
+		"seconds": 11.208
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：遇氯化铁显紫色说明有醇羟基？错，是酚羟基。判断四：醇羟基能和氢氧化钠反应？错。",
+		"seconds": 11.616
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：1摩尔酚酯最多消耗2摩尔氢氧化钠？对。判断六：两个相同取代基在对位，苯环上只有1种氢？对。",
+		"seconds": 12.12
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先算不饱和度，再翻译条件，最后调对称。下一期：研究有机物的方法：分离提纯与波谱。",
+		"seconds": 9.048
+	}
+}

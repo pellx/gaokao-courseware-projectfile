@@ -1,0 +1,122 @@
+{
+	"id": "HXD-10",
+	"title": "酸碱中和滴定与滴定曲线",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第10期 / 共20期",
+	"points": [
+		"滴定原理与仪器",
+		"滴定操作步骤",
+		"指示剂与终点",
+		"误差分析",
+		"滴定曲线",
+		"曲线上的关键点",
+		"恰好中和与中性"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"酸碱中和滴定",
+				true
+			],
+			[
+				"与滴定曲线"
+			]
+		],
+		"subtitle": "仪器 · 操作 · 指示剂 · 误差 · 滴定曲线",
+		"photo": "titration.jpg",
+		"photoCaption": "滴定终点：酚酞由无色变为浅红色",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"酸碱中和滴定",
+					true
+				]
+			],
+			[
+				[
+					"与滴定曲线"
+				]
+			]
+		],
+		"photo": "titration.jpg",
+		"photoPos": {
+			"16x9": "center 60%",
+			"4x3": "center 60%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "酚酞",
+		"credit": "آية تاج الدين, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "酸性 KMnO4 溶液应装在碱式滴定管中",
+				"ok": false,
+				"fix": "用酸式滴定管"
+			},
+			{
+				"q": "锥形瓶应先用待测液润洗",
+				"ok": false,
+				"fix": "锥形瓶不能润洗"
+			},
+			{
+				"q": "滴定管未用标准液润洗，测定结果偏高",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NaOH 滴定醋酸选用甲基橙作指示剂",
+				"ok": false,
+				"fix": "终点显碱性，选酚酞"
+			},
+			{
+				"q": "恰好中和时溶液一定呈中性",
+				"ok": false,
+				"fix": "要看生成的盐是否水解"
+			},
+			{
+				"q": "NaOH 滴定醋酸的恰好反应点，水的电离程度最大",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"酸碱中和滴定",
+				true
+			],
+			[
+				"与滴定曲线"
+			]
+		],
+		"endLine": "误差全看标准液，恰好中和不等于中性",
+		"slogan": "误差全看标准液，恰好中和不等于中性"
+	},
+	"credits": "图片来源：Wikimedia Commons —— آية تاج الدين《Pink colour in a titration conical flask》，CC BY-SA 4.0；插图来自 pixiv：ハマちゃん、伊賀たまき＠ちょったま。、かきょう（侵删）",
+	"anime": [
+		{
+			"key": "mio",
+			"src": "mio.jpg",
+			"credit": "插图：ハマちゃん《□ お品書きカット □》pixiv #12499912",
+			"url": "https://www.pixiv.net/artworks/12499912"
+		},
+		{
+			"key": "panic",
+			"src": "panic.jpg",
+			"credit": "插图：伊賀たまき＠ちょったま。《うぉぉ～い？！》pixiv #11174461",
+			"url": "https://www.pixiv.net/artworks/11174461"
+		},
+		{
+			"key": "dizzy",
+			"src": "dizzy.jpg",
+			"credit": "插图：かきょう《泣き顔ぼっちちゃん》pixiv #108294953",
+			"url": "https://www.pixiv.net/artworks/108294953"
+		}
+	]
+}

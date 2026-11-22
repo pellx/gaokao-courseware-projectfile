@@ -1,0 +1,123 @@
+{
+	"id": "HXE-15",
+	"title": "有机合成：路线推断与设计",
+	"subject": "chemistry",
+	"book": "有机化学 · 第15期 / 共17期",
+	"points": [
+		"有机合成的任务",
+		"碳链的增长与缩短",
+		"官能团的引入",
+		"官能团的转化",
+		"官能团的保护",
+		"推断方法",
+		"推断突破口",
+		"合成路线书写"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"有机合成",
+				true
+			],
+			[
+				"：路线推断与设计"
+			]
+		],
+		"subtitle": "碳骨架 · 官能团引入与保护 · 逆推 · 突破口",
+		"photo": "perkin.jpg",
+		"photoCaption": "珀金：合成第一种人工染料，开创有机合成工业",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"有机合成",
+					true
+				]
+			],
+			[
+				[
+					"路线推断与设计"
+				]
+			]
+		],
+		"photo": "perkin.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "珀金",
+		"credit": "Elliott & Fry, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "卤代烃与 NaCN 反应后水解，可以使碳链增长一个碳",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "由 1-溴丙烷制 1,2-丙二醇：先水解再消去",
+				"ok": false,
+				"fix": "消去 → 加成 → 水解"
+			},
+			{
+				"q": "氧化前先保护酚羟基，是因为酚羟基易被氧化",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "逆推合成路线时，酯从酯基处断开",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "A 能连续氧化成 C，A 一般是醛",
+				"ok": false,
+				"fix": "A 一般是醇，B 是醛，C 是羧酸"
+			},
+			{
+				"q": "合成路线中箭头上可以只写“氧化”二字",
+				"ok": false,
+				"fix": "要写具体试剂和条件"
+			}
+		],
+		"endTitle": [
+			[
+				"有机合成",
+				true
+			],
+			[
+				"：路线推断与设计"
+			]
+		],
+		"endLine": "两头夹击算差值，消去加成再水解",
+		"slogan": "两头夹击算差值，消去加成再水解"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Elliott & Fry《Portrait of William Henry Perkin (1838-1907)》，公有领域；插图来自 pixiv：両儀式、じんぱるこ、あやねこうじ（侵删）",
+	"anime": [
+		{
+			"key": "player",
+			"src": "player.jpg",
+			"credit": "插图：両儀式《長崎 そよ》pixiv #114525757",
+			"url": "https://www.pixiv.net/artworks/114525757"
+		},
+		{
+			"key": "hug",
+			"src": "hug.jpg",
+			"credit": "插图：じんぱるこ《「やがて君になる」のちびキャライラストです》pixiv #131026007",
+			"url": "https://www.pixiv.net/artworks/131026007"
+		},
+		{
+			"key": "sigh",
+			"src": "sigh.jpg",
+			"credit": "插图：あやねこうじ《船見結衣生誕祭2022》pixiv #97797822",
+			"url": "https://www.pixiv.net/artworks/97797822"
+		}
+	]
+}

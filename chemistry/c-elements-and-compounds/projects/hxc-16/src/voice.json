@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|价-类二维图与物质转化。",
+		"seconds": 3.096
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|元素化合物选择题的总复习：性质与用途对应、转化能否一步实现，加上颜色、气体两张速查表，共七个考点。",
+		"seconds": 10.656
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，价-类二维图的读法：纵轴是化合价，横轴是物质类别：单质、氧化物、酸或碱、盐。",
+		"seconds": 9.864
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一列，类别相同、价态不同，靠氧化还原转化：要升价加氧化剂，要降价加还原剂。",
+		"seconds": 8.952
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一行，价态相同、类别不同，靠复分解或酸碱反应转化，不需要氧化剂和还原剂。",
+		"seconds": 8.64
+	},
+	"re3b": {
+		"key": "zh-CN-XiaoxiaoNeural|游戏里五个成员排成一排的界面：二维图就像游戏地图，横着走、竖着走规则不同。",
+		"seconds": 8.232
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看到转化，先问“价态变没变”，再选试剂。",
+		"seconds": 5.376
+	},
+	"fv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，五种元素的二维图对照。钠：零价和正一价，钠到氧化钠、过氧化钠，到氢氧化钠，到碳酸钠、碳酸氢钠。",
+		"seconds": 11.712
+	},
+	"fv2": {
+		"key": "zh-CN-XiaoxiaoNeural|铁：零、正二、正三，关键是亚铁离子与铁离子互变。氯：负一、零、正一、正五、正七，关键是氯气的歧化。",
+		"seconds": 12.288
+	},
+	"fv3": {
+		"key": "zh-CN-XiaoxiaoNeural|硫：负二、零、正四、正六，关键是二氧化硫的还原性。氮：负三、零、正二、正四、正五，关键是氨到一氧化氮到二氧化氮到硝酸。",
+		"seconds": 14.544
+	},
+	"fv4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给一张二维图，标出字母代表的物质，问转化条件或性质。先根据价态和类别把字母翻译成物质。",
+		"seconds": 10.44
+	},
+	"us1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，性质与用途对应。北京卷常问：“下列物质的性质与用途具有对应关系的是”。",
+		"seconds": 8.664
+	},
+	"us2": {
+		"key": "zh-CN-XiaoxiaoNeural|对的例子：碳酸氢钠受热分解产生二氧化碳，用作膨松剂；氧化铝熔点高，用作耐火材料；二氧化氯有强氧化性，用于杀菌消毒。",
+		"seconds": 12.816
+	},
+	"us3": {
+		"key": "zh-CN-XiaoxiaoNeural|错的例子：“二氧化硅硬度大，用作光导纤维”，光纤靠的是导光性；“氧化铁能与酸反应，用作红色颜料”，靠的是红棕色。",
+		"seconds": 11.448
+	},
+	"us3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴大红蝴蝶结的女孩站在问答板前：这类题性质本身对、用途也对，但两者不对应，照样选错。",
+		"seconds": 9.408
+	},
+	"us4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：性质和用途各自都正确不够，必须是“因为这个性质，所以有这个用途”。",
+		"seconds": 7.416
+	},
+	"os1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，“转化能否一步实现”。常见的不能一步：硫不能一步到三氧化硫；氮气不能一步到二氧化氮。",
+		"seconds": 9.96
+	},
+	"os2": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化硅不能一步到硅酸，因为不溶于水；氧化铝不能一步到氢氧化铝；氧化铜不能一步到氢氧化铜。",
+		"seconds": 9.624
+	},
+	"os3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁与氯气只生成氯化铁，不能一步得到氯化亚铁；但铁与氯化铁溶液反应可以得到氯化亚铁。",
+		"seconds": 8.88
+	},
+	"os4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：“难溶氧化物 → 氢氧化物”和“越级氧化”，是两类最常见的不能一步。",
+		"seconds": 7.128
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，颜色与状态速查。淡黄色：过氧化钠、硫、溴化银；黄色：碘化银、铁离子溶液。",
+		"seconds": 10.152
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|红棕色：氧化铁、二氧化氮、溴蒸气；红褐色：氢氧化铁；砖红色：氧化亚铜；紫红色：铜、高锰酸根。",
+		"seconds": 11.352
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|黑色：氧化亚铁、四氧化三铁、氧化铜、二氧化锰、碳；黄绿色：氯气；浅绿色：亚铁离子溶液。",
+		"seconds": 10.488
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：推断题里的颜色是突破口：先把颜色对应到物质，再顺着转化关系推。",
+		"seconds": 7.92
+	},
+	"ga1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，常见气体的制备与检验速查。氧气：高锰酸钾或氯酸钾加热，过氧化氢加二氧化锰；用带火星的木条复燃检验。",
+		"seconds": 12.48
+	},
+	"ga2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯气：二氧化锰和浓盐酸加热；用湿润的淀粉碘化钾试纸变蓝检验。",
+		"seconds": 7.152
+	},
+	"ga3": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化硫：亚硫酸钠与较浓硫酸；品红褪色、加热恢复。氨气：氯化铵与氢氧化钙加热；湿润的红色石蕊试纸变蓝。",
+		"seconds": 12.384
+	},
+	"ga4": {
+		"key": "zh-CN-XiaoxiaoNeural|一氧化氮：铜与稀硝酸，排水法收集，遇空气变红棕色；二氧化氮：铜与浓硝酸，向上排空气法收集。",
+		"seconds": 10.656
+	},
+	"ga5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：检验气体的试纸要湿润，干燥的气体不能和试纸上的试剂反应。",
+		"seconds": 6.744
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，元素化合物选择题的解题方法，三步走。",
+		"seconds": 5.016
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步，定价态：标出关键元素的化合价，判断有没有氧化还原。",
+		"seconds": 6.456
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，看类别：酸、碱、盐、氧化物，各有哪些通性。第三步，看条件与用量：浓稀、加热、少量过量。",
+		"seconds": 11.568
+	},
+	"me3b": {
+		"key": "zh-CN-XiaoxiaoNeural|抱着吉他兴奋得满眼爱心的女孩：元素化合物学完了！带着价态、类别、条件这三把钥匙去做题。",
+		"seconds": 9.888
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：定价态、看类别、看条件与用量；再用颜色和用途这两张速查表核对。",
+		"seconds": 8.4
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：同一行物质转化一定需要氧化剂或还原剂？错，价态不变。判断二：二氧化硅硬度大所以做光纤？错，靠导光性。",
+		"seconds": 13.248
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：碳酸氢钠受热分解产生二氧化碳，可作膨松剂？对。判断四：硫在足量氧气中燃烧生成三氧化硫？错。",
+		"seconds": 12.984
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：铁与氯化铁溶液反应得到氯化亚铁？对。判断六：用干燥的红色石蕊试纸检验氨气？错，要湿润。",
+		"seconds": 12
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|竖着走氧化还原，横着走复分解。元素及其化合物模块到这里就全部讲完了。",
+		"seconds": 7.752
+	}
+}

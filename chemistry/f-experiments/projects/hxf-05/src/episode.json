@@ -1,0 +1,123 @@
+{
+	"id": "HXF-05",
+	"title": "物质与离子的检验",
+	"subject": "chemistry",
+	"book": "化学实验 · 第5期 / 共9期",
+	"points": [
+		"检验四要素",
+		"Fe^3+ 与 Fe^2+",
+		"NH4^+、Na^+、K^+",
+		"Cl^- 与 SO4^2-",
+		"CO3^2-、SO3^2-、I^-",
+		"常见气体的检验",
+		"有机物与碘的检验",
+		"检验顺序与干扰"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学实验",
+		"title": [
+			[
+				"物质与离子",
+				true
+			],
+			[
+				"的检验"
+			]
+		],
+		"subtitle": "取样 · 操作 · 现象 · 结论",
+		"photo": "bunsen.jpg",
+		"photoCaption": "本生：发明本生灯，与基尔霍夫一起创立光谱分析",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"物质与离子",
+					true
+				]
+			],
+			[
+				[
+					"的检验"
+				]
+			]
+		],
+		"photo": "bunsen.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "本生",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Fe^3+ 遇 KSCN 溶液生成红色沉淀",
+				"ok": false,
+				"fix": "溶液变红，不是沉淀"
+			},
+			{
+				"q": "检验 NH4^+ 时加 NaOH 溶液并加热，用湿润红色石蕊试纸",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "检验 SO4^2- 时先加稀硝酸酸化",
+				"ok": false,
+				"fix": "先加稀盐酸"
+			},
+			{
+				"q": "使澄清石灰水变浑浊的气体一定是 CO2",
+				"ok": false,
+				"fix": "SO2 也可以"
+			},
+			{
+				"q": "KI 溶液中加入淀粉溶液变蓝",
+				"ok": false,
+				"fix": "淀粉遇 I2 变蓝，遇 I^- 不变"
+			},
+			{
+				"q": "焰色试验观察钾的颜色要透过蓝色钴玻璃",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"物质与离子",
+				true
+			],
+			[
+				"的检验"
+			]
+		],
+		"endLine": "取样操作现象结论，先排干扰再下结论",
+		"slogan": "取样操作现象结论，先排干扰再下结论"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Robert Bunsen portrait》，公有领域；插图来自 pixiv：かる。、けば、ほたるる（侵删）",
+	"anime": [
+		{
+			"key": "soda",
+			"src": "soda.jpg",
+			"credit": "插图：かる。《『ゆるゆり』大室櫻子》pixiv #88854736",
+			"url": "https://www.pixiv.net/artworks/88854736"
+		},
+		{
+			"key": "chinatsu",
+			"src": "chinatsu.jpg",
+			"credit": "插图：けば《ちなちゅ》pixiv #53392346",
+			"url": "https://www.pixiv.net/artworks/53392346"
+		},
+		{
+			"key": "kitachibi",
+			"src": "kitachibi.jpg",
+			"credit": "插图：ほたるる《喜多ちゃん》pixiv #116651600",
+			"url": "https://www.pixiv.net/artworks/116651600"
+		}
+	]
+}

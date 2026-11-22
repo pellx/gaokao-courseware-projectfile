@@ -1,0 +1,123 @@
+{
+	"id": "HXF-03",
+	"title": "气体的制备、净化与尾气处理",
+	"subject": "chemistry",
+	"book": "化学实验 · 第3期 / 共9期",
+	"points": [
+		"氯气的制法",
+		"氨气的制法",
+		"SO2、O2、CO2",
+		"除杂顺序",
+		"干燥剂的选择",
+		"收集方法",
+		"尾气处理",
+		"装置连接顺序"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学实验",
+		"title": [
+			[
+				"气体的制备",
+				true
+			],
+			[
+				"、净化与尾气处理"
+			]
+		],
+		"subtitle": "氯气 · 氨气 · 除杂 · 干燥 · 收集 · 尾气",
+		"photo": "scheele.png",
+		"photoCaption": "舍勒：用二氧化锰和盐酸最早制得氯气",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"气体的制备",
+					true
+				]
+			],
+			[
+				[
+					"净化与尾气处理"
+				]
+			]
+		],
+		"photo": "scheele.png",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "舍勒",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "MnO2 与浓盐酸反应，HCl 能完全反应",
+				"ok": false,
+				"fix": "盐酸变稀后反应停止"
+			},
+			{
+				"q": "可以只加热 NH4Cl 固体制 NH3",
+				"ok": false,
+				"fix": "NH3 与 HCl 在管口重新化合"
+			},
+			{
+				"q": "用饱和食盐水除去 Cl2 中的 HCl",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "浓硫酸可以干燥 SO2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "NO 可以用排空气法收集",
+				"ok": false,
+				"fix": "NO 与 O2 反应，用排水法"
+			},
+			{
+				"q": "NO 尾气可直接用 NaOH 溶液吸收",
+				"ok": false,
+				"fix": "NO 不能被 NaOH 溶液直接吸收"
+			}
+		],
+		"endTitle": [
+			[
+				"气体的制备",
+				true
+			],
+			[
+				"、净化与尾气处理"
+			]
+		],
+		"endLine": "先除杂后干燥，有毒尾气要处理",
+		"slogan": "先除杂后干燥，有毒尾气要处理"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Carl Wilhelm Scheele》（版画），公有领域；插图来自 pixiv：高浜あき、エイセイ、MCピロリ菌（侵删）",
+	"anime": [
+		{
+			"key": "azusa",
+			"src": "azusa.jpg",
+			"credit": "插图：高浜あき《あずにゃん》pixiv #83703093",
+			"url": "https://www.pixiv.net/artworks/83703093"
+		},
+		{
+			"key": "yellow",
+			"src": "yellow.jpg",
+			"credit": "插图：エイセイ《ぼっちちゃん》pixiv #128157649",
+			"url": "https://www.pixiv.net/artworks/128157649"
+		},
+		{
+			"key": "sticks",
+			"src": "sticks.jpg",
+			"credit": "插图：MCピロリ菌《伊地知虹夏》pixiv #108434755",
+			"url": "https://www.pixiv.net/artworks/108434755"
+		}
+	]
+}

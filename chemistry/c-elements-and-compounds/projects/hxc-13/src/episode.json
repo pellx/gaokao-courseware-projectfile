@@ -1,0 +1,118 @@
+{
+	"id": "HXC-13",
+	"title": "金属冶炼与海水资源",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第13期 / 共16期",
+	"points": [
+		"金属冶炼的本质",
+		"冶炼方法的选择",
+		"电解法",
+		"热还原与热分解",
+		"海水提溴",
+		"海水提镁",
+		"海带提碘"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"金属冶炼",
+				true
+			],
+			[
+				"与海水资源"
+			]
+		],
+		"subtitle": "电解 · 热还原 · 铝热反应 · 提溴 · 提镁",
+		"photo": "thermite.jpg",
+		"photoCaption": "铝热反应焊接钢轨",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"金属冶炼",
+					true
+				]
+			],
+			[
+				[
+					"与海水资源"
+				]
+			]
+		],
+		"photo": "thermite.jpg",
+		"photoPos": "center",
+		"photoTag": "铝热焊",
+		"credit": "Cjp24, CC BY-SA 4.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "工业上电解熔融 AlCl3 制取铝",
+				"ok": false,
+				"fix": "AlCl3 是共价化合物，电解熔融 Al2O3"
+			},
+			{
+				"q": "工业上电解熔融 MgO 制取镁",
+				"ok": false,
+				"fix": "MgO 熔点高，电解熔融 MgCl2"
+			},
+			{
+				"q": "铝热反应可用于焊接钢轨",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "海水提溴用 SO2 吸收 Br2，目的是富集溴",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "MgCl2·6H2O 直接加热即可得到无水 MgCl2",
+				"ok": false,
+				"fix": "需在 HCl 气流中加热"
+			},
+			{
+				"q": "Hg、Ag 可以用热分解法冶炼",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"金属冶炼",
+				true
+			],
+			[
+				"与海水资源"
+			]
+		],
+		"endLine": "活泼电解，中等还原，不活泼分解",
+		"slogan": "活泼电解，中等还原，不活泼分解"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Cjp24《Thermite rail welding 03》，CC BY-SA 4.0；插图来自 pixiv：MasNak30、Saku、mono9ron@お仕事募集中（侵删）",
+	"anime": [
+		{
+			"key": "ruri",
+			"src": "ruri.jpg",
+			"credit": "插图：MasNak30《けいおん! x 瑠璃の宝石》pixiv #135371202",
+			"url": "https://www.pixiv.net/artworks/135371202"
+		},
+		{
+			"key": "sing",
+			"src": "sing.jpg",
+			"credit": "插图：Saku《이세리 니나》pixiv #120631138",
+			"url": "https://www.pixiv.net/artworks/120631138"
+		},
+		{
+			"key": "lemon",
+			"src": "lemon.jpg",
+			"credit": "插图：mono9ron@お仕事募集中《おつかれもんちゃん＋おまけ》pixiv #142643653",
+			"url": "https://www.pixiv.net/artworks/142643653"
+		}
+	]
+}

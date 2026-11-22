@@ -1,0 +1,38 @@
+{
+	"id": "BX2-24",
+	"title": "协同进化与生物多样性的形成",
+	"subject": "biology",
+	"book": "人教版·必修2·第6章",
+	"points": ["协同进化的概念", "协同进化的实例", "生物多样性三层次", "生物多样性的形成", "进化理论在发展", "现代生物进化理论"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修2",
+		"title": [["协同进化与"], ["生物多样性的形成", true]],
+		"subtitle": "协同进化 · 三个层次 · 进化理论的发展",
+		"photo": "orchid.jpg",
+		"photoCaption": "达尔文研究过的长花距兰花",
+		"photoPos": "center 45%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["协同进化与"]], [["生物多样性", true]], [["的形成", true]]],
+		"kicker": "协同进化 · 进化理论",
+		"photo": "orchid.jpg",
+		"photoPos": "center 45%",
+		"photoTag": "长花距的兰花",
+		"credit": "Photo: Krzysztof Ziarnek, Kenraiz, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "协同进化只发生在不同物种之间", "ok": false, "fix": "也发生在生物与无机环境之间"},
+			{"q": "捕食者的存在有利于增加物种多样性", "ok": true, "fix": ""},
+			{"q": "生物多样性包括遗传多样性、物种多样性和生态系统多样性", "ok": true, "fix": ""},
+			{"q": "生物多样性是协同进化的结果", "ok": true, "fix": ""},
+			{"q": "中性学说认为决定生物进化方向的是自然选择", "ok": false, "fix": "认为是中性突变的逐渐积累"},
+			{"q": "种群是生物进化的基本单位", "ok": true, "fix": ""}
+		],
+		"endTitle": [["协同进化与"], ["生物多样性", true]],
+		"endLine": "协同进化 · 三个层次 · 进化历程 · 中性学说 · 现代进化理论",
+		"slogan": "相互影响、共同进化，形成多样性！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Krzysztof Ziarnek, Kenraiz《Angraecum sesquipedale kz01》CC BY-SA 4.0"
+}

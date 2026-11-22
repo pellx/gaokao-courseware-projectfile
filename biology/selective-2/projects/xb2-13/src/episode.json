@@ -1,0 +1,37 @@
+{
+	"id": "XB2-13",
+	"title": "人类活动对生态环境的影响",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第4章",
+	"points": ["生态足迹的概念", "生态足迹的影响因素", "全球气候变化", "臭氧层破坏与酸雨", "水资源与荒漠化", "可持续发展"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["人类活动对"], ["生态环境的影响", true]],
+		"subtitle": "生态足迹 · 全球性生态环境问题",
+		"photo": "duststorm.jpg",
+		"photoCaption": "1936年美国大平原沙尘暴",
+		"photoPos": "55% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["人类活动对"]], [["生态环境的影响", true]]],
+		"photo": "duststorm.jpg",
+		"photoPos": "55% center",
+		"photoTag": "沙尘暴（1936年）",
+		"credit": "Photo: Arthur Rothstein, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "生态足迹越大，对生态环境的影响越大", "ok": true, "fix": ""},
+			{"q": "生态足迹的值与生活方式无关", "ok": false, "fix": "生活方式不同，生态足迹不同"},
+			{"q": "全球变暖主要由CO2等温室气体增多引起", "ok": true, "fix": ""},
+			{"q": "臭氧层破坏主要由CO2引起", "ok": false, "fix": "主要由氟氯烃等物质引起"},
+			{"q": "酸雨主要由硫和氮的氧化物引起", "ok": true, "fix": ""},
+			{"q": "可持续发展就是禁止开发利用自然资源", "ok": false, "fix": "是合理利用，兼顾当代和后代"}
+		],
+		"endTitle": [["人类活动对"], ["生态环境的影响", true]],
+		"endLine": "生态足迹 · 气候变化 · 臭氧层 · 酸雨 · 荒漠化 · 可持续发展",
+		"slogan": "足迹越大压力越大，合理利用才能持续！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Arthur Rothstein《Farmer walking in dust storm, Cimarron County, Oklahoma》Public domain"
+}

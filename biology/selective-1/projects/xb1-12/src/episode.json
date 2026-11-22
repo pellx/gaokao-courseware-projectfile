@@ -1,0 +1,38 @@
+{
+	"id": "XB1-12",
+	"title": "体液调节与神经调节的关系",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第3章",
+	"points": ["体液调节的概念", "两种调节的比较", "两种调节的联系", "寒冷时的体温调节", "炎热时的体温调节", "抗利尿激素与水平衡", "醛固酮：保钠排钾", "下丘脑的四大作用", "尿量与激素的曲线", "发热时的产热散热"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["体液调节与"], ["神经调节", true]],
+		"subtitle": "二者的关系 · 体温调节 · 水盐平衡",
+		"photo": "thermometer.jpg",
+		"photoCaption": "体温计：读数约38.7 ℃",
+		"photoPos": "55% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["体液调节与"]], [["神经调节", true]]],
+		"kicker": "二者的关系 · 体温与水盐平衡",
+		"photo": "thermometer.jpg",
+		"photoPos": "58% center",
+		"photoTag": "体温调节：产热＝散热",
+		"credit": "Photo: Menchi, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "体液调节就是激素调节", "ok": false, "fix": "还包括CO₂等其他化学物质的调节"},
+			{"q": "神经调节反应迅速，作用范围准确、比较局限", "ok": true, "fix": ""},
+			{"q": "寒冷时散热量比炎热时少", "ok": false, "fix": "寒冷时产热、散热都比炎热时多"},
+			{"q": "抗利尿激素由垂体合成", "ok": false, "fix": "由下丘脑合成，垂体释放"},
+			{"q": "醛固酮的作用是保钠排钾", "ok": true, "fix": ""},
+			{"q": "发热的高温持续期，产热量大于散热量", "ok": false, "fix": "产热量等于散热量"}
+		],
+		"endTitle": [["体液调节与"], ["神经调节", true]],
+		"endLine": "比较与联系 · 体温调节 · 水盐平衡 · 下丘脑",
+		"slogan": "体温看产热散热，水盐看抗利尿激素！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Menchi《Clinical thermometer 38.7》CC BY-SA 3.0"
+}

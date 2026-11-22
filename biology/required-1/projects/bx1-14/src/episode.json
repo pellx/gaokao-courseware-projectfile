@@ -1,0 +1,38 @@
+{
+	"id": "BX1-14",
+	"title": "降低化学反应活化能的酶（上）",
+	"subject": "biology",
+	"book": "人教版·必修1·第5章",
+	"points": ["细胞代谢", "过氧化氢分解实验", "变量与对照实验", "降低活化能", "活化能示意图", "酶本质的探索", "酶的概念"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["酶的作用"], ["和本质", true]],
+		"subtitle": "降低化学反应活化能的酶（上） · 对照实验",
+		"photo": "buchner.jpg",
+		"photoCaption": "毕希纳：1897年用酵母菌提取液完成发酵",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["酶的作用"]], [["和本质", true]]],
+		"kicker": "活化能 · 对照实验",
+		"photo": "buchner.jpg",
+		"photoPos": {"16x9": "center 30%", "4x3": "center 30%", "3x4": "center 22%"},
+		"photoTag": "毕希纳",
+		"credit": "Eduard Buchner, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "酶能为化学反应提供活化能", "ok": false, "fix": "酶能降低化学反应的活化能"},
+			{"q": "2号试管加热，降低了反应的活化能", "ok": false, "fix": "加热是为反应提供能量"},
+			{"q": "H2O2的浓度和用量是本实验的无关变量", "ok": true, "fix": ""},
+			{"q": "萨姆纳证明了脲酶是蛋白质", "ok": true, "fix": ""},
+			{"q": "酶只能在细胞内发挥作用", "ok": false, "fix": "在细胞内外都能起作用"},
+			{"q": "所有的酶都是蛋白质", "ok": false, "fix": "绝大多数是蛋白质，少数是RNA"}
+		],
+		"endTitle": [["酶的作用"], ["和本质", true]],
+		"endLine": "细胞代谢 · 对照实验 · 活化能 · 酶的本质",
+		"slogan": "酶不供能，只降低活化能！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Eduard Buchner ca1893》Public domain"
+}

@@ -1,0 +1,121 @@
+{
+	"id": "HXC-07",
+	"title": "金属材料：合金与铝",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第7期 / 共16期",
+	"points": [
+		"合金的特点",
+		"铁合金",
+		"铝与氧化铝",
+		"新型合金",
+		"流程中的铝",
+		"金属与酸的计算"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"金属材料",
+				true
+			],
+			[
+				"：合金与铝"
+			]
+		],
+		"subtitle": "合金的硬度与熔点 · 铝与碱 · 两性氧化物",
+		"photo": "hall.jpg",
+		"photoCaption": "霍尔：发明电解法炼铝",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"金属材料",
+					true
+				]
+			],
+			[
+				[
+					"合金与铝"
+				]
+			]
+		],
+		"photo": "hall.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "霍尔",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "合金的熔点一般比各成分金属高",
+				"ok": false,
+				"fix": "合金的熔点一般更低"
+			},
+			{
+				"q": "合金是纯净物",
+				"ok": false,
+				"fix": "合金是混合物"
+			},
+			{
+				"q": "Al2O3 既能与盐酸反应，又能与 NaOH 溶液反应",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Al 与 NaOH 溶液反应中，NaOH 是氧化剂",
+				"ok": false,
+				"fix": "H2O 是氧化剂"
+			},
+			{
+				"q": "由 AlCl3 溶液制 Al(OH)3，最好加入氨水",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "等质量的 Na、Mg、Al 与足量盐酸反应，Na 放出 H2 最多",
+				"ok": false,
+				"fix": "Al 放出 H2 最多"
+			}
+		],
+		"endTitle": [
+			[
+				"金属材料",
+				true
+			],
+			[
+				"：合金与铝"
+			]
+		],
+		"endLine": "合金硬度大、熔点低，铝遇碱水作氧化剂",
+		"slogan": "合金硬度大熔点低，铝遇碱水作氧化剂"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Charles Martin Hall 1880s》，公有领域；插图来自 pixiv：焼き鳥虫、jun、ペーパーのshin（侵删）",
+	"anime": [
+		{
+			"key": "fused",
+			"src": "fused.jpg",
+			"credit": "插图：焼き鳥虫《結束(物理)バンド ぼ虹》pixiv #115269883",
+			"url": "https://www.pixiv.net/artworks/115269883"
+		},
+		{
+			"key": "armor",
+			"src": "armor.jpg",
+			"credit": "插图：jun《무제》pixiv #126264840",
+			"url": "https://www.pixiv.net/artworks/126264840"
+		},
+		{
+			"key": "foil",
+			"src": "foil.jpg",
+			"credit": "插图：ペーパーのshin《おにぎりを頬張る虹夏ちゃん（9歳）》pixiv #131826498",
+			"url": "https://www.pixiv.net/artworks/131826498"
+		}
+	]
+}

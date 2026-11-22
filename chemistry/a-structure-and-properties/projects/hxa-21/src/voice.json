@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|物质结构大题：北京卷怎么问、怎么答。",
+		"seconds": 4.104
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这道大题9到11分，常用一种陌生物质把整个模块串起来，“从结构角度解释”的设问分值最高，共九个考点。",
+		"seconds": 9.84
+	},
+	"fr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，题型结构。一种陌生物质贯穿全题，比如一种新型电池材料、一种催化剂、一种配合物。",
+		"seconds": 9.84
+	},
+	"fr2": {
+		"key": "zh-CN-XiaoxiaoNeural|设问按原子 → 分子 → 晶体的顺序逐级深入：先问电子排布，再问电离能电负性，然后是杂化、键角、作用力，最后是晶胞。",
+		"seconds": 11.976
+	},
+	"fr3": {
+		"key": "zh-CN-XiaoxiaoNeural|陌生的只是情境，问的都是这个模块的基本规律：前面二十期的内容，在这里一次用全。",
+		"seconds": 8.112
+	},
+	"fr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|题目看着新，其实每一空都是老朋友：别被陌生的名字吓住，坐下来一空一空做。",
+		"seconds": 7.608
+	},
+	"fr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先通读全题，圈出每一空的问法，判断它属于原子、分子还是晶体层次，再调用对应的答题模板。",
+		"seconds": 10.44
+	},
+	"fi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，第一空：基态原子或离子的价层电子排布、未成对电子数、所在的区。",
+		"seconds": 8.136
+	},
+	"fi2": {
+		"key": "zh-CN-XiaoxiaoNeural|主族元素的价层就是最外层；过渡元素要带上 n减1 d，比如铁是 3 d 6、4 s 2，铜是 3 d 10、4 s 1。",
+		"seconds": 11.184
+	},
+	"fi3": {
+		"key": "zh-CN-XiaoxiaoNeural|离子先失最外层：铁离子是 3 d 5，铜离子是 3 d 9。",
+		"seconds": 5.856
+	},
+	"fi4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：看清问“价层”还是“完整”、“电子排布式”还是“轨道表示式”；铬、铜的特例必须记住。",
+		"seconds": 8.664
+	},
+	"ie1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电离能、电负性比较的规范解释。先写结论，再按排布 → 特点 → 能量三步说理由。",
+		"seconds": 9.312
+	},
+	"ie2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：第一电离能氮大于氧。氮的价层电子排布为 2 s 2、2 p 3，2 p 能级半充满，较稳定，失去一个电子所需能量更大。",
+		"seconds": 12.6
+	},
+	"ie3": {
+		"key": "zh-CN-XiaoxiaoNeural|电负性的理由：同周期从左到右核电荷数增大、原子半径减小，原子核对键合电子的吸引增强。",
+		"seconds": 9.384
+	},
+	"ie4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：结论 → 结构差异（排布、半径、核电荷数）→ 对电子的吸引或失电子所需能量 → 呼应结论。",
+		"seconds": 9.648
+	},
+	"hy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，杂化方式与空间结构的判断，西格玛键与派键计数。先算价层电子对数：2对 s p，3对 s p 2，4对 s p 3。",
+		"seconds": 12.912
+	},
+	"hy2": {
+		"key": "zh-CN-XiaoxiaoNeural|空间结构：价层电子对数定模型，再去掉孤电子对。",
+		"seconds": 5.424
+	},
+	"hy3": {
+		"key": "zh-CN-XiaoxiaoNeural|计数：画出结构式，单键1个西格玛，双键1个西格玛和1个派，三键1个西格玛和2个派，配位键也算西格玛键。",
+		"seconds": 10.92
+	},
+	"hy4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：有机物中不同碳的杂化方式可能不同，要逐个碳判断；1摩尔物质含西格玛键数要写成数值乘 N A。",
+		"seconds": 10.152
+	},
+	"an1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，键角大小比较的规范解释。第一步，判断两者中心原子的杂化方式：不同就直接按杂化比。",
+		"seconds": 10.08
+	},
+	"an2": {
+		"key": "zh-CN-XiaoxiaoNeural|杂化相同，第二步比孤电子对数：孤电子对对成键电子对的排斥力大于成键电子对之间的排斥力，孤电子对越多，键角越小。",
+		"seconds": 12.576
+	},
+	"an3": {
+		"key": "zh-CN-XiaoxiaoNeural|孤电子对数也相同，第三步比电负性：中心原子电负性越大键角越大；配位原子电负性越大键角越小。",
+		"seconds": 10.368
+	},
+	"an4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：杂化方式 → 孤电子对数 → 排斥力比较 → 结论；“排斥力”这句是得分点。",
+		"seconds": 7.512
+	},
+	"mp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，熔沸点、溶解性的解释。第一步先判断晶体类型。",
+		"seconds": 6.624
+	},
+	"mp2": {
+		"key": "zh-CN-XiaoxiaoNeural|不同类型：一般共价晶体大于离子晶体大于分子晶体。",
+		"seconds": 5.832
+	},
+	"mp3": {
+		"key": "zh-CN-XiaoxiaoNeural|同是分子晶体：先看有没有氢键，再比相对分子质量和分子极性。",
+		"seconds": 6.744
+	},
+	"mp4": {
+		"key": "zh-CN-XiaoxiaoNeural|同是离子晶体：比离子电荷和半径；同是共价晶体：比键长键能。",
+		"seconds": 6.912
+	},
+	"mp5": {
+		"key": "zh-CN-XiaoxiaoNeural|溶解性：相似相溶、与水形成氢键、与水反应。",
+		"seconds": 5.232
+	},
+	"mp6": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：晶体类型 → 作用力类型 → 作用力强弱 → 结论，四步写全。",
+		"seconds": 6.48
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，配位设问。常问配位原子和配位数：有孤电子对、电负性较小的原子是配位原子。",
+		"seconds": 9.456
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|还常问：中心离子提供什么（空轨道），配体提供什么（孤电子对），形成的是什么键（配位键）。",
+		"seconds": 8.688
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|实验情境中，用配位平衡解释颜色变化和沉淀溶解：加入配位能力更强的配体，平衡向生成新配离子的方向移动。",
+		"seconds": 11.184
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：配位数数的是配位原子，不是配体；内界的离子不电离，不能和外加试剂反应。",
+		"seconds": 8.376
+	},
+	"op1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，“结构决定性质”类开放设问。题目给出一个反应或性质，让你从结构角度解释。",
+		"seconds": 8.424
+	},
+	"op2": {
+		"key": "zh-CN-XiaoxiaoNeural|常用角度一：键的极性，比如吸电子基团使氧氢键极性增大，酸性增强。",
+		"seconds": 7.344
+	},
+	"op3": {
+		"key": "zh-CN-XiaoxiaoNeural|角度二：空间位阻，比如大基团挡住了反应位点，反应变慢。",
+		"seconds": 6.048
+	},
+	"op4": {
+		"key": "zh-CN-XiaoxiaoNeural|角度三：派键的稳定性，比如派键较弱易断，容易发生加成。",
+		"seconds": 6.144
+	},
+	"op4b": {
+		"key": "zh-CN-XiaoxiaoNeural|大题拿分靠规范：结论、结构原因、因果连接词，一样都不能少。",
+		"seconds": 6.888
+	},
+	"op5": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：结构特点 → 对电子或空间的影响 → 性质结论；用“由于……使……所以……”串起来。",
+		"seconds": 8.496
+	},
+	"fn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，晶胞压轴空的步骤与得分点。第一步：均摊求化学式，这一步错，后面全错。",
+		"seconds": 8.832
+	},
+	"fn2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步：找最近距离或配位数，判断两原子是顶点和面心、顶点和体心，还是四面体空隙。",
+		"seconds": 9.096
+	},
+	"fn3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步：列密度式，密度等于 N 乘 M 除以 N A 乘 a 的立方，单位换算写进式子，只列式不必算。",
+		"seconds": 9.504
+	},
+	"fn3b": {
+		"key": "zh-CN-XiaoxiaoNeural|时间不够才最慌：前面几空别纠结，晶胞题留出足够的时间。",
+		"seconds": 6.264
+	},
+	"fn4": {
+		"key": "zh-CN-XiaoxiaoNeural|时间分配：结构大题一般控制在10到12分钟；前面的概念空快速拿分，把时间留给解释题和晶胞题。",
+		"seconds": 10.344
+	},
+	"fn5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：解释题按模板写全；晶胞题先化学式、再距离、后密度；实在算不出，也要把能写的式子写上，按步骤给分。",
+		"seconds": 11.568
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：结构大题按原子、分子、晶体逐级设问？对。判断二：铁离子价层是 3 d 3、4 s 2？错，是 3 d 5。",
+		"seconds": 13.248
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：解释键角可以不写排斥力？错。判断四：比较熔沸点先判断晶体类型？对。",
+		"seconds": 10.032
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：配位数等于配体个数？错，数配位原子。判断六：晶胞密度式只需列出表达式？对。",
+		"seconds": 10.896
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|原子看排布，分子看杂化和作用力，晶体看均摊和密度。这一模块到这里就全部讲完了。",
+		"seconds": 8.736
+	}
+}

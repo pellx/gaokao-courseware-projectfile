@@ -1,0 +1,38 @@
+{
+	"id": "XB1-06",
+	"title": "兴奋在神经元之间的传递",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第2章",
+	"points": ["突触的结构", "兴奋的传递过程", "神经递质的种类与去向", "兴奋性与抑制性递质", "单向传递与突触延搁", "药物、毒素的作用机理", "可卡因与成瘾机制", "跨突触的电表偏转"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["神经冲动的"], ["产生和传导", true]],
+		"subtitle": "（下）兴奋在神经元之间的传递",
+		"photo": "loewi.jpg",
+		"photoCaption": "勒维：用蛙心实验证明了化学传递",
+		"photoPos": "70% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["神经冲动的"]], [["产生和传导", true]]],
+		"kicker": "（下）兴奋在神经元之间的传递",
+		"photo": "loewi.jpg",
+		"photoPos": "68% 18%",
+		"photoTag": "勒维发现神经递质",
+		"credit": "Photo: Institute of Pharmacology Graz, CC BY-SA 3.0 DE"
+	},
+	"review": {
+		"items": [
+			{"q": "突触由突触前膜、突触间隙和突触后膜构成", "ok": true, "fix": ""},
+			{"q": "神经递质以主动运输的方式释放", "ok": false, "fix": "以胞吐的方式释放"},
+			{"q": "抑制性递质作用后，突触后膜电位不变", "ok": false, "fix": "Cl⁻内流，外正内负的电位差增大"},
+			{"q": "兴奋在突触处的传递比在神经纤维上慢", "ok": true, "fix": ""},
+			{"q": "有机磷农药使肌肉持续收缩", "ok": true, "fix": ""},
+			{"q": "可卡因使多巴胺受体增多而成瘾", "ok": false, "fix": "使受体减少"}
+		],
+		"endTitle": [["兴奋在神经元之间的"], ["传递", true]],
+		"endLine": "突触 · 神经递质 · 单向传递 · 药物机理 · 电表偏转",
+		"slogan": "盯住递质的去向，突触题一题不丢！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Institute of Pharmacology, Graz《Otto Loewi in the Institute of Pharmacology in Graz, Austria, with equipment》CC BY-SA 3.0 DE；John Heuser《HeuserNeuro》公有领域"
+}

@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|金属冶炼与海水资源。",
+		"seconds": 2.76
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|流程题的最后一步常问冶炼方法；海水提溴、提镁是流程题的经典背景，共七个考点。",
+		"seconds": 8.52
+	},
+	"es1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，金属冶炼的本质：把化合态的金属阳离子还原成金属单质。",
+		"seconds": 6.792
+	},
+	"es2": {
+		"key": "zh-CN-XiaoxiaoNeural|金属越活泼，它的阳离子越难被还原，冶炼就越难。",
+		"seconds": 5.496
+	},
+	"es2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这几个女孩在为找矿石打打闹闹：矿石里的金属都是化合态，要还原才能变成单质。",
+		"seconds": 8.256
+	},
+	"es3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：冶炼金属都是还原反应，金属元素的化合价降低。",
+		"seconds": 5.784
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，冶炼方法按金属活动性顺序选。钾、钙、钠、镁、铝用电解法。",
+		"seconds": 8.064
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|锌、铁、锡、铅、铜用热还原法，还原剂是碳、一氧化碳、氢气或铝。",
+		"seconds": 7.632
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|汞、银用热分解法；铂、金以单质存在，用物理方法。",
+		"seconds": 5.568
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：流程题最后一步问“用什么方法冶炼某金属”，先找它在活动性顺序中的位置。",
+		"seconds": 7.848
+	},
+	"el1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电解法：电解熔融的化合物。熔融氯化钠通电生成钠和氯气；熔融氯化镁通电生成镁和氯气。",
+		"seconds": 10.56
+	},
+	"el2": {
+		"key": "zh-CN-XiaoxiaoNeural|铝：电解熔融氧化铝，加冰晶石降低熔点：两个氧化铝通电生成四个铝和三个氧气。",
+		"seconds": 8.64
+	},
+	"el3": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么不用氯化铝？它是共价化合物，熔融时不导电。为什么不用氧化镁？熔点太高，耗能大。",
+		"seconds": 9.864
+	},
+	"el4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电解氯化钠溶液得不到钠，得到的是氢氧化钠、氢气和氯气。",
+		"seconds": 6.792
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，热还原法与热分解法。高炉炼铁：氧化铁加三个一氧化碳高温生成两个铁和三个二氧化碳。",
+		"seconds": 10.536
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|铝热反应：两个铝加氧化铁高温生成两个铁和氧化铝，放出大量的热，用来焊接钢轨、冶炼铬、锰等难熔金属。",
+		"seconds": 10.92
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|热分解法：两个氧化汞加热生成两个汞和氧气；两个氧化银加热生成四个银和氧气。",
+		"seconds": 8.28
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铝热反应中铝作还原剂；铝热剂不能还原比铝更活泼的金属，比如氧化镁。",
+		"seconds": 8.232
+	},
+	"br1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，海水提溴，吹出法。浓缩海水酸化后通入氯气：氯气加两个溴离子生成溴和两个氯离子。",
+		"seconds": 10.272
+	},
+	"br2": {
+		"key": "zh-CN-XiaoxiaoNeural|用热空气把溴吹出来，再用二氧化硫吸收：溴加二氧化硫加两个水生成两个溴化氢和硫酸。",
+		"seconds": 8.76
+	},
+	"br2b": {
+		"key": "zh-CN-XiaoxiaoNeural|对着话筒唱得正欢的小人：热空气把溴吹出来，就像把声音送出去。",
+		"seconds": 6.192
+	},
+	"br3": {
+		"key": "zh-CN-XiaoxiaoNeural|再通氯气把溴化氢氧化成溴，最后蒸馏得到液溴。",
+		"seconds": 5.328
+	},
+	"br4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：为什么先吹出、吸收，再氧化？为了富集溴：海水中溴浓度太低，直接蒸馏耗能太大。",
+		"seconds": 9.576
+	},
+	"mg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，海水提镁。贝壳煅烧得氧化钙，制成石灰乳，加入海水沉淀出氢氧化镁。",
+		"seconds": 8.592
+	},
+	"mg2": {
+		"key": "zh-CN-XiaoxiaoNeural|氢氧化镁溶于盐酸得氯化镁溶液，蒸发浓缩、冷却结晶得六水氯化镁。",
+		"seconds": 6.888
+	},
+	"mg3": {
+		"key": "zh-CN-XiaoxiaoNeural|关键一步：在氯化氢气流中加热六水氯化镁得到无水氯化镁，抑制镁离子水解；最后电解熔融氯化镁。",
+		"seconds": 9.912
+	},
+	"mg3b": {
+		"key": "zh-CN-XiaoxiaoNeural|拿着柠檬味饮料的女孩：海水喝起来是咸的，里面除了氯化钠，还溶着镁离子和溴离子。",
+		"seconds": 7.992
+	},
+	"mg4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：六水氯化镁直接加热会水解，得到碱式氯化镁或氧化镁，得不到无水氯化镁。",
+		"seconds": 8.28
+	},
+	"io1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，海带提碘。海带灼烧成灰，用坩埚，浸泡、过滤，得到含碘离子的溶液。",
+		"seconds": 8.712
+	},
+	"io2": {
+		"key": "zh-CN-XiaoxiaoNeural|酸化后加过氧化氢氧化：两个碘离子加过氧化氢加两个氢离子生成碘和两个水。",
+		"seconds": 8.016
+	},
+	"io3": {
+		"key": "zh-CN-XiaoxiaoNeural|用四氯化碳萃取，分液漏斗分液，碘在下层；最后蒸馏分离碘和四氯化碳。",
+		"seconds": 7.8
+	},
+	"io4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：灼烧用坩埚，不用蒸发皿；四氯化碳密度比水大，萃取后在下层。",
+		"seconds": 7.464
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电解熔融氯化铝制铝？错，电解熔融氧化铝。判断二：电解熔融氧化镁制镁？错，电解熔融氯化镁。",
+		"seconds": 12.096
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：铝热反应可焊接钢轨？对。判断四：海水提溴用二氧化硫吸收是为了富集？对。",
+		"seconds": 10.512
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：六水氯化镁直接加热得无水氯化镁？错，要在氯化氢气流中加热。判断六：汞和银用热分解法冶炼？对。",
+		"seconds": 12.24
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|活泼电解，中等还原，不活泼分解。下一期：陌生过渡金属：铜与银。",
+		"seconds": 7.728
+	}
+}

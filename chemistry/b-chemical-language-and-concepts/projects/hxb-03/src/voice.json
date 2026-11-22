@@ -1,0 +1,146 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电解质的电离。",
+		"seconds": 1.896
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|离子反应的基础：电解质的判断、电离方程式和导电性曲线，选择题常考，共六个考点。",
+		"seconds": 8.784
+	},
+	"el1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，电解质与非电解质。在水溶液里或熔融状态下能导电的化合物，是电解质：酸、碱、盐、金属氧化物、水。",
+		"seconds": 12.336
+	},
+	"el2": {
+		"key": "zh-CN-XiaoxiaoNeural|两种状态下都不导电的化合物，是非电解质：蔗糖、酒精，还有二氧化碳、二氧化硫、氨气。",
+		"seconds": 9.408
+	},
+	"el3": {
+		"key": "zh-CN-XiaoxiaoNeural|为什么二氧化碳是非电解质？它的水溶液能导电，是因为生成了碳酸，导电的离子不是它自己电离出来的。",
+		"seconds": 9.888
+	},
+	"el4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电解质和非电解质都是化合物。铜、石墨是单质，氯化钠溶液、盐酸是混合物，既不是电解质也不是非电解质。",
+		"seconds": 12.144
+	},
+	"cd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，导电的条件：有自由移动的带电粒子。溶液和熔融电解质靠自由移动的离子，金属靠自由电子。",
+		"seconds": 10.248
+	},
+	"cd2": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化钠固体里有离子，但离子被固定在晶体中不能自由移动，所以不导电；溶于水或熔化后才导电。",
+		"seconds": 9.36
+	},
+	"cd2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个被扎带捆住的红发女孩，想跑也跑不了：就像固体里的离子，有，但动不了。",
+		"seconds": 7.608
+	},
+	"cd3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯化氢是共价化合物，液态时没有离子，不导电；溶于水才电离出氢离子和氯离子。",
+		"seconds": 8.664
+	},
+	"cd4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：熔融状态能否导电，可以区分离子化合物和共价化合物。",
+		"seconds": 6.72
+	},
+	"eq1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电离方程式。强电解质完全电离，用等号：氯化钠电离出钠离子和氯离子，氢氧化钡电离出钡离子和两个氢氧根。",
+		"seconds": 12.264
+	},
+	"eq1b": {
+		"key": "zh-CN-XiaoxiaoNeural|一个女孩把另一个拽开：电离就是把化合物拆成自由的离子，各走各的。",
+		"seconds": 6.624
+	},
+	"eq2": {
+		"key": "zh-CN-XiaoxiaoNeural|最常考的硫酸氢钠：在水中电离出钠离子、氢离子和硫酸根离子。",
+		"seconds": 6.816
+	},
+	"eq3": {
+		"key": "zh-CN-XiaoxiaoNeural|熔融时只断离子键，电离出钠离子和硫酸氢根离子。",
+		"seconds": 5.424
+	},
+	"eq4": {
+		"key": "zh-CN-XiaoxiaoNeural|碳酸氢钠电离出钠离子和碳酸氢根离子，碳酸氢根不能拆开写。",
+		"seconds": 6.552
+	},
+	"eq5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电离不需要通电；书写时原子和电荷都要守恒，离子个数写在离子前面。",
+		"seconds": 8.088
+	},
+	"wk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，强电解质与弱电解质。在水中完全电离的是强电解质：强酸、强碱、绝大多数盐。",
+		"seconds": 9.936
+	},
+	"wk2": {
+		"key": "zh-CN-XiaoxiaoNeural|部分电离的是弱电解质：弱酸醋酸、碳酸，弱碱一水合氨，还有水。",
+		"seconds": 6.936
+	},
+	"wk3": {
+		"key": "zh-CN-XiaoxiaoNeural|弱电解质电离用可逆号：醋酸可逆地电离出醋酸根和氢离子；多元弱酸分步电离，以第一步为主。",
+		"seconds": 9.432
+	},
+	"wk4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：强弱看电离程度，不看溶解度。硫酸钡难溶，但溶解的部分完全电离，是强电解质。",
+		"seconds": 9.312
+	},
+	"ab1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，溶液的导电能力，取决于两点：自由离子的浓度和离子所带电荷。",
+		"seconds": 7.296
+	},
+	"ab1b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个奔跑的女孩：离子要自由地跑起来才能导电，跑的人越多、带的电越多，导电越强。",
+		"seconds": 8.136
+	},
+	"ab2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以导电能力和电解质强弱没有必然联系：很稀的盐酸，可能不如较浓的醋酸导电强。",
+		"seconds": 8.256
+	},
+	"ab3": {
+		"key": "zh-CN-XiaoxiaoNeural|同浓度时，强电解质溶液导电能力强于弱电解质溶液，这是比较强弱的一种实验方法。",
+		"seconds": 8.208
+	},
+	"ab4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：导电能力强的不一定是强电解质；比较强弱要在相同浓度下比。",
+		"seconds": 7.224
+	},
+	"cu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，导电性曲线。向氢氧化钡溶液中滴加稀硫酸，生成硫酸钡沉淀和水，离子越来越少，导电能力下降。",
+		"seconds": 11.28
+	},
+	"cu2": {
+		"key": "zh-CN-XiaoxiaoNeural|恰好完全反应时，溶液里几乎没有离子，导电能力降到接近 0。",
+		"seconds": 6.312
+	},
+	"cu3": {
+		"key": "zh-CN-XiaoxiaoNeural|继续滴加硫酸，氢离子和硫酸根增多，导电能力又升高。",
+		"seconds": 5.736
+	},
+	"cu4": {
+		"key": "zh-CN-XiaoxiaoNeural|换成滴加硫酸钠溶液：生成硫酸钡的同时生成氢氧化钠，离子数目基本不变，导电能力几乎不变。",
+		"seconds": 9.528
+	},
+	"cu5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：写出反应，看离子浓度怎么变：生成沉淀、水、气体，离子就减少。",
+		"seconds": 8.112
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：铜能导电，所以铜是电解质？错，单质不是电解质。判断二：二氧化碳水溶液能导电，二氧化碳是电解质？错，是非电解质。",
+		"seconds": 14.88
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氯化钠固体不导电，但氯化钠是电解质？对。判断四：熔融硫酸氢钠电离出氢离子？错，熔融时电离出钠离子和硫酸氢根。",
+		"seconds": 14.28
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：强电解质溶液导电能力一定强？错，看离子浓度和电荷。判断六：氢氧化钡中滴加稀硫酸，导电能力先减弱后增强？对。",
+		"seconds": 14.016
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|电解质是化合物，导电要自由离子。下一期：离子反应与离子共存。",
+		"seconds": 7.176
+	}
+}

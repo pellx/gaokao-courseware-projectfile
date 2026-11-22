@@ -1,0 +1,121 @@
+{
+	"id": "HXD-18",
+	"title": "金属的腐蚀与防护",
+	"subject": "chemistry",
+	"book": "化学反应原理 · 第18期 / 共20期",
+	"points": [
+		"两类腐蚀",
+		"析氢与吸氧腐蚀",
+		"腐蚀快慢比较",
+		"牺牲阳极法",
+		"外加电流法",
+		"防护效果的检验"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学反应原理",
+		"title": [
+			[
+				"金属的腐蚀",
+				true
+			],
+			[
+				"与防护"
+			]
+		],
+		"subtitle": "析氢腐蚀 · 吸氧腐蚀 · 牺牲阳极 · 外加电流",
+		"photo": "rust.jpg",
+		"photoCaption": "锈蚀的铁链：铁的吸氧腐蚀",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"金属的腐蚀",
+					true
+				]
+			],
+			[
+				[
+					"与防护"
+				]
+			]
+		],
+		"photo": "rust.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "铁锈",
+		"credit": "W.carter, CC0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "钢铁在潮湿空气中主要发生化学腐蚀",
+				"ok": false,
+				"fix": "主要发生电化学腐蚀"
+			},
+			{
+				"q": "吸氧腐蚀正极：O2 + 2H2O + 4e^- = 4OH^-",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "钢铁腐蚀负极：Fe − 3e^- = Fe^3+",
+				"ok": false,
+				"fix": "Fe − 2e^- = Fe^2+"
+			},
+			{
+				"q": "镀锡铁破损后比镀锌铁更耐腐蚀",
+				"ok": false,
+				"fix": "镀锡铁破损后 Fe 作负极，腐蚀更快"
+			},
+			{
+				"q": "外加电流法中被保护金属接电源负极",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "牺牲阳极法利用的是电解池原理",
+				"ok": false,
+				"fix": "利用原电池原理"
+			}
+		],
+		"endTitle": [
+			[
+				"金属的腐蚀",
+				true
+			],
+			[
+				"与防护"
+			]
+		],
+		"endLine": "中性吸氧酸析氢，被保护的接负极",
+		"slogan": "中性吸氧酸析氢，被保护的接负极"
+	},
+	"credits": "图片来源：Wikimedia Commons —— W.carter《Very rusty chain》，CC0；插图来自 pixiv：ゼロ、Misuzu、カネコ（侵删）",
+	"anime": [
+		{
+			"key": "cry",
+			"src": "cry.jpg",
+			"credit": "插图：ゼロ《ｳｱｱ！ﾄﾓﾃﾞﾙｼﾞﾊﾞｯｾﾖ！！》pixiv #142669046",
+			"url": "https://www.pixiv.net/artworks/142669046"
+		},
+		{
+			"key": "nervous",
+			"src": "nervous.jpg",
+			"credit": "插图：Misuzu《Bocchi!》pixiv #107723045",
+			"url": "https://www.pixiv.net/artworks/107723045"
+		},
+		{
+			"key": "nyaa",
+			"src": "nyaa.jpg",
+			"credit": "插图：カネコ《SD中野梓》pixiv #84584594",
+			"url": "https://www.pixiv.net/artworks/84584594"
+		}
+	]
+}

@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|反应类型、方程式与定量计算。",
+		"seconds": 3.648
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|有机大题每年都问反应类型和写方程式，选择题常算消耗多少氢氧化钠、氢气，共八个考点。",
+		"seconds": 9.336
+	},
+	"su1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，取代反应：有机物分子中的原子或原子团被其他原子或原子团替代。",
+		"seconds": 7.8
+	},
+	"su2": {
+		"key": "zh-CN-XiaoxiaoNeural|常见的取代：烷烃卤代、苯的溴代和硝化、卤代烃水解、醇与卤化氢反应、醇分子间脱水、酯化、酯和酰胺的水解。",
+		"seconds": 11.448
+	},
+	"su3": {
+		"key": "zh-CN-XiaoxiaoNeural|特点：“有上有下”，一个原子团上去，另一个下来，通常有小分子副产物。",
+		"seconds": 6.984
+	},
+	"su4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酯化和水解都属于取代反应，大题写反应类型时可以写“取代反应（酯化反应）”。",
+		"seconds": 8.376
+	},
+	"ae1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，加成反应：不饱和键断开，两端碳各连上一个原子或原子团，“只上不下”。",
+		"seconds": 8.016
+	},
+	"ae2": {
+		"key": "zh-CN-XiaoxiaoNeural|能加成的：碳碳双键、碳碳三键、苯环、醛和酮中的碳氧双键。羧基和酯基中的碳氧双键一般不与氢气加成。",
+		"seconds": 11.28
+	},
+	"ae3": {
+		"key": "zh-CN-XiaoxiaoNeural|消去反应：从一个分子中脱去小分子，生成不饱和键，只下不上。醇消去要浓硫酸加热；卤代烃消去要氢氧化钠醇溶液加热。",
+		"seconds": 12.648
+	},
+	"ae3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩手拉着手，一个正皱着脸：加成是拉进来，消去是推出去，方向正好相反。",
+		"seconds": 8.016
+	},
+	"ae4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：醇分子内脱水是消去，分子间脱水成醚是取代。",
+		"seconds": 5.88
+	},
+	"rx1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，有机物的氧化反应：加氧或去氢。比如燃烧、醇的催化氧化、醛的银镜反应、烯烃和苯的同系物被酸性高锰酸钾氧化。",
+		"seconds": 12.576
+	},
+	"rx2": {
+		"key": "zh-CN-XiaoxiaoNeural|还原反应：加氢或去氧。比如醛、酮与氢气加成生成醇；硝基苯被还原成苯胺。",
+		"seconds": 8.856
+	},
+	"rx3": {
+		"key": "zh-CN-XiaoxiaoNeural|与氢气的加成，既是加成反应，也是还原反应。",
+		"seconds": 4.8
+	},
+	"rx4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断有机物发生氧化还是还原，看氢和氧的增减，不用算化合价。",
+		"seconds": 7.632
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，加聚反应：含不饱和键的单体加成聚合，没有小分子生成，链节组成与单体相同。",
+		"seconds": 8.856
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|缩聚反应：单体之间脱去小分子，通常是水，形成高分子。单体要有两个或两个以上能反应的官能团。",
+		"seconds": 10.08
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|常见缩聚：二元酸与二元醇生成聚酯；氨基酸生成多肽；苯酚与甲醛生成酚醛树脂。",
+		"seconds": 9.12
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：写缩聚方程式，小分子水的系数是2n减1或n减1，不能漏写。",
+		"seconds": 7.56
+	},
+	"cd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，由反应条件推断反应类型，这是有机推断的突破口。",
+		"seconds": 6.12
+	},
+	"cd2": {
+		"key": "zh-CN-XiaoxiaoNeural|氢氧化钠水溶液加热：卤代烃或酯水解。氢氧化钠醇溶液加热：卤代烃消去。浓硫酸加热：醇消去或酯化。",
+		"seconds": 11.616
+	},
+	"cd3": {
+		"key": "zh-CN-XiaoxiaoNeural|铜或银、氧气、加热：醇催化氧化。氢气、镍、加热：加成，也是还原。溴的四氯化碳溶液：加成。光照、氯气：烷基取代。",
+		"seconds": 14.52
+	},
+	"cd3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩两眼变成小圆点，抱着吉他弹得正欢：看到条件，反应类型就自己跳出来了。",
+		"seconds": 8.232
+	},
+	"cd4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：把常见条件和反应类型一一对应背熟，推断题先圈出所有反应条件。",
+		"seconds": 7.896
+	},
+	"eq1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，有机方程式的书写规范：用箭头 →，可逆反应（酯化）用可逆号。",
+		"seconds": 7.224
+	},
+	"eq2": {
+		"key": "zh-CN-XiaoxiaoNeural|注明条件：催化剂、加热、光照、浓硫酸等；有机物写结构简式，不写分子式。",
+		"seconds": 8.304
+	},
+	"eq3": {
+		"key": "zh-CN-XiaoxiaoNeural|不漏小分子：酯化的水、卤代烃水解的卤化钠、缩聚的水都要写。",
+		"seconds": 6.456
+	},
+	"eq3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个粉发女孩围着一个大蛋糕：方程式就像做蛋糕，原料、条件、副产物一样都不能少。",
+		"seconds": 8.784
+	},
+	"eq4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：写完检查四项：结构简式、条件、配平、小分子。",
+		"seconds": 6.816
+	},
+	"na1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，1摩尔有机物最多消耗氢氧化钠的量。羧基：1摩尔；酚羟基：1摩尔；醇羟基：0。",
+		"seconds": 10.152
+	},
+	"na2": {
+		"key": "zh-CN-XiaoxiaoNeural|普通酯基：1摩尔；酚酯基：2摩尔。卤代烃水解：1摩尔；但卤素直接连在苯环上，水解后生成酚，消耗2摩尔。",
+		"seconds": 11.856
+	},
+	"na3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：阿司匹林，也就是乙酰水杨酸，含一个羧基和一个酚酯基，1摩尔最多消耗1加2，等于3摩尔氢氧化钠。",
+		"seconds": 10.488
+	},
+	"na4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：逐个圈出能消耗氢氧化钠的官能团，酚酯和苯环上的卤素按2，其余按1，醇羟基不算。",
+		"seconds": 9.528
+	},
+	"hb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，消耗氢气的量：碳碳双键1摩尔，碳碳三键2摩尔，苯环3摩尔，醛基和酮羰基1摩尔；羧基、酯基、酰胺基0。",
+		"seconds": 12.24
+	},
+	"hb2": {
+		"key": "zh-CN-XiaoxiaoNeural|消耗溴的量，用溴水：碳碳双键1摩尔，碳碳三键2摩尔；酚羟基的邻、对位每个空位上的氢消耗1摩尔；醛基被溴水氧化也消耗溴。",
+		"seconds": 13.176
+	},
+	"hb3": {
+		"key": "zh-CN-XiaoxiaoNeural|苯环不与溴水加成，不消耗溴。",
+		"seconds": 3.432
+	},
+	"hb4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：数酚羟基消耗的溴，要看邻、对位上是否还有氢，已经被占的位置不算。",
+		"seconds": 8.088
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：酯化和水解都是取代？对。判断二：乙醇分子间脱水是消去？错，是取代。",
+		"seconds": 10.176
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：醛加氢也是还原？对。判断四：酯基的碳氧双键能和氢气加成？错。",
+		"seconds": 9.552
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：1摩尔乙酰水杨酸消耗2摩尔氢氧化钠？错，是3摩尔。判断六：苯环和溴水加成？错。",
+		"seconds": 11.28
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|取代有上有下，加成只上不下，酚酯按二算。下一期：信息迁移：陌生反应。",
+		"seconds": 8.112
+	}
+}

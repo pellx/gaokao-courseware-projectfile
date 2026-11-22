@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|有机物的命名。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|有机大题常问“A 的名称是什么”，选择题也会判断命名是否正确，共七个考点。",
+		"seconds": 7.488
+	},
+	"ak1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，烃基：烃分子失去一个氢原子剩下的部分。甲基、乙基、丙基、异丙基。",
+		"seconds": 8.616
+	},
+	"ak2": {
+		"key": "zh-CN-XiaoxiaoNeural|习惯命名：碳原子数 10 以内用甲乙丙丁戊己庚辛壬癸，再加“正、异、新”区分结构，如正戊烷、异戊烷、新戊烷。",
+		"seconds": 11.232
+	},
+	"ak3": {
+		"key": "zh-CN-XiaoxiaoNeural|结构复杂时，习惯命名不够用，就要用系统命名法。",
+		"seconds": 5.112
+	},
+	"ak4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：异丙基的连接点在中间的碳上；丙基的连接点在端点碳上。",
+		"seconds": 6.816
+	},
+	"an1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，烷烃的系统命名三步。第一步，选主链：选最长的碳链；一样长时选支链最多的。",
+		"seconds": 9.456
+	},
+	"an2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，编号：从离支链最近的一端开始编号，使支链位次之和最小。",
+		"seconds": 7.2
+	},
+	"an3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，写名称：支链位次-支链名称-主链名称。相同支链合并，用“二、三”表示个数；不同支链先简后繁。",
+		"seconds": 11.448
+	},
+	"an3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两组小人各自排成一队：命名就是先挑出最长的那一队当主链，剩下的都是支链。",
+		"seconds": 7.896
+	},
+	"an4": {
+		"key": "zh-CN-XiaoxiaoNeural|例：主链四个碳，二号碳上有甲基，叫2-甲基丁烷；另一种叫2,2,4-三甲基戊烷。",
+		"seconds": 9.216
+	},
+	"ae1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，烯烃和炔烃的命名：主链必须包含碳碳双键或三键，即使它不是最长的碳链。",
+		"seconds": 8.616
+	},
+	"ae2": {
+		"key": "zh-CN-XiaoxiaoNeural|编号从离双键或三键最近的一端开始，用双键碳中编号较小的那个表示位置。",
+		"seconds": 7.464
+	},
+	"ae3": {
+		"key": "zh-CN-XiaoxiaoNeural|例：双键在一号碳的叫1-丁烯；双键在二号碳的叫2-丁烯；再在二号碳上有甲基，叫2-甲基-2-丁烯。",
+		"seconds": 11.088
+	},
+	"ae3b": {
+		"key": "zh-CN-XiaoxiaoNeural|扎马尾的黑发小女孩背着蓝吉他：编号要让双键的位次最小，支链让位给官能团。",
+		"seconds": 7.992
+	},
+	"ae4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：烯烃命名不写双键位置是错的，“丁烯”要写成“1-丁烯”或“2-丁烯”。",
+		"seconds": 7.392
+	},
+	"al1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，醇的命名：主链选连有羟基的碳在内的最长碳链，从离羟基最近的一端编号。",
+		"seconds": 8.328
+	},
+	"al2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：二号碳上连羟基的丙醇叫2-丙醇；二号碳上连羟基的丁醇叫2-丁醇。",
+		"seconds": 8.184
+	},
+	"al3": {
+		"key": "zh-CN-XiaoxiaoNeural|多元醇用二醇、三醇：两个碳上各有一个羟基的叫乙二醇；丙三醇俗称甘油。",
+		"seconds": 7.968
+	},
+	"al4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：编号时羟基优先于支链和碳碳双键之外的取代基，位次要最小。",
+		"seconds": 7.296
+	},
+	"bz1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，苯的同系物命名：以苯环为母体，侧链作取代基，如甲苯、乙苯。",
+		"seconds": 7.392
+	},
+	"bz2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个取代基的位置用邻、间、对表示：邻二甲苯、间二甲苯、对二甲苯。",
+		"seconds": 7.536
+	},
+	"bz3": {
+		"key": "zh-CN-XiaoxiaoNeural|系统命名用数字：邻二甲苯就是 1,2-二甲苯，间是 1,3-，对是 1,4-。",
+		"seconds": 7.992
+	},
+	"bz4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：苯环上编号要使取代基位次之和最小；“1,5-二甲苯”是错的，应为 1,3-二甲苯。",
+		"seconds": 9.696
+	},
+	"cb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，醛和羧酸的命名：主链包含醛基或羧基的碳，并且这个碳就是 1 号碳。",
+		"seconds": 8.088
+	},
+	"cb2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：二号碳上有甲基的丙醛，叫2-甲基丙醛；H C O O H叫甲酸，C H 3 C O O H叫乙酸。",
+		"seconds": 9.768
+	},
+	"cb3": {
+		"key": "zh-CN-XiaoxiaoNeural|酯的命名：某酸某酯，由生成它的酸和醇决定：C H 3 C O O C H 2 C H 3叫乙酸乙酯，H C O O C H 3叫甲酸甲酯。",
+		"seconds": 12.384
+	},
+	"cb4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：醛基、羧基的碳不用标位置，因为它一定是 1 号；“1-丙醛”多此一举。",
+		"seconds": 8.04
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，命名易错辨析。“2-乙基丁烷”错在主链没选最长：乙基加进去主链有 5 个碳，应为 3-甲基戊烷。",
+		"seconds": 10.872
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|“3-甲基丁烷”错在编号方向反了：应从另一端编号，叫 2-甲基丁烷。",
+		"seconds": 7.08
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|“2-甲基-3-丁烯”错在编号没让双键位次最小，应为 3-甲基-1-丁烯。",
+		"seconds": 7.344
+	},
+	"tr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑发女孩气鼓鼓地撅着嘴：名字一看有“2-乙基”“1-甲基”，八成是主链选错了。",
+		"seconds": 7.392
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断命名对错，就按名称写出结构，再重新命名一遍，看是否一致。",
+		"seconds": 7.848
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：异戊烷叫2-甲基丁烷？对。判断二：2-乙基丁烷对吗？错，应为3-甲基戊烷。",
+		"seconds": 10.032
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：烯烃主链必须含双键？对。判断四：1-丁烯可以只叫丁烯？错，要写位置。",
+		"seconds": 10.176
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：对二甲苯就是1,4-二甲苯？对。判断六：C H 3 C O O C H 2 C H 3叫乙酸乙酯？对。",
+		"seconds": 11.904
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|最长做主链，近端来编号，官能团优先。下一期：有机物的结构特点：共线共面与杂化。",
+		"seconds": 9.192
+	}
+}

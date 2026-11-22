@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|气体的制备、净化与尾气处理。",
+		"seconds": 3.504
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验大题的装置分析部分：怎么制、怎么除杂、怎么干燥、怎么收集、尾气怎么处理，共八个考点。",
+		"seconds": 9.288
+	},
+	"cl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验室制氯气：二氧化锰加四个浓盐酸，加热生成氯化锰、氯气和两个水，需要加热，必须用浓盐酸。",
+		"seconds": 11.208
+	},
+	"cl2": {
+		"key": "zh-CN-XiaoxiaoNeural|除杂：先通过饱和食盐水除去氯化氢，再通过浓硫酸干燥。",
+		"seconds": 6.12
+	},
+	"cl3": {
+		"key": "zh-CN-XiaoxiaoNeural|收集：向上排空气法或排饱和食盐水法；尾气用氢氧化钠溶液吸收。",
+		"seconds": 7.44
+	},
+	"cl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：随着反应进行，浓盐酸变稀后反应停止，所以氯化氢不能完全反应，生成的氯气少于理论值。",
+		"seconds": 10.296
+	},
+	"am1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验室制氨气：两个氯化铵加氢氧化钙，加热生成氯化钙、两个氨气和两个水，固固加热，试管口略向下倾斜。",
+		"seconds": 11.976
+	},
+	"am2": {
+		"key": "zh-CN-XiaoxiaoNeural|干燥用碱石灰；收集用向下排空气法，试管口塞一团棉花，减少与空气对流。",
+		"seconds": 7.992
+	},
+	"am3": {
+		"key": "zh-CN-XiaoxiaoNeural|检验：用湿润的红色石蕊试纸靠近试管口，变蓝；或用蘸浓盐酸的玻璃棒靠近，产生白烟。",
+		"seconds": 9.168
+	},
+	"am3b": {
+		"key": "zh-CN-XiaoxiaoNeural|抱着黑吉他的粉发女孩站在黄色背景前：氨气只认碱石灰，浓硫酸、氯化钙都不行。",
+		"seconds": 8.4
+	},
+	"am4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能只加热氯化铵制氨气：分解生成的氨气和氯化氢在试管口又重新化合成氯化铵。",
+		"seconds": 8.976
+	},
+	"ot1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，二氧化硫：亚硫酸钠与较浓的硫酸反应，或铜与浓硫酸加热。尾气用氢氧化钠溶液吸收。",
+		"seconds": 10.056
+	},
+	"ot2": {
+		"key": "zh-CN-XiaoxiaoNeural|氧气：高锰酸钾，或者氯酸钾在二氧化锰催化下加热；也可以过氧化氢在二氧化锰催化下分解，不加热。",
+		"seconds": 10.416
+	},
+	"ot3": {
+		"key": "zh-CN-XiaoxiaoNeural|二氧化碳：大理石与稀盐酸反应，不用稀硫酸，因为生成的硫酸钙微溶，会覆盖在大理石表面使反应停止。",
+		"seconds": 10.248
+	},
+	"ot4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：制二氧化硫不用稀硫酸，因为二氧化硫易溶于水，不易逸出；二氧化碳中混有氯化氢，用饱和碳酸氢钠溶液除去。",
+		"seconds": 11.496
+	},
+	"od1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，除杂顺序：一般先除杂质气体，后干燥。如果先干燥，后面的溶液又会带入水蒸气。",
+		"seconds": 9.792
+	},
+	"od2": {
+		"key": "zh-CN-XiaoxiaoNeural|除杂原则：不引入新杂质，不消耗被提纯的气体。",
+		"seconds": 5.064
+	},
+	"od3": {
+		"key": "zh-CN-XiaoxiaoNeural|常见组合：氯气中的氯化氢用饱和食盐水；二氧化碳中的氯化氢用饱和碳酸氢钠；二氧化硫中的氯化氢用饱和亚硫酸氢钠。",
+		"seconds": 12
+	},
+	"od4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：除去酸性气体中的氯化氢，用该气体对应的饱和酸式盐溶液，既吸收氯化氢，又不吸收主气体。",
+		"seconds": 10.248
+	},
+	"dy1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，干燥剂的选择：酸性干燥剂浓硫酸，不能干燥碱性气体氨气，也不能干燥还原性气体硫化氢、碘化氢、溴化氢。",
+		"seconds": 11.664
+	},
+	"dy2": {
+		"key": "zh-CN-XiaoxiaoNeural|碱性干燥剂碱石灰，不能干燥酸性气体氯气、二氧化碳、二氧化硫、氯化氢。",
+		"seconds": 7.848
+	},
+	"dy3": {
+		"key": "zh-CN-XiaoxiaoNeural|中性干燥剂无水氯化钙，能干燥大多数气体，但不能干燥氨气。",
+		"seconds": 6.456
+	},
+	"dy3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑色双马尾女孩抱着红吉他笑：干燥剂和气体也讲究性格相合，酸配酸、碱配碱。",
+		"seconds": 8.568
+	},
+	"dy4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：浓硫酸能干燥二氧化硫，虽然二氧化硫有还原性，但不与浓硫酸反应。",
+		"seconds": 7.68
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，收集方法的选择看两点：溶解性和密度，还要看会不会与空气反应。",
+		"seconds": 7.584
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|既能用排水法又能用排空气法：氧气、氢气。只能排水法：一氧化氮、一氧化碳、氮气。",
+		"seconds": 9.456
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|只能排空气法：氨气、氯化氢、二氧化氮、二氧化硫，它们易溶于水或与水反应。氯气可用排饱和食盐水法。",
+		"seconds": 11.088
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：相对分子质量和 29 比：大于 29 向上排空气，小于 29 向下排空气，接近 29 的不用排空气法。",
+		"seconds": 11.232
+	},
+	"ta1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，尾气处理三种方法。吸收法：氯气、二氧化硫、二氧化氮、硫化氢用氢氧化钠溶液吸收。",
+		"seconds": 10.464
+	},
+	"ta2": {
+		"key": "zh-CN-XiaoxiaoNeural|燃烧法：一氧化碳等用点燃的方法；收集法：用气球或塑料袋收集一氧化碳等。",
+		"seconds": 7.968
+	},
+	"ta3": {
+		"key": "zh-CN-XiaoxiaoNeural|防倒吸：氨气、盐酸极易溶于水，吸收时要用倒扣的漏斗、干燥管或安全瓶。",
+		"seconds": 8.208
+	},
+	"ta3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩踢着腿挥舞鼓棒：有毒的尾气不能直接排进空气，一定要处理。",
+		"seconds": 6.936
+	},
+	"ta4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：一氧化氮不能被氢氧化钠溶液吸收，要先通入氧气转化成二氧化氮，或者与二氧化氮一起被吸收。",
+		"seconds": 10.176
+	},
+	"cn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，装置连接顺序：发生 → 净化（除杂、干燥）→ 收集或性质实验 → 尾气处理。",
+		"seconds": 8.184
+	},
+	"cn2": {
+		"key": "zh-CN-XiaoxiaoNeural|洗气瓶长进短出；干燥管大口进、小口出；量气装置要冷却到室温、调平液面再读数。",
+		"seconds": 8.88
+	},
+	"cn3": {
+		"key": "zh-CN-XiaoxiaoNeural|验证生成物时，要先检验水，无水硫酸铜变蓝，再检验其他气体，否则溶液会带入水。",
+		"seconds": 8.664
+	},
+	"cn4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：问某装置的作用，答除去某杂质、防止倒吸、防止空气中的某物质进入。",
+		"seconds": 8.016
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：二氧化锰和浓盐酸反应，氯化氢能完全反应？错，变稀就停止。判断二：只加热氯化铵制氨气？错。",
+		"seconds": 12.504
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：饱和食盐水除去氯气中的氯化氢？对。判断四：浓硫酸能干燥二氧化硫？对。",
+		"seconds": 10.272
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：一氧化氮用排空气法？错，用排水法。判断六：一氧化氮直接用氢氧化钠吸收？错。",
+		"seconds": 10.8
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先除杂后干燥，有毒尾气要处理。下一期：物质的分离与提纯。",
+		"seconds": 6.72
+	}
+}

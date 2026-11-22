@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|核外电子排布的规则与表示。",
+		"seconds": 3.024
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|结构大题第一空几乎必考：写基态原子的价层电子排布、数未成对电子，共八个考点。",
+		"seconds": 8.4
+	},
+	"au1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，构造原理。随着核电荷数递增，电子按一定顺序依次填入各能级，这个顺序叫构造原理。",
+		"seconds": 10.104
+	},
+	"au2": {
+		"key": "zh-CN-XiaoxiaoNeural|顺序是：1 s、2 s、2 p、3 s、3 p、4 s、3 d、4 p、5 s、4 d、5 p、6 s、4 f、5 d、6 p。",
+		"seconds": 13.44
+	},
+	"au3": {
+		"key": "zh-CN-XiaoxiaoNeural|从第三能层开始出现能级交错：4 s 排在 3 d 前面，5 s 排在 4 d 前面。",
+		"seconds": 7.488
+	},
+	"au4": {
+		"key": "zh-CN-XiaoxiaoNeural|用斜线法记：把各能级排成表，按对角线方向从右上往左下依次读。",
+		"seconds": 6.984
+	},
+	"au5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：构造原理是填电子的顺序，写电子排布式时要按能层顺序书写：铁是…3 d 6、4 s 2，不写成…4 s 2、3 d 6。",
+		"seconds": 12.84
+	},
+	"pa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电子自旋与泡利原理。电子有两种自旋状态，用向上和向下的箭头表示。",
+		"seconds": 8.424
+	},
+	"pa2": {
+		"key": "zh-CN-XiaoxiaoNeural|泡利原理：一个原子轨道里最多容纳2个电子，而且它们的自旋相反。",
+		"seconds": 7.008
+	},
+	"pa2b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像这两个背靠背坐着的女孩：同一个轨道里的两个电子，自旋方向正好相反。",
+		"seconds": 7.056
+	},
+	"pa3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以在轨道表示式里，一个方框中最多画两个箭头，而且一上一下。",
+		"seconds": 6.792
+	},
+	"pa4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：一个方框里画两个同向箭头，违反的是泡利原理，不是洪特规则。",
+		"seconds": 7.296
+	},
+	"hu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，洪特规则。基态原子中，填入简并轨道的电子总是先单独分占，而且自旋平行。",
+		"seconds": 9.36
+	},
+	"hu2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如氮原子的 2 p 有3个电子：三个 p 轨道各放一个，箭头方向相同。",
+		"seconds": 7.152
+	},
+	"hu3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果把两个电子挤进同一个轨道、另一个轨道空着，就违反了洪特规则。",
+		"seconds": 6.672
+	},
+	"hu4": {
+		"key": "zh-CN-XiaoxiaoNeural|如果三个电子各占一个轨道，但箭头方向不同，也违反洪特规则。",
+		"seconds": 6.36
+	},
+	"hu5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断轨道表示式违背了哪条规则：同一方框同向，是泡利；没分占或不平行，是洪特；先填高能级，是能量最低原理。",
+		"seconds": 12.912
+	},
+	"lo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，能量最低原理与特例。在构造原理、泡利原理、洪特规则共同作用下，原子的能量最低，这就是能量最低原理。",
+		"seconds": 11.808
+	},
+	"lo2": {
+		"key": "zh-CN-XiaoxiaoNeural|特例一：铬，按构造原理应是 3 d 4、4 s 2，实际是 3 d 5、4 s 1。",
+		"seconds": 7.896
+	},
+	"lo3": {
+		"key": "zh-CN-XiaoxiaoNeural|特例二：铜，应是 3 d 9、4 s 2，实际是 3 d 10、4 s 1。",
+		"seconds": 6.84
+	},
+	"lo4": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：能量相同的原子轨道在全充满、半充满和全空时，体系能量较低，原子较稳定。",
+		"seconds": 8.856
+	},
+	"lo4b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像乐队全员到齐才最安心：d 轨道5个半满或10个全满，最稳定。",
+		"seconds": 6.672
+	},
+	"lo5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：写铬和铜的电子排布式最容易错；同族的钼、银也有类似情况，但高考主要考铬和铜。",
+		"seconds": 9.12
+	},
+	"no1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，四种表示方法，以硫为例。电子排布式：1 s 2、2 s 2、2 p 6、3 s 2、3 p 4。",
+		"seconds": 10.536
+	},
+	"no2": {
+		"key": "zh-CN-XiaoxiaoNeural|简化电子排布式：用上一周期稀有气体的符号代替内层，写成氖、3 s 2、3 p 4。",
+		"seconds": 8.688
+	},
+	"no3": {
+		"key": "zh-CN-XiaoxiaoNeural|价层电子排布式：只写价层电子，硫是 3 s 2、3 p 4；主族元素就是最外层电子。",
+		"seconds": 8.952
+	},
+	"no4": {
+		"key": "zh-CN-XiaoxiaoNeural|轨道表示式：用方框表示轨道、箭头表示电子，能看出未成对电子，硫的 3 p 上有2个未成对电子。",
+		"seconds": 9.744
+	},
+	"no5": {
+		"key": "zh-CN-XiaoxiaoNeural|再看过渡元素铁：价层电子排布式是 3 d 6、4 s 2，要带上 3 d。",
+		"seconds": 7.128
+	},
+	"no6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：结构大题第一空常问“基态某原子的价层电子排布式”或“价层电子轨道表示式”。",
+		"seconds": 8.088
+	},
+	"io1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，离子的电子排布。主族元素形成离子，直接在原子基础上增减最外层电子。",
+		"seconds": 8.664
+	},
+	"io2": {
+		"key": "zh-CN-XiaoxiaoNeural|过渡金属失电子时，先失 4 s 电子，再失 3 d 电子。",
+		"seconds": 5.592
+	},
+	"io3": {
+		"key": "zh-CN-XiaoxiaoNeural|铁是 3 d 6、4 s 2：亚铁离子是 3 d 6，铁离子是 3 d 5。",
+		"seconds": 6.528
+	},
+	"io4": {
+		"key": "zh-CN-XiaoxiaoNeural|亚铜离子是 3 d 10，铜离子是 3 d 9；锰离子是 3 d 5。",
+		"seconds": 6
+	},
+	"io5": {
+		"key": "zh-CN-XiaoxiaoNeural|所以铁离子比亚铁离子稳定，因为 3 d 5 是半充满；二价锰比亚铁离子难被氧化，也是因为它已经是 3 d 5 半充满。",
+		"seconds": 11.208
+	},
+	"io6": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：写出两种离子的价层电子排布 → 指出谁是半充满或全充满 → 更稳定 → 结论。",
+		"seconds": 8.088
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，未成对电子数与运动状态数。未成对电子数要看轨道表示式：氧2个，氮3个，铁4个，铬6个。",
+		"seconds": 11.328
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子的运动状态数等于电子数：每个电子的状态都不一样，铁原子有26种运动状态不同的电子。",
+		"seconds": 8.928
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|电子的空间运动状态数等于占据的轨道数：氧原子 1 s、2 s 各1个，2 p 3个，共5种空间运动状态。",
+		"seconds": 10.272
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|能量不同的电子种数，等于能级数：氧有 1 s、2 s、2 p，共3种能量不同的电子。",
+		"seconds": 8.688
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“运动状态”数电子，“空间运动状态”数轨道，“能量”数能级，三个问法别混。",
+		"seconds": 7.872
+	},
+	"nr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，审题规范。第一，看清问的是价层还是完整的电子排布式。",
+		"seconds": 7.176
+	},
+	"nr2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，看清是基态还是激发态：激发态的排布不满足构造原理，但也是合理的。",
+		"seconds": 7.776
+	},
+	"nr3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，看清问的是原子还是离子，离子要按先失最外层的规则调整。",
+		"seconds": 6.84
+	},
+	"nr4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四，主族元素的价层电子就是最外层电子，过渡元素要带上 n减1 d，比如铜是 3 d 10、4 s 1。",
+		"seconds": 10.56
+	},
+	"nr5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：把铁的价层电子写成 4 s 2、把铜离子写成 3 d 7、4 s 2，都是常见丢分点。",
+		"seconds": 9
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：基态铬原子价层电子是 3 d 4、4 s 2？错，是 3 d 5、4 s 1。判断二：一个原子轨道最多容纳2个自旋相反的电子？对。",
+		"seconds": 15
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：铁失电子时先失 3 d 电子？错，先失 4 s。判断四：铁离子比亚铁离子稳定，因为 3 d 5 半充满？对。",
+		"seconds": 12.768
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：基态氧原子有8种空间运动状态的电子？错，是5种。判断六：2 p 的三个电子挤在两个轨道里，违反泡利原理？错，违反洪特规则。",
+		"seconds": 15.216
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先按构造原理填，同一轨道自旋相反，简并轨道先分占，铬铜记特例。下一期：周期、族与分区。",
+		"seconds": 10.2
+	}
+}

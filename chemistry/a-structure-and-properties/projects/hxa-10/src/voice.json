@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|价层电子对互斥模型。",
+		"seconds": 2.712
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题常给出价层电子对互斥模型图判断正误，大题要写出空间结构，核心是算准价层电子对数，共六个考点。",
+		"seconds": 11.016
+	},
+	"sh1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，常见分子的空间结构。二氧化碳是直线形，键角180度；水是V形，键角约105度。",
+		"seconds": 10.296
+	},
+	"sh2": {
+		"key": "zh-CN-XiaoxiaoNeural|三氟化硼和甲醛是平面三角形；氨是三角锥形，键角约107度。",
+		"seconds": 7.344
+	},
+	"sh3": {
+		"key": "zh-CN-XiaoxiaoNeural|甲烷是正四面体形，键角109度28分；白磷也是正四面体，但键角是60度。",
+		"seconds": 8.568
+	},
+	"sh4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同样是三原子分子，二氧化碳是直线形，水却是V形；同样是四原子分子，三氟化硼是平面三角形，氨却是三角锥形。差别就在中心原子有没有孤电子对。",
+		"seconds": 16.344
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，价层电子对数等于西格玛键电子对数加孤电子对数。西格玛键电子对数就是中心原子结合的原子数。",
+		"seconds": 11.16
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|孤电子对数等于 a 减 x b 再除以2：a 是中心原子的价层电子数，x 是结合的原子数，b 是每个结合原子最多能接受的电子数，氢是1，其他原子是8减价层电子数。",
+		"seconds": 16.464
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如二氧化硫：a 等于6，x 等于2，b 等于2，孤电子对数等于6减4再除以2，等于1，价层电子对数等于2加1等于3。",
+		"seconds": 12.456
+	},
+	"ct4": {
+		"key": "zh-CN-XiaoxiaoNeural|离子要先调整 a：阳离子减去电荷数，阴离子加上电荷数。铵根：a 等于5减1等于4，孤电子对数等于0；碳酸根：a 等于4加2等于6，孤电子对数等于0。",
+		"seconds": 16.032
+	},
+	"ct5": {
+		"key": "zh-CN-XiaoxiaoNeural|再比如水合氢离子：a 等于6减1等于5，x 等于3，孤电子对数等于5减3再除以2等于1；硫酸根：a 等于8，孤电子对数等于0。",
+		"seconds": 13.512
+	},
+	"ct5b": {
+		"key": "zh-CN-XiaoxiaoNeural|孤电子对就像这只粉色的小幽灵：分子的形状里看不见它，可它照样占着地方。",
+		"seconds": 7.392
+	},
+	"ct6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：离子的 a 别忘了加减电荷；b 不是价层电子数，是“8减价层电子数”，氧是2，氯是1。",
+		"seconds": 9.144
+	},
+	"md1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，价层电子对互斥模型与分子的空间结构。价层电子对相互排斥，在空间尽量远离，按电子对数排成的几何构型叫价层电子对互斥模型，简称 V S E P R 模型。",
+		"seconds": 17.136
+	},
+	"md1b": {
+		"key": "zh-CN-XiaoxiaoNeural|就像吵架后背对背的两个人：电子对之间互相排斥，总想离得越远越好。",
+		"seconds": 7.104
+	},
+	"md2": {
+		"key": "zh-CN-XiaoxiaoNeural|2对是直线形，3对是平面三角形，4对是四面体形。",
+		"seconds": 5.88
+	},
+	"md3": {
+		"key": "zh-CN-XiaoxiaoNeural|把孤电子对略去，剩下原子的排布，才是分子的空间结构。",
+		"seconds": 5.664
+	},
+	"md4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如水：4对电子，价层电子对互斥模型是四面体形；去掉2对孤电子对，分子是V形。",
+		"seconds": 9.096
+	},
+	"md5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：没有孤电子对时，两者一致；有孤电子对时不一致，题目问哪个就答哪个。",
+		"seconds": 8.04
+	},
+	"tb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，类型对照表。价层电子对数2，孤电子对0：直线形，如二氧化碳、氯化铍。",
+		"seconds": 9.432
+	},
+	"tb2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子对数3：孤电子对0是平面三角形，如三氟化硼、三氧化硫、碳酸根；孤电子对1是V形，如二氧化硫。",
+		"seconds": 11.208
+	},
+	"tb3": {
+		"key": "zh-CN-XiaoxiaoNeural|电子对数4：孤电子对0是正四面体形，如甲烷、铵根、硫酸根；1对是三角锥形，如氨、水合氢离子；2对是V形，如水。",
+		"seconds": 12.984
+	},
+	"tb4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先算价层电子对数定 V S E P R 模型，再看孤电子对数定分子形状，两步查表。",
+		"seconds": 9.528
+	},
+	"jd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，用价层电子对互斥模型判断分子形状的两个要点。第一，多重键只算一对：双键、三键都只算一个西格玛键电子对。",
+		"seconds": 12.696
+	},
+	"jd2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如甲醛：碳连3个原子，孤电子对0，价层电子对数3，平面三角形。",
+		"seconds": 7.512
+	},
+	"jd3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，先确定中心原子：一般是分子中电负性较小、能形成较多共价键的原子，比如二氧化硫中的硫、硝酸根中的氮。",
+		"seconds": 11.4
+	},
+	"jd4": {
+		"key": "zh-CN-XiaoxiaoNeural|硝酸根：a 等于5加1等于6，x 等于3，b 等于2，孤电子对等于0，价层电子对数3，平面三角形。",
+		"seconds": 10.344
+	},
+	"jd5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：选择题常给出模型和空间结构的配对，逐一算出电子对数核对。",
+		"seconds": 7.176
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，易错辨析。第一句：“水的价层电子对互斥模型是V形。”错，模型是四面体形，分子空间结构才是V形。",
+		"seconds": 12.408
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二句：“氨是平面三角形。”错，是三角锥形，氮上有一对孤电子对。",
+		"seconds": 7.2
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三句：“三氧化硫和亚硫酸根空间结构相同。”错，三氧化硫是平面三角形，亚硫酸根有1对孤电子对，是三角锥形。",
+		"seconds": 11.976
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四句：“甲烷和白磷都是正四面体，键角都是109度28分。”错，白磷的键角是60度。",
+		"seconds": 9.648
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：问模型还是问空间结构，答案可能不同，审题时圈出来。",
+		"seconds": 6.48
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：水的价层电子对互斥模型是V形？错，是四面体形。判断二：铵根和甲烷都是正四面体形？对。",
+		"seconds": 12.192
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：二氧化硫中硫有1对孤电子对？对。判断四：碳酸根是三角锥形？错，平面三角形。",
+		"seconds": 11.064
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：白磷与甲烷键角相同？错，白磷是60度。判断六：甲醛中碳的价层电子对数为4？错，是3，双键只算一对。",
+		"seconds": 13.536
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|西格玛键对数加孤电子对数，先定模型再去掉孤电子对。下一期：杂化轨道与键角比较。",
+		"seconds": 9.48
+	}
+}

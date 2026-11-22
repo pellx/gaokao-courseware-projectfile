@@ -1,0 +1,38 @@
+{
+	"id": "BX1-08",
+	"title": "细胞膜的结构和功能",
+	"subject": "biology",
+	"book": "人教版·必修1·第3章",
+	"points": ["细胞膜的功能", "信息交流的方式", "对膜成分的探索", "对膜结构的探索", "流动镶嵌模型", "糖被", "流动性与选择透过"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞膜的"], ["结构和功能", true]],
+		"subtitle": "探索历程 · 流动镶嵌模型 · 糖被",
+		"photo": "rbc.jpg",
+		"photoCaption": "扫描电镜下的红细胞：提取细胞膜的常用材料",
+		"photoPos": "center 35%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞膜的"], ["结构", true]], [["和功能", true]]],
+		"kicker": "流动镶嵌模型",
+		"photo": "rbc-cover.jpg",
+		"photoPos": "center 35%",
+		"photoTag": "红细胞",
+		"credit": "Photo: Scootdive, CC BY-SA 3.0 (cropped)"
+	},
+	"review": {
+		"items": [
+			{"q": "细胞膜控制物质进出的作用是绝对的", "ok": false, "fix": "是相对的，有些病毒、病菌也能进入"},
+			{"q": "细胞间信息交流都需要细胞膜上的受体", "ok": false, "fix": "胞间连丝不需要受体"},
+			{"q": "罗伯特森认为细胞膜是静态的统一结构", "ok": true, "fix": ""},
+			{"q": "人鼠细胞融合实验用了同位素标记法", "ok": false, "fix": "用的是荧光标记法"},
+			{"q": "糖被分布在细胞膜的内外两侧", "ok": false, "fix": "只分布在细胞膜的外侧"},
+			{"q": "细胞膜的功能特性是具有一定的流动性", "ok": false, "fix": "功能特性是选择透过性"}
+		],
+		"endTitle": [["细胞膜的"], ["结构和功能", true]],
+		"endLine": "功能 · 信息交流 · 探索历程 · 流动镶嵌模型",
+		"slogan": "流动性是结构特点，选择透过性是功能特性！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Scootdive《Red blood cells (2)》CC BY-SA 3.0"
+}

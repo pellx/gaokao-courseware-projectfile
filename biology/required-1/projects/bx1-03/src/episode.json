@@ -1,0 +1,38 @@
+{
+	"id": "BX1-03",
+	"title": "细胞中的元素和化合物",
+	"subject": "biology",
+	"book": "人教版·必修1·第2章",
+	"points": ["统一性和差异性", "大量与微量元素", "核心元素与含量", "细胞中的化合物", "检测还原糖", "检测脂肪", "检测蛋白质"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["细胞中的"], ["元素和化合物", true]],
+		"subtitle": "元素 · 化合物 · 有机物的检测",
+		"photo": "peanuts.jpg",
+		"photoCaption": "花生种子：检测脂肪的常用材料",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["细胞中的"], ["元素", true]], [["和化合物", true]]],
+		"kicker": "元素含量 · 物质检测",
+		"photo": "peanuts.jpg",
+		"photoPos": {"16x9": "center 40%", "4x3": "center 40%", "3x4": "center 22%"},
+		"photoTag": "花生",
+		"credit": "Photo: NIAID, CC BY 2.0"
+	},
+	"review": {
+		"items": [
+			{"q": "组成细胞的元素中有些是细胞特有的", "ok": false, "fix": "没有一种元素为细胞所特有"},
+			{"q": "Fe、Mn、Zn、Cu、Mg都是微量元素", "ok": false, "fix": "Mg是大量元素"},
+			{"q": "细胞鲜重中含量最多的元素是C", "ok": false, "fix": "鲜重中O最多；人体细胞干重中C最多"},
+			{"q": "细胞中含量最多的有机物是蛋白质", "ok": true, "fix": ""},
+			{"q": "甘蔗汁含糖多，适合用来检测还原糖", "ok": false, "fix": "甘蔗主要含蔗糖，蔗糖是非还原糖"},
+			{"q": "检测蛋白质时，A液和B液混匀后再加入", "ok": false, "fix": "先加A液摇匀，再加B液"}
+		],
+		"endTitle": [["细胞中的"], ["元素和化合物", true]],
+		"endLine": "元素 · 化合物 · 还原糖 · 脂肪 · 蛋白质",
+		"slogan": "试剂、条件、颜色，一个都不能错！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— NIAID《Shelled Peanuts in a Bowl》CC BY 2.0"
+}

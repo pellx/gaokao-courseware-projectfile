@@ -1,0 +1,38 @@
+{
+	"id": "XB2-09",
+	"title": "生态系统的能量流动（下）：相关计算与实践意义",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第3章",
+	"points": ["传递效率的计算", "至少与最多消耗", "按比例分配计算", "能量流动模型图", "增大总能量与利用率", "调整能量流动关系"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["能量流动："], ["计算与意义", true]],
+		"subtitle": "生态系统的能量流动（下）",
+		"photo": "weeding.jpg",
+		"photoCaption": "稻田除草：让能量流向对人类有益的部分",
+		"photoPos": "70% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["能量流动"]], [["计算与意义", true]]],
+		"kicker": "传递效率 · 至少最多 · 利用率",
+		"photo": "weeding.jpg",
+		"photoPos": "70% center",
+		"photoTag": "稻田除草（版画）",
+		"credit": "Image: Wellcome Collection, CC BY 4.0"
+	},
+	"review": {
+		"items": [
+			{"q": "传递效率可以用摄入量来计算", "ok": false, "fix": "必须用同化量计算"},
+			{"q": "求至少消耗生产者：选最短链、按20%", "ok": true, "fix": ""},
+			{"q": "求最多消耗生产者：选最短链、按10%", "ok": false, "fix": "选最长链、按10%"},
+			{"q": "秸秆喂牲畜、粪便制沼气提高了能量利用率", "ok": true, "fix": ""},
+			{"q": "生态农业提高了能量传递效率", "ok": false, "fix": "提高的是能量利用率"},
+			{"q": "除草灭虫使能量更多流向对人类有益的部分", "ok": true, "fix": ""}
+		],
+		"endTitle": [["能量流动："], ["计算与意义", true]],
+		"endLine": "传递效率 · 至少与最多 · 按比例分配 · 模型图 · 实践意义",
+		"slogan": "至少短链乘二成，最多长链乘一成！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Wellcome Collection《Agriculture; four labourers weeding rice paddies in China》CC BY 4.0"
+}

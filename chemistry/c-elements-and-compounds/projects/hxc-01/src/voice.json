@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|钠与钠的氧化物。",
+		"seconds": 2.016
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考钠的性质与现象，以及过氧化钠的结构与电子转移，共六个考点。",
+		"seconds": 7.176
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，钠的物理性质：银白色、质软，能用小刀切；密度比水小，比煤油大；熔点低，不到 100 摄氏度。",
+		"seconds": 10.368
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|钠很活泼，保存在煤油中：沉在煤油底部，隔绝空气和水。",
+		"seconds": 5.88
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|取用：用镊子夹出，滤纸吸干表面的煤油，在玻璃片上用小刀切一小块，剩余的放回原瓶。",
+		"seconds": 8.832
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：剩下的钠不能扔进废液缸，也不能随意丢弃，要放回原试剂瓶；钠着火用干燥的沙土盖灭，不能用水。",
+		"seconds": 10.368
+	},
+	"o21": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，钠与氧气。常温下，钠切开的银白色表面很快变暗，生成白色的氧化钠。",
+		"seconds": 8.64
+	},
+	"o22": {
+		"key": "zh-CN-XiaoxiaoNeural|加热时，钠先熔成小球，燃烧发出黄色火焰，生成淡黄色的过氧化钠。",
+		"seconds": 7.056
+	},
+	"o23": {
+		"key": "zh-CN-XiaoxiaoNeural|条件不同，产物不同：四个钠加氧气生成两个氧化钠；两个钠加氧气加热生成过氧化钠。",
+		"seconds": 8.616
+	},
+	"o24": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：等质量的钠无论生成氧化钠还是过氧化钠，转移的电子数相同，都是钠从零价变成正一价。",
+		"seconds": 9.456
+	},
+	"wa1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，钠与水：两个钠加两个水生成两个氢氧化钠和氢气。现象五个字：浮、熔、游、响、红。",
+		"seconds": 10.464
+	},
+	"wa2": {
+		"key": "zh-CN-XiaoxiaoNeural|浮：密度比水小；熔：反应放热、熔点低；游：生成气体推动小球四处游动；响：反应剧烈；红：生成碱，酚酞变红。",
+		"seconds": 12.6
+	},
+	"wa2b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩慌得手足无措，到处乱窜：就像水面上的钠球，被气体推着四处游动。",
+		"seconds": 7.68
+	},
+	"wa3": {
+		"key": "zh-CN-XiaoxiaoNeural|本质：钠与水电离出的氢离子反应。所以钠与酸反应更剧烈，与盐溶液反应时先与水反应。",
+		"seconds": 9.216
+	},
+	"wa4": {
+		"key": "zh-CN-XiaoxiaoNeural|钠投入硫酸铜溶液：先生成氢氧化钠和氢气，氢氧化钠再与硫酸铜生成氢氧化铜沉淀，得不到铜。",
+		"seconds": 9.648
+	},
+	"wa4b": {
+		"key": "zh-CN-XiaoxiaoNeural|团子头女孩旁边“砰”的一声：钠与水反应发出响声，量大了甚至会爆炸。",
+		"seconds": 6.984
+	},
+	"wa5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“钠能从硫酸铜溶液中置换出铜”是错的。",
+		"seconds": 4.776
+	},
+	"cm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，氧化钠与过氧化钠的比较。颜色：氧化钠白色，过氧化钠淡黄色。",
+		"seconds": 7.968
+	},
+	"cm2": {
+		"key": "zh-CN-XiaoxiaoNeural|氧元素价态：氧化钠中是负二，过氧化钠中是负一，阴离子是过氧根。",
+		"seconds": 7.08
+	},
+	"cm3": {
+		"key": "zh-CN-XiaoxiaoNeural|阴阳离子个数比都是1比2：过氧化钠里只有一个阴离子过氧根，不是两个氧负离子。",
+		"seconds": 7.944
+	},
+	"cm4": {
+		"key": "zh-CN-XiaoxiaoNeural|类别：氧化钠是碱性氧化物；过氧化钠与水反应还放出氧气，不是碱性氧化物。",
+		"seconds": 7.992
+	},
+	"cm5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：过氧化钠中阴、阳离子个数比是1比2，不是1比1；含有离子键和非极性共价键。",
+		"seconds": 8.976
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，过氧化钠与水、二氧化碳的反应：两个过氧化钠加两个水生成四个氢氧化钠和氧气，两个过氧化钠加两个二氧化碳生成两个碳酸钠和氧气。",
+		"seconds": 13.728
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|它们都是过氧化钠自身的歧化：氧从负一价，一半升到零价生成氧气，一半降到负二价。",
+		"seconds": 8.16
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以1摩尔过氧化钠转移1摩尔电子，每生成1摩尔氧气转移2摩尔电子；水和二氧化碳既不是氧化剂也不是还原剂。",
+		"seconds": 11.352
+	},
+	"re3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黄色背景前举着鼓棒的金发女孩：淡黄色的过氧化钠，一身兼任氧化剂和还原剂。",
+		"seconds": 7.968
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|应用：呼吸面具和潜水艇的供氧剂。课本外的增重规律：过氧化钠吸收二氧化碳增重相当于一氧化碳的质量，吸收水增重相当于氢气的质量。",
+		"seconds": 13.944
+	},
+	"re5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“水作氧化剂”是错的，过氧化钠既是氧化剂又是还原剂。",
+		"seconds": 6.264
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，过氧化钠的强氧化性与漂白性。它的氧是负一价，氧化性很强。",
+		"seconds": 7.512
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|向滴有酚酞的水中加入过氧化钠：先生成氢氧化钠，溶液变红；但强氧化性又把酚酞漂白，所以先变红后褪色。",
+		"seconds": 11.064
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|课本外：过氧化钠与二氧化硫反应生成硫酸钠，体现氧化性；与氯化亚铁溶液反应生成氢氧化铁沉淀和氧气。",
+		"seconds": 10.776
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：“先变红后褪色”的现象解释，要答出两点：生成碱使酚酞变红，过氧化钠的强氧化性使其褪色。",
+		"seconds": 10.224
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：钠保存在煤油中，因为钠比煤油轻？错，钠沉在煤油底部。判断二：钠能从硫酸铜溶液中置换出铜？错。",
+		"seconds": 12.096
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：氧化钠和过氧化钠阴阳离子个数比都是1比2？对。判断四：过氧化钠是碱性氧化物？错。",
+		"seconds": 11.184
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：过氧化钠与二氧化碳反应，每生成1摩尔氧气转移2摩尔电子？对。判断六：钠在空气中加热生成白色氧化钠？错，生成淡黄色过氧化钠。",
+		"seconds": 15.696
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|浮熔游响红，过氧根一个，歧化转移一。下一期：碳酸钠与碳酸氢钠、焰色试验。",
+		"seconds": 8.544
+	}
+}

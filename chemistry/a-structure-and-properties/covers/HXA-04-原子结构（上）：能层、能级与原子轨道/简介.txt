@@ -1,0 +1,20 @@
+本期考点
+
+一、能层与能级（K、L、M、N与s、p、d、f，能级数=能层序数）
+二、最多容纳的电子数（s、p、d、f为2、6、10、14，能层2n²）
+三、基态、激发态与原子光谱（吸收光谱与发射光谱，光谱分析，焰色试验是物理变化）
+四、电子云（概率密度，小黑点不代表一个电子，电子云轮廓图）
+五、原子轨道（s球形、p哑铃形且相互垂直，轨道数1、3、5、7，第n能层n²个）
+六、能级能量比较（ns<np<nd<nf，1s<2s<3s，能级交错）
+七、易错辨析（4s<3d，轨道不是固定路线）
+
+图片来源
+1.The American Institute of Physics《Niels Bohr》Public domain（Wikimedia Commons）
+2.插图：ちゃなつ！《ラビットカンパニーへようこそ！ 17羽目》
+https://www.pixiv.net/artworks/107023653
+3.插图：さんぱい《メンダコ祭り用》
+https://www.pixiv.net/artworks/110701561
+4.插图：cokeAnut10《Bocchi's real friends》
+https://www.pixiv.net/artworks/103380471
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

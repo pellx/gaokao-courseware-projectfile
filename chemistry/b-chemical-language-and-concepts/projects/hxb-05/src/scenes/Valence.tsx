@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Valence: React.FC = () => <AutoScene k="valence" d={{"tag": "考点三", "title": "化合价的标定", "blocks": [{"t": "big", "at": "va1", "text": "化合物：化合价代数和 = {0}　　离子：代数和 = {离子电荷}", "size": 36}, {"t": "table", "at": "va3", "head": ["物质", "易错元素", "化合价"], "cols": "1.2fr 1fr 1fr", "rows": [{"at": "va3", "cells": ["NaH", "H", "{−1}"]}, {"at": "va3", "cells": ["H2O2、Na2O2", "O", "{−1}"]}, {"at": "va3", "cells": ["Na2S2O3", "S", "{+2}"]}, {"at": "va4", "cells": ["NaClO2", "Cl", "{+3|orange}"]}, {"at": "va4", "cells": ["K2FeO4", "Fe", "{+6|orange}"]}, {"at": "va4", "cells": ["Fe3O4", "Fe", "+2、+3（平均 +8/3）"]}], "size": 30, "rowHeight": 56}], "callout": {"label": "解题方法", "at": "va5", "text": "先标{确定的元素}（H、O、碱金属），再用代数和为 0 求未知"}}} />;

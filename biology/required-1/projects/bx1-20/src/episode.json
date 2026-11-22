@@ -1,0 +1,38 @@
+{
+	"id": "BX1-20",
+	"title": "光合作用与能量转化（二）",
+	"subject": "biology",
+	"book": "人教版·必修1·第5章",
+	"points": ["探索光合作用原理", "光合作用总反应式", "光反应", "暗反应", "光反应与暗反应联系", "条件骤变时的含量", "化能合成作用"],
+	"intro": {
+		"badge": "高考生物 · 人教版必修1",
+		"title": [["光合作用的"], ["原理", true]],
+		"subtitle": "光合作用与能量转化（二） · 光反应与暗反应",
+		"photo": "calvin.jpg",
+		"photoCaption": "卡尔文：用碳十四探明暗反应中碳的转移途径",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["光合作用"]], [["的原理", true]]],
+		"kicker": "光反应 · 暗反应 · 骤变",
+		"photo": "calvin.jpg",
+		"photoPos": "center 25%",
+		"photoTag": "卡尔文",
+		"credit": "Photolab, Public domain"
+	},
+	"review": {
+		"items": [
+			{"q": "鲁宾和卡门证明O2中的氧来自CO2", "ok": false, "fix": "O2中的氧全部来自水"},
+			{"q": "光反应的场所是叶绿体基质", "ok": false, "fix": "场所是类囊体薄膜"},
+			{"q": "暗反应只能在黑暗中进行", "ok": false, "fix": "有光无光都能进行"},
+			{"q": "突然停止光照，短时间内C3含量增加", "ok": true, "fix": ""},
+			{"q": "光反应为暗反应提供ATP和NADPH", "ok": true, "fix": ""},
+			{"q": "硝化细菌利用光能把CO2合成有机物", "ok": false, "fix": "利用无机物氧化释放的化学能"}
+		],
+		"endTitle": [["光合作用的"], ["原理", true]],
+		"endLine": "探索历程 · 光反应 · 暗反应 · 骤变分析 · 化能合成",
+		"slogan": "看来路和去路，推C3、C5的增减！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Photolab《Melvin Calvin》Public domain"
+}

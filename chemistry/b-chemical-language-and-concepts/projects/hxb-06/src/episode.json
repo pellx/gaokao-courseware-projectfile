@@ -1,0 +1,118 @@
+{
+	"id": "HXB-06",
+	"title": "氧化剂、还原剂与氧化还原规律",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第6期 / 共12期",
+	"points": [
+		"常见氧化剂还原剂",
+		"价态规律",
+		"强弱规律",
+		"先后规律",
+		"歧化与归中",
+		"得失电子守恒",
+		"转移电子数"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"氧化剂、还原剂与"
+			],
+			[
+				"氧化还原规律",
+				true
+			]
+		],
+		"subtitle": "价态 · 强弱 · 先后 · 归中 · 守恒",
+		"photo": "dichromate.jpg",
+		"photoCaption": "重铬酸钾晶体：常见的强氧化剂",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"氧化还原",
+					true
+				]
+			],
+			[
+				[
+					"五大规律"
+				]
+			]
+		],
+		"photo": "dichromate.jpg",
+		"photoPos": "center",
+		"photoTag": "重铬酸钾",
+		"credit": "Jerome Mathey, CC BY-SA 3.0",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "由 2Fe^3+ + 2I^- = 2Fe^2+ + I2 可知氧化性 Fe^3+ > I2",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "Cl2 通入 FeBr2 溶液，Br^- 先被氧化",
+				"ok": false,
+				"fix": "还原性 Fe^2+ > Br^-，Fe^2+ 先被氧化"
+			},
+			{
+				"q": "Fe^2+ 只有还原性",
+				"ok": false,
+				"fix": "中间价态，既有氧化性又有还原性"
+			},
+			{
+				"q": "KClO3 与浓盐酸反应，KCl 中的 Cl 来自 KClO3",
+				"ok": false,
+				"fix": "来自 HCl，价态只靠拢不交叉"
+			},
+			{
+				"q": "1 mol Cl2 与足量 NaOH 反应转移 2 mol 电子",
+				"ok": false,
+				"fix": "转移 1 mol 电子"
+			},
+			{
+				"q": "1 mol Fe 与足量 Cl2 反应转移 3 mol 电子",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"氧化剂、还原剂与"
+			],
+			[
+				"氧化还原规律",
+				true
+			]
+		],
+		"endLine": "强弱看方程式，先后看还原性，守恒看始终",
+		"slogan": "强制弱，强先行，只靠拢不交叉"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Jerome Mathey《Bichromate de potassium》，CC BY-SA 3.0；插图来自 pixiv：MA-2、noise、いーち（侵删）",
+	"anime": [
+		{
+			"key": "arm",
+			"src": "arm.jpg",
+			"credit": "插图：MA-2《琴吹紬生誕祭2021》pixiv #90955352",
+			"url": "https://www.pixiv.net/artworks/90955352"
+		},
+		{
+			"key": "queue",
+			"src": "queue.jpg",
+			"credit": "插图：noise《集合!!》pixiv #23506702",
+			"url": "https://www.pixiv.net/artworks/23506702"
+		},
+		{
+			"key": "middle",
+			"src": "middle.jpg",
+			"credit": "插图：いーち《ゆるゆり》pixiv #33644285",
+			"url": "https://www.pixiv.net/artworks/33644285"
+		}
+	]
+}

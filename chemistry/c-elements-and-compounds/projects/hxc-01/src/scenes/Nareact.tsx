@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Nareact: React.FC = () => <AutoScene k="react" d={{"tag": "考点五", "title": "Na2O2 与 H2O、CO2 的反应", "blocks": [{"t": "big", "at": "re1", "text": "2Na2O2 + 2H2O = 4NaOH + O2↑", "size": 40}, {"t": "big", "at": "re1", "text": "2Na2O2 + 2CO2 = 2Na2CO3 + O2", "size": 40}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "歧化", "at": "re2", "text": "O：−1 → 0 和 −2", "c": "red", "size": 30}]}, {"blocks": [{"t": "rule", "tag": "转移", "at": "re3", "text": "1 mol Na2O2 → {1 mol e^-}", "c": "orange", "size": 30}]}]}, {"t": "rule", "tag": "应用", "at": "re4", "text": "供氧剂；增重 = CO 或 H2 的质量〔课外〕", "c": "green", "size": 30}], "callout": {"label": "易错", "at": "re5", "text": "Na2O2 {既是氧化剂又是还原剂}，H2O、CO2 都不是"}, "beat": {"k": "yellow", "at": "re3b", "text": "淡黄色的 Na2O2\n{既是氧化剂又是还原剂|red}"}}} />;

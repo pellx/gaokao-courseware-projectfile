@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第一章第一节——传统发酵技术的应用。",
+		"seconds": 8.16
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考四种微生物的代谢类型、泡菜、果酒、果醋的制作条件，以及发酵装置和亚硝酸盐曲线。",
+		"seconds": 9.72
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"fe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，发酵与传统发酵技术。发酵是人们利用微生物，在适宜条件下，把原料通过微生物的代谢转化为所需产物的过程。",
+		"seconds": 11.784
+	},
+	"fe2": {
+		"key": "zh-CN-XiaoxiaoNeural|传统发酵技术，是直接利用原材料中天然存在的微生物，或者前一次发酵保存下来的面团、卤汁中的微生物来发酵。",
+		"seconds": 10.8
+	},
+	"fe3": {
+		"key": "zh-CN-XiaoxiaoNeural|它的特点是：以固体发酵和半固体发酵为主，通常是家庭式或作坊式的。",
+		"seconds": 7.392
+	},
+	"fe4": {
+		"key": "zh-CN-XiaoxiaoNeural|参与发酵的往往是多种微生物，也就是混合菌种，所以产品品质不太稳定。",
+		"seconds": 7.392
+	},
+	"fe5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：和发酵工程比较。易错：传统发酵用的是天然混合菌种，不是经过选育的单一菌种。",
+		"seconds": 9.264
+	},
+	"fu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，腐乳、酱等传统发酵食品。腐乳的制作有酵母、曲霉和毛霉等多种微生物参与，其中起主要作用的是毛霉。",
+		"seconds": 11.52
+	},
+	"fu2": {
+		"key": "zh-CN-XiaoxiaoNeural|毛霉产生的蛋白酶，把豆腐中的蛋白质分解成小分子的肽和氨基酸。",
+		"seconds": 6.672
+	},
+	"fu3": {
+		"key": "zh-CN-XiaoxiaoNeural|脂肪酶把脂肪水解为甘油和脂肪酸，所以腐乳味道鲜美、易于消化。",
+		"seconds": 6.912
+	},
+	"fu4": {
+		"key": "zh-CN-XiaoxiaoNeural|毛霉是一种丝状真菌，属于真核生物，代谢类型是异养需氧型。",
+		"seconds": 6.504
+	},
+	"fu5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：四种常见菌种的比较。解题方法：记住一张表——乳酸菌、醋酸菌是原核生物，酵母菌、毛霉是真核生物；只有乳酸菌严格厌氧，酵母菌兼性厌氧。",
+		"seconds": 15.408
+	},
+	"pk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，泡菜的制作。菌种是乳酸菌，它是厌氧细菌，在无氧条件下把葡萄糖分解为乳酸。",
+		"seconds": 9.336
+	},
+	"pk2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步，配制质量百分比为百分之五到百分之二十的盐水，并且煮沸、冷却待用。",
+		"seconds": 7.824
+	},
+	"pk3": {
+		"key": "zh-CN-XiaoxiaoNeural|煮沸是为了杀灭杂菌、除去水中的氧气；冷却是为了防止高温杀死乳酸菌。",
+		"seconds": 7.344
+	},
+	"pk4": {
+		"key": "zh-CN-XiaoxiaoNeural|蔬菜装至八成满，倒入盐水没过全部菜料，盖好坛盖，再向坛盖边沿的水槽中注满水。",
+		"seconds": 8.808
+	},
+	"pk5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问各步操作的目的。解题方法：泡菜的所有操作都围绕两件事——创造无氧环境、防止杂菌污染。",
+		"seconds": 10.368
+	},
+	"ni1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，泡菜发酵中三种物质的变化。发酵初期，乳酸菌迅速繁殖，数量先增加，后期乳酸积累、pH下降，增长受到抑制。",
+		"seconds": 12.792
+	},
+	"ni2": {
+		"key": "zh-CN-XiaoxiaoNeural|乳酸的含量随着发酵进行不断增加，后期趋于稳定。",
+		"seconds": 5.376
+	},
+	"ni3": {
+		"key": "zh-CN-XiaoxiaoNeural|亚硝酸盐的含量先增加后减少：初期一些杂菌把硝酸盐还原成亚硝酸盐，后来在酸性环境中杂菌被抑制，亚硝酸盐被分解。",
+		"seconds": 12.336
+	},
+	"ni4": {
+		"key": "zh-CN-XiaoxiaoNeural|亚硝酸盐在特定条件下会转变为亚硝胺，这是一种致癌物，所以泡菜要在亚硝酸盐含量降低后再食用。",
+		"seconds": 10.08
+	},
+	"ni5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：看图判断三条曲线和最佳食用时间。易错：亚硝酸盐含量最高时并不是乳酸菌最多的时候，泡菜腌制时间过短最不安全。",
+		"seconds": 13.128
+	},
+	"wi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，果酒的制作。菌种是酵母菌，代谢类型是兼性厌氧：有氧时大量繁殖，无氧时进行酒精发酵。",
+		"seconds": 10.776
+	},
+	"wi2": {
+		"key": "zh-CN-XiaoxiaoNeural|温度控制在18到30摄氏度。",
+		"seconds": 3.216
+	},
+	"wi3": {
+		"key": "zh-CN-XiaoxiaoNeural|葡萄先冲洗、再去枝梗，而且不能反复冲洗，以免把葡萄皮上的野生酵母菌洗掉。",
+		"seconds": 7.776
+	},
+	"wi4": {
+		"key": "zh-CN-XiaoxiaoNeural|装入发酵瓶时要留大约三分之一的空间：一是让酵母菌先进行有氧呼吸、大量繁殖，二是防止发酵产生的二氧化碳使发酵液溢出。",
+		"seconds": 12.48
+	},
+	"wi5": {
+		"key": "zh-CN-XiaoxiaoNeural|发酵过程中，每隔12小时左右把瓶盖拧松一次，排出二氧化碳。",
+		"seconds": 6.504
+	},
+	"wi6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：是拧松瓶盖，不是打开瓶盖——打开会让空气和杂菌进入。考法：先通气后密封的原因。",
+		"seconds": 9.648
+	},
+	"vi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，果醋的制作。菌种是醋酸菌，它是好氧细菌，只有在氧气充足时才能进行旺盛的生命活动。",
+		"seconds": 10.008
+	},
+	"vi2": {
+		"key": "zh-CN-XiaoxiaoNeural|最适生长温度是30到35摄氏度。",
+		"seconds": 3.864
+	},
+	"vi3": {
+		"key": "zh-CN-XiaoxiaoNeural|当氧气、糖源都充足时，醋酸菌把糖分解成乙酸。",
+		"seconds": 5.304
+	},
+	"vi4": {
+		"key": "zh-CN-XiaoxiaoNeural|当缺少糖源时，醋酸菌把乙醇变为乙醛，再把乙醛变为乙酸。",
+		"seconds": 6.144
+	},
+	"vi5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：果酒变果醋，要改两个条件——温度升到30到35摄氏度，并且通入无菌空气。",
+		"seconds": 8.616
+	},
+	"dv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，果酒与果醋发酵装置。这个装置有三个口：充气口、排气口和出料口。",
+		"seconds": 8.472
+	},
+	"dv2": {
+		"key": "zh-CN-XiaoxiaoNeural|充气口用来通入空气：果酒发酵时关闭，果醋发酵时通入无菌空气。",
+		"seconds": 6.984
+	},
+	"dv3": {
+		"key": "zh-CN-XiaoxiaoNeural|排气口排出二氧化碳，它连接一根长而弯曲的胶管，防止空气中的微生物污染。",
+		"seconds": 7.776
+	},
+	"dv4": {
+		"key": "zh-CN-XiaoxiaoNeural|出料口用来取样，便于检测发酵情况。",
+		"seconds": 3.912
+	},
+	"dv5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出装置图问各口的作用。解题方法：先看是果酒还是果醋——果酒关充气口，果醋开充气口，排气口两种发酵都要开。",
+		"seconds": 12.6
+	},
+	"de1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，发酵结果的检测。果酒：在酸性条件下，重铬酸钾与酒精反应，颜色由橙色变成灰绿色。",
+		"seconds": 10.368
+	},
+	"de2": {
+		"key": "zh-CN-XiaoxiaoNeural|果醋：可以检测pH，发酵液pH明显下降；也可以闻气味，有酸味。",
+		"seconds": 7.416
+	},
+	"de3": {
+		"key": "zh-CN-XiaoxiaoNeural|还可以取发酵液制片，用显微镜观察菌种的形态。",
+		"seconds": 5.064
+	},
+	"de4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：葡萄糖也能与酸性重铬酸钾反应变色，所以要适当延长发酵时间，耗尽葡萄糖后再检测酒精。",
+		"seconds": 10.032
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：传统发酵一般用单一菌种？错，多为天然混合菌种。判断二：腐乳制作中起主要作用的是毛霉？对。",
+		"seconds": 12.384
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：泡菜盐水煮沸后要趁热倒入？错，要冷却。判断四：果酒发酵要定期拧松瓶盖排气？对。",
+		"seconds": 11.88
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：果酒变果醋只需升高温度？错，还要通入无菌空气。判断六：重铬酸钾变灰绿色一定有酒精？错，葡萄糖也能使它变色。",
+		"seconds": 14.016
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：先认菌种，再定氧气和温度。我们下期再见！",
+		"seconds": 6.936
+	}
+}

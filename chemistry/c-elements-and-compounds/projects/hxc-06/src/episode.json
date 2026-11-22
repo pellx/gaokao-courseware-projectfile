@@ -1,0 +1,123 @@
+{
+	"id": "HXC-06",
+	"title": "铁盐和亚铁盐：转化与检验",
+	"subject": "chemistry",
+	"book": "元素及其化合物 · 第6期 / 共16期",
+	"points": [
+		"铁离子的氧化性",
+		"亚铁离子的还原性",
+		"铁离子的检验",
+		"亚铁离子的检验",
+		"铁盐的除杂",
+		"铁离子的水解",
+		"实验探究",
+		"颜色速查"
+	],
+	"intro": {
+		"badge": "高考化学 · 元素及其化合物",
+		"title": [
+			[
+				"铁盐和亚铁盐",
+				true
+			],
+			[
+				"：转化与检验"
+			]
+		],
+		"subtitle": "KSCN · 铁氰化钾 · 除杂 · 水解",
+		"photo": "fescn.jpg",
+		"photoCaption": "左：铁盐溶液；右：加入 KSCN 后变红",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"铁盐和亚铁盐",
+					true
+				]
+			],
+			[
+				[
+					"转化与检验"
+				]
+			]
+		],
+		"photo": "fescn.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "KSCN 显色",
+		"credit": "Siegert, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "Fe^3+ 与 KSCN 溶液反应生成红色沉淀",
+				"ok": false,
+				"fix": "生成红色配合物，溶液变红"
+			},
+			{
+				"q": "先加氯水再加 KSCN 溶液变红，说明含 Fe^2+",
+				"ok": false,
+				"fix": "应先加 KSCN 无现象，再加氯水"
+			},
+			{
+				"q": "FeCl3 溶液可用于腐蚀铜制印刷电路板",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "除去 FeCl2 中的 FeCl3：加过量铁粉后过滤",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "配 FeCl3 溶液加少量盐酸，是为了防止 Fe^3+ 被还原",
+				"ok": false,
+				"fix": "是为了抑制 Fe^3+ 水解"
+			},
+			{
+				"q": "FeCl3 溶液蒸干灼烧得到 FeCl3 固体",
+				"ok": false,
+				"fix": "得到 Fe2O3"
+			}
+		],
+		"endTitle": [
+			[
+				"铁盐和亚铁盐",
+				true
+			],
+			[
+				"：转化与检验"
+			]
+		],
+		"endLine": "先硫氰后氯水，有三价铁用铁氰化钾",
+		"slogan": "先硫氰后氯水，有三价用铁氰"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Siegert《Eisen(III)-Ionen und Thiocyanat》，公有领域；插图来自 pixiv：焼き鳥虫、じゃこ、カネコ（侵删）",
+	"anime": [
+		{
+			"key": "swap",
+			"src": "swap.jpg",
+			"credit": "插图：焼き鳥虫《虹夏ちゃん(IN山田)》pixiv #121092622",
+			"url": "https://www.pixiv.net/artworks/121092622"
+		},
+		{
+			"key": "red",
+			"src": "red.jpg",
+			"credit": "插图：じゃこ《あかりちゃん！》pixiv #152221358",
+			"url": "https://www.pixiv.net/artworks/152221358"
+		},
+		{
+			"key": "mint",
+			"src": "mint.jpg",
+			"credit": "插图：カネコ《SD琴吹紬 三枚目》pixiv #108488665",
+			"url": "https://www.pixiv.net/artworks/108488665"
+		}
+	]
+}

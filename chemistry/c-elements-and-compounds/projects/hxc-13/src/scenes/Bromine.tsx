@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Bromine: React.FC = () => <AutoScene k="bromine" d={{"tag": "考点五", "title": "海水提溴", "blocks": [{"t": "chain", "steps": [{"at": "br1", "text": "浓缩、酸化"}, {"at": "br1", "text": "Cl2 氧化\nBr^- → Br2", "c": "red"}, {"at": "br2", "text": "{热空气}吹出", "c": "orange"}, {"at": "br2", "text": "SO2 吸收\n→ HBr", "c": "orange"}, {"at": "br3", "text": "Cl2 氧化\n→ Br2", "c": "red"}, {"at": "br3", "text": "蒸馏"}], "arrows": [], "center": true, "size": 30, "gap": 10}, {"t": "items", "items": [{"at": "br1", "text": "Cl2 + 2Br^- = Br2 + 2Cl^-"}, {"at": "br2", "text": "Br2 + SO2 + 2H2O = 2HBr + H2SO4"}], "size": 34}], "callout": {"label": "考法", "at": "br4", "text": "吹出、吸收、再氧化：目的是{富集溴}"}, "beat": {"k": "sing", "at": "br2b", "text": "热空气\n把 Br2 {吹出来|red}"}}} />;

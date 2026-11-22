@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第二章第二节的第三部分——动物体细胞核移植技术和克隆动物。",
+		"seconds": 10.368
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考核移植的操作流程、卵母细胞为什么要培养到MⅡ期，以及克隆动物遗传物质的来源。",
+		"seconds": 8.976
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"co1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，核移植的概念。把动物一个细胞的细胞核，移入去核的卵母细胞中，使这个重新组合的细胞发育成新胚胎，继而发育成动物个体。",
+		"seconds": 12.816
+	},
+	"co2": {
+		"key": "zh-CN-XiaoxiaoNeural|用核移植方法得到的动物，叫作克隆动物。1996年诞生的克隆羊多莉，是第一只体细胞克隆哺乳动物。",
+		"seconds": 10.032
+	},
+	"co3": {
+		"key": "zh-CN-XiaoxiaoNeural|哺乳动物核移植分为胚胎细胞核移植和体细胞核移植。",
+		"seconds": 5.448
+	},
+	"co4": {
+		"key": "zh-CN-XiaoxiaoNeural|体细胞核移植的难度明显更高，因为体细胞分化程度高，恢复其全能性十分困难。",
+		"seconds": 7.92
+	},
+	"co5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问原理。解题方法：核移植的原理是动物细胞核的全能性，注意是“细胞核”，不是动物细胞。",
+		"seconds": 9.744
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，体细胞核移植的过程。采集卵母细胞，在体外培养到M二期。",
+		"seconds": 7.416
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|通过显微操作去核。另一边，培养供体的体细胞。",
+		"seconds": 5.16
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|把供体细胞注入去核的卵母细胞，用电融合法使两细胞融合，形成重构胚。",
+		"seconds": 7.44
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|用物理或化学方法激活重构胚，比如电刺激、钙离子载体、乙醇等，使它完成细胞分裂和发育进程。",
+		"seconds": 9.888
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，把胚胎移植到代孕母体中，生出克隆动物。",
+		"seconds": 4.968
+	},
+	"pr6": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：流程排序。解题方法：记住六个关键词——培养到M二期、去核、注入、融合、激活、胚胎移植。",
+		"seconds": 11.208
+	},
+	"mi1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，为什么用M二期卵母细胞做受体。第一，卵母细胞体积大，便于操作。",
+		"seconds": 8.184
+	},
+	"mi2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，细胞质中含有促使细胞核全能性表达的物质。",
+		"seconds": 5.304
+	},
+	"mi3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，营养物质丰富，能为早期胚胎发育提供营养。",
+		"seconds": 5.424
+	},
+	"mi4": {
+		"key": "zh-CN-XiaoxiaoNeural|另外，M二期的卵母细胞没有核膜，所谓去核，去除的其实是纺锤体—染色体复合物。",
+		"seconds": 8.304
+	},
+	"mi5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：去核的目的，是保证克隆动物的核遗传物质全部来自供体。",
+		"seconds": 6.192
+	},
+	"ge1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，克隆动物遗传物质的来源。核基因，全部来自供体细胞。",
+		"seconds": 6.768
+	},
+	"ge2": {
+		"key": "zh-CN-XiaoxiaoNeural|细胞质基因，比如线粒体D N A，主要来自去核的卵母细胞，也就是受体。",
+		"seconds": 6.984
+	},
+	"ge3": {
+		"key": "zh-CN-XiaoxiaoNeural|代孕母体只提供胚胎发育的场所，不提供遗传物质。",
+		"seconds": 5.232
+	},
+	"ge4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断克隆动物的性别和主要性状，看供核的个体；克隆动物属于无性繁殖。",
+		"seconds": 8.4
+	},
+	"ap1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，核移植技术的应用。畜牧业上，可以加速家畜遗传改良进程，促进优良畜群繁育。",
+		"seconds": 9.24
+	},
+	"ap2": {
+		"key": "zh-CN-XiaoxiaoNeural|医药卫生上，转基因克隆动物可以作为生物反应器，生产医用蛋白；克隆动物的组织器官可作为异种移植的供体。",
+		"seconds": 10.128
+	},
+	"ap3": {
+		"key": "zh-CN-XiaoxiaoNeural|治疗性克隆：用病人的体细胞核移植获得胚胎干细胞，诱导分化成所需的细胞、组织，用于治疗。",
+		"seconds": 9.552
+	},
+	"ap4": {
+		"key": "zh-CN-XiaoxiaoNeural|核移植还可以用来保护濒危物种，增加它们的存活数量。我国科学家还获得了体细胞克隆猴“中中”和“华华”。",
+		"seconds": 10.416
+	},
+	"ap5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：核移植技术还存在问题，比如成功率非常低，克隆动物存在健康问题。",
+		"seconds": 7.704
+	},
+	"df1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，克隆动物与供体的性状为什么不完全相同？原因一：克隆动物的细胞质基因来自受体卵母细胞。",
+		"seconds": 10.08
+	},
+	"df2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因二：生物的性状还受环境因素的影响，表现型是基因型和环境共同作用的结果。",
+		"seconds": 8.304
+	},
+	"df3": {
+		"key": "zh-CN-XiaoxiaoNeural|原因三：在发育过程中，可能发生基因突变等变异。",
+		"seconds": 5.16
+	},
+	"df4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问原因。解题方法：从“细胞质遗传、环境影响”两个方面作答，就能拿到主要分数。",
+		"seconds": 9.048
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：体细胞核移植比胚胎细胞核移植更容易？错。判断二：受体卵母细胞要培养到M二期？对。",
+		"seconds": 11.424
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：去核去除的是完整的细胞核？错，是纺锤体—染色体复合物。判断四：克隆动物的性别与供核个体相同？对。",
+		"seconds": 12.864
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：克隆动物与供体性状完全相同？错。判断六：体细胞核移植体现了动物细胞核的全能性？对。",
+		"seconds": 11.424
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：核来自供体，质来自受体。我们下期再见！",
+		"seconds": 6.768
+	}
+}

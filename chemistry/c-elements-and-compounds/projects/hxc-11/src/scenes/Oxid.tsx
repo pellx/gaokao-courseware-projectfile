@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Oxid: React.FC = () => <AutoScene k="oxid" d={{"tag": "考点二", "title": "硝酸的强氧化性", "blocks": [{"t": "big", "at": "ox2", "text": "Cu + 4HNO3(浓) = Cu(NO3)2 + {2NO2↑} + 2H2O", "size": 36}, {"t": "big", "at": "ox2", "text": "3Cu + 8HNO3(稀) = 3Cu(NO3)2 + {2NO↑|orange} + 4H2O", "size": 36, "c": "orange", "soft": "orangeSoft"}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "与 C", "at": "ox3", "text": "生成 CO2 和 NO2", "c": "brown", "size": 30}]}, {"blocks": [{"t": "rule", "tag": "钝化", "at": "ox3", "text": "常温下 {Fe、Al}", "c": "green", "size": 30}]}]}, {"t": "rule", "tag": "Fe 的用量", "at": "ox4", "text": "Fe 少量 → {Fe^3+}；Fe 过量 → {Fe^2+}", "c": "red", "size": 31}], "callout": {"label": "易错", "at": "ox5", "text": "硝酸与金属{不生成 H2}；稀硝酸生成 NO"}}} />;

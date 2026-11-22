@@ -1,0 +1,128 @@
+{
+	"id": "HXE-05",
+	"title": "同分异构体（下）：限定条件书写",
+	"subject": "chemistry",
+	"book": "有机化学 · 第5期 / 共17期",
+	"points": [
+		"不饱和度",
+		"条件翻译（一）",
+		"条件翻译（二）",
+		"核磁共振氢谱",
+		"苯环取代基位置",
+		"书写四步法",
+		"甲酸酯与酚酯"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"同分异构体",
+				true
+			],
+			[
+				"（下）：限定条件书写"
+			]
+		],
+		"subtitle": "不饱和度 · 条件翻译 · 氢谱峰数 · 对称",
+		"photo": "wislicenus.jpg",
+		"photoCaption": "维斯利策努斯：研究乳酸的同分异构现象",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"同分异构体",
+					true
+				]
+			],
+			[
+				[
+					"（下）",
+					false
+				]
+			],
+			[
+				[
+					"限定条件书写"
+				]
+			]
+		],
+		"photo": "wislicenus.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "维斯利策努斯",
+		"credit": "Georg Brokesch, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "C8H8O2 的不饱和度为 5",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "能发生银镜反应的有机物一定属于醛",
+				"ok": false,
+				"fix": "甲酸酯、甲酸也可以"
+			},
+			{
+				"q": "遇 FeCl3 溶液显紫色，说明含醇羟基",
+				"ok": false,
+				"fix": "说明含酚羟基"
+			},
+			{
+				"q": "醇羟基能与 NaOH 溶液反应",
+				"ok": false,
+				"fix": "醇羟基只与 Na 反应"
+			},
+			{
+				"q": "1 mol 酚酯水解最多消耗 2 mol NaOH",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "苯环上两个相同取代基处于对位时，苯环上只有 1 种氢",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"同分异构体",
+				true
+			],
+			[
+				"（下）：限定条件书写"
+			]
+		],
+		"endLine": "先算不饱和度，再翻译条件，最后调对称",
+		"slogan": "先算不饱和度，再翻译条件，最后调对称"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Georg Brokesch《Johannes Wislicenus, Würzburg 1881》，公有领域；插图来自 pixiv：せあら、SunTail、ｷｲﾛ（侵删）",
+	"anime": [
+		{
+			"key": "wow",
+			"src": "wow.jpg",
+			"credit": "插图：せあら《まいご》pixiv #129987532",
+			"url": "https://www.pixiv.net/artworks/129987532"
+		},
+		{
+			"key": "hat",
+			"src": "hat.jpg",
+			"credit": "插图：SunTail《夢に続くプロムナード 美咲》pixiv #77553669",
+			"url": "https://www.pixiv.net/artworks/77553669"
+		},
+		{
+			"key": "peace",
+			"src": "peace.jpg",
+			"credit": "插图：ｷｲﾛ《千早愛音》pixiv #121834374",
+			"url": "https://www.pixiv.net/artworks/121834374"
+		}
+	]
+}

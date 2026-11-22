@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第二章第三节的下半部分——胚胎工程技术及其应用。",
+		"seconds": 9.72
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考胚胎移植的基本程序和生理学基础、胚胎分割的要点，以及试管动物和克隆动物的比较。",
+		"seconds": 9.216
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"iv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，体外受精。主要包括卵母细胞的采集、精子的获取和受精等步骤。",
+		"seconds": 7.92
+	},
+	"iv2": {
+		"key": "zh-CN-XiaoxiaoNeural|采集到的卵母细胞，要在体外培养到M二期，才能与精子受精。",
+		"seconds": 6.144
+	},
+	"iv3": {
+		"key": "zh-CN-XiaoxiaoNeural|采集到的精子，要进行获能处理。",
+		"seconds": 3.696
+	},
+	"iv4": {
+		"key": "zh-CN-XiaoxiaoNeural|然后，在适当的培养液中让获能的精子和培养成熟的卵子共同培养，完成受精。",
+		"seconds": 8.136
+	},
+	"iv5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：问受精前的处理。解题方法：两句话答全——卵母细胞培养到M二期，精子获能处理。",
+		"seconds": 9.624
+	},
+	"tr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，胚胎移植。它是指把通过体外受精及其他方式得到的胚胎，移植到同种的、生理状态相同的雌性动物体内，使之继续发育为新个体的技术。",
+		"seconds": 14.448
+	},
+	"tr2": {
+		"key": "zh-CN-XiaoxiaoNeural|提供胚胎的个体，叫作供体；接受胚胎的个体，叫作受体。",
+		"seconds": 5.904
+	},
+	"tr3": {
+		"key": "zh-CN-XiaoxiaoNeural|供体一般是遗传性状优良的个体；受体只要有健康的体质和正常繁殖能力就行。",
+		"seconds": 7.752
+	},
+	"tr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：胚胎移植中，后代的遗传物质来自供体，受体只提供胚胎发育的场所，不影响后代的遗传特性。",
+		"seconds": 10.008
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，胚胎移植的基本程序。第一步，对供体和受体进行同期发情处理。",
+		"seconds": 7.944
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，用促性腺激素对供体母畜进行超数排卵处理。",
+		"seconds": 5.88
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，对供体进行配种或人工授精。然后冲卵，也就是把供体子宫内的胚胎冲洗出来。",
+		"seconds": 8.928
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，对胚胎进行质量检查，此时胚胎应发育到桑葚胚或囊胚阶段。",
+		"seconds": 7.392
+	},
+	"sp5": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，把胚胎移植给受体，并对受体进行妊娠检查。",
+		"seconds": 5.616
+	},
+	"sp6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：超数排卵用的是促性腺激素，不是性激素；“冲卵”冲出的是胚胎，不是卵子。",
+		"seconds": 8.304
+	},
+	"ba1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，胚胎移植的生理学基础。第一，同种动物的供体和受体，生殖器官的生理变化是相同的，为胚胎移入提供了相同的生理环境。",
+		"seconds": 12.768
+	},
+	"ba2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，早期胚胎在一定时间内处于游离状态，没有与母体子宫建立组织上的联系，这为胚胎的收集提供了可能。",
+		"seconds": 10.464
+	},
+	"ba3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，受体对移入子宫的外来胚胎基本上不发生免疫排斥反应，为胚胎在受体内的存活提供了可能。",
+		"seconds": 9.624
+	},
+	"ba4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四，供体胚胎可与受体子宫建立正常的生理和组织联系，但遗传特性在孕育过程中不受影响。",
+		"seconds": 9.384
+	},
+	"ba5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：一个现象对应一条基础。解题方法：为什么能冲卵？游离状态。为什么能存活？不发生免疫排斥。为什么要同期发情？生理环境相同。",
+		"seconds": 15.552
+	},
+	"mn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，胚胎移植的意义。最主要的是：可以充分发挥雌性优良个体的繁殖潜力。",
+		"seconds": 8.256
+	},
+	"mn2": {
+		"key": "zh-CN-XiaoxiaoNeural|供体只负责产生具有优良遗传特性的胚胎，繁重而漫长的妊娠和育仔任务由受体承担，大大缩短了供体本身的繁殖周期。",
+		"seconds": 11.424
+	},
+	"mn3": {
+		"key": "zh-CN-XiaoxiaoNeural|胚胎移植是胚胎工程的最后一道工序：体外受精、胚胎分割、核移植得到的胚胎，都要经过胚胎移植才能获得后代。",
+		"seconds": 11.04
+	},
+	"mn4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：问意义，答“充分发挥雌性优良个体的繁殖潜力”这一句，几乎是必考的标准表述。",
+		"seconds": 8.784
+	},
+	"sl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，胚胎分割。它是采用机械方法把早期胚胎切割成2等份、4等份或8等份等，经移植获得同卵双胎或多胎的技术。",
+		"seconds": 12.648
+	},
+	"sl2": {
+		"key": "zh-CN-XiaoxiaoNeural|应选择发育良好、形态正常的桑葚胚或囊胚进行分割。",
+		"seconds": 5.832
+	},
+	"sl3": {
+		"key": "zh-CN-XiaoxiaoNeural|分割囊胚时，要将内细胞团均等分割，否则会影响分割后胚胎的恢复和进一步发育。",
+		"seconds": 8.112
+	},
+	"sl4": {
+		"key": "zh-CN-XiaoxiaoNeural|胚胎分割属于无性繁殖或克隆，后代的遗传物质相同。但分割的份数越多，成功率越低，实践中以二分胚胎的成功率最高。",
+		"seconds": 12.144
+	},
+	"sl5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：均等分割的是内细胞团，不是滋养层；还可以取滋养层细胞做D N A分析，进行性别鉴定。",
+		"seconds": 9.696
+	},
+	"vs1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，试管动物与克隆动物的比较。试管动物：通过体外受精、早期胚胎培养和胚胎移植产生，属于有性生殖。",
+		"seconds": 11.448
+	},
+	"vs2": {
+		"key": "zh-CN-XiaoxiaoNeural|克隆动物：通过核移植、早期胚胎培养和胚胎移植产生，属于无性生殖。",
+		"seconds": 7.44
+	},
+	"vs3": {
+		"key": "zh-CN-XiaoxiaoNeural|试管动物的遗传物质来自双亲；克隆动物的核遗传物质只来自供核个体。",
+		"seconds": 6.912
+	},
+	"vs4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看有没有精卵结合——有就是有性生殖；两者的共同技术是早期胚胎培养和胚胎移植。",
+		"seconds": 9.432
+	},
+	"ch1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，胚胎工程流程图判读。看到卵母细胞和精子，想到体外受精，试管动物。",
+		"seconds": 8.448
+	},
+	"ch2": {
+		"key": "zh-CN-XiaoxiaoNeural|看到去核卵母细胞和体细胞，想到核移植，克隆动物。",
+		"seconds": 5.16
+	},
+	"ch3": {
+		"key": "zh-CN-XiaoxiaoNeural|看到切割胚胎，想到胚胎分割，同卵多胎。",
+		"seconds": 4.488
+	},
+	"ch4": {
+		"key": "zh-CN-XiaoxiaoNeural|所有路线最后都汇合到胚胎移植，由受体完成孕育。",
+		"seconds": 5.184
+	},
+	"ch5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先找起点材料判断技术，再看终点都是胚胎移植；有激素处理的步骤，记住同期发情和超数排卵。",
+		"seconds": 10.992
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：采集的卵母细胞可直接受精？错，要培养到M二期。判断二：移植前对供体和受体同期发情处理？对。",
+		"seconds": 12.552
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：超数排卵用性激素？错，用促性腺激素。判断四：受体对外来胚胎基本不发生免疫排斥？对。",
+		"seconds": 11.904
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：胚胎分割要均等分割滋养层？错，是内细胞团。判断六：试管动物属于有性生殖？对。",
+		"seconds": 11.28
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：供体出胚胎，受体只孕育。我们下期再见！",
+		"seconds": 6.888
+	}
+}

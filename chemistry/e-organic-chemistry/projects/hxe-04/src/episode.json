@@ -1,0 +1,128 @@
+{
+	"id": "HXE-04",
+	"title": "同分异构体（上）：类型与数目",
+	"subject": "chemistry",
+	"book": "有机化学 · 第4期 / 共17期",
+	"points": [
+		"“四同”辨析",
+		"构造异构",
+		"顺反异构",
+		"手性碳与对映异构",
+		"一元取代物数目",
+		"二元取代物数目",
+		"常见官能团异构"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"同分异构体",
+				true
+			],
+			[
+				"（上）：类型与数目"
+			]
+		],
+		"subtitle": "四同 · 顺反 · 手性 · 等效氢 · 定一移一",
+		"photo": "pasteur.jpg",
+		"photoCaption": "巴斯德：发现酒石酸盐的对映异构现象",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"同分异构体",
+					true
+				]
+			],
+			[
+				[
+					"（上）",
+					false
+				]
+			],
+			[
+				[
+					"类型与数目"
+				]
+			]
+		],
+		"photo": "pasteur.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "巴斯德",
+		"credit": "Paul Nadar, PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "苯酚与苯甲醇互为同系物",
+				"ok": false,
+				"fix": "一个是酚一个是醇，不是同系物"
+			},
+			{
+				"q": "乙醇与甲醚互为同分异构体",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "1-丁烯存在顺反异构",
+				"ok": false,
+				"fix": "一端碳连两个 H，没有顺反异构"
+			},
+			{
+				"q": "乳酸分子中含有一个手性碳原子",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "新戊烷的一氯代物有 2 种",
+				"ok": false,
+				"fix": "只有 1 种"
+			},
+			{
+				"q": "丙烷的二氯代物有 4 种",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"同分异构体",
+				true
+			],
+			[
+				"（上）：类型与数目"
+			]
+		],
+		"endLine": "两端不同有顺反，四个不同是手性",
+		"slogan": "两端不同有顺反，四个不同是手性"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Paul Nadar《Louis Pasteur》，公有领域；插图来自 pixiv：あーでぇ、Sayaka-kun、あまなこ（侵删）",
+	"anime": [
+		{
+			"key": "twins",
+			"src": "twins.jpg",
+			"credit": "插图：あーでぇ《お揃いの三つ編み…》pixiv #104318307",
+			"url": "https://www.pixiv.net/artworks/104318307"
+		},
+		{
+			"key": "couple",
+			"src": "couple.jpg",
+			"credit": "插图：Sayaka-kun《Waltz with You》pixiv #90390718",
+			"url": "https://www.pixiv.net/artworks/90390718"
+		},
+		{
+			"key": "mirror",
+			"src": "mirror.jpg",
+			"credit": "插图：あまなこ《SDあずにゃん》pixiv #12966398",
+			"url": "https://www.pixiv.net/artworks/12966398"
+		}
+	]
+}

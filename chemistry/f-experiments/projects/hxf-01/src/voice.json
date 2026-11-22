@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|常用仪器、试剂保存与实验安全。",
+		"seconds": 3.864
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题考操作规范：哪个仪器能加热、读数精确到几位、试剂怎么保存，共八个考点。",
+		"seconds": 8.352
+	},
+	"he1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，可以直接加热的仪器：试管、蒸发皿、坩埚、燃烧匙。",
+		"seconds": 6.624
+	},
+	"he2": {
+		"key": "zh-CN-XiaoxiaoNeural|需要垫陶土网加热的：烧杯、烧瓶、锥形瓶。",
+		"seconds": 4.944
+	},
+	"he3": {
+		"key": "zh-CN-XiaoxiaoNeural|不能加热的：量筒、容量瓶、集气瓶、试剂瓶、滴定管。",
+		"seconds": 6.216
+	},
+	"he4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：灼烧固体用坩埚，不用蒸发皿；蒸发溶液用蒸发皿；坩埚取放要用坩埚钳。",
+		"seconds": 8.448
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，计量仪器的精度：托盘天平读到0.1克；量筒读到0.1毫升。",
+		"seconds": 7.536
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|滴定管读到0.01毫升，零刻度在上；量筒没有零刻度。",
+		"seconds": 5.784
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|容量瓶只有一条刻度线，只能配制规定体积的溶液，比如100毫升、250毫升、500毫升。",
+		"seconds": 8.904
+	},
+	"pr3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉色花边里的棕发女孩：记数据时小数点后几位，取决于用的是什么仪器。",
+		"seconds": 7.08
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：用量筒量取8.25毫升、用托盘天平称取5.85克都是错的；配480毫升溶液要选500毫升容量瓶。",
+		"seconds": 11.232
+	},
+	"lk1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，使用前要检查是否漏水的仪器：容量瓶、滴定管、分液漏斗，凡是有活塞或瓶塞要倒置的都要检漏。",
+		"seconds": 10.92
+	},
+	"lk2": {
+		"key": "zh-CN-XiaoxiaoNeural|容量瓶检漏：加水、塞好、倒立，不漏水；把瓶塞旋转180度，再倒立检查一次。",
+		"seconds": 8.784
+	},
+	"lk3": {
+		"key": "zh-CN-XiaoxiaoNeural|容量瓶不能用来溶解、稀释或长期储存溶液，也不能加热。",
+		"seconds": 6.192
+	},
+	"lk3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发丸子头的女孩笑眯眯地站着：有活塞、有瓶塞的，用之前先倒过来看看漏不漏。",
+		"seconds": 8.256
+	},
+	"lk4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：容量瓶不需要用待配溶液润洗；润洗反而会使溶质偏多。",
+		"seconds": 6.504
+	},
+	"li1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，见光易分解的试剂放在棕色瓶中，置于阴凉处：浓硝酸、硝酸银、氯水、溴化银、高锰酸钾溶液。",
+		"seconds": 11.112
+	},
+	"li2": {
+		"key": "zh-CN-XiaoxiaoNeural|浓硝酸见光分解，生成二氧化氮、氧气和水，二氧化氮溶在里面使溶液呈黄色。",
+		"seconds": 8.232
+	},
+	"li3": {
+		"key": "zh-CN-XiaoxiaoNeural|氯水要现配现用：次氯酸见光分解，久置氯水变成稀盐酸。",
+		"seconds": 6.408
+	},
+	"li4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：浓硝酸用棕色细口瓶、玻璃塞，不能用橡胶塞，因为浓硝酸会腐蚀橡胶。",
+		"seconds": 8.376
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，碱性溶液，比如氢氧化钠、碳酸钠、硅酸钠溶液，用橡胶塞，不能用玻璃塞，否则瓶塞会被粘住。",
+		"seconds": 10.488
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|氢氟酸用塑料瓶，不能用玻璃瓶，因为氢氟酸会腐蚀玻璃。",
+		"seconds": 5.76
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|钠、钾保存在煤油中；白磷保存在水中；液溴加水液封。",
+		"seconds": 5.928
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：硫酸亚铁溶液中加铁粉防氧化；氯化铁溶液中加盐酸抑制水解；氢氧化钠固体要密封保存。",
+		"seconds": 10.056
+	},
+	"sf1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，实验安全。防倒吸：极易溶于水的气体，比如氨气、氯化氢，吸收时用倒扣漏斗或干燥管。",
+		"seconds": 10.632
+	},
+	"sf2": {
+		"key": "zh-CN-XiaoxiaoNeural|防暴沸：加热液体加碎瓷片；稀释浓硫酸要把浓硫酸沿器壁慢慢注入水中，并不断搅拌。",
+		"seconds": 8.784
+	},
+	"sf3": {
+		"key": "zh-CN-XiaoxiaoNeural|防爆炸：点燃氢气、一氧化碳、甲烷等可燃性气体前要验纯；加热制气体实验结束时先撤导管再熄灯。",
+		"seconds": 10.32
+	},
+	"sf3b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩举着指挥棒，头上还站着几个小人：实验就像指挥乐队，先后顺序错一步就出事。",
+		"seconds": 8.904
+	},
+	"sf4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：稀释浓硫酸时把水倒进浓硫酸里，会使液体沸腾飞溅。",
+		"seconds": 6.528
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，意外事故的处理。浓硫酸沾到皮肤上：先用大量水冲洗，再涂百分之3到5的碳酸氢钠溶液。",
+		"seconds": 10.272
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|碱液沾到皮肤上：用大量水冲洗，再涂硼酸溶液。",
+		"seconds": 5.256
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|酒精灯着火：用湿抹布盖灭；钠着火：用干燥沙土盖灭，不能用水或泡沫灭火器。",
+		"seconds": 8.448
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：浓硫酸沾到皮肤上，不能先用氢氧化钠溶液中和，氢氧化钠也有强腐蚀性。",
+		"seconds": 8.184
+	},
+	"op1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，基本操作规范。检查气密性：连接装置，导管放入水中，微热烧瓶，导管口有气泡，冷却后导管内形成一段水柱。",
+		"seconds": 12.648
+	},
+	"op2": {
+		"key": "zh-CN-XiaoxiaoNeural|启普发生器或带长颈漏斗的装置：关闭止水夹，从漏斗加水，形成稳定的液面差，说明气密性好。",
+		"seconds": 9.792
+	},
+	"op3": {
+		"key": "zh-CN-XiaoxiaoNeural|pH 试纸：用洁净干燥的玻璃棒蘸取，点在试纸上，不能润湿。焰色试验：铂丝用盐酸洗净并灼烧至无色。",
+		"seconds": 11.232
+	},
+	"op4": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：气密性检查要写全操作、现象、结论：关闭某处，加热某处，若出现某现象，则气密性良好。",
+		"seconds": 10.968
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：烧杯可以直接加热？错，要垫陶土网。判断二：量筒量取8.25毫升？错，只能读到0.1。",
+		"seconds": 11.664
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：容量瓶、滴定管、分液漏斗都要检漏？对。判断四：氢氧化钠溶液用玻璃塞？错，用橡胶塞。",
+		"seconds": 12.096
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：浓硝酸放棕色瓶？对。判断六：钠着火用泡沫灭火器？错，用干燥沙土。",
+		"seconds": 10.032
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|有塞先检漏，见光棕色瓶，碱用橡胶塞。下一期：装置图正误判断。",
+		"seconds": 7.44
+	}
+}

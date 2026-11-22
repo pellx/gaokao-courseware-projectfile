@@ -1,0 +1,38 @@
+{
+	"id": "XB1-21",
+	"title": "植物生长调节剂的应用",
+	"subject": "biology",
+	"book": "人教版·选择性必修1·第5章",
+	"points": ["概念与优点", "两类调节剂", "应用实例", "施用注意事项", "插条生根的探究", "实验结果分析", "2,4-D除草"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修1",
+		"title": [["植物生长"], ["调节剂", true]],
+		"subtitle": "应用实例 · 插条生根探究 · 2,4-D除草",
+		"photo": "cuttings.jpg",
+		"photoCaption": "苗床中扦插生根的木槿插条",
+		"photoPos": "50% center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["植物生长"]], [["调节剂的应用", true]]],
+		"kicker": "插条生根探究 · 2,4-D除草",
+		"photo": "cuttings.jpg",
+		"photoPos": "50% center",
+		"photoTag": "插条生根",
+		"credit": "Photo: Gmihail, CC BY-SA 3.0 RS"
+	},
+	"review": {
+		"items": [
+			{"q": "植物生长调节剂具有原料广泛、容易合成、效果稳定等优点", "ok": true, "fix": ""},
+			{"q": "植物生长调节剂施用浓度越高效果越好", "ok": false, "fix": "浓度要适宜，过量会适得其反"},
+			{"q": "用赤霉素处理大麦，可使其无须发芽就产生α-淀粉酶", "ok": true, "fix": ""},
+			{"q": "浸泡法处理插条时溶液浓度较高", "ok": false, "fix": "浓度较低，处理时间较长"},
+			{"q": "预实验可以为正式实验摸索条件", "ok": true, "fix": ""},
+			{"q": "可以用2,4-D除去大豆田中的双子叶杂草", "ok": false, "fix": "大豆也是双子叶植物"}
+		],
+		"endTitle": [["植物生长"], ["调节剂", true]],
+		"endLine": "概念 · 应用 · 插条生根探究 · 2,4-D除草",
+		"slogan": "浓度适宜是关键，对照比较定促抑！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Gmihail《Rooting of green cuttings of Hibiscus syriacus》CC BY-SA 3.0 RS"
+}

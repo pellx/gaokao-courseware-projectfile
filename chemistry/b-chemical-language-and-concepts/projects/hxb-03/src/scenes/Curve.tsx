@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Curve: React.FC = () => <AutoScene k="curve" d={{"tag": "考点六", "title": "导电性曲线", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "Ba(OH)2 中滴加稀 H2SO4", "at": "cu1", "lines": ["Ba^2+ + 2OH^- + 2H^+ + SO4^2- = {BaSO4↓} + 2H2O", {"at": "cu1", "text": "① 离子减少 → 导电能力{下降}"}, {"at": "cu2", "text": "② 恰好反应 → {接近 0}"}, {"at": "cu3", "text": "③ 硫酸过量 → {又升高|orange}"}], "c": "red", "size": 30}]}, {"blocks": [{"t": "panel", "title": "Ba(OH)2 中滴加 Na2SO4", "at": "cu4", "lines": ["Ba(OH)2 + Na2SO4 = BaSO4↓ + 2NaOH", "离子数目基本不变", "导电能力{几乎不变|green}"], "c": "green", "size": 30}]}]}, {"t": "chain", "steps": [{"at": "cu2", "text": "导电强"}, {"at": "cu2", "text": "{接近 0}", "c": "red"}, {"at": "cu3", "text": "{又升高}", "c": "orange"}], "arrows": ["滴加 H2SO4", "继续滴加"], "center": true, "size": 34}], "callout": {"label": "解题方法", "at": "cu5", "text": "写出反应，看{离子浓度}：生成沉淀、水、气体 → 离子减少"}}} />;

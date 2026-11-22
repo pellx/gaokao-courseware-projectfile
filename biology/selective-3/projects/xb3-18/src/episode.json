@@ -1,0 +1,38 @@
+{
+	"id": "XB3-18",
+	"title": "关注生殖性克隆人与禁止生物武器",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第4章",
+	"points": ["两种克隆的区别", "我国对克隆人的态度", "试管婴儿与设计", "生物武器的种类", "我国对生物武器态度", "伦理问题答题思路"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [["克隆人与"], ["生物武器", true]],
+		"subtitle": "生殖性克隆 · 治疗性克隆 · 设计试管婴儿",
+		"photo": "biohazard.jpg",
+		"photoCaption": "生物危害标志",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["克隆人与"]], [["生物武器", true]]],
+		"kicker": "四不原则 · 三不原则 · 伦理",
+		"photo": "biohazard.jpg",
+		"photoPos": "center",
+		"photoTag": "生物危害标志",
+		"credit": "Photo: Forest and Kim Starr, CC BY 3.0 US"
+	},
+	"review": {
+		"items": [
+			{"q": "治疗性克隆的目的是产生新个体", "ok": false, "fix": "目的是获得细胞、组织用于治疗"},
+			{"q": "我国不反对治疗性克隆", "ok": true, "fix": ""},
+			{"q": "设计试管婴儿与试管婴儿技术完全相同", "ok": false, "fix": "设计试管婴儿多了遗传学诊断"},
+			{"q": "生物武器包括致病菌、病毒、生化毒剂等", "ok": true, "fix": ""},
+			{"q": "我国在特殊情况下可以发展生物武器", "ok": false, "fix": "任何情况下都不发展、不生产、不储存"},
+			{"q": "设计试管婴儿可以用于选择性别", "ok": false, "fix": "主要用于治疗疾病，不能随意选择性别"}
+		],
+		"endTitle": [["克隆人与"], ["生物武器", true]],
+		"endLine": "生殖性克隆 · 治疗性克隆 · 试管婴儿 · 生物武器 · 伦理",
+		"slogan": "四不三不记牢，伦理题有理有据！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Forest and Kim Starr《Biohazard sign at ASAP quarantine building Kahului, Maui》CC BY 3.0 US（裁切）"
+}

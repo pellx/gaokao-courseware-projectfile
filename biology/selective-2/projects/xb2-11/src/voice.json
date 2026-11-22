@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修二第三章第四节——生态系统的信息传递。",
+		"seconds": 8.376
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考信息种类的判断、信息传递作用的辨析，以及信息传递在农业生产中的应用。",
+		"seconds": 8.256
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"kd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，信息的种类。生态系统中的信息分为三类。",
+		"seconds": 5.832
+	},
+	"kd2": {
+		"key": "zh-CN-XiaoxiaoNeural|物理信息：光、声、温度、湿度、磁场等，通过物理过程传递的信息。它可以来自非生物环境，也可以来自生物。",
+		"seconds": 11.184
+	},
+	"kd3": {
+		"key": "zh-CN-XiaoxiaoNeural|化学信息：生物在生命活动中产生的、可以传递信息的化学物质，比如植物的生物碱、有机酸，动物的性外激素。",
+		"seconds": 10.68
+	},
+	"kd4": {
+		"key": "zh-CN-XiaoxiaoNeural|行为信息：动物的特殊行为，对于同种或异种生物也能够传递某种信息，比如蜜蜂跳舞、孔雀开屏。",
+		"seconds": 9.768
+	},
+	"kd5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：给出实例判断信息种类。物理信息可以来自非生物环境，化学信息和行为信息都来自生物。",
+		"seconds": 10.2
+	},
+	"jd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，信息种类的判断。关键看传递信息的载体是什么。",
+		"seconds": 6.096
+	},
+	"jd2": {
+		"key": "zh-CN-XiaoxiaoNeural|萤火虫发光、蝙蝠的回声定位、雄鸟的鸣叫，载体是光和声，都是物理信息。",
+		"seconds": 7.488
+	},
+	"jd3": {
+		"key": "zh-CN-XiaoxiaoNeural|狗用尿液标记领地、昆虫的性外激素，载体是化学物质，都是化学信息。",
+		"seconds": 7.056
+	},
+	"jd4": {
+		"key": "zh-CN-XiaoxiaoNeural|蜜蜂跳圆圈舞或摆尾舞、雄鸟求偶时的炫耀动作，载体是动作，都是行为信息。",
+		"seconds": 7.896
+	},
+	"jd5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同一只雄鸟，鸣叫是物理信息，炫耀动作是行为信息。不要看生物，要看载体。",
+		"seconds": 8.808
+	},
+	"pc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，信息传递的过程。需要三个要素。",
+		"seconds": 4.92
+	},
+	"pc2": {
+		"key": "zh-CN-XiaoxiaoNeural|信息源：信息产生的部位；信道：信息传播的媒介，比如空气、水；信息受体：信息接收的生物或部位。",
+		"seconds": 10.488
+	},
+	"pc3": {
+		"key": "zh-CN-XiaoxiaoNeural|生物与生物之间的信息传递往往是双向的，比如捕食者和被捕食者之间。",
+		"seconds": 7.128
+	},
+	"pc4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：非生物环境可以作为信息源，比如光照；但它不能接收信息，所以生物与非生物环境之间的信息传递是单向的。",
+		"seconds": 11.232
+	},
+	"rl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，信息传递的作用，有三条。",
+		"seconds": 3.912
+	},
+	"rl2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一，生命活动的正常进行离不开信息的作用。比如莴苣种子必须接受某种波长的光信息才能萌发，蝙蝠靠回声定位捕食和飞行。",
+		"seconds": 12.936
+	},
+	"rl3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，生物种群的繁衍离不开信息的传递。比如植物开花需要光信息的刺激，昆虫靠性外激素吸引异性。",
+		"seconds": 10.392
+	},
+	"rl4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，信息能够调节生物的种间关系，进而维持生态系统的平衡与稳定。比如狼根据兔留下的气味去追捕，兔也能根据狼的气味躲避。",
+		"seconds": 12.888
+	},
+	"rl5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：看信息作用于谁。作用于个体自身，是生命活动正常进行；涉及同种异性，是种群繁衍；涉及不同物种，是调节种间关系。",
+		"seconds": 13.68
+	},
+	"fm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，信息传递在农业生产中的应用。第一，提高农畜产品的产量。",
+		"seconds": 7.248
+	},
+	"fm2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如用模拟的动物信息吸引大量传粉动物，提高果树的传粉率和结实率；延长光照时间，提高家禽的产蛋率。",
+		"seconds": 10.584
+	},
+	"fm3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，对有害动物进行控制。比如用人工合成的性引诱剂诱捕害虫，或者干扰害虫交配，降低出生率。",
+		"seconds": 10.32
+	},
+	"fm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：利用信息素防治害虫属于生物防治，不是化学防治。生物防治对人类生存环境无污染。",
+		"seconds": 9.6
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，生态系统三大功能的比较：能量流动、物质循环和信息传递。",
+		"seconds": 7.272
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|范围：能量流动沿食物链和食物网；物质循环在生物圈；信息传递在生物与生物、生物与环境之间。",
+		"seconds": 9.984
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|特点：能量单向流动、逐级递减；物质循环往复、全球性；信息传递往往是双向的。",
+		"seconds": 8.928
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：三者把生态系统的各个组分联系成一个统一的整体；信息传递决定着能量流动和物质循环的方向和状态。",
+		"seconds": 10.632
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：蜜蜂跳舞属于物理信息？错，属于行为信息。判断二：萤火虫发光属于物理信息？对。",
+		"seconds": 10.848
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：信息只能在生物与生物之间传递？错，也可来自非生物环境。判断四：用性引诱剂诱杀害虫属于化学防治？错，属于生物防治。",
+		"seconds": 14.688
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：信息传递能调节生物的种间关系？对。判断六：生物之间的信息传递往往是双向的？对。",
+		"seconds": 10.944
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：看载体定种类，看对象定作用。我们下期再见！",
+		"seconds": 7.104
+	}
+}

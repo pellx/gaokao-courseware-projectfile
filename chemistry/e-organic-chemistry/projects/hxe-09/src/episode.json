@@ -1,0 +1,110 @@
+{
+	"id": "HXE-09",
+	"title": "卤代烃",
+	"subject": "chemistry",
+	"book": "有机化学 · 第9期 / 共17期",
+	"points": [
+		"物理性质与用途",
+		"水解反应",
+		"消去反应",
+		"水解与消去的比较",
+		"卤素原子的检验",
+		"卤代烃的桥梁作用"
+	],
+	"intro": {
+		"badge": "高考化学 · 有机化学",
+		"title": [
+			[
+				"卤代烃",
+				true
+			]
+		],
+		"subtitle": "水解 · 消去 · 检验卤素 · 合成桥梁",
+		"photo": "wurtz.jpg",
+		"photoCaption": "武兹：研究卤代烃的反应，发现武兹反应",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"卤代烃",
+					true
+				]
+			]
+		],
+		"photo": "wurtz.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "武兹",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "溴乙烷与 NaOH 水溶液共热发生消去反应",
+				"ok": false,
+				"fix": "水溶液中发生水解（取代）"
+			},
+			{
+				"q": "所有卤代烃都能发生消去反应",
+				"ok": false,
+				"fix": "β-碳上有氢才能消去"
+			},
+			{
+				"q": "CH3Cl 能发生水解反应",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "检验溴乙烷中的溴：直接加 AgNO3 溶液",
+				"ok": false,
+				"fix": "先水解、再用稀硝酸酸化"
+			},
+			{
+				"q": "水解后要用稀硝酸酸化，再加 AgNO3",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "2-溴丁烷发生消去反应只得到一种烯烃",
+				"ok": false,
+				"fix": "可得 1-丁烯和 2-丁烯"
+			}
+		],
+		"endTitle": [
+			[
+				"卤代烃",
+				true
+			]
+		],
+		"endLine": "无醇成醇，有醇成烯，检验先酸化",
+		"slogan": "无醇成醇，有醇成烯，检验先酸化"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Charles-Adolphe Wurtz》，公有领域；插图来自 pixiv：SunTail、Shidqi F R、aileen0321（侵删）",
+	"anime": [
+		{
+			"key": "bear",
+			"src": "bear.jpg",
+			"credit": "插图：SunTail《Do It Ourselves!! リサ》pixiv #77632967",
+			"url": "https://www.pixiv.net/artworks/77632967"
+		},
+		{
+			"key": "tanuki",
+			"src": "tanuki.jpg",
+			"credit": "插图：Shidqi F R《Chibi Tomori x Botan》pixiv #115160550",
+			"url": "https://www.pixiv.net/artworks/115160550"
+		},
+		{
+			"key": "pink",
+			"src": "pink.jpg",
+			"credit": "插图：aileen0321《看起来很聪明的爱音》pixiv #117310525",
+			"url": "https://www.pixiv.net/artworks/117310525"
+		}
+	]
+}

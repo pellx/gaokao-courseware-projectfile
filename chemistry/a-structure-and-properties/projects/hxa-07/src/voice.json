@@ -1,0 +1,210 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|原子半径、电离能与电负性。",
+		"seconds": 3.288
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|结构大题高频设问“比较并从结构角度解释”，选择题和元素推断结合比较大小，共九个考点。",
+		"seconds": 9.12
+	},
+	"ra1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，原子半径的周期性。原子半径由两个因素竞争决定：能层数和核电荷数。",
+		"seconds": 8.568
+	},
+	"ra2": {
+		"key": "zh-CN-XiaoxiaoNeural|能层数越多，电子离核越远，半径越大；核电荷数越大，核对电子的吸引越强，半径越小。",
+		"seconds": 9.144
+	},
+	"ra3": {
+		"key": "zh-CN-XiaoxiaoNeural|同周期从左到右，能层数相同，核电荷数增大，原子半径逐渐减小。",
+		"seconds": 7.176
+	},
+	"ra4": {
+		"key": "zh-CN-XiaoxiaoNeural|同主族从上到下，能层数增多的影响占主导，原子半径逐渐增大。",
+		"seconds": 6.744
+	},
+	"ra4b": {
+		"key": "zh-CN-XiaoxiaoNeural|比半径就像比身高：先看“层数”这个大个子差距，层数相同再比核电荷数。",
+		"seconds": 7.512
+	},
+	"ra5": {
+		"key": "zh-CN-XiaoxiaoNeural|答题方法：解释半径大小，写清能层数多少，或核电荷数大小、核对外层电子吸引力强弱。",
+		"seconds": 9.216
+	},
+	"id1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，第一电离能的定义。气态基态原子失去一个电子，转化为气态基态正离子所需的最低能量，叫第一电离能，符号 I 1。",
+		"seconds": 12.48
+	},
+	"id2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一电离能越小，原子越容易失去电子，金属性越强。",
+		"seconds": 5.472
+	},
+	"id3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：定义里的两个“气态”和“基态”都不能少；电离能衡量的是失电子的难易，不是失电子的多少。",
+		"seconds": 9.288
+	},
+	"it1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，第一电离能的递变。同周期从左到右，第一电离能总体增大：碱金属最小，稀有气体最大。",
+		"seconds": 10.32
+	},
+	"it2": {
+		"key": "zh-CN-XiaoxiaoNeural|同主族从上到下，第一电离能逐渐减小：原子半径增大，核对最外层电子的吸引减弱。",
+		"seconds": 8.592
+	},
+	"it3": {
+		"key": "zh-CN-XiaoxiaoNeural|碱金属的第一电离能从锂到铯越来越小，所以失电子越来越容易，金属活泼性越来越强。",
+		"seconds": 8.736
+	},
+	"it4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：比较同周期或同主族元素的第一电离能，先看位置，再看有没有反常。",
+		"seconds": 7.656
+	},
+	"ia1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，第一电离能的反常。同周期中，第二A大于第三A、第五A大于第六A：比如铍大于硼、镁大于铝、氮大于氧、磷大于硫。",
+		"seconds": 13.608
+	},
+	"ia2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因一：镁是 3 s 2，全充满，比较稳定；铝的 3 p 1 电子能量较高，容易失去。",
+		"seconds": 8.04
+	},
+	"ia3": {
+		"key": "zh-CN-XiaoxiaoNeural|原因二：氮是 2 p 3，半充满，比较稳定；氧是 2 p 4，失去一个电子后变成稳定的 2 p 3。",
+		"seconds": 9.264
+	},
+	"ia3b": {
+		"key": "zh-CN-XiaoxiaoNeural|半充满、全充满的电子，就像这样被紧紧抱住：想把它拉走，要花更多的能量。",
+		"seconds": 7.584
+	},
+	"ia4": {
+		"key": "zh-CN-XiaoxiaoNeural|所以第二周期第一电离能的顺序是：锂小于硼小于铍小于碳小于氧小于氮小于氟小于氖。",
+		"seconds": 8.784
+	},
+	"ia5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：反常只出现在第二A与第三A、第五A与第六A之间，别把它推广到其他相邻元素。",
+		"seconds": 8.856
+	},
+	"is1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，逐级电离能。原子逐个失去电子，所需能量 I 1 小于 I 2 小于 I 3，逐级增大。",
+		"seconds": 9.096
+	},
+	"is2": {
+		"key": "zh-CN-XiaoxiaoNeural|关键是看哪里出现突跃：突跃说明要开始失去内层电子了。",
+		"seconds": 6
+	},
+	"is3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如钠：I 1 很小，I 2 突然增大约9倍，说明钠最外层只有1个电子，常见化合价正一。",
+		"seconds": 9.24
+	},
+	"is4": {
+		"key": "zh-CN-XiaoxiaoNeural|镁在 I 3 突跃，最外层2个电子，正二价；铝在 I 4 突跃，最外层3个电子，正三价。",
+		"seconds": 8.712
+	},
+	"is5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：读电离能数据表或图像，找到第一次大突跃的位置，前面有几个，最外层就有几个电子。",
+		"seconds": 9.288
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，电负性。电负性描述的是不同元素的原子对键合电子吸引力的大小，电负性越大，对键合电子的吸引力越大。",
+		"seconds": 11.592
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|鲍林以氟的电负性4.0作为标准，锂为1.0，得出其他元素的相对值。",
+		"seconds": 7.104
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|同周期从左到右电负性逐渐增大，同主族从上到下逐渐减小；氟最大，铯最小（放射性元素除外）。",
+		"seconds": 9.936
+	},
+	"en3b": {
+		"key": "zh-CN-XiaoxiaoNeural|电负性就像拉人的力气：这个女孩拉着同伴往前跑，力气大的一方把共用电子拉过去。",
+		"seconds": 8.232
+	},
+	"en4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电负性大的元素，在化合物中显负价；稀有气体一般不讨论电负性。",
+		"seconds": 7.512
+	},
+	"eu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，电负性的应用。第一，判断金属性和非金属性：一般金属的电负性小于1.8，非金属大于1.8，类金属在1.8左右。",
+		"seconds": 13.176
+	},
+	"eu2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，判断化合物中元素化合价的正负：电负性大的显负价，比如在一氯化碘中，氯的电负性大，氯显负一价、碘显正一价。",
+		"seconds": 12.144
+	},
+	"eu3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，判断化学键类型：两元素电负性差值大于1.7，一般形成离子键；小于1.7，一般形成共价键。",
+		"seconds": 10.776
+	},
+	"eu4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如氯化铝：铝1.5、氯3.0，差值1.5，小于1.7，所以氯化铝是共价化合物。",
+		"seconds": 9.12
+	},
+	"eu5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：1.7是经验界线，不是绝对标准；氟化氢的电负性差值1.9，但氟化氢是共价化合物。",
+		"seconds": 9.864
+	},
+	"tm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，答题模板。题目常问：“比较氮和氧的第一电离能，并从原子结构角度解释。”",
+		"seconds": 8.448
+	},
+	"tm2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一步，写出两者的价层电子排布：氮是 2 s 2、2 p 3，氧是 2 s 2、2 p 4。",
+		"seconds": 8.52
+	},
+	"tm3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，指出结构特点：氮的 2 p 能级半充满，比较稳定。",
+		"seconds": 6.024
+	},
+	"tm4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，说明后果：失去一个电子所需能量更大。",
+		"seconds": 5.184
+	},
+	"tm5": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，下结论：第一电离能氮大于氧。",
+		"seconds": 4.368
+	},
+	"tm6": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：排布 → 特点（半满、全满，或核电荷数、半径）→ 失电子所需能量 → 结论，四步缺一步都可能扣分。",
+		"seconds": 10.656
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，易错辨析。第一句：“第一电离能氮大于氧，所以电负性也是氮大于氧。”错，电负性氧大于氮。",
+		"seconds": 11.136
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二句：“第一电离能越大，金属性一定越弱。”错，镁的第一电离能比铝大，但镁的金属性比铝强。",
+		"seconds": 9.864
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三句：“同周期从左到右，原子半径减小，第一电离能和电负性都增大。”半径和电负性对，但第一电离能有反常，说“都增大”不严谨。",
+		"seconds": 13.44
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四句：答题只写“因为氮的第一电离能大”。不得分：必须写出结构原因。",
+		"seconds": 7.632
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：第一电离能、金属性、电负性的顺序不完全一致，反常点就是命题点。",
+		"seconds": 7.728
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：第一电离能镁大于铝、氮大于氧？对。判断二：同周期从左到右第一电离能逐渐增大？错，有反常。",
+		"seconds": 12.384
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：某元素 I 2 远大于 I 1，最外层有1个电子？对。判断四：电负性越大，非金属性越强？对。",
+		"seconds": 11.712
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：第一电离能氮大于氧，所以电负性氮大于氧？错。判断六：电负性差值大于1.7一定形成离子键？错，氟化氢是例外。",
+		"seconds": 14.472
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|半径看层数和核电荷，电离能记住第二A、第五A反常，电负性左下小右上大。下一期：化学键。",
+		"seconds": 10.104
+	}
+}

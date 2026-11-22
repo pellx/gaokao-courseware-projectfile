@@ -1,0 +1,98 @@
+{
+	"id": "XB3-05",
+	"title": "植物细胞工程（上）：基本技术",
+	"subject": "biology",
+	"book": "人教版·选择性必修3·第2章",
+	"points": [
+		"细胞的全能性",
+		"植物组织培养",
+		"组织培养的条件",
+		"菊花的组织培养",
+		"去壁获得原生质体",
+		"原生质体融合",
+		"杂种植株染色体",
+		"体细胞杂交的意义"
+	],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修3",
+		"title": [
+			[
+				"植物细胞工程"
+			],
+			[
+				"基本技术",
+				true
+			]
+		],
+		"subtitle": "植物细胞工程（上） · 组织培养 · 体细胞杂交",
+		"photo": "callus.jpg",
+		"photoCaption": "叶片外植体上长出的愈伤组织",
+		"photoPos": "center 45%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [
+			[
+				[
+					"植物细胞工程"
+				]
+			],
+			[
+				[
+					"基本技术",
+					true
+				]
+			]
+		],
+		"photo": "callus.jpg",
+		"photoPos": "center 45%",
+		"photoTag": "愈伤组织",
+		"credit": "Photo: Slience Suzuka, CC BY-SA 4.0"
+	},
+	"review": {
+		"items": [
+			{
+				"q": "植物细胞在体内就能表现出全能性",
+				"ok": false,
+				"fix": "离体并在一定条件下才能表现"
+			},
+			{
+				"q": "愈伤组织是脱分化形成的",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "生长素比例高时有利于生芽",
+				"ok": false,
+				"fix": "生长素比例高有利于生根"
+			},
+			{
+				"q": "去除细胞壁用纤维素酶和果胶酶",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "原生质体融合完成的标志是核融合",
+				"ok": false,
+				"fix": "标志是杂种细胞再生出细胞壁"
+			},
+			{
+				"q": "体细胞杂交能打破生殖隔离",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"植物细胞工程"
+			],
+			[
+				"基本技术",
+				true
+			]
+		],
+		"endLine": "全能性 · 脱分化 · 再分化 · 去壁 · 融合 · 杂种植株",
+		"slogan": "组培靠全能性，杂交先去壁！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Slience Suzuka《Tobacco callus induce》CC BY-SA 4.0"
+}

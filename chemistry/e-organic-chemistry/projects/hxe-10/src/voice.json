@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|醇与酚。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|有机大题根据条件推断官能团变化，选择题考酚的特殊性质，共八个考点。",
+		"seconds": 7.464
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，醇：羟基与饱和碳原子相连。按羟基个数分一元醇、二元醇（乙二醇）、三元醇（丙三醇）。",
+		"seconds": 10.296
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|醇分子间能形成氢键，所以醇的沸点比相对分子质量相近的烷烃高得多。",
+		"seconds": 7.44
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|低级醇易溶于水，因为醇和水之间也能形成氢键；碳链越长，溶解度越小。多元醇沸点更高。",
+		"seconds": 9.888
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：解释“乙醇沸点高于丙烷”，答乙醇分子间存在氢键。",
+		"seconds": 6
+	},
+	"na1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，醇与钠反应：两个乙醇加两个钠生成两个乙醇钠和氢气，断的是氧氢键。",
+		"seconds": 7.896
+	},
+	"na2": {
+		"key": "zh-CN-XiaoxiaoNeural|比水与钠反应缓和：钠沉在乙醇底部，缓慢放出气体，说明乙醇中羟基的氢不如水中的活泼。",
+		"seconds": 8.952
+	},
+	"na3": {
+		"key": "zh-CN-XiaoxiaoNeural|定量：2摩尔羟基对应1摩尔氢气，常用来确定分子中羟基的个数。",
+		"seconds": 6.864
+	},
+	"na4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：醇不与氢氧化钠反应，与钠反应不能说明它有酸性。",
+		"seconds": 5.952
+	},
+	"el1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，醇的消去反应：乙醇与浓硫酸加热到170摄氏度，生成乙烯和水。",
+		"seconds": 7.776
+	},
+	"el2": {
+		"key": "zh-CN-XiaoxiaoNeural|条件：与羟基相连的碳的相邻碳上要有氢。和卤代烃消去的要求一样。",
+		"seconds": 7.224
+	},
+	"el3": {
+		"key": "zh-CN-XiaoxiaoNeural|温度控制：170摄氏度发生消去生成乙烯；140摄氏度主要发生分子间脱水生成乙醚。",
+		"seconds": 9.24
+	},
+	"el3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴迷你礼帽、握着麦克风的黑发女孩：温度差30摄氏度，产物就完全不同，要迅速升到170摄氏度。",
+		"seconds": 10.056
+	},
+	"el4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：温度计要插入反应液中，测的是液体温度；制得的乙烯中混有二氧化硫，要用氢氧化钠溶液除去。",
+		"seconds": 10.032
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，醇的催化氧化，铜或银作催化剂，加热：看连羟基的碳上有几个氢。",
+		"seconds": 7.944
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|有2个氢，也就是C H 2 O H：氧化成醛。两个乙醇加氧气生成两个乙醛和两个水。",
+		"seconds": 9.12
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|有1个氢：氧化成酮，比如2-丙醇氧化成丙酮。没有氢：不能被催化氧化，比如2-甲基-2-丙醇。",
+		"seconds": 10.68
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：铜丝在反应中先变黑，生成氧化铜，再变红，铜是催化剂，质量不变。",
+		"seconds": 7.968
+	},
+	"ot1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，乙醇的其他反应。与溴化氢取代：乙醇加溴化氢加热生成溴乙烷和水。",
+		"seconds": 8.28
+	},
+	"ot2": {
+		"key": "zh-CN-XiaoxiaoNeural|分子间脱水：两个乙醇在浓硫酸、140摄氏度下生成乙醚和水，属于取代反应。",
+		"seconds": 8.256
+	},
+	"ot3": {
+		"key": "zh-CN-XiaoxiaoNeural|与乙酸酯化；被酸性高锰酸钾或重铬酸钾直接氧化成乙酸。酒驾检测用的就是重铬酸钾由橙色变绿色。",
+		"seconds": 10.968
+	},
+	"ot4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：分子间脱水成醚是取代反应，不是消去反应；分子内脱水才是消去。",
+		"seconds": 7.728
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，苯酚的弱酸性：能与氢氧化钠反应生成苯酚钠，浑浊的苯酚溶液变澄清。",
+		"seconds": 8.136
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|酸性强弱：碳酸大于苯酚大于碳酸氢根。苯酚不能使石蕊变色，也不能与碳酸氢钠反应。",
+		"seconds": 9.264
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|苯酚钠溶液中通入二氧化碳：生成苯酚和碳酸氢钠，不论二氧化碳多少，都不生成碳酸钠。",
+		"seconds": 8.904
+	},
+	"ac3b": {
+		"key": "zh-CN-XiaoxiaoNeural|浅粉色头发的女孩抱着吉他：苯酚的酸性比碳酸弱、比碳酸氢根强，夹在中间。",
+		"seconds": 7.848
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：苯酚能与碳酸钠反应生成碳酸氢钠，但不放出二氧化碳。",
+		"seconds": 6.648
+	},
+	"br1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，苯酚与浓溴水反应：生成2,4,6-三溴苯酚白色沉淀，羟基使苯环邻、对位更活泼。",
+		"seconds": 10.248
+	},
+	"br2": {
+		"key": "zh-CN-XiaoxiaoNeural|1摩尔苯酚消耗3摩尔溴，取代的是酚羟基邻位和对位上的氢。",
+		"seconds": 6.384
+	},
+	"br3": {
+		"key": "zh-CN-XiaoxiaoNeural|显色反应：苯酚遇氯化铁溶液显紫色，常用来检验酚羟基。",
+		"seconds": 6.048
+	},
+	"br3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿水手服的棕发小女孩张开双臂：邻位、对位一共三个位置，三个氢全被溴换掉。",
+		"seconds": 8.64
+	},
+	"br4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：苯酚与溴反应用的是浓溴水，不需要催化剂；苯与溴反应要用液溴和溴化铁，二者别混。",
+		"seconds": 9.456
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，醇羟基与酚羟基的比较。都能与钠反应放出氢气。",
+		"seconds": 6.288
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|只有酚羟基能与氢氧化钠、碳酸钠反应；只有酚能与浓溴水生成沉淀、遇氯化铁显紫色。",
+		"seconds": 8.904
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|只有醇能发生消去反应和催化氧化成醛、酮。苯酚在空气中易被氧化，呈粉红色。",
+		"seconds": 8.424
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：定量题数 氢氧化钠 时，醇羟基不算，酚羟基每个算 1 摩尔。",
+		"seconds": 7.584
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：乙醇和氢氧化钠反应？错。判断二：140摄氏度主要生成乙烯？错，生成乙醚。",
+		"seconds": 10.728
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：2-丙醇催化氧化成丙酮？对。判断四：苯酚钠通少量二氧化碳生成碳酸钠？错，生成碳酸氢钠。",
+		"seconds": 12
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：苯酚遇氯化铁显紫色？对。判断六：1摩尔苯酚最多消耗3摩尔溴？对。",
+		"seconds": 9.624
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|两氢成醛一氢成酮，酚酸介于碳酸与碳酸氢根。下一期：醛与酮。",
+		"seconds": 7.488
+	}
+}

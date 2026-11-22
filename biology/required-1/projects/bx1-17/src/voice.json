@@ -1,0 +1,138 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第五章第三节的上半部分——探究酵母菌细胞呼吸的方式和有氧呼吸。",
+		"seconds": 10.008
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考实验装置和产物检测，以及有氧呼吸三个阶段的场所和物质变化。",
+		"seconds": 7.296
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按七个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.568
+	},
+	"dv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，探究酵母菌细胞呼吸的方式。酵母菌是兼性厌氧菌，有氧和无氧条件下都能生存。",
+		"seconds": 9.312
+	},
+	"dv2": {
+		"key": "zh-CN-XiaoxiaoNeural|有氧装置：空气先通过质量分数为百分之十的氢氧化钠溶液，再通入酵母菌培养液，最后连接澄清石灰水。",
+		"seconds": 10.68
+	},
+	"dv3": {
+		"key": "zh-CN-XiaoxiaoNeural|无氧装置：酵母菌培养液封口放置一段时间后，再连通澄清石灰水，目的是消耗掉瓶中原有的氧气。",
+		"seconds": 9.768
+	},
+	"dv4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：氢氧化钠的作用是吸收空气中的二氧化碳，排除干扰；无氧组先放置，保证进入石灰水的二氧化碳都来自无氧呼吸。",
+		"seconds": 12.216
+	},
+	"dt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，产物的检测。二氧化碳使澄清石灰水变浑浊，也可使溴麝香草酚蓝溶液由蓝变绿再变黄。",
+		"seconds": 10.368
+	},
+	"dt2": {
+		"key": "zh-CN-XiaoxiaoNeural|根据石灰水的浑浊程度，或者溴麝香草酚蓝溶液变黄所需的时间，可以判断二氧化碳产生的多少。",
+		"seconds": 9.312
+	},
+	"dt3": {
+		"key": "zh-CN-XiaoxiaoNeural|酒精在酸性条件下，与橙色的重铬酸钾溶液反应，变成灰绿色。",
+		"seconds": 6.264
+	},
+	"dt4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：葡萄糖也能与酸性重铬酸钾反应，所以要适当延长培养时间，耗尽葡萄糖后再检测酒精。",
+		"seconds": 9.528
+	},
+	"ct1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，科学方法——对比实验。设置两个或两个以上的实验组，通过比较结果，探究某种因素对实验对象的影响。",
+		"seconds": 11.088
+	},
+	"ct2": {
+		"key": "zh-CN-XiaoxiaoNeural|本实验中，有氧组和无氧组都是实验组，相互对比。",
+		"seconds": 5.328
+	},
+	"ct3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：对比实验没有单独的空白对照组；鲁宾和卡门的同位素标记实验，也是对比实验。",
+		"seconds": 8.544
+	},
+	"tt1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，有氧呼吸。细胞在氧气的参与下，把葡萄糖等有机物彻底氧化分解，产生二氧化碳和水，释放能量，生成大量ATP。",
+		"seconds": 12.936
+	},
+	"tt2": {
+		"key": "zh-CN-XiaoxiaoNeural|总反应式：一分子葡萄糖、六分子水和六分子氧气，在酶的作用下，生成六分子二氧化碳、十二分子水和能量。",
+		"seconds": 11.184
+	},
+	"tt3": {
+		"key": "zh-CN-XiaoxiaoNeural|一摩尔葡萄糖彻底氧化分解，释放二千八百七十千焦能量，约九百七十七点二八千焦储存在ATP中，其余以热能形式散失。",
+		"seconds": 11.88
+	},
+	"tt4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：写反应式时两边都有水，箭头上注明“酶”，最后写“能量”而不是ATP。",
+		"seconds": 8.112
+	},
+	"sg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，有氧呼吸的三个阶段。第一阶段在细胞质基质：1分子葡萄糖分解成2分子丙酮酸，产生少量还原氢，释放少量能量。",
+		"seconds": 12.648
+	},
+	"sg2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二阶段在线粒体基质：丙酮酸和水彻底分解成二氧化碳和还原氢，释放少量能量。",
+		"seconds": 8.4
+	},
+	"sg3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三阶段在线粒体内膜：前两个阶段产生的还原氢与氧气结合生成水，释放大量能量。",
+		"seconds": 8.616
+	},
+	"sg4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：水在第二阶段消耗、第三阶段生成；氧气只在第三阶段参与；二氧化碳在第二阶段产生。",
+		"seconds": 9.768
+	},
+	"en1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，能量与元素去向。三个阶段都能产生ATP，第三阶段产生的最多。",
+		"seconds": 7.896
+	},
+	"en2": {
+		"key": "zh-CN-XiaoxiaoNeural|用氧十八追踪：葡萄糖中的O进入二氧化碳；氧气中的O进入生成的水；反应物水中的O也进入二氧化碳。",
+		"seconds": 10.584
+	},
+	"en3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：追踪元素时记住，氧气中的氧只进入水。",
+		"seconds": 5.592
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，易错辨析。线粒体不能直接分解葡萄糖，葡萄糖要先在细胞质基质中分解为丙酮酸。",
+		"seconds": 9.84
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|原核生物没有线粒体，但有的也能进行有氧呼吸，比如醋酸菌、蓝细菌，它们含有与有氧呼吸有关的酶。",
+		"seconds": 9.648
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|真核细胞也不一定都能有氧呼吸：哺乳动物成熟红细胞没有线粒体，只进行无氧呼吸。",
+		"seconds": 8.184
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断能否进行有氧呼吸，看有没有与有氧呼吸有关的酶，不能只看有没有线粒体。",
+		"seconds": 8.664
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，吸收的是空气中的二氧化碳。判断二？对。",
+		"seconds": 7.344
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，水在第二阶段参与。判断四？错，氧气中的氧进入水。",
+		"seconds": 8.28
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？错，进入线粒体的是丙酮酸。判断六？对。",
+		"seconds": 6.936
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|七个考点串成一条线：水二耗三生，氧气只在第三阶段。我们下期再见！",
+		"seconds": 7.536
+	}
+}

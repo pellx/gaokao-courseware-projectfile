@@ -1,0 +1,158 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|化学电源。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|北京卷选择题常给新型电池装置，大题写电极反应式，关键是看清电解质，共七个考点。",
+		"seconds": 8.952
+	},
+	"zm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，一次电池：放电后不能充电复原。碱性锌锰电池：负极锌，正极二氧化锰，电解质氢氧化钾。",
+		"seconds": 10.776
+	},
+	"zm2": {
+		"key": "zh-CN-XiaoxiaoNeural|负极：锌加两个氢氧根失去两个电子，生成氢氧化锌。",
+		"seconds": 5.64
+	},
+	"zm3": {
+		"key": "zh-CN-XiaoxiaoNeural|正极：两个二氧化锰加两个水得到两个电子，生成两个碱式氧化锰和两个氢氧根。总反应：锌加两个二氧化锰加两个水，生成两个碱式氧化锰和氢氧化锌。",
+		"seconds": 15.336
+	},
+	"zm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碱性电解质中负极产物是氢氧化锌，不写锌离子。",
+		"seconds": 6.072
+	},
+	"le1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，铅酸蓄电池：二次电池，可以充电。负极铅，正极二氧化铅，电解质硫酸。",
+		"seconds": 8.928
+	},
+	"le2": {
+		"key": "zh-CN-XiaoxiaoNeural|放电时负极：铅加硫酸根失去两个电子生成硫酸铅；正极：二氧化铅加四个氢离子加硫酸根得到两个电子，生成硫酸铅和两个水。",
+		"seconds": 13.152
+	},
+	"le3": {
+		"key": "zh-CN-XiaoxiaoNeural|总反应：铅加二氧化铅加两个硫酸，放电生成两个硫酸铅和两个水，充电时反过来。",
+		"seconds": 8.376
+	},
+	"le4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：放电时两极都生成难溶的硫酸铅，两极质量都增加；硫酸被消耗，浓度减小，溶液pH增大。",
+		"seconds": 10.176
+	},
+	"cg1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，充电：二次电池接外电源，变成电解池。",
+		"seconds": 5.496
+	},
+	"cg2": {
+		"key": "zh-CN-XiaoxiaoNeural|连接规则：电池的正极接电源正极，负极接电源负极。所以充电时，原来的正极变成阳极，原来的负极变成阴极。",
+		"seconds": 11.736
+	},
+	"cg2b": {
+		"key": "zh-CN-XiaoxiaoNeural|棕发女孩高高举着一块空白牌子，上面像写着：正接正，负接负！",
+		"seconds": 6.6
+	},
+	"cg3": {
+		"key": "zh-CN-XiaoxiaoNeural|充电时的电极反应是放电反应的逆过程：阳极硫酸铅加两个水失去两个电子，生成二氧化铅、四个氢离子和硫酸根。",
+		"seconds": 11.424
+	},
+	"cg4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：写充电时的电极反应，把放电时同一个电极的反应反过来写，得失电子也反过来。",
+		"seconds": 8.64
+	},
+	"fu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，燃料电池：燃料在负极失电子，氧气在正极得电子。燃料不燃烧，能量转化率高。",
+		"seconds": 9.456
+	},
+	"fu2": {
+		"key": "zh-CN-XiaoxiaoNeural|氢氧燃料电池，酸性电解质：负极氢气失去两个电子生成两个氢离子；正极氧气加四个氢离子得到四个电子生成两个水。",
+		"seconds": 11.88
+	},
+	"fu3": {
+		"key": "zh-CN-XiaoxiaoNeural|碱性电解质：负极氢气加两个氢氧根失去两个电子生成两个水；正极氧气加两个水得到四个电子生成四个氢氧根。",
+		"seconds": 11.04
+	},
+	"fu4": {
+		"key": "zh-CN-XiaoxiaoNeural|甲烷燃料电池，碱性：甲烷加十个氢氧根失去八个电子，生成碳酸根和七个水，碳元素以碳酸根形式存在，不放出二氧化碳。",
+		"seconds": 12.264
+	},
+	"fu5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碱性燃料电池工作一段时间后，氢氧化钾被消耗或稀释，溶液pH减小。",
+		"seconds": 8.016
+	},
+	"ml1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，熔融电解质，课本没有，考试常用。熔融碳酸盐：传导碳酸根。正极氧气加两个二氧化碳得到四个电子，生成两个碳酸根。",
+		"seconds": 13.68
+	},
+	"ml2": {
+		"key": "zh-CN-XiaoxiaoNeural|负极氢气加碳酸根失去两个电子，生成水和二氧化碳。正极要通入二氧化碳，负极产生的二氧化碳可以循环。",
+		"seconds": 11.088
+	},
+	"ml3": {
+		"key": "zh-CN-XiaoxiaoNeural|固体氧化物：传导氧离子。正极氧气得到四个电子生成两个氧离子；负极氢气加氧离子失去两个电子生成水。",
+		"seconds": 11.208
+	},
+	"ml3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩站在音箱前抱着吉他：电解质换了，补的离子就跟着换，酸补氢离子、碱补氢氧根、熔融补碳酸根或氧离子。",
+		"seconds": 11.568
+	},
+	"ml4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：先看电解质里能移动的是什么离子，电极反应式就用它来配平电荷。",
+		"seconds": 7.872
+	},
+	"li1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，锂离子电池，北京卷常考新型电池：放电时锂离子从负极脱嵌，经电解质移到正极嵌入。",
+		"seconds": 10.08
+	},
+	"li2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：负极锂x碳六失去x个电子，生成x个锂离子和六个碳；正极锂一减x钴氧二，加x个锂离子和x个电子，生成钴酸锂。",
+		"seconds": 13.368
+	},
+	"li2b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿恐龙连帽衫的粉发女孩张牙舞爪：锂离子就像钻进帽子又钻出来，在两极之间来回嵌入和脱嵌。",
+		"seconds": 9.696
+	},
+	"li3": {
+		"key": "zh-CN-XiaoxiaoNeural|充电时反过来：锂离子从正极脱出，移回负极。所以也叫摇椅电池。",
+		"seconds": 7.296
+	},
+	"li4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：锂电池不能用水溶液作电解质，因为锂会与水反应；锂离子在放电时移向正极。",
+		"seconds": 8.784
+	},
+	"me1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，新型电池的解题方法。第一步，找化合价变化：化合价升高的物质所在的电极是负极。",
+		"seconds": 9.792
+	},
+	"me2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，看电解质和离子移动方向：阳离子移向正极，阴离子移向负极；有交换膜的，看允许什么离子通过。",
+		"seconds": 10.176
+	},
+	"me3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，写电极反应：失电子写负极，得电子写正极，用电解质中的离子配平电荷。",
+		"seconds": 8.568
+	},
+	"me4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断放电时某电极附近pH怎么变，看这个电极反应消耗还是生成氢离子或氢氧根。",
+		"seconds": 9.744
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：铅酸蓄电池放电，负极质量减小？错，两极质量都增加。判断二：充电时正极接电源正极？对。",
+		"seconds": 12.048
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：碱性氢氧燃料电池正极消耗氢离子？错，碱性中生成氢氧根。判断四：碱性甲烷燃料电池放出二氧化碳？错，生成碳酸根。",
+		"seconds": 14.952
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：锂离子放电时移向正极？对。判断六：锂电池能用水溶液？错，锂会和水反应。",
+		"seconds": 10.512
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|正接正负接负，电解质定补什么离子。下一期：电解原理。",
+		"seconds": 6.48
+	}
+}

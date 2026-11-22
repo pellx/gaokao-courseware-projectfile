@@ -1,0 +1,126 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修二第六章第三节的下半部分——隔离与物种的形成。",
+		"seconds": 8.256
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考物种的判断、两种隔离、物种形成的过程，以及进化与新物种形成的区别。",
+		"seconds": 7.968
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，物种：能够在自然状态下相互交配并且产生可育后代的一群生物。",
+		"seconds": 7.344
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：马和驴能交配，产生骡，但骡不育，所以马和驴是两个物种。",
+		"seconds": 6.816
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断是否同一物种，看两点——能否自然交配，后代是否可育，缺一不可。",
+		"seconds": 8.496
+	},
+	"is1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，隔离：不同群体间的个体，在自然条件下基因不能自由交流的现象。",
+		"seconds": 7.464
+	},
+	"is2": {
+		"key": "zh-CN-XiaoxiaoNeural|地理隔离：同一种生物由于地理障碍，分成不同的种群，使种群间不能发生基因交流。",
+		"seconds": 8.424
+	},
+	"is3": {
+		"key": "zh-CN-XiaoxiaoNeural|生殖隔离：不同物种之间一般不能相互交配，即使交配成功，也不能产生可育的后代。",
+		"seconds": 8.496
+	},
+	"is4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：地理隔离的种群如果重新相遇，仍能交配产生可育后代；生殖隔离一旦形成，就不能再交流基因了。",
+		"seconds": 10.632
+	},
+	"pr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，物种形成的一般过程，以加拉帕戈斯群岛的地雀为例。南美洲的地雀迁到各个岛上，形成地理隔离。",
+		"seconds": 10.656
+	},
+	"pr2": {
+		"key": "zh-CN-XiaoxiaoNeural|各岛种群出现不同的突变和基因重组，彼此之间没有基因交流。",
+		"seconds": 6.6
+	},
+	"pr3": {
+		"key": "zh-CN-XiaoxiaoNeural|各岛的食物和环境不同，自然选择使各种群的基因频率向不同方向改变。",
+		"seconds": 7.032
+	},
+	"pr4": {
+		"key": "zh-CN-XiaoxiaoNeural|久而久之，各种群的基因库出现很大差异，最终形成生殖隔离，成为不同的物种。",
+		"seconds": 8.04
+	},
+	"pr5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：顺序是地理隔离，然后突变和重组加上自然选择，使基因库产生差异，最后形成生殖隔离。",
+		"seconds": 9.888
+	},
+	"ro1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，隔离的作用。隔离是物种形成的必要条件。",
+		"seconds": 5.496
+	},
+	"ro2": {
+		"key": "zh-CN-XiaoxiaoNeural|生殖隔离是新物种形成的标志。",
+		"seconds": 3.384
+	},
+	"ro3": {
+		"key": "zh-CN-XiaoxiaoNeural|突变和基因重组、自然选择和隔离，是物种形成的三个基本环节。",
+		"seconds": 6.336
+	},
+	"ro4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：地理隔离不是必要条件，生殖隔离才是；“隔离是必要条件”中的隔离，主要指生殖隔离。",
+		"seconds": 9.24
+	},
+	"pp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，多倍体可以不经过地理隔离，直接形成新物种。",
+		"seconds": 5.52
+	},
+	"pp2": {
+		"key": "zh-CN-XiaoxiaoNeural|例：二倍体西瓜经秋水仙素处理，得到四倍体西瓜。四倍体与二倍体杂交，后代是三倍体，三倍体不育。",
+		"seconds": 11.016
+	},
+	"pp3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以四倍体与二倍体之间存在生殖隔离，四倍体西瓜是一个新物种。",
+		"seconds": 7.152
+	},
+	"pp4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：这类物种形成速度快，没有经过地理隔离，但同样经过了生殖隔离。",
+		"seconds": 7.08
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，进化与物种形成的辨析。生物进化的标志是种群基因频率的改变。",
+		"seconds": 7.68
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|新物种形成的标志是生殖隔离的形成。",
+		"seconds": 4.032
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：进化不一定形成新物种，但新物种的形成一定发生了进化。比如桦尺蛾的黑色型增多，是进化，但没有形成新物种。",
+		"seconds": 12.336
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，骡不育，马和驴存在生殖隔离。判断二？对。",
+		"seconds": 7.656
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，多倍体可以不经地理隔离。判断四？错，进化不一定形成新物种。",
+		"seconds": 9.216
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？错，二者杂交的三倍体不育，是两个物种。",
+		"seconds": 8.016
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：生殖隔离是标志，进化不一定成新种。我们下期再见！",
+		"seconds": 7.872
+	}
+}

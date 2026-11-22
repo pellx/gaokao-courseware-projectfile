@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|分子间作用力、氢键与溶解性。",
+		"seconds": 3.384
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题经典设问“下列事实与氢键无关的是”，大题常让你解释熔沸点或溶解度的差异，共九个考点。",
+		"seconds": 9.504
+	},
+	"vd1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，范德华力。分子之间普遍存在的作用力，比化学键弱得多，影响物质的熔点、沸点等物理性质。",
+		"seconds": 10.248
+	},
+	"vd2": {
+		"key": "zh-CN-XiaoxiaoNeural|影响因素一：组成和结构相似的分子，相对分子质量越大，范德华力越大，熔沸点越高：氟气小于氯气小于溴小于碘，四氟化碳小于四氯化碳。",
+		"seconds": 13.944
+	},
+	"vd3": {
+		"key": "zh-CN-XiaoxiaoNeural|影响因素二：相对分子质量相近时，分子的极性越大，范德华力越大：一氧化碳比氮气的沸点略高。",
+		"seconds": 9.432
+	},
+	"vd4": {
+		"key": "zh-CN-XiaoxiaoNeural|再比如二氧化碳和二硫化碳：结构相似，二硫化碳的相对分子质量大，所以二硫化碳常温下是液体，二氧化碳是气体。",
+		"seconds": 11.688
+	},
+	"vd5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：范德华力只影响物理性质，不影响分子的稳定性和化学性质。",
+		"seconds": 6.768
+	},
+	"hb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，氢键。H与电负性很大、半径很小的原子相连时，H几乎变成裸露的质子，能和另一个分子中电负性大的原子相互吸引，这就是氢键。",
+		"seconds": 13.824
+	},
+	"hb2": {
+		"key": "zh-CN-XiaoxiaoNeural|能形成氢键的只有氢与氮、氧、氟相连的情况，表示为 X H 点点点 Y，虚线代表氢键。",
+		"seconds": 8.928
+	},
+	"hb2b": {
+		"key": "zh-CN-XiaoxiaoNeural|氢键就像这样搭着肩膀的两个人：不是一体的，却靠得很近，彼此牵制。",
+		"seconds": 6.768
+	},
+	"hb3": {
+		"key": "zh-CN-XiaoxiaoNeural|氢键的强度介于化学键和范德华力之间，而且有方向性和饱和性。",
+		"seconds": 6.552
+	},
+	"hb4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氢键不是化学键，属于分子间作用力；表示氢键时，虚线连的是氢和另一个分子中的氮、氧、氟。",
+		"seconds": 10.344
+	},
+	"it1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，分子间氢键使熔沸点升高。水、氟化氢、氨的沸点都比同主族其他氢化物反常地高。",
+		"seconds": 9.96
+	},
+	"it2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如第六A族：硫化氢、硒化氢、碲化氢的沸点随相对分子质量增大而升高，但水却最高。",
+		"seconds": 9.12
+	},
+	"it3": {
+		"key": "zh-CN-XiaoxiaoNeural|氨分子间有氢键，所以氨易液化，液氨可以作制冷剂。",
+		"seconds": 5.376
+	},
+	"it4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：解释“为什么水的沸点比硫化氢高”：水分子间存在氢键。",
+		"seconds": 6.312
+	},
+	"in_1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，分子内氢键使熔沸点降低。",
+		"seconds": 4.128
+	},
+	"in_2": {
+		"key": "zh-CN-XiaoxiaoNeural|邻羟基苯甲醛的羟基和醛基挨得很近，在分子内形成氢键；对羟基苯甲醛只能在分子间形成氢键。",
+		"seconds": 9.648
+	},
+	"in_3": {
+		"key": "zh-CN-XiaoxiaoNeural|分子间氢键让分子“抱团”，熔沸点高；分子内氢键“自己抱自己”，反而削弱了分子间作用，所以邻羟基苯甲醛的沸点比对羟基苯甲醛低。",
+		"seconds": 12.624
+	},
+	"in_4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：看见氢键不要一律说“沸点高”，要先判断是分子间还是分子内。",
+		"seconds": 6.888
+	},
+	"dn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，氢键对密度和生物大分子的影响。冰中每个水分子与周围4个水分子以氢键结合，形成有很多空隙的结构。",
+		"seconds": 11.424
+	},
+	"dn2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以冰的密度比水小，冰能浮在水面上；冰融化时，一部分氢键断裂，空隙变小，密度变大。",
+		"seconds": 9.408
+	},
+	"dn2b": {
+		"key": "zh-CN-XiaoxiaoNeural|冰比水还轻，所以刨冰上的冰沙会浮起来；这都是氢键撑出来的空隙。",
+		"seconds": 6.792
+	},
+	"dn3": {
+		"key": "zh-CN-XiaoxiaoNeural|DNA的两条链靠碱基之间的氢键配对；蛋白质的螺旋结构也有氢键参与。",
+		"seconds": 7.248
+	},
+	"dn4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：解释冰的密度比水小。答题方法：冰中水分子间以氢键结合，氢键有方向性，使冰中水分子间空隙较大，密度较小。",
+		"seconds": 12.792
+	},
+	"so1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，溶解性。规律一：“相似相溶”：非极性溶质易溶于非极性溶剂，极性溶质易溶于极性溶剂。",
+		"seconds": 10.344
+	},
+	"so2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如碘是非极性分子，在四氯化碳中的溶解度比在水中大得多。",
+		"seconds": 6.72
+	},
+	"so2b": {
+		"key": "zh-CN-XiaoxiaoNeural|相似相溶，就像同款发圈的两个人：性质相近的物质，才更容易“走到一起”。",
+		"seconds": 7.032
+	},
+	"so3": {
+		"key": "zh-CN-XiaoxiaoNeural|规律二：溶质和水分子之间能形成氢键，溶解度增大：氨极易溶于水，而磷化氢不能。",
+		"seconds": 8.712
+	},
+	"so4": {
+		"key": "zh-CN-XiaoxiaoNeural|规律三：能与水反应的，溶解度增大，比如二氧化硫、氨。还有，醇的碳链越长，在水中的溶解度越小。",
+		"seconds": 10.68
+	},
+	"so5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：解释溶解度差异，按“极性是否相似 → 能否与水形成氢键 → 能否与水反应”逐条检查。",
+		"seconds": 9
+	},
+	"ur1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，与氢键无关的事实。氢键影响的是熔沸点、溶解度、密度等物理性质。",
+		"seconds": 8.064
+	},
+	"ur2": {
+		"key": "zh-CN-XiaoxiaoNeural|而分子的热稳定性由共价键的键能决定：氟化氢比氯化氢稳定、水比硫化氢稳定，都和氢键无关。",
+		"seconds": 9.576
+	},
+	"ur3": {
+		"key": "zh-CN-XiaoxiaoNeural|还有：氟化氢的酸性比氯化氢弱、甲烷的沸点很低，也都和氢键无关。",
+		"seconds": 7.008
+	},
+	"ur4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：“下列事实与氢键无关的是”，选项里找稳定性的那一个。",
+		"seconds": 6.024
+	},
+	"nm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，规范表述。比较熔沸点，按三步写。第一步：指出作用力的类型，有没有氢键。",
+		"seconds": 9.456
+	},
+	"nm2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步：比较作用力的强弱：氢键比范德华力强；没有氢键时，比相对分子质量和分子极性。",
+		"seconds": 9.336
+	},
+	"nm3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步：得出熔沸点或溶解性的结论。",
+		"seconds": 4.08
+	},
+	"nm4": {
+		"key": "zh-CN-XiaoxiaoNeural|例：水的沸点比硫化氢高，原因是水分子间存在氢键，而硫化氢分子间只有范德华力，氢键比范德华力强。",
+		"seconds": 10.992
+	},
+	"nm5": {
+		"key": "zh-CN-XiaoxiaoNeural|答题模板：作用力类型 → 强弱比较 → 结论，三步缺一步就可能扣分。",
+		"seconds": 6.528
+	},
+	"tp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，易错辨析。第一句：“氢键是一种化学键。”错，氢键是分子间作用力。",
+		"seconds": 8.496
+	},
+	"tp2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二句：“含有氢的分子之间都能形成氢键。”错，甲烷分子间就没有氢键，氢必须连氮、氧、氟。",
+		"seconds": 9.72
+	},
+	"tp3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三句：“氟化氢的氢键比水强，所以氟化氢的沸点比水高。”错，水的沸点更高：每个水分子平均形成的氢键更多。",
+		"seconds": 11.616
+	},
+	"tp4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四句：“邻羟基苯甲醛的沸点比对羟基苯甲醛高。”错，分子内氢键使沸点降低。",
+		"seconds": 8.592
+	},
+	"tp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：氢键看有没有、看分子间还是分子内、看数目多少。",
+		"seconds": 6.12
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：氢键是一种化学键？错。判断二：氨易液化与氢键有关？对。",
+		"seconds": 8.688
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：水比硫化氢稳定是因为有氢键？错，看键能。判断四：邻羟基苯甲醛的沸点低于对羟基苯甲醛？对。",
+		"seconds": 12.168
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：冰的密度比水小与氢键有关？对。判断六：碘在水中的溶解度比在四氯化碳中大？错。",
+		"seconds": 11.184
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|氢键管物理性质，键能管稳定性，相似相溶看极性。下一期：晶体的常识与晶胞。",
+		"seconds": 8.544
+	}
+}

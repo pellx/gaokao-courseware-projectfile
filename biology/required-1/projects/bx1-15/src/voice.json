@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版必修一第五章第一节的下半部分——酶的特性。",
+		"seconds": 7.344
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考酶特性的实验设计、温度和P H的影响曲线，以及实验材料和检测试剂的选择。",
+		"seconds": 8.736
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"ef1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，高效性。酶的催化效率大约是无机催化剂的十的七次方到十的十三次方倍。",
+		"seconds": 8.424
+	},
+	"ef2": {
+		"key": "zh-CN-XiaoxiaoNeural|证明高效性，要用酶和无机催化剂作对照，比如过氧化氢酶和氯化铁。",
+		"seconds": 7.392
+	},
+	"ef3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：酶与无机催化剂比较才体现高效性；酶与不加催化剂比较，只能说明酶有催化作用。",
+		"seconds": 8.928
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，专一性。每一种酶只能催化一种或一类化学反应。",
+		"seconds": 6.312
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验：用淀粉酶分别作用于淀粉和蔗糖，再用斐林试剂检测——淀粉组出现砖红色沉淀，蔗糖组没有。",
+		"seconds": 10.128
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这个实验不能用碘液检测，因为碘液无法检测蔗糖是否被水解。",
+		"seconds": 7.176
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：验证专一性，可以同一种酶、不同底物，也可以同一种底物、不同的酶。",
+		"seconds": 7.776
+	},
+	"md1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，酶的作用条件较温和。酶需要适宜的温度和P H，在最适温度和最适P H下活性最高。",
+		"seconds": 9.744
+	},
+	"md2": {
+		"key": "zh-CN-XiaoxiaoNeural|过酸、过碱或温度过高，会使酶的空间结构遭到破坏，使酶永久失活。",
+		"seconds": 7.152
+	},
+	"md3": {
+		"key": "zh-CN-XiaoxiaoNeural|低温只是抑制酶的活性，酶的空间结构稳定，温度适宜时活性可以恢复。",
+		"seconds": 7.008
+	},
+	"md4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：酶适宜在低温下保存。易错：低温不会使酶变性失活。",
+		"seconds": 6.744
+	},
+	"tm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，温度对酶活性的影响。在一定范围内，随温度升高，酶活性增强；超过最适温度后，酶活性降低。",
+		"seconds": 10.776
+	},
+	"tm2": {
+		"key": "zh-CN-XiaoxiaoNeural|低温时酶活性很低，但没有失活；温度过高，酶会变性失活，曲线降到零。",
+		"seconds": 7.488
+	},
+	"tm3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：同一活性对应两个温度时，高温一侧的酶已部分失活，降回最适温度，活性也不能恢复到最高；低温一侧可以恢复。",
+		"seconds": 11.952
+	},
+	"ph1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，P H对酶活性的影响。每种酶都有最适P H，偏离最适P H，酶活性都会降低。",
+		"seconds": 9.528
+	},
+	"ph2": {
+		"key": "zh-CN-XiaoxiaoNeural|过酸、过碱都会使酶变性失活，所以曲线两端都降到零。",
+		"seconds": 6.144
+	},
+	"ph3": {
+		"key": "zh-CN-XiaoxiaoNeural|不同的酶最适P H不同：胃蛋白酶的最适P H约为一点五，动物体内的酶最适P H大多在六点五到八之间。",
+		"seconds": 11.016
+	},
+	"ph4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：P H从过碱调回最适，酶活性不能恢复；改变温度不影响酶的最适P H。",
+		"seconds": 8.664
+	},
+	"te1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，探究温度对酶活性的影响。常用淀粉和淀粉酶，用碘液检测淀粉的剩余量。",
+		"seconds": 8.448
+	},
+	"te2": {
+		"key": "zh-CN-XiaoxiaoNeural|要先把酶和底物分别保温到相应温度，再混合，保证反应一开始就在设定的温度下进行。",
+		"seconds": 8.496
+	},
+	"te3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能用斐林试剂检测，因为它要水浴加热，会改变温度；也不能用过氧化氢酶，因为过氧化氢受热本身会分解。",
+		"seconds": 11.112
+	},
+	"pe1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，探究P H对酶活性的影响。常用过氧化氢和过氧化氢酶，观察气泡产生的多少。",
+		"seconds": 9.768
+	},
+	"pe2": {
+		"key": "zh-CN-XiaoxiaoNeural|要先用不同P H的缓冲液处理酶，再与底物混合。",
+		"seconds": 4.92
+	},
+	"pe3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：一般不用淀粉和淀粉酶，因为淀粉在酸性条件下也会水解，干扰实验结果。",
+		"seconds": 8.184
+	},
+	"sb1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，底物浓度和酶浓度的影响。底物浓度增大，反应速率先增大，后来受酶浓度限制，不再增加。",
+		"seconds": 10.464
+	},
+	"sb2": {
+		"key": "zh-CN-XiaoxiaoNeural|在底物充足时，反应速率与酶浓度成正比；酶浓度提高，曲线的平台也随之升高。",
+		"seconds": 8.088
+	},
+	"sb3": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：曲线拐点之前，限制因素是横坐标表示的因素；拐点之后，限制因素是其他因素，比如酶的数量。",
+		"seconds": 10.656
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一？错，要和无机催化剂对照。判断二？错，碘液检测不了蔗糖是否水解。",
+		"seconds": 9.264
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三？错，低温只是抑制。判断四？错，过氧化氢受热会分解。",
+		"seconds": 8.352
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五？对。判断六？对。",
+		"seconds": 4.68
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：高温、过酸、过碱使酶失活，低温只是抑制。我们下期再见！",
+		"seconds": 8.616
+	}
+}

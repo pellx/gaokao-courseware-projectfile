@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Apply: React.FC = () => <AutoScene k="apply" d={{"tag": "考点七", "title": "水解的应用", "blocks": [{"t": "table", "at": "ap2", "head": ["溶液", "蒸干（灼烧）得到", "原因"], "cols": "1.2fr 1.4fr 1.6fr", "rows": [{"at": "ap2", "cells": ["FeCl3、AlCl3", "{Fe2O3、Al2O3}", "HCl 挥发"]}, {"at": "ap2", "cells": ["MgCl2（HCl 气流中）", "{无水 MgCl2}", "抑制水解"]}, {"at": "ap3", "cells": ["Al2(SO4)3、Na2CO3", "原物质", "酸或碱不挥发"]}, {"at": "ap4", "cells": ["Na2SO3", "{Na2SO4|orange}", "被氧化"]}], "size": 29, "rowHeight": 58}, {"t": "text", "at": "ap1", "text": "配制 FeCl3 溶液：溶于{浓盐酸}再稀释；明矾净水：Al(OH)3 胶体", "size": 31}], "callout": {"label": "解题方法", "at": "ap4", "text": "看水解生成的酸{挥不挥发}，还要想会不会被氧化"}, "beat": {"k": "melt", "at": "ap3b", "text": "蒸干 FeCl3\nHCl {跑掉了|red}"}}} />;

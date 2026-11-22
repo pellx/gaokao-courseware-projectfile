@@ -1,0 +1,37 @@
+{
+	"id": "XB2-01",
+	"title": "种群的数量特征",
+	"subject": "biology",
+	"book": "人教版·选择性必修2·第1章",
+	"points": ["种群密度", "样方法", "标记重捕法", "其他调查方法", "出生率和迁入率", "年龄结构", "性别比例", "数量特征的关系"],
+	"intro": {
+		"badge": "高考生物 · 人教版选择性必修2",
+		"title": [["种群的"], ["数量特征", true]],
+		"subtitle": "种群密度 · 调查方法 · 年龄结构",
+		"photo": "quadrat.jpg",
+		"photoCaption": "调查植物种群密度用的样方框",
+		"photoPos": "center 45%"
+	},
+	"cover": {
+		"badge": "高考生物",
+		"title": [[["种群的"]], [["数量特征", true]]],
+		"photo": "quadrat.jpg",
+		"photoPos": "center 45%",
+		"photoTag": "样方框",
+		"credit": "Photo: Yohan euan o4, CC BY-SA 3.0"
+	},
+	"review": {
+		"items": [
+			{"q": "一个池塘中的全部鱼是一个种群", "ok": false, "fix": "包含多个物种，不是一个种群"},
+			{"q": "种群密度是种群最基本的数量特征", "ok": true, "fix": ""},
+			{"q": "调查蚜虫、跳蝻的密度用标记重捕法", "ok": false, "fix": "活动能力弱，用样方法"},
+			{"q": "标记物脱落会使估算值偏大", "ok": true, "fix": ""},
+			{"q": "年龄结构为稳定型，数量一定稳定", "ok": false, "fix": "还受气候、食物、天敌等影响"},
+			{"q": "诱杀雄虫通过改变性别比例降低出生率", "ok": true, "fix": ""}
+		],
+		"endTitle": [["种群的"], ["数量特征", true]],
+		"endLine": "种群密度 · 调查方法 · 出生率死亡率 · 年龄结构 · 性别比例",
+		"slogan": "直接决定看四率，预测趋势看年龄！"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Yohan euan o4《Quadrat sample》CC BY-SA 3.0"
+}

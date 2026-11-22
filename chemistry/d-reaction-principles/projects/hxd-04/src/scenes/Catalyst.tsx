@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Catalyst: React.FC = () => <AutoScene k="cat" d={{"tag": "考点四", "title": "催化剂与中间体", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "催化剂", "at": "ca1", "text": "{先消耗、后生成}", "c": "red", "size": 34}]}, {"blocks": [{"t": "rule", "tag": "中间体", "at": "ca2", "text": "{先生成、后消耗|orange}", "c": "orange", "size": 34}]}]}, {"t": "panel", "title": "例：H2O2 分解，加入 I^-", "at": "ca3", "lines": ["① H2O2 + {I^-} = H2O + {IO^-|orange}", "② H2O2 + {IO^-|orange} = H2O + O2 + {I^-}", "{I^-} 是催化剂，{IO^-|orange} 是中间体"], "c": "orange", "size": 32}], "callout": {"label": "易错", "at": "ca4", "text": "催化剂{参与反应}，只是前后质量和化学性质不变"}, "beat": {"k": "think", "at": "ca3b", "text": "始终在、最后回来：{催化剂|red}\n半路出现又消失：{中间体|orange}"}}} />;

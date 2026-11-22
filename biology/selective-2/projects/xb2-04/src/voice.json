@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修二第二章第一节——群落的结构。",
+		"seconds": 7.296
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考种间关系的判断与曲线、群落的垂直结构和水平结构、生态位，以及土壤小动物类群丰富度的调查。",
+		"seconds": 10.584
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按八个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.52
+	},
+	"cp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，群落的物种组成。在相同时间聚集在一定地域中各种生物种群的集合，叫做生物群落，简称群落。",
+		"seconds": 10.56
+	},
+	"cp2": {
+		"key": "zh-CN-XiaoxiaoNeural|群落的物种组成是区别不同群落的重要特征，也决定了群落的性质。",
+		"seconds": 6.432
+	},
+	"cp3": {
+		"key": "zh-CN-XiaoxiaoNeural|一个群落中的物种数目，称为物种丰富度。一般越靠近热带地区，物种丰富度越高。",
+		"seconds": 8.064
+	},
+	"cp4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：物种丰富度说的是物种数目的多少，不是某种生物个体数目的多少；群落包括这一地域的全部生物，动物、植物、微生物都算。",
+		"seconds": 12.48
+	},
+	"dm1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，优势种。在群落中，有些物种数量很多，对群落中其他物种的影响很大，它们就是优势种。",
+		"seconds": 9.768
+	},
+	"dm2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如森林群落中的高大乔木，决定了林下的光照和湿度，影响着林下植物和动物的生存。",
+		"seconds": 8.16
+	},
+	"dm3": {
+		"key": "zh-CN-XiaoxiaoNeural|群落中的物种组成不是固定不变的，随着时间和环境的变化，原来的优势种可能逐渐失去优势。",
+		"seconds": 8.952
+	},
+	"dm4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：优势种不只看数量多，还要看对其他物种的影响大；数量多但影响小的物种，不是优势种。",
+		"seconds": 9.384
+	},
+	"rl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，种间关系。高考要求掌握五种。",
+		"seconds": 4.776
+	},
+	"rl2": {
+		"key": "zh-CN-XiaoxiaoNeural|原始合作：两种生物共同生活在一起，双方都受益，但分开后各自也能独立生活，比如海葵和寄居蟹。",
+		"seconds": 10.32
+	},
+	"rl3": {
+		"key": "zh-CN-XiaoxiaoNeural|互利共生：两种生物长期共同生活在一起，相互依存，分开后至少一方不能独立生活，比如豆科植物和根瘤菌。",
+		"seconds": 11.064
+	},
+	"rl4": {
+		"key": "zh-CN-XiaoxiaoNeural|种间竞争：争夺相同的资源和空间，比如大草履虫和双小核草履虫；捕食：一种生物以另一种生物为食。",
+		"seconds": 10.44
+	},
+	"rl5": {
+		"key": "zh-CN-XiaoxiaoNeural|寄生：一种生物从另一种生物的体内或体表摄取养分，比如蛔虫和人、噬菌体和细菌。",
+		"seconds": 8.544
+	},
+	"rl6": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：原始合作和互利共生的区别，就看分开后能不能独立生活。",
+		"seconds": 6.672
+	},
+	"cv1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，种间关系曲线。高考常给出两种生物数量随时间变化的曲线，让你判断关系。",
+		"seconds": 8.952
+	},
+	"cv2": {
+		"key": "zh-CN-XiaoxiaoNeural|互利共生：两条曲线同步变化，同增同减，“同生共死”。",
+		"seconds": 5.904
+	},
+	"cv3": {
+		"key": "zh-CN-XiaoxiaoNeural|捕食：两条曲线不同步地周期性波动，先增先减的是被捕食者。",
+		"seconds": 6.576
+	},
+	"cv4": {
+		"key": "zh-CN-XiaoxiaoNeural|种间竞争：一种数量增加，另一种减少，甚至被淘汰，呈现“此消彼长”。",
+		"seconds": 7.032
+	},
+	"cv5": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：同步变化是互利共生，交替波动是捕食，此消彼长是竞争。",
+		"seconds": 7.152
+	},
+	"sp1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，群落的空间结构，包括垂直结构和水平结构。",
+		"seconds": 5.736
+	},
+	"sp2": {
+		"key": "zh-CN-XiaoxiaoNeural|垂直结构：在垂直方向上，大多数群落都具有明显的分层现象。植物的分层主要与对光的利用有关。",
+		"seconds": 9.936
+	},
+	"sp3": {
+		"key": "zh-CN-XiaoxiaoNeural|植物分层为动物创造了多种多样的栖息空间和食物条件，所以动物也有分层现象。",
+		"seconds": 7.92
+	},
+	"sp4": {
+		"key": "zh-CN-XiaoxiaoNeural|水平结构：由于地形变化、土壤湿度和盐碱度的差异、光照强度不同等因素，生物常呈镶嵌分布。",
+		"seconds": 9.72
+	},
+	"sp5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：竹林中的竹子高低错落，不是群落的垂直结构，因为竹子是一个种群；空间结构是群落的特征。",
+		"seconds": 9.768
+	},
+	"ss1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，群落的季节性。由于阳光、温度和水分等随季节而变化，群落的外貌和结构也会随之发生有规律的变化。",
+		"seconds": 11.256
+	},
+	"ss2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如，一些草原植物在春季发芽开花、秋季枯黄；候鸟在不同季节迁来迁去。",
+		"seconds": 8.04
+	},
+	"ss3": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：季节性是群落的特征，常和空间结构一起考。答题时说清环境因素随季节变化，导致群落的外貌和结构随之变化。",
+		"seconds": 12.624
+	},
+	"nc1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，生态位。一个物种在群落中的地位或作用，包括所处的空间位置、占用资源的情况，以及与其他物种的关系。",
+		"seconds": 11.28
+	},
+	"nc2": {
+		"key": "zh-CN-XiaoxiaoNeural|研究植物的生态位：出现频率、种群密度、植株高度，以及与其他物种的关系。",
+		"seconds": 7.536
+	},
+	"nc3": {
+		"key": "zh-CN-XiaoxiaoNeural|研究动物的生态位：栖息地、食物、天敌，以及与其他物种的关系。",
+		"seconds": 6.6
+	},
+	"nc4": {
+		"key": "zh-CN-XiaoxiaoNeural|两个物种的生态位重叠越多，对资源的争夺就越激烈，种间竞争越强。",
+		"seconds": 6.912
+	},
+	"nc5": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：群落中每种生物都占据着相对稳定的生态位，有利于不同生物充分利用环境资源，这是协同进化的结果。",
+		"seconds": 10.728
+	},
+	"so1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，研究土壤中小动物类群的丰富度。土壤小动物活动能力较强、身体微小，不适合用样方法和标记重捕法。",
+		"seconds": 11.256
+	},
+	"so2": {
+		"key": "zh-CN-XiaoxiaoNeural|常用取样器取样的方法进行采集和调查。",
+		"seconds": 4.2
+	},
+	"so3": {
+		"key": "zh-CN-XiaoxiaoNeural|统计丰富度有两种方法：记名计算法，用于个体较大、种群数量有限的物种；目测估计法，按预先确定的多度等级来估计。",
+		"seconds": 11.4
+	},
+	"so4": {
+		"key": "zh-CN-XiaoxiaoNeural|用诱虫器采集时，利用了土壤小动物趋暗、趋湿、避高温的特点；体型较小的，可以用吸虫器采集。",
+		"seconds": 9.528
+	},
+	"so5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：诱虫器上方的电灯是为了驱赶小动物向下进入收集瓶，不是利用趋光性；收集瓶中通常加入体积分数为70%的酒精。",
+		"seconds": 12.336
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：物种组成是区别不同群落的重要特征？对。判断二：物种丰富度指某种生物的个体数目？错，指物种数目。",
+		"seconds": 12.624
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：豆科植物与根瘤菌是原始合作？错，是互利共生。判断四：竹子高低错落体现垂直结构？错，竹子是一个种群。",
+		"seconds": 13.464
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：生态位重叠越多，竞争越激烈？对。判断六：诱虫器利用了趋光性？错，利用趋暗、趋湿、避高温。",
+		"seconds": 12.336
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|八个考点串成一条线：种间关系看曲线，生态位看资源。我们下期再见！",
+		"seconds": 7.632
+	}
+}

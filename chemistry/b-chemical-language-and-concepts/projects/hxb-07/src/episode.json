@@ -1,0 +1,121 @@
+{
+	"id": "HXB-07",
+	"title": "物质的量、摩尔质量与气体摩尔体积",
+	"subject": "chemistry",
+	"book": "化学语言与基本概念 · 第7期 / 共12期",
+	"points": [
+		"物质的量与NA",
+		"摩尔质量",
+		"气体摩尔体积",
+		"阿伏加德罗定律",
+		"微粒数的计算",
+		"以n为中心的换算"
+	],
+	"intro": {
+		"badge": "高考化学 · 化学语言与基本概念",
+		"title": [
+			[
+				"物质的量",
+				true
+			],
+			[
+				"、摩尔质量与气体摩尔体积"
+			]
+		],
+		"subtitle": "n · M · Vm · 阿伏加德罗定律",
+		"photo": "avogadro.png",
+		"photoCaption": "阿伏加德罗：提出分子假说",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考化学",
+		"title": [
+			[
+				[
+					"物质的量",
+					true
+				]
+			],
+			[
+				[
+					"与气体摩尔体积"
+				]
+			]
+		],
+		"photo": "avogadro.png",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "阿伏加德罗",
+		"credit": "PD",
+		"clean": true
+	},
+	"review": {
+		"items": [
+			{
+				"q": "1 mol 任何物质都含有 6.02×10^23 个分子",
+				"ok": false,
+				"fix": "有的物质由原子或离子构成"
+			},
+			{
+				"q": "H2SO4 的摩尔质量是 98 g",
+				"ok": false,
+				"fix": "单位是 g/mol"
+			},
+			{
+				"q": "标准状况下，22.4 L H2O 的物质的量为 1 mol",
+				"ok": false,
+				"fix": "标况下水不是气体"
+			},
+			{
+				"q": "同温同压下，相同体积的 O2 和 N2 分子数相同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "1 mol Na2O2 中含 2 mol 阴离子",
+				"ok": false,
+				"fix": "阴离子是 O2^2-，只有 1 mol"
+			},
+			{
+				"q": "32 g O2 与 O3 的混合气体中含 2 mol 氧原子",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"物质的量",
+				true
+			],
+			[
+				"、摩尔质量与气体摩尔体积"
+			]
+		],
+		"endLine": "一切换成 n，标况气体才用 22.4",
+		"slogan": "一切换成 n，标况气体才用 22.4"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Amadeo Avogadro》，公有领域；插图来自 pixiv：kikuchiyo、Yuyumi、ども＠ムギとピクトさん（侵删）",
+	"anime": [
+		{
+			"key": "box",
+			"src": "box.jpg",
+			"credit": "插图：kikuchiyo《コアラのマーチ》pixiv #135007570",
+			"url": "https://www.pixiv.net/artworks/135007570"
+		},
+		{
+			"key": "balloon",
+			"src": "balloon.jpg",
+			"credit": "插图：Yuyumi《Yui Funami birthday 2022!!》pixiv #97810499",
+			"url": "https://www.pixiv.net/artworks/97810499"
+		},
+		{
+			"key": "crowd",
+			"src": "crowd.jpg",
+			"credit": "插图：ども＠ムギとピクトさん《後藤n人》pixiv #103740033",
+			"url": "https://www.pixiv.net/artworks/103740033"
+		}
+	]
+}

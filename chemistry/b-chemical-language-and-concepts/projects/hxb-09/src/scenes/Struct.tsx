@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Struct: React.FC = () => <AutoScene k="struct" d={{"tag": "考点八", "title": "结构式、结构简式与键线式", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "mark", "ok": true, "at": "st1", "text": "乙烯：{CH2=CH2}", "size": 32}]}, {"blocks": [{"t": "mark", "ok": false, "at": "st1", "text": "乙烯：CH2CH2（漏写双键）", "size": 32}]}]}, {"t": "row", "cols": [{"blocks": [{"t": "mark", "ok": true, "at": "st2", "text": "乙醛：CH3{CHO}", "size": 32}]}, {"blocks": [{"t": "mark", "ok": false, "at": "st2", "text": "乙醛：CH3COH", "size": 32}]}]}, {"t": "table", "at": "st3", "head": ["乙醇", "写法"], "cols": "1fr 2fr", "rows": [{"at": "st3", "cells": ["分子式", "C2H6O"]}, {"at": "st3", "cells": ["结构简式", "{C2H5OH} 或 CH3CH2OH"]}], "size": 32, "rowHeight": 62}], "callout": {"label": "易错", "at": "st4", "text": "问的是哪种用语就写哪种：{分子式 ≠ 结构简式}"}, "beat": {"k": "yay", "at": "st3b", "text": "写对了！\n{官能团要看得出来|red}"}}} />;

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Vt: React.FC = () => <AutoScene k="vt" d={{"tag": "考点六", "title": "铁的价类二维图", "blocks": [{"t": "table", "at": "vt1", "head": ["价态", "单质", "氧化物", "氢氧化物", "盐"], "cols": "0.8fr 1fr 1.3fr 1.3fr 1.3fr", "rows": [{"at": "vt1", "cells": ["{+3}", "—", "Fe2O3", "Fe(OH)3", "FeCl3、Fe2(SO4)3"]}, {"at": "vt1", "cells": ["{+2|orange}", "—", "FeO", "Fe(OH)2", "FeCl2、FeSO4"]}, {"at": "vt1", "cells": ["0", "Fe", "—", "—", "—"]}], "size": 32, "rowHeight": 72}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "横着走", "at": "vt2", "text": "价态不变：{复分解、酸碱反应}", "c": "orange", "size": 30}]}, {"blocks": [{"t": "rule", "tag": "竖着走", "at": "vt3", "text": "价态变化：{氧化还原}", "c": "red", "size": 30}]}]}], "callout": {"label": "解题方法", "at": "vt4", "text": "先看{价态变没变}：变了找氧化剂或还原剂，没变找酸或碱"}}} />;

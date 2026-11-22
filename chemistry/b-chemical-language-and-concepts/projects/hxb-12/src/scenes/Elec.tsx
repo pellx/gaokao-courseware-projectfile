@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Elec: React.FC = () => <AutoScene k="elec" d={{"tag": "考点二", "title": "用电子守恒建立关系式", "blocks": [{"t": "chain", "steps": [{"at": "el2", "text": "Cu + 浓 HNO3"}, {"at": "el2", "text": "NO2、NO"}, {"at": "el2", "text": "+ O2 + H2O\n→ HNO3"}], "arrows": ["", ""], "center": true, "size": 34}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "N", "at": "el3", "text": "+5 → 降 → 又升回 +5：{等于没变}", "c": "muted", "size": 30}]}]}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "失", "at": "el3", "text": "Cu：0 → +2，失 2e^-", "c": "red", "size": 32}]}, {"blocks": [{"t": "rule", "tag": "得", "at": "el3", "text": "O2：0 → −2，得 4e^-", "c": "orange", "size": 32}]}]}, {"t": "big", "at": "el3", "text": "{2n(Cu) = 4n(O2)}", "size": 46}], "callout": {"label": "易错", "at": "el4", "text": "中间物质不用算，找出{价态真正变了的元素}"}}} />;

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Steps: React.FC = () => <AutoScene k="steps" d={{"tag": "考点四", "title": "配制步骤", "blocks": [{"t": "chain", "steps": [{"at": "st1", "text": "计算"}, {"at": "st1", "text": "称量"}, {"at": "st2", "text": "溶解\n{冷却}", "c": "orange"}, {"at": "st2", "text": "转移\n引流", "c": "orange"}, {"at": "st3", "text": "洗涤\n{2～3 次}", "c": "red"}, {"at": "st4", "text": "定容\n{胶头滴管}", "c": "red"}, {"at": "st4", "text": "摇匀"}], "arrows": [], "center": true, "size": 30, "gap": 10}, {"t": "text", "at": "st4", "text": "离刻度线 1～2 cm 改用胶头滴管，凹液面最低处与刻度线{相切}", "size": 32, "center": true}], "callout": {"label": "易错", "at": "st5", "text": "配 480 mL：选 500 mL 容量瓶，{按 500 mL 计算}"}, "beat": {"k": "apron", "at": "st4b", "text": "照菜谱做菜\n{顺序不能乱|red}\n一步不能省"}}} />;

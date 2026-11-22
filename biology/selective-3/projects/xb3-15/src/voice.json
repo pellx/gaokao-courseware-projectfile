@@ -1,0 +1,138 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|同学们好！这节课梳理人教版选择性必修三第三章第三节——基因工程的应用。",
+		"seconds": 7.944
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|高考常考转基因抗虫植物的原理、乳腺生物反应器的构建，以及工程菌生产药物。",
+		"seconds": 7.824
+	},
+	"in3": {
+		"key": "zh-CN-XiaoxiaoNeural|我们按六个考点梳理，每个考点都讲清楚怎么考、怎么做。",
+		"seconds": 5.544
+	},
+	"re1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，在农牧业方面的应用：培育抗虫、抗病、抗除草剂的转基因植物。",
+		"seconds": 7.416
+	},
+	"re2": {
+		"key": "zh-CN-XiaoxiaoNeural|抗虫：转入B t抗虫蛋白基因等，害虫取食后，抗虫蛋白破坏其消化系统，比如我国的转基因抗虫棉。",
+		"seconds": 10.176
+	},
+	"re3": {
+		"key": "zh-CN-XiaoxiaoNeural|抗病：转入抗病毒、抗真菌的基因，比如病毒外壳蛋白基因，培育抗病植物。",
+		"seconds": 7.8
+	},
+	"re4": {
+		"key": "zh-CN-XiaoxiaoNeural|抗除草剂：转入抗除草剂基因，作物不受除草剂伤害，杂草被清除。",
+		"seconds": 7.08
+	},
+	"re5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：B t抗虫蛋白只对特定的害虫有毒，对人和畜无害；长期种植可能使害虫产生抗性，要合理种植。",
+		"seconds": 10.776
+	},
+	"qu1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，改良农产品的品质、提高动物的生长速度。比如黄金大米，转入相关基因后，胚乳中富含贝塔胡萝卜素。",
+		"seconds": 11.064
+	},
+	"qu2": {
+		"key": "zh-CN-XiaoxiaoNeural|转入肠乳糖酶基因的奶牛，乳汁中乳糖含量大大降低，适合乳糖不耐受的人群。",
+		"seconds": 7.776
+	},
+	"qu3": {
+		"key": "zh-CN-XiaoxiaoNeural|转入外源生长激素基因的鲤鱼等，生长速度明显加快。",
+		"seconds": 5.232
+	},
+	"qu4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：判断应用类型，先看转入的是什么基因、想得到什么性状，就能对号入座。",
+		"seconds": 8.136
+	},
+	"ma1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，在医药卫生领域的应用：乳腺生物反应器，也叫乳房生物反应器。",
+		"seconds": 7.152
+	},
+	"ma2": {
+		"key": "zh-CN-XiaoxiaoNeural|构建：将药用蛋白基因与乳腺中特异表达的基因的启动子等调控元件重组在一起。",
+		"seconds": 7.92
+	},
+	"ma3": {
+		"key": "zh-CN-XiaoxiaoNeural|通过显微注射等方法，导入哺乳动物的受精卵中。",
+		"seconds": 4.68
+	},
+	"ma4": {
+		"key": "zh-CN-XiaoxiaoNeural|受精卵发育成转基因动物，进入泌乳期后，通过分泌的乳汁来生产所需要的药物。",
+		"seconds": 7.752
+	},
+	"ma5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：目的基因存在于转基因动物的所有体细胞中，但只在乳腺细胞中表达，因为用的是乳腺特异性启动子。",
+		"seconds": 9.984
+	},
+	"dr1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，基因工程菌生产药物。把药用蛋白基因导入大肠杆菌、酵母菌等微生物，构建工程菌。",
+		"seconds": 9.624
+	},
+	"dr2": {
+		"key": "zh-CN-XiaoxiaoNeural|可以生产胰岛素、干扰素、白细胞介素、溶血栓剂、乙肝疫苗等。",
+		"seconds": 6.576
+	},
+	"dr3": {
+		"key": "zh-CN-XiaoxiaoNeural|建立移植器官工厂：在器官供体的基因组中导入某种调节因子，抑制抗原决定基因的表达，或设法除去抗原决定基因，再结合克隆技术，培育没有免疫排斥反应的转基因克隆猪器官。",
+		"seconds": 16.752
+	},
+	"dr4": {
+		"key": "zh-CN-XiaoxiaoNeural|考法：工程菌选大肠杆菌还是酵母菌？解题方法：蛋白质需要加工修饰，比如糖基化，就选有内质网、高尔基体的酵母菌。",
+		"seconds": 12.24
+	},
+	"fo1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，在食品工业方面的应用。利用基因工程菌生产食品工业用酶，比如生产奶酪用的凝乳酶。",
+		"seconds": 10.056
+	},
+	"fo2": {
+		"key": "zh-CN-XiaoxiaoNeural|还可以生产氨基酸、维生素等食品添加剂。",
+		"seconds": 4.368
+	},
+	"fo3": {
+		"key": "zh-CN-XiaoxiaoNeural|与从动物组织中提取相比，工程菌生产产量高、成本低，而且不受原料来源的限制。",
+		"seconds": 8.184
+	},
+	"fo4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：答优点时，从“产量、成本、原料”三个角度作答。",
+		"seconds": 6.072
+	},
+	"bl1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，乳腺生物反应器与膀胱生物反应器的比较。两者的受体细胞都是受精卵。",
+		"seconds": 8.232
+	},
+	"bl2": {
+		"key": "zh-CN-XiaoxiaoNeural|乳腺生物反应器：用乳腺蛋白基因的启动子，从乳汁中提取，只能是雌性个体，而且要到泌乳期。",
+		"seconds": 9.216
+	},
+	"bl3": {
+		"key": "zh-CN-XiaoxiaoNeural|膀胱生物反应器：用在膀胱上皮细胞中特异表达的基因的启动子，从尿液中提取，不受性别和年龄的限制。",
+		"seconds": 10.128
+	},
+	"bl4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两种反应器的区别在于启动子不同、产物来源不同；受体细胞都是受精卵，不是乳腺细胞或膀胱细胞。",
+		"seconds": 10.584
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|最后，用六道判断题检验一下。",
+		"seconds": 3.576
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：转基因抗虫棉对所有害虫都有抗性？错。判断二：乳腺生物反应器要用乳腺蛋白基因的启动子？对。",
+		"seconds": 12.048
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：乳腺生物反应器的受体细胞是乳腺细胞？错，是受精卵。判断四：大肠杆菌可作生产胰岛素的工程菌？对。",
+		"seconds": 12.816
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：雄性转基因动物也能用乳腺生物反应器生产药物？错。判断六：膀胱生物反应器不受性别和年龄限制？对。",
+		"seconds": 12.792
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|六个考点串成一条线：乳腺看启动子，受体选受精卵。我们下期再见！",
+		"seconds": 7.344
+	}
+}

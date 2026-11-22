@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|烷烃、烯烃与炔烃。",
+		"seconds": 2.64
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择题判断性质和反应类型，大题把烯烃作为合成的起点，共七个考点。",
+		"seconds": 7.248
+	},
+	"ak1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，烷烃：碳原子之间全是单键，通式C n H 2n+2，化学性质稳定，不与酸、碱、酸性高锰酸钾反应。",
+		"seconds": 11.4
+	},
+	"ak2": {
+		"key": "zh-CN-XiaoxiaoNeural|特征反应：取代反应。甲烷和氯气在光照下生成一氯甲烷和氯化氢，还会继续取代，生成多种产物的混合物。",
+		"seconds": 10.92
+	},
+	"ak3": {
+		"key": "zh-CN-XiaoxiaoNeural|同系物的物理性质：碳原子数增多，熔沸点升高；碳原子数相同时，支链越多，沸点越低。",
+		"seconds": 9.048
+	},
+	"ak4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：甲烷与氯气的取代产物中，一氯甲烷是气体，二氯甲烷、三氯甲烷、四氯化碳是液体；产物中氯化氢最多。",
+		"seconds": 11.064
+	},
+	"ad1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，烯烃的加成反应：碳碳双键中的派键断开，两个碳各连上一个原子或原子团。",
+		"seconds": 8.52
+	},
+	"ad2": {
+		"key": "zh-CN-XiaoxiaoNeural|与溴：乙烯加溴生成1,2-二溴乙烷，使溴的四氯化碳溶液或溴水褪色。",
+		"seconds": 7.536
+	},
+	"ad3": {
+		"key": "zh-CN-XiaoxiaoNeural|与氢气、氯化氢、水加成：乙烯与水加成生成乙醇，需要催化剂、加热加压。",
+		"seconds": 8.016
+	},
+	"ad3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴大帽子、抱着吉他的橙发女孩：双键就像张开的手，两边各拉住一个新伙伴，这就是加成。",
+		"seconds": 8.88
+	},
+	"ad4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：加成产物1,2-二溴乙烷的两个溴连在不同碳上，写成两个溴连在同一个碳上是错的。",
+		"seconds": 8.976
+	},
+	"dn1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，不对称烯烃与卤化氢加成，产物有两种：丙烯加溴化氢可以得到1-溴丙烷或2-溴丙烷。",
+		"seconds": 9.888
+	},
+	"dn2": {
+		"key": "zh-CN-XiaoxiaoNeural|1,3-丁二烯与溴按一比一加成：1,2-加成得到3,4-二溴-1-丁烯；1,4-加成得到1,4-二溴-2-丁烯，双键移到中间。",
+		"seconds": 13.92
+	},
+	"dn3": {
+		"key": "zh-CN-XiaoxiaoNeural|1,3-丁二烯还能与乙烯发生双烯加成反应生成六元环，课本没有，信息题常用。",
+		"seconds": 8.52
+	},
+	"dn4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：1,4-加成后，原来的两个双键变成中间一个双键，别忘了移位。",
+		"seconds": 7.272
+	},
+	"ox1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，烯烃的氧化：能使酸性高锰酸钾溶液褪色，碳碳双键被氧化。",
+		"seconds": 7.32
+	},
+	"ox2": {
+		"key": "zh-CN-XiaoxiaoNeural|断键规律，课本没有，信息题常用：端位的亚甲基被氧化成二氧化碳；连一个氢的碳被氧化成羧酸；不连氢的碳被氧化成酮。",
+		"seconds": 12.312
+	},
+	"ox3": {
+		"key": "zh-CN-XiaoxiaoNeural|烯烃的臭氧化：双键断开，两边都变成碳氧双键，得到醛或酮，常用来推断双键位置。",
+		"seconds": 8.592
+	},
+	"ox4": {
+		"key": "zh-CN-XiaoxiaoNeural|解题方法：由氧化产物反推烯烃：把产物中的碳氧双键两两连成碳碳双键，就还原出原来的双键位置。",
+		"seconds": 9.984
+	},
+	"po1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，加聚反应：含双键的小分子打开派键，首尾相连形成高分子。n个乙烯分子加聚生成聚乙烯。",
+		"seconds": 10.752
+	},
+	"po2": {
+		"key": "zh-CN-XiaoxiaoNeural|聚丙烯：n个丙烯分子加聚，链节中甲基在支链上，不在主链里。",
+		"seconds": 6.768
+	},
+	"po3": {
+		"key": "zh-CN-XiaoxiaoNeural|加聚反应原子利用率 100%，没有小分子生成。",
+		"seconds": 4.944
+	},
+	"po3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴格子帽、戴眼镜的粉发女孩：加聚就像大家手拉手排成长队，一个人都不会掉队。",
+		"seconds": 8.28
+	},
+	"po4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：把聚丙烯的三个碳都写进主链是错的；聚乙烯没有双键，不能使溴水褪色。",
+		"seconds": 7.92
+	},
+	"ac1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，乙炔的实验室制法：碳化钙加两个水，生成氢氧化钙和乙炔。用饱和食盐水代替水，减缓反应速率。",
+		"seconds": 11.016
+	},
+	"ac2": {
+		"key": "zh-CN-XiaoxiaoNeural|制得的乙炔常混有硫化氢等杂质，用硫酸铜溶液除去。",
+		"seconds": 5.472
+	},
+	"ac3": {
+		"key": "zh-CN-XiaoxiaoNeural|乙炔的性质：能加成、能使酸性高锰酸钾溶液褪色；燃烧火焰明亮、伴有浓烈黑烟，因为含碳量高。",
+		"seconds": 9.864
+	},
+	"ac3b": {
+		"key": "zh-CN-XiaoxiaoNeural|笑眯眯的棕发女孩：用饱和食盐水代替水，反应就不会太猛，乙炔慢慢冒出来。",
+		"seconds": 7.608
+	},
+	"ac4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能用启普发生器制乙炔：反应放热、生成的氢氧化钙糊状物会堵塞。",
+		"seconds": 7.848
+	},
+	"id1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，鉴别烷烃与烯烃：用溴水或酸性高锰酸钾溶液，烯烃使其褪色。",
+		"seconds": 7.68
+	},
+	"id2": {
+		"key": "zh-CN-XiaoxiaoNeural|除去甲烷中的乙烯：用溴水洗气，乙烯被加成吸收。",
+		"seconds": 5.304
+	},
+	"id3": {
+		"key": "zh-CN-XiaoxiaoNeural|不能用酸性高锰酸钾除去甲烷中的乙烯：乙烯被氧化成二氧化碳，又引入新杂质。",
+		"seconds": 7.848
+	},
+	"id4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：鉴别可以用高锰酸钾，除杂不能用；除杂选试剂要想产物去哪里了。",
+		"seconds": 7.608
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：甲烷使高锰酸钾褪色？错。判断二：乙烯加溴两个溴在同一个碳上？错，在两个碳上。",
+		"seconds": 10.92
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：1,3-丁二烯1,4-加成双键移到中间？对。判断四：聚乙烯使溴水褪色？错，没有双键。",
+		"seconds": 11.664
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：用饱和食盐水和电石制乙炔？对。判断六：用高锰酸钾除甲烷中的乙烯？错，用溴水。",
+		"seconds": 11.232
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|烷烃取代，烯炔加成，除杂只用溴水。下一期：芳香烃。",
+		"seconds": 6.408
+	}
+}
