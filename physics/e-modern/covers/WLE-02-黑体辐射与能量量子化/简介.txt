@@ -1,0 +1,24 @@
+本期考点
+
+一、热辐射（一切物体都辐射，与温度有关）
+二、黑体（完全吸收不反射，辐射只与温度有关）
+三、黑体辐射的实验规律（温度升高，强度都增大，峰值向短波移）
+四、经典理论的困难（维恩公式长波偏离，瑞利公式短波不符）
+五、普朗克的能量子假设（ε = hν）
+六、能量量子化（微观能量分立）
+七、光子（ε = hν = hc/λ）
+八、能级（跃迁放出光子，能量等于能级差）
+九、原子发光的特点（光谱是分立的亮线）
+
+图片来源
+1.AB Lagrelius & Westphal《Max Planck Nobel 1918》（1918），公有领域（Wikimedia Commons）
+2.插图：Jazz Jack《才羽モモイ》
+https://www.pixiv.net/artworks/126611521
+3.插图：ㅤ《「お兄ちゃんへ」》
+https://www.pixiv.net/artworks/124804120
+4.插图：AlwaysBetabeats《Happy Birthday Rise》
+https://www.pixiv.net/artworks/145090485
+5.封面插图：ロスト《喜多ちゃんからのプレゼント》
+https://www.pixiv.net/artworks/108341228
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

@@ -1,0 +1,130 @@
+{
+	"id": "WLD-02",
+	"title": "分子运动速率分布与内能",
+	"subject": "physics",
+	"book": "热学 · 第2期 / 共7期",
+	"points": [
+		"气体分子运动的特点",
+		"统计规律",
+		"分子运动速率分布",
+		"气体压强的微观解释",
+		"分子动能与温度",
+		"分子势能",
+		"内能",
+		"内能的决定因素",
+		"概念辨析"
+	],
+	"intro": {
+		"badge": "高考物理 · 热学",
+		"title": [
+			[
+				"分子运动速率分布",
+				true
+			],
+			[
+				"与内能"
+			]
+		],
+		"subtitle": "统计规律 · 速率分布 · 压强 · 温度 · 分子势能 · 内能",
+		"photo": "maxwell.jpg",
+		"photoCaption": "麦克斯韦：最早给出气体分子速率分布的统计规律",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"分子运动速率分布",
+					true
+				]
+			],
+			[
+				[
+					"与内能"
+				]
+			]
+		],
+		"photo": "maxwell.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "麦克斯韦",
+		"credit": "G.J. Stodart, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "警備犬",
+			"title": "owo",
+			"url": "https://www.pixiv.net/artworks/143836490"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "大量分子的运动遵从统计规律",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "温度升高时，每个分子的速率都增大",
+				"ok": false,
+				"fix": "是速率大的分子所占比例增大"
+			},
+			{
+				"q": "气体压强是由气体的重力产生的",
+				"ok": false,
+				"fix": "由大量分子碰撞器壁产生"
+			},
+			{
+				"q": "温度是分子平均动能的标志",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "物体运动得越快，内能越大",
+				"ok": false,
+				"fix": "内能与整体机械运动无关"
+			},
+			{
+				"q": "0 ℃ 的冰熔化成 0 ℃ 的水，内能增大",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"分子运动速率分布",
+				true
+			],
+			[
+				"与内能"
+			]
+		],
+		"endLine": "温度看平均动能，体积连着分子势能",
+		"slogan": "温度看平均动能，体积连着分子势能"
+	},
+	"credits": "图片来源：Wikimedia Commons —— G.J. Stodart《James Clerk Maxwell》（1890，据 Fergus of Greenock 摄影雕版），公有领域；插图来自 pixiv：HSIAO_YEH、彩風まほろ@FANBOX、警備犬（侵删）",
+	"anime": [
+		{
+			"key": "many",
+			"src": "many.jpg",
+			"credit": "插图：HSIAO_YEH《》pixiv #151975133",
+			"url": "https://www.pixiv.net/artworks/151975133"
+		},
+		{
+			"key": "hot",
+			"src": "hot.jpg",
+			"credit": "插图：彩風まほろ@FANBOX《あ、あかりちゃん、、？！》pixiv #144892860",
+			"url": "https://www.pixiv.net/artworks/144892860"
+		},
+		{
+			"key": "pair",
+			"src": "pair.jpg",
+			"credit": "插图：警備犬《owo》pixiv #145089303",
+			"url": "https://www.pixiv.net/artworks/145089303"
+		}
+	]
+}

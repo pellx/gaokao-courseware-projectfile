@@ -10,7 +10,7 @@ EP = dict(
     introTitle=[['分子运动速率分布', True], ['与内能']],
     coverTitle=[[['分子运动速率分布', True]], [['与内能']]],
     subtitle='统计规律 · 速率分布 · 压强 · 温度 · 分子势能 · 内能',
-    photo=dict(src='02.jpg', file='maxwell.jpg', caption='麦克斯韦：最早给出气体分子速率分布的统计规律', pos='center 25%', tag='麦克斯韦', short='Smithsonian, PD', long='佚名摄影师《James Clerk Maxwell profile》，史密森学会藏，公有领域'),
+    photo=dict(src='02.jpg', file='maxwell.jpg', caption='麦克斯韦：最早给出气体分子速率分布的统计规律', pos='center 30%', tag='麦克斯韦', short='G.J. Stodart, PD', long='G.J. Stodart《James Clerk Maxwell》（1890，据 Fergus of Greenock 摄影雕版），公有领域'),
     anime=[('many', '02-many.jpg'), ('hot', '02-hot.jpg'), ('pair', '02-pair.jpg')],
     intro=[
         ('in1', '{分子运动速率分布与内能|red}。'),

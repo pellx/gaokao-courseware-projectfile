@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|黑体辐射与能量量子化。",
+		"seconds": 2.856
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|从黑体辐射讲到能量子、光子和能级，共九个考点。",
+		"seconds": 5.376
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，热辐射。我们周围的一切物体都在辐射电磁波，这种辐射与物体的温度有关，叫热辐射。",
+		"seconds": 9.528
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|温度较低时，主要辐射看不见的红外线；温度升高，物体开始发出可见光。",
+		"seconds": 7.224
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|温度升高时，热辐射中波长较短的成分越来越强，铁块会从暗红变成黄白。",
+		"seconds": 7.68
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：一切物体都在热辐射，不只是高温物体。",
+		"seconds": 4.752
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，黑体。能够完全吸收入射的各种波长的电磁波而不发生反射的物体，叫黑体。",
+		"seconds": 8.664
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|黑体是一种理想化模型。开一个小孔的空腔，射入小孔的光几乎出不来，小孔就可近似看成黑体。",
+		"seconds": 9.432
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|一般物体的辐射与温度、材料种类和表面状况有关；黑体辐射电磁波的强度按波长的分布只与温度有关。",
+		"seconds": 9.936
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：黑体不一定是黑色的，它自身也在向外辐射，温度高时还会发光。",
+		"seconds": 7.416
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，黑体辐射的实验规律。随着温度升高，各种波长的辐射强度都增加。",
+		"seconds": 7.824
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|同时，辐射强度的极大值向波长较短的方向移动。",
+		"seconds": 5.136
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|曲线越高，代表温度越高；峰值越靠左，波长越短。",
+		"seconds": 5.496
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：温度升高，强度都增大，峰值向短波移动。",
+		"seconds": 5.304
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，经典理论的困难。物理学家试图用经典电磁理论和热力学解释黑体辐射规律。",
+		"seconds": 8.904
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|维恩公式在短波区与实验符合，但在长波区偏离实验。",
+		"seconds": 5.592
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|瑞利公式在长波区与实验基本一致，在短波区却与实验严重不符，辐射强度趋于无穷大。",
+		"seconds": 8.88
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个哭成泪人的Q版猫耳女孩：经典理论怎么也解释不了黑体辐射，只能认输。",
+		"seconds": 7.632
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：经典理论无法完整解释黑体辐射，这是物理学走向量子的起点。",
+		"seconds": 7.032
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，普朗克的能量子假设。1900年，普朗克提出：振动着的带电微粒的能量只能是某一最小能量值ε的整数倍。",
+		"seconds": 11.88
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|这个不可再分的最小能量值叫能量子，ε等于h ν，ν是带电微粒的振动频率。",
+		"seconds": 8.304
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|h叫普朗克常量，h等于6.626乘10的负34次方焦耳秒。",
+		"seconds": 6.648
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个女孩双手递出一个小礼物盒：能量也像礼物，只能一份一份地给，不能给半份。",
+		"seconds": 7.416
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：借助能量子假设，普朗克得出的黑体辐射公式与实验符合得非常好。",
+		"seconds": 7.488
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，能量量子化。微观世界中，能量不能连续变化，只能取分立值，这种现象叫能量的量子化。",
+		"seconds": 10.056
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|宏观世界里，能量子极小，能量看起来是连续的。",
+		"seconds": 4.896
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|量子化是微观世界的基本特征，它打破了“能量连续变化”的经典观念。",
+		"seconds": 6.384
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：能量是不连续的、分立的。",
+		"seconds": 3.648
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，光是电磁波，光子。麦克斯韦预言、赫兹证实：光是电磁波。",
+		"seconds": 7.896
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|1905年，爱因斯坦提出：光本身就是由一个个不可分割的能量子组成的，叫光子。",
+		"seconds": 8.28
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|光子的能量ε等于h ν，等于h c比兰姆达，频率越高、波长越短，光子能量越大。",
+		"seconds": 8.688
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：光的强弱由光子数目决定，单个光子的能量只由频率决定。",
+		"seconds": 6.576
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，能级。原子的能量也是量子化的，这些量子化的能量值叫能级。",
+		"seconds": 7.704
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|原子从高能级向低能级跃迁时，放出光子，光子的能量等于两能级之差。",
+		"seconds": 7.368
+	},
+	"h2b": {
+		"key": "zh-CN-XiaoxiaoNeural|同一个女孩被画成了几个不同的姿势：原子也只能处在几个分立的状态，在它们之间跳来跳去。",
+		"seconds": 8.616
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：h ν等于E高减E低，放出的光子能量是确定的。",
+		"seconds": 5.448
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，原子发光的特点。原子的能级是分立的，跃迁时放出的光子能量也是分立的。",
+		"seconds": 8.64
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以原子发射的光谱是一些分立的亮线，而不是连续的光带。",
+		"seconds": 5.952
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|这一点在氢原子光谱和玻尔模型中还会详细讲到。",
+		"seconds": 5.16
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：能级分立 → 光子能量分立 → 光谱是分立的亮线。",
+		"seconds": 5.4
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：只有高温物体才会热辐射？错，一切物体都在辐射。判断二：黑体辐射按波长的分布只与温度有关？对。",
+		"seconds": 12.432
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：温度升高，辐射强度极大值向长波移动？错，向短波移动。判断四：能量子等于h ν？对。",
+		"seconds": 11.64
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：光越强，单个光子能量越大？错，只由频率决定。判断六：原子从高能级跃迁到低能级放出光子？对。",
+		"seconds": 12.576
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|能量一份一份给，ε等于h ν。下一期：光电效应。",
+		"seconds": 6.288
+	}
+}

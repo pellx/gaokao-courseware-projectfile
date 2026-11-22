@@ -1,0 +1,130 @@
+{
+	"id": "WLE-02",
+	"title": "黑体辐射与能量量子化",
+	"subject": "physics",
+	"book": "近代物理 · 第2期 / 共9期",
+	"points": [
+		"热辐射",
+		"黑体",
+		"黑体辐射的实验规律",
+		"经典理论的困难",
+		"普朗克的能量子假设",
+		"能量量子化",
+		"光子",
+		"能级",
+		"原子发光的特点"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"黑体辐射",
+				true
+			],
+			[
+				"与能量量子化"
+			]
+		],
+		"subtitle": "热辐射 · 黑体 · 能量子 · 光子 · 能级",
+		"photo": "planck.jpg",
+		"photoCaption": "普朗克：1900 年提出能量子假设",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"黑体辐射",
+					true
+				]
+			],
+			[
+				[
+					"能量量子化"
+				]
+			]
+		],
+		"photo": "planck.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "普朗克",
+		"credit": "AB Lagrelius & Westphal, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ロスト",
+			"title": "喜多ちゃんからのプレゼント",
+			"url": "https://www.pixiv.net/artworks/108341228"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "只有高温物体才会热辐射",
+				"ok": false,
+				"fix": "一切物体都在热辐射"
+			},
+			{
+				"q": "黑体辐射的强度按波长的分布只与温度有关",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "温度升高，黑体辐射强度的极大值向长波方向移动",
+				"ok": false,
+				"fix": "向短波方向移动"
+			},
+			{
+				"q": "能量子 ε = hν",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光越强，单个光子的能量越大",
+				"ok": false,
+				"fix": "光子能量只由频率决定"
+			},
+			{
+				"q": "原子从高能级跃迁到低能级时放出光子",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"黑体辐射",
+				true
+			],
+			[
+				"与能量量子化"
+			]
+		],
+		"endLine": "能量一份一份给，ε 等于 hν",
+		"slogan": "能量一份一份给，ε 等于 hν"
+	},
+	"credits": "图片来源：Wikimedia Commons —— AB Lagrelius & Westphal《Max Planck Nobel 1918》（1918），公有领域；插图来自 pixiv：Jazz Jack、ㅤ、AlwaysBetabeats（侵删）",
+	"anime": [
+		{
+			"key": "cry",
+			"src": "cry.jpg",
+			"credit": "插图：Jazz Jack《才羽モモイ》pixiv #126611521",
+			"url": "https://www.pixiv.net/artworks/126611521"
+		},
+		{
+			"key": "gift",
+			"src": "gift.jpg",
+			"credit": "插图：ㅤ《「お兄ちゃんへ」》pixiv #124804120",
+			"url": "https://www.pixiv.net/artworks/124804120"
+		},
+		{
+			"key": "poses",
+			"src": "poses.jpg",
+			"credit": "插图：AlwaysBetabeats《Happy Birthday Rise》pixiv #145090485",
+			"url": "https://www.pixiv.net/artworks/145090485"
+		}
+	]
+}
