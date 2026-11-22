@@ -64,8 +64,8 @@
 		"seconds": 4.392
 	},
 	"un1": {
-		"key": "zh-CN-XiaoxiaoNeural|考点四，链节：高分子中重复出现的结构单元；聚合度 n：链节重复的次数。",
-		"seconds": 7.92
+		"key": "zh-CN-XiaoxiaoNeural|考点四，链节：高分子中重复出现的结构单元，课标称为重复结构单元；聚合度 n：链节重复的次数。",
+		"seconds": 10.224
 	},
 	"un2": {
 		"key": "zh-CN-XiaoxiaoNeural|高分子是混合物：每个分子的 n 不完全相同，所以没有固定的熔点，相对分子质量是平均值。",

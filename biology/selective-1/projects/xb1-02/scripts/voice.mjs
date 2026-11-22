@@ -65,7 +65,14 @@ const spoken = (line) =>
 		.replace(/\s*>\s*/g, '大于')
 		.replace(/\s*<\s*/g, '小于');
 
-const remotion = join(root, 'node_modules/.bin/remotion');
+// node_modules may be in the project or shared further up (the repository root).
+const remotion = (() => {
+	for (let d = root; ; d = join(d, '..')) {
+		const p = join(d, 'node_modules/.bin/remotion');
+		if (existsSync(p)) return p;
+		if (join(d, '..') === d) throw new Error('node_modules/.bin/remotion not found: run npm ci in the repository root');
+	}
+})();
 const seconds = (file) =>
 	parseFloat(
 		execFileSync(remotion, ['ffprobe', '-v', 'error', '-show_entries', 'format=duration', '-of', 'csv=p=0', file], {

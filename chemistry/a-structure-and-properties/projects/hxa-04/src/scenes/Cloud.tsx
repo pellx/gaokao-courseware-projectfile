@@ -7,7 +7,7 @@ import {C} from '../theme';
 import {T} from '../timeline';
 
 const t = T.cloud;
-const {cl1, cl2, cl3, cl3b, cl4, cl5} = t.cue;
+const {cl1, cl1b, cl2, cl3, cl3b, cl4, cl5} = t.cue;
 
 // 1s 电子云：确定的伪随机点，越靠近核越密。
 const rnd = (i: number) => {
@@ -55,6 +55,7 @@ export const Cloud: React.FC = () => (
 					gap={16}
 					items={[
 						{at: cl1.from, node: <>电子运动<Hl>没有确定轨迹</Hl>，只能说出现的概率</>},
+						{at: cl1b.from, node: <>模型演变：道尔顿 → 汤姆孙 → 卢瑟福 → 玻尔 → <Hl>电子云</Hl></>},
 						{at: cl2.from, node: <>小黑点疏密表示<Hl>概率密度</Hl> → 电子云</>},
 						{at: cl3.from, node: <>一个小黑点<Hl>≠ 一个电子</Hl></>},
 						{at: cl4.from, node: <>圈出约 90% 的区域 → <Hl c={C.orange}>电子云轮廓图</Hl>（原子轨道）</>},

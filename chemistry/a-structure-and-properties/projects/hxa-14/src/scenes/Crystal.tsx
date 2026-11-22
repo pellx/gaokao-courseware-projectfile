@@ -6,7 +6,7 @@ import {C} from '../theme';
 import {T} from '../timeline';
 
 const t = T.crystal;
-const {cr1, cr2, cr3, cr4, cr5} = t.cue;
+const {cr1, cr2, cr3, cr4, cr4b, cr5} = t.cue;
 const rnd = (i: number) => {
 	const x = Math.sin(i * 78.233) * 43758.5453;
 	return x - Math.floor(x);
@@ -47,6 +47,7 @@ export const Crystal: React.FC = () => (
 						{at: cr3.from, node: <><Hl c={C.orange}>各向异性</Hl>：不同方向性质不同</>},
 						{at: cr3.from + 40, node: <><Hl c={C.green}>固定熔点</Hl></>},
 						{at: cr4.from, node: <>最可靠的区分方法：<Hl>X 射线衍射</Hl></>},
+						{at: cr4b.from, node: <>其他聚集状态：<Hl c={C.orange}>液晶</Hl>（显示器）、<Hl c={C.orange}>等离子体</Hl>（导电）</>},
 					]}
 				/>
 			</Col>

@@ -51,6 +51,10 @@
 		"key": "zh-CN-XiaoxiaoNeural|淀粉和纤维素：都是多糖，水解最终都生成葡萄糖。淀粉遇碘变蓝。",
 		"seconds": 7.248
 	},
+	"ps2b": {
+		"key": "zh-CN-XiaoxiaoNeural|应用：淀粉水解制葡萄糖、饴糖，用于食品加工；淀粉、纤维素发酵可制燃料乙醇，是一种生物质能源。",
+		"seconds": 10.728
+	},
 	"ps3": {
 		"key": "zh-CN-XiaoxiaoNeural|检验淀粉水解产物：水解液中先加氢氧化钠溶液中和硫酸，再加新制氢氧化铜或银氨溶液。",
 		"seconds": 9.312
@@ -126,6 +130,10 @@
 	"nu3": {
 		"key": "zh-CN-XiaoxiaoNeural|DNA双螺旋中，两条链上的碱基通过氢键配对：A与T，G与C。G与C之间有3个氢键，A与T之间有2个。",
 		"seconds": 11.664
+	},
+	"nu3b": {
+		"key": "zh-CN-XiaoxiaoNeural|功能：DNA储存和传递遗传信息，RNA主要参与蛋白质的合成。",
+		"seconds": 6.96
 	},
 	"nu4": {
 		"key": "zh-CN-XiaoxiaoNeural|易错：碱基之间靠氢键结合，不是共价键；G和C含量越高，DNA越稳定。",
