@@ -1,0 +1,198 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|探究加速度与物体受力、物体质量的关系。",
+		"seconds": 4.392
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的方法、器材、补偿阻力、近似条件、步骤、两个参考案例、数据处理和误差，共九个考点。",
+		"seconds": 10.536
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的与方法。探究加速度a与所受的力F、物体质量m之间的定量关系。",
+		"seconds": 8.832
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|三个量一起变，就看不出规律，所以采用控制变量法。",
+		"seconds": 5.04
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|保持小车质量不变，研究加速度与力的关系；保持拉力不变，研究加速度与质量的关系。",
+		"seconds": 8.208
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：每次只改变一个量，其余的量保持不变。",
+		"seconds": 4.704
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，器材及作用，以参考案例一为例。小车放在一端带滑轮的长木板上。",
+		"seconds": 7.8
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|槽码通过细绳跨过滑轮牵引小车，槽码所受的重力作为小车受到的拉力。",
+		"seconds": 7.296
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|打点计时器和纸带用来测小车的加速度。",
+		"seconds": 4.2
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|天平测质量；在小车上增减砝码来改变小车的质量。",
+		"seconds": 5.544
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：改变拉力靠增减槽码，改变小车质量靠增减车上的砝码，别弄混。",
+		"seconds": 7.608
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，补偿阻力。小车运动时受到摩擦等阻力，会干扰实验。",
+		"seconds": 6.888
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|把木板不带滑轮的一端垫高，在不挂槽码的情况下，让小车拖着纸带运动。",
+		"seconds": 7.032
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|调到小车能匀速运动，也就是纸带上的点迹间隔均匀。",
+		"seconds": 5.256
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|这时小车所受的阻力，被重力沿斜面的分力补偿了。",
+		"seconds": 5.256
+	},
+	"b5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：补偿时不挂槽码，但要拖着纸带；改变小车质量后不需要重新补偿。",
+		"seconds": 7.488
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，拉力的近似条件。槽码不是静止的，它和小车一起加速下落。",
+		"seconds": 7.296
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|槽码加速向下，说明细绳的拉力小于槽码所受的重力。",
+		"seconds": 5.496
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|只有当槽码的质量远小于小车的质量时，细绳的拉力才近似等于槽码的重力。",
+		"seconds": 7.32
+	},
+	"n3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个手指点着脸颊、歪头琢磨的金发女孩：绳子的拉力真的等于槽码的重力吗？其实略小一点，只有槽码很轻时才能近似相等。",
+		"seconds": 12.216
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：拉力等于槽码重力只是近似，条件是槽码质量远小于小车质量。",
+		"seconds": 7.488
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，关键步骤。调节滑轮的高度，使细绳与木板平行，拉力才沿运动方向。",
+		"seconds": 8.328
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|小车从靠近打点计时器处释放，先接通电源，后释放小车。",
+		"seconds": 6.312
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|每改变一次拉力或质量，就重新打一条纸带，并记录对应的槽码质量和小车质量。",
+		"seconds": 7.728
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：细绳不平行，拉力就有垂直木板的分量，小车受到的合力不再等于绳的拉力。",
+		"seconds": 8.112
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，参考案例二。两辆小车放在平行的轨道上，用夹子控制，让它们同时开始运动、同时停止。",
+		"seconds": 10.128
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|两车运动的时间相等，都从静止开始做匀加速运动。",
+		"seconds": 5.208
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|由x等于二分之一a t平方可知，两车的位移之比就等于加速度之比。",
+		"seconds": 6.84
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：用位移之比代替加速度之比，不必测出加速度的数值，也就不需要打点计时器。",
+		"seconds": 8.232
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，数据处理。质量一定时，以F为横轴、a为纵轴作a对F的图像，得到过原点的直线。",
+		"seconds": 9.912
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|力一定时，a对m的图像是一条曲线，很难判断a和m是什么关系。",
+		"seconds": 6.84
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|于是改作a对m分之一的图像，也得到一条过原点的直线。",
+		"seconds": 5.52
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：曲线难判断，就改换坐标把它变成直线，这是物理实验中常用的数据处理方法。",
+		"seconds": 8.496
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，误差来源。用槽码重力代替细绳拉力，带来系统误差；槽码质量越大，误差越大，a对F图线上端会向下弯曲。",
+		"seconds": 12.504
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|阻力补偿不足，要拉力大到一定值小车才动，图线与F轴有交点。",
+		"seconds": 6.744
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|阻力补偿过度，不挂槽码小车就会加速，图线与a轴有交点。",
+		"seconds": 6.216
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|此外，纸带的测量和描点作图还会带来偶然误差。",
+		"seconds": 5.088
+	},
+	"e4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个哭得稀里哗啦的小人：图线不过原点、上端弯了，哭也没用，对照两种原因找出问题就好。",
+		"seconds": 8.88
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：图线不过原点是阻力补偿的问题；图线上端弯曲是槽码质量不够小的问题。",
+		"seconds": 8.208
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，实验结论。质量一定时，加速度与所受的力成正比。",
+		"seconds": 6.456
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|力一定时，加速度与质量成反比。",
+		"seconds": 3.6
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|这正是牛顿第二定律的实验基础：a正比于F除以m。",
+		"seconds": 5.496
+	},
+	"r3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这辆黄色的送餐小摩托和旁边的粉色跑车：力相同时质量越小，加速度越大；力越大、质量越小，起步就越快。",
+		"seconds": 11.208
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：成反比是指a与m成反比，也就是a与m分之一成正比。",
+		"seconds": 7.008
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：本实验用控制变量法？对。判断二：补偿阻力时要挂槽码？错，不挂槽码，但要拖纸带。",
+		"seconds": 11.136
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：改变小车质量后要重新补偿？错，不必。判断四：槽码质量远小于小车质量，拉力近似等于槽码重力？对。",
+		"seconds": 13.176
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：作a对m的图像判断关系？错，要作a对m分之一的图像。判断六：图线与F轴有交点，是补偿不足？对。",
+		"seconds": 12.864
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|补偿不挂码，码轻车要重。下一期：探究平抛运动的特点。",
+		"seconds": 6.336
+	}
+}

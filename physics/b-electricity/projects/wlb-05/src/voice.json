@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电势差及其与电场强度的关系。",
+		"seconds": 3.408
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲电势差、等势面，以及匀强电场中电势差与电场强度的关系，共八个考点。",
+		"seconds": 8.016
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，电势差U A B等于phi A减phi B，也叫电压，单位伏特。",
+		"seconds": 6.792
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|电势差有正负：U A B等于负U B A。",
+		"seconds": 4.272
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|电势随零电势点的选取而变，但两点间的电势差与零电势点的选取无关。",
+		"seconds": 6.744
+	},
+	"u3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红头发女孩骑在粉头发女孩肩上：头顶有多高，要看从哪里量起；可两人头顶的高度差不会变。",
+		"seconds": 9.192
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：U A B的下标顺序不能随意调换，正负号表示哪点电势高。",
+		"seconds": 6.768
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，静电力做功与电势差：W A B等于q U A B。",
+		"seconds": 6.096
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|这个关系对任何电场都成立，不限于匀强电场。",
+		"seconds": 4.728
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|电子伏e V是能量单位：一电子伏等于一点六零乘十的负十九次方焦。",
+		"seconds": 7.032
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电子在一伏电压下加速，静电力做的功就是一电子伏。",
+		"seconds": 6.432
+	},
+	"q1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，等势面：电场中电势相同的各点构成的面。",
+		"seconds": 5.376
+	},
+	"q2": {
+		"key": "zh-CN-XiaoxiaoNeural|在同一等势面上移动电荷，静电力不做功。",
+		"seconds": 4.224
+	},
+	"q2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这和在同一水平面上移动物体时重力不做功类似：等势面就像电场里的“等高线”。",
+		"seconds": 7.8
+	},
+	"q3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同一等势面上任意两点电势差为零，所以W等于qU等于零。",
+		"seconds": 7.152
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，等势面与电场线的关系。等势面与电场线垂直。",
+		"seconds": 6.168
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|电场线由电势高的等势面指向电势低的等势面。",
+		"seconds": 4.656
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|相邻等势面电势差相等时，等势面越密，电场强度越大。",
+		"seconds": 5.832
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑长发女孩身边挤满了小不点，挤得越紧越热闹：等差等势面也一样，挤得越密，电场越强。",
+		"seconds": 9.096
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：垂直、高指向低、密处场强大，三句话记住等势面和电场线。",
+		"seconds": 7.152
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，常见的等势面。点电荷的等势面是以它为球心的一簇球面。",
+		"seconds": 6.792
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|匀强电场的等势面是垂直于电场线的一簇平面。",
+		"seconds": 4.608
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|静电平衡的导体是等势体，它的表面是等势面。",
+		"seconds": 4.728
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：静电平衡导体内部场强为零，所以内部各点之间没有电势差。",
+		"seconds": 7.152
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，匀强电场中，电势差与电场强度的关系：U A B等于E d。",
+		"seconds": 6.936
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中d是A、B两点沿电场方向的距离。",
+		"seconds": 4.392
+	},
+	"e2b": {
+		"key": "zh-CN-XiaoxiaoNeural|沿电场方向每前进一段距离，电势就降低同样多，所以电势差与这段距离成正比。",
+		"seconds": 8.304
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：d不是两点间的直线距离，而是它在电场方向上的投影；公式只适用于匀强电场。",
+		"seconds": 8.736
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，E等于U比d的物理意义：匀强电场中，电场强度在数值上等于沿电场方向单位距离上降低的电势。",
+		"seconds": 10.68
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|电场强度的方向就是电势降低最快的方向。",
+		"seconds": 4.224
+	},
+	"m2b": {
+		"key": "zh-CN-XiaoxiaoNeural|橙头发的小家伙连人带箱子笔直往下掉：沿电场方向，电势也是这样降得最快。",
+		"seconds": 7.944
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电场强度的单位伏每米与牛每库是相同的。",
+		"seconds": 5.424
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，非匀强电场中，U等于Ed 不能直接计算，但可以定性理解。",
+		"seconds": 6.672
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|电场强度越大的区域，沿电场方向相同距离上的电势差越大。",
+		"seconds": 5.976
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以电场越强的地方，等差等势面越密。",
+		"seconds": 4.512
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：非匀强电场用U等于E d只能做定性比较，不能直接计算。",
+		"seconds": 6.696
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电势差与零电势点有关？错。判断二：W等于qU只适用于匀强电场？错，对任何电场都成立。",
+		"seconds": 11.784
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：同一等势面上移动电荷静电力不做功？对。判断四：电场线与等势面垂直？对。",
+		"seconds": 10.512
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：U等于E d中d是直线距离？错，是沿电场方向的距离。判断六：电场强度方向是电势降低最快的方向？对。",
+		"seconds": 12.816
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|电势差与零点无关，匀强电场U等于Ed。下一期：电容器的电容。",
+		"seconds": 7.08
+	}
+}

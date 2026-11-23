@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|光的折射。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲折射定律、折射率和它与光速的关系、不同色光的折射，以及常见的折射现象，共九个考点。",
+		"seconds": 9.648
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，光的反射和折射。光射到两种介质的分界面时，会分成两部分。",
+		"seconds": 7.464
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|一部分光返回原介质，这是反射。",
+		"seconds": 3.6
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|另一部分光进入另一种介质，传播方向改变，这是折射。",
+		"seconds": 5.52
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：在分界面上，反射和折射通常同时发生。",
+		"seconds": 5.352
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，折射定律。折射光线与入射光线、法线在同一平面内。",
+		"seconds": 7.248
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|折射光线与入射光线分别位于法线两侧。",
+		"seconds": 4.392
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|入射角的正弦与折射角的正弦成正比：正弦θ一比正弦θ二等于n一二。",
+		"seconds": 7.824
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：入射角和折射角都是光线与法线的夹角，不是与界面的夹角。",
+		"seconds": 6.912
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，折射率。光从真空射入某种介质时，入射角的正弦与折射角的正弦之比，叫这种介质的折射率。",
+		"seconds": 10.752
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|公式n等于正弦θ一比正弦θ二，θ一是真空中的角。",
+		"seconds": 6.456
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|折射率反映介质的光学性质，由介质本身决定。",
+		"seconds": 4.656
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：折射率越大，光从真空射入时偏折越明显。",
+		"seconds": 5.568
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，折射率与光速的关系：n等于c除以v。",
+		"seconds": 5.184
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|光在介质中的速度v等于c除以n，c是真空中的光速。",
+		"seconds": 5.688
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|光在真空中速度最大，所以任何介质的折射率都大于一。",
+		"seconds": 5.736
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：折射率越大，光在这种介质中传播得越慢。",
+		"seconds": 5.328
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，光路可逆。在折射现象中，光路是可逆的。",
+		"seconds": 5.784
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|沿原来折射光线的反方向射入，光会沿原来入射光线的反方向射出。",
+		"seconds": 6.816
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以光从介质射入空气时，折射角大于入射角。",
+		"seconds": 5.112
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红头发、戴圆框眼镜的女孩比了个剪刀手：你透过镜片看见她的眼睛，她也透过同一片镜片看见你，光沿原路倒回去也走得通。",
+		"seconds": 11.76
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：空气或真空中的角总是较大的那个角。",
+		"seconds": 4.752
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，光进入介质后的变化。频率由光源决定，频率不变。",
+		"seconds": 6.408
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|速度变为c除以n，速度变小。",
+		"seconds": 3.456
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|波长也变短：兰姆达等于兰姆达零除以n，兰姆达零是真空中的波长。",
+		"seconds": 7.032
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：光的颜色由频率决定，进入介质颜色不变。",
+		"seconds": 5.112
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，不同色光的折射率。同一种介质对不同色光的折射率不同。",
+		"seconds": 7.008
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|对紫光最大、对红光最小；紫光在介质中的速度较小。",
+		"seconds": 5.568
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以白光经过三棱镜，被分解为彩色光带，这叫光的色散。",
+		"seconds": 6.072
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|五个Q版女孩各有自己的颜色：白光里本来就混着各种色光，三棱镜把它们按颜色分开。",
+		"seconds": 8.448
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：频率越高的色光，折射率越大，偏折越厉害。",
+		"seconds": 5.496
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，两面平行的玻璃砖。光通过后，出射光线与入射光线平行，但发生了侧移。",
+		"seconds": 8.616
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|三棱镜：光通过三棱镜后，向底边偏折。",
+		"seconds": 4.512
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|两次折射都向底边一侧偏，偏折角度叠加起来。",
+		"seconds": 4.968
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：平行玻璃砖不改变光的传播方向，只让光线平移一段距离。",
+		"seconds": 6.576
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，生活中的折射现象。从水面上方看水中的物体，看到的位置比实际的浅。",
+		"seconds": 8.664
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|这是因为水中物体发出的光，射出水面时远离法线偏折，人眼逆着折射光线看去。",
+		"seconds": 7.92
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|插入水中的筷子，看起来在水面处向上弯折。",
+		"seconds": 4.68
+	},
+	"i3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿浴衣捞金鱼的粉头发女孩：盆里的金鱼看起来比实际浅，从斜上方看，鱼的真实位置还要更深一些。",
+		"seconds": 9.696
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：看到的是物体的虚像，位置比实际的高。",
+		"seconds": 4.608
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：有的介质折射率小于一？错，都大于一。判断二：玻璃射入空气折射角更大？对。",
+		"seconds": 10.344
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：光进入水中频率变小？错，频率不变。判断四：对紫光折射率最大？对。",
+		"seconds": 9.984
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：平行玻璃砖改变光的方向？错，只侧移。判断六：水中的鱼看起来更深？错，看起来更浅。",
+		"seconds": 11.64
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|n等于c比v，紫光偏折最厉害。下一期：全反射。",
+		"seconds": 5.856
+	}
+}

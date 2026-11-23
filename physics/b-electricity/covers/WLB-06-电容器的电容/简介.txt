@@ -1,0 +1,22 @@
+本期考点
+
+一、电容器（两个彼此绝缘、相距很近的导体）
+二、充电与放电（等量异种电荷；Q 指一个极板）
+三、电容 C = Q/U（由电容器本身决定）
+四、电容的单位（1 F = 10⁶ μF = 10¹² pF）
+五、平行板电容器（C = εᵣS/4πkd）
+六、常用电容器（固定、可变；电解电容器有极性）
+七、击穿电压与额定电压（额定电压低于击穿电压）
+
+图片来源
+1.Prof. Jos van den Broek《Museum Boerhaave - Leiden Jars》，CC BY-SA 3.0（Wikimedia Commons）
+2.插图：ヤンマー《カメラの妖精グリッドレイちゃん》
+https://www.pixiv.net/artworks/69526408
+3.插图：いちみ＠C109東１ イ04a《お手々繋ぎぼ喜多》
+https://www.pixiv.net/artworks/141822221
+4.插图：シャポコ《爆破実験》
+https://www.pixiv.net/artworks/107214767
+5.封面插图：シャポコ《聞いたら答えてほしい (JP/EN)》
+https://www.pixiv.net/artworks/126007771
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

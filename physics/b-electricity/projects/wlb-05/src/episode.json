@@ -1,0 +1,129 @@
+{
+	"id": "WLB-05",
+	"title": "电势差及其与电场强度的关系",
+	"subject": "physics",
+	"book": "电学基础 · 第5期 / 共22期",
+	"points": [
+		"电势差",
+		"W_AB = qU_AB",
+		"等势面",
+		"等势面与电场线",
+		"常见的等势面",
+		"U_AB = Ed",
+		"E = U/d 的意义",
+		"非匀强电场"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"电势差",
+				true
+			],
+			[
+				"与电场强度"
+			]
+		],
+		"subtitle": "电势差 · 等势面 · U = Ed · 电势降低最快的方向",
+		"photo": "volta.jpg",
+		"photoCaption": "伏打：发明伏打电堆，电压单位“伏特”以他命名",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电势差",
+					true
+				]
+			],
+			[
+				[
+					"与电场强度的关系"
+				]
+			]
+		],
+		"photo": "volta.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "伏打",
+		"credit": "ETH-Bibliothek, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "233333333",
+			"title": "bocchi",
+			"url": "https://www.pixiv.net/artworks/104460437"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电势差与零电势点的选取有关",
+				"ok": false,
+				"fix": "电势差与零电势点无关"
+			},
+			{
+				"q": "W_AB = qU_AB 只适用于匀强电场",
+				"ok": false,
+				"fix": "对任何电场都成立"
+			},
+			{
+				"q": "在同一等势面上移动电荷，静电力不做功",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电场线与等势面垂直",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "U = Ed 中 d 是两点间的直线距离",
+				"ok": false,
+				"fix": "是沿电场方向的距离"
+			},
+			{
+				"q": "电场强度方向是电势降低最快的方向",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"电势差",
+				true
+			],
+			[
+				"与电场强度"
+			]
+		],
+		"endLine": "电势差与零点无关，匀强电场 U = Ed",
+		"slogan": "电势差与零点无关，匀强电场 U = Ed"
+	},
+	"credits": "图片来源：Wikimedia Commons —— ETH-Bibliothek Zürich《Volta, Alessandro (1745-1827) Portrait》（Portr 02303），公有领域；插图来自 pixiv：53/skebお休み中、Gale、ムジアンドウ（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：53/skebお休み中《数秒後に転ぶぼ喜多》pixiv #110133591",
+			"url": "https://www.pixiv.net/artworks/110133591"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：Gale《就寝》pixiv #139174062",
+			"url": "https://www.pixiv.net/artworks/139174062"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：ムジアンドウ《１０月分目安箱》pixiv #122951146",
+			"url": "https://www.pixiv.net/artworks/122951146"
+		}
+	]
+}

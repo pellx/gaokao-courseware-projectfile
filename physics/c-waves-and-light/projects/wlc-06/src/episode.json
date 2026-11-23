@@ -1,0 +1,139 @@
+{
+	"id": "WLC-06",
+	"title": "光的衍射、偏振与激光",
+	"subject": "physics",
+	"book": "波动与光 · 第6期 / 共8期",
+	"points": [
+		"光的衍射",
+		"单缝衍射图样",
+		"圆孔衍射与泊松亮斑",
+		"衍射光栅",
+		"干涉与衍射图样",
+		"衍射的意义",
+		"光的偏振",
+		"光是横波",
+		"偏振的应用",
+		"激光的特性和应用"
+	],
+	"intro": {
+		"badge": "高考物理 · 波动与光",
+		"title": [
+			[
+				"光的",
+				false
+			],
+			[
+				"衍射",
+				true
+			],
+			[
+				"、偏振与激光"
+			]
+		],
+		"subtitle": "单缝衍射 · 泊松亮斑 · 偏振 · 激光",
+		"photo": "poisson.jpg",
+		"photoCaption": "红色激光照射小圆盘，阴影中心出现泊松亮斑",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"光的衍射",
+					true
+				]
+			],
+			[
+				[
+					"偏振与激光"
+				]
+			]
+		],
+		"photo": "poisson.jpg",
+		"photoPos": {
+			"16x9": "center 50%",
+			"4x3": "center 50%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "泊松亮斑",
+		"credit": "Clement Eustache, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Taqi99",
+			"title": "ぼっちちゃん",
+			"url": "https://www.pixiv.net/artworks/139259979"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "单缝衍射的中央亮条纹最宽最亮",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "泊松亮斑支持了光的粒子说",
+				"ok": false,
+				"fix": "支持了光的波动说"
+			},
+			{
+				"q": "双缝干涉条纹中央宽、两侧窄",
+				"ok": false,
+				"fix": "干涉条纹等间距；中央宽的是衍射"
+			},
+			{
+				"q": "光的偏振说明光是横波",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "自然光经水面反射后仍是自然光",
+				"ok": false,
+				"fix": "反射光是偏振光"
+			},
+			{
+				"q": "激光的平行度好，可用于精确测距",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"光的",
+				false
+			],
+			[
+				"衍射",
+				true
+			],
+			[
+				"、偏振与激光"
+			]
+		],
+		"endLine": "衍射中央宽，偏振证横波",
+		"slogan": "衍射中央宽，偏振证横波"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Clement Eustache《Poisson Spot》，CC BY-SA 4.0；插图来自 pixiv：すわ猫、かるは、ぜつよちまよ（侵删）",
+	"anime": [
+		{
+			"key": "surprise",
+			"src": "surprise.jpg",
+			"credit": "插图：すわ猫《ぼっち・ざ・ジークアクス》 pixiv #130336297",
+			"url": "https://www.pixiv.net/artworks/130336297"
+		},
+		{
+			"key": "sunglasses",
+			"src": "sunglasses.jpg",
+			"credit": "插图：かるは《Ho-kagoTeaTime!Ⅳ》 pixiv #22218257",
+			"url": "https://www.pixiv.net/artworks/22218257"
+		},
+		{
+			"key": "saber",
+			"src": "saber.jpg",
+			"credit": "插图：ぜつよちまよ《ぼっちちゃん》 pixiv #113245011",
+			"url": "https://www.pixiv.net/artworks/113245011"
+		}
+	]
+}

@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|重力与弹力。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲力的基本概念、重力和重心、弹力的产生和方向，以及胡克定律，共八个考点。",
+		"seconds": 8.136
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，力是物体与物体之间的相互作用。一个力一定同时有施力物体和受力物体。",
+		"seconds": 8.472
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|力的单位是牛顿，简称牛，符号 N。",
+		"seconds": 3.744
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|力的三要素是大小、方向和作用点，它们都会影响力的作用效果。",
+		"seconds": 6.36
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩一拳打在显示器上：拳头是施力物体，显示器是受力物体；离开了这两个物体，这个力就不存在。",
+		"seconds": 10.128
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|力可以用力的图示表示：带箭头的线段，按标度画出长度表示大小，箭头表示方向，起点表示作用点；只画出方向和作用点的，叫力的示意图。",
+		"seconds": 13.464
+	},
+	"f5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：力不能离开物体单独存在；力的图示要选好标度，按比例画长度。",
+		"seconds": 7.224
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，重力：由于地球的吸引而使物体受到的力。",
+		"seconds": 5.232
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|重力的大小G等于m g，其中g就是重力加速度。",
+		"seconds": 5.304
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|重力的方向总是竖直向下。",
+		"seconds": 3.072
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉发女孩轻轻松松抱起红发女孩：抱起来轻不轻，看的是重力；G等于m g，质量越大，受到的重力越大。",
+		"seconds": 10.224
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同一物体在不同地点，g 不同，重力也可能不同；而物体的质量不变。",
+		"seconds": 7.464
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，重心：物体各部分都受重力，从效果上看，可以认为各部分受到的重力集中作用于一点，这一点叫重心。",
+		"seconds": 10.848
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|重心的位置与物体的形状和质量分布有关；质量分布均匀、形状规则的物体，重心在它的几何中心。",
+		"seconds": 9.36
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|重心可以不在物体上，比如圆环的重心在圆心，那里是空的。",
+		"seconds": 5.592
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|薄板的重心可以用悬挂法确定：先后从两点把薄板悬挂起来，过悬点的两条竖直线的交点就是重心。",
+		"seconds": 9.432
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：重心是重力的等效作用点，并不是只有重心才受重力。",
+		"seconds": 6
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，物体在力的作用下形状或体积发生改变，叫形变；撤去外力后能恢复原状的，叫弹性形变。",
+		"seconds": 10.128
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|发生弹性形变的物体，由于要恢复原状，会对与它接触的物体产生力的作用，这种力叫弹力。",
+		"seconds": 8.64
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|弹力产生的条件：两物体直接接触，并且发生弹性形变。",
+		"seconds": 5.808
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|形变超过一定限度，撤去外力后就不能完全恢复原状，这个限度叫弹性限度。",
+		"seconds": 7.704
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：有弹力一定接触，但接触不一定有弹力，还要看有没有发生弹性形变。",
+		"seconds": 7.392
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，有些形变很小，眼睛看不出来，比如书压在桌面上，桌面发生的形变。",
+		"seconds": 7.512
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|用光的反射放大：桌面上放两块平面镜，激光经两次反射照到墙上，用力压桌面，墙上的光点会明显移动。",
+		"seconds": 10.488
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|用细管中液面的变化放大：装满水的玻璃瓶插上细管，用手捏瓶子，细管中的水面会上升。",
+		"seconds": 9.024
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两个实验都用了放大的思想，说明桌面、玻璃瓶这些“硬”的物体受力时也会发生形变。",
+		"seconds": 8.88
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，弹力的方向。压力和支持力都是弹力，方向垂直于接触面。",
+		"seconds": 7.296
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|压力指向被压的物体；支持力指向被支持的物体。",
+		"seconds": 5.088
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|绳的拉力沿着绳，指向绳收缩的方向。",
+		"seconds": 4.008
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：弹力的方向与施力物体形变的方向相反，也就是施力物体恢复原状的方向。",
+		"seconds": 7.896
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，胡克定律：在弹性限度内，弹簧弹力的大小F与弹簧的形变量x成正比，F等于k x。",
+		"seconds": 9.888
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|x是弹簧伸长或缩短的长度，等于现在的长度与原长之差的绝对值。",
+		"seconds": 6.864
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|k叫劲度系数，单位是牛顿每米；k由弹簧本身决定，与弹力的大小无关。",
+		"seconds": 7.32
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|F x图像是一条过原点的直线，斜率就是k。",
+		"seconds": 4.8
+	},
+	"h5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：x是形变量，不是弹簧的长度；超过弹性限度，胡克定律不再适用。",
+		"seconds": 7.584
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析：弹力是施力物体发生形变产生的。",
+		"seconds": 5.496
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|书放在桌面上：书对桌面的压力，是书发生形变、要恢复原状而产生的。",
+		"seconds": 7.176
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|桌面对书的支持力，是桌面发生形变而产生的。",
+		"seconds": 4.656
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|一只手捏住粉发女孩的脸颊：脸颊被捏得变了形，脸颊对手的弹力来自脸颊的形变；手对脸颊的力，来自手的形变。",
+		"seconds": 10.776
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：哪个物体施力，就是哪个物体的形变；不要说成受力物体的形变。",
+		"seconds": 6.72
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：力的三要素是大小、方向和作用点？对。判断二：重心一定在物体上？错，圆环的重心就不在环上。",
+		"seconds": 12.24
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：接触就一定有弹力？错，还要有弹性形变。判断四：绳的拉力指向绳收缩的方向？对。",
+		"seconds": 10.896
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：胡克定律中的x是弹簧的长度？错，是形变量。判断六：支持力是桌面形变产生的？对。",
+		"seconds": 11.352
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|重力竖直向下，弹力来自施力物体的形变。下一期：摩擦力。",
+		"seconds": 6.552
+	}
+}

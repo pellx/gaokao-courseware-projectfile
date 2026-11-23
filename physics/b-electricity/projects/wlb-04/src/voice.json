@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电势能和电势。",
+		"seconds": 2.088
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲静电力做功的特点、电势能、电势以及它们和电场线、电场强度的关系，共八个考点。",
+		"seconds": 9
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，静电力做功的特点。在静电场中移动电荷，静电力做的功与路径无关。",
+		"seconds": 8.184
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|它只与电荷的起点和终点位置有关。",
+		"seconds": 3.624
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|这和重力做功的特点一样，所以可以引入相应的势能。",
+		"seconds": 4.824
+	},
+	"w3b": {
+		"key": "zh-CN-XiaoxiaoNeural|站在一大片岔路口前的女孩，箭头指向四面八方：可不管走哪条路，只要起点和终点相同，静电力做的功都一样。",
+		"seconds": 10.752
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：做功与路径无关，是引入电势能的前提。",
+		"seconds": 4.824
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电势能：电荷在电场中具有的势能，用E p表示。",
+		"seconds": 5.976
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|静电力做的功等于电势能的减少量：W A B等于E p A减E p B。",
+		"seconds": 6.792
+	},
+	"e2b": {
+		"key": "zh-CN-XiaoxiaoNeural|静电力做多少正功，电势能就减少多少；做多少负功，电势能就增加多少。",
+		"seconds": 7.8
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电势能是电荷和电场共同具有的，和重力势能属于物体与地球一样。",
+		"seconds": 7.488
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，静电力做功与电势能变化。静电力做正功，电势能减少。",
+		"seconds": 7.224
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|静电力做负功，电势能增加。",
+		"seconds": 3.216
+	},
+	"c2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这和重力做功与重力势能的关系完全类似：重力做正功，重力势能减少。",
+		"seconds": 7.176
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断电势能增减只看静电力做功的正负，与电荷是否运动、受不受别的力无关。",
+		"seconds": 8.616
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，电势能的相对性。电势能的数值与零势能位置的选取有关。",
+		"seconds": 7.224
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|通常取无限远处或大地表面的电势能为零。",
+		"seconds": 4.44
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|电荷在某点的电势能，等于把它从该点移到零势能位置时静电力做的功。",
+		"seconds": 6.864
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电势能的数值是相对的，但两点间电势能的差与零点选取无关。",
+		"seconds": 6.936
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，电势phi等于E p比q，单位伏特，符号V。",
+		"seconds": 5.544
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|电势是标量，但有正负，正负表示比零电势高还是低。",
+		"seconds": 5.592
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|电势由电场本身决定，与试探电荷无关；它的数值与零电势点的选取有关。",
+		"seconds": 7.296
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|三姐妹从上到下挤成一摞，头的位置有高有低：电势就像电场里的“高度”，数值要看把哪里定成零。",
+		"seconds": 9.624
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电势是比值定义，反映电场的能的性质。",
+		"seconds": 4.896
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，沿着电场线方向，电势逐渐降低。",
+		"seconds": 4.584
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|这是判断两点电势高低最直接的依据。",
+		"seconds": 3.864
+	},
+	"d2b": {
+		"key": "zh-CN-XiaoxiaoNeural|沿电场线移动正电荷，静电力做正功，电势能减少，所以电势降低。",
+		"seconds": 6.84
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电势降低的方向由电场线方向决定，与电荷正负无关。",
+		"seconds": 6.312
+	},
+	"q1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，电势能与电势的关系：E p等于q phi，计算时q和phi都带正负号。",
+		"seconds": 7.608
+	},
+	"q2": {
+		"key": "zh-CN-XiaoxiaoNeural|正电荷在电势高处电势能大。",
+		"seconds": 3.312
+	},
+	"q3": {
+		"key": "zh-CN-XiaoxiaoNeural|负电荷恰好相反，在电势高处电势能小。",
+		"seconds": 4.488
+	},
+	"q3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩得意洋洋，后面的长马尾女孩却慌得冒汗：同处电势高的位置，正电荷电势能大，负电荷电势能小。",
+		"seconds": 10.512
+	},
+	"q4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能笼统说“电势越高电势能越大”，要先看电荷的正负。",
+		"seconds": 6.312
+	},
+	"x1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。电场强度和电势没有必然联系。",
+		"seconds": 5.712
+	},
+	"x2": {
+		"key": "zh-CN-XiaoxiaoNeural|电场强度大的地方，电势不一定高；电场强度为零的地方，电势不一定为零。",
+		"seconds": 7.224
+	},
+	"x2b": {
+		"key": "zh-CN-XiaoxiaoNeural|比如等量同种电荷连线的中点，电场强度为零，电势却不为零。",
+		"seconds": 6.624
+	},
+	"x3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电场强度看电场线的疏密，电势看电场线的方向，两者不能互相推断。",
+		"seconds": 7.848
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：静电力做功与路径有关？错。判断二：静电力做正功电势能减少？对。",
+		"seconds": 9.864
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：电势由试探电荷决定？错，由电场本身决定。判断四：沿电场线电势降低？对。",
+		"seconds": 10.512
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：负电荷在电势高处电势能大？错，是小。判断六：电场强度为零处电势一定为零？错。",
+		"seconds": 11.376
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|正功减势能，顺线电势降。下一期：电势差及其与电场强度的关系。",
+		"seconds": 7.392
+	}
+}

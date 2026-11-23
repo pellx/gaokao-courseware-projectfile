@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|光的干涉。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲杨氏双缝干涉、明暗条纹的条件、条纹间距、光的颜色与波长，以及薄膜干涉，共八个考点。",
+		"seconds": 9.84
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，杨氏双缝干涉实验。一八零一年，英国物理学家托马斯杨成功观察到了光的干涉现象。",
+		"seconds": 9.528
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|光通过两条靠得很近的狭缝，在屏上形成明暗相间的条纹。",
+		"seconds": 5.688
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|干涉是波特有的现象，所以这个实验证明光是一种波。",
+		"seconds": 5.496
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：杨氏双缝干涉实验是光的波动说的有力证据。",
+		"seconds": 5.352
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，相干光源：频率相同、相位差恒定、振动方向相同的两个光源。",
+		"seconds": 7.416
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个独立的普通光源，发光的相位随机变化，不是相干光源。",
+		"seconds": 5.856
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|实验中让同一束光通过双缝，两条缝就成了两个相干光源。",
+		"seconds": 5.976
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两个独立的灯泡照射同一区域，看不到干涉条纹。",
+		"seconds": 5.64
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，亮条纹和暗条纹的条件。看屏上某点到两缝的路程差。",
+		"seconds": 6.552
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|路程差等于波长的整数倍，两列光波加强，出现亮条纹。",
+		"seconds": 5.808
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|路程差等于半波长的奇数倍，两列光波减弱，出现暗条纹。",
+		"seconds": 5.952
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：屏的中央到两缝的路程差为零，是亮条纹。",
+		"seconds": 5.136
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，相邻两条亮条纹或暗条纹的间距，德尔塔x等于l兰姆达除以d。",
+		"seconds": 7.632
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中l是双缝到屏的距离，d是双缝间距，兰姆达是光的波长。",
+		"seconds": 6.48
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|屏越远、波长越长、双缝越近，条纹间距越大。",
+		"seconds": 5.112
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩坐在钢琴边比剪刀手：琴键黑白相间、宽窄均匀，单色光的干涉条纹也是这样明暗相间、等间距排开的。",
+		"seconds": 10.92
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：测出德尔塔x、l、d，就能算出光的波长。",
+		"seconds": 5.568
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，干涉图样的特点。单色光的干涉条纹是等间距的明暗相间条纹。",
+		"seconds": 7.44
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|白光的干涉条纹是彩色的。",
+		"seconds": 3
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|白光的中央，各色光路程差都为零，叠加成白色亮条纹。",
+		"seconds": 5.904
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：彩色条纹是因为不同色光的波长不同，条纹间距不同而错开。",
+		"seconds": 6.816
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，光的颜色与波长。光的颜色由频率决定。",
+		"seconds": 5.616
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|可见光中，红光波长最长，紫光波长最短。",
+		"seconds": 4.68
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|由德尔塔x等于l兰姆达除以d，波长越长，干涉条纹间距越大：红光条纹最宽，紫光最窄。",
+		"seconds": 9.528
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|高个子女孩摸着小个子女孩的头：色光的波长也有长有短，波长越长，条纹间距就越大。",
+		"seconds": 8.616
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：颜色由频率决定，不是由波长决定；光进入介质后波长变了，颜色不变。",
+		"seconds": 7.992
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，薄膜干涉。光照到薄膜上，前、后两个表面的反射光叠加，形成干涉。",
+		"seconds": 8.424
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|竖直放置的肥皂膜，由于重力，上薄下厚。",
+		"seconds": 4.488
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一水平线上薄膜厚度相同，所以形成水平的条纹；白光照射时呈彩色。",
+		"seconds": 7.344
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿白大褂、贴着白胡子的红头发小博士在吹肥皂泡：泡泡上的彩色花纹，正是薄膜干涉。",
+		"seconds": 8.664
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：薄膜干涉是同一侧的两束反射光叠加，观察时眼睛与光源在薄膜同侧。",
+		"seconds": 8.04
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，薄膜干涉的应用。用标准平面和待测表面之间的空气薄层，检查光学元件表面是否平整。",
+		"seconds": 10.032
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|表面平整时，干涉条纹是平行等距的直线；条纹弯曲，说明表面不平。",
+		"seconds": 7.296
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|在镜头等光学元件表面镀膜，可以增加透射光，也可以增加反射光。",
+		"seconds": 6.36
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：检查平整度和镀膜，原理都是薄膜干涉。",
+		"seconds": 5.112
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：双缝干涉证明光是波？对。判断二：两个独立灯泡是相干光源？错。",
+		"seconds": 9.192
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：双缝间距越大条纹越宽？错，越窄。判断四：白光干涉中央是白色亮条纹？对。",
+		"seconds": 10.896
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：紫光条纹比红光宽？错，红光更宽。判断六：竖直肥皂膜上是竖直条纹？错，是水平条纹。",
+		"seconds": 11.664
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|路程差整波长亮，间距等于l兰姆达比d。下一期：光的衍射、偏振与激光。",
+		"seconds": 8.04
+	}
+}

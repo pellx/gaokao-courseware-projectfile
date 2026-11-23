@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Force: React.FC = () => <AutoScene k="force" d={{"tag": "考点一", "title": "力", "blocks": [{"t": "rule", "tag": "定义", "at": "f1", "text": "物体与物体之间的{相互作用}", "c": "red", "size": 36}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "单位", "at": "f2", "text": "牛顿 {N}", "c": "red", "size": 32}]}, {"blocks": [{"t": "rule", "tag": "三要素", "at": "f3", "text": "{大小、方向、作用点}", "c": "orange", "size": 32}]}]}, {"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "力的图示", "at": "f4", "lines": ["选{标度}，长度表示大小", "箭头表示方向"], "c": "red", "size": 30}]}, {"blocks": [{"t": "panel", "title": "力的示意图", "at": "f4", "lines": ["只画{方向|orange}和作用点"], "c": "orange", "size": 30}]}]}], "callout": {"label": "要点", "at": "f5", "text": "有施力物体，也有{受力物体}"}, "beat": {"k": "punch", "at": "f3b", "text": "施力物体：{拳头|red}\n受力物体：{显示器|orange}"}}} />;

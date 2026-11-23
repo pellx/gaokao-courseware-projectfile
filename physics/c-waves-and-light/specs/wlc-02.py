@@ -5,7 +5,7 @@ EP = dict(
     introTitle=[['波的', False], ['衍射与干涉', True], ['多普勒效应']],
     coverTitle=[[['波的衍射与干涉', True]], [['多普勒效应']]],
     subtitle='反射 · 折射 · 衍射 · 干涉 · 多普勒效应',
-    photo=PHOTO,  # TODO: Commons 'Two-point-interference-ripple-tank.JPG' -> assets/photos/02.jpg (was rate-limited); verify author/licence
+    photo=dict(src='02.jpg', file='ripple.jpg', caption='水波槽中两个波源产生的干涉图样（黑白处理）', pos='center 30%', tag='水波干涉', short='Armedblowfish, BSD', long='Armedblowfish《Two-point interference ripple tank》，BSD 许可，已转为黑白'),
     anime=[('around', '02-around.jpg'), ('teacher', '02-teacher.jpg'), ('point', '02-point.jpg')],
     intro=[
         ('in1', '{波的反射、折射、衍射、干涉与多普勒效应|red}。'),

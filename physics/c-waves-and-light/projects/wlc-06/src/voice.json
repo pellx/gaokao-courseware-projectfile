@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|光的衍射、偏振与激光。",
+		"seconds": 2.76
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲光的衍射和几种衍射图样、光的偏振说明光是横波，以及激光的特性，共十个考点。",
+		"seconds": 8.856
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，光的衍射：光通过很窄的缝或很小的孔时，绕过缝或孔的边缘，传播到相当宽的地方。",
+		"seconds": 9.264
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|障碍物或孔的尺寸与光的波长相差不多，或者比波长小时，衍射十分明显。",
+		"seconds": 7.44
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|可见光波长只有几百纳米，所以平时不容易看到光的衍射。",
+		"seconds": 5.76
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：明显衍射的条件与机械波相同，都是尺寸接近或小于波长。",
+		"seconds": 7.008
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，单缝衍射图样。中央亮条纹最宽最亮，两侧条纹变窄变暗。",
+		"seconds": 7.32
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|缝越窄，中央亮条纹越宽；波长越长，中央亮条纹也越宽。",
+		"seconds": 6.264
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|白光的单缝衍射条纹是彩色的，中央为白色。",
+		"seconds": 4.704
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：缝越窄，衍射越明显，中央亮条纹越宽，但亮度变暗。",
+		"seconds": 6.504
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，圆孔衍射：光通过小圆孔，屏上出现明暗相间的圆环。",
+		"seconds": 6.648
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|圆盘衍射：用不透光的小圆盘挡光，阴影中心竟出现一个亮斑，叫泊松亮斑。",
+		"seconds": 7.512
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|泊松本想用这个推论否定波动说，结果实验真的看到了亮斑。",
+		"seconds": 5.688
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发女孩吓得摆出一个奇怪的姿势：泊松当年大概也是这个表情，阴影正中央真的亮了。",
+		"seconds": 8.52
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：泊松亮斑的出现，有力地支持了光的波动说。",
+		"seconds": 5.136
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，衍射光栅：由许多等宽、等间距的狭缝组成。",
+		"seconds": 5.64
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|光栅的衍射条纹又窄又亮，比单缝衍射清晰得多。",
+		"seconds": 5.064
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|不同色光的条纹位置不同，所以光栅可以用来分析光谱。",
+		"seconds": 5.544
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：狭缝越多，条纹越窄越亮。",
+		"seconds": 3.816
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，概念辨析：干涉与衍射图样。",
+		"seconds": 4.272
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|双缝干涉条纹等间距，亮度基本相同。",
+		"seconds": 4.2
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|单缝衍射条纹中央宽而亮，两侧窄而暗，间距不等。",
+		"seconds": 5.304
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：看中央条纹：比两侧宽得多的是衍射，宽窄一样的是干涉。",
+		"seconds": 6.48
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，衍射的意义。衍射现象说明，光沿直线传播只是一种近似规律。",
+		"seconds": 7.704
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|只有障碍物比波长大得多时，光才可以看成沿直线传播。",
+		"seconds": 5.712
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|光的干涉和衍射都说明，光具有波动性。",
+		"seconds": 4.248
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：干涉和衍射是一切波的特征，光也不例外。",
+		"seconds": 5.136
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，光的偏振。自然光在垂直于传播方向的平面内，沿一切方向振动。",
+		"seconds": 7.728
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|通过偏振片后，只剩下沿透振方向振动的光，成为偏振光。",
+		"seconds": 5.928
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|两偏振片的透振方向垂直时，光不能通过。",
+		"seconds": 4.368
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|五个戴墨镜的女孩摆着酷酷的姿势：偏振太阳镜的镜片就是偏振片，只让一个方向振动的光通过。",
+		"seconds": 9
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：转动后一块偏振片，透过的光时亮时暗，说明光是偏振光。",
+		"seconds": 6.816
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，光是横波。只有横波才能发生偏振。",
+		"seconds": 5.112
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|光能发生偏振，说明光是横波；纵波没有偏振现象。",
+		"seconds": 5.496
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|自然光在水面、玻璃表面反射和折射时，反射光和折射光都是偏振光。",
+		"seconds": 7.152
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：干涉、衍射说明光是波；偏振才说明光是横波。",
+		"seconds": 6.096
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，偏振的应用。照相机镜头前加偏振滤光片，减弱水面、玻璃的反射光，拍得更清楚。",
+		"seconds": 9.6
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|立体电影：两台放映机放出偏振方向不同的光，观众戴偏振眼镜，左右眼看到不同画面。",
+		"seconds": 8.88
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|液晶显示也利用了光的偏振。",
+		"seconds": 3.24
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：这些应用都利用偏振片只让某一方向振动的光通过。",
+		"seconds": 5.856
+	},
+	"j1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点十，激光是人工产生的相干光。",
+		"seconds": 3.84
+	},
+	"j2": {
+		"key": "zh-CN-XiaoxiaoNeural|相干性好：可用于光纤通信、全息照相。",
+		"seconds": 4.488
+	},
+	"j3": {
+		"key": "zh-CN-XiaoxiaoNeural|平行度好：可用于精确测距、读取光盘；亮度高：可用于切割、焊接，医学上用作光刀。",
+		"seconds": 9.048
+	},
+	"j3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发女孩握着一把红色光剑，光束笔直又明亮：激光平行度好、亮度高，医学上真能当光刀用。",
+		"seconds": 9.288
+	},
+	"j4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：记住激光三大特性：相干性好、平行度好、亮度高。",
+		"seconds": 6.24
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：单缝衍射中央条纹最宽最亮？对。判断二：泊松亮斑支持粒子说？错，支持波动说。",
+		"seconds": 11.232
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：双缝干涉中央宽两侧窄？错，那是衍射。判断四：偏振说明光是横波？对。",
+		"seconds": 10.368
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：水面反射光仍是自然光？错，是偏振光。判断六：激光平行度好能测距？对。",
+		"seconds": 10.488
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|衍射中央宽，偏振证横波。下一期：电磁振荡。",
+		"seconds": 5.568
+	}
+}

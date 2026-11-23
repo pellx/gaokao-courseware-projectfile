@@ -1,0 +1,127 @@
+{
+	"id": "WLF-03",
+	"title": "测量做直线运动物体的瞬时速度",
+	"subject": "physics",
+	"book": "实验 · 第3期 / 共22期",
+	"points": [
+		"实验目的",
+		"打点计时器",
+		"器材及作用",
+		"关键步骤",
+		"计数点的选取",
+		"瞬时速度的测量原理",
+		"数据处理",
+		"结论与误差"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"测量做直线运动物体的",
+				false
+			],
+			[
+				"瞬时速度",
+				true
+			]
+		],
+		"subtitle": "打点计时器 · 计数点 · 平均速度代替瞬时速度 · v-t 图像",
+		"photo": "inclined-plane.jpg",
+		"photoCaption": "伽利略博物馆收藏的斜面装置：用来研究物体沿斜面的加速运动",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"测量直线运动的"
+				]
+			],
+			[
+				[
+					"瞬时速度",
+					true
+				]
+			]
+		],
+		"photo": "inclined-plane.jpg",
+		"photoPos": "center",
+		"photoTag": "实验装置",
+		"credit": "Zde, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ツネモク",
+			"title": "",
+			"url": "https://www.pixiv.net/artworks/99610332"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电火花计时器使用 220 V 交变电源",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电源频率为 50 Hz 时，打点计时器每隔 0.1 s 打一个点",
+				"ok": false,
+				"fix": "每隔 0.02 s 打一个点"
+			},
+			{
+				"q": "实验时应先释放小车，再接通电源",
+				"ok": false,
+				"fix": "先接通电源，后释放小车"
+			},
+			{
+				"q": "每 5 个点取一个计数点，相邻计数点间隔为 0.1 s",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "遮光条越宽，光电门测得的速度越接近瞬时速度",
+				"ok": false,
+				"fix": "遮光条越窄越接近"
+			},
+			{
+				"q": "v-t 图像的斜率表示加速度",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"测量做直线运动物体的",
+				false
+			],
+			[
+				"瞬时速度",
+				true
+			]
+		],
+		"endLine": "先通电后放车，平均速度代瞬时",
+		"slogan": "先通电后放车，平均速度代瞬时"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Zde《Piano inclinato, Museo Galileo, Florence》，CC BY-SA 4.0；插图来自 pixiv：ツネモク、MA-2、バッチゴーヤ（侵删）",
+	"anime": [
+		{
+			"key": "drum",
+			"src": "drum.jpg",
+			"credit": "插图：ツネモク《》pixiv #99497361",
+			"url": "https://www.pixiv.net/artworks/99497361"
+		},
+		{
+			"key": "onigiri",
+			"src": "onigiri.jpg",
+			"credit": "插图：MA-2《にぎにぎ憂ちゃん》pixiv #98498680",
+			"url": "https://www.pixiv.net/artworks/98498680"
+		},
+		{
+			"key": "pose",
+			"src": "pose.jpg",
+			"credit": "插图：バッチゴーヤ《ふんす！》pixiv #98279838",
+			"url": "https://www.pixiv.net/artworks/98279838"
+		}
+	]
+}

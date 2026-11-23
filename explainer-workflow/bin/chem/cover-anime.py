@@ -19,6 +19,7 @@ def apply(proj):
     ep_path = f'{proj}/src/episode.json'
     ep = json.load(open(ep_path))
     title = re.sub(r'[\U0001F000-\U0001FFFF☀-➿]', '', m['title']).strip()
+    title = title or m['title'].strip()  # 只有 emoji 的标题保留原样（简介用）
     ep['cover']['anime'] = dst
     ep['cover']['animeCredit'] = {'user': m['user'], 'title': title, 'url': f"https://www.pixiv.net/artworks/{m['id']}"}
     json.dump(ep, open(ep_path, 'w'), ensure_ascii=False, indent='\t')

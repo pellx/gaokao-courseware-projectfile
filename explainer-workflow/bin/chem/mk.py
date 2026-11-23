@@ -112,7 +112,8 @@ for key, f in E['anime']:
     dst = key + os.path.splitext(f)[1]
     shutil.copy(ANIME + '/' + f, img + '/' + dst)
     title = re.sub(r'[\U0001F000-\U0001FFFF☀-➿]', '', m['title']).strip()
-    anime.append({'key': key, 'src': dst, 'credit': f"插图：{m['user']}《{title}》pixiv #{m['id']}", 'url': f"https://www.pixiv.net/artworks/{m['id']}", 'user': m['user'], 'title': title})
+    # 视频字体里没有 emoji：去掉后标题为空就不写书名号；简介里保留原标题
+    anime.append({'key': key, 'src': dst, 'credit': f"插图：{m['user']}{'《' + title + '》' if title else ''} pixiv #{m['id']}", 'url': f"https://www.pixiv.net/artworks/{m['id']}", 'user': m['user'], 'title': title or m['title'].strip()})
     if m['user'] not in names:
         names.append(m['user'])
 

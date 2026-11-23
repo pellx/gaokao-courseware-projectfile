@@ -1,0 +1,154 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|探究弹簧弹力与形变量的关系。",
+		"seconds": 3.456
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的目的、原理、器材、步骤、数据处理、易错点和误差，共七个考点。",
+		"seconds": 8.544
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。探究弹簧弹力的大小与弹簧伸长量之间的定量关系。",
+		"seconds": 7.488
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|并由实验数据测出这根弹簧的劲度系数k。",
+		"seconds": 4.488
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|劲度系数由弹簧本身决定，弹簧越硬，k越大。",
+		"seconds": 5.088
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：探究的是弹力与形变量的关系，不是与弹簧长度的关系。",
+		"seconds": 6.12
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验原理。弹簧下端挂上钩码，钩码静止时，弹簧弹力的大小等于钩码所受的重力。",
+		"seconds": 9.576
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|钩码的质量已知，弹力F等于m g就知道了。",
+		"seconds": 4.704
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|用刻度尺测出弹簧的原长l零和挂钩码后的长度l，伸长量x等于l减l零。",
+		"seconds": 8.184
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个穿恐龙服的小人，站稳了一动不动：钩码也要这样静止下来，弹力才和重力平衡、大小相等。",
+		"seconds": 9.288
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：弹力等于重力的前提是钩码静止，所以要等钩码停稳了再读数。",
+		"seconds": 6.96
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。铁架台用来悬挂弹簧。",
+		"seconds": 5.352
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|钩码提供已知大小的拉力，逐个增挂就能改变拉力。",
+		"seconds": 5.112
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|刻度尺竖直固定在弹簧旁边，测量弹簧的长度。",
+		"seconds": 5.064
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：钩码的质量已知，所以不需要弹簧测力计，弹力由钩码重力得出。",
+		"seconds": 6.96
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，关键步骤。弹簧竖直悬挂，刻度尺也要竖直，并且靠近弹簧。",
+		"seconds": 7.68
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|等钩码静止后再读数，读数时视线与指针所对的刻度相平。",
+		"seconds": 6.168
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|逐个增挂钩码，记录每次钩码的总重力和弹簧的长度，得到多组数据。",
+		"seconds": 6.816
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：所挂钩码不能使弹簧超过弹性限度，否则弹簧会损坏，数据也不再满足线性关系。",
+		"seconds": 8.904
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，数据处理。以弹力F为纵轴、伸长量x为横轴描点。",
+		"seconds": 7.2
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|用直线拟合，得到一条过原点的直线，直线的斜率等于劲度系数k。",
+		"seconds": 6.528
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果横轴改用弹簧的长度l，图线与横轴的交点表示原长l零，斜率仍然是k。",
+		"seconds": 7.848
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：F对x的图像过原点；F对l的图像不过原点，横截距是原长，两者斜率都等于k。",
+		"seconds": 9.192
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，易错提醒。公式里的x是弹簧的形变量，也就是伸长或缩短的长度。",
+		"seconds": 8.088
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|它不是弹簧的长度：长度l要减去原长l零，才是形变量。",
+		"seconds": 6.12
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果图线的上端发生弯曲，说明拉力已经超过了弹簧的弹性限度。",
+		"seconds": 6.36
+	},
+	"m3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个用手指硬撑出笑容的粉头发女孩：嘴角被拉过了头，勉强得很；弹簧拉过了弹性限度，也就不再“正常”了。",
+		"seconds": 9.936
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：弯曲部分的数据不满足线性关系，求劲度系数时只用直线部分。",
+		"seconds": 7.224
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，实验结论。在弹性限度内，弹簧弹力与形变量成正比，即F等于k x。",
+		"seconds": 8.712
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|误差主要来自弹簧长度的测量和描点作图；多测几组数据、用图像法处理，可以减小偶然误差。",
+		"seconds": 9.408
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|弹簧竖直悬挂时自身有重力，不挂钩码时就已经伸长了一点，图线可能不过原点。",
+		"seconds": 8.088
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个笑眯眯的猫耳女孩：在弹性限度以内，弹簧乖乖听话，拉力加倍，伸长量也加倍。",
+		"seconds": 8.52
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：弹簧自身重力只让图线平移，不影响斜率，测得的劲度系数不受影响。",
+		"seconds": 7.776
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：钩码静止时弹力等于重力？对。判断二：x是弹簧的长度？错，是形变量。",
+		"seconds": 10.056
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：钩码越多越好？错，不能超过弹性限度。判断四：F对x的图像过原点，斜率是劲度系数？对。",
+		"seconds": 11.928
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：F对l的图像横截距是原长？对。判断六：弹簧自重会改变斜率？错，只让图线平移。",
+		"seconds": 11.208
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|x是形变量，斜率是k。下一期：探究两个互成角度的力的合成规律。",
+		"seconds": 7.536
+	}
+}

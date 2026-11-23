@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Tell: React.FC = () => <AutoScene k="tell" d={{"tag": "考点八", "title": "速度、速度变化量与加速度", "blocks": [{"t": "table", "at": "k1", "head": ["物理量", "表达式", "描述"], "cols": "1fr 1.2fr 1.6fr", "rows": [{"at": "k1", "cells": ["速度", "v = Δx/Δt", "运动的{快慢}"]}, {"at": "k1", "cells": ["速度变化量", "Δv = v − v_0", "速度改变了{多少|orange}"]}, {"at": "k1", "cells": ["加速度", "a = Δv/Δt", "速度变化的{快慢}"]}], "size": 32, "rowHeight": 62}, {"t": "row", "cols": [{"blocks": [{"t": "mark", "ok": true, "at": "k3", "text": "匀速列车：v 大，a = 0"}]}, {"blocks": [{"t": "mark", "ok": true, "at": "k4", "text": "火箭点火：v ≈ 0，a 大"}]}]}], "callout": {"label": "易错", "at": "k5", "text": "v 大 a 不一定大；v = 0 时 a {不一定为 0}"}, "beat": {"k": "train", "at": "k3b", "text": "速度{大|red}\n速度{不变|orange} → a = 0"}}} />;

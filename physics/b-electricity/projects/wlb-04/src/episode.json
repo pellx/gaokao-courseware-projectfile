@@ -1,0 +1,123 @@
+{
+	"id": "WLB-04",
+	"title": "电势能和电势",
+	"subject": "physics",
+	"book": "电学基础 · 第4期 / 共22期",
+	"points": [
+		"静电力做功的特点",
+		"电势能",
+		"做功与电势能变化",
+		"电势能的相对性",
+		"电势",
+		"沿电场线电势降低",
+		"E_p = qφ",
+		"电场强度与电势"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"电势能",
+				true
+			],
+			[
+				"和电势"
+			]
+		],
+		"subtitle": "静电力做功 · 电势能 · 电势 · 电场线与电势",
+		"photo": "vdg.jpg",
+		"photoCaption": "范德格拉夫起电机：手扶带电的金属球，人也带上了电，头发竖了起来",
+		"photoPos": "40% center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电势能",
+					true
+				],
+				[
+					"和电势"
+				]
+			]
+		],
+		"photo": "vdg.jpg",
+		"photoPos": "40% center",
+		"photoTag": "起电机",
+		"credit": "Biswarup Ganguly, CC BY 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "蛾井",
+			"title": "2026/06/06",
+			"url": "https://www.pixiv.net/artworks/145722706"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "静电力做功与路径有关",
+				"ok": false,
+				"fix": "只与起点和终点有关"
+			},
+			{
+				"q": "静电力做正功，电势能减少",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电势由试探电荷的电荷量决定",
+				"ok": false,
+				"fix": "由电场本身决定"
+			},
+			{
+				"q": "沿电场线方向电势逐渐降低",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "负电荷在电势高处电势能大",
+				"ok": false,
+				"fix": "负电荷在电势高处电势能小"
+			},
+			{
+				"q": "电场强度为 0 的地方电势一定为 0",
+				"ok": false,
+				"fix": "两者没有必然联系"
+			}
+		],
+		"endTitle": [
+			[
+				"电势能",
+				true
+			],
+			[
+				"和电势"
+			]
+		],
+		"endLine": "正功减势能，顺线电势降",
+		"slogan": "正功减势能，顺线电势降"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Biswarup Ganguly《Van de Graaff Generator - Science City - Calcutta 1997 016》，CC BY 3.0；插图来自 pixiv：ポ～ン（出水ぽすか）、マダンテゴロン、ぽんたす（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：ポ～ン（出水ぽすか）《どの分岐も違う気がする》pixiv #113467829",
+			"url": "https://www.pixiv.net/artworks/113467829"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：マダンテゴロン《イエ～イ！》pixiv #88129194",
+			"url": "https://www.pixiv.net/artworks/88129194"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：ぽんたす《きらきら》pixiv #90946035",
+			"url": "https://www.pixiv.net/artworks/90946035"
+		}
+	]
+}

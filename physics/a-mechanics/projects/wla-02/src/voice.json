@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|速度与加速度。",
+		"seconds": 2.016
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲描述运动快慢和速度变化快慢的物理量：速度、速率和加速度，共八个考点。",
+		"seconds": 8.616
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，速度：位移德尔塔x与发生这段位移所用时间德尔塔t之比，v等于德尔塔x比德尔塔t。",
+		"seconds": 9.912
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|用两个物理量之比来定义新的物理量，叫比值定义法。速度描述物体运动的快慢。",
+		"seconds": 7.848
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|速度的单位是米每秒；常用单位还有千米每时，一米每秒等于三点六千米每时。",
+		"seconds": 7.68
+	},
+	"v3b": {
+		"key": "zh-CN-XiaoxiaoNeural|五个Q版女孩沿着加载条赛跑：用时相同，进度走得越多的跑得越快。比快慢，比的就是位移与时间之比。",
+		"seconds": 10.848
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：速度是矢量，既有大小又有方向；速度的方向就是物体运动的方向。",
+		"seconds": 7.512
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，平均速度与瞬时速度。平均速度对应一段时间或一段位移，粗略描述运动的快慢。",
+		"seconds": 9.336
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|平均速度等于位移与时间之比，方向与这段时间内位移的方向相同。",
+		"seconds": 6.576
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|把德尔塔t取得非常非常小，这段时间内的平均速度就可以看作某一时刻的瞬时速度，这是极限思想。",
+		"seconds": 9.24
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|瞬时速度对应某一时刻或某一位置，精确描述物体在这一时刻运动的快慢和方向。",
+		"seconds": 8.16
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：说平均速度必须指明是哪一段时间或哪一段位移内的；不同时间段内的平均速度一般不同。",
+		"seconds": 9.36
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，速率：瞬时速度的大小叫速率，是标量。",
+		"seconds": 5.208
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|汽车和摩托车上的速度表，显示的就是瞬时速率。",
+		"seconds": 5.064
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|平均速率等于路程与时间之比；平均速度的大小等于位移与时间之比。",
+		"seconds": 6.984
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|路程一般大于位移的大小，只有在单向直线运动中，两者才相等。",
+		"seconds": 6.192
+	},
+	"r5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：平均速率一般不等于平均速度的大小。绕操场跑一圈回到起点，平均速度为零，平均速率不为零。",
+		"seconds": 10.632
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，速度时间图像：以时间t为横轴、速度v为纵轴画出的图像，叫v t图像。",
+		"seconds": 8.424
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|它直观地表示速度随时间的变化。",
+		"seconds": 3.576
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|匀速直线运动的速度不变，v t图像是一条平行于时间轴的直线。",
+		"seconds": 6.336
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|速度变化时，图线就会上升或下降。",
+		"seconds": 3.96
+	},
+	"t5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：纵坐标的正负表示速度的方向，纵坐标的绝对值表示速度的大小。",
+		"seconds": 7.32
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，加速度：速度的变化量德尔塔v与发生这一变化所用时间德尔塔t之比，a等于德尔塔v比德尔塔t。",
+		"seconds": 10.584
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|加速度描述速度变化的快慢，也就是速度的变化率。",
+		"seconds": 5.016
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|其中德尔塔v等于v减v零，是末速度减初速度。",
+		"seconds": 5.184
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|加速度的单位是米每二次方秒。",
+		"seconds": 3.264
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：加速度和速度变化量都是矢量；加速度同样用比值定义法定义。",
+		"seconds": 7.224
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，加速度的方向：与速度变化量德尔塔v的方向相同。",
+		"seconds": 6.048
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|在直线运动中，规定正方向后，v 和 a 的方向都可以用正负号表示。",
+		"seconds": 6.504
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|a 与 v 同向，速度越来越大，物体做加速运动；a 与 v 反向，物体做减速运动。",
+		"seconds": 7.824
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩载着粉发女孩骑车：使劲蹬车起步时，a 与 v 同向，越骑越快；捏闸时 a 与 v 反向，慢慢停下。",
+		"seconds": 10.608
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：加速还是减速，看 a 与 v 的方向关系，不看 a 的正负，也不看 a 的大小。",
+		"seconds": 7.92
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，从v t图像看加速度：图线的斜率等于德尔塔v比德尔塔t，表示加速度。",
+		"seconds": 8.4
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|图线越陡，加速度越大；倾斜的直线表示加速度不变。",
+		"seconds": 5.592
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|图线是曲线时，某一点切线的斜率表示该时刻的加速度。",
+		"seconds": 5.64
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|斜率为正，加速度沿正方向；斜率为负，加速度沿负方向。",
+		"seconds": 6.192
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：在v t图像中看加速度看斜率，不看图线的高低。",
+		"seconds": 5.832
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。速度v描述运动的快慢；速度变化量德尔塔v描述速度改变了多少；加速度a描述速度变化的快慢。",
+		"seconds": 11.976
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|三者之间没有必然联系。德尔塔v大，加速度不一定大，还要看用了多少时间。",
+		"seconds": 7.728
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|高速匀速行驶的列车，速度很大，加速度却为零。",
+		"seconds": 5.016
+	},
+	"k3b": {
+		"key": "zh-CN-XiaoxiaoNeural|坐在高铁窗边的粉发女孩：窗外飞驰，她却稳稳坐着，因为列车速度大而速度不变，加速度为零。",
+		"seconds": 9.12
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|火箭刚点火的瞬间，速度几乎为零，加速度却很大。",
+		"seconds": 5.256
+	},
+	"k5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：速度大，加速度不一定大；速度为零，加速度不一定为零。",
+		"seconds": 6.576
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：速度的方向就是运动的方向？对。判断二：平均速率就是平均速度的大小？错，一个用路程，一个用位移。",
+		"seconds": 12.528
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：匀速直线运动的v t图像平行于时间轴？对。判断四：加速度为负一定减速？错，要看a和v是否同向。",
+		"seconds": 12.888
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：v t图线越高加速度越大？错，加速度看斜率。判断六：速度为零加速度一定为零？错。",
+		"seconds": 11.016
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|速度看快慢，加速度看变化的快慢。下一期：匀变速直线运动的规律。",
+		"seconds": 7.32
+	}
+}

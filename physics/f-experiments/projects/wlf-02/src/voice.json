@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|长度的测量及其测量工具的选用。",
+		"seconds": 3.6
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲刻度尺、游标卡尺和螺旋测微器的结构、原理、读数和使用，共八个考点。",
+		"seconds": 8.232
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，测量工具的选用。选工具要看两件事：被测长度有多大，需要多高的精度。",
+		"seconds": 8.376
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|较长的长度，比如课桌的长、纸带上点迹间的距离，用刻度尺。",
+		"seconds": 6.288
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|圆管的内径、外径，小孔的深度，用游标卡尺。",
+		"seconds": 4.92
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|金属丝的直径、薄板的厚度这类很小的长度，用螺旋测微器。",
+		"seconds": 6.048
+	},
+	"a4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这三个高矮不同的姐妹：个子有高有矮，就像被测的长度有长有短，量不同的长度，要挑合适的工具。",
+		"seconds": 9.648
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：三种工具的精度依次提高：刻度尺约1毫米，游标卡尺零点一到零点零二毫米，螺旋测微器零点零一毫米。",
+		"seconds": 10.728
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，刻度尺。常用刻度尺的分度值是1毫米。",
+		"seconds": 5.568
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|读数要估读到分度值的下一位，以毫米为单位时，要读到零点一毫米，比如二十三点六毫米。",
+		"seconds": 8.376
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|测量时刻度尺要紧贴被测物体，读数时视线要与尺面垂直。",
+		"seconds": 6.408
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：刚好对准整刻度时也要估读，补一个零，比如二十三点零毫米，这个零不能省。",
+		"seconds": 8.28
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，游标卡尺的结构。它由主尺和可以沿主尺滑动的游标尺组成。",
+		"seconds": 7.44
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|下面一对外测量爪夹住物体，测外径和厚度。",
+		"seconds": 4.728
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|上面一对内测量爪伸进孔里，测内径。",
+		"seconds": 4.248
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|尾部的深度尺随游标尺伸出，测孔或槽的深度；紧固螺钉用来固定游标尺。",
+		"seconds": 7.68
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：一把游标卡尺能测外径、内径、深度三种长度，靠的是三组不同的测量部位。",
+		"seconds": 8.376
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，游标卡尺的原理。游标尺上n个分度的总长，比主尺上n个分度的总长短1毫米。",
+		"seconds": 8.976
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以游标尺每个分度比主尺的1毫米短n分之一毫米，这个差值就是卡尺的精度。",
+		"seconds": 8.016
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|例如十分度的游标尺，10个分度共9毫米，每格零点九毫米，比1毫米短零点一毫米。",
+		"seconds": 8.136
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|十分度、二十分度、五十分度的游标卡尺，精度分别是零点一毫米、零点零五毫米、零点零二毫米。",
+		"seconds": 9.624
+	},
+	"p5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：精度等于n分之一毫米，分度越多，精度越高。",
+		"seconds": 5.472
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，游标卡尺的读数。先看游标零刻线左侧，读出主尺上的整毫米数。",
+		"seconds": 7.824
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|再找游标尺上与主尺刻线对齐的那条刻线，记下它的序号。",
+		"seconds": 5.832
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|读数等于整毫米数加序号乘精度。比如二十分度，主尺21毫米，第8条对齐，读数二十一点四零毫米。",
+		"seconds": 10.584
+	},
+	"v3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这两个脸对着脸、目光正好对上的女孩：读游标卡尺，就是要找游标上和主尺正好对齐的那一条刻线。",
+		"seconds": 9.528
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：游标卡尺不估读；读数的小数位数由精度决定，二十分度、五十分度读到零点零一毫米，末尾的零不能丢。",
+		"seconds": 10.704
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，螺旋测微器的原理。测微螺杆的螺距是零点五毫米：旋钮转一周，螺杆前进或后退零点五毫米。",
+		"seconds": 10.608
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|可动刻度一周分成五十等份。",
+		"seconds": 3.144
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|每转过一个等份，螺杆移动零点五毫米除以五十，等于零点零一毫米，这就是它的精度。",
+		"seconds": 8.088
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：螺旋测微器把螺杆的微小移动，放大成可动刻度上转过的格数，所以能测很小的长度。",
+		"seconds": 9.072
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，螺旋测微器的读数。先读固定刻度，注意半毫米刻线有没有露出来，露出来就加零点五毫米。",
+		"seconds": 10.2
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|再看可动刻度上与基准线对齐的格数，要估读一位，乘以零点零一毫米。",
+		"seconds": 6.936
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如固定刻度二点五毫米，可动刻度对齐十二点三格，读数是二点五加零点一二三，等于二点六二三毫米。",
+		"seconds": 10.44
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|以毫米为单位时读数有三位小数，读到千分之一毫米，所以螺旋测微器又叫千分尺。",
+		"seconds": 8.616
+	},
+	"k5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：螺旋测微器要估读，这一点和游标卡尺相反；半毫米刻线漏看，读数就差零点五毫米。",
+		"seconds": 9.288
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，螺旋测微器的使用。先转粗调旋钮，让测微螺杆靠近被测物体。",
+		"seconds": 7.848
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|快要接触时，改用微调旋钮，听到“喀喀”声就停止转动。",
+		"seconds": 5.448
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|然后拨动止动旋钮，把测微螺杆固定住，再读数。",
+		"seconds": 5.04
+	},
+	"u3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个轻轻摸着妹妹头的戴眼镜女孩：螺杆快接触物体时也要这样轻轻地来，用微调旋钮，不能硬拧。",
+		"seconds": 9.456
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：用微调旋钮是为了控制压力：压力过大，会损坏仪器，也会使读数偏小。",
+		"seconds": 7.992
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：测金属丝直径用螺旋测微器？对。判断二：毫米刻度尺估读到零点一毫米？对。",
+		"seconds": 10.656
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：二十分度游标卡尺精度零点零二毫米？错，是零点零五毫米。判断四：游标卡尺要估读？错，游标卡尺不估读。",
+		"seconds": 12.792
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：螺旋测微器精度零点零一毫米，要估读？对。判断六：一直用粗调旋钮拧紧？错，靠近时改用微调旋钮。",
+		"seconds": 12.648
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|卡尺不估读，千分尺要估读。下一期：测量做直线运动物体的瞬时速度。",
+		"seconds": 7.344
+	}
+}

@@ -1,0 +1,118 @@
+{
+	"id": "WLA-05",
+	"title": "运动图像",
+	"subject": "physics",
+	"book": "力学 · 第5期 / 共32期",
+	"points": [
+		"图像中的物理量",
+		"x-t 图像的斜率",
+		"x-t 图像的截距与交点",
+		"v-t 图像的斜率",
+		"v-t 图像的面积与交点",
+		"a-t 图像",
+		"运动方向的变化",
+		"图线不是轨迹"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"运动图像",
+				true
+			]
+		],
+		"subtitle": "x-t · v-t · a-t · 斜率 · 面积 · 截距 · 交点",
+		"photo": "strobe-ball.jpg",
+		"photoCaption": "弹跳篮球的频闪照片：每隔相同时间留下一个像，像越稀疏运动越快",
+		"photoPos": "center 45%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"运动图像",
+					true
+				]
+			]
+		],
+		"photo": "strobe-ball.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "30% center",
+			"3x4": "28% center"
+		},
+		"photoTag": "频闪照片",
+		"credit": "MichaelMaggs, Richard Bartz, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "茜しらす",
+			"title": "はじまりの場所",
+			"url": "https://www.pixiv.net/artworks/111555760"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "x-t 图像的斜率表示速度",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "两条 x-t 图线的交点表示两物体速度相同",
+				"ok": false,
+				"fix": "表示同一时刻位于同一位置"
+			},
+			{
+				"q": "v-t 图线与时间轴所围的面积表示位移",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "v-t 图线的斜率变号，速度一定反向",
+				"ok": false,
+				"fix": "速度反向看 v 的正负是否改变"
+			},
+			{
+				"q": "a-t 图线与时间轴所围的面积表示速度的变化量",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "x-t 图线是曲线，说明物体做曲线运动",
+				"ok": false,
+				"fix": "x-t 图像只能描述直线运动"
+			}
+		],
+		"endTitle": [
+			[
+				"运动图像",
+				true
+			]
+		],
+		"endLine": "先看坐标轴，再看斜率和面积",
+		"slogan": "先看坐标轴，再看斜率和面积"
+	},
+	"credits": "图片来源：Wikimedia Commons —— MichaelMaggs（Richard Bartz 编辑）《Bouncing ball strobe edit》CC BY-SA 3.0；插图来自 pixiv：JLT4n、kurou、総桜しわす（侵删）",
+	"anime": [
+		{
+			"key": "desk",
+			"src": "desk.jpg",
+			"credit": "插图：JLT4n《Desk Bocchi》pixiv #134825959",
+			"url": "https://www.pixiv.net/artworks/134825959"
+		},
+		{
+			"key": "meet",
+			"src": "meet.jpg",
+			"credit": "插图：kurou《待ち合わせ》pixiv #115370851",
+			"url": "https://www.pixiv.net/artworks/115370851"
+		},
+		{
+			"key": "swing",
+			"src": "swing.jpg",
+			"credit": "插图：総桜しわす《無題》pixiv #110181895",
+			"url": "https://www.pixiv.net/artworks/110181895"
+		}
+	]
+}

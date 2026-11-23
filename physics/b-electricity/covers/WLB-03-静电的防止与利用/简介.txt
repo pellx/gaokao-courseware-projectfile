@@ -1,0 +1,23 @@
+本期考点
+
+一、静电平衡（自由电子不再定向移动）
+二、内部电场强度为 0（感应电荷的电场与外电场叠加为 0）
+三、电荷分布（只在外表面，尖处密）
+四、尖端放电（避雷针利用，高压设备表面光滑）
+五、静电屏蔽（导体壳内不受外电场影响）
+六、静电吸附（除尘、喷漆、复印）
+七、静电的危害与防止（及时导走：接地、静电释放器、湿润）
+八、合电场强度为 0（两个电场都在，叠加为 0）
+
+图片来源
+1.Antoine Taveneaux《Cage de Faraday》，CC BY-SA 3.0（Wikimedia Commons）
+2.插图：Rebecca《ぼざろまとめ74》
+https://www.pixiv.net/artworks/139727883
+3.插图：ふぇんりん《6月Xまとめ》
+https://www.pixiv.net/artworks/146716658
+4.插图：ねねお《ヒヨリ》
+https://www.pixiv.net/artworks/152217942
+5.封面插图：HoR《static》
+https://www.pixiv.net/artworks/144171443
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

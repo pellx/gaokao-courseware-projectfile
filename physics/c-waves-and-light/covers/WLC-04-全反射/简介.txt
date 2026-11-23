@@ -1,0 +1,23 @@
+本期考点
+
+一、光疏介质与光密介质（比折射率，相对概念）
+二、全反射现象（折射光消失，只剩反射光）
+三、临界角（sinC = 1/n）
+四、发生全反射的条件（光密到光疏，入射角 ≥ C）
+五、全反射棱镜（改变 90° 或 180°）
+六、光导纤维的原理（内芯折射率大于外套）
+七、光纤的应用（通信、内窥镜）
+八、生活中的全反射（气泡明亮）
+
+图片来源
+1.Tyler Nienhouse《Red optical fibers》，CC BY 2.0（Wikimedia Commons）
+2.插图：ちのすけ《無題》
+https://www.pixiv.net/artworks/125628000
+3.插图：パルタ《「つないだ線 解かないで」》
+https://www.pixiv.net/artworks/104845971
+4.插图：キシロキ《Bubble Music》
+https://www.pixiv.net/artworks/76041864
+5.封面插图：ナナセミオリ《イルミネーション》
+https://www.pixiv.net/artworks/114489722
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

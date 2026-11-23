@@ -1,0 +1,127 @@
+{
+	"id": "WLA-06",
+	"title": "重力与弹力",
+	"subject": "physics",
+	"book": "力学 · 第6期 / 共32期",
+	"points": [
+		"力",
+		"重力",
+		"重心",
+		"弹性形变与弹力",
+		"微小形变的观察",
+		"弹力的方向",
+		"胡克定律",
+		"弹力由谁的形变产生"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"重力",
+				true
+			],
+			[
+				"与弹力"
+			]
+		],
+		"subtitle": "三要素 · G = mg · 重心 · 弹性形变 · F = kx",
+		"photo": "hooke.jpg",
+		"photoCaption": "胡克《论弹性》（1678）插图：螺旋弹簧下挂秤盘，盘中加砝码，弹簧的伸长量与所加重量成正比",
+		"photoPos": "35% 60%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"重力",
+					true
+				],
+				[
+					"与弹力"
+				]
+			]
+		],
+		"photo": "hooke.jpg",
+		"photoPos": {
+			"16x9": "35% 60%",
+			"4x3": "35% 60%",
+			"3x4": "35% 50%"
+		},
+		"photoTag": "胡克",
+		"credit": "Robert Hooke, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "高梨りんご＠fanbox",
+			"title": "あらためまして!",
+			"url": "https://www.pixiv.net/artworks/4550142"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "力的三要素是大小、方向和作用点",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "物体的重心一定在物体上",
+				"ok": false,
+				"fix": "重心可以不在物体上，如圆环"
+			},
+			{
+				"q": "两个物体相互接触，就一定有弹力",
+				"ok": false,
+				"fix": "还要发生弹性形变"
+			},
+			{
+				"q": "绳的拉力沿着绳，指向绳收缩的方向",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "胡克定律 F = kx 中，x 是弹簧的长度",
+				"ok": false,
+				"fix": "x 是形变量"
+			},
+			{
+				"q": "桌面对书的支持力，是桌面发生形变产生的",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"重力",
+				true
+			],
+			[
+				"与弹力"
+			]
+		],
+		"endLine": "重力竖直向下，弹力来自施力物体的形变",
+		"slogan": "弹力来自施力物体的形变"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Robert Hooke《De Potentia Restitutiva》（1678）插图（Commons：La teoria de la elasticidad.jpg），公有领域；插图来自 pixiv：なーがそのもの、みのす、とんペチ（侵删）",
+	"anime": [
+		{
+			"key": "punch",
+			"src": "punch.jpg",
+			"credit": "插图：なーがそのもの《no title》pixiv #104674028",
+			"url": "https://www.pixiv.net/artworks/104674028"
+		},
+		{
+			"key": "weigh",
+			"src": "weigh.jpg",
+			"credit": "插图：みのす《体重を測る話》pixiv #106244528",
+			"url": "https://www.pixiv.net/artworks/106244528"
+		},
+		{
+			"key": "cheek",
+			"src": "cheek.jpg",
+			"credit": "插图：とんペチ《鷲掴みぼっち》pixiv #119368589",
+			"url": "https://www.pixiv.net/artworks/119368589"
+		}
+	]
+}

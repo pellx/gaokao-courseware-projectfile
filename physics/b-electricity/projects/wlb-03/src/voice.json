@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|静电的防止与利用。",
+		"seconds": 2.28
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲静电平衡的特点、尖端放电、静电屏蔽、静电吸附和静电的防止，共八个考点。",
+		"seconds": 8.712
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，静电平衡。把导体放进电场，导体里的自由电子在静电力作用下重新分布。",
+		"seconds": 8.64
+	},
+	"b1b": {
+		"key": "zh-CN-XiaoxiaoNeural|电子向一侧聚集，导体两端分别出现等量异号的感应电荷。",
+		"seconds": 5.712
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|当导体内的自由电子不再发生定向移动时，导体就达到了静电平衡状态。",
+		"seconds": 7.008
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：静电平衡不是电子静止不动，而是不再有定向移动。",
+		"seconds": 5.904
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，静电平衡导体内部的电场强度处处为零。",
+		"seconds": 5.256
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|原因：导体两端出现的感应电荷也产生电场，它和外电场在导体内部叠加。",
+		"seconds": 7.704
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|两者大小相等、方向相反，合电场强度为零，电子也就不再定向移动。",
+		"seconds": 7.248
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：内部E处处为零，正是电子停止定向移动的条件。",
+		"seconds": 5.784
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，静电平衡导体上的电荷分布。导体内部没有净电荷，电荷只分布在导体的外表面。",
+		"seconds": 9.192
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|外表面上，越尖锐的位置电荷密度越大，周围的电场强度也越大。",
+		"seconds": 6.528
+	},
+	"d2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这两个穿恐龙睡衣的小家伙，背上一排尖刺：导体也一样，越尖的地方电荷越“扎堆”，电场越强。",
+		"seconds": 9.552
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：平坦处电荷稀，凹陷处几乎没有电荷。",
+		"seconds": 4.92
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，尖端放电。导体尖端附近电场很强，使空气中的分子电离。",
+		"seconds": 7.32
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|与尖端电荷异号的离子被吸引过来，和尖端的电荷中和，这就是尖端放电。",
+		"seconds": 7.344
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|避雷针利用尖端放电；高压设备的导体表面做得光滑，以减少放电。",
+		"seconds": 6.72
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：尖端放电既可利用（避雷针），也要防止（高压设备做光滑）。",
+		"seconds": 6.528
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，静电屏蔽。静电平衡时，导体壳内的空腔不受外部电场的影响。",
+		"seconds": 7.656
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|金属网也有屏蔽作用。",
+		"seconds": 2.496
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|例如高压带电作业的人员穿含金属丝的工作服；高压输电线上方还有两条接地导线，把输电线屏蔽起来，免遭雷击。",
+		"seconds": 11.232
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|一车人坐在面包车里飞驰：汽车的金属车身就像一个导体壳，外面的电场影响不到车里。",
+		"seconds": 8.568
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：导体壳或金属网把内部空间保护起来，内部电场强度为零。",
+		"seconds": 6.648
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，静电吸附：利用静电使带电的微粒被吸附到电极或物体上。",
+		"seconds": 6.888
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|应用有静电除尘、静电喷漆和静电复印。",
+		"seconds": 4.608
+	},
+	"a2x": {
+		"key": "zh-CN-XiaoxiaoNeural|比如静电除尘：粉尘先带上电，再被吸到电极上，烟气就变干净了。",
+		"seconds": 6.84
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：微粒先带电，再在静电力作用下被吸到电极或工件上。",
+		"seconds": 6.408
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，静电的危害。静电积累多了，可能引起火花放电，造成火灾、爆炸，或损坏电子器件。",
+		"seconds": 9.768
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|防止的办法是及时把静电导走。",
+		"seconds": 3.504
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如油罐车要接地，加油前先触摸静电释放器，还要保持空气湿润。",
+		"seconds": 6.84
+	},
+	"h3b": {
+		"key": "zh-CN-XiaoxiaoNeural|绿头发的女孩一碰门把手，“啪”地被电了一下：这就是身上积累的静电发生了火花放电。",
+		"seconds": 8.088
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：防静电的核心是导走，而不是“不让产生”。",
+		"seconds": 4.8
+	},
+	"z1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。“导体内部电场强度为零”，说的是合电场强度为零。",
+		"seconds": 7.848
+	},
+	"z2": {
+		"key": "zh-CN-XiaoxiaoNeural|外电场和感应电荷的电场仍然都存在，只是在导体内部相互抵消。",
+		"seconds": 6.336
+	},
+	"z2b": {
+		"key": "zh-CN-XiaoxiaoNeural|导体内部任意一点，E外和E感都不为零，只是大小相等、方向相反。",
+		"seconds": 6.792
+	},
+	"z3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能说静电平衡的导体内部没有电场，是两个电场叠加为零。",
+		"seconds": 6.648
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：静电平衡时电子静止？错，是不再定向移动。判断二：内部电场强度处处为零？对。",
+		"seconds": 10.872
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：净电荷分布在外表面？对。判断四：高压设备表面做尖锐些好？错，要光滑。",
+		"seconds": 10.296
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：导体内部外电场消失了？错，只是合场强为零。判断六：油罐车接地是为了导走静电？对。",
+		"seconds": 11.184
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|内部场强零，电荷在表面。下一期：电势能和电势。",
+		"seconds": 5.904
+	}
+}

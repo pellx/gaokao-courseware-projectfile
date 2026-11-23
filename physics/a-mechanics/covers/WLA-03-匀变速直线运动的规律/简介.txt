@@ -1,0 +1,23 @@
+本期考点
+
+一、匀变速直线运动（加速度不变，v-t 图像是倾斜直线）
+二、速度与时间的关系（v = v₀ + at，由加速度定义式变形）
+三、位移与时间的关系（x = v₀t + ½at²，v-t 图线下的面积）
+四、速度与位移的关系（v² − v₀² = 2ax，消去时间 t）
+五、公式的矢量性（先规定正方向，通常取 v₀ 方向）
+六、平均速度与中间时刻速度（都等于 (v₀ + v)/2，只适用于匀变速）
+七、连续相等时间内的位移差（Δx = aT²，判断匀变速的依据）
+八、初速度为 0 的匀加速直线运动（v ∝ t，x ∝ t²）
+
+图片来源
+1.Nicole Oresme《Tractatus de latitudinibus formarum》1486 年印本插图，公有领域（Wikimedia Commons）
+2.插图：motモット《結局降りられないぼっち》
+https://www.pixiv.net/artworks/103441195
+3.插图：maumau《結束バンド VS アー写》
+https://www.pixiv.net/artworks/145047328
+4.插图：カノ《ぼっち・ざ・ろっく!》
+https://www.pixiv.net/artworks/137516657
+5.封面插图：-Yayako-《電車》
+https://www.pixiv.net/artworks/129490259
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

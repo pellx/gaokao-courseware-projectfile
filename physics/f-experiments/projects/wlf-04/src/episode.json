@@ -1,0 +1,157 @@
+{
+	"id": "WLF-04",
+	"title": "探究弹簧弹力与形变量的关系",
+	"subject": "physics",
+	"book": "实验 · 第4期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验原理",
+		"器材及作用",
+		"关键步骤",
+		"数据处理",
+		"易错提醒",
+		"结论与误差"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"探究",
+				false
+			],
+			[
+				"弹簧弹力",
+				true
+			],
+			[
+				"与",
+				false
+			],
+			[
+				"形变量",
+				true
+			],
+			[
+				"的关系",
+				false
+			]
+		],
+		"subtitle": "钩码挂弹簧 · F-x 图像 · 劲度系数",
+		"photo": "hooke.png",
+		"photoCaption": "胡克《论弹力》（1678）插图：弹簧下挂秤盘，砝码越重伸长越多",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"探究"
+				],
+				[
+					"弹簧弹力",
+					true
+				]
+			],
+			[
+				[
+					"与形变量的关系"
+				]
+			]
+		],
+		"photo": "hooke.png",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "历史插图",
+		"credit": "Robert Hooke, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "にのまえはじめ",
+			"title": "伊地知虹夏▷",
+			"url": "https://www.pixiv.net/artworks/120870270"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "钩码静止时，弹簧弹力的大小等于钩码所受的重力",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "F = kx 中的 x 是弹簧的长度",
+				"ok": false,
+				"fix": "x 是形变量 l − l₀"
+			},
+			{
+				"q": "所挂钩码越多越好，不必考虑弹性限度",
+				"ok": false,
+				"fix": "不能超过弹性限度"
+			},
+			{
+				"q": "F-x 图像是过原点的直线，斜率等于劲度系数",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "F-l 图像与横轴的交点表示弹簧原长",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "弹簧自身重力会改变 F-x 图线的斜率",
+				"ok": false,
+				"fix": "只使图线平移，不影响斜率"
+			}
+		],
+		"endTitle": [
+			[
+				"探究",
+				false
+			],
+			[
+				"弹簧弹力",
+				true
+			],
+			[
+				"与",
+				false
+			],
+			[
+				"形变量",
+				true
+			],
+			[
+				"的关系",
+				false
+			]
+		],
+		"endLine": "x是形变量，斜率是k",
+		"slogan": "x是形变量，斜率是k"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Robert Hooke《De Potentia Restitutiva》卷首插图（局部），公有领域；插图来自 pixiv：にのまえはじめ、大木菜こたつ（侵删）",
+	"anime": [
+		{
+			"key": "dino",
+			"src": "dino.jpg",
+			"credit": "插图：にのまえはじめ《承認欲求モンスター》pixiv #121034338",
+			"url": "https://www.pixiv.net/artworks/121034338"
+		},
+		{
+			"key": "smile",
+			"src": "smile.jpg",
+			"credit": "插图：にのまえはじめ《後藤ひとり》pixiv #120783327",
+			"url": "https://www.pixiv.net/artworks/120783327"
+		},
+		{
+			"key": "cat",
+			"src": "cat.jpg",
+			"credit": "插图：大木菜こたつ《笑うネコボーッチ》pixiv #120251717",
+			"url": "https://www.pixiv.net/artworks/120251717"
+		}
+	]
+}

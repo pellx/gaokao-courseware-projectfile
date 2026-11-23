@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Mean: React.FC = () => <AutoScene k="mean" d={{"tag": "考点六", "title": "平均速度与中间时刻速度", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "plot", "at": "m1", "x": "t", "y": "v", "curves": [{"at": "m1", "pts": [[0.0, 0.25], [0.84, 0.85]], "c": "red"}], "w": 680, "h": 440, "hrefs": [{"y": 0.55, "at": "m2", "c": "orange", "label": "v_(t/2)"}], "vrefs": [{"x": 0.42, "at": "m2", "label": "t/2", "c": "orange"}, {"x": 0.84, "at": "m1", "label": "t", "c": "muted"}], "dots": [{"x": 0.42, "y": 0.55, "at": "m2", "c": "orange"}]}], "flex": null, "w": 700}, {"blocks": [{"t": "big", "at": "m1", "text": "平均速度 = {(v_0 + v)/2}", "size": 36}, {"t": "rule", "tag": "中间时刻", "at": "m2", "text": "瞬时速度 = {平均速度}", "c": "orange", "size": 30}, {"t": "text", "at": "m3", "text": "梯形面积 = 中间时刻速度 × t", "size": 28}]}]}], "callout": {"label": "易错", "at": "m4", "text": "(v_0 + v)/2 只适用于{匀变速}"}}} />;

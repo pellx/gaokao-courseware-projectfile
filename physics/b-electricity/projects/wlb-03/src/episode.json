@@ -1,0 +1,127 @@
+{
+	"id": "WLB-03",
+	"title": "静电的防止与利用",
+	"subject": "physics",
+	"book": "电学基础 · 第3期 / 共22期",
+	"points": [
+		"静电平衡",
+		"内部电场强度为 0",
+		"电荷分布",
+		"尖端放电",
+		"静电屏蔽",
+		"静电吸附",
+		"静电的危害与防止",
+		"合电场强度为 0"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"静电",
+				true
+			],
+			[
+				"的防止与利用"
+			]
+		],
+		"subtitle": "静电平衡 · 尖端放电 · 静电屏蔽 · 静电吸附",
+		"photo": "cage.jpg",
+		"photoCaption": "法拉第笼：金属笼外放电，笼内的人安然无恙",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"静电",
+					true
+				],
+				[
+					"的防止与利用"
+				]
+			]
+		],
+		"photo": "cage.jpg",
+		"photoPos": {
+			"16x9": "center 40%",
+			"4x3": "center 40%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "静电屏蔽",
+		"credit": "Antoine Taveneaux, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "HoR",
+			"title": "static",
+			"url": "https://www.pixiv.net/artworks/144171443"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "静电平衡时导体内部自由电子静止不动",
+				"ok": false,
+				"fix": "是不再定向移动"
+			},
+			{
+				"q": "静电平衡导体内部电场强度处处为 0",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "静电平衡导体的净电荷分布在外表面",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "高压设备导体表面做得尖锐些好",
+				"ok": false,
+				"fix": "要做得光滑，减少尖端放电"
+			},
+			{
+				"q": "静电平衡导体内部外电场不存在了",
+				"ok": false,
+				"fix": "外电场仍存在，只是合场强为 0"
+			},
+			{
+				"q": "油罐车接地是为了及时导走静电",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"静电",
+				true
+			],
+			[
+				"的防止与利用"
+			]
+		],
+		"endLine": "内部场强零，电荷在表面",
+		"slogan": "内部场强零，电荷在表面"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Antoine Taveneaux《Cage de Faraday》，CC BY-SA 3.0；插图来自 pixiv：Rebecca、ふぇんりん、ねねお（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ74》pixiv #139727883",
+			"url": "https://www.pixiv.net/artworks/139727883"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：ふぇんりん《6月Xまとめ》pixiv #146716658",
+			"url": "https://www.pixiv.net/artworks/146716658"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：ねねお《ヒヨリ》pixiv #152217942",
+			"url": "https://www.pixiv.net/artworks/152217942"
+		}
+	]
+}

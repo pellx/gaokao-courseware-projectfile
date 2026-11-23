@@ -1,0 +1,23 @@
+本期考点
+
+一、电势差（U_AB = φ_A − φ_B，与零电势点无关）
+二、W_AB = qU_AB（任何电场都成立；1 eV = 1.60×10⁻¹⁹ J）
+三、等势面（同一等势面上移动电荷不做功）
+四、等势面与电场线（垂直，高指向低，密处场强大）
+五、常见的等势面（球面、平面；导体是等势体）
+六、U_AB = Ed（d 沿电场方向，只用于匀强电场）
+七、E = U/d 的意义（电势降低最快的方向，V/m = N/C）
+八、非匀强电场（定性：场强大处等势面密）
+
+图片来源
+1.ETH-Bibliothek Zürich《Volta, Alessandro (1745-1827) Portrait》（Portr 02303），公有领域（Wikimedia Commons）
+2.插图：53/skebお休み中《数秒後に転ぶぼ喜多》
+https://www.pixiv.net/artworks/110133591
+3.插图：Gale《就寝》
+https://www.pixiv.net/artworks/139174062
+4.插图：ムジアンドウ《１０月分目安箱》
+https://www.pixiv.net/artworks/122951146
+5.封面插图：233333333《bocchi》
+https://www.pixiv.net/artworks/104460437
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

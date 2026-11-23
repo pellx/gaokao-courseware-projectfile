@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|运动图像。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲x t、v t、a t三种图像中斜率、面积、截距和交点的物理意义，共八个考点。",
+		"seconds": 9.288
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，图像中的物理量。先看坐标轴：横轴、纵轴各表示什么物理量，单位是什么。",
+		"seconds": 8.712
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|再看图线的斜率、面积、截距和交点，它们各有确定的物理意义。",
+		"seconds": 6.24
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|斜率是纵坐标的变化量与横坐标的变化量之比；面积是纵坐标与横坐标乘积的累积。",
+		"seconds": 8.208
+	},
+	"r3b": {
+		"key": "zh-CN-XiaoxiaoNeural|钻进纸箱、跪在数位板上的粉发女孩：读一张图，先看清横轴和纵轴画的是什么量，再看斜率和面积。",
+		"seconds": 9.816
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：形状相同的图线，坐标轴表示的物理量不同，描述的运动就完全不同。",
+		"seconds": 7.56
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，x t图像的斜率表示速度，斜率的正负表示速度的方向。",
+		"seconds": 6.624
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|物体静止：位置不变，图线是平行于时间轴的直线。",
+		"seconds": 5.592
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|匀速直线运动：图线是倾斜的直线。",
+		"seconds": 3.912
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|变速运动：图线是曲线，某点切线的斜率表示该时刻的速度。",
+		"seconds": 6.12
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：x t图线越陡，速度越大；斜率为零，物体静止。",
+		"seconds": 6.12
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，x t图像的纵截距，表示t等于零时物体的初始位置。",
+		"seconds": 6.432
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|两条图线的交点，表示两个物体在同一时刻位于同一位置，也就是相遇。",
+		"seconds": 7.008
+	},
+	"i2b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩在约好的车站朝你挥手：两个人在同一时刻到了同一地点，就是x t图像上的交点。",
+		"seconds": 9.096
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|图线与时间轴的交点，表示物体经过原点的时刻。",
+		"seconds": 5.064
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：x t图线的交点表示位置相同，不表示速度相同。",
+		"seconds": 5.856
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，v t图像的斜率表示加速度。",
+		"seconds": 4.2
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|匀速直线运动：图线是平行于时间轴的直线；匀变速直线运动：图线是倾斜的直线。",
+		"seconds": 8.472
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|图线是曲线时，某点切线的斜率表示该时刻的加速度；图线越来越陡，加速度越来越大。",
+		"seconds": 8.64
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：同样一条倾斜直线，在x t图像中表示匀速，在v t图像中表示匀变速。",
+		"seconds": 8.376
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，v t图线与时间轴所围的面积表示位移。",
+		"seconds": 5.184
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|面积在时间轴上方，位移为正；在时间轴下方，位移为负。",
+		"seconds": 6.048
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|总位移等于上下面积的代数和；路程等于面积绝对值之和。",
+		"seconds": 5.856
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|两条v t图线的交点，表示两物体在该时刻速度相同。",
+		"seconds": 5.544
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：v t图线的交点表示速度相同，不表示两物体相遇。",
+		"seconds": 6.024
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，a t图像：图线与时间轴所围的面积表示速度的变化量德尔塔v。",
+		"seconds": 7.464
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|匀变速直线运动的加速度不变，a t图像是一条平行于时间轴的直线。",
+		"seconds": 6.672
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|匀速直线运动的加速度为零，图线与时间轴重合。",
+		"seconds": 5.136
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：a t图线下的面积是速度的变化量，不是速度本身；要知道某时刻的速度，还要知道初速度。",
+		"seconds": 9.456
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，运动方向的变化。v t图线穿过时间轴时，速度由正变负或由负变正，运动方向反向。",
+		"seconds": 9.96
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果图线只是碰到时间轴又回到同一侧，速度先减到零再增大，方向不变。",
+		"seconds": 7.248
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|x t图线的斜率由正变负或由负变正时，速度反向，对应图线的最高点或最低点。",
+		"seconds": 8.448
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|荡秋千的粉发女孩：每次荡到最高处都要停一下再往回走，运动方向反过来；直线运动里的这一刻，就是v t图线穿过时间轴的地方。",
+		"seconds": 12.336
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断速度是否反向，看v的正负是否改变；v t图线斜率变号，只表示加速度反向。",
+		"seconds": 9.072
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。x t图像和v t图像都只能描述直线运动。",
+		"seconds": 7.128
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|因为纵坐标只有正、负两个方向，只能表示一条直线上的两个方向。",
+		"seconds": 6.672
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|图线不是物体的运动轨迹，它表示的是物理量随时间的变化。",
+		"seconds": 6.048
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|图线是曲线，只表示速度或位置的变化不均匀，不表示物体在走曲线。",
+		"seconds": 6.936
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：弯曲的x t、v t图线不表示曲线运动，物体仍在做直线运动。",
+		"seconds": 7.416
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：x t图像的斜率表示速度？对。判断二：x t图线的交点表示速度相同？错，表示相遇。",
+		"seconds": 11.424
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：v t图线下的面积表示位移？对。判断四：v t图线斜率变号，速度一定反向？错，要看v的正负。",
+		"seconds": 12.36
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：a t图线下的面积表示速度的变化量？对。判断六：x t图线是曲线就是曲线运动？错，只能描述直线运动。",
+		"seconds": 12.744
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先看坐标轴，再看斜率和面积。下一期：重力与弹力。",
+		"seconds": 5.952
+	}
+}

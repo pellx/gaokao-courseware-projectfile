@@ -1,0 +1,23 @@
+本期考点
+
+一、图像中的物理量（先看坐标轴，再看斜率、面积、截距、交点）
+二、x-t 图像的斜率（斜率表示速度，平行于时间轴表示静止）
+三、x-t 图像的截距与交点（纵截距是初始位置，交点表示相遇）
+四、v-t 图像的斜率（斜率表示加速度，倾斜直线是匀变速）
+五、v-t 图像的面积与交点（面积表示位移，上正下负；交点表示速度相同）
+六、a-t 图像（面积表示速度的变化量 Δv）
+七、运动方向的变化（v-t 图线穿过时间轴，速度反向）
+八、图线不是轨迹（只能描述直线运动，弯曲不表示曲线运动）
+
+图片来源
+1.MichaelMaggs（Richard Bartz 编辑）《Bouncing ball strobe edit》CC BY-SA 3.0（Wikimedia Commons）
+2.插图：JLT4n《Desk Bocchi》
+https://www.pixiv.net/artworks/134825959
+3.插图：kurou《待ち合わせ》
+https://www.pixiv.net/artworks/115370851
+4.插图：総桜しわす《無題》
+https://www.pixiv.net/artworks/110181895
+5.封面插图：茜しらす《はじまりの場所》
+https://www.pixiv.net/artworks/111555760
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

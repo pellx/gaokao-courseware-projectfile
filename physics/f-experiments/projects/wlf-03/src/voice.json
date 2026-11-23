@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|测量做直线运动物体的瞬时速度。",
+		"seconds": 3.432
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的目的、打点计时器、器材、步骤、测速原理、数据处理和误差，共八个考点。",
+		"seconds": 9.24
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。用打点计时器在纸带上打点，测量纸带的平均速度和瞬时速度。",
+		"seconds": 8.76
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|再把各点的速度画成 v-t 图像，探究小车速度随时间变化的规律。",
+		"seconds": 6.528
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|纸带上的一串点，就是小车运动过程的一份“记录”。",
+		"seconds": 4.584
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：这个实验先“测速度”，再用图像“找规律”，是后面许多力学实验的基础。",
+		"seconds": 7.296
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，打点计时器。电磁打点计时器使用低压交变电源。",
+		"seconds": 6.36
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|电火花计时器使用二百二十伏交变电源。",
+		"seconds": 4.176
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|电源频率是五十赫兹时，两种计时器都是每隔零点零二秒打一个点。",
+		"seconds": 6.888
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|所以纸带上的点迹同时记录了时间和位移：数点数得时间，量距离得位移。",
+		"seconds": 7.488
+	},
+	"t4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个打鼓的短发女孩：鼓点一下一下，间隔严格相等；打点计时器也一样，每隔零点零二秒准时打一个点。",
+		"seconds": 9.912
+	},
+	"t5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两种计时器都用交变电源，不能用直流电；打点周期由电源频率决定，与纸带运动快慢无关。",
+		"seconds": 9.84
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。一端带滑轮的长木板，用来放置小车并引导它沿直线运动。",
+		"seconds": 8.424
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|槽码通过细绳跨过滑轮牵引小车，让小车加速运动。",
+		"seconds": 5.52
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|纸带一端连着小车，穿过打点计时器的限位孔，记录小车的运动。",
+		"seconds": 6.024
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|刻度尺用来测量点迹之间的距离。",
+		"seconds": 3.504
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：时间由打点计时器给出，不需要秒表；这个实验只测运动，不需要天平。",
+		"seconds": 7.752
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，关键步骤。调节滑轮，让细绳与木板平行。",
+		"seconds": 6
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|小车从靠近打点计时器的位置释放，纸带才能打出足够多的点。",
+		"seconds": 6.264
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|先接通电源，等打点稳定后，再释放小车。",
+		"seconds": 4.512
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|打完点及时断开电源；换上新纸带重复几次，选点迹清晰的一条。",
+		"seconds": 6.504
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：顺序是先通电、后放车，反过来开头的运动就记录不全。",
+		"seconds": 6.624
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，计数点的选取。纸带开头的点挤在一起，很难测准，要舍去。",
+		"seconds": 7.152
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|从点迹清晰的地方开始，每隔几个点取一个计数点。",
+		"seconds": 4.704
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|常用的是每五个点取一个计数点，相邻计数点间的时间间隔T等于五乘零点零二秒，等于零点一秒。",
+		"seconds": 9.288
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个系着围裙捏饭团的女孩：饭团一个个捏，五个装一盒，数盒子就知道总数；每五个点取一个计数点，数计数点就知道时间。",
+		"seconds": 12.144
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：每五个点取一个计数点，与每两个计数点之间还有四个点，说的是同一件事，T都是零点一秒。",
+		"seconds": 9.384
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，瞬时速度的测量原理。用包含该点的一小段时间内的平均速度，代替这一点的瞬时速度。",
+		"seconds": 9.144
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|时间取得越短，平均速度就越接近瞬时速度。",
+		"seconds": 4.776
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|常取该点前后相邻两段：v n等于x n加x n加一，除以2T。",
+		"seconds": 6.864
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|光电门测速也是同样的道理：v等于d除以德尔塔t，d是遮光条的宽度。",
+		"seconds": 7.488
+	},
+	"v5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：遮光条越窄，德尔塔t越短，测得的速度越接近瞬时速度。",
+		"seconds": 6.768
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，数据处理。把各计数点的速度列成表格，在 v-t 坐标系中描点。",
+		"seconds": 7.56
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|用一条直线拟合：让尽量多的点落在直线上，其余的点均匀分布在两侧。",
+		"seconds": 7.248
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|直线的斜率表示加速度，纵轴截距表示计时起点的速度。",
+		"seconds": 5.832
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：图像法用了多组数据，能减小偶然误差；明显偏离直线的点要舍去。",
+		"seconds": 7.536
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，实验结论。小车的 v-t 图像是一条倾斜的直线。",
+		"seconds": 6.12
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|说明小车的速度随时间均匀增加，小车做匀加速直线运动。",
+		"seconds": 6
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|误差主要来自三方面：长度测量、用平均速度代替瞬时速度，以及描点作图。",
+		"seconds": 7.824
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个叉着腰、一脸得意的女孩：图像一画出来，倾斜的直线摆在眼前，匀加速的结论就很有底气了。",
+		"seconds": 9.552
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：多测几组数据、用图像法处理，可以减小偶然误差。",
+		"seconds": 6.024
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电火花计时器用二百二十伏交变电源？对。判断二：每隔零点一秒打一个点？错，是零点零二秒。",
+		"seconds": 11.856
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：先释放小车再通电？错，先通电后放车。判断四：每五个点取一个计数点，间隔零点一秒？对。",
+		"seconds": 11.664
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：遮光条越宽越接近瞬时速度？错，越窄越接近。判断六：v t图像的斜率表示加速度？对。",
+		"seconds": 11.52
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|先通电后放车，平均速度代瞬时。下一期：探究弹簧弹力与形变量的关系。",
+		"seconds": 8.136
+	}
+}

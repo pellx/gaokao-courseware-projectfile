@@ -1,0 +1,129 @@
+{
+	"id": "WLA-03",
+	"title": "匀变速直线运动的规律",
+	"subject": "physics",
+	"book": "力学 · 第3期 / 共32期",
+	"points": [
+		"匀变速直线运动",
+		"速度与时间的关系",
+		"位移与时间的关系",
+		"速度与位移的关系",
+		"公式的矢量性",
+		"平均速度与中间时刻速度",
+		"连续相等时间内的位移差",
+		"初速度为 0 的匀加速直线运动"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"匀变速直线运动",
+				true
+			],
+			[
+				"的规律"
+			]
+		],
+		"subtitle": "速度公式 · 位移公式 · 面积与位移 · 位移差",
+		"photo": "oresme.jpg",
+		"photoCaption": "奥雷姆《论形态的幅度》1486 年印本：用竖线的高低表示量的变化，图形面积表示总量",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"匀变速",
+					true
+				]
+			],
+			[
+				[
+					"直线运动的规律"
+				]
+			]
+		],
+		"photo": "oresme.jpg",
+		"photoPos": {
+			"16x9": "center 40%",
+			"4x3": "center 40%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "奥雷姆",
+		"credit": "Nicole Oresme, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "-Yayako-",
+			"title": "電車",
+			"url": "https://www.pixiv.net/artworks/129490259"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "匀变速直线运动的加速度大小和方向都不变",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "匀变速直线运动的 v-t 图像是一条曲线",
+				"ok": false,
+				"fix": "是一条倾斜的直线"
+			},
+			{
+				"q": "v-t 图线与时间轴所围的面积表示位移",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "计算结果为负，说明这个量的数值很小",
+				"ok": false,
+				"fix": "负号表示与规定的正方向相反"
+			},
+			{
+				"q": "任何变速运动的平均速度都等于 (v_0 + v)/2",
+				"ok": false,
+				"fix": "只适用于匀变速直线运动"
+			},
+			{
+				"q": "初速度为 0 的匀加速直线运动，位移与时间成正比",
+				"ok": false,
+				"fix": "位移与时间的平方成正比"
+			}
+		],
+		"endTitle": [
+			[
+				"匀变速直线运动",
+				true
+			],
+			[
+				"的规律"
+			]
+		],
+		"endLine": "a 不变是前提，面积就是位移",
+		"slogan": "a 不变是前提，面积就是位移"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nicole Oresme《Tractatus de latitudinibus formarum》1486 年印本插图，公有领域；插图来自 pixiv：motモット、maumau、カノ（侵删）",
+	"anime": [
+		{
+			"key": "brake",
+			"src": "brake.jpg",
+			"credit": "插图：motモット《結局降りられないぼっち》pixiv #103441195",
+			"url": "https://www.pixiv.net/artworks/103441195"
+		},
+		{
+			"key": "photo",
+			"src": "photo.jpg",
+			"credit": "插图：maumau《結束バンド VS アー写》pixiv #145047328",
+			"url": "https://www.pixiv.net/artworks/145047328"
+		},
+		{
+			"key": "depart",
+			"src": "depart.jpg",
+			"credit": "插图：カノ《ぼっち・ざ・ろっく!》pixiv #137516657",
+			"url": "https://www.pixiv.net/artworks/137516657"
+		}
+	]
+}

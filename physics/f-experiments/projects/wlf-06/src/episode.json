@@ -1,0 +1,143 @@
+{
+	"id": "WLF-06",
+	"title": "探究加速度与物体受力、物体质量的关系",
+	"subject": "physics",
+	"book": "实验 · 第6期 / 共22期",
+	"points": [
+		"目的与方法",
+		"器材及作用",
+		"补偿阻力",
+		"拉力的近似条件",
+		"关键步骤",
+		"参考案例 2",
+		"数据处理",
+		"误差来源",
+		"实验结论"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"探究",
+				false
+			],
+			[
+				"加速度",
+				true
+			],
+			[
+				"与物体受力、物体质量的关系",
+				false
+			]
+		],
+		"subtitle": "控制变量 · 补偿阻力 · a-F 与 a-1/m 图像",
+		"photo": "atwood.jpg",
+		"photoCaption": "阿特伍德机（里斯本科学院博物馆）：早期研究力、质量与加速度关系的仪器",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"探究"
+				],
+				[
+					"加速度",
+					true
+				]
+			],
+			[
+				[
+					"与力、质量的关系"
+				]
+			]
+		],
+		"photo": "atwood.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "历史仪器",
+		"credit": "GualdimG, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "さかな",
+			"title": "誕生日おめでとう",
+			"url": "https://www.pixiv.net/artworks/117345529"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "本实验采用控制变量法",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "补偿阻力时要挂上槽码",
+				"ok": false,
+				"fix": "不挂槽码，但要拖着纸带"
+			},
+			{
+				"q": "每次改变小车质量后都要重新补偿阻力",
+				"ok": false,
+				"fix": "改变质量后不必重新补偿"
+			},
+			{
+				"q": "槽码质量远小于小车质量时，绳的拉力近似等于槽码重力",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "力一定时，应作 a-m 图像判断 a 与 m 的关系",
+				"ok": false,
+				"fix": "应作 a-1/m 图像"
+			},
+			{
+				"q": "a-F 图线与 F 轴有交点，说明阻力补偿不足",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"探究",
+				false
+			],
+			[
+				"加速度",
+				true
+			],
+			[
+				"与物体受力、物体质量的关系",
+				false
+			]
+		],
+		"endLine": "补偿不挂码，码轻车要重",
+		"slogan": "补偿不挂码，码轻车要重"
+	},
+	"credits": "图片来源：Wikimedia Commons —— GualdimG《Máquina de Atwood, Museu Maynense, Academia das Ciências de Lisboa》，CC BY-SA 4.0；插图来自 pixiv：AZ!（あず）、えんぴつ、祸红骑士（侵删）",
+	"anime": [
+		{
+			"key": "think",
+			"src": "think.jpg",
+			"credit": "插图：AZ!（あず）《プレゼント》 pixiv #117960153",
+			"url": "https://www.pixiv.net/artworks/117960153"
+		},
+		{
+			"key": "cry",
+			"src": "cry.jpg",
+			"credit": "插图：えんぴつ《にーな(泣)》 pixiv #124694513",
+			"url": "https://www.pixiv.net/artworks/124694513"
+		},
+		{
+			"key": "race",
+			"src": "race.jpg",
+			"credit": "插图：祸红骑士《祥子的车》 pixiv #149527608",
+			"url": "https://www.pixiv.net/artworks/149527608"
+		}
+	]
+}

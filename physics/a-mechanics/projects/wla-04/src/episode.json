@@ -1,0 +1,130 @@
+{
+	"id": "WLA-04",
+	"title": "自由落体运动与竖直上抛运动",
+	"subject": "physics",
+	"book": "力学 · 第4期 / 共32期",
+	"points": [
+		"亚里士多德的观点与伽利略的反驳",
+		"自由落体运动",
+		"自由落体运动的性质",
+		"自由落体加速度 g",
+		"自由落体运动的规律",
+		"伽利略的研究过程",
+		"伽利略的科学方法",
+		"竖直上抛运动",
+		"竖直上抛的对称性"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"自由落体运动",
+				true
+			],
+			[
+				"与竖直上抛运动"
+			]
+		],
+		"subtitle": "只受重力 · 重力加速度 g · 伽利略 · 对称性",
+		"photo": "inclined-plane.jpg",
+		"photoCaption": "佛罗伦萨伽利略博物馆的斜面装置：用斜面“冲淡”重力，研究落体运动",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"自由落体",
+					true
+				]
+			],
+			[
+				[
+					"与竖直上抛"
+				]
+			]
+		],
+		"photo": "inclined-plane.jpg",
+		"photoPos": {
+			"16x9": "58% center",
+			"4x3": "62% center",
+			"3x4": "66% center"
+		},
+		"photoTag": "伽利略斜面",
+		"credit": "Zde, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "たまごサンド",
+			"title": "君に朝が降る",
+			"url": "https://www.pixiv.net/artworks/103899229"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "不计空气阻力时，重的物体比轻的物体下落得快",
+				"ok": false,
+				"fix": "同一地点轻重物体下落一样快"
+			},
+			{
+				"q": "自由落体运动是初速度为 0 的匀加速直线运动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "地球上各处的重力加速度 g 都相同",
+				"ok": false,
+				"fix": "随纬度升高而增大"
+			},
+			{
+				"q": "伽利略用斜面“冲淡”重力，便于测量时间",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "竖直上抛的物体到达最高点时加速度为 0",
+				"ok": false,
+				"fix": "加速度仍为 g"
+			},
+			{
+				"q": "竖直上抛经过同一位置时，上升、下降的速度大小相等",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"自由落体运动",
+				true
+			],
+			[
+				"与竖直上抛运动"
+			]
+		],
+		"endLine": "只受重力 a 就是 g，上抛下落两相对称",
+		"slogan": "只受重力 a 就是 g"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Zde《Piano inclinato, Museo Galileo, Florence, Inv. 104》CC BY-SA 4.0（已裁切）；插图来自 pixiv：ニワ、カルシウム、タダノなつ（侵删）",
+	"anime": [
+		{
+			"key": "carry",
+			"src": "carry.jpg",
+			"credit": "插图：ニワ pixiv #126921656",
+			"url": "https://www.pixiv.net/artworks/126921656"
+		},
+		{
+			"key": "snow",
+			"src": "snow.jpg",
+			"credit": "插图：カルシウム《恋人と雪がうんたらかんたら》 pixiv #115113779",
+			"url": "https://www.pixiv.net/artworks/115113779"
+		},
+		{
+			"key": "ball",
+			"src": "ball.jpg",
+			"credit": "插图：タダノなつ《雪合戦》 pixiv #117460208",
+			"url": "https://www.pixiv.net/artworks/117460208"
+		}
+	]
+}

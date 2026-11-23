@@ -1,0 +1,129 @@
+{
+	"id": "WLB-07",
+	"title": "电源和电流、导体的电阻",
+	"subject": "physics",
+	"book": "电学基础 · 第7期 / 共22期",
+	"points": [
+		"电源",
+		"恒定电场与恒定电流",
+		"电流 I = q/t",
+		"电流的微观表达式",
+		"电阻与欧姆定律",
+		"电阻定律",
+		"电阻率",
+		"伏安特性曲线"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"电源和电流",
+				true
+			],
+			[
+				"导体的电阻"
+			]
+		],
+		"subtitle": "电流 · 微观表达式 · 欧姆定律 · 电阻定律 · 伏安特性",
+		"photo": "ohm.jpg",
+		"photoCaption": "欧姆：发现电流与电压、电阻的关系，电阻单位“欧姆”以他命名",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电源和电流",
+					true
+				]
+			],
+			[
+				[
+					"导体的电阻"
+				]
+			]
+		],
+		"photo": "ohm.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "欧姆",
+		"credit": "Unknown, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "kamicat",
+			"title": "あかりの日",
+			"url": "https://www.pixiv.net/artworks/136545727"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电流有方向，所以电流是矢量",
+				"ok": false,
+				"fix": "电流是标量"
+			},
+			{
+				"q": "金属中电子定向移动的速率很大",
+				"ok": false,
+				"fix": "定向移动速率很小"
+			},
+			{
+				"q": "导体的电阻与两端电压成正比",
+				"ok": false,
+				"fix": "电阻由导体本身决定"
+			},
+			{
+				"q": "同种材料导体的电阻与长度成正比，与横截面积成反比",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "金属的电阻率随温度升高而增大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "小灯泡是线性元件",
+				"ok": false,
+				"fix": "小灯泡是非线性元件"
+			}
+		],
+		"endTitle": [
+			[
+				"电源和电流",
+				true
+			],
+			[
+				"导体的电阻"
+			]
+		],
+		"endLine": "电源保电压，电阻看材料长短粗细",
+		"slogan": "电源保电压，电阻看材料长短粗细"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Georg Simon Ohm (1789-1854)》油画肖像，作者不详，公有领域；插图来自 pixiv：hyaru、トロロ、アシスト（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：hyaru《禰豆子に誘拐される善逸》pixiv #77895092",
+			"url": "https://www.pixiv.net/artworks/77895092"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：トロロ《ぐでてま》pixiv #145870914",
+			"url": "https://www.pixiv.net/artworks/145870914"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：アシスト《HUG！》pixiv #140304837",
+			"url": "https://www.pixiv.net/artworks/140304837"
+		}
+	]
+}

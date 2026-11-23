@@ -1,0 +1,23 @@
+本期考点
+
+一、静电力做功的特点（与路径无关，只与起点终点有关）
+二、电势能（W_AB = E_pA − E_pB）
+三、做功与电势能变化（正功减少，负功增加）
+四、电势能的相对性（与零势能位置有关）
+五、电势（φ = E_p/q，标量，由电场决定）
+六、沿电场线电势降低（判断电势高低的依据）
+七、E_p = qφ（正电荷高处大，负电荷高处小）
+八、电场强度与电势（没有必然联系）
+
+图片来源
+1.Biswarup Ganguly《Van de Graaff Generator - Science City - Calcutta 1997 016》，CC BY 3.0（Wikimedia Commons）
+2.插图：ポ～ン（出水ぽすか）《どの分岐も違う気がする》
+https://www.pixiv.net/artworks/113467829
+3.插图：マダンテゴロン《イエ～イ！》
+https://www.pixiv.net/artworks/88129194
+4.插图：ぽんたす《きらきら》
+https://www.pixiv.net/artworks/90946035
+5.封面插图：蛾井《2026/06/06》
+https://www.pixiv.net/artworks/145722706
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

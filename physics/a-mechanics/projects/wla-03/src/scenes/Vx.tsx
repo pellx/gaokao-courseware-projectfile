@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Vx: React.FC = () => <AutoScene k="vx" d={{"tag": "考点四", "title": "速度与位移的关系", "blocks": [{"t": "big", "at": "y1", "text": "v^2 − v_0^2 = {2ax}", "size": 60}, {"t": "row", "cols": [{"blocks": [{"t": "rule", "tag": "来源", "at": "y2", "text": "前两式{消去 t}", "c": "red", "size": 32}]}, {"blocks": [{"t": "rule", "tag": "特点", "at": "y3", "text": "不含{时间 t|orange}", "c": "orange", "size": 32}]}]}, {"t": "table", "at": "y4", "head": ["公式", "不含的量"], "cols": "1.6fr 1fr", "rows": [{"at": "y4", "cells": ["v = v_0 + at", "x"]}, {"at": "y4", "cells": ["x = v_0t + ½at^2", "v"]}, {"at": "y4", "cells": ["v^2 − v_0^2 = 2ax", "{t}"]}], "size": 30, "rowHeight": 56}], "callout": {"label": "要点", "at": "y4", "text": "三个公式只有{两个独立}"}}} />;

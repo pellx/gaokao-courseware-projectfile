@@ -1,0 +1,24 @@
+本期考点
+
+一、光的反射和折射（分界面上同时发生）
+二、折射定律（三线共面、分居两侧、正弦之比为常数）
+三、折射率（n = sinθ₁/sinθ₂，光从真空射入）
+四、n = c/v（任何介质 n > 1）
+五、光路可逆（空气中的角较大）
+六、光进入介质后的变化（频率不变，速度变小，λ = λ₀/n）
+七、不同色光的折射率（紫光最大、红光最小，色散）
+八、平行玻璃砖与三棱镜（侧移；向底边偏折）
+九、生活中的折射现象（水中物体看起来变浅）
+
+图片来源
+1.Meganbeckett27《Pencil in glass of water showing refraction》，CC BY-SA 3.0（Wikimedia Commons）
+2.插图：おりお《メガネ喜多ちゃん！》
+https://www.pixiv.net/artworks/124590182
+3.插图：SuperRaiser《夢限大みゅーたいぷ》
+https://www.pixiv.net/artworks/132705761
+4.插图：おりお《「とっ、取れました…！」》
+https://www.pixiv.net/artworks/134979297
+5.封面插图：hoshia💫《サブカルぼっちちゃん》
+https://www.pixiv.net/artworks/128266600
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

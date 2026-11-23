@@ -1,0 +1,118 @@
+{
+	"id": "WLC-04",
+	"title": "全反射",
+	"subject": "physics",
+	"book": "波动与光 · 第4期 / 共8期",
+	"points": [
+		"光疏介质与光密介质",
+		"全反射现象",
+		"临界角",
+		"发生全反射的条件",
+		"全反射棱镜",
+		"光导纤维的原理",
+		"光纤的应用",
+		"生活中的全反射"
+	],
+	"intro": {
+		"badge": "高考物理 · 波动与光",
+		"title": [
+			[
+				"全反射",
+				true
+			]
+		],
+		"subtitle": "光疏光密 · 临界角 · 全反射棱镜 · 光纤",
+		"photo": "fibers.jpg",
+		"photoCaption": "一束光导纤维：光从一端进入，沿纤维传到另一端",
+		"photoPos": "center 40%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"全反射",
+					true
+				]
+			]
+		],
+		"photo": "fibers.jpg",
+		"photoPos": {
+			"16x9": "center 40%",
+			"4x3": "center 40%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "光导纤维",
+		"credit": "Tyler Nienhouse, CC BY 2.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ナナセミオリ",
+			"title": "イルミネーション",
+			"url": "https://www.pixiv.net/artworks/114489722"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "密度大的介质一定是光密介质",
+				"ok": false,
+				"fix": "光密、光疏比的是折射率"
+			},
+			{
+				"q": "折射率越大，临界角越小",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光从空气射入水中可能发生全反射",
+				"ok": false,
+				"fix": "须从光密介质射入光疏介质"
+			},
+			{
+				"q": "全反射棱镜的反射效果比平面镜好",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光纤外套的折射率比内芯大",
+				"ok": false,
+				"fix": "内芯的折射率比外套大"
+			},
+			{
+				"q": "水中气泡明亮是因为发生了全反射",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"全反射",
+				true
+			]
+		],
+		"endLine": "光密到光疏，入射角不小于临界角",
+		"slogan": "光密到光疏，入射角不小于临界角"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Tyler Nienhouse《Red optical fibers》，CC BY 2.0；插图来自 pixiv：ちのすけ、パルタ、キシロキ（侵删）",
+	"anime": [
+		{
+			"key": "box",
+			"src": "box.jpg",
+			"credit": "插图：ちのすけ《無題》pixiv #125628000",
+			"url": "https://www.pixiv.net/artworks/125628000"
+		},
+		{
+			"key": "phone",
+			"src": "phone.jpg",
+			"credit": "插图：パルタ《「つないだ線 解かないで」》pixiv #104845971",
+			"url": "https://www.pixiv.net/artworks/104845971"
+		},
+		{
+			"key": "bubble",
+			"src": "bubble.jpg",
+			"credit": "插图：キシロキ《Bubble Music》pixiv #76041864",
+			"url": "https://www.pixiv.net/artworks/76041864"
+		}
+	]
+}

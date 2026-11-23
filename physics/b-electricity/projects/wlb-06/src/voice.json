@@ -1,0 +1,150 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电容器的电容。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲电容器、充电与放电、电容的定义与单位、平行板电容器和常用电容器，共七个考点。",
+		"seconds": 9.048
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，电容器：由两个彼此绝缘又相距很近的导体组成。",
+		"seconds": 5.904
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|最简单的电容器是平行板电容器：两块平行金属板，中间隔着绝缘的电介质。",
+		"seconds": 7.752
+	},
+	"c2b": {
+		"key": "zh-CN-XiaoxiaoNeural|电容器是一种能够储存电荷的元件。",
+		"seconds": 3.624
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两个导体叫电容器的两个极板，它们之间必须绝缘。",
+		"seconds": 5.712
+	},
+	"q1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，充电：两极板带上等量异种电荷，电源的能量储存在电容器中。",
+		"seconds": 7.416
+	},
+	"q2": {
+		"key": "zh-CN-XiaoxiaoNeural|放电：两极板的电荷中和，电场能转化为其他形式的能。",
+		"seconds": 5.712
+	},
+	"q2b": {
+		"key": "zh-CN-XiaoxiaoNeural|抱着老式相机的金发小家伙：相机闪光灯里的电容器先充电把能量存起来，按下快门时一下子放电，发出强光。",
+		"seconds": 10.824
+	},
+	"q3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电容器的电荷量指一个极板所带电荷量的绝对值，不是两极板电荷量相加。",
+		"seconds": 7.992
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电容C等于Q比U，是比值定义的物理量，表示电容器容纳电荷的本领。",
+		"seconds": 7.8
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|电容由电容器本身决定，与所带电荷量Q、两板间电压U都无关。",
+		"seconds": 6.48
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以写成C等于德尔塔Q比德尔塔U。",
+		"seconds": 4.2
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能说C与Q成正比、与U成反比；电容器不带电时电容也不为零。",
+		"seconds": 7.824
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，电容的单位是法拉，符号 F。",
+		"seconds": 4.152
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|法拉很大，常用微法和皮法：一法拉等于十的六次方微法，等于十的十二次方皮法。",
+		"seconds": 7.824
+	},
+	"n2b": {
+		"key": "zh-CN-XiaoxiaoNeural|微法也写作μF，皮法写作pF，相邻两级之间相差十的六次方倍。",
+		"seconds": 7.032
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：一法拉表示电容器两板间电压为一伏时所带电荷量为一库仑。",
+		"seconds": 6.864
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，平行板电容器的电容：C等于epsilon r S除以四派k d。",
+		"seconds": 6.864
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|电容与正对面积S成正比，与极板间距离d成反比。",
+		"seconds": 5.544
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|极板间插入电介质，电容增大；epsilon r是电介质的相对介电常数。",
+		"seconds": 6.984
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩面对面、手牵手贴得很近：两块极板也是这样，正对面积越大、距离越近，电容越大。",
+		"seconds": 9.048
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：C等于Q比U是定义式，C等于epsilon r S比四派k d是平行板电容器的决定式。",
+		"seconds": 9.192
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，常用电容器分为固定电容器和可变电容器。",
+		"seconds": 5.544
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|电解电容器有正负极之分，接入电路时极性不能接反。",
+		"seconds": 5.736
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|电容器的应用：照相机闪光灯瞬间放电发光，电容式传感器把位移等变化转化为电容的变化。",
+		"seconds": 9.192
+	},
+	"k3b": {
+		"key": "zh-CN-XiaoxiaoNeural|三个小人躲在沙袋后面，远远地给电解电容器通电：极性接反了，电解电容器可能会损坏甚至爆裂。",
+		"seconds": 9.336
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电解电容器有极性，其他常见电容器一般没有。",
+		"seconds": 5.664
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，击穿电压：加在两极板上的电压超过某一限度，电介质被击穿，电容器损坏。",
+		"seconds": 8.688
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|电容器外壳上标的是额定电压，是正常工作时的最大电压。",
+		"seconds": 5.64
+	},
+	"v2b": {
+		"key": "zh-CN-XiaoxiaoNeural|电容器工作时的电压应不超过额定电压，这样才安全。",
+		"seconds": 5.112
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：额定电压低于击穿电压，两者不是一回事。",
+		"seconds": 5.256
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电荷量是两极板之和？错，指一个极板。判断二：C与Q成正比？错，由电容器本身决定。",
+		"seconds": 11.232
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：一法拉等于十的六次方微法？对。判断四：板间距离增大电容增大？错，电容减小。",
+		"seconds": 10.536
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：电解电容器有正负极？对。判断六：外壳标的是击穿电压？错，是额定电压。",
+		"seconds": 10.416
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|电容自身定，面大距小容量大。下一期：电源和电流、导体的电阻。",
+		"seconds": 7.248
+	}
+}

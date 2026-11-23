@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|自由落体运动与竖直上抛运动。",
+		"seconds": 3.456
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲落体运动的规律、重力加速度 g、伽利略的研究，以及竖直上抛运动，共九个考点。",
+		"seconds": 8.472
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，亚里士多德认为：重的物体下落得快，轻的物体下落得慢。",
+		"seconds": 6.384
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|伽利略用逻辑推理指出其中的矛盾：把一个重物和一个轻物绑在一起下落。",
+		"seconds": 7.008
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|按这个观点，轻物下落慢，会拖慢重物，整体比重物慢；可整体比重物更重，又应该比重物快。",
+		"seconds": 9.168
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|金发女孩抱起粉发女孩：两人成了一个整体，比金发女孩一个人更重。按“重的快”，整体该更快；按“轻的拖后腿”，整体又该更慢，自相矛盾。",
+		"seconds": 13.416
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同一个前提推出两个互相矛盾的结论，说明“重的物体下落快”是错误的。",
+		"seconds": 7.176
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，自由落体运动：物体只在重力作用下从静止开始下落的运动。",
+		"seconds": 6.888
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个条件缺一不可：初速度为零，只受重力。",
+		"seconds": 4.608
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|空气阻力比重力小得多、可以忽略时，物体的下落可以近似看作自由落体运动。",
+		"seconds": 7.296
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|大雪里撑着伞的两个女孩：雪花轻飘飘地慢慢落下，空气阻力不能忽略，雪花的下落不是自由落体运动。",
+		"seconds": 9.816
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：自由落体是理想化模型；从静止开始下落不一定是自由落体，还要看空气阻力能不能忽略。",
+		"seconds": 9.336
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，运动性质：自由落体运动是初速度为零的匀加速直线运动。",
+		"seconds": 6.792
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|用频闪照相或打点计时器研究下落的物体，可以发现连续相等时间内的位移之差相等。",
+		"seconds": 8.304
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|在抽成真空的玻璃管里，羽毛和金属片从同一高度同时下落，同时落到底。",
+		"seconds": 7.416
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：在同一地点，不计空气阻力时，轻重不同的物体自由下落得一样快。",
+		"seconds": 7.224
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，自由落体加速度也叫重力加速度，用 g 表示，方向竖直向下。",
+		"seconds": 7.296
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|在同一地点，一切物体的 g 都相同。",
+		"seconds": 3.648
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|地球上不同的地点，g 一般不同：纬度越高，g 越大，赤道处最小，两极处最大。",
+		"seconds": 8.064
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|一般计算中取g等于九点八米每二次方秒，粗略计算时可以取十米每二次方秒。",
+		"seconds": 7.848
+	},
+	"g5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：g 随纬度的升高而增大；“竖直向下”一般并不指向地心。",
+		"seconds": 6.288
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，把v零等于零、a等于g，代入匀变速直线运动的公式，就得到自由落体运动的规律。",
+		"seconds": 8.952
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|v等于g t，h等于二分之一g t平方，v平方等于二g h。",
+		"seconds": 6.336
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|匀变速直线运动的推论也都适用，比如连续相等时间内的高度差，德尔塔h等于g T平方。",
+		"seconds": 8.856
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：自由落体运动是匀变速直线运动的特例；从开始下落算起，v与t成正比，h与t的平方成正比。",
+		"seconds": 10.272
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，伽利略的研究过程。第一步，猜想：落体的速度 v 与时间 t 成正比。",
+		"seconds": 8.016
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二步，数学推理：如果v与t成正比，那么位移x就与t的平方成正比。",
+		"seconds": 7.728
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三步，实验验证：落体太快，时间难测。他让铜球沿斜面滚下，用斜面冲淡重力，测得x与t的平方成正比。",
+		"seconds": 11.736
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|第四步，合理外推：斜面倾角越大，比值越大；倾角增大到九十度，就是竖直下落，结论仍然成立。",
+		"seconds": 9.984
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：猜想、数学推理、斜面实验、合理外推；斜面实验的作用是延长下落时间，便于测量。",
+		"seconds": 9.696
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，伽利略的科学方法：把实验和逻辑推理，包括数学推演，和谐地结合起来。",
+		"seconds": 8.232
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|这种方法开创了近代物理学的研究方法。",
+		"seconds": 4.032
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|研究自然从思辨转向实验和测量，近代实验科学由此兴起。",
+		"seconds": 6.168
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：伽利略留下的不只是落体的结论，更是实验与逻辑推理相结合的研究方法。",
+		"seconds": 7.944
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，竖直上抛运动：物体以一定的初速度竖直向上抛出，只在重力作用下的运动。教材正文没有单列，按匀变速直线运动的规律理解。",
+		"seconds": 13.44
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|全过程只受重力，加速度始终是 g，方向竖直向下，是匀变速直线运动。",
+		"seconds": 7.488
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|取向上为正方向：v等于v零减g t，h等于v零t减二分之一g t平方。",
+		"seconds": 7.8
+	},
+	"u3b": {
+		"key": "zh-CN-XiaoxiaoNeural|雪地里粉发女孩把雪球向上一抛：上升时越来越慢，下落时越来越快，可加速度始终是 g，方向竖直向下。",
+		"seconds": 10.464
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：到达最高点时速度为零，加速度仍是g，不为零。",
+		"seconds": 6.024
+	},
+	"y1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，竖直上抛的对称性。上升到最高点用时v零除以g，最大高度为v零平方除以二g。",
+		"seconds": 9.816
+	},
+	"y2": {
+		"key": "zh-CN-XiaoxiaoNeural|速度对称：上升和下降经过同一位置时，速度大小相等、方向相反。",
+		"seconds": 7.056
+	},
+	"y3": {
+		"key": "zh-CN-XiaoxiaoNeural|时间对称：上升到最高点的时间等于从最高点落回原处的时间；经过同一段高度，上升和下降用时也相等。",
+		"seconds": 10.2
+	},
+	"y4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：上升过程可以看作下降过程的逆过程；从最高点开始的下降就是自由落体运动。",
+		"seconds": 8.376
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：重的物体下落得快？错，同一地点一样快。判断二：自由落体是初速度为零的匀加速直线运动？对。",
+		"seconds": 11.712
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：地球上各处的g都相同？错，纬度越高越大。判断四：伽利略用斜面冲淡重力？对。",
+		"seconds": 10.896
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：竖直上抛到最高点时加速度为零？错，仍是g。判断六：经过同一位置速度大小相等？对。",
+		"seconds": 11.448
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|只受重力a就是g，上抛下落两相对称。下一期：运动图像。",
+		"seconds": 6.744
+	}
+}

@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|波的反射、折射、衍射、干涉与多普勒效应。",
+		"seconds": 5.088
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲波遇到障碍物和界面时的现象、波的叠加与干涉，以及多普勒效应，共十个考点。",
+		"seconds": 8.448
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，波的反射。波遇到障碍物会返回原介质继续传播。",
+		"seconds": 6.36
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|反射时，反射角等于入射角。",
+		"seconds": 3.312
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|反射波仍在原介质中传播，频率、波速和波长都不变。",
+		"seconds": 5.544
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：回声就是声波的反射。",
+		"seconds": 3.312
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，波的折射。波从一种介质进入另一种介质时，传播方向发生改变。",
+		"seconds": 7.68
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|频率由波源决定，所以折射时频率不变。",
+		"seconds": 4.224
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|波速由介质决定，介质变了，波速改变，波长兰姆达等于v除以f，也随之改变。",
+		"seconds": 8.112
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：反射前后波长不变，折射前后波长改变；两种情况频率都不变。",
+		"seconds": 7.224
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，波的衍射：波可以绕过障碍物继续传播。",
+		"seconds": 5.064
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|一切波都能发生衍射，衍射是波特有的现象。",
+		"seconds": 4.536
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|闻其声而不见其人：声波绕过墙壁传过来，光却被挡住了。",
+		"seconds": 5.808
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|长发女孩从同伴身后侧着探过头来，悄悄叼住了饮料的吸管：波也能这样绕过障碍物，到达“背后”。",
+		"seconds": 9.696
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：闻其声而不见其人，是声波的衍射。",
+		"seconds": 4.584
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，发生明显衍射的条件：缝、孔的宽度或障碍物的尺寸，跟波长相差不多，或者比波长更小。",
+		"seconds": 9.912
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|声波波长可达几米，能绕过墙壁；光的波长很短，衍射就不容易看到。",
+		"seconds": 6.792
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|障碍物比波长大得多时，后面会留下明显的阴影区。",
+		"seconds": 5.28
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：条件不满足时，衍射依然存在，只是不明显。",
+		"seconds": 5.4
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，波的叠加。几列波相遇后，仍保持各自的运动特征继续传播，互不干扰。",
+		"seconds": 8.28
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|在重叠区域，质点同时参与几列波引起的振动。",
+		"seconds": 4.92
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|质点的位移等于几列波单独传播时引起的位移的矢量和。",
+		"seconds": 5.568
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：叠加的是位移，相遇之后各列波照旧，像没有相遇过一样。",
+		"seconds": 6.504
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，波的干涉。两列波频率相同、相位差恒定、振动方向相同，叠加后才能形成干涉。",
+		"seconds": 9.744
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|这时振动加强区和减弱区相互间隔，而且位置稳定不变。",
+		"seconds": 6
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|这种稳定的图样叫干涉图样。",
+		"seconds": 3.12
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴红框眼镜、拿着教鞭的老师在划重点：频率相同、相位差恒定、振动方向相同，三个条件缺一不可。",
+		"seconds": 10.08
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：干涉和衍射都是波特有的现象。",
+		"seconds": 4.176
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，加强点和减弱点。设两波源振动步调相同。",
+		"seconds": 6.048
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|某点到两波源的路程差等于波长的整数倍，振动加强，振幅为A一加A二。",
+		"seconds": 7.32
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|路程差等于半波长的奇数倍，振动减弱，振幅为A一减A二的绝对值。",
+		"seconds": 7.032
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两列波振幅相等时，减弱点振幅为零，几乎不振动。",
+		"seconds": 6.096
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析：加强点的位移。",
+		"seconds": 3.984
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|加强点仍在振动，位移随时间变化，在某些时刻位移为 0。",
+		"seconds": 6.192
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|加强说的是振幅最大，不是位移始终最大。",
+		"seconds": 4.56
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：加强点的位移并不总是最大，有时比减弱点的位移还小。",
+		"seconds": 6.36
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，多普勒效应。波源与观察者相互靠近时，观察者接收到的频率变大。",
+		"seconds": 8.16
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|相互远离时，接收到的频率变小。",
+		"seconds": 3.624
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|这一现象由奥地利物理学家多普勒首先发现。",
+		"seconds": 4.488
+	},
+	"i3b": {
+		"key": "zh-CN-XiaoxiaoNeural|眨着眼、伸手指向你的粉头发女孩：如果她一边唱歌一边朝你走来，你听到的音调就变高；她本身的嗓音并没有变。",
+		"seconds": 10.656
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：变的是接收到的频率，波源本身的频率并没有改变。",
+		"seconds": 5.832
+	},
+	"j1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点十，多普勒效应的应用。交通上，向行进的车辆发射超声波，由反射波频率的变化测量车速。",
+		"seconds": 10.176
+	},
+	"j2": {
+		"key": "zh-CN-XiaoxiaoNeural|医学上，彩超利用多普勒效应测量血流速度。",
+		"seconds": 4.776
+	},
+	"j3": {
+		"key": "zh-CN-XiaoxiaoNeural|天文学上，由星体光谱线的移动，测定星体相对地球的运动速度。",
+		"seconds": 6.36
+	},
+	"j4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：多普勒效应是一切波共有的现象，声波、光波、电磁波都有。",
+		"seconds": 7.08
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：反射后波长变短？错，都不变。判断二：障碍物大得多就不衍射？错，只是不明显。",
+		"seconds": 10.68
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：干涉和衍射是波特有的现象？对。判断四：加强点位移始终最大？错，是振幅最大。",
+		"seconds": 11.112
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：靠近时波源频率变大？错，变的是接收频率。判断六：折射时频率不变？对。",
+		"seconds": 10.152
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|加强振幅大，靠近频率高。下一期：光的折射。",
+		"seconds": 5.424
+	}
+}

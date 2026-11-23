@@ -1,0 +1,130 @@
+{
+	"id": "WLC-03",
+	"title": "光的折射",
+	"subject": "physics",
+	"book": "波动与光 · 第3期 / 共8期",
+	"points": [
+		"光的反射和折射",
+		"折射定律",
+		"折射率",
+		"n = c/v",
+		"光路可逆",
+		"光进入介质后的变化",
+		"不同色光的折射率",
+		"平行玻璃砖与三棱镜",
+		"生活中的折射现象"
+	],
+	"intro": {
+		"badge": "高考物理 · 波动与光",
+		"title": [
+			[
+				"光的",
+				false
+			],
+			[
+				"折射",
+				true
+			]
+		],
+		"subtitle": "折射定律 · 折射率 · n = c/v · 色散",
+		"photo": "pencil.jpg",
+		"photoCaption": "插在水中的铅笔，在水面处看起来折断了",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"光的"
+				],
+				[
+					"折射",
+					true
+				]
+			]
+		],
+		"photo": "pencil.jpg",
+		"photoPos": {
+			"16x9": "center 50%",
+			"4x3": "center 50%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "光的折射",
+		"credit": "Meganbeckett27, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "hoshia💫",
+			"title": "サブカルぼっちちゃん",
+			"url": "https://www.pixiv.net/artworks/128266600"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "某些介质的折射率小于 1",
+				"ok": false,
+				"fix": "任何介质的折射率都大于 1"
+			},
+			{
+				"q": "光从玻璃射入空气，折射角大于入射角",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光进入水中，频率变小",
+				"ok": false,
+				"fix": "频率不变，速度和波长变小"
+			},
+			{
+				"q": "同一介质对紫光的折射率最大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光通过平行玻璃砖后传播方向改变",
+				"ok": false,
+				"fix": "出射光与入射光平行，只发生侧移"
+			},
+			{
+				"q": "从岸上看水中的鱼，位置比实际的深",
+				"ok": false,
+				"fix": "比实际的浅"
+			}
+		],
+		"endTitle": [
+			[
+				"光的",
+				false
+			],
+			[
+				"折射",
+				true
+			]
+		],
+		"endLine": "n 等于 c 比 v，紫光偏折最厉害",
+		"slogan": "n 等于 c 比 v，紫光偏折最厉害"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Meganbeckett27《Pencil in glass of water showing refraction》，CC BY-SA 3.0；插图来自 pixiv：おりお、SuperRaiser（侵删）",
+	"anime": [
+		{
+			"key": "glasses",
+			"src": "glasses.jpg",
+			"credit": "插图：おりお《メガネ喜多ちゃん！》pixiv #124590182",
+			"url": "https://www.pixiv.net/artworks/124590182"
+		},
+		{
+			"key": "colors",
+			"src": "colors.jpg",
+			"credit": "插图：SuperRaiser《夢限大みゅーたいぷ》pixiv #132705761",
+			"url": "https://www.pixiv.net/artworks/132705761"
+		},
+		{
+			"key": "goldfish",
+			"src": "goldfish.jpg",
+			"credit": "插图：おりお《「とっ、取れました…！」》pixiv #134979297",
+			"url": "https://www.pixiv.net/artworks/134979297"
+		}
+	]
+}

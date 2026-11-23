@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Vt: React.FC = () => <AutoScene k="vt" d={{"tag": "考点四", "title": "速度—时间图像", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "plot", "at": "t1", "x": "t", "y": "v", "curves": [{"at": "t3", "pts": [[0.0, 0.55], [0.95, 0.55]], "c": "red"}, {"at": "t4", "pts": [[0.0, 0.15], [0.95, 0.9]], "c": "orange", "dash": true}], "w": 720, "h": 440, "notes": [{"x": 0.8, "y": 0.47, "text": "匀速", "at": "t3", "c": "red"}, {"x": 0.62, "y": 0.8, "text": "变速", "at": "t4", "c": "orange"}]}], "flex": null, "w": 740}, {"blocks": [{"t": "rule", "tag": "横轴", "at": "t1", "text": "时间 t", "c": "red", "size": 32}, {"t": "rule", "tag": "纵轴", "at": "t1", "text": "速度 v", "c": "orange", "size": 32}, {"t": "big", "at": "t3", "text": "匀速：{平行于 t 轴}", "size": 36}]}]}], "callout": {"label": "要点", "at": "t5", "text": "纵坐标{正负}表示方向，绝对值表示大小"}}} />;

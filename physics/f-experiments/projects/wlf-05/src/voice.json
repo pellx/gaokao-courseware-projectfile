@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|探究两个互成角度的力的合成规律。",
+		"seconds": 3.552
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的目的、原理、器材、记录内容、步骤、数据处理和误差，共八个考点。",
+		"seconds": 8.592
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。两个力互成角度地作用在物体上，它们的合力与这两个力之间满足什么关系？",
+		"seconds": 9.336
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一直线上的力，合力就是相加或相减；互成角度时，不能简单地把大小相加。",
+		"seconds": 7.752
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|这个实验就是用作图的方法，找出这个合成规律。",
+		"seconds": 4.824
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：探究的对象是两个分力与合力之间的关系，大小和方向都要比较。",
+		"seconds": 7.08
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验原理：等效替代。先用两个弹簧测力计互成角度地拉橡皮条。",
+		"seconds": 7.896
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|再只用一个弹簧测力计拉橡皮条。",
+		"seconds": 3.528
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|两次都把橡皮条与细绳的结点拉到同一位置O，橡皮条的伸长情况相同，作用效果相同。",
+		"seconds": 8.52
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|所以后一个力，就是前两个力的合力。",
+		"seconds": 3.912
+	},
+	"p4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这两只从左右两边捏住粉头发女孩脸颊的手：两个力互成角度，一起作用在同一个地方，效果就像一个力在推。",
+		"seconds": 10.368
+	},
+	"p5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：效果相同体现在结点到达同一位置O，这是等效替代的关键。",
+		"seconds": 6.888
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。方木板和白纸用来记录和作图，图钉把橡皮条的一端固定在木板上。",
+		"seconds": 9.288
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|橡皮条另一端系两根细绳套，用来挂弹簧测力计。",
+		"seconds": 5.208
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|两个弹簧测力计测量拉力的大小。",
+		"seconds": 3.552
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|刻度尺和三角板用来画力的方向、作平行四边形。",
+		"seconds": 5.112
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：力的大小靠测力计读出，力的方向靠细绳来显示。",
+		"seconds": 5.88
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，需要记录的内容。第一，结点O的位置。",
+		"seconds": 5.328
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，用两个测力计拉时，两个力的大小，也就是测力计的示数，和两个力的方向。",
+		"seconds": 7.632
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|方向就是细绳的方向，在细绳下方用两个相距较远的点标记，再连线。",
+		"seconds": 6.768
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，用一个测力计拉时，这个力的大小和方向。",
+		"seconds": 4.704
+	},
+	"r4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看草丛后面那个戴眼镜的女孩：竹筐的机关靠一根细绳牵着；实验里力的方向也全靠细绳来显示。",
+		"seconds": 9.384
+	},
+	"r5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只记大小、不记方向是常见的遗漏；力是矢量，大小和方向都要记。",
+		"seconds": 7.68
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，关键步骤。弹簧测力计使用前要调零。",
+		"seconds": 5.376
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|拉动时，测力计、细绳和橡皮条都要与木板平面平行；读数时视线正对刻度。",
+		"seconds": 8.208
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一次实验中，结点O的位置不能改变。",
+		"seconds": 3.96
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|细绳适当长些，方向标记得更准；两个力的夹角不宜太大，也不宜太小，便于作图。",
+		"seconds": 8.04
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两个分力的夹角不必是九十度，只要大小适当、方便作图。",
+		"seconds": 6.504
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，数据处理。选定同一标度，从O点出发作出两个分力F一、F二的图示。",
+		"seconds": 8.784
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|再作出只用一个测力计时拉力F撇的图示。",
+		"seconds": 4.368
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|以F一、F二为邻边作平行四边形，它的对角线记为F。",
+		"seconds": 6.168
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|最后比较F与F撇的大小和方向。",
+		"seconds": 3.696
+	},
+	"g5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：所有的力必须用同一标度，作的是力的图示，不是示意图。",
+		"seconds": 6.408
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，概念辨析。按平行四边形作出的F，是合力的理论值。",
+		"seconds": 6.936
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|用一个测力计实际拉出的F撇，是合力的实际测量值。",
+		"seconds": 5.376
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|F撇是一个测力计拉橡皮条的力，它一定沿橡皮条的方向；F是作图得到的，由于误差，不一定沿橡皮条。",
+		"seconds": 10.152
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：别把两者弄反：沿橡皮条方向的是F撇，是测量值；平行四边形的对角线F是理论值。",
+		"seconds": 9.576
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，实验结论。在误差允许的范围内，F与F撇大小相等、方向相同。",
+		"seconds": 7.992
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以两个互成角度的力的合成，遵从平行四边形定则。",
+		"seconds": 5.592
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|误差主要来自测力计的读数、记录力的方向和作图。",
+		"seconds": 4.992
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这四个穿同款黑T恤的女孩：衣服一模一样；F和F撇画出来，也在误差范围内大小相等、方向相同。",
+		"seconds": 10.056
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：F与F撇不完全重合是正常的，只要偏差在误差允许范围内，就验证了平行四边形定则。",
+		"seconds": 9.408
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：本实验用的是等效替代法？对。判断二：两次结点位置可以不同？错，必须拉到同一位置O。",
+		"seconds": 10.656
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：只记测力计示数就行？错，还要记方向。判断四：两分力夹角必须是九十度？错，适中即可。",
+		"seconds": 11.472
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：F撇一定沿橡皮条方向？对。判断六：平行四边形的对角线F是理论值？对。",
+		"seconds": 10.32
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|结点同一处，方向别忘记。下一期：探究加速度与物体受力、物体质量的关系。",
+		"seconds": 8.232
+	}
+}

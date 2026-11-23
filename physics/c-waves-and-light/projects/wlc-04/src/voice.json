@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|全反射。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲光疏介质和光密介质、全反射现象、临界角和发生条件，以及全反射棱镜和光导纤维，共八个考点。",
+		"seconds": 10.8
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，光疏介质与光密介质。两种介质相比，折射率较小的叫光疏介质，折射率较大的叫光密介质。",
+		"seconds": 10.992
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|这是相对的概念：水相对空气是光密介质，相对玻璃又是光疏介质。",
+		"seconds": 7.128
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|光在光密介质中传播得较慢。",
+		"seconds": 3.312
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：光密、光疏比的是折射率，与介质的密度不是一回事。",
+		"seconds": 6.144
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，全反射现象。光从光密介质射向光疏介质时，折射角大于入射角。",
+		"seconds": 8.208
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|入射角增大，折射角随之增大；折射光越来越弱，反射光越来越强。",
+		"seconds": 7.032
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|入射角达到某一角度时，折射光完全消失，只剩反射光，这就是全反射。",
+		"seconds": 7.224
+	},
+	"b3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发女孩把纸箱扣在头上，想把自己整个关起来：入射角够大时，光也被关在原介质里，一点都折射不出去。",
+		"seconds": 10.656
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：全反射时，入射光的能量全部被反射回原介质。",
+		"seconds": 6.096
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，临界角：折射角为九十度时对应的入射角，用C表示。",
+		"seconds": 6.48
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|光从介质射入空气或真空时，正弦C等于n分之一。",
+		"seconds": 5.472
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|折射率越大，临界角越小，越容易发生全反射。",
+		"seconds": 4.944
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：正弦C等于n分之一由光路可逆得出，适用于光从介质射向真空或空气。",
+		"seconds": 8.304
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，发生全反射的条件有两个。",
+		"seconds": 3.84
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一，光从光密介质射入光疏介质。",
+		"seconds": 4.056
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，入射角等于或大于临界角。",
+		"seconds": 3.768
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：光从光疏介质射入光密介质，入射角再大也不会发生全反射。",
+		"seconds": 7.248
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，全反射棱镜：截面为等腰直角三角形的玻璃棱镜。",
+		"seconds": 6
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|光在斜面或直角面上发生全反射，可使传播方向改变九十度或一百八十度。",
+		"seconds": 7.704
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|全反射时几乎没有能量损失。",
+		"seconds": 3.336
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：全反射棱镜的反射效果比平面镜好，常用于望远镜、潜望镜。",
+		"seconds": 7.128
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，光导纤维的工作原理。光纤由内芯和外套两层组成。",
+		"seconds": 6.576
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|内芯的折射率比外套的大。",
+		"seconds": 3
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|光在内芯与外套的界面上不断发生全反射，从一端传到另一端。",
+		"seconds": 6.216
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩趴在地上，用一根线连着的纸杯说悄悄话：光纤也像这根线，把光信号从一端送到另一端。",
+		"seconds": 9
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：是内芯折射率大、外套小；反过来就不能发生全反射。",
+		"seconds": 6.384
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，光纤的应用。光纤通信传输容量大、衰减小、抗干扰能力强。",
+		"seconds": 7.704
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|医学上用光导纤维制成内窥镜，观察人体内部器官。",
+		"seconds": 5.376
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|光纤还能传输图像，一束光纤就能把整幅画面传过去。",
+		"seconds": 5.4
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：这些应用都利用了光在光纤中的全反射。",
+		"seconds": 4.92
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，生活中的全反射。水中或玻璃中的气泡看起来特别明亮。",
+		"seconds": 7.032
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|光从水或玻璃射向气泡，是从光密介质射向光疏介质。",
+		"seconds": 5.688
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|入射角足够大时发生全反射，大量光被反射进人眼。",
+		"seconds": 5.688
+	},
+	"h3b": {
+		"key": "zh-CN-XiaoxiaoNeural|被包在大泡泡里的女孩，泡泡的边缘亮闪闪的：水中的气泡也很亮，不过那是光射到气泡表面发生了全反射。",
+		"seconds": 10.272
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：气泡明亮，是光射到气泡表面时发生了全反射。",
+		"seconds": 5.712
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：密度大就是光密介质？错，比的是折射率。判断二：折射率越大临界角越小？对。",
+		"seconds": 10.536
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：光从空气射入水中会全反射？错。判断四：全反射棱镜比平面镜好？对。",
+		"seconds": 10.32
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：光纤外套折射率更大？错，内芯更大。判断六：气泡明亮是全反射？对。",
+		"seconds": 9.984
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|光密到光疏，入射角不小于临界角。下一期：光的干涉。",
+		"seconds": 6.192
+	}
+}

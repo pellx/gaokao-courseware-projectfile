@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Uni: React.FC = () => <AutoScene k="uni" d={{"tag": "考点一", "title": "匀变速直线运动", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "plot", "at": "u2", "x": "t", "y": "v", "curves": [{"at": "u3", "pts": [[0.0, 0.2], [0.9, 0.9]], "c": "red"}, {"at": "u3", "pts": [[0.0, 0.8], [0.9, 0.12]], "c": "orange"}], "w": 700, "h": 440, "notes": [{"x": 0.82, "y": 0.96, "text": "匀加速", "at": "u3", "c": "red"}, {"x": 0.8, "y": 0.32, "text": "匀减速", "at": "u3", "c": "orange"}]}], "flex": null, "w": 720}, {"blocks": [{"t": "rule", "tag": "定义", "at": "u1", "text": "直线运动，{a 不变}", "c": "red", "size": 32}, {"t": "rule", "tag": "图像", "at": "u2", "text": "v-t 图线：{倾斜直线}", "c": "orange", "size": 32}, {"t": "big", "at": "u3", "text": "v 均匀增：{匀加速}\nv 均匀减：{匀减速|orange}", "size": 34}]}]}], "callout": {"label": "要点", "at": "u4", "text": "“匀变速”：{a 的大小和方向都不变}"}}} />;

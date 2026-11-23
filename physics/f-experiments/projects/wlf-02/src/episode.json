@@ -1,0 +1,135 @@
+{
+	"id": "WLF-02",
+	"title": "长度的测量及其测量工具的选用",
+	"subject": "physics",
+	"book": "实验 · 第2期 / 共22期",
+	"points": [
+		"测量工具的选用",
+		"刻度尺",
+		"游标卡尺的结构",
+		"游标卡尺的原理与精度",
+		"游标卡尺的读数",
+		"螺旋测微器的原理",
+		"螺旋测微器的读数",
+		"螺旋测微器的使用"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"长度的测量",
+				true
+			],
+			[
+				"及其",
+				false
+			],
+			[
+				"测量工具的选用",
+				false
+			]
+		],
+		"subtitle": "刻度尺 · 游标卡尺 · 螺旋测微器",
+		"photo": "micrometers.jpg",
+		"photoCaption": "三种螺旋测微器：外径千分尺、内径千分尺和深度千分尺",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"长度的测量",
+					true
+				]
+			],
+			[
+				[
+					"测量工具的选用"
+				]
+			]
+		],
+		"photo": "micrometers.jpg",
+		"photoPos": "center",
+		"photoTag": "实物照片",
+		"credit": "Splarka, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "はるみや",
+			"title": "無題",
+			"url": "https://www.pixiv.net/artworks/126933669"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "测量金属丝的直径应选用螺旋测微器",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "用毫米刻度尺测量，读数应估读到 0.1 mm",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "20 分度游标卡尺的精度是 0.02 mm",
+				"ok": false,
+				"fix": "是 0.05 mm"
+			},
+			{
+				"q": "游标卡尺读数时要估读一位",
+				"ok": false,
+				"fix": "游标卡尺不估读"
+			},
+			{
+				"q": "螺旋测微器的精度是 0.01 mm，读数要估读一位",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "螺旋测微器测量时一直用粗调旋钮拧紧即可",
+				"ok": false,
+				"fix": "靠近时改用微调旋钮"
+			}
+		],
+		"endTitle": [
+			[
+				"长度的测量",
+				true
+			],
+			[
+				"及其",
+				false
+			],
+			[
+				"测量工具的选用",
+				false
+			]
+		],
+		"endLine": "卡尺不估读，千分尺要估读",
+		"slogan": "卡尺不估读，千分尺要估读"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Splarka（英文维基百科）《Micrometers》，公有领域；插图来自 pixiv：イサ、はるみや、さかな（侵删）",
+	"anime": [
+		{
+			"key": "sisters",
+			"src": "sisters.jpg",
+			"credit": "插图：イサ《おおむろけ！》pixiv #128019140",
+			"url": "https://www.pixiv.net/artworks/128019140"
+		},
+		{
+			"key": "face",
+			"src": "face.jpg",
+			"credit": "插图：はるみや《無題》pixiv #128532609",
+			"url": "https://www.pixiv.net/artworks/128532609"
+		},
+		{
+			"key": "pat",
+			"src": "pat.jpg",
+			"credit": "插图：さかな《池田姉妹生誕祭2025》pixiv #128099212",
+			"url": "https://www.pixiv.net/artworks/128099212"
+		}
+	]
+}

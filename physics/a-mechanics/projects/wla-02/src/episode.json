@@ -1,0 +1,127 @@
+{
+	"id": "WLA-02",
+	"title": "速度与加速度",
+	"subject": "physics",
+	"book": "力学 · 第2期 / 共32期",
+	"points": [
+		"速度",
+		"平均速度与瞬时速度",
+		"速率",
+		"速度—时间图像",
+		"加速度",
+		"加速度的方向",
+		"从 v-t 图像看加速度",
+		"速度、速度变化量与加速度"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"速度",
+				true
+			],
+			[
+				"与加速度"
+			]
+		],
+		"subtitle": "比值定义 · 瞬时速度 · 速率 · v-t 图像 · 加速度",
+		"photo": "speedometer.jpg",
+		"photoCaption": "1952 年 NSU 摩托车的速度表：指针显示的是此刻的速率",
+		"photoPos": "center 62%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"速度",
+					true
+				],
+				[
+					"与加速度"
+				]
+			]
+		],
+		"photo": "speedometer.jpg",
+		"photoPos": {
+			"16x9": "center 62%",
+			"4x3": "center 62%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "速度表",
+		"credit": "Palauenc05, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "飛来ボデー",
+			"title": "ぼっちざろっく",
+			"url": "https://www.pixiv.net/artworks/111215097"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "速度的方向就是物体运动的方向",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "平均速率就是平均速度的大小",
+				"ok": false,
+				"fix": "平均速率 = 路程/时间，一般不相等"
+			},
+			{
+				"q": "匀速直线运动的 v-t 图像是平行于时间轴的直线",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "加速度为负，物体一定做减速运动",
+				"ok": false,
+				"fix": "看 a 与 v 是否同向"
+			},
+			{
+				"q": "v-t 图线越高，加速度越大",
+				"ok": false,
+				"fix": "加速度看斜率，不看高低"
+			},
+			{
+				"q": "物体速度为 0 时，加速度一定为 0",
+				"ok": false,
+				"fix": "速度为 0 时加速度可以不为 0"
+			}
+		],
+		"endTitle": [
+			[
+				"速度",
+				true
+			],
+			[
+				"与加速度"
+			]
+		],
+		"endLine": "速度看快慢，加速度看变化的快慢",
+		"slogan": "速度看快慢，加速度看变化的快慢"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Palauenc05《NSU-LUX 1952 Speedometer》CC BY-SA 4.0；插图来自 pixiv：恭(きょう)、miura、Gruppe（侵删）",
+	"anime": [
+		{
+			"key": "race",
+			"src": "race.jpg",
+			"credit": "插图：恭(きょう)《ローディング中…》pixiv #69536972",
+			"url": "https://www.pixiv.net/artworks/69536972"
+		},
+		{
+			"key": "bike",
+			"src": "bike.jpg",
+			"credit": "插图：miura《無題》pixiv #118626028",
+			"url": "https://www.pixiv.net/artworks/118626028"
+		},
+		{
+			"key": "train",
+			"src": "train.jpg",
+			"credit": "插图：Gruppe《ぼっちちゃん》pixiv #110440930",
+			"url": "https://www.pixiv.net/artworks/110440930"
+		}
+	]
+}

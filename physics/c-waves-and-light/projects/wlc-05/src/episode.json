@@ -1,0 +1,129 @@
+{
+	"id": "WLC-05",
+	"title": "光的干涉",
+	"subject": "physics",
+	"book": "波动与光 · 第5期 / 共8期",
+	"points": [
+		"杨氏双缝干涉实验",
+		"相干光源",
+		"亮条纹和暗条纹的条件",
+		"条纹间距",
+		"干涉图样的特点",
+		"光的颜色与波长",
+		"薄膜干涉",
+		"薄膜干涉的应用"
+	],
+	"intro": {
+		"badge": "高考物理 · 波动与光",
+		"title": [
+			[
+				"光的",
+				false
+			],
+			[
+				"干涉",
+				true
+			]
+		],
+		"subtitle": "双缝干涉 · Δx = lλ/d · 薄膜干涉",
+		"photo": "young.jpg",
+		"photoCaption": "托马斯·杨：1801 年用双缝实验观察到光的干涉",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"光的"
+				],
+				[
+					"干涉",
+					true
+				]
+			]
+		],
+		"photo": "young.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "托马斯·杨",
+		"credit": "Henry Perronet Briggs, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "鳳梨ぴね",
+			"title": "シャボン玉友希那さん",
+			"url": "https://www.pixiv.net/artworks/87111692"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "杨氏双缝干涉实验证明光是一种波",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "两个独立的灯泡可以作为相干光源",
+				"ok": false,
+				"fix": "相位差不恒定，不是相干光源"
+			},
+			{
+				"q": "双缝间距越大，条纹间距越大",
+				"ok": false,
+				"fix": "Δx = lλ/d，d 越大条纹越窄"
+			},
+			{
+				"q": "白光双缝干涉的中央是白色亮条纹",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "紫光的干涉条纹间距比红光的大",
+				"ok": false,
+				"fix": "红光波长长，条纹间距大"
+			},
+			{
+				"q": "竖直肥皂膜上形成竖直的条纹",
+				"ok": false,
+				"fix": "上薄下厚，形成水平条纹"
+			}
+		],
+		"endTitle": [
+			[
+				"光的",
+				false
+			],
+			[
+				"干涉",
+				true
+			]
+		],
+		"endLine": "路程差整波长亮，间距等于 lλ 比 d",
+		"slogan": "路程差整波长亮，间距等于 lλ 比 d"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Henry Perronet Briggs《Thomas Young》，公有领域；插图来自 pixiv：カノ、飛来ボデー、Zackey（侵删）",
+	"anime": [
+		{
+			"key": "piano",
+			"src": "piano.jpg",
+			"credit": "插图：カノ《けいおん!!!!》 pixiv #82523933",
+			"url": "https://www.pixiv.net/artworks/82523933"
+		},
+		{
+			"key": "height",
+			"src": "height.jpg",
+			"credit": "插图：飛来ボデー《ぼっちざろっく》 pixiv #107167334",
+			"url": "https://www.pixiv.net/artworks/107167334"
+		},
+		{
+			"key": "bubble",
+			"src": "bubble.jpg",
+			"credit": "插图：Zackey《メンダコぼっちちゃんと喜多ちゃん　Part2》 pixiv #107331987",
+			"url": "https://www.pixiv.net/artworks/107331987"
+		}
+	]
+}

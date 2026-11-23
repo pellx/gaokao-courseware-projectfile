@@ -1,0 +1,126 @@
+{
+	"id": "WLB-06",
+	"title": "电容器的电容",
+	"subject": "physics",
+	"book": "电学基础 · 第6期 / 共22期",
+	"points": [
+		"电容器",
+		"充电与放电",
+		"电容 C = Q/U",
+		"电容的单位",
+		"平行板电容器",
+		"常用电容器",
+		"击穿电压与额定电压"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"电容器",
+				true
+			],
+			[
+				"的电容"
+			]
+		],
+		"subtitle": "充放电 · C = Q/U · 平行板电容器 · 击穿电压",
+		"photo": "leyden.jpg",
+		"photoCaption": "莱顿瓶组：最早的电容器，玻璃瓶内外贴着金属箔",
+		"photoPos": "center 60%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电容器",
+					true
+				],
+				[
+					"的电容"
+				]
+			]
+		],
+		"photo": "leyden.jpg",
+		"photoPos": {
+			"16x9": "center 60%",
+			"4x3": "center 60%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "莱顿瓶",
+		"credit": "Jos van den Broek, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "シャポコ",
+			"title": "聞いたら答えてほしい (JP/EN)",
+			"url": "https://www.pixiv.net/artworks/126007771"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电容器的电荷量是两极板电荷量之和",
+				"ok": false,
+				"fix": "指一个极板电荷量的绝对值"
+			},
+			{
+				"q": "电容 C 与 Q 成正比，与 U 成反比",
+				"ok": false,
+				"fix": "C 由电容器本身决定"
+			},
+			{
+				"q": "1 F = 10⁶ μF",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "平行板电容器板间距离增大，电容增大",
+				"ok": false,
+				"fix": "d 增大，电容减小"
+			},
+			{
+				"q": "电解电容器有正负极之分",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电容器外壳上标的是击穿电压",
+				"ok": false,
+				"fix": "标的是额定电压"
+			}
+		],
+		"endTitle": [
+			[
+				"电容器",
+				true
+			],
+			[
+				"的电容"
+			]
+		],
+		"endLine": "电容自身定，面大距小容量大",
+		"slogan": "电容自身定，面大距小容量大"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Prof. Jos van den Broek《Museum Boerhaave - Leiden Jars》，CC BY-SA 3.0；插图来自 pixiv：ヤンマー、いちみ＠C109東１ イ04a、シャポコ（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：ヤンマー《カメラの妖精グリッドレイちゃん》pixiv #69526408",
+			"url": "https://www.pixiv.net/artworks/69526408"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：いちみ＠C109東１ イ04a《お手々繋ぎぼ喜多》pixiv #141822221",
+			"url": "https://www.pixiv.net/artworks/141822221"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：シャポコ《爆破実験》pixiv #107214767",
+			"url": "https://www.pixiv.net/artworks/107214767"
+		}
+	]
+}

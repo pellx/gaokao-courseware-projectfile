@@ -1,0 +1,139 @@
+{
+	"id": "WLC-02",
+	"title": "波的反射、折射、衍射、干涉与多普勒效应",
+	"subject": "physics",
+	"book": "波动与光 · 第2期 / 共8期",
+	"points": [
+		"波的反射",
+		"波的折射",
+		"波的衍射",
+		"明显衍射的条件",
+		"波的叠加",
+		"波的干涉",
+		"加强点和减弱点",
+		"加强点的位移",
+		"多普勒效应",
+		"多普勒效应的应用"
+	],
+	"intro": {
+		"badge": "高考物理 · 波动与光",
+		"title": [
+			[
+				"波的",
+				false
+			],
+			[
+				"衍射与干涉",
+				true
+			],
+			[
+				"多普勒效应"
+			]
+		],
+		"subtitle": "反射 · 折射 · 衍射 · 干涉 · 多普勒效应",
+		"photo": "ripple.jpg",
+		"photoCaption": "水波槽中两个波源产生的干涉图样（黑白处理）",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"波的衍射与干涉",
+					true
+				]
+			],
+			[
+				[
+					"多普勒效应"
+				]
+			]
+		],
+		"photo": "ripple.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "水波干涉",
+		"credit": "Armedblowfish, BSD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "キュルラームヘヴン",
+			"title": "平沢唯",
+			"url": "https://www.pixiv.net/artworks/92011236"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "波发生反射后波长变短",
+				"ok": false,
+				"fix": "反射波的频率、波速、波长都不变"
+			},
+			{
+				"q": "障碍物比波长大得多时不发生衍射",
+				"ok": false,
+				"fix": "衍射依然存在，只是不明显"
+			},
+			{
+				"q": "干涉和衍射是波特有的现象",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "振动加强点的位移始终最大",
+				"ok": false,
+				"fix": "加强点振幅最大，位移随时间变化"
+			},
+			{
+				"q": "观察者靠近波源时，波源的频率变大",
+				"ok": false,
+				"fix": "波源频率不变，接收到的频率变大"
+			},
+			{
+				"q": "波的折射中频率不变",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"波的",
+				false
+			],
+			[
+				"衍射与干涉",
+				true
+			],
+			[
+				"多普勒效应"
+			]
+		],
+		"endLine": "加强振幅大，靠近频率高",
+		"slogan": "加强振幅大，靠近频率高"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Armedblowfish《Two-point interference ripple tank》，BSD 许可，已转为黑白；插图来自 pixiv：画失联、E20（侵删）",
+	"anime": [
+		{
+			"key": "around",
+			"src": "around.jpg",
+			"credit": "插图：画失联《请立希喝奶/请萤吃小馒头》pixiv #151947713",
+			"url": "https://www.pixiv.net/artworks/151947713"
+		},
+		{
+			"key": "teacher",
+			"src": "teacher.jpg",
+			"credit": "插图：E20《教えて心玖先生！》pixiv #151611802",
+			"url": "https://www.pixiv.net/artworks/151611802"
+		},
+		{
+			"key": "point",
+			"src": "point.jpg",
+			"credit": "插图：E20《愛音ちゃん》pixiv #151955083",
+			"url": "https://www.pixiv.net/artworks/151955083"
+		}
+	]
+}

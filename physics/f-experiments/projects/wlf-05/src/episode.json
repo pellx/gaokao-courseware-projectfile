@@ -1,0 +1,127 @@
+{
+	"id": "WLF-05",
+	"title": "探究两个互成角度的力的合成规律",
+	"subject": "physics",
+	"book": "实验 · 第5期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验原理：等效替代",
+		"器材及作用",
+		"需要记录的内容",
+		"关键步骤",
+		"数据处理",
+		"理论值与测量值",
+		"结论与误差"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"探究两个互成角度的",
+				false
+			],
+			[
+				"力的合成规律",
+				true
+			]
+		],
+		"subtitle": "等效替代 · 结点 O · 力的图示 · 平行四边形定则",
+		"photo": "stevin.png",
+		"photoCaption": "斯台文《静力学原理》（1586）中的“链球”图：最早研究力的合成与分解的学者之一",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"互成角度的力"
+				]
+			],
+			[
+				[
+					"合成规律",
+					true
+				]
+			]
+		],
+		"photo": "stevin.png",
+		"photoPos": "center",
+		"photoTag": "历史插图",
+		"credit": "Simon Stevin, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "もってぃ",
+			"title": "にっこり喜多ちゃん",
+			"url": "https://www.pixiv.net/artworks/118239335"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "本实验采用的是等效替代的方法",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "同一次实验中，两次拉橡皮条时结点 O 的位置可以不同",
+				"ok": false,
+				"fix": "必须拉到同一位置 O"
+			},
+			{
+				"q": "记录拉力时只需记下测力计的示数",
+				"ok": false,
+				"fix": "还要记录力的方向"
+			},
+			{
+				"q": "两个分力的夹角必须为 90°",
+				"ok": false,
+				"fix": "夹角适中即可，不必为 90°"
+			},
+			{
+				"q": "一个测力计拉出的 F′ 一定沿橡皮条方向",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "平行四边形的对角线 F 是合力的理论值",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"探究两个互成角度的",
+				false
+			],
+			[
+				"力的合成规律",
+				true
+			]
+		],
+		"endLine": "结点同一处，方向别忘记",
+		"slogan": "结点同一处，方向别忘记"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Simon Stevin《Wonder en is gheen wonder》（1586），公有领域；插图来自 pixiv：ヒロツキ@お仕事募集中、画失联、*SAKI*（侵删）",
+	"anime": [
+		{
+			"key": "cheeks",
+			"src": "cheeks.jpg",
+			"credit": "插图：ヒロツキ@お仕事募集中《ぼっちほっぺ》 pixiv #118559086",
+			"url": "https://www.pixiv.net/artworks/118559086"
+		},
+		{
+			"key": "trap",
+			"src": "trap.jpg",
+			"credit": "插图：画失联《nina的捕捉方式~》 pixiv #120089605",
+			"url": "https://www.pixiv.net/artworks/120089605"
+		},
+		{
+			"key": "band",
+			"src": "band.jpg",
+			"credit": "插图：*SAKI*《結束バンド！》 pixiv #119484524",
+			"url": "https://www.pixiv.net/artworks/119484524"
+		}
+	]
+}
