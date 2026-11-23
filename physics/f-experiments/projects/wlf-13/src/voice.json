@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|测量金属丝的电阻率。",
+		"seconds": 2.52
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的原理、测量方法、电路、步骤、数据处理和误差，共八个考点。",
+		"seconds": 7.92
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验原理。由电阻定律R等于柔l除以S，导体的电阻与长度成正比，与横截面积成反比。",
+		"seconds": 10.32
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|金属丝的横截面是圆，S等于派d平方除以4，d是直径。",
+		"seconds": 6.192
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|两式联立，得到柔等于派d平方R除以4l。",
+		"seconds": 4.704
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个戴眼镜、穿白大褂的女孩，一副小科学家的样子：公式推出来了，接下来就是把三个量一一测准。",
+		"seconds": 9.528
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：需要测出金属丝的电阻 R、接入电路的有效长度 l和直径 d。",
+		"seconds": 6.648
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，长度与直径的测量。有效长度用毫米刻度尺测量，测三次取平均值。",
+		"seconds": 8.256
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|直径很小，用螺旋测微器测量，在金属丝的不同位置测三次，取平均值。",
+		"seconds": 7.344
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|在不同位置测量，是因为金属丝各处粗细可能不完全均匀。",
+		"seconds": 5.712
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：螺旋测微器读数时，毫米以下要估读到零点零零一毫米，结果以毫米为单位要保留到小数点后第三位。",
+		"seconds": 10.2
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。电压表测金属丝两端的电压，电流表测通过金属丝的电流，由R等于U除以I求电阻。",
+		"seconds": 10.944
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|滑动变阻器调节电路中的电流和电压，以便测出多组数据。",
+		"seconds": 5.832
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|电源、开关、导线组成电路。",
+		"seconds": 3.6
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：这是用伏安法测电阻，电阻率不是直接测出的，而是由 R、l、d 算出来的。",
+		"seconds": 8.28
+	},
+	"o1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，测量电路。金属丝的电阻较小，远小于电压表的内阻，采用电流表外接法。",
+		"seconds": 8.616
+	},
+	"o2": {
+		"key": "zh-CN-XiaoxiaoNeural|外接时，电压表测的就是金属丝两端的电压，但电压表也有电流通过，就是电压表分流。",
+		"seconds": 8.712
+	},
+	"o3": {
+		"key": "zh-CN-XiaoxiaoNeural|于是电流表的示数大于通过金属丝的电流，由R等于U除以I算出的电阻测量值偏小。",
+		"seconds": 8.328
+	},
+	"o4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：外接法的误差来自电压表分流，测量值偏小；待测电阻越小，分流的影响越小，所以小电阻用外接法。",
+		"seconds": 11.064
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，控制电路。滑动变阻器可以采用限流式接法，也可以采用分压式接法。",
+		"seconds": 7.992
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|限流式：变阻器与金属丝串联，电路简单；分压式：金属丝两端电压可以从 0 开始调节，调节范围大。",
+		"seconds": 10.704
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|闭合开关前，滑片要放在使金属丝两端电压最小的位置。",
+		"seconds": 5.784
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：这样闭合开关时电流最小，可以保护电表和金属丝。",
+		"seconds": 5.976
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，关键步骤。先用螺旋测微器测直径，再把金属丝接入电路。",
+		"seconds": 7.32
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|接入电路后，再测有效长度，也就是两端接线柱之间的那一段长度。",
+		"seconds": 6.336
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|测电流时，通过金属丝的电流不宜过大，通电时间不宜过长。",
+		"seconds": 6.192
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这碗热气腾腾的面：面条一烫就变软；金属丝电流太大、通电太久也会发热，性质就变了。",
+		"seconds": 8.976
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：金属的电阻率随温度升高而增大，电流过大、时间过长，测出的就不是常温下的电阻率。",
+		"seconds": 9.48
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，数据处理。改变滑片的位置，读出多组电压 U 和电流 I。",
+		"seconds": 7.152
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|方法一：用R等于U除以I分别算出各组的电阻，再取平均值。",
+		"seconds": 6.456
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|方法二：作U对I的图像，得到一条过原点的直线，直线的斜率就是电阻R。",
+		"seconds": 7.368
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：求出R后，代入柔等于派d平方R除以4l求出电阻率。",
+		"seconds": 6.456
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，误差来源。电流表外接，电压表分流，电阻测量值偏小，所以电阻率测量值偏小，这是系统误差。",
+		"seconds": 11.208
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|直径在公式中以平方出现，它的测量误差对结果影响最大。",
+		"seconds": 5.928
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|长度测量、电表读数存在偶然误差，可以多次测量取平均值，或用图像法减小。",
+		"seconds": 7.92
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个抱着胳膊得意大笑的女孩可别高兴太早：数据算出来了，还要想想误差往哪边偏。",
+		"seconds": 8.28
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电阻率测量值偏小，来自电压表分流；直径要用螺旋测微器在不同位置多次测量。",
+		"seconds": 9.096
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电阻率等于派d平方R除以4l？对。判断二：直径用毫米刻度尺测？错，用螺旋测微器。",
+		"seconds": 11.448
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：电阻较小，用电流表内接法？错，用外接法。判断四：闭合开关前滑片放在电压最小处？对。",
+		"seconds": 11.928
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：U对I图像的斜率表示电阻？对。判断六：外接时电阻率测量值偏大？错，电压表分流，测量值偏小。",
+		"seconds": 12.72
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|小电阻外接，直径测三次。下一期：用多用电表测量电学中的物理量。",
+		"seconds": 7.56
+	}
+}

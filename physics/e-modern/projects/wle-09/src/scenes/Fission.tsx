@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Fission: React.FC = () => <AutoScene k="fission" d={{"tag": "考点一", "title": "重核裂变", "blocks": [{"t": "nuc", "at": "a2", "items": [{"A": "235", "Z": "92", "X": "U"}, {"A": "", "Z": "", "X": "+"}, {"A": "1", "Z": "0", "X": "n", "c": "orange"}, {"A": "", "Z": "", "X": "→"}, {"A": "144", "Z": "56", "X": "Ba"}, {"A": "", "Z": "", "X": "+"}, {"A": "89", "Z": "36", "X": "Kr"}, {"A": "", "Z": "", "X": "+"}, {"A": "", "Z": "", "X": "3"}, {"A": "1", "Z": "0", "X": "n", "c": "orange"}], "size": 64}, {"t": "rule", "tag": "裂变", "at": "a1", "text": "重核 → 两个{中等质量}的核", "c": "red"}, {"t": "text", "at": "a3", "text": "比结合能增大 → {释放能量}", "size": 36}], "callout": {"label": "要点", "at": "a4", "text": "先{俘获中子}，再分裂"}, "beat": {"k": "split", "at": "a3b", "text": "一个变两个\n{裂变|red}"}}} />;

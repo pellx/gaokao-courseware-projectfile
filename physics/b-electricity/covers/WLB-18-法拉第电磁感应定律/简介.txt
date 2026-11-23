@@ -1,0 +1,23 @@
+本期考点
+
+一、感应电动势（产生它的导体相当于电源；电路闭合才有感应电流）
+二、法拉第电磁感应定律（E = nΔΦ/Δt，单位伏特）
+三、Φ、ΔΦ 与 ΔΦ/Δt（E 由变化率决定，与 Φ、ΔΦ 的大小无必然联系）
+四、导线切割磁感线（E = Blv；有夹角时 E = Blv sinθ）
+五、平均值与瞬时值（nΔΦ/Δt 常求平均值，Blv 代瞬时速度求瞬时值）
+六、动生电动势（非静电力与自由电荷所受洛伦兹力有关）
+七、动生电动势中的能量转化（外力克服安培力做功，机械能转化为电能）
+八、反电动势（电动机克服反电动势，把电能转化为机械能）
+
+图片来源
+1.Daderot《Faraday disk - National Museum of Nature and Science, Tokyo》，CC0（Wikimedia Commons）
+2.插图：ぼぎげ《無題》
+https://www.pixiv.net/artworks/138059682
+3.插图：かめふく🐢《自転車乗れるかな》
+https://www.pixiv.net/artworks/119484815
+4.插图：リュウセイ《扇風機とひろプリのみんな》
+https://www.pixiv.net/artworks/135102712
+5.封面插图：ゆきぽP《エミせり》
+https://www.pixiv.net/artworks/110545731
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

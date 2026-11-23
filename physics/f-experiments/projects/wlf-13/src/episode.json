@@ -1,0 +1,138 @@
+{
+	"id": "WLF-13",
+	"title": "测量金属丝的电阻率",
+	"subject": "physics",
+	"book": "实验 · 第13期 / 共22期",
+	"points": [
+		"实验原理",
+		"长度与直径的测量",
+		"器材及作用",
+		"测量电路",
+		"控制电路",
+		"关键步骤",
+		"数据处理",
+		"误差来源"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"测量",
+				false
+			],
+			[
+				"金属丝",
+				true
+			],
+			[
+				"的电阻率",
+				false
+			]
+		],
+		"subtitle": "ρ = πd²R/4l · 螺旋测微器 · 电流表外接 · U-I 图像",
+		"photo": "resistance-box.jpg",
+		"photoCaption": "电阻箱示意图（1927 年学生实验手绘）：盒内绕着电阻丝，拔插头改变接入的电阻",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"测量"
+				],
+				[
+					"金属丝",
+					true
+				]
+			],
+			[
+				[
+					"的电阻率"
+				]
+			]
+		],
+		"photo": "resistance-box.jpg",
+		"photoPos": "center",
+		"photoTag": "历史图稿",
+		"credit": "Milton Wend, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "合鍵 文絵",
+			"title": "こういう虹喜多",
+			"url": "https://www.pixiv.net/artworks/133430068"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电阻率的表达式为 ρ = πd²R/4l",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "金属丝的直径用毫米刻度尺测量",
+				"ok": false,
+				"fix": "用螺旋测微器测量"
+			},
+			{
+				"q": "金属丝电阻较小，应采用电流表内接法",
+				"ok": false,
+				"fix": "采用电流表外接法"
+			},
+			{
+				"q": "闭合开关前，滑片应放在使金属丝两端电压最小的位置",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "U-I 图像的斜率表示电阻 R",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电流表外接时，电阻率测量值偏大",
+				"ok": false,
+				"fix": "电压表分流，测量值偏小"
+			}
+		],
+		"endTitle": [
+			[
+				"测量",
+				false
+			],
+			[
+				"金属丝",
+				true
+			],
+			[
+				"的电阻率",
+				false
+			]
+		],
+		"endLine": "小电阻外接，直径测三次",
+		"slogan": "小电阻外接，直径测三次"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Milton Wend《Resistance Box》（1927），公有领域；插图来自 pixiv：マダンテゴロン、taka（侵删）",
+	"anime": [
+		{
+			"key": "labcoat",
+			"src": "labcoat.jpg",
+			"credit": "插图：マダンテゴロン《かしこ櫻子》 pixiv #92945621",
+			"url": "https://www.pixiv.net/artworks/92945621"
+		},
+		{
+			"key": "ramen",
+			"src": "ramen.jpg",
+			"credit": "插图：taka《お腹いっぱい食べてくれ山田ちゃん》 pixiv #105740132",
+			"url": "https://www.pixiv.net/artworks/105740132"
+		},
+		{
+			"key": "laugh",
+			"src": "laugh.jpg",
+			"credit": "插图：マダンテゴロン《ふはははははは！！！！》 pixiv #94694931",
+			"url": "https://www.pixiv.net/artworks/94694931"
+		}
+	]
+}

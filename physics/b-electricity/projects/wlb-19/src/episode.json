@@ -1,0 +1,136 @@
+{
+	"id": "WLB-19",
+	"title": "涡流、电磁阻尼与电磁驱动，互感和自感",
+	"subject": "physics",
+	"book": "电学基础 · 第19期 / 共22期",
+	"points": [
+		"感生电场与感生电动势",
+		"涡流及其应用",
+		"涡流的防止",
+		"电磁阻尼",
+		"电磁驱动",
+		"互感",
+		"自感",
+		"自感系数",
+		"磁场的能量"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"涡流、电磁阻尼与电磁驱动",
+				true
+			],
+			[
+				"互感和自感"
+			]
+		],
+		"subtitle": "感生电场 · 涡流 · 电磁阻尼 · 电磁驱动 · 互感 · 自感 · 磁场能",
+		"photo": "henry.jpg",
+		"photoCaption": "约瑟夫·亨利：独立发现自感现象，自感系数的单位亨利以他命名",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"涡流",
+					true
+				]
+			],
+			[
+				[
+					"电磁阻尼与驱动"
+				]
+			],
+			[
+				[
+					"互感和自感",
+					true
+				]
+			]
+		],
+		"photo": "henry.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "亨利",
+		"credit": "Mathew Brady or Levin Handy, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "shamo",
+			"title": "年越しそばの日",
+			"url": "https://www.pixiv.net/artworks/125723849"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "变化的磁场在周围空间激发感生电场",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "变压器铁芯用整块铁制成，可以减小涡流",
+				"ok": false,
+				"fix": "用相互绝缘的硅钢片叠成"
+			},
+			{
+				"q": "电磁驱动中，导体的转速可以等于磁场的转速",
+				"ok": false,
+				"fix": "总小于磁场的转速"
+			},
+			{
+				"q": "变压器是利用互感工作的",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "自感电动势能阻止线圈中电流的变化",
+				"ok": false,
+				"fix": "只能阻碍，不能阻止"
+			},
+			{
+				"q": "线圈匝数越多、有铁芯，自感系数越大",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"涡流、电磁阻尼与电磁驱动",
+				true
+			],
+			[
+				"互感和自感"
+			]
+		],
+		"endLine": "阻尼驱动都是阻碍相对运动，自感阻碍电流变化",
+		"slogan": "阻尼驱动阻碍相对运动，自感阻碍电流变化"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Mathew Brady 或 Levin Handy《Joseph Henry - Brady-Handy》，公有领域；插图来自 pixiv：かくえがく✏️、まめこ、甘葱とろ（侵删）",
+	"anime": [
+		{
+			"key": "swirl",
+			"src": "swirl.jpg",
+			"credit": "插图：かくえがく✏️《海賊の真似》 pixiv #149643553",
+			"url": "https://www.pixiv.net/artworks/149643553"
+		},
+		{
+			"key": "carrot",
+			"src": "carrot.jpg",
+			"credit": "插图：まめこ《いいにんじんの日》 pixiv #95486559",
+			"url": "https://www.pixiv.net/artworks/95486559"
+		},
+		{
+			"key": "wake",
+			"src": "wake.jpg",
+			"credit": "插图：甘葱とろ《おはよぉ》 pixiv #142490793",
+			"url": "https://www.pixiv.net/artworks/142490793"
+		}
+	]
+}

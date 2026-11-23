@@ -1,0 +1,130 @@
+{
+	"id": "WLB-20",
+	"title": "交变电流及其描述",
+	"subject": "physics",
+	"book": "电学基础 · 第20期 / 共22期",
+	"points": [
+		"交变电流",
+		"交变电流的产生",
+		"中性面的特点",
+		"正弦式交变电流的公式与图像",
+		"交流发电机",
+		"周期和频率",
+		"峰值和有效值",
+		"有效值的使用",
+		"电感器和电容器对交流的作用"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"交变电流",
+				true
+			],
+			[
+				"及其描述"
+			]
+		],
+		"subtitle": "中性面 · e = E_m sinωt · 周期和频率 · 峰值和有效值 · 感抗和容抗",
+		"photo": "alternator.jpg",
+		"photoCaption": "1923 年的汽轮交流发电机：抽出的转子是旋转磁极，后方是定子线圈",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"交变电流",
+					true
+				]
+			],
+			[
+				[
+					"及其描述"
+				]
+			]
+		],
+		"photo": "alternator.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "交流发电机",
+		"credit": "Peter Van den Bossche, CC BY-SA 2.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "くぅもんせ",
+			"title": "みんな大好きおこた",
+			"url": "https://www.pixiv.net/artworks/137515282"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "大小变化而方向不变的电流是交变电流",
+				"ok": false,
+				"fix": "方向不变是直流"
+			},
+			{
+				"q": "线圈在中性面时，磁通量最大，感应电动势为 0",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "线圈转动一周，电流方向改变一次",
+				"ok": false,
+				"fix": "改变两次"
+			},
+			{
+				"q": "我国电网交流的周期是 0.02 s",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "交流电压表的示数是交流电压的峰值",
+				"ok": false,
+				"fix": "示数是有效值"
+			},
+			{
+				"q": "交流的频率越高，电容器的容抗越小",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"交变电流",
+				true
+			],
+			[
+				"及其描述"
+			]
+		],
+		"endLine": "中性面上电动势为零，有效值按热效应算",
+		"slogan": "中性面上电动势为零，有效值按热效应算"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Peter Van den Bossche《1923 Ganz turbo alternator》，CC BY-SA 2.0；插图来自 pixiv：きなこもち、大木菜こたつ、シロサト（侵删）",
+	"anime": [
+		{
+			"key": "seesaw",
+			"src": "seesaw.jpg",
+			"credit": "插图：きなこもち《シーソー》 pixiv #35019455",
+			"url": "https://www.pixiv.net/artworks/35019455"
+		},
+		{
+			"key": "kotatsu",
+			"src": "kotatsu.jpg",
+			"credit": "插图：大木菜こたつ《週末は寒いぞー》 pixiv #139754930",
+			"url": "https://www.pixiv.net/artworks/139754930"
+		},
+		{
+			"key": "gate",
+			"src": "gate.jpg",
+			"credit": "插图：シロサト《カンタンなおシゴト》 pixiv #148068439",
+			"url": "https://www.pixiv.net/artworks/148068439"
+		}
+	]
+}

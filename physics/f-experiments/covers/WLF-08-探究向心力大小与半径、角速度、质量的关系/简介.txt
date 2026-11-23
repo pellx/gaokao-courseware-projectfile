@@ -1,0 +1,23 @@
+本期考点
+
+一、实验目的与方法（探究 F 与 m、r、ω 的关系，控制变量法）
+二、向心力演示器的原理（挡板弹力提供向心力，标尺格数之比为向心力之比）
+三、改变角速度（皮带传动线速度相等，ω 与塔轮半径成反比）
+四、改变半径与质量（换挡板位置改变 r，换小球改变 m）
+五、关键步骤（检查皮带和小球位置，摇速平稳，示数稳定后读数）
+六、数据处理（F⁻ω 是曲线，F⁻ω² 是过原点的直线）
+七、误差说明（格数只能粗略显示比值，摇速不稳使示数波动）
+八、实验结论（F = mω²r）
+
+图片来源
+1.AlfvanBeem《Centrifugal machime, after W.J. 's Gravesande's prototype》，CC0（Wikimedia Commons）
+2.插图：すわ猫《Bling Bang Bang Bocchi》
+https://www.pixiv.net/artworks/115646311
+3.插图：ゆうさく《恋ダンス？する、ぼ喜多》
+https://www.pixiv.net/artworks/105069266
+4.插图：ゆうさく《恋ダンス 喜多ちゃん》
+https://www.pixiv.net/artworks/104349524
+5.封面插图：淵゛(ぶち)《それでも世界は回っている》
+https://www.pixiv.net/artworks/92126147
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

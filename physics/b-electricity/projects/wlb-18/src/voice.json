@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|法拉第电磁感应定律。",
+		"seconds": 2.592
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲感应电动势、法拉第电磁感应定律、切割公式E等于B l v、动生电动势和反电动势，共八个考点。",
+		"seconds": 10.656
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，感应电动势。在电磁感应现象中产生的电动势，叫做感应电动势。",
+		"seconds": 7.944
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|产生感应电动势的那部分导体，相当于电源，它的电阻相当于电源的内阻。",
+		"seconds": 7.224
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|电路闭合，才有感应电流；电路断开，仍有感应电动势，但没有电流。",
+		"seconds": 6.984
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：有磁通量变化就有感应电动势，有没有感应电流还要看电路是否闭合。",
+		"seconds": 7.68
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，法拉第电磁感应定律。电路中感应电动势的大小，跟穿过这一电路的磁通量的变化率成正比。",
+		"seconds": 9.792
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|单匝线圈E等于ΔΦ除以Δt；n匝线圈相当于n个电源串联，E等于n乘ΔΦ除以Δt。",
+		"seconds": 8.856
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|式中各量都用国际单位，电动势的单位是伏特，符号 V。",
+		"seconds": 5.952
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：E等于n乘ΔΦ除以Δt，E与磁通量的变化率成正比。",
+		"seconds": 6.144
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，Φ、ΔΦ与ΔΦ除以Δt。Φ是磁通量，表示穿过回路的磁感线有多少。",
+		"seconds": 8.04
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|ΔΦ是磁通量的变化量，ΔΦ除以Δt是磁通量的变化率，表示变化的快慢。",
+		"seconds": 7.152
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|感应电动势只由变化的快慢决定。",
+		"seconds": 3.576
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个叼着面包狂奔的金发女孩：要紧的不是路有多远，而是跑得多快；感应电动势也只看磁通量变得有多快。",
+		"seconds": 10.464
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：Φ很大，E可能为零；Φ为零，E可能很大。",
+		"seconds": 5.544
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，导线切割磁感线。长为 l 的导线以速度 v 切割磁感线，B、l、v 两两垂直时：",
+		"seconds": 9.504
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|E等于B l v，这可以由法拉第电磁感应定律推导得出。",
+		"seconds": 5.448
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果v与B的夹角为θ，只有垂直于B的速度分量切割磁感线：E等于B l v sinθ。",
+		"seconds": 8.352
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：v平行于B时不切割磁感线，E等于零。",
+		"seconds": 5.304
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，平均值与瞬时值。E等于n乘ΔΦ除以Δt，一般求的是Δt时间内的平均感应电动势。",
+		"seconds": 10.008
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|E等于B l v中，v若是瞬时速度，求得的就是瞬时感应电动势。",
+		"seconds": 6.744
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|v 若是平均速度，求得的就是平均感应电动势。",
+		"seconds": 5.016
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：n乘ΔΦ除以Δt常求平均值，B l v代瞬时速度求瞬时值。",
+		"seconds": 7.392
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，动生电动势。由于导体运动而产生的感应电动势，叫做动生电动势。",
+		"seconds": 8.088
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|导体向右运动，其中的自由电荷随导体一起运动，在磁场中受到洛伦兹力。",
+		"seconds": 7.512
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|洛伦兹力使自由电荷沿导体定向移动，这个力就是动生电动势中的非静电力。",
+		"seconds": 7.416
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：动生电动势的非静电力与洛伦兹力有关。",
+		"seconds": 4.92
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，动生电动势中的能量转化。切割磁感线的导体中有电流，在磁场中受到安培力。",
+		"seconds": 9.096
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|由楞次定律，这个安培力总是阻碍导体的运动。",
+		"seconds": 4.752
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|要使导体继续运动，外力必须克服安培力做功，机械能转化为电能。",
+		"seconds": 6.816
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个橙色头发、弓着背使劲蹬车的女孩：如果车上带着发电机，开灯以后会越蹬越沉，多出来的力气就变成了电能。",
+		"seconds": 11.232
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：克服安培力做了多少功，就有多少机械能转化为电能，这正是发电机的原理。",
+		"seconds": 8.328
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，反电动势。电动机通电后线圈转动，线圈也在切割磁感线，同样会产生感应电动势。",
+		"seconds": 9.816
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|这个电动势的方向与电源电动势相反，叫做反电动势，它削弱电源使线圈转动的作用。",
+		"seconds": 8.28
+	},
+	"h2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这两个对着电风扇喊“啊——”的女孩：风扇里就是一台电动机，叶片转起来时，线圈里同时产生着反电动势。",
+		"seconds": 10.464
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|电动机正是在克服反电动势的过程中，把电能转化为机械能。",
+		"seconds": 6
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：反电动势总是阻碍线圈的转动，电动机要克服它做功，把电能转化为机械能。",
+		"seconds": 8.28
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电路不闭合也有感应电动势？对。判断二：磁通量越大，电动势越大？错，看磁通量的变化率。",
+		"seconds": 11.592
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：n匝线圈E等于n乘ΔΦ除以Δt？对。判断四：速度与磁场平行时E等于B l v？错，不切割，E为零。",
+		"seconds": 13.2
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：动生电动势的非静电力与洛伦兹力有关？对。判断六：反电动势与电源电动势同向？错，方向相反。",
+		"seconds": 12.192
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|电动势看变化快慢，切割就用B l v。下一期：涡流、电磁阻尼与电磁驱动，互感和自感。",
+		"seconds": 9.6
+	}
+}

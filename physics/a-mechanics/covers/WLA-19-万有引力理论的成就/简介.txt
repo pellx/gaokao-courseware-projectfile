@@ -1,0 +1,24 @@
+本期考点
+
+一、万有引力与重力（不计自转 mg = GMm/R²）
+二、地球自转的影响（重力略小于引力，两极相等）
+三、重力加速度随高度变化（g′ = GM/(R+h)²）
+四、称量地球的质量（M = gR²/G）
+五、计算太阳的质量（M = 4π²r³/GT²）
+六、天体的密度（ρ = M/(4πR³/3)）
+七、发现未知天体（海王星：笔尖下发现的行星）
+八、预言彗星回归（哈雷彗星如期回归）
+九、中心天体与环绕天体（只能求中心天体质量）
+
+图片来源
+1.Goupil & Cie《Portret van Urbain Le Verrier》（Galerie contemporaine），Rijksmuseum 藏，CC0（Wikimedia Commons）
+2.插图：チャイ《パンケーキ山脈》
+https://www.pixiv.net/artworks/59256498
+3.插图：ねこぽた。《️》
+https://www.pixiv.net/artworks/108332148
+4.插图：emma《★》
+https://www.pixiv.net/artworks/85499844
+5.封面插图：チャイ《月餅》
+https://www.pixiv.net/artworks/149775263
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

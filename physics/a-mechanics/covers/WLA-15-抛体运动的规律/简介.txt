@@ -1,0 +1,24 @@
+本期考点
+
+一、抛体运动（只受重力，a = g，匀变速曲线运动）
+二、平抛运动（水平匀速 + 竖直自由落体）
+三、平抛运动的速度（vx = v0，vy = gt，tanθ = gt/v0）
+四、平抛运动的位移（x = v0t，y = ½gt²，tanθ = 2tanα）
+五、平抛运动的轨迹（y = gx²/2v0²，抛物线）
+六、飞行时间与水平射程（t 只由 h 决定）
+七、速度的变化（Δv = gΔt，竖直向下）
+八、斜抛运动（水平 v0cosθ 匀速，竖直上抛）
+九、斜抛运动的最高点（v = v0cosθ，a = g）
+
+图片来源
+1.MichaelMaggs, Edit by Richard Bartz《Bouncing ball strobe edit》，CC BY-SA 3.0（Wikimedia Commons）
+2.插图：ポ～ン（出水ぽすか）《ミックスミックス！》
+https://www.pixiv.net/artworks/140266790
+3.插图：雪丸ぬん@絵仕事募集中《「球技大会で活躍する写真部の先輩」》
+https://www.pixiv.net/artworks/118875658
+4.插图：RUDA《瞬間》
+https://www.pixiv.net/artworks/111452404
+5.封面插图：PECO《ぼっちバンド結成～》
+https://www.pixiv.net/artworks/102548981
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

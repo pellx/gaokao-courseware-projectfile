@@ -1,0 +1,140 @@
+{
+	"id": "WLE-09",
+	"title": "核裂变、核聚变与“基本”粒子",
+	"subject": "physics",
+	"book": "近代物理 · 第9期 / 共9期",
+	"points": [
+		"重核裂变",
+		"链式反应",
+		"核反应堆",
+		"核电站",
+		"轻核聚变",
+		"聚变的条件",
+		"受控热核反应",
+		"粒子的发现与分类",
+		"夸克模型",
+		"物质结构的探索历程"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"核裂变、核聚变",
+				true
+			],
+			[
+				"与“基本”粒子"
+			]
+		],
+		"subtitle": "链式反应 · 核反应堆 · 热核反应 · 夸克",
+		"photo": "hahn.jpg",
+		"photoCaption": "1938 年哈恩等人发现铀核裂变时用的实验台（德意志博物馆）",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"核裂变",
+					true
+				],
+				[
+					"、"
+				]
+			],
+			[
+				[
+					"核聚变",
+					true
+				]
+			],
+			[
+				[
+					"与“基本”粒子"
+				]
+			]
+		],
+		"photo": "hahn.jpg",
+		"photoPos": {
+			"16x9": "center 50%",
+			"4x3": "center 50%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "裂变实验台",
+		"credit": "J Brew, CC BY-SA 2.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "nyago",
+			"title": "喜多ちゃん",
+			"url": "https://www.pixiv.net/artworks/122450348"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "铀 235 俘获中子后才能发生裂变",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "铀块体积小于临界体积时也能发生链式反应",
+				"ok": false,
+				"fix": "小于临界体积时链式反应不能持续"
+			},
+			{
+				"q": "核反应堆中的镉棒用来使中子减速",
+				"ok": false,
+				"fix": "慢化剂使中子减速，镉棒吸收中子"
+			},
+			{
+				"q": "聚变需要极高温度，是为了克服库仑斥力",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "质子和中子是不可再分的基本粒子",
+				"ok": false,
+				"fix": "它们由夸克组成"
+			},
+			{
+				"q": "夸克带的电荷量是元电荷的分数倍",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"核裂变、核聚变",
+				true
+			],
+			[
+				"与“基本”粒子"
+			]
+		],
+		"endLine": "重核裂变轻核聚，慢化减速镉棒吸",
+		"slogan": "重核裂变轻核聚，慢化减速镉棒吸"
+	},
+	"credits": "图片来源：Wikimedia Commons —— J Brew《Nuclear Fission Experimental Apparatus 1938 - Deutsches Museum - Munich》，CC BY-SA 2.0；插图来自 pixiv：小橋メロン、すわ猫、焼き鳥虫（侵删）",
+	"anime": [
+		{
+			"key": "split",
+			"src": "split.jpg",
+			"credit": "插图：小橋メロン《メイド喜多郁代×2》 pixiv #133331025",
+			"url": "https://www.pixiv.net/artworks/133331025"
+		},
+		{
+			"key": "multiply",
+			"src": "multiply.jpg",
+			"credit": "插图：すわ猫《しかのこ式ぼっちちゃん増殖方法》 pixiv #122372368",
+			"url": "https://www.pixiv.net/artworks/122372368"
+		},
+		{
+			"key": "fuse",
+			"src": "fuse.jpg",
+			"credit": "插图：焼き鳥虫《結束(物理)2》 pixiv #114346503",
+			"url": "https://www.pixiv.net/artworks/114346503"
+		}
+	]
+}

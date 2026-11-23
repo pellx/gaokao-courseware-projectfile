@@ -1,0 +1,130 @@
+{
+	"id": "WLA-18",
+	"title": "行星的运动与万有引力定律",
+	"subject": "physics",
+	"book": "力学 · 第18期 / 共32期",
+	"points": [
+		"地心说与日心说",
+		"开普勒第一定律",
+		"开普勒第二定律",
+		"开普勒第三定律",
+		"近似为圆周运动",
+		"太阳与行星间的引力",
+		"月—地检验",
+		"万有引力定律",
+		"引力常量"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"行星的运动",
+				true
+			],
+			[
+				"与万有引力定律"
+			]
+		],
+		"subtitle": "开普勒三定律 · 月地检验 · 万有引力定律 · 引力常量",
+		"photo": "wla18.jpg",
+		"photoCaption": "开普勒：在第谷观测数据的基础上总结出行星运动三定律",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"行星的运动",
+					true
+				]
+			],
+			[
+				[
+					"与万有引力定律"
+				]
+			]
+		],
+		"photo": "wla18.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "开普勒",
+		"credit": "Hans von Aachen（传）, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "かだち",
+			"title": "アストロノミカ",
+			"url": "https://www.pixiv.net/artworks/25164369"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "太阳位于行星椭圆轨道的中心",
+				"ok": false,
+				"fix": "位于一个焦点"
+			},
+			{
+				"q": "行星在近日点的速率比远日点大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "a³/T² = k 中的 k 与行星的质量有关",
+				"ok": false,
+				"fix": "只与中心天体有关"
+			},
+			{
+				"q": "月—地检验说明天上地上的引力遵从同一规律",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "引力常量 G 是牛顿测出的",
+				"ok": false,
+				"fix": "卡文迪什测出"
+			},
+			{
+				"q": "均匀球体间的引力，r 取两球心间的距离",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"行星的运动",
+				true
+			],
+			[
+				"与万有引力定律"
+			]
+		],
+		"endLine": "椭圆焦点扫面积，引力常量扭秤测",
+		"slogan": "椭圆焦点扫面积，引力常量扭秤测"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 传 Hans von Aachen《Johannes Kepler》肖像，公有领域；插图来自 pixiv：甘木花、三湊かおり、Goldcan（侵删）",
+	"anime": [
+		{
+			"key": "globe",
+			"src": "globe.jpg",
+			"credit": "插图：甘木花《世界史系女子》 pixiv #62895752",
+			"url": "https://www.pixiv.net/artworks/62895752"
+		},
+		{
+			"key": "scope",
+			"src": "scope.jpg",
+			"credit": "插图：三湊かおり《7/7 七夕》 pixiv #91084645",
+			"url": "https://www.pixiv.net/artworks/91084645"
+		},
+		{
+			"key": "lab",
+			"src": "lab.jpg",
+			"credit": "插图：Goldcan pixiv #114996561",
+			"url": "https://www.pixiv.net/artworks/114996561"
+		}
+	]
+}

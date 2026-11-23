@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|核裂变、核聚变与基本粒子。",
+		"seconds": 3.456
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲重核裂变与核反应堆、轻核聚变与热核反应，以及粒子和夸克，共十个考点。",
+		"seconds": 8.256
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，重核裂变。重核分裂成两个中等质量的核，叫核裂变。",
+		"seconds": 6.744
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如铀235俘获一个中子后，分裂成钡144和氪89，同时放出3个中子。",
+		"seconds": 9
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|裂变后比结合能增大，有质量亏损，所以释放大量能量。",
+		"seconds": 5.904
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红头发女孩一下子变成了两个：重核裂变也是这样，一个核分成两个中等质量的核。",
+		"seconds": 7.776
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：铀235裂变要先俘获中子，裂变产物不止一种。",
+		"seconds": 6.312
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，链式反应。铀核裂变时放出几个中子，它们再引起其他铀核裂变。",
+		"seconds": 7.8
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|裂变就这样一代接一代继续下去，叫链式反应。",
+		"seconds": 4.44
+	},
+	"b2b": {
+		"key": "zh-CN-XiaoxiaoNeural|小纸箱里的粉色小团子越变越多：链式反应里，中子也像这样越来越多，裂变一代接一代。",
+		"seconds": 8.832
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|能发生链式反应的铀块的最小体积叫临界体积，相应的质量叫临界质量。",
+		"seconds": 7.08
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：铀块体积小于临界体积时，中子容易跑出去，链式反应不能持续。",
+		"seconds": 7.152
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，核反应堆。铀棒是燃料，由天然铀或浓缩铀制成。",
+		"seconds": 6.504
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|快中子不容易被铀235俘获，要用慢化剂，石墨、重水或普通水，通过碰撞让中子减速。",
+		"seconds": 9.816
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|镉棒吸收中子的能力很强，插入深一些，反应就慢一些，用来控制反应速度。",
+		"seconds": 7.104
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：慢化剂让中子减速，镉棒吸收中子，两者作用不同。",
+		"seconds": 6.312
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，核电站。反应堆中的核能转化为水的内能，产生高温高压的蒸汽。",
+		"seconds": 7.848
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|蒸汽推动汽轮机，带动发电机，最终转化为电能。",
+		"seconds": 5.16
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|反应堆外有很厚的水泥防护层，防止射线外泄；用过的核燃料要妥善处理。",
+		"seconds": 7.56
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：核电站能量转化：核能到内能，到机械能，再到电能。",
+		"seconds": 6.336
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，轻核聚变。两个轻核结合成质量较大的核，叫核聚变。",
+		"seconds": 6.84
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如一个氘核和一个氚核聚变成一个氦核，并放出一个中子，释放约十七点六兆电子伏的能量。",
+		"seconds": 9.216
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|聚变后比结合能增大，平均每个核子放出的能量比裂变更多。",
+		"seconds": 6.24
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发和红头发两个女孩“融合”成了一个人：轻核聚变就是两个轻核合成一个较重的核。",
+		"seconds": 8.496
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：裂变是重核分开，聚变是轻核结合，都释放能量。",
+		"seconds": 5.952
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，聚变的条件。原子核都带正电，要让它们接近到核力的作用范围，必须克服很大的库仑斥力。",
+		"seconds": 9.792
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以需要极高的温度，几百万开尔文以上，让原子核有足够大的动能。",
+		"seconds": 6.864
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|因此聚变又叫热核反应。太阳内部就在进行着热核反应。",
+		"seconds": 6.072
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：聚变需要高温，是为了克服库仑斥力。",
+		"seconds": 4.584
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，受控热核反应。聚变燃料氘在海水中储量丰富，聚变产物也基本没有放射性，更安全清洁。",
+		"seconds": 10.368
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|难点在于控制：上亿度的高温物质，不能用任何容器直接装。",
+		"seconds": 5.904
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|约束方式有两种：磁约束，如托卡马克；以及惯性约束。",
+		"seconds": 5.832
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：聚变燃料丰富、更清洁，但控制困难，目前还在研究中。",
+		"seconds": 6.504
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，粒子的发现与分类。人们陆续发现了数以百计的粒子，许多粒子都有对应的反粒子。",
+		"seconds": 8.952
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|按与各种相互作用的关系，粒子分为强子、轻子、规范玻色子和希格斯玻色子。",
+		"seconds": 8.064
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|强子参与强相互作用，如质子、中子；轻子不参与强相互作用，如电子、中微子。",
+		"seconds": 8.544
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：质子、中子不是基本粒子，它们还有内部结构，所以基本二字加了引号。",
+		"seconds": 8.184
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，夸克模型。强子由更基本的成分组成，叫夸克。",
+		"seconds": 6.24
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|夸克带的电荷量是元电荷的正负三分之一或正负三分之二，是分数电荷。",
+		"seconds": 7.104
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|研究粒子离不开加速器和粒子探测器。",
+		"seconds": 4.2
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：夸克带分数电荷，但至今没有观察到单独存在的自由夸克。",
+		"seconds": 6.792
+	},
+	"j1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点十，物质结构的探索历程。人们先认识了分子和原子。",
+		"seconds": 6.144
+	},
+	"j2": {
+		"key": "zh-CN-XiaoxiaoNeural|后来发现了电子，又发现原子中有原子核，原子核由质子和中子组成。",
+		"seconds": 6.936
+	},
+	"j3": {
+		"key": "zh-CN-XiaoxiaoNeural|再往下，质子和中子又由夸克组成。",
+		"seconds": 3.96
+	},
+	"j4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：人类对物质结构的认识是不断深入的，基本粒子也不一定基本。",
+		"seconds": 7.032
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：铀235俘获中子后才能裂变？对。判断二：小于临界体积也能链式反应？错。",
+		"seconds": 10.776
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：镉棒使中子减速？错，慢化剂减速，镉棒吸收。判断四：聚变要高温是为了克服库仑斥力？对。",
+		"seconds": 12.024
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：质子和中子不可再分？错，由夸克组成。判断六：夸克带分数电荷？对。",
+		"seconds": 9.936
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|重核裂变轻核聚，慢化减速镉棒吸。下一期：实验基础：误差和有效数字。",
+		"seconds": 8.136
+	}
+}

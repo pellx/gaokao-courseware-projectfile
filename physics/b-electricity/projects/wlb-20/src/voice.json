@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|交变电流及其描述。",
+		"seconds": 2.448
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲交变电流的产生、中性面、正弦式交流的公式与图像、有效值，以及电感器和电容器对交流的作用，共九个考点。",
+		"seconds": 11.472
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，交变电流。大小和方向都随时间做周期性变化的电流，叫做交变电流，简称交流。",
+		"seconds": 9.624
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|方向不随时间变化的电流，叫做直流。",
+		"seconds": 3.936
+	},
+	"a2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这架跷跷板：一头压下去，另一头就翘起来，来回交替；交变电流的方向也是这样来回改变。",
+		"seconds": 8.784
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断交流还是直流，关键看电流的方向是否变化。",
+		"seconds": 5.016
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：大小变化、方向不变的电流仍是直流。",
+		"seconds": 4.944
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，交变电流的产生。线圈在匀强磁场中，绕垂直于磁场的轴匀速转动，产生交变电流。",
+		"seconds": 9.624
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|线圈平面与磁场垂直的位置，叫做中性面。",
+		"seconds": 4.608
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|在中性面，穿过线圈的磁通量最大，但线圈各边不切割磁感线，感应电动势为零。",
+		"seconds": 8.112
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：中性面上磁通量最大，磁通量的变化率却为零。",
+		"seconds": 5.904
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，中性面的特点。线圈每经过一次中性面，电流方向就改变一次。",
+		"seconds": 7.632
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|线圈转动一周，两次经过中性面，电流方向改变两次。",
+		"seconds": 5.784
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|线圈平面与磁场平行时，磁通量为零，两边垂直切割磁感线，感应电动势最大。",
+		"seconds": 8.136
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：中性面Φ最大、e为零；平行位置Φ为零、e最大。",
+		"seconds": 6.48
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，正弦式交变电流的公式与图像。从中性面开始计时，e等于E m sinωt。",
+		"seconds": 9.288
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中峰值E m等于N B S ω，N是匝数，S是线圈面积，ω是角速度。",
+		"seconds": 8.304
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|电流i和电压u也按正弦规律变化，图像都是正弦曲线。",
+		"seconds": 5.928
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：从与磁场平行的位置开始计时，表达式是e等于E m cosωt。",
+		"seconds": 7.368
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，交流发电机。发电机由产生感应电动势的电枢和产生磁场的磁体组成。",
+		"seconds": 8.232
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|电枢转动、磁极不动的，叫旋转电枢式；磁极转动、电枢不动的，叫旋转磁极式。",
+		"seconds": 8.304
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|大型发电机多用旋转磁极式，可以输出较高的电压和较大的电流。",
+		"seconds": 6.528
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：发电机把机械能转化为电能。",
+		"seconds": 4.176
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，周期和频率。交变电流完成一次周期性变化所需的时间叫周期T；一秒内完成周期性变化的次数叫频率f。",
+		"seconds": 12.024
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|它们的关系：T等于二π除以ω，等于f分之一。",
+		"seconds": 5.448
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|我国电网交流的频率是五十赫兹，周期是零点零二秒。",
+		"seconds": 5.328
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：五十赫兹的交流，一秒内电流方向改变一百次。",
+		"seconds": 5.568
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，峰值和有效值。峰值I m、U m是交变电流在一个周期内能达到的最大值。",
+		"seconds": 8.808
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|有效值按电流的热效应定义：让交流和恒定电流通过相同的电阻，一个周期内产生的热量相等，这个恒定电流的值就是交流的有效值。",
+		"seconds": 12.384
+	},
+	"g2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个趴在暖桌上、一脸满足的小恶魔：她不在乎电流怎么变，只在乎暖不暖；有效值看的也正是电流的热效应。",
+		"seconds": 10.296
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|正弦式交流：I等于I m除以根号二，U等于U m除以根号二。",
+		"seconds": 6.504
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：I等于I m除以根号二，只适用于正弦式交流，其他交流要按热效应计算。",
+		"seconds": 7.92
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，有效值的使用。用电器铭牌上标的额定电压、额定电流，都是有效值。",
+		"seconds": 8.136
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|交流电压表、电流表的示数，也是有效值；通常说的二百二十伏也是有效值。",
+		"seconds": 7.752
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|电容器的耐压值，是它能承受的电压最大值。",
+		"seconds": 4.44
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电容器接在交流电路中，耐压值要高于交流电压的峰值，而不是有效值。",
+		"seconds": 7.896
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，电感器和电容器对交流的作用。电感器对交流有阻碍作用，叫感抗；它“通直流、阻交流”。",
+		"seconds": 10.152
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|线圈的自感系数越大、交流的频率越高，感抗越大。",
+		"seconds": 5.088
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|电容器对交流的阻碍作用叫容抗；它“隔直流、通交流”。",
+		"seconds": 5.592
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|电容越大、交流的频率越高，容抗越小。",
+		"seconds": 4.2
+	},
+	"i4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这位守门的红发姐姐：来的人要先过她这一关，有的放行，有的挡回去；电感器和电容器也像守门员，对直流和交流区别对待。",
+		"seconds": 11.928
+	},
+	"i5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：频率越高，感抗越大，容抗越小。",
+		"seconds": 4.56
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：大小变、方向不变的电流是交流？错，是直流。判断二：中性面上磁通量最大、电动势为零？对。",
+		"seconds": 12.144
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：转一周方向改变一次？错，改变两次。判断四：我国电网交流的周期是零点零二秒？对。",
+		"seconds": 11.016
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：交流电压表的示数是峰值？错，是有效值。判断六：频率越高，容抗越小？对。",
+		"seconds": 10.464
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|中性面上电动势为零，有效值按热效应算。下一期：变压器与电能的输送。",
+		"seconds": 7.92
+	}
+}

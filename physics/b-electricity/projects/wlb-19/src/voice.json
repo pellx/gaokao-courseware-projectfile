@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|涡流、电磁阻尼与电磁驱动，互感和自感。",
+		"seconds": 4.584
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲感生电场、涡流、电磁阻尼与电磁驱动、互感和自感以及磁场的能量，共九个考点。",
+		"seconds": 9.024
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，感生电场与感生电动势。麦克斯韦认为：变化的磁场在周围空间激发一种电场，叫做感生电场。",
+		"seconds": 10.848
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|导体中的自由电荷在感生电场作用下定向移动，形成感应电流；这种电动势叫做感生电动势。",
+		"seconds": 9.048
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|感生电场对自由电荷的作用力，就是感生电动势中的非静电力。",
+		"seconds": 6.048
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|电子感应加速器就是利用感生电场来加速电子的。",
+		"seconds": 4.848
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：变化的磁场产生感生电场，有没有导体，感生电场都存在。",
+		"seconds": 6.768
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，涡流及其应用。块状金属处在变化的磁场中，内部会产生旋涡状的感应电流，叫做涡流。",
+		"seconds": 9.888
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|金属的电阻很小，涡流往往很大，产生大量的热。",
+		"seconds": 4.92
+	},
+	"b2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个眼睛里打着两个旋涡的小人：块状金属里的感应电流，也是这样一圈一圈打着旋流动。",
+		"seconds": 8.52
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|利用涡流的热效应：真空冶炼炉、电磁炉。",
+		"seconds": 4.44
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|利用涡流的磁效应：金属探测器，例如探雷器、机场的安检门。",
+		"seconds": 6.288
+	},
+	"b5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：涡流也是电磁感应，金属中磁通量变化就会产生涡流。",
+		"seconds": 6.552
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，涡流的防止。变压器、电动机的铁芯中，涡流会使铁芯发热，浪费能量，甚至损坏设备。",
+		"seconds": 10.176
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以铁芯不用整块金属，而用相互绝缘的硅钢片叠成。",
+		"seconds": 5.592
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|硅钢片之间绝缘，切断了涡流的通路；硅钢的电阻率又较大，涡流大大减小。",
+		"seconds": 7.488
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：用绝缘的硅钢片叠成铁芯，是为了减小涡流损耗。",
+		"seconds": 5.808
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，电磁阻尼。导体在磁场中相对运动时，感应电流受到的安培力总是阻碍导体的相对运动。",
+		"seconds": 9.792
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|这种现象叫做电磁阻尼。",
+		"seconds": 2.952
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|磁电式仪表的线圈绕在铝框上：指针摆动时，铝框中产生感应电流，受到阻碍，指针很快停下。",
+		"seconds": 9.504
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电磁阻尼是楞次定律“来拒去留”的表现。",
+		"seconds": 4.8
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，电磁驱动。磁场相对导体转动时，导体中产生感应电流。",
+		"seconds": 7.2
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|感应电流受到安培力，使导体跟着磁场转动，这叫做电磁驱动。",
+		"seconds": 6.264
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|导体的转速总小于磁场的转速：如果转得一样快，就没有相对运动，也就没有感应电流了。",
+		"seconds": 8.088
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这只追着胡萝卜跑的小兔子：胡萝卜往前跑，兔子跟着跑，却总是慢一步；追上了，也就没有“相对运动”了。",
+		"seconds": 9.912
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：交流感应电动机就是利用电磁驱动工作的。",
+		"seconds": 4.968
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，互感。两个相互靠近的线圈，一个线圈中的电流变化，在另一个线圈中产生感应电动势。",
+		"seconds": 9.792
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|这种现象叫做互感，产生的电动势叫做互感电动势。",
+		"seconds": 5.376
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|互感能把能量从一个线圈传递到另一个线圈，变压器就是利用互感制成的。",
+		"seconds": 7.032
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：互感可以利用，也会干扰电路，比如电路板上的导线之间，需要设法减小。",
+		"seconds": 7.632
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，自感。线圈自身的电流变化时，线圈中也产生感应电动势，叫做自感电动势。",
+		"seconds": 9.264
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|自感电动势总是阻碍线圈中电流的变化。",
+		"seconds": 4.224
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|通电时，与线圈串联的灯泡逐渐变亮；断电时，线圈中的电流逐渐减小，不会立即消失。",
+		"seconds": 9.12
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个揉着眼睛、刚睡醒的粉头发女孩：不是一睁眼就清醒，而是慢慢醒过来；通电时线圈里的电流也是逐渐增大的。",
+		"seconds": 10.848
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|日光灯的镇流器利用自感；断开含大线圈的电路会产生电火花；精密电阻用双线绕法消除自感。",
+		"seconds": 9.36
+	},
+	"g5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：自感只是阻碍电流变化，不能阻止电流变化。",
+		"seconds": 5.28
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，自感系数。自感电动势E等于L乘ΔI除以Δt，与电流的变化率成正比。",
+		"seconds": 9.24
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|L叫做自感系数，简称自感或电感。",
+		"seconds": 4.008
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|L与线圈的大小、形状、匝数以及有无铁芯有关；匝数越多、有铁芯，L越大。",
+		"seconds": 8.256
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|自感系数的单位是亨利，简称亨，符号 H。",
+		"seconds": 4.512
+	},
+	"h5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：L由线圈本身决定，与电流大小、电流变化无关。",
+		"seconds": 5.832
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，磁场的能量。断开电源后，与线圈并联的灯泡还能继续发光一会儿。",
+		"seconds": 7.584
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|这说明线圈中的磁场储存了能量。",
+		"seconds": 3.864
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|电流建立的过程中，电源克服自感电动势做功，把电能储存为磁场能；断电时，磁场能又释放出来。",
+		"seconds": 9.84
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：线圈中的磁场储存能量，叫做磁场能。",
+		"seconds": 4.896
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：变化的磁场激发感生电场？对。判断二：变压器铁芯用整块铁？错，用绝缘的硅钢片叠成。",
+		"seconds": 11.832
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：电磁驱动中导体转速可以等于磁场转速？错，总小于。判断四：变压器利用互感？对。",
+		"seconds": 11.208
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：自感电动势能阻止电流变化？错，只能阻碍。判断六：匝数越多、有铁芯，自感系数越大？对。",
+		"seconds": 11.976
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|阻尼驱动都是阻碍相对运动，自感阻碍电流变化。下一期：交变电流及其描述。",
+		"seconds": 8.424
+	}
+}

@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|行星的运动与万有引力定律。",
+		"seconds": 3.192
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲开普勒三定律、太阳与行星间的引力、月地检验和万有引力定律，共九个考点。",
+		"seconds": 8.376
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，两种学说。地心说认为地球是宇宙的中心，太阳、月亮和行星都绕地球运动。",
+		"seconds": 9
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|哥白尼提出日心说，认为太阳是中心，地球和其他行星都绕太阳运动。",
+		"seconds": 6.912
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|第谷积累了大量精确的观测数据，开普勒在此基础上总结出行星运动的规律。",
+		"seconds": 7.32
+	},
+	"h3b": {
+		"key": "zh-CN-XiaoxiaoNeural|坐在大地球仪旁、举着望远镜的女孩：从“地球是中心”到“太阳是中心”，靠的是一次次观测。",
+		"seconds": 8.448
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：行星运动规律来自观测数据，是开普勒总结出来的。",
+		"seconds": 6.024
+	},
+	"a1x": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，开普勒第一定律，也叫轨道定律。",
+		"seconds": 4.2
+	},
+	"a2x": {
+		"key": "zh-CN-XiaoxiaoNeural|所有行星绕太阳运动的轨道都是椭圆，太阳处在椭圆的一个焦点上。",
+		"seconds": 6.336
+	},
+	"a3x": {
+		"key": "zh-CN-XiaoxiaoNeural|不同行星的椭圆轨道大小、扁的程度不同。",
+		"seconds": 4.128
+	},
+	"a4x": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：太阳在椭圆的焦点上，不在椭圆的中心。",
+		"seconds": 4.776
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，开普勒第二定律，也叫面积定律。",
+		"seconds": 4.296
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|对任意一个行星，它与太阳的连线在相等的时间内扫过的面积相等。",
+		"seconds": 6.552
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以行星在近日点速率大，在远日点速率小。",
+		"seconds": 4.896
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：面积相等只对同一个行星成立，不同行星之间不能比较。",
+		"seconds": 6.288
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，开普勒第三定律，也叫周期定律。",
+		"seconds": 4.368
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|所有行星轨道半长轴的三次方跟公转周期的二次方的比都相等。",
+		"seconds": 6
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|写成a的三次方除以T的平方等于k。",
+		"seconds": 4.128
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：k只与中心天体有关，与行星无关；绕地球转的卫星k值不同于绕太阳的行星。",
+		"seconds": 8.832
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，行星运动的近似处理。多数行星的轨道与圆十分接近。",
+		"seconds": 6.624
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|可以看作以太阳为圆心的匀速圆周运动。",
+		"seconds": 3.888
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|这时开普勒第三定律中的a取轨道半径r，即r的三次方除以T的平方等于k。",
+		"seconds": 7.776
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：近似为圆后，行星的线速度大小不变。",
+		"seconds": 4.704
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，太阳与行星间的引力。太阳对行星的引力提供行星做圆周运动的向心力。",
+		"seconds": 8.232
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|由向心力公式和开普勒第三定律，得F正比于m除以r平方。",
+		"seconds": 6.456
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|由牛顿第三定律，行星对太阳的引力也与太阳质量成正比。",
+		"seconds": 5.832
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|于是F正比于M m除以r平方。",
+		"seconds": 3.888
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：太阳与行星间的引力大小与两者质量的乘积成正比，与距离的二次方成反比。",
+		"seconds": 8.088
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，月—地检验。月球轨道半径约为地球半径的 60 倍。",
+		"seconds": 6.36
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果是同一种力，月球的向心加速度应约为地面重力加速度的六十平方分之一。",
+		"seconds": 7.464
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|由月球公转周期和轨道半径算出的向心加速度，与这个值相符。",
+		"seconds": 6.384
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|倚着天文望远镜的女孩：按引力规律算出的月球加速度，和观测值一对照，正好相符。",
+		"seconds": 8.28
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：月—地检验说明，地面物体所受引力与天体间的引力遵从相同的规律。",
+		"seconds": 7.632
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，万有引力定律。自然界中任何两个物体都相互吸引。",
+		"seconds": 6.384
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|F等于G m一m二除以r平方，引力大小与质量乘积成正比，与距离的二次方成反比。",
+		"seconds": 8.736
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|公式中 r 是两质点间的距离。",
+		"seconds": 3.24
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：质量分布均匀的球体，r 取两球心间的距离。",
+		"seconds": 5.208
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，引力常量。卡文迪什用扭秤实验，第一次在实验室里测出了 G。",
+		"seconds": 7.728
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|G约为6.67乘10的负11次方牛米平方每千克平方。",
+		"seconds": 5.736
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|万有引力定律第一次揭示了天上和地上的物体遵从同一规律。",
+		"seconds": 6.072
+	},
+	"m3b": {
+		"key": "zh-CN-XiaoxiaoNeural|被一堆仪器围着的白大褂女孩：引力常量非常小，要靠精密实验才测得出来。",
+		"seconds": 7.416
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：万有引力定律是牛顿发现的，G 是卡文迪什测出的。",
+		"seconds": 6.24
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：太阳在椭圆轨道的中心？错，在焦点上。判断二：行星近日点速率比远日点大？对。",
+		"seconds": 10.704
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：k值与行星质量有关？错，只与中心天体有关。判断四：月地检验说明天上地上引力同规律？对。",
+		"seconds": 12.168
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：引力常量是牛顿测出的？错，是卡文迪什。判断六：均匀球体间距离取球心距？对。",
+		"seconds": 11.28
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|椭圆焦点扫面积，引力常量扭秤测。下一期：万有引力理论的成就。",
+		"seconds": 7.296
+	}
+}

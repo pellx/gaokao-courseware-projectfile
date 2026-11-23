@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|抛体运动的规律。",
+		"seconds": 2.064
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲抛体运动、平抛运动的速度、位移、轨迹和时间，以及斜抛运动，共九个考点。",
+		"seconds": 8.328
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，抛体运动：以一定的速度把物体抛出，在空气阻力可以忽略的情况下，物体只受重力作用的运动。",
+		"seconds": 9.744
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|物体的加速度恒为g，方向竖直向下。",
+		"seconds": 3.96
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|加速度恒定、方向与初速度不共线，所以抛体运动是匀变速曲线运动。",
+		"seconds": 7.056
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|做松饼的金发小女孩：右下角的平底锅一颠，饼飞了起来；离开锅以后，忽略空气阻力，它就只受重力，做抛体运动。",
+		"seconds": 11.088
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：抛体运动加速度恒为g，是匀变速运动。",
+		"seconds": 4.92
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，平抛运动：初速度沿水平方向的抛体运动。",
+		"seconds": 5.28
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|它可以分解为水平方向的匀速直线运动，",
+		"seconds": 4.032
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|和竖直方向的自由落体运动。",
+		"seconds": 3.048
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两个分运动同时进行、互不影响。",
+		"seconds": 4.344
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，平抛运动的速度。水平分速度v x等于v零，竖直分速度v y等于g t。",
+		"seconds": 8.904
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|合速度大小v等于根号下v零平方加v y平方。",
+		"seconds": 5.016
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|速度与水平方向的夹角theta满足tan theta等于g t比v零。",
+		"seconds": 6.12
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：随着时间增加，v y增大，速度方向越来越偏向竖直。",
+		"seconds": 6.216
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，平抛运动的位移。水平位移x等于v零t，竖直位移y等于二分之一g t平方。",
+		"seconds": 9.528
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|位移与水平方向的夹角阿尔法满足tan阿尔法等于g t比二v零。",
+		"seconds": 6.552
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|对比速度偏角：tan theta等于二倍tan阿尔法，同一时刻速度偏角大于位移偏角。",
+		"seconds": 8.184
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：tan theta等于二倍tan阿尔法，不是theta等于二倍阿尔法。",
+		"seconds": 6.6
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，平抛运动的轨迹。由x等于v零t得t等于x比v零，代入y等于二分之一g t平方，",
+		"seconds": 10.128
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|得到y等于g x平方比二v零平方。",
+		"seconds": 4.176
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|g和v零都是常量，y与x平方成正比，所以轨迹是一条抛物线。",
+		"seconds": 7.032
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：平抛轨迹是以抛出点为顶点、开口向下的抛物线。",
+		"seconds": 5.784
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，飞行时间。由h等于二分之一g t平方，得t等于根号下二h比g，",
+		"seconds": 8.136
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|飞行时间只由下落高度 h 决定，与初速度无关。",
+		"seconds": 4.752
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|水平射程x等于v零乘根号下二h比g，由初速度和高度共同决定。",
+		"seconds": 7.2
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：从同一高度平抛，初速度大的物体射程远，但落地时间相同。",
+		"seconds": 6.744
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，速度的变化。抛体运动的加速度恒为 g，",
+		"seconds": 5.52
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以任意相等时间内，速度的变化量德尔塔v等于g德尔塔t都相同，",
+		"seconds": 7.128
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|方向竖直向下。水平分速度不变，变化的只是竖直分速度。",
+		"seconds": 6.384
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：相等时间内速度变化量相同，但速率的变化量不相同。",
+		"seconds": 6.312
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，一般的抛体运动。初速度v零与水平方向成theta角斜向上抛出，叫斜抛。",
+		"seconds": 8.688
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|水平方向做匀速直线运动，v x等于v零cos theta。",
+		"seconds": 5.52
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|竖直方向做初速度为v零sin theta、加速度为g的匀变速运动，即竖直上抛运动。",
+		"seconds": 7.896
+	},
+	"h3b": {
+		"key": "zh-CN-XiaoxiaoNeural|球场上运球的女孩：投篮时球斜向上飞出，水平方向匀速，竖直方向先上升后下落，这就是斜抛。",
+		"seconds": 9.912
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：斜抛的轨迹也是抛物线，加速度同样恒为g。",
+		"seconds": 5.52
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，概念辨析。斜抛运动到最高点时，竖直分速度为零，",
+		"seconds": 6.648
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|但水平分速度仍是v零cos theta，所以速度不为零，方向水平。",
+		"seconds": 6.696
+	},
+	"i2b": {
+		"key": "zh-CN-XiaoxiaoNeural|扛着球棒的女孩：击出的高飞球到了最高点，竖直速度为零，但水平速度还在，球继续向前飞。",
+		"seconds": 9.24
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|最高点的加速度仍为g，竖直向下。",
+		"seconds": 3.984
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：最高点速度不为零、加速度不为零，不是平衡状态。",
+		"seconds": 6
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：抛体运动是匀变速曲线运动？对。判断二：平抛时间由初速度决定？错，只由高度决定。",
+		"seconds": 10.992
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：速度偏角是位移偏角的两倍？错，是正切值两倍。判断四：相等时间内速度变化量相同？对。",
+		"seconds": 11.88
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：平抛轨迹是抛物线？对。判断六：斜抛最高点速度为零？错，还有水平速度。",
+		"seconds": 10.032
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|水平匀速，竖直落体，时间只看高度。下一期：圆周运动与向心加速度。",
+		"seconds": 7.896
+	}
+}

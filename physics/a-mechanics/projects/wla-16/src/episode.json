@@ -1,0 +1,130 @@
+{
+	"id": "WLA-16",
+	"title": "圆周运动与向心加速度",
+	"subject": "physics",
+	"book": "力学 · 第16期 / 共32期",
+	"points": [
+		"匀速圆周运动",
+		"线速度",
+		"角速度",
+		"周期与转速",
+		"各量的关系",
+		"传动中的规律",
+		"向心加速度",
+		"向心加速度的大小",
+		"an 与 r 的关系"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"圆周运动",
+				true
+			],
+			[
+				"与向心加速度"
+			]
+		],
+		"subtitle": "线速度 · 角速度 · 周期 · 传动 · 向心加速度",
+		"photo": "wla16.jpg",
+		"photoCaption": "转动的陶轮：轮上各点角速度相同，离轴越远线速度越大",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"圆周运动",
+					true
+				]
+			],
+			[
+				[
+					"与向心加速度"
+				]
+			]
+		],
+		"photo": "wla16.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "陶轮",
+		"credit": "Kritzolina, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Breathe Life",
+			"title": "ぼっち・ざ・ろっく! !",
+			"url": "https://www.pixiv.net/artworks/103880724"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "匀速圆周运动是匀变速运动",
+				"ok": false,
+				"fix": "加速度方向时刻变化，是变加速运动"
+			},
+			{
+				"q": "线速度的方向沿圆周的切线方向",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "同轴转动的各点线速度相同",
+				"ok": false,
+				"fix": "同轴转动各点角速度相同"
+			},
+			{
+				"q": "皮带传动不打滑时，两轮轮缘线速度大小相等",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "向心加速度只改变速度的方向",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "向心加速度一定与半径成反比",
+				"ok": false,
+				"fix": "线速度一定时成反比，角速度一定时成正比"
+			}
+		],
+		"endTitle": [
+			[
+				"圆周运动",
+				true
+			],
+			[
+				"与向心加速度"
+			]
+		],
+		"endLine": "同轴角速度等，同带线速度等",
+		"slogan": "同轴角速度等，同带线速度等"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Kritzolina《Pottery at the Chokhi Dhani Resort Panchkula 33》，CC BY-SA 4.0；插图来自 pixiv：みつきさなぎ、AlwaysBetabeats、チェリ子（侵删）",
+	"anime": [
+		{
+			"key": "wheel",
+			"src": "wheel.jpg",
+			"credit": "插图：みつきさなぎ《無題》 pixiv #106949261",
+			"url": "https://www.pixiv.net/artworks/106949261"
+		},
+		{
+			"key": "cake",
+			"src": "cake.jpg",
+			"credit": "插图：AlwaysBetabeats《Akari HBD》 pixiv #110329246",
+			"url": "https://www.pixiv.net/artworks/110329246"
+		},
+		{
+			"key": "carousel",
+			"src": "carousel.jpg",
+			"credit": "插图：チェリ子《おやすみカルーセル》 pixiv #89998753",
+			"url": "https://www.pixiv.net/artworks/89998753"
+		}
+	]
+}

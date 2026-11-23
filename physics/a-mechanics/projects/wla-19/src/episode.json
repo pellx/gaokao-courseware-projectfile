@@ -1,0 +1,130 @@
+{
+	"id": "WLA-19",
+	"title": "万有引力理论的成就",
+	"subject": "physics",
+	"book": "力学 · 第19期 / 共32期",
+	"points": [
+		"万有引力与重力",
+		"地球自转的影响",
+		"重力加速度随高度变化",
+		"称量地球的质量",
+		"计算太阳的质量",
+		"天体的密度",
+		"发现未知天体",
+		"预言彗星回归",
+		"中心天体与环绕天体"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"万有引力",
+				true
+			],
+			[
+				"理论的成就"
+			]
+		],
+		"subtitle": "重力与引力 · 称量地球 · 太阳质量 · 海王星 · 哈雷彗星",
+		"photo": "wla19.jpg",
+		"photoCaption": "勒维耶：根据万有引力定律算出了海王星的位置",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"万有引力",
+					true
+				]
+			],
+			[
+				[
+					"理论的成就"
+				]
+			]
+		],
+		"photo": "wla19.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "勒维耶",
+		"credit": "Goupil & Cie, Rijksmuseum, CC0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "チャイ",
+			"title": "月餅",
+			"url": "https://www.pixiv.net/artworks/149775263"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "不考虑自转时，地面物体的重力等于地球对它的引力",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "在赤道上，物体的重力等于万有引力",
+				"ok": false,
+				"fix": "两极才相等"
+			},
+			{
+				"q": "离地面越高，重力加速度越大",
+				"ok": false,
+				"fix": "越高越小"
+			},
+			{
+				"q": "卡文迪什测出 G 后才算出了地球的质量",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "海王星是先计算出轨道再观测发现的",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "由卫星的轨道半径和周期可以求出卫星的质量",
+				"ok": false,
+				"fix": "只能求中心天体质量"
+			}
+		],
+		"endTitle": [
+			[
+				"万有引力",
+				true
+			],
+			[
+				"理论的成就"
+			]
+		],
+		"endLine": "引力提供向心力，求的总是中心天体",
+		"slogan": "引力提供向心力，求的总是中心天体"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Goupil & Cie《Portret van Urbain Le Verrier》（Galerie contemporaine），Rijksmuseum 藏，CC0；插图来自 pixiv：チャイ、ねこぽた。、emma（侵删）",
+	"anime": [
+		{
+			"key": "mount",
+			"src": "mount.jpg",
+			"credit": "插图：チャイ《パンケーキ山脈》 pixiv #59256498",
+			"url": "https://www.pixiv.net/artworks/59256498"
+		},
+		{
+			"key": "pencil",
+			"src": "pencil.jpg",
+			"credit": "插图：ねこぽた。《️》 pixiv #108332148",
+			"url": "https://www.pixiv.net/artworks/108332148"
+		},
+		{
+			"key": "desk",
+			"src": "desk.jpg",
+			"credit": "插图：emma pixiv #85499844",
+			"url": "https://www.pixiv.net/artworks/85499844"
+		}
+	]
+}

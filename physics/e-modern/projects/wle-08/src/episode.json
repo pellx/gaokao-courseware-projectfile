@@ -1,0 +1,142 @@
+{
+	"id": "WLE-08",
+	"title": "核力与结合能",
+	"subject": "physics",
+	"book": "近代物理 · 第8期 / 共9期",
+	"points": [
+		"四种基本相互作用",
+		"核力",
+		"弱相互作用",
+		"结合能",
+		"比结合能",
+		"比结合能曲线",
+		"质量亏损",
+		"质能方程",
+		"概念辨析"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"核力",
+				true
+			],
+			[
+				"与"
+			],
+			[
+				"结合能",
+				true
+			]
+		],
+		"subtitle": "强相互作用 · 比结合能 · 质量亏损 · E = mc²",
+		"photo": "yukawa.jpg",
+		"photoCaption": "汤川秀树：1935 年提出核力的介子理论",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"核力",
+					true
+				],
+				[
+					"与"
+				]
+			],
+			[
+				[
+					"结合能",
+					true
+				]
+			]
+		],
+		"photo": "yukawa.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "汤川秀树",
+		"credit": "Nobel Foundation, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "リスズ委員長",
+			"title": "みんなでパシャリ",
+			"url": "https://www.pixiv.net/artworks/112170010"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "摩擦力本质上是电磁相互作用",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "核力是长程力，作用范围很大",
+				"ok": false,
+				"fix": "核力是短程力，约 10^-15 m"
+			},
+			{
+				"q": "β 衰变是由弱相互作用引起的",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "结合能越大，原子核越稳定",
+				"ok": false,
+				"fix": "比结合能越大才越稳定"
+			},
+			{
+				"q": "中等质量的原子核比结合能最大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "质量亏损说明核反应后核子数减少了",
+				"ok": false,
+				"fix": "质量数守恒，亏损的是质量"
+			}
+		],
+		"endTitle": [
+			[
+				"核力",
+				true
+			],
+			[
+				"与"
+			],
+			[
+				"结合能",
+				true
+			]
+		],
+		"endLine": "比结合能越大越稳定，质量亏损就放能",
+		"slogan": "比结合能越大越稳定，质量亏损就放能"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Nobel Foundation《Yukawa》，公有领域；插图来自 pixiv：t、hoshia💫、よーな（侵删）",
+	"anime": [
+		{
+			"key": "four",
+			"src": "four.jpg",
+			"credit": "插图：t《結束バンド》 pixiv #105216595",
+			"url": "https://www.pixiv.net/artworks/105216595"
+		},
+		{
+			"key": "hug",
+			"src": "hug.jpg",
+			"credit": "插图：hoshia💫《無題》 pixiv #127747053",
+			"url": "https://www.pixiv.net/artworks/127747053"
+		},
+		{
+			"key": "pull",
+			"src": "pull.jpg",
+			"credit": "插图：よーな《無題》 pixiv #128231565",
+			"url": "https://www.pixiv.net/artworks/128231565"
+		}
+	]
+}

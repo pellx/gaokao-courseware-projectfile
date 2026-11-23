@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电磁感应现象与楞次定律。",
+		"seconds": 3.024
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲电磁感应的发现、产生感应电流的条件、楞次定律、“阻碍”的含义和右手定则，共九个考点。",
+		"seconds": 9.36
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，划时代的发现。1820 年，奥斯特发现电流的磁效应，也就是“电生磁”。",
+		"seconds": 8.232
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|既然电能生磁，磁能不能生电？法拉第经过约十年的探索，在 1831 年找到了答案。",
+		"seconds": 8.28
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|由磁得到电的现象叫做电磁感应，产生的电流叫做感应电流。",
+		"seconds": 6.312
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：奥斯特发现“电生磁”，法拉第发现“磁生电”。",
+		"seconds": 5.208
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，产生感应电流的条件。穿过闭合导体回路的磁通量发生变化，回路中就产生感应电流。",
+		"seconds": 9.624
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个条件缺一不可：回路要闭合，磁通量要变化。",
+		"seconds": 5.016
+	},
+	"b2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这四个女孩，手指一个接一个连起来：回路也要这样首尾相接、闭合起来，电流才能流通。",
+		"seconds": 8.4
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|回路不闭合时，磁通量变化仍会产生感应电动势，但没有感应电流。",
+		"seconds": 6.792
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：磁通量很大但不变，没有感应电流；关键是磁通量变化。",
+		"seconds": 6.504
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，磁通量变化的方式。由Φ等于B S sinθ，磁通量的变化有三种途径。",
+		"seconds": 8.304
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|一是磁感应强度B变化，例如磁体靠近或远离线圈。",
+		"seconds": 5.496
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|二是回路面积S变化，例如导体切割磁感线。",
+		"seconds": 5.016
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|三是回路平面与磁场的夹角θ变化，例如线圈在磁场中转动。",
+		"seconds": 6.6
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：B、S、θ任一个变化，都可能使磁通量变化。",
+		"seconds": 6.144
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，教材实验。导体棒在磁场中切割磁感线时，电流表指针偏转。",
+		"seconds": 7.752
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|把磁体插入或拔出线圈时，指针偏转；磁体停在线圈中不动，指针不偏转。",
+		"seconds": 7.704
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|通断开关、移动滑动变阻器的滑片，改变原线圈中的电流时，副线圈所接的电流表指针偏转。",
+		"seconds": 9.048
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个金发女孩，被吓了一跳，头上的呆毛“噗”地多了一根：电流表也只在变化的那一瞬间跳一下。",
+		"seconds": 8.664
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：指针偏转都发生在磁通量变化的过程中，不变就不偏。",
+		"seconds": 6.12
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，电磁感应的应用与影响。发电机利用电磁感应把机械能转化为电能。",
+		"seconds": 7.776
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|变压器也利用电磁感应，改变交流电压，便于远距离输电。",
+		"seconds": 5.856
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|电磁感应使大规模生产和利用电能成为可能，推动人类进入电气时代。",
+		"seconds": 7.008
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：发电机、变压器都基于电磁感应，它开启了电气时代。",
+		"seconds": 6.312
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，楞次定律。感应电流也会产生磁场，它的方向有什么规律？",
+		"seconds": 7.128
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|楞次定律：感应电流的磁场，总要阻碍引起感应电流的磁通量的变化。",
+		"seconds": 6.624
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断时先看原磁场方向和磁通量是增还是减，再定感应电流的磁场方向，最后用安培定则定电流方向。",
+		"seconds": 10.368
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：楞次定律中，阻碍的对象是磁通量的变化。",
+		"seconds": 5.184
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，“阻碍”的含义。阻碍的是磁通量的变化，不是磁通量本身。",
+		"seconds": 6.672
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|磁通量增加时，感应电流的磁场与原磁场反向；减少时同向：叫“增反减同”。",
+		"seconds": 7.776
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|磁体靠近线圈时受到斥力，远离时受到引力：叫“来拒去留”。",
+		"seconds": 6.12
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这位托着腮、别过脸的金发姐姐：你凑近，她嫌你烦；你要走，她又舍不得，这就是来拒去留。",
+		"seconds": 9.264
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：阻碍不是阻止，磁通量照样变化，只是变化被延缓了。",
+		"seconds": 6.168
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，楞次定律与能量守恒。感应电流的效果，总要阻碍引起感应电流的原因。",
+		"seconds": 8.088
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|把磁体插入线圈要克服斥力，拔出要克服引力，外界必须做功。",
+		"seconds": 6.408
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|外界做的功转化为电能，能量不会凭空产生。",
+		"seconds": 4.752
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：楞次定律是能量守恒定律在电磁感应中的体现。",
+		"seconds": 5.784
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，右手定则。导体切割磁感线时，可以用右手定则判断感应电流的方向。",
+		"seconds": 8.16
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|伸开右手，让磁感线从掌心进入，拇指指向导体运动方向。",
+		"seconds": 6.024
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|这时四指所指的方向，就是感应电流的方向。",
+		"seconds": 4.608
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：右手定则是楞次定律在导体切割磁感线情形中的具体表现。",
+		"seconds": 6.696
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：法拉第发现电流的磁效应？错，那是奥斯特。判断二：闭合回路磁通量变化就有感应电流？对。",
+		"seconds": 11.424
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：回路不闭合就没有感应电动势？错，有电动势，没有电流。判断四：感应电流的磁场总与原磁场反向？错，增反减同。",
+		"seconds": 13.944
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：楞次定律体现能量守恒？对。判断六：右手定则拇指指导体运动方向？对。",
+		"seconds": 10.032
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|磁通量变才有电，增反减同来拒去留。下一期：法拉第电磁感应定律。",
+		"seconds": 7.584
+	}
+}

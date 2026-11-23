@@ -1,0 +1,129 @@
+{
+	"id": "WLB-18",
+	"title": "法拉第电磁感应定律",
+	"subject": "physics",
+	"book": "电学基础 · 第18期 / 共22期",
+	"points": [
+		"感应电动势",
+		"法拉第电磁感应定律",
+		"Φ、ΔΦ 与 ΔΦ/Δt",
+		"导线切割磁感线",
+		"平均值与瞬时值",
+		"动生电动势",
+		"动生电动势中的能量转化",
+		"反电动势"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"法拉第",
+				true
+			],
+			[
+				"电磁感应定律"
+			]
+		],
+		"subtitle": "感应电动势 · E = nΔΦ/Δt · E = Blv · 动生电动势 · 反电动势",
+		"photo": "disk.jpg",
+		"photoCaption": "法拉第圆盘：转动铜盘切割磁感线，产生感应电动势",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"法拉第",
+					true
+				]
+			],
+			[
+				[
+					"电磁感应定律"
+				]
+			]
+		],
+		"photo": "disk.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "法拉第圆盘",
+		"credit": "Daderot, CC0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ゆきぽP",
+			"title": "エミせり",
+			"url": "https://www.pixiv.net/artworks/110545731"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电路不闭合时，也可以产生感应电动势",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "穿过回路的磁通量越大，感应电动势越大",
+				"ok": false,
+				"fix": "E 由磁通量的变化率决定"
+			},
+			{
+				"q": "n 匝线圈的感应电动势 E = nΔΦ/Δt",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "导线速度与磁场平行时，E = Blv",
+				"ok": false,
+				"fix": "v ∥ B 时不切割，E = 0"
+			},
+			{
+				"q": "动生电动势的非静电力与洛伦兹力有关",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电动机转动时产生的反电动势与电源电动势方向相同",
+				"ok": false,
+				"fix": "方向相反"
+			}
+		],
+		"endTitle": [
+			[
+				"法拉第",
+				true
+			],
+			[
+				"电磁感应定律"
+			]
+		],
+		"endLine": "电动势看变化快慢，切割就用 Blv",
+		"slogan": "电动势看变化快慢，切割就用 Blv"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Daderot《Faraday disk - National Museum of Nature and Science, Tokyo》，CC0；插图来自 pixiv：ぼぎげ、かめふく🐢、リュウセイ（侵删）",
+	"anime": [
+		{
+			"key": "toast",
+			"src": "toast.jpg",
+			"credit": "插图：ぼぎげ《無題》 pixiv #138059682",
+			"url": "https://www.pixiv.net/artworks/138059682"
+		},
+		{
+			"key": "bike",
+			"src": "bike.jpg",
+			"credit": "插图：かめふく🐢《自転車乗れるかな》 pixiv #119484815",
+			"url": "https://www.pixiv.net/artworks/119484815"
+		},
+		{
+			"key": "fan",
+			"src": "fan.jpg",
+			"credit": "插图：リュウセイ《扇風機とひろプリのみんな》 pixiv #135102712",
+			"url": "https://www.pixiv.net/artworks/135102712"
+		}
+	]
+}

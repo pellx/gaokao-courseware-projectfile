@@ -1,0 +1,22 @@
+本期考点
+
+一、运动性质（v ∥ B 时匀速直线运动，v ⊥ B 时匀速圆周运动）
+二、向心力来源（洛伦兹力提供向心力，qvB = mv²/r）
+三、轨道半径（r = mv/qB，速度越大、比荷越小，半径越大）
+四、运动周期（T = 2πm/qB，与速度大小和轨道半径无关）
+五、洛伦兹力演示仪（加速电压增大半径变大，励磁电流增大半径变小）
+六、运动的物理图景（洛伦兹力不做功，动能不变；电性相反的粒子绕行方向相反）
+七、速度与磁场斜交（沿磁场匀速直线 + 垂直磁场匀速圆周，轨迹为螺旋线）
+
+图片来源
+1.Lawrence Berkeley National Laboratory《Bubble chamber event, December 16, 1958》，公有领域（Wikimedia Commons）
+2.插图：HoR《exercise》
+https://www.pixiv.net/artworks/123258747
+3.插图：ちのすけ《無題》
+https://www.pixiv.net/artworks/139999987
+4.插图：依千流（いちる）《萌えよドラゴン️‍》
+https://www.pixiv.net/artworks/138150963
+5.封面插图：小動物《表情練習２【回し車】》
+https://www.pixiv.net/artworks/5736713
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

@@ -1,0 +1,24 @@
+本期考点
+
+一、匀速圆周运动（速率不变，是变加速运动）
+二、线速度（v = Δs/Δt，沿切线）
+三、角速度（ω = Δθ/Δt，单位 rad/s）
+四、周期与转速（T 与 n）
+五、各量的关系（v = ωr，ω = 2π/T = 2πn）
+六、传动中的规律（同轴 ω 相同，皮带轮缘 v 相等）
+七、向心加速度（指向圆心，只改变速度方向）
+八、向心加速度的大小（an = v²/r = ω²r = ωv）
+九、an 与 r 的关系（看 v 一定还是 ω 一定）
+
+图片来源
+1.Kritzolina《Pottery at the Chokhi Dhani Resort Panchkula 33》，CC BY-SA 4.0（Wikimedia Commons）
+2.插图：みつきさなぎ《無題》
+https://www.pixiv.net/artworks/106949261
+3.插图：AlwaysBetabeats《Akari HBD》
+https://www.pixiv.net/artworks/110329246
+4.插图：チェリ子《おやすみカルーセル》
+https://www.pixiv.net/artworks/89998753
+5.封面插图：Breathe Life《ぼっち・ざ・ろっく! !》
+https://www.pixiv.net/artworks/103880724
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

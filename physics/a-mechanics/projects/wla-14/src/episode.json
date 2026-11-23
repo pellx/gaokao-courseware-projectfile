@@ -1,0 +1,129 @@
+{
+	"id": "WLA-14",
+	"title": "曲线运动与运动的合成与分解",
+	"subject": "physics",
+	"book": "力学 · 第14期 / 共32期",
+	"points": [
+		"速度方向",
+		"做曲线运动的条件",
+		"合力与轨迹",
+		"合力对速率的影响",
+		"合运动与分运动",
+		"运动的合成与分解",
+		"蜡块的运动",
+		"直线还是曲线"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"曲线运动",
+				true
+			],
+			[
+				"与运动的合成与分解"
+			]
+		],
+		"subtitle": "切线方向 · 曲线运动条件 · 合运动与分运动",
+		"photo": "wla14.jpg",
+		"photoCaption": "砂轮打磨钢件：火星沿砂轮边缘的切线方向飞出",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"曲线运动",
+					true
+				]
+			],
+			[
+				[
+					"运动的合成与分解"
+				]
+			]
+		],
+		"photo": "wla14.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "沿切线飞出",
+		"credit": "Biswarup Ganguly, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "RYOO(リクエスト募集中)",
+			"title": "ぼ喜多",
+			"url": "https://www.pixiv.net/artworks/122011749"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "曲线运动一定是变速运动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "物体所受合力与速度共线时做曲线运动",
+				"ok": false,
+				"fix": "不共线时才做曲线运动"
+			},
+			{
+				"q": "曲线运动的合力指向轨迹的凹侧",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "合力始终与速度垂直时，物体的速率不变",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "两个匀速直线运动的合运动可能是曲线运动",
+				"ok": false,
+				"fix": "一定是匀速直线运动"
+			},
+			{
+				"q": "变速运动一定是曲线运动",
+				"ok": false,
+				"fix": "匀加速直线运动也是变速运动"
+			}
+		],
+		"endTitle": [
+			[
+				"曲线运动",
+				true
+			],
+			[
+				"与运动的合成与分解"
+			]
+		],
+		"endLine": "速度沿切线，合力指凹侧",
+		"slogan": "速度沿切线，合力指凹侧"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Biswarup Ganguly《Grinding Sparks - Kolkata 2011-11-26 7427》，CC BY-SA 3.0；插图来自 pixiv：RYOO(リクエスト募集中)、Grace C、dolphilia（侵删）",
+	"anime": [
+		{
+			"key": "rain",
+			"src": "rain.jpg",
+			"credit": "插图：RYOO(リクエスト募集中)《無題》 pixiv #133452330",
+			"url": "https://www.pixiv.net/artworks/133452330"
+		},
+		{
+			"key": "poses",
+			"src": "poses.jpg",
+			"credit": "插图：Grace C《小波奇(｡A｡)》 pixiv #113047912",
+			"url": "https://www.pixiv.net/artworks/113047912"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：dolphilia《バスケットボール》 pixiv #78560072",
+			"url": "https://www.pixiv.net/artworks/78560072"
+		}
+	]
+}

@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|探究平抛运动的特点。",
+		"seconds": 2.568
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的目的、思路、器材、步骤、两个分运动的探究和误差，共八个考点。",
+		"seconds": 8.232
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的与思路。物体以一定的速度水平抛出，只在重力作用下的运动，叫平抛运动。",
+		"seconds": 9.192
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|它的轨迹是曲线，直接研究比较困难。实验的目的，就是探究它在水平方向和竖直方向上各自有什么特点。",
+		"seconds": 10.392
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|思路是运动的分解：把平抛运动分解为水平和竖直两个分运动，分别研究，各个击破。",
+		"seconds": 8.616
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两个分运动同时进行、互不影响，所用的时间相同，这是能分开研究的依据。",
+		"seconds": 8.112
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，记录运动的方法。平抛运动很快，眼睛看不清，要先把运动记录下来。",
+		"seconds": 7.8
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|可以用频闪照相：每隔相等的时间闪光一次，一张照片上就留下小球在各时刻的位置。",
+		"seconds": 8.328
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以录制视频，再逐帧回放，相邻两帧之间的时间间隔也是相等的。",
+		"seconds": 6.888
+	},
+	"r3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个举着相机的红头发女孩，按下快门就把这一瞬间定格下来；频闪照相是每隔相等时间按一次快门。",
+		"seconds": 9.888
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两种方法的共同点是记录小球每隔相等时间所到达的位置，再分析两个方向的位移随时间怎样变化。",
+		"seconds": 9.984
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，竖直分运动的探究。用小锤击打弹性金属片，A 球沿水平方向抛出，同时 B 球被释放，自由下落。",
+		"seconds": 11.112
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验发现，两球同时落地，可以听到一个落地声。",
+		"seconds": 4.776
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|改变装置的高度，改变击打的力度，多次实验，两球总是同时落地。",
+		"seconds": 6.696
+	},
+	"v3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个Q版女孩挥着小锤敲下去：实验里也是小锤一敲，A 球平抛、B 球自由下落，两球同时出发。",
+		"seconds": 9.84
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：这说明平抛运动在竖直方向的分运动是自由落体运动；只能说明竖直方向，不能说明水平方向是匀速运动。",
+		"seconds": 11.088
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，描轨迹的器材。斜槽让小球滚下，从末端飞出时获得水平初速度。",
+		"seconds": 8.064
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|竖直的背板上固定白纸和复写纸，小球落到挡板上，就在白纸上留下一个点。",
+		"seconds": 7.776
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|挡板可以上下调节，每调一次高度，就确定小球经过的一个位置；多次实验，得到一系列点。",
+		"seconds": 8.568
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：铅垂线用来确定竖直方向，画出 y 轴，也用来检查背板是否竖直。",
+		"seconds": 7.464
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，关键步骤。调整斜槽，使它的末端切线水平，小球放在末端能静止不动，就说明调好了。",
+		"seconds": 9.912
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|每次都让小球从斜槽上同一位置由静止释放，保证每次平抛的初速度相同。",
+		"seconds": 7.392
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|背板要竖直；以小球在斜槽末端时球心在背板上的投影为坐标原点，用铅垂线画出竖直的 y 轴。",
+		"seconds": 9.648
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：斜槽不必光滑，摩擦对每次释放的影响相同，初速度仍然相同；原点也不是斜槽末端的端口，而是球心的投影。",
+		"seconds": 11.376
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，水平分运动的探究。先把各点连成平滑的曲线，描出平抛运动的轨迹。",
+		"seconds": 8.232
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|已经知道竖直方向是自由落体，从原点起，经过一倍、两倍、三倍时间的竖直位移之比是一比四比九。",
+		"seconds": 9.936
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以在轨迹上找出竖直位移之比为一比四比九的点，这些点就是时间间隔相等的点。",
+		"seconds": 8.448
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：再看相邻两点之间的水平位移是否相等；相等就说明水平分运动是匀速直线运动。",
+		"seconds": 9
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，误差来源。斜槽末端不水平，小球抛出的初速度就不是水平的。",
+		"seconds": 7.656
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|小球每次释放位置不同，初速度不同，描出的点不在同一条轨迹上。",
+		"seconds": 6.48
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|坐标原点或竖直方向确定得不准，描点不准确，还有空气阻力的影响。",
+		"seconds": 6.888
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：把斜槽末端的端口当成原点，原点偏离了球心的投影，也会带来误差。",
+		"seconds": 7.656
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，实验结论。平抛运动可以分解为两个分运动。",
+		"seconds": 5.832
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|水平方向是匀速直线运动，速度等于抛出时的初速度。",
+		"seconds": 5.4
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|竖直方向是自由落体运动，加速度为 g。",
+		"seconds": 4.224
+	},
+	"n3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个抱着吉他、向前飞身一跃的粉头发女孩：她一边向前冲，一边往下落，两件事同时发生、互不干扰。",
+		"seconds": 10.104
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：平抛运动等于水平方向的匀速直线运动加竖直方向的自由落体运动。",
+		"seconds": 7.32
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：两球同时落地说明水平方向匀速？错，只说明竖直方向是自由落体。判断二：斜槽末端切线必须水平？对。",
+		"seconds": 13.08
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：斜槽必须光滑？错，不必光滑。判断四：每次从同一位置由静止释放？对。",
+		"seconds": 10.224
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：原点是斜槽端口？错，是球心的投影。判断六：平抛分解为水平匀速和竖直自由落体？对。",
+		"seconds": 11.592
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|末端水平同位置，水平匀速竖直落。下一期：探究向心力大小与半径、角速度、质量的关系。",
+		"seconds": 9.744
+	}
+}

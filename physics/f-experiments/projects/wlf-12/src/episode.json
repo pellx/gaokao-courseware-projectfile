@@ -1,0 +1,141 @@
+{
+	"id": "WLF-12",
+	"title": "观察电容器的充、放电现象",
+	"subject": "physics",
+	"book": "实验 · 第12期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验电路与器材",
+		"充电过程",
+		"放电过程",
+		"用电流传感器记录 I-t 图像",
+		"数据处理",
+		"实验结论"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"观察",
+				false
+			],
+			[
+				"电容器",
+				true
+			],
+			[
+				"的充、放电现象",
+				false
+			]
+		],
+		"subtitle": "单刀双掷开关 · 电流逐渐减小 · I-t 图像面积 · C = Q/U",
+		"photo": "leiden-jars.jpg",
+		"photoCaption": "莱顿瓶组（布尔哈弗博物馆）：最早的电容器，能把电荷储存起来",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"观察"
+				],
+				[
+					"电容器",
+					true
+				]
+			],
+			[
+				[
+					"的充、放电"
+				]
+			]
+		],
+		"photo": "leiden-jars.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "历史仪器",
+		"credit": "Jos van den Broek, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "きっち☕",
+			"title": "唯ちゃんとギー太",
+			"url": "https://www.pixiv.net/artworks/97282315"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "充电过程中电流逐渐增大",
+				"ok": false,
+				"fix": "电流由大逐渐减小到 0"
+			},
+			{
+				"q": "充电结束时电容器两端电压等于电源电压",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "放电电流方向与充电电流方向相同",
+				"ok": false,
+				"fix": "方向相反"
+			},
+			{
+				"q": "I-t 图线与时间轴所围面积表示电荷量",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "增大电阻 R，电容器充入的电荷量增大",
+				"ok": false,
+				"fix": "只改变快慢，电荷量不变"
+			},
+			{
+				"q": "由 C = Q/U 可以估算电容器的电容",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"观察",
+				false
+			],
+			[
+				"电容器",
+				true
+			],
+			[
+				"的充、放电现象",
+				false
+			]
+		],
+		"endLine": "电流由大变到零，面积就是电荷量",
+		"slogan": "电流由大变到零，面积就是电荷量"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Prof. Jos van den Broek《Museum Boerhaave - Leiden Jars》，CC BY-SA 3.0；插图来自 pixiv：がーねっと、ちぷしし、CORE（侵删）",
+	"anime": [
+		{
+			"key": "bank",
+			"src": "bank.jpg",
+			"credit": "插图：がーねっと《ツチノコぼっちの貯金箱を差し出す後藤ひとり》 pixiv #109994740",
+			"url": "https://www.pixiv.net/artworks/109994740"
+		},
+		{
+			"key": "robot",
+			"src": "robot.jpg",
+			"credit": "插图：ちぷしし《skeb》 pixiv #138067298",
+			"url": "https://www.pixiv.net/artworks/138067298"
+		},
+		{
+			"key": "sparkler",
+			"src": "sparkler.jpg",
+			"credit": "插图：CORE《暑中おみまい》 pixiv #44989889",
+			"url": "https://www.pixiv.net/artworks/44989889"
+		}
+	]
+}

@@ -1,0 +1,130 @@
+{
+	"id": "WLB-17",
+	"title": "电磁感应现象与楞次定律",
+	"subject": "physics",
+	"book": "电学基础 · 第17期 / 共22期",
+	"points": [
+		"划时代的发现",
+		"产生感应电流的条件",
+		"磁通量变化的方式",
+		"教材实验",
+		"电磁感应的应用与影响",
+		"楞次定律",
+		"“阻碍”的含义",
+		"楞次定律与能量守恒",
+		"右手定则"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"电磁感应现象",
+				true
+			],
+			[
+				"与楞次定律"
+			]
+		],
+		"subtitle": "磁生电 · 感应电流的条件 · 楞次定律 · 增反减同 来拒去留 · 右手定则",
+		"photo": "ring.png",
+		"photoCaption": "法拉第 1831 年发现电磁感应所用的铁环线圈（版画）",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电磁感应现象",
+					true
+				]
+			],
+			[
+				[
+					"与楞次定律"
+				]
+			]
+		],
+		"photo": "ring.png",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "法拉第线圈",
+		"credit": "Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ぬぬぬ/Nununu",
+			"title": "おいしくなる魔法の練習中…",
+			"url": "https://www.pixiv.net/artworks/127278006"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "法拉第发现了电流的磁效应",
+				"ok": false,
+				"fix": "奥斯特发现电流的磁效应，法拉第发现电磁感应"
+			},
+			{
+				"q": "穿过闭合回路的磁通量发生变化，回路中就有感应电流",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "回路不闭合时，磁通量变化也不会产生感应电动势",
+				"ok": false,
+				"fix": "有感应电动势，没有感应电流"
+			},
+			{
+				"q": "感应电流的磁场总与原磁场方向相反",
+				"ok": false,
+				"fix": "增反减同"
+			},
+			{
+				"q": "楞次定律是能量守恒定律在电磁感应中的体现",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "右手定则中，拇指指向导体运动方向",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"电磁感应现象",
+				true
+			],
+			[
+				"与楞次定律"
+			]
+		],
+		"endLine": "磁通量变才有电，增反减同来拒去留",
+		"slogan": "磁通量变才有电，增反减同来拒去留"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Faradays transformer》（法拉第感应线圈版画），作者不详，公有领域；插图来自 pixiv：すちーるうーるー、はるゐろは、おたば（侵删）",
+	"anime": [
+		{
+			"key": "finger",
+			"src": "finger.jpg",
+			"credit": "插图：すちーるうーるー《この指とまれ》 pixiv #128805174",
+			"url": "https://www.pixiv.net/artworks/128805174"
+		},
+		{
+			"key": "ahoge",
+			"src": "ahoge.jpg",
+			"credit": "插图：はるゐろは《びっくりするとアホ毛が増える虹夏ちゃん》 pixiv #125565136",
+			"url": "https://www.pixiv.net/artworks/125565136"
+		},
+		{
+			"key": "tsun",
+			"src": "tsun.jpg",
+			"credit": "插图：おたば《星歌さん》 pixiv #105773118",
+			"url": "https://www.pixiv.net/artworks/105773118"
+		}
+	]
+}

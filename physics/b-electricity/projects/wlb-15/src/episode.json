@@ -1,0 +1,133 @@
+{
+	"id": "WLB-15",
+	"title": "带电粒子在匀强磁场中的运动",
+	"subject": "physics",
+	"book": "电学基础 · 第15期 / 共22期",
+	"points": [
+		"运动性质",
+		"向心力来源",
+		"轨道半径",
+		"运动周期",
+		"洛伦兹力演示仪",
+		"运动的物理图景",
+		"速度与磁场斜交"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"带电粒子",
+				true
+			],
+			[
+				"在匀强磁场中的运动"
+			]
+		],
+		"subtitle": "匀速圆周运动 · 半径 r = mv/qB · 周期 T = 2πm/qB · 演示仪 · 螺旋线",
+		"photo": "chamber.jpg",
+		"photoCaption": "气泡室照片：左下方是带电粒子在磁场中留下的螺旋形径迹",
+		"photoPos": "20% 60%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"带电粒子",
+					true
+				]
+			],
+			[
+				[
+					"在匀强磁场中"
+				]
+			],
+			[
+				[
+					"的运动"
+				]
+			]
+		],
+		"photo": "chamber.jpg",
+		"photoPos": {
+			"16x9": "20% 60%",
+			"4x3": "20% 60%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "气泡室",
+		"credit": "Lawrence Berkeley National Laboratory, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "小動物",
+			"title": "表情練習２【回し車】",
+			"url": "https://www.pixiv.net/artworks/5736713"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "速度与磁场平行的带电粒子做匀速直线运动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "在同一磁场中，粒子的轨道半径与速度无关",
+				"ok": false,
+				"fix": "半径与速度成正比"
+			},
+			{
+				"q": "周期 T = 2πm/qB，与速度大小无关",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "演示仪中增大励磁电流，径迹半径变大",
+				"ok": false,
+				"fix": "励磁电流增大，半径变小"
+			},
+			{
+				"q": "洛伦兹力对运动的带电粒子做正功",
+				"ok": false,
+				"fix": "洛伦兹力不做功"
+			},
+			{
+				"q": "速度与磁场斜交时，粒子的轨迹是螺旋线",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"带电粒子",
+				true
+			],
+			[
+				"在匀强磁场中的运动"
+			]
+		],
+		"endLine": "半径随速度变，周期与速度无关",
+		"slogan": "半径随速度变，周期与速度无关"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Lawrence Berkeley National Laboratory《Bubble chamber event, December 16, 1958》，公有领域；插图来自 pixiv：HoR、ちのすけ、依千流（いちる）（侵删）",
+	"anime": [
+		{
+			"key": "wheel",
+			"src": "wheel.jpg",
+			"credit": "插图：HoR《exercise》 pixiv #123258747",
+			"url": "https://www.pixiv.net/artworks/123258747"
+		},
+		{
+			"key": "sushi",
+			"src": "sushi.jpg",
+			"credit": "插图：ちのすけ《無題》 pixiv #139999987",
+			"url": "https://www.pixiv.net/artworks/139999987"
+		},
+		{
+			"key": "drill",
+			"src": "drill.jpg",
+			"credit": "插图：依千流（いちる）《萌えよドラゴン️‍》 pixiv #138150963",
+			"url": "https://www.pixiv.net/artworks/138150963"
+		}
+	]
+}

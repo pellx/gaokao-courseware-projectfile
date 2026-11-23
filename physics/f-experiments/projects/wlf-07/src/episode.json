@@ -1,0 +1,142 @@
+{
+	"id": "WLF-07",
+	"title": "探究平抛运动的特点",
+	"subject": "physics",
+	"book": "实验 · 第7期 / 共22期",
+	"points": [
+		"实验目的与思路",
+		"记录运动的方法",
+		"竖直分运动的探究",
+		"描轨迹的器材",
+		"关键步骤",
+		"水平分运动的探究",
+		"误差来源",
+		"实验结论"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"探究",
+				false
+			],
+			[
+				"平抛运动",
+				true
+			],
+			[
+				"的特点",
+				false
+			]
+		],
+		"subtitle": "运动的分解 · 两球同时落地 · 描轨迹 · 等时点",
+		"photo": "water-arc.jpg",
+		"photoCaption": "喷泉的水柱：从喷口射出的水沿抛物线运动",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"探究"
+				],
+				[
+					"平抛运动",
+					true
+				]
+			],
+			[
+				[
+					"的特点"
+				]
+			]
+		],
+		"photo": "water-arc.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "生活中的抛体",
+		"credit": "GuidoB, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "竹ちょ",
+			"title": "【ガルクラ】アニメージュで3等賞を受賞!!!!!",
+			"url": "https://www.pixiv.net/artworks/120951651"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "两球同时落地，说明平抛运动的水平分运动是匀速直线运动",
+				"ok": false,
+				"fix": "只说明竖直分运动是自由落体"
+			},
+			{
+				"q": "斜槽末端的切线必须水平",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "斜槽必须光滑，否则无法完成实验",
+				"ok": false,
+				"fix": "斜槽不必光滑"
+			},
+			{
+				"q": "每次都要让小球从斜槽上同一位置由静止释放",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "坐标原点是斜槽末端端口的位置",
+				"ok": false,
+				"fix": "是小球在末端时球心的投影"
+			},
+			{
+				"q": "平抛运动可分解为水平匀速直线运动和竖直自由落体运动",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"探究",
+				false
+			],
+			[
+				"平抛运动",
+				true
+			],
+			[
+				"的特点",
+				false
+			]
+		],
+		"endLine": "末端水平同位置，水平匀速竖直落",
+		"slogan": "末端水平同位置，水平匀速竖直落"
+	},
+	"credits": "图片来源：Wikimedia Commons —— GuidoB《ParabolicWaterTrajectory》，CC BY-SA 3.0；插图来自 pixiv：大青鱼 \\ Minusk9、ひらけん、きくらげ（侵删）",
+	"anime": [
+		{
+			"key": "camera",
+			"src": "camera.jpg",
+			"credit": "插图：大青鱼 \\ Minusk9《喜多郁代》 pixiv #134937081",
+			"url": "https://www.pixiv.net/artworks/134937081"
+		},
+		{
+			"key": "hammer",
+			"src": "hammer.jpg",
+			"credit": "插图：ひらけん《叩く咲姫ちゃん》 pixiv #92233992",
+			"url": "https://www.pixiv.net/artworks/92233992"
+		},
+		{
+			"key": "leap",
+			"src": "leap.jpg",
+			"credit": "插图：きくらげ《ぼっち・ざ・ろっく!》 pixiv #112407060",
+			"url": "https://www.pixiv.net/artworks/112407060"
+		}
+	]
+}

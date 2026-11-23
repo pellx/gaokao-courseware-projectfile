@@ -1,0 +1,142 @@
+{
+	"id": "WLF-08",
+	"title": "探究向心力大小与半径、角速度、质量的关系",
+	"subject": "physics",
+	"book": "实验 · 第8期 / 共22期",
+	"points": [
+		"实验目的与方法",
+		"向心力演示器的原理",
+		"改变角速度",
+		"改变半径与质量",
+		"关键步骤",
+		"数据处理",
+		"误差说明",
+		"实验结论"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"探究",
+				false
+			],
+			[
+				"向心力",
+				true
+			],
+			[
+				"大小与半径、角速度、质量的关系",
+				false
+			]
+		],
+		"subtitle": "控制变量 · 向心力演示器 · 塔轮 · F-ω² 图像",
+		"photo": "centrifugal.jpg",
+		"photoCaption": "仿格拉维桑德设计的离心机（18 世纪）：手摇皮带带动转盘，演示圆周运动",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"探究"
+				],
+				[
+					"向心力",
+					true
+				]
+			],
+			[
+				[
+					"大小的影响因素"
+				]
+			]
+		],
+		"photo": "centrifugal.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "历史仪器",
+		"credit": "AlfvanBeem, CC0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "淵゛(ぶち)",
+			"title": "それでも世界は回っている",
+			"url": "https://www.pixiv.net/artworks/92126147"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "本实验采用控制变量法",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "标尺露出的格数之比等于两球所受向心力之比",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "皮带连接的两塔轮角速度相等",
+				"ok": false,
+				"fix": "边缘线速度相等，角速度与塔轮半径成反比"
+			},
+			{
+				"q": "小球转动半径是挡板到转轴的距离",
+				"ok": false,
+				"fix": "是球心到转轴的距离"
+			},
+			{
+				"q": "F-ω 图像是一条过原点的直线",
+				"ok": false,
+				"fix": "F-ω² 图像才是过原点的直线"
+			},
+			{
+				"q": "m、r 一定时，ω 变为 2 倍，向心力变为 4 倍",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"探究",
+				false
+			],
+			[
+				"向心力",
+				true
+			],
+			[
+				"大小与半径、角速度、质量的关系",
+				false
+			]
+		],
+		"endLine": "控制变量看格数，F = mω²r",
+		"slogan": "控制变量看格数，F = mω²r"
+	},
+	"credits": "图片来源：Wikimedia Commons —— AlfvanBeem《Centrifugal machime, after W.J. 's Gravesande's prototype》，CC0；插图来自 pixiv：すわ猫、ゆうさく（侵删）",
+	"anime": [
+		{
+			"key": "triple",
+			"src": "triple.jpg",
+			"credit": "插图：すわ猫《Bling Bang Bang Bocchi》 pixiv #115646311",
+			"url": "https://www.pixiv.net/artworks/115646311"
+		},
+		{
+			"key": "pull",
+			"src": "pull.jpg",
+			"credit": "插图：ゆうさく《恋ダンス？する、ぼ喜多》 pixiv #105069266",
+			"url": "https://www.pixiv.net/artworks/105069266"
+		},
+		{
+			"key": "poses",
+			"src": "poses.jpg",
+			"credit": "插图：ゆうさく《恋ダンス 喜多ちゃん》 pixiv #104349524",
+			"url": "https://www.pixiv.net/artworks/104349524"
+		}
+	]
+}

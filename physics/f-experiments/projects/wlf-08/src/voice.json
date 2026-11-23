@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|探究向心力大小与半径、角速度、质量的关系。",
+		"seconds": 5.04
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的目的、方法、向心力演示器、步骤、数据处理和误差，共八个考点。",
+		"seconds": 8.352
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的与方法。做匀速圆周运动的物体需要向心力，它的大小可能与小球质量m、转动半径r、角速度欧米伽有关。",
+		"seconds": 12.528
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|一个量同时受三个因素影响，要用控制变量法。",
+		"seconds": 4.608
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|每次只改变一个量，保持另外两个量不变，看向心力怎样变化。",
+		"seconds": 6
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这三个一模一样的粉头发女孩：控制变量，就是让其他条件一模一样，只留下一个量不同。",
+		"seconds": 8.112
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：探究F与欧米伽的关系时，m、r要相同；探究F与r的关系时，m、欧米伽要相同；依此类推。",
+		"seconds": 11.016
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，向心力演示器的原理。转动手柄，长槽和短槽随变速塔轮一起转动，槽内的小球做匀速圆周运动。",
+		"seconds": 11.04
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|横臂上的挡板对小球的弹力，提供小球做圆周运动的向心力。",
+		"seconds": 6.096
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|小球对挡板的反作用力，通过横臂的杠杆使弹簧测力套筒下降，标尺就露出红白相间的等分格。",
+		"seconds": 9.24
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红头发女孩伸手去拉粉头发的女孩：要让物体转起来，总得有个力把它往圆心拉，演示器里这个力来自挡板。",
+		"seconds": 10.224
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两边标尺露出的格数之比，就是两球所受向心力的比值；它显示的是比值，不是力的具体数值。",
+		"seconds": 9.864
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，改变角速度。左右两个变速塔轮用皮带连在一起，每个塔轮都有几层半径不同的轮盘。",
+		"seconds": 9.48
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|皮带不打滑，两塔轮边缘的线速度大小相等。",
+		"seconds": 4.632
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|由v等于欧米伽r，角速度与塔轮的半径成反比：皮带套在半径小的轮盘上，那一侧转得快。",
+		"seconds": 8.856
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这里的 r 是塔轮的半径，不是小球做圆周运动的半径；把皮带套在不同半径的轮盘上，才能得到不同的角速度之比。",
+		"seconds": 11.088
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，改变半径与质量。长槽上有两个挡板，到转轴的距离不同，短槽上有一个挡板。",
+		"seconds": 8.736
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|把小球放在不同挡板处，就改变了转动半径 r。",
+		"seconds": 4.728
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|换用质量不同的小球，就改变了质量 m，比如钢球和铝球大小相同、质量不同。",
+		"seconds": 7.632
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：转动半径是小球球心到转轴的距离，由挡板的位置决定。",
+		"seconds": 6.192
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，关键步骤。实验前，按要控制的条件，检查皮带的位置和小球的位置。",
+		"seconds": 8.376
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|摇动手柄时，转速要平稳、逐渐加快，等标尺的示数稳定以后再读数。",
+		"seconds": 7.104
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|转速不宜过快，以免小球从槽中飞出。",
+		"seconds": 4.152
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：每次只改变一个量，读数要在示数稳定时进行。",
+		"seconds": 5.496
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，数据处理。每组实验记录两球的m、r、欧米伽之比，以及标尺显示的向心力之比。",
+		"seconds": 9.36
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|作F对欧米伽的图像，得到的是一条曲线，看不出简单的比例关系。",
+		"seconds": 6.432
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|改作F对欧米伽平方的图像，得到一条过原点的直线，说明F与欧米伽平方成正比。",
+		"seconds": 8.496
+	},
+	"t3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个红头发女孩摆出五种姿势，就像实验要测多组数据：组数越多，图像反映的规律越可靠。",
+		"seconds": 8.88
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：图像是曲线时，要化曲为直，换一个横坐标，使图像成为直线，更容易判断比例关系。",
+		"seconds": 8.976
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，误差说明。标尺上的等分格数只能粗略显示向心力的比值，读数存在偶然误差。",
+		"seconds": 9.096
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|摇动手柄的转速不稳定，标尺的示数就会上下波动，读数更不准。",
+		"seconds": 6.504
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以这个实验得到的是定性或粗略定量的结论，要靠多次实验来减小误差。",
+		"seconds": 7.248
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：要读数准确，摇速要均匀，在示数稳定时读数，多次测量。",
+		"seconds": 6.864
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，实验结论。在r、欧米伽一定时，向心力与质量成正比。",
+		"seconds": 7.08
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|在m、欧米伽一定时，向心力与半径成正比；在m、r一定时，向心力与角速度的二次方成正比。",
+		"seconds": 9.816
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|综合起来，就是F n等于m欧米伽平方r。",
+		"seconds": 4.752
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：向心力与角速度是二次方关系，不是正比；角速度变为 2 倍，向心力变为 4 倍。",
+		"seconds": 8.784
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：采用控制变量法？对。判断二：标尺格数之比等于向心力之比？对。",
+		"seconds": 9.24
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：两塔轮角速度相等？错，是边缘线速度相等。判断四：转动半径是挡板到转轴的距离？错，是球心到转轴的距离。",
+		"seconds": 13.152
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：F对欧米伽的图像是过原点的直线？错，F对欧米伽平方的图像才是。判断六：欧米伽变为2倍，向心力变为4倍？对。",
+		"seconds": 13.992
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|控制变量看格数，F等于m欧米伽平方r。下一期：验证机械能守恒定律。",
+		"seconds": 8.328
+	}
+}

@@ -1,0 +1,131 @@
+{
+	"id": "WLC-08",
+	"title": "电磁场与电磁波",
+	"subject": "physics",
+	"book": "波动与光 · 第8期 / 共8期",
+	"points": [
+		"麦克斯韦电磁场理论",
+		"电磁波的预言与证实",
+		"电磁波的特点",
+		"电磁波的能量",
+		"无线电波的发射",
+		"无线电波的接收",
+		"电磁波谱",
+		"各波段的特征与应用",
+		"X 射线与 γ 射线",
+		"电磁波的应用及其影响"
+	],
+	"intro": {
+		"badge": "高考物理 · 波动与光",
+		"title": [
+			[
+				"电磁场",
+				true
+			],
+			[
+				"与电磁波"
+			]
+		],
+		"subtitle": "麦克斯韦理论 · 发射与接收 · 电磁波谱",
+		"photo": "hertz.jpg",
+		"photoCaption": "赫兹，用实验证实了电磁波的存在",
+		"photoPos": "center 35%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电磁场",
+					true
+				]
+			],
+			[
+				[
+					"与电磁波"
+				]
+			]
+		],
+		"photo": "hertz.jpg",
+		"photoPos": {
+			"16x9": "center 35%",
+			"4x3": "center 35%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "赫兹",
+		"credit": "Robert Krewaldt, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "そふとまん",
+			"title": "歌うぼっちちゃん",
+			"url": "https://www.pixiv.net/artworks/117668250"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "恒定的电场周围产生磁场",
+				"ok": false,
+				"fix": "变化的电场才产生磁场"
+			},
+			{
+				"q": "赫兹用实验证实了电磁波的存在",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电磁波的传播需要介质",
+				"ok": false,
+				"fix": "电磁波可以在真空中传播"
+			},
+			{
+				"q": "接收电台时使电路产生电谐振的过程叫调制",
+				"ok": false,
+				"fix": "叫调谐；调制在发射端"
+			},
+			{
+				"q": "红外线的热作用强",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "γ 射线的穿透力比 X 射线更强",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"电磁场",
+				true
+			],
+			[
+				"与电磁波"
+			]
+		],
+		"endLine": "变化生场，波长越短频率越高",
+		"slogan": "变化生场，波长越短频率越高"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Robert Krewaldt《Heinrich Hertz》，公有领域；插图来自 pixiv：たけの、さんぱい、FroHA冰封畫戟（侵删）",
+	"anime": [
+		{
+			"key": "morning",
+			"src": "morning.jpg",
+			"credit": "插图：たけの《君に朝が降る》 pixiv #103931478",
+			"url": "https://www.pixiv.net/artworks/103931478"
+		},
+		{
+			"key": "tan",
+			"src": "tan.jpg",
+			"credit": "插图：さんぱい《「バカンスメンダコぼっち」》 pixiv #112571036",
+			"url": "https://www.pixiv.net/artworks/112571036"
+		},
+		{
+			"key": "phone",
+			"src": "phone.jpg",
+			"credit": "插图：FroHA冰封畫戟《【ぼっち・ざ・ろっく】喜多郁代》 pixiv #105336687",
+			"url": "https://www.pixiv.net/artworks/105336687"
+		}
+	]
+}

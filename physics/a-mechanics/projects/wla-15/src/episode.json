@@ -1,0 +1,130 @@
+{
+	"id": "WLA-15",
+	"title": "抛体运动的规律",
+	"subject": "physics",
+	"book": "力学 · 第15期 / 共32期",
+	"points": [
+		"抛体运动",
+		"平抛运动",
+		"平抛的速度",
+		"平抛的位移",
+		"平抛的轨迹",
+		"飞行时间与射程",
+		"速度的变化",
+		"斜抛运动",
+		"斜抛最高点"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"抛体运动",
+				true
+			],
+			[
+				"的规律"
+			]
+		],
+		"subtitle": "平抛 · 速度与位移 · 抛物线 · 斜抛",
+		"photo": "wla15.jpg",
+		"photoCaption": "频闪照片：弹起的篮球每一段都沿抛物线运动",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"抛体运动",
+					true
+				]
+			],
+			[
+				[
+					"的规律"
+				]
+			]
+		],
+		"photo": "wla15.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "抛物线",
+		"credit": "MichaelMaggs, Richard Bartz, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "PECO",
+			"title": "ぼっちバンド結成～",
+			"url": "https://www.pixiv.net/artworks/102548981"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "抛体运动是匀变速曲线运动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "平抛运动的飞行时间由初速度决定",
+				"ok": false,
+				"fix": "只由下落高度决定"
+			},
+			{
+				"q": "平抛运动速度偏角 θ 等于位移偏角 α 的两倍",
+				"ok": false,
+				"fix": "tanθ = 2tanα"
+			},
+			{
+				"q": "平抛运动中任意相等时间内速度变化量相同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "平抛运动的轨迹是抛物线",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "斜抛运动到最高点时速度为零",
+				"ok": false,
+				"fix": "速度为 v0cosθ，方向水平"
+			}
+		],
+		"endTitle": [
+			[
+				"抛体运动",
+				true
+			],
+			[
+				"的规律"
+			]
+		],
+		"endLine": "水平匀速，竖直落体，时间只看高度",
+		"slogan": "水平匀速，竖直落体，时间只看高度"
+	},
+	"credits": "图片来源：Wikimedia Commons —— MichaelMaggs, Edit by Richard Bartz《Bouncing ball strobe edit》，CC BY-SA 3.0；插图来自 pixiv：ポ～ン（出水ぽすか）、雪丸ぬん@絵仕事募集中、RUDA（侵删）",
+	"anime": [
+		{
+			"key": "pancake",
+			"src": "pancake.jpg",
+			"credit": "插图：ポ～ン（出水ぽすか）《ミックスミックス！》 pixiv #140266790",
+			"url": "https://www.pixiv.net/artworks/140266790"
+		},
+		{
+			"key": "ball",
+			"src": "ball.jpg",
+			"credit": "插图：雪丸ぬん@絵仕事募集中《「球技大会で活躍する写真部の先輩」》 pixiv #118875658",
+			"url": "https://www.pixiv.net/artworks/118875658"
+		},
+		{
+			"key": "bat",
+			"src": "bat.jpg",
+			"credit": "插图：RUDA《瞬間》 pixiv #111452404",
+			"url": "https://www.pixiv.net/artworks/111452404"
+		}
+	]
+}
