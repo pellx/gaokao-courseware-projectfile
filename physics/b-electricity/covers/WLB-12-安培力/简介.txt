@@ -1,0 +1,23 @@
+本期考点
+
+一、安培力与左手定则（磁感线穿掌心，四指指电流，拇指指安培力）
+二、安培力的方向特点（F 同时垂直于 B 和 I）
+三、安培力的大小（F = IlB sinθ，垂直最大，平行为 0）
+四、平行通电导线（同向相吸，反向相斥）
+五、磁电式电流表的构造（蹄形磁体、极靴、软铁圆柱、线圈、螺旋弹簧，辐向磁场）
+六、磁电式电流表的原理（偏角随电流增大，灵敏度高，允许电流很弱）
+七、电动机与能量转化（安培力做正功，电能转化为机械能）
+八、概念辨析（安培力与 B 垂直；F = 0 不一定 B = 0）
+
+图片来源
+1.Mister rf《Galvanometer mechanism details》，CC BY-SA 4.0（Wikimedia Commons）
+2.插图：Rebecca《ぼざろまとめ82》
+https://www.pixiv.net/artworks/143805221
+3.插图：Rebecca《ぼざろまとめ71》
+https://www.pixiv.net/artworks/139583503
+4.插图：Rebecca《ぼざろまとめ79》
+https://www.pixiv.net/artworks/141345054
+5.封面插图：Rebecca《ぼざろまとめ80》
+https://www.pixiv.net/artworks/143010175
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

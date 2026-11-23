@@ -1,0 +1,198 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|光电效应。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|从实验规律讲到爱因斯坦光电效应方程和它的实验验证，共九个考点。",
+		"seconds": 7.056
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，光电效应。照射到金属表面的光，能使金属中的电子从表面逸出，这个现象叫光电效应。",
+		"seconds": 10.008
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|逸出的电子叫光电子，光电子定向移动形成的电流叫光电流。",
+		"seconds": 6.168
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|赫兹在研究电磁波时最早注意到这个现象：紫外线照射电极时更容易放电。",
+		"seconds": 7.464
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：光电子就是电子，不是光子，也不是什么新粒子。",
+		"seconds": 5.616
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，研究装置。核心是光电管：阴极K受光照射发射光电子，阳极A收集光电子。",
+		"seconds": 9.48
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|在A、K间加正向电压，A的电势高于K，电场把光电子拉向阳极。",
+		"seconds": 7.032
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|把电源反接就加上反向电压，电场阻碍光电子到达阳极。",
+		"seconds": 6.024
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|用电流表测光电流，用电压表测两极间的电压，研究光电流与电压、光强和频率的关系。",
+		"seconds": 8.664
+	},
+	"b5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：正向电压加速光电子，反向电压减速光电子。",
+		"seconds": 5.544
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，截止频率。入射光的频率低于某个值ν c时，无论光多强，都不能发生光电效应。",
+		"seconds": 9.24
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|这个最小频率叫截止频率，也叫极限频率。",
+		"seconds": 4.488
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|不同金属的截止频率不同，ν c由金属本身决定，与入射光无关。",
+		"seconds": 6.504
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个穿小恐龙睡衣的女孩：使出全身力气，也只喷出一小团火苗。频率太低，光子的能量就不够。",
+		"seconds": 9.576
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能否发生光电效应看频率，不看光强和照射时间。",
+		"seconds": 5.928
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，饱和电流。正向电压增大，光电流随之增大，但增大到一定值后就不再增大，这个电流叫饱和电流。",
+		"seconds": 10.992
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|达到饱和时，单位时间内逸出的光电子全部到达了阳极。",
+		"seconds": 5.544
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|入射光频率一定时，光越强，饱和电流越大，说明单位时间内逸出的光电子越多。",
+		"seconds": 7.776
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：光强决定光电子的数目，即饱和电流的大小。",
+		"seconds": 5.328
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，遏止电压。加反向电压时，光电流逐渐减小；使光电流恰好减小到零的反向电压叫遏止电压U c。",
+		"seconds": 11.136
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|这时速度最大的光电子也刚好到不了阳极，所以e U c等于光电子的最大初动能。",
+		"seconds": 7.704
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|实验发现：同一种金属，遏止电压只与入射光的频率有关，频率越高，U c越大。",
+		"seconds": 8.208
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：遏止电压与光强无关，强光和弱光的光电流在同一个反向电压处减到零。",
+		"seconds": 7.896
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，瞬时性与经典理论的困难。光照到金属上，几乎立即产生光电流，时间不超过10的负9次方秒。",
+		"seconds": 10.296
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|按经典电磁理论，光的能量连续分布，足够强的光照足够久，电子总能逸出，不应存在截止频率。",
+		"seconds": 9.336
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|经典理论还认为光越强，光电子的初动能应越大，与遏止电压与光强无关矛盾。",
+		"seconds": 8.064
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|弱光照射时，电子积累能量需要时间，也解释不了瞬时性。",
+		"seconds": 5.712
+	},
+	"f5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：截止频率、遏止电压与光强无关、瞬时性，经典理论都解释不了。",
+		"seconds": 7.584
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，爱因斯坦光电效应方程。爱因斯坦认为，光由光子组成，一个电子只吸收一个光子的能量h ν。",
+		"seconds": 10.632
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|这份能量一部分用来克服金属的逸出功W零，剩下的成为光电子的最大初动能。",
+		"seconds": 7.704
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|于是E k等于h ν减W零，这就是光电效应方程。",
+		"seconds": 5.616
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|逸出功由金属决定，与截止频率的关系是W零等于h ν c。",
+		"seconds": 6.336
+	},
+	"g4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个张开双手、大喊“给我礼物”的女孩：电子也是这样，一次只收下一个光子这份礼物。",
+		"seconds": 7.8
+	},
+	"g5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：W零是使电子脱离金属所需功的最小值，所以E k是最大初动能。",
+		"seconds": 8.064
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，方程对规律的解释。h ν小于W零时，电子吸收一个光子也不够克服逸出功，不能逸出，这就是截止频率。",
+		"seconds": 11.616
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|由方程，最大初动能随入射光频率增大而增大，与光强无关，遏止电压也就只与频率有关。",
+		"seconds": 9.12
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|光越强，单位时间内入射的光子数越多，逸出的光电子越多，饱和电流越大。",
+		"seconds": 7.272
+	},
+	"h3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个化成一摊的粉色团子：电子被金属“粘”着，一个光子的能量不够逸出功，它就出不来。",
+		"seconds": 8.232
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：频率决定光子能量，管能否逸出和最大初动能；光强决定光子数，管光电子数。",
+		"seconds": 8.928
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，实验验证。由e U c等于h ν减W零得：U c与ν成一次函数关系。",
+		"seconds": 8.856
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|密立根精确测量了不同频率下的遏止电压，U c对ν的图线是一条直线，斜率为h比e。",
+		"seconds": 8.4
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|图线与横轴的交点就是截止频率ν c，由斜率还能算出普朗克常量h。",
+		"seconds": 7.2
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：密立根的实验证实了光电效应方程，并测出了普朗克常量。",
+		"seconds": 6.552
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：光电子就是光子？错，光电子是电子。判断二：频率低于截止频率，增大光强也不能发生光电效应？对。",
+		"seconds": 12.648
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：遏止电压随光强增大而增大？错，只与频率有关。判断四：频率一定，光越强饱和电流越大？对。",
+		"seconds": 12.144
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：光电效应方程是E k等于h ν减W零？对。判断六：逸出功由入射光频率决定？错，由金属决定。",
+		"seconds": 12.408
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|频率管能量，光强管数目。下一期：光的波粒二象性与物质波。",
+		"seconds": 6.936
+	}
+}

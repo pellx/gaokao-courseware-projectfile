@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|热力学第二定律与能源。",
+		"seconds": 2.712
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲宏观过程的方向性、热力学第二定律的两种表述、熵、能量耗散和能源，共九个考点。",
+		"seconds": 9.096
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，宏观过程的方向性。热量会自发地从高温物体传给低温物体，却不会自发地反过来。",
+		"seconds": 9.096
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|摩擦生热：机械能可以全部转化为内能，内能却不能自发地全部变回机械能。",
+		"seconds": 7.632
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|气体会自发地向真空膨胀，两种气体会自发地扩散混合，但都不会自发地恢复原状。",
+		"seconds": 8.328
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：一切与热现象有关的宏观自然过程都具有方向性，是不可逆的。",
+		"seconds": 6.744
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，热力学第二定律的克劳修斯表述：热量不能自发地从低温物体传到高温物体。",
+		"seconds": 8.232
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|它说明了传热的方向性。",
+		"seconds": 2.544
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|电冰箱能把热量从低温的箱内送到高温的外界，是因为压缩机消耗了电能，这不是自发的。",
+		"seconds": 8.376
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩正吃着冰凉的草莓芭菲：甜点放在桌上会自己慢慢变暖，要让它保持冰冷，冰箱就得一直消耗电能往外“搬”热量。",
+		"seconds": 11.472
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：关键词是自发地：有外界帮助，热量可以从低温物体传到高温物体。",
+		"seconds": 7.656
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，开尔文表述：不可能从单一热库吸收热量，使之完全变成功，而不产生其他影响。",
+		"seconds": 8.856
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|热机从高温热库吸热，一部分用来对外做功，另一部分必须向低温热库放出。",
+		"seconds": 7.608
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以热机的效率不可能达到百分之百，即使没有摩擦和漏气也不行。",
+		"seconds": 6.72
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两种表述是等价的，开尔文表述说明了机械能与内能转化的方向性。",
+		"seconds": 7.56
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，第二类永动机：从单一热库吸收热量，全部用来做功，而不引起其他变化的机器。",
+		"seconds": 8.664
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如设想从海水中吸热，把海水的内能全部变成机械能来驱动轮船。",
+		"seconds": 7.128
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|它不违背能量守恒定律，却违背了热力学第二定律，所以也不可能制成。",
+		"seconds": 6.984
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：第一类永动机违背能量守恒定律；第二类永动机违背热力学第二定律。",
+		"seconds": 7.632
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，熵，这是教材拓展内容。熵是描述系统无序程度的物理量。",
+		"seconds": 7.152
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|系统越混乱、越无序，熵就越大；越有序，熵越小。",
+		"seconds": 5.712
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|在孤立系统中，一切自发过程总是朝着熵增加的方向进行，这叫熵增加原理。",
+		"seconds": 7.656
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|短发女孩刚睡醒，头发乱翘：头发会自己变乱，却不会自己梳整齐。自发过程总是朝着更无序的方向进行。",
+		"seconds": 10.656
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：熵增加原理是热力学第二定律的又一种表述，说明自发过程是从有序走向无序。",
+		"seconds": 8.568
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，能量耗散。电灯发光、汽车行驶、人走路，各种形式的能最终都转化为内能，流散到周围环境中。",
+		"seconds": 11.04
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|流散的内能无法再自动聚集起来驱动机器做功，这种现象叫能量耗散。",
+		"seconds": 7.128
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|能量耗散中，能量的总量不变，但可以利用的品质降低了。",
+		"seconds": 5.52
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴帽子的女孩把松果扔进篝火：松果烧完，化学能变成内能散到空气里，再也收不回来了。",
+		"seconds": 8.592
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能量守恒，却仍要节约能源，是因为能量耗散使可利用的能源越来越少。",
+		"seconds": 7.704
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，能源的分类。煤、石油、天然气是由古代生物遗体形成的，叫化石能源。",
+		"seconds": 8.472
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|化石能源短期内无法再生，属于不可再生能源。",
+		"seconds": 4.728
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|水能、风能、太阳能等可以源源不断地得到，属于可再生能源。",
+		"seconds": 6.36
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：区分可再生与不可再生，看能否在自然界中短期内得到补充。",
+		"seconds": 7.248
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，能源的利用方式。水力发电把水的机械能转化为电能。",
+		"seconds": 6.816
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|风力发电利用风推动风车，把风能转化为电能。",
+		"seconds": 4.944
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|太阳能可以用光伏电池直接发电，也可以用集热器转化为内能来利用。",
+		"seconds": 6.648
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：核电站利用核能发电，原理留到原子核部分再讲。",
+		"seconds": 5.688
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，能源与环境。化石能源的大量使用，排放的废气造成大气污染、酸雨等危害。",
+		"seconds": 8.856
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|燃烧放出的大量二氧化碳加剧了温室效应。",
+		"seconds": 4.296
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以要开发新能源、提高能源利用效率，走可持续发展之路。",
+		"seconds": 6.216
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：节约能源、保护环境，是能量耗散和环境问题共同决定的必然选择。",
+		"seconds": 7.488
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：热量不可能从低温物体传到高温物体？错，是不能自发地传。判断二：热机效率能达到百分之百？错。",
+		"seconds": 12.144
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：第二类永动机违背能量守恒？错，违背的是热力学第二定律。判断四：孤立系统的自发过程熵增加？对。",
+		"seconds": 12.408
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：能量耗散说明能量总量减少？错，总量不变，品质降低。判断六：水能、风能、太阳能是可再生能源？对。",
+		"seconds": 13.44
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|自发过程有方向，能量守恒品质降。下一期：相对论时空观与牛顿力学的局限性。",
+		"seconds": 8.4
+	}
+}

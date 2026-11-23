@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|磁场、磁感应强度与磁通量。",
+		"seconds": 3.528
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲磁场和磁感线、安培定则、地磁场，以及磁感应强度和磁通量，共八个考点。",
+		"seconds": 8.4
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，磁现象。磁体有两个磁极：N极和S极。",
+		"seconds": 5.856
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|同名磁极相互排斥，异名磁极相互吸引。",
+		"seconds": 4.416
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|我国古代发明了司南和指南针；北宋沈括在《梦溪笔谈》中记载了磁偏角。",
+		"seconds": 6.96
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|现代应用有电磁铁、磁记录、磁悬浮列车等。",
+		"seconds": 4.992
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同名磁极相斥、异名磁极相吸；最早记载磁偏角的是沈括。",
+		"seconds": 7.056
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电流的磁效应。奥斯特发现：通电导线能使旁边的小磁针偏转。",
+		"seconds": 7.704
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|这说明电流周围存在磁场，第一次揭示了电与磁的联系。",
+		"seconds": 5.688
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|磁体与磁体、磁体与电流、电流与电流之间的相互作用，都是通过磁场发生的。",
+		"seconds": 7.608
+	},
+	"b3b": {
+		"key": "zh-CN-XiaoxiaoNeural|高高挥手喊“我在这儿”的红头发女孩，存在感总被忽略：磁场也看不见、摸不着，但它真实存在。",
+		"seconds": 9.048
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：磁场和电场一样，是客观存在的物质。",
+		"seconds": 4.656
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，磁感线：为了形象地描述磁场而假想的曲线。",
+		"seconds": 5.688
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|曲线上每一点的切线方向就是该点的磁场方向，也就是小磁针N极受力的方向。",
+		"seconds": 7.464
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|磁感线的疏密表示磁场的强弱。",
+		"seconds": 3.408
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|磁感线是闭合曲线：磁体外部从N极到S极，内部从S极到N极。",
+		"seconds": 7.2
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：磁感线是闭合的，电场线不闭合；两者都不相交。",
+		"seconds": 5.952
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，安培定则，也叫右手螺旋定则。",
+		"seconds": 4.32
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|直线电流：磁感线是以导线为中心的同心圆；右手拇指指电流，弯曲的四指指磁感线的环绕方向。",
+		"seconds": 9.528
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|环形电流和通电螺线管：右手四指指电流的环绕方向，拇指指的是内部磁场的方向。",
+		"seconds": 8.352
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个猫耳女孩把手握成了小猫爪：用安培定则时，右手四指就这样弯曲，指向环绕的方向。",
+		"seconds": 8.544
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|通电螺线管外部的磁场像条形磁体，内部近似为匀强磁场。",
+		"seconds": 6.216
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：直线电流拇指指电流，环形电流和螺线管四指指电流，别弄反。",
+		"seconds": 7.512
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，安培分子电流假说：物质微粒内部存在环形电流，使每个微粒成为微小的磁体。",
+		"seconds": 9
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|它说明，磁体的磁场和电流的磁场一样，都是由电荷的运动产生的。",
+		"seconds": 6.456
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|地球是一个大磁体：地磁南极在地理北极附近，地磁北极在地理南极附近。",
+		"seconds": 7.416
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|地磁场的两极与地理两极并不重合，所以存在磁偏角。",
+		"seconds": 5.472
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：指南针的N极指向地理北方，是因为那里是地磁南极。",
+		"seconds": 6.168
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，磁感应强度 B，描述磁场的强弱和方向。",
+		"seconds": 5.184
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|导线与磁场垂直时，B等于F除以I l：F是导线受的力，I是电流，l是导线长度。",
+		"seconds": 8.832
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|这是比值定义，B由磁场本身决定，与I、l和F无关。",
+		"seconds": 5.952
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|B是矢量，方向就是磁场方向，单位特斯拉；几个磁场叠加时按平行四边形定则合成。",
+		"seconds": 8.808
+	},
+	"f5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：B的方向是小磁针N极受力方向，不是导线受力的方向。",
+		"seconds": 6.408
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，匀强磁场：各处磁感应强度大小相等、方向相同。",
+		"seconds": 6.408
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|它的磁感线是间隔相等的平行直线。",
+		"seconds": 3.768
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|距离很近的两个异名磁极之间，以及通电螺线管内部，都可以看作匀强磁场。",
+		"seconds": 6.984
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个女孩朝着同一个方向迈步：匀强磁场里，各处的磁场方向都相同，强弱也处处一样。",
+		"seconds": 8.496
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：匀强磁场的B处处大小相等、方向相同。",
+		"seconds": 5.256
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，磁通量。匀强磁场中，平面与磁场垂直时，Φ等于B S。",
+		"seconds": 7.32
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|平面与磁场不垂直时，S取它在垂直于磁场方向上的投影面积。",
+		"seconds": 6.408
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|磁通量是标量，单位韦伯，1韦伯等于1特斯拉平方米。",
+		"seconds": 5.664
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|由B等于Φ除以S，磁感应强度又叫磁通密度。",
+		"seconds": 5.064
+	},
+	"h5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：平面与磁场平行时，磁通量为零，但B不为零。",
+		"seconds": 5.76
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：磁感线从N极出发，终止于S极？错，磁感线是闭合曲线。判断二：奥斯特发现了电流的磁效应？对。",
+		"seconds": 12.48
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：直线电流用安培定则，四指指电流？错，拇指指电流。判断四：地磁南极在地理北极附近？对。",
+		"seconds": 12.168
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：B等于F除以I l，说明B与F成正比？错，B由磁场本身决定。判断六：磁通量是标量，单位韦伯？对。",
+		"seconds": 13.176
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|磁感线闭合，B由磁场定，Φ看垂直面积。下一期：安培力。",
+		"seconds": 6.864
+	}
+}

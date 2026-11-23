@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|牛顿运动定律的应用与超重、失重。",
+		"seconds": 3.864
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲力和运动的联系、两类基本问题，以及超重、失重和完全失重，共八个考点。",
+		"seconds": 8.304
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，力和运动的联系。牛顿第二定律把物体的受力和加速度联系起来；",
+		"seconds": 7.416
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|运动学公式把加速度和速度、位移、时间联系起来。",
+		"seconds": 5.208
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以加速度是联系受力情况和运动情况的桥梁。",
+		"seconds": 4.968
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：受力和运动之间，必须经过加速度这座桥。",
+		"seconds": 4.992
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，两类基本问题。第一类：已知物体的受力情况，确定它的运动情况。",
+		"seconds": 7.656
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二类：已知物体的运动情况，确定它的受力情况。",
+		"seconds": 4.944
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|两类问题都要同时用到牛顿第二定律和运动学规律，求出加速度是关键。",
+		"seconds": 7.152
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两类问题方向相反，但都经过加速度。",
+		"seconds": 4.656
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，实重与视重。物体实际受到的重力叫实重，G等于mg。",
+		"seconds": 6.936
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|物体对支持物的压力，或对悬挂物的拉力，也就是测力计、台秤的示数，叫视重。",
+		"seconds": 7.776
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|物体静止或匀速运动时，视重等于实重；有竖直方向的加速度时，视重就不等于实重。",
+		"seconds": 8.4
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|站在体重秤上、想让身体悄悄浮起来的女孩：秤的示数是视重，示数变小了，她受的重力可一点没变。",
+		"seconds": 9.768
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：超重、失重时，物体的重力并没有变化，变的只是视重。",
+		"seconds": 6.432
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，超重：物体对支持物的压力或对悬挂物的拉力大于物体所受重力的现象。",
+		"seconds": 8.112
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|由F减m g等于m a，得F等于m乘g加a，大于m g，加速度方向向上。",
+		"seconds": 7.824
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|对应两种运动：加速上升或减速下降。",
+		"seconds": 4.296
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|在沙发上蹦跳的三个小白人：落下去把坐垫压深、再被弹起来的过程中，加速度向上，对坐垫的压力大于重力，这就是超重。",
+		"seconds": 11.496
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：超重，等价于加速度向上。",
+		"seconds": 3.792
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，失重：物体对支持物的压力或对悬挂物的拉力小于物体所受重力的现象。",
+		"seconds": 8.088
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|由m g减F等于m a，得F等于m乘g减a，小于m g，加速度方向向下。",
+		"seconds": 7.752
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|对应两种运动：加速下降或减速上升。",
+		"seconds": 4.32
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：失重，等价于加速度向下。",
+		"seconds": 3.792
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，完全失重。物体向下的加速度等于g时，F等于m乘g减g，等于零，对支持物完全没有压力。",
+		"seconds": 10.752
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|自由落体、抛体运动中的物体，以及绕地球运行的航天器中的物体，都处于完全失重状态。",
+		"seconds": 8.256
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|这时与重力有关的现象全部消失：天平失效，液体不产生压强，水滴呈球形。",
+		"seconds": 8.064
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|在蹦床上弹到半空的猫耳小女孩：离开蹦床后只受重力，加速度等于g，处于完全失重，但重力依然存在。",
+		"seconds": 10.392
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：完全失重不是不受重力，航天员受的重力正好提供绕地球运动所需的向心力。",
+		"seconds": 8.352
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，生活中的超重和失重。人站在力传感器上下蹲：先向下加速，再向下减速，",
+		"seconds": 9.12
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以示数先变小后变大，先失重后超重。",
+		"seconds": 4.488
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|站起时先向上加速再向上减速，示数先变大后变小，先超重后失重。",
+		"seconds": 7.416
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电梯起动和制动时也一样，看加速度方向判断超重还是失重。",
+		"seconds": 7.008
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。超重还是失重，只由加速度的方向决定，",
+		"seconds": 6.36
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|与速度的方向无关：加速上升和减速下降都是超重。",
+		"seconds": 5.544
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|物体有向上的加速度分量就超重，有向下的加速度分量就失重。",
+		"seconds": 6
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：不能说“向上运动就是超重”“向下运动就是失重”。",
+		"seconds": 5.352
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：加速度是桥梁？对。判断二：超重时重力变大？错，重力不变。",
+		"seconds": 8.832
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：减速下降是超重？对。判断四：向上运动一定超重？错，只看加速度方向。",
+		"seconds": 9.984
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：航天器里的物体不受重力？错，是完全失重。判断六：下蹲先失重后超重？对。",
+		"seconds": 10.368
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|加速度向上超重，向下失重，重力不变。下一期：曲线运动与运动的合成与分解。",
+		"seconds": 8.544
+	}
+}

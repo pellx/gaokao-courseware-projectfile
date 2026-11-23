@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|热力学第一定律与能量守恒定律。",
+		"seconds": 3.552
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲焦耳的实验、做功和传热与内能的关系、热力学第一定律和能量守恒定律，共九个考点。",
+		"seconds": 9.192
+	},
+	"j1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，焦耳的实验。焦耳让重物下落带动叶片搅拌容器里的水，也用电流通过电阻丝给水加热，再测量水温的升高。",
+		"seconds": 11.544
+	},
+	"j2": {
+		"key": "zh-CN-XiaoxiaoNeural|容器用隔热材料包住，系统不从外界吸热，也不向外界放热，这样的过程叫绝热过程。",
+		"seconds": 8.712
+	},
+	"j3": {
+		"key": "zh-CN-XiaoxiaoNeural|实验发现：绝热过程中，系统从同一初态变到同一末态，不论用机械功还是电功，做功的多少都相同。",
+		"seconds": 10.08
+	},
+	"j4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：绝热过程中，外界做功的多少只由系统的始末状态决定，与做功的方式无关。",
+		"seconds": 8.184
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，功与内能。既然做功多少只由始末状态决定，就可以引入一个只由系统状态决定的物理量，这就是内能。",
+		"seconds": 10.848
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|绝热过程中，系统内能的增加量等于外界对系统做的功：德尔塔U等于W。",
+		"seconds": 7.92
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|外界对系统做功，内能增加；系统对外界做功，内能减少。",
+		"seconds": 6.264
+	},
+	"w3b": {
+		"key": "zh-CN-XiaoxiaoNeural|扎马尾的女孩从背后揉着粉发女孩的脸蛋：来回揉搓是在做功，脸蛋的内能增加，就被揉得热乎乎的。",
+		"seconds": 9.384
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：绝热过程中，功是内能变化的量度。",
+		"seconds": 4.512
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，热与内能。温度不同的两个物体接触，内能从高温物体传到低温物体，这个过程叫传热。",
+		"seconds": 9.744
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|传热过程中传递的内能的多少叫热量。单纯传热时，系统内能的增加量等于从外界吸收的热量：德尔塔U等于Q。",
+		"seconds": 11.256
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|系统吸热，内能增加；系统放热，内能减少。",
+		"seconds": 4.968
+	},
+	"h3b": {
+		"key": "zh-CN-XiaoxiaoNeural|披着红斗篷的女孩双手捧着冒热气的杯子：热量从热饮传给手心，这是传热，不是做功。",
+		"seconds": 8.592
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：热量是传热过程中的过程量，不能说物体“含有”多少热量。",
+		"seconds": 6.432
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，做功和传热。二者都能改变物体的内能，在改变内能上效果是等价的。",
+		"seconds": 8.232
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|但本质不同：做功是其他形式的能与内能之间的转化，比如摩擦生热、压缩气体使它升温。",
+		"seconds": 8.976
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|传热是内能在物体之间的转移，能量的形式不变，比如用热水袋取暖。",
+		"seconds": 6.816
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：只知道内能变了，无法判断是做功还是传热引起的。",
+		"seconds": 5.928
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，热力学第一定律。一般情况下，做功和传热往往同时存在。",
+		"seconds": 7.2
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|一个热力学系统的内能增量，等于外界向它传递的热量与外界对它所做的功的和：德尔塔U等于Q加W。",
+		"seconds": 10.032
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|热力学第一定律把做功和传热统一起来，是能量守恒定律在热现象中的具体表现。",
+		"seconds": 7.848
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：只做功时德尔塔U等于W，只传热时德尔塔U等于Q，都是它的特例。",
+		"seconds": 8.232
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，符号约定。外界对系统做功，W大于零；系统对外界做功，W小于零。",
+		"seconds": 9.168
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|系统从外界吸热，Q大于零；系统向外界放热，Q小于零。",
+		"seconds": 6.576
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|内能增加，德尔塔U大于零；内能减少，德尔塔U小于零。",
+		"seconds": 6.168
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|对气体来说：体积减小，外界对气体做功；体积增大，气体对外界做功；体积不变，W等于零。",
+		"seconds": 10.032
+	},
+	"s5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：一定质量的理想气体，内能只由温度决定，温度不变时德尔塔U等于零。",
+		"seconds": 7.536
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，能量守恒定律。能量既不会凭空产生，也不会凭空消失。",
+		"seconds": 6.84
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|它只能从一种形式转化为其他形式，或者从一个物体转移到别的物体。",
+		"seconds": 6.6
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|在转化或转移的过程中，能量的总量保持不变。机械能、内能、电能、化学能、光能、核能等都可以相互转化。",
+		"seconds": 11.208
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：机械能守恒定律、热力学第一定律，都是能量守恒定律在特定范围内的表现。",
+		"seconds": 8.208
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，能量守恒定律的发现。十九世纪，人们逐渐认识到摩擦生热、电流的热效应、电磁感应、化学反应放热等现象之间的联系。",
+		"seconds": 13.056
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|迈尔从生理学等角度提出了能量守恒的思想；焦耳用大量实验测定了热与功之间的数量关系。",
+		"seconds": 8.4
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|亥姆霍兹从理论上把能量守恒推广到力学、热学、电磁学等各个领域。",
+		"seconds": 7.224
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：能量守恒定律是许多人长期探索的成果，是自然界最普遍、最重要的规律之一。",
+		"seconds": 8.4
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，第一类永动机。历史上有人设想一种不消耗能量，却能源源不断对外做功的机器。",
+		"seconds": 8.808
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|这种机器叫第一类永动机，各种设计无一成功。",
+		"seconds": 4.656
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|原因是对外做功必须消耗等量的其他能量，凭空做功违背了能量守恒定律。",
+		"seconds": 7.488
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这只粉发小猫，把两杯泡面都吃光了：要不停地活动，就得不断补充能量，世上没有不吃饭就能一直干活的机器。",
+		"seconds": 10.464
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：第一类永动机不可能制成，不是技术不够，而是违背了能量守恒定律。",
+		"seconds": 7.296
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：绝热过程做功多少与方式有关？错，只由始末状态决定。判断二：热量是物体含有的内能？错，热量是过程量。",
+		"seconds": 12.936
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：做功和传热改变内能效果等价？对。判断四：外界对气体做功，内能一定增加？错，气体还可能放热。",
+		"seconds": 12.48
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：理想气体等温膨胀要从外界吸热？对，内能不变，对外做功就要吸热。判断六：第一类永动机违背能量守恒？对。",
+		"seconds": 13.296
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|德尔塔U等于Q加W，能量总量不变。下一期：热力学第二定律与能源。",
+		"seconds": 7.944
+	}
+}

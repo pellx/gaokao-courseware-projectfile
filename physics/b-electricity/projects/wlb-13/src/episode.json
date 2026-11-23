@@ -1,0 +1,117 @@
+{
+	"id": "WLB-13",
+	"title": "洛伦兹力",
+	"subject": "physics",
+	"book": "电学基础 · 第13期 / 共22期",
+	"points": [
+		"洛伦兹力",
+		"洛伦兹力的方向",
+		"洛伦兹力的大小",
+		"洛伦兹力不做功",
+		"与静电力的比较",
+		"电子束的磁偏转",
+		"概念辨析"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"洛伦兹力",
+				true
+			]
+		],
+		"subtitle": "左手定则 · F = qvB · 不做功 · 与静电力比较 · 显像管",
+		"photo": "yoke.jpg",
+		"photoCaption": "显像管和套在管颈上的偏转线圈：线圈的磁场使电子束偏转",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"洛伦兹力",
+					true
+				]
+			]
+		],
+		"photo": "yoke.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "偏转线圈",
+		"credit": "Mister rf, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Rebecca",
+			"title": "ぼざろまとめ77",
+			"url": "https://www.pixiv.net/artworks/140161637"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "安培力是洛伦兹力的宏观表现",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "负电荷用左手定则时，四指指向它的运动方向",
+				"ok": false,
+				"fix": "指向运动的反方向"
+			},
+			{
+				"q": "v 与 B 平行时，洛伦兹力为 qvB",
+				"ok": false,
+				"fix": "平行时为 0"
+			},
+			{
+				"q": "洛伦兹力不改变粒子的动能",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "静止电荷在磁场中受洛伦兹力",
+				"ok": false,
+				"fix": "静止电荷不受洛伦兹力"
+			},
+			{
+				"q": "显像管利用洛伦兹力使电子束偏转",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"洛伦兹力",
+				true
+			]
+		],
+		"endLine": "洛伦兹力垂直速度，只改方向不做功",
+		"slogan": "洛伦兹力垂直速度，只改方向不做功"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Mister rf《31ЛК3Б deflection yoke side view》，CC BY-SA 4.0；插图来自 pixiv：Rebecca（侵删）",
+	"anime": [
+		{
+			"key": "trail",
+			"src": "trail.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ75》 pixiv #139911845",
+			"url": "https://www.pixiv.net/artworks/139911845"
+		},
+		{
+			"key": "pile",
+			"src": "pile.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ73》 pixiv #139659435",
+			"url": "https://www.pixiv.net/artworks/139659435"
+		},
+		{
+			"key": "pair",
+			"src": "pair.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ78》 pixiv #140494109",
+			"url": "https://www.pixiv.net/artworks/140494109"
+		}
+	]
+}

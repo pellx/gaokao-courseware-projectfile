@@ -1,0 +1,132 @@
+{
+	"id": "WLA-12",
+	"title": "牛顿第二定律与力学单位制",
+	"subject": "physics",
+	"book": "力学 · 第12期 / 共32期",
+	"points": [
+		"牛顿第二定律",
+		"表达式 F=ma",
+		"矢量性",
+		"瞬时性",
+		"定义式与决定式",
+		"单位制",
+		"国际单位制",
+		"单位制的作用"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"牛顿第二定律",
+				true
+			],
+			[
+				"与力学单位制"
+			]
+		],
+		"subtitle": "F = ma · 矢量性 · 瞬时性 · 国际单位制",
+		"photo": "kilogram.jpg",
+		"photoCaption": "千克原器的复制品，放在双层玻璃钟罩里保存。千克是力学中的基本单位之一",
+		"photoPos": "50% 45%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"牛顿",
+					true
+				],
+				[
+					"第二定律"
+				]
+			],
+			[
+				[
+					"与力学单位制"
+				]
+			]
+		],
+		"photo": "kilogram.jpg",
+		"photoPos": {
+			"16x9": "50% 40%",
+			"4x3": "50% 40%",
+			"3x4": "50% 45%"
+		},
+		"photoTag": "千克原器",
+		"credit": "NIST, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "\bHiRO",
+			"title": "In the box",
+			"url": "https://www.pixiv.net/artworks/139196458"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "F = ma 中的 F 是物体所受的合力",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "加速度的方向总与速度方向相同",
+				"ok": false,
+				"fix": "加速度方向与合力方向相同"
+			},
+			{
+				"q": "合力突然消失时，加速度立即为零",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "由 m = F/a 可知质量与合力成正比",
+				"ok": false,
+				"fix": "质量是物体本身的属性"
+			},
+			{
+				"q": "牛顿是国际单位制中的基本单位",
+				"ok": false,
+				"fix": "N 是导出单位"
+			},
+			{
+				"q": "力学中国际单位制的基本单位是 m、kg、s",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"牛顿第二定律",
+				true
+			],
+			[
+				"与力学单位制"
+			]
+		],
+		"endLine": "合力定加速，同向同时变",
+		"slogan": "合力定加速，同向同时变"
+	},
+	"credits": "图片来源：Wikimedia Commons —— National Institute of Standards and Technology《MassStandards 024》（Bell jar display of prototype kilogram replica），公有领域；插图来自 pixiv：みよし　すす、くぅもんせ、のんのん（侵删）",
+	"anime": [
+		{
+			"key": "push",
+			"src": "push.jpg",
+			"credit": "插图：みよし　すす《たんプリ#1 「近くの靴屋さんまでお連れしますね！」》 pixiv #141043051",
+			"url": "https://www.pixiv.net/artworks/141043051"
+		},
+		{
+			"key": "cart",
+			"src": "cart.jpg",
+			"credit": "插图：くぅもんせ《ｺﾞﾛｺﾞﾛ》 pixiv #143560252",
+			"url": "https://www.pixiv.net/artworks/143560252"
+		},
+		{
+			"key": "three",
+			"src": "three.jpg",
+			"credit": "插图：のんのん《見守る3人》 pixiv #83338255",
+			"url": "https://www.pixiv.net/artworks/83338255"
+		}
+	]
+}

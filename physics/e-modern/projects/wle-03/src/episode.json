@@ -1,0 +1,119 @@
+{
+	"id": "WLE-03",
+	"title": "光电效应",
+	"subject": "physics",
+	"book": "近代物理 · 第3期 / 共9期",
+	"points": [
+		"光电效应",
+		"研究装置",
+		"截止频率",
+		"饱和电流",
+		"遏止电压",
+		"瞬时性与经典困难",
+		"光电效应方程",
+		"方程对规律的解释",
+		"密立根的实验验证"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"光电效应",
+				true
+			]
+		],
+		"subtitle": "截止频率 · 饱和电流 · 遏止电压 · 光电效应方程",
+		"photo": "millikan-plot.jpg",
+		"photoCaption": "密立根测得的遏止电压与入射光频率的关系：一条直线",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"光电效应",
+					true
+				]
+			]
+		],
+		"photo": "millikan-plot.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "55% center",
+			"3x4": "60% center"
+		},
+		"photoTag": "密立根",
+		"credit": "Robert Millikan, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ほたるる",
+			"title": "喜多ちゃん",
+			"url": "https://www.pixiv.net/artworks/116651600"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "光电子就是光子",
+				"ok": false,
+				"fix": "光电子是从金属逸出的电子"
+			},
+			{
+				"q": "入射光频率低于截止频率时，增大光强也不能发生光电效应",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "遏止电压随入射光强度增大而增大",
+				"ok": false,
+				"fix": "遏止电压只与入射光频率有关"
+			},
+			{
+				"q": "频率一定时，光越强，饱和电流越大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光电效应方程是 E_k = hν − W_0",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "逸出功由入射光的频率决定",
+				"ok": false,
+				"fix": "逸出功由金属决定"
+			}
+		],
+		"endTitle": [
+			[
+				"光电效应",
+				true
+			]
+		],
+		"endLine": "频率管能量，光强管数目",
+		"slogan": "频率管能量，光强管数目"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Robert Millikan《Millikan photoelectric experiment》（Physical Review 1916），公有领域；插图来自 pixiv：はるゐろは、ほたるる、つかさ（侵删）",
+	"anime": [
+		{
+			"key": "fire",
+			"src": "fire.jpg",
+			"credit": "插图：はるゐろは《生まれたての承認欲求モンスター》 pixiv #105703215",
+			"url": "https://www.pixiv.net/artworks/105703215"
+		},
+		{
+			"key": "gift",
+			"src": "gift.jpg",
+			"credit": "插图：ほたるる《クリスマスぼっち》 pixiv #103808560",
+			"url": "https://www.pixiv.net/artworks/103808560"
+		},
+		{
+			"key": "blob",
+			"src": "blob.jpg",
+			"credit": "插图：つかさ《メンダコのぼっち》 pixiv #106370841",
+			"url": "https://www.pixiv.net/artworks/106370841"
+		}
+	]
+}

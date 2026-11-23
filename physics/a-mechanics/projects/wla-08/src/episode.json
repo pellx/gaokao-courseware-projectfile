@@ -1,0 +1,129 @@
+{
+	"id": "WLA-08",
+	"title": "牛顿第三定律与受力分析",
+	"subject": "physics",
+	"book": "力学 · 第8期 / 共32期",
+	"points": [
+		"作用力和反作用力",
+		"牛顿第三定律",
+		"实验依据",
+		"相互作用力的特点",
+		"普遍性",
+		"相互作用力与平衡力",
+		"受力分析的顺序",
+		"受力分析的原则"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"牛顿第三定律",
+				true
+			],
+			[
+				"与受力分析"
+			]
+		],
+		"subtitle": "等大 · 反向 · 共线 · 异体 · 受力分析",
+		"photo": "principia.jpg",
+		"photoCaption": "牛顿《自然哲学的数学原理》（1687）“公理或运动定律”：右页 Lex. III 即第三定律，作用总有一个与之相等而相反的反作用",
+		"photoPos": "75% 35%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"牛顿第三定律",
+					true
+				]
+			],
+			[
+				[
+					"与受力分析"
+				]
+			]
+		],
+		"photo": "principia.jpg",
+		"photoPos": {
+			"16x9": "75% 30%",
+			"4x3": "75% 30%",
+			"3x4": "78% 35%"
+		},
+		"photoTag": "牛顿",
+		"credit": "Isaac Newton, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "マウンテンプクイチ",
+			"title": "梓と憂。",
+			"url": "https://www.pixiv.net/artworks/12813566"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "先有作用力，后有反作用力",
+				"ok": false,
+				"fix": "同时产生、同时消失"
+			},
+			{
+				"q": "作用力和反作用力的性质一定相同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "作用力和反作用力等大反向，效果可以相互抵消",
+				"ok": false,
+				"fix": "作用在两个物体上，不能抵消"
+			},
+			{
+				"q": "物体加速运动时，牛顿第三定律仍然成立",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "书受的重力和桌面对书的支持力是一对相互作用力",
+				"ok": false,
+				"fix": "是一对平衡力"
+			},
+			{
+				"q": "受力分析时，每个力都应能找到施力物体",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"牛顿第三定律",
+				true
+			],
+			[
+				"与受力分析"
+			]
+		],
+		"endLine": "等大反向共线，分在两个物体",
+		"slogan": "等大反向共线，分在两个物体"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Isaac Newton《Philosophiae Naturalis Principia Mathematica》（1687）“Axiomata sive leges motus”书页，美国国会图书馆藏（Commons：Axiomata sive leges motus LCCN92516450.jpg），公有领域；插图来自 pixiv：でんじゆうどう、トビー、飃落的樱花瓣（侵删）",
+	"anime": [
+		{
+			"key": "cheek",
+			"src": "cheek.jpg",
+			"credit": "插图：でんじゆうどう《ほっぺすりすり！！》 pixiv #98193734",
+			"url": "https://www.pixiv.net/artworks/98193734"
+		},
+		{
+			"key": "arm",
+			"src": "arm.jpg",
+			"credit": "插图：トビー《腕相撲する妹①》 pixiv #133609266",
+			"url": "https://www.pixiv.net/artworks/133609266"
+		},
+		{
+			"key": "shoulder",
+			"src": "shoulder.jpg",
+			"credit": "插图：飃落的樱花瓣《出発しよう》 pixiv #143959476",
+			"url": "https://www.pixiv.net/artworks/143959476"
+		}
+	]
+}

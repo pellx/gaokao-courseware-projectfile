@@ -1,0 +1,117 @@
+{
+	"id": "WLA-07",
+	"title": "摩擦力",
+	"subject": "physics",
+	"book": "力学 · 第7期 / 共32期",
+	"points": [
+		"摩擦力",
+		"产生条件",
+		"滑动摩擦力的方向",
+		"滑动摩擦力的大小",
+		"静摩擦力",
+		"静摩擦力的大小",
+		"摩擦力阻碍相对运动"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"摩擦力",
+				true
+			]
+		],
+		"subtitle": "产生条件 · 方向 · F_f = μF_N · 静摩擦力 · 最大静摩擦力",
+		"photo": "coulomb.jpg",
+		"photoCaption": "库仑《简单机械理论》第一章：克服摩擦所需的最初的力。他区分了使物体开始滑动所需的力和维持匀速滑动所需的力",
+		"photoPos": "50% 35%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"摩擦力",
+					true
+				]
+			]
+		],
+		"photo": "coulomb.jpg",
+		"photoPos": {
+			"16x9": "50% 30%",
+			"4x3": "50% 30%",
+			"3x4": "50% 35%"
+		},
+		"photoTag": "库仑",
+		"credit": "C. A. Coulomb, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "TTI",
+			"title": "『きのこたけのこ大合戦』",
+			"url": "https://www.pixiv.net/artworks/113693938"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "两物体间有弹力，就一定有摩擦力",
+				"ok": false,
+				"fix": "还要粗糙且有相对运动或趋势"
+			},
+			{
+				"q": "滑动摩擦力的方向与物体相对运动的方向相反",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "公式 F_f = μF_N 中，F_N 一定等于物体的重力",
+				"ok": false,
+				"fix": "F_N 是压力，不一定等于重力"
+			},
+			{
+				"q": "动摩擦因数 μ 没有单位",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "静摩擦力的大小可以用 μF_N 计算",
+				"ok": false,
+				"fix": "静摩擦力随外力变化"
+			},
+			{
+				"q": "摩擦力可以是动力",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"摩擦力",
+				true
+			]
+		],
+		"endLine": "摩擦只管相对动，静摩擦随外力变",
+		"slogan": "摩擦只管相对动"
+	},
+	"credits": "图片来源：Wikimedia Commons —— C. A. Coulomb《Théorie des machines simples》（1821 年版）第一章书页，Niels Bohr Library & Archives 藏本（Commons：Coulomb-3.jpg），公有领域；插图来自 pixiv：六合ダイスケ、蒼乃ユウ、SuperPig（侵删）",
+	"anime": [
+		{
+			"key": "slide",
+			"src": "slide.jpg",
+			"credit": "插图：六合ダイスケ《ミケちゃんまっしぐら》 pixiv #103595353",
+			"url": "https://www.pixiv.net/artworks/103595353"
+		},
+		{
+			"key": "guitar",
+			"src": "guitar.jpg",
+			"credit": "插图：蒼乃ユウ《さわちゃん(高校生ver)》 pixiv #70572221",
+			"url": "https://www.pixiv.net/artworks/70572221"
+		},
+		{
+			"key": "run",
+			"src": "run.jpg",
+			"credit": "插图：SuperPig《遅刻！》 pixiv #88648101",
+			"url": "https://www.pixiv.net/artworks/88648101"
+		}
+	]
+}

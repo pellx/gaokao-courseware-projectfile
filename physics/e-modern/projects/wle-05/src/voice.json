@@ -1,0 +1,210 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|原子的核式结构模型。",
+		"seconds": 2.472
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|从电子的发现讲到阿尔法粒子散射实验和卢瑟福的核式结构模型，共九个考点。",
+		"seconds": 7.608
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，阴极射线与电子的发现。真空玻璃管两极加高电压，阴极会发出一种射线，叫阴极射线。",
+		"seconds": 9.816
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|汤姆孙让阴极射线通过电场和磁场，根据它的偏转方向，断定它是带负电的粒子流。",
+		"seconds": 8.064
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|他还测出了这种粒子的比荷，并发现用不同材料的阴极，比荷都相同。",
+		"seconds": 6.624
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|后来组成阴极射线的粒子被称为电子。",
+		"seconds": 3.984
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：阴极射线是带负电的电子流，不是电磁波。",
+		"seconds": 5.112
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，电子发现的意义。不同物质都能发射电子，说明电子是原子的组成部分。",
+		"seconds": 8.28
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|过去人们认为原子是组成物质的最小微粒，不可再分。",
+		"seconds": 5.448
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|电子的发现说明原子是可以再分的，原子内部有复杂的结构。",
+		"seconds": 5.88
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电子的发现，打开了原子内部结构研究的大门。",
+		"seconds": 5.52
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，电子电荷量的测定。密立根用油滴实验精确测出了电子的电荷量。",
+		"seconds": 7.32
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子电荷量e等于1.6乘10的负19次方库仑，叫元电荷。",
+		"seconds": 5.88
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|实验还发现，带电体的电荷量都是e的整数倍，也就是说电荷是量子化的。",
+		"seconds": 7.296
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|由比荷和电荷量，还可以算出电子的质量，约为氢原子质量的一千八百三十六分之一。",
+		"seconds": 8.016
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电荷是量子化的，带电体电荷量都是e的整数倍。",
+		"seconds": 5.808
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，汤姆孙的原子模型。原子整体是电中性的，既然有带负电的电子，就一定有正电荷。",
+		"seconds": 9.12
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|汤姆孙认为：原子是一个球体，正电荷均匀分布在整个球内。",
+		"seconds": 6.144
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|电子镶嵌在球中，像枣糕里的枣子，所以又叫“枣糕模型”。",
+		"seconds": 5.52
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个猫耳女孩和她面前的草莓蛋糕：奶油蛋糕像均匀分布的正电荷，草莓就像镶嵌在里面的电子。",
+		"seconds": 9.144
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：汤姆孙模型中，正电荷均匀分布在整个原子内。",
+		"seconds": 5.568
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，阿尔法粒子散射实验。卢瑟福和助手用阿尔法粒子轰击很薄的金箔，用荧光屏观察穿过后的偏转情况。",
+		"seconds": 11.232
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|结果：绝大多数阿尔法粒子穿过金箔后，基本上仍沿原来的方向前进。",
+		"seconds": 6.984
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|少数阿尔法粒子发生了大角度偏转。",
+		"seconds": 3.792
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|极少数偏转角超过了90度，有的甚至几乎被撞了回来。",
+		"seconds": 5.448
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：绝大多数不偏，少数大角度偏转，极少数超过90度。",
+		"seconds": 6.408
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，卢瑟福的核式结构模型。1911年，卢瑟福提出：原子中心有一个很小的核，叫原子核。",
+		"seconds": 10.224
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|原子的全部正电荷和几乎全部质量都集中在原子核里。",
+		"seconds": 5.4
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|带负电的电子在核外空间绕核运动。",
+		"seconds": 3.792
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个蜷成一团、缩在大圆中心的女孩：原子核就这样小小一团待在中心，周围是大片空间。",
+		"seconds": 8.856
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：原子核集中了几乎全部质量，但只占原子极小的体积。",
+		"seconds": 6.216
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，对实验现象的解释。原子核很小，原子内部绝大部分是空的。",
+		"seconds": 7.272
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以绝大多数阿尔法粒子穿过时离核很远，受力很小，基本不偏转。",
+		"seconds": 7.008
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|只有极少数阿尔法粒子离核很近，受到很强的库仑斥力，才发生大角度偏转。",
+		"seconds": 7.368
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|电子质量很小，对阿尔法粒子运动的影响可以忽略。",
+		"seconds": 4.848
+	},
+	"g5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：大角度偏转是阿尔法粒子受原子核的库仑斥力，不是与电子碰撞。",
+		"seconds": 7.2
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，原子核的电荷与尺度。原子核的电荷数等于核内的质子数，也等于原子序数。",
+		"seconds": 8.496
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|原子呈电中性，核外电子数等于核电荷数。",
+		"seconds": 4.752
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|原子半径的数量级是10的负10次方米，原子核半径的数量级是10的负15次方米。",
+		"seconds": 8.064
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|两者相差约十万倍，原子核比原子小得多。",
+		"seconds": 4.464
+	},
+	"h5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：核电荷数等于原子序数；原子10的负10次方米，原子核10的负15次方米。",
+		"seconds": 8.088
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，核式结构模型的困难。按经典电磁理论，绕核运动的电子有加速度，要不断辐射电磁波。",
+		"seconds": 9.696
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子能量减少，轨道半径越来越小，最后会落到原子核上，原子将不稳定。",
+		"seconds": 7.32
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|电子绕核转动的频率连续变化，辐射的光谱应是连续谱。",
+		"seconds": 5.664
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|而事实上原子是稳定的，原子光谱是分立的线状谱。",
+		"seconds": 5.328
+	},
+	"i4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个缩在纸箱里瑟瑟发抖的女孩：按经典理论，原子也该这样抖个不停、随时垮掉，可实际上原子很稳定。",
+		"seconds": 10.536
+	},
+	"i5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：核式结构模型与经典理论结合，解释不了原子的稳定性和线状谱。",
+		"seconds": 7.536
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：阴极射线是电磁波？错，是电子流。判断二：带电体的电荷量都是元电荷的整数倍？对。",
+		"seconds": 10.848
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：汤姆孙模型中正电荷集中在核里？错，均匀分布。判断四：绝大多数阿尔法粒子发生大角度偏转？错，基本不偏。",
+		"seconds": 13.68
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：全部正电荷和几乎全部质量集中在原子核里？对。判断六：原子核半径的数量级是10的负15次方米？对。",
+		"seconds": 12.936
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|核小质量大，原子大半空。下一期：氢原子光谱与玻尔模型。",
+		"seconds": 6.84
+	}
+}

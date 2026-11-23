@@ -1,0 +1,178 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|牛顿第三定律与受力分析。",
+		"seconds": 3.048
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲作用力和反作用力、牛顿第三定律的内容和特点、它与平衡力的区别，以及受力分析的顺序和原则，共八个考点。",
+		"seconds": 11.112
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，力的作用是相互的：一个物体对另一个物体施力，另一个物体也一定同时对它施力。",
+		"seconds": 8.664
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个物体之间的这一对力，叫作用力和反作用力。",
+		"seconds": 4.8
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|把其中任何一个叫作用力，另一个就是反作用力。",
+		"seconds": 4.488
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|比如手推墙，手对墙有推力，墙对手也有推力；人走路时脚向后蹬地，地面向前推脚。",
+		"seconds": 8.928
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：作用力和反作用力总是成对出现，施力物体同时也是受力物体。",
+		"seconds": 7.224
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，牛顿第三定律：两个物体之间的作用力和反作用力总是大小相等、方向相反，",
+		"seconds": 8.4
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|作用在同一条直线上。",
+		"seconds": 2.616
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|可以写成F等于负F撇，负号表示两个力方向相反。",
+		"seconds": 5.616
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：等大、反向、共线，而且分别作用在两个物体上。",
+		"seconds": 5.808
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，实验依据：把两个弹簧测力计的挂钩钩在一起，向相反方向拉。",
+		"seconds": 6.984
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|两个测力计的示数总是相等；拉力增大或减小，两个示数同时变化。",
+		"seconds": 6.768
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|用两个力传感器对拉，在计算机屏幕上看到两个力随时间变化的图线对称：大小时刻相等，方向相反。",
+		"seconds": 9.816
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：作用力和反作用力时刻大小相等，不是只在静止时才相等。",
+		"seconds": 6.72
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，作用力与反作用力的特点。第一，同时产生、同时变化、同时消失，没有先后之分。",
+		"seconds": 9.648
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，性质相同：作用力是弹力，反作用力也是弹力；作用力是摩擦力，反作用力也是摩擦力。",
+		"seconds": 9.552
+	},
+	"d2b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩脸贴着脸蹭来蹭去：金发女孩的脸挤粉发女孩的脸，粉发女孩的脸也同时挤回去，两个力大小相等，都是弹力。",
+		"seconds": 11.496
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，分别作用在两个物体上，各自产生效果，不能相互抵消。",
+		"seconds": 6.144
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：作用力和反作用力等大反向，但不能求合力，效果也不能抵消。",
+		"seconds": 7.104
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，牛顿第三定律具有普遍性：",
+		"seconds": 3.984
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|物体静止、匀速运动还是加速运动，作用力和反作用力都大小相等。",
+		"seconds": 6.888
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|它与物体的大小、质量、运动状态都无关。",
+		"seconds": 4.248
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|短发女孩用两只手掰手腕，对面的手却纹丝不动：不管谁赢谁输，两只手之间的作用力和反作用力始终大小相等。",
+		"seconds": 11.04
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：拔河或掰手腕时，赢的一方对对方的力并不更大，胜负由别的力决定。",
+		"seconds": 7.608
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，概念辨析：一对相互作用力和一对平衡力，都是等大、反向、共线。",
+		"seconds": 7.968
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|区别在于：相互作用力作用在两个物体上，平衡力作用在同一物体上。",
+		"seconds": 6.744
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|相互作用力性质一定相同，同时产生同时消失；平衡力性质不一定相同，撤去一个，另一个可以仍然存在。",
+		"seconds": 10.104
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|书放在桌面上：书受的重力和支持力是一对平衡力；书对桌面的压力和桌面对书的支持力是一对相互作用力。",
+		"seconds": 10.488
+	},
+	"f5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：看受力物体：两个物体是相互作用力，同一个物体是平衡力。",
+		"seconds": 6.528
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，受力分析：把研究对象所受的力都找出来，画出受力示意图。",
+		"seconds": 6.888
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|先明确研究对象，把它从周围物体中隔离出来。",
+		"seconds": 4.656
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|按顺序分析：先分析重力；再在研究对象与其他物体的每个接触处，分析弹力和摩擦力；最后分析其他力。",
+		"seconds": 10.224
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|以骑在红发姐姐肩上的金发小女孩为研究对象：先画重力，再看接触处：肩膀的支持力，扶着她双腿的手也有力；她对姐姐的力不画。",
+		"seconds": 12.744
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：按重力、弹力、摩擦力、其他力的顺序，绕研究对象一周找接触处，不漏力。",
+		"seconds": 8.496
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，受力分析的原则。第一，只分析研究对象受到的力，不分析它对别的物体施加的力。",
+		"seconds": 9.168
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，每个力都要找到施力物体，找不到施力物体的力是不存在的。",
+		"seconds": 6.168
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，只分析按性质命名的力，如重力、弹力、摩擦力；不另画“合力”“分力”或“下滑力”这类按效果命名的力。",
+		"seconds": 10.584
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：“下滑力”没有施力物体，它只是重力的一个分力，不能再画一遍。",
+		"seconds": 6.624
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：先有作用力后有反作用力？错，同时产生。判断二：相互作用力性质一定相同？对。",
+		"seconds": 11.04
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：相互作用力的效果可以抵消？错，作用在两个物体上。判断四：加速时第三定律仍成立？对。",
+		"seconds": 11.4
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：重力和支持力是相互作用力？错，是平衡力。判断六：每个力都有施力物体？对。",
+		"seconds": 10.464
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|等大反向共线，分在两个物体。下一期：力的合成和分解。",
+		"seconds": 6.264
+	}
+}

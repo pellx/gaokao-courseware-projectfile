@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|气体的等压变化和等容变化。",
+		"seconds": 3.168
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲盖吕萨克定律、查理定律、理想气体及其状态方程和微观解释，共八个考点。",
+		"seconds": 8.616
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，盖吕萨克定律。一定质量的某种气体，在压强不变的情况下，体积V与热力学温度T成正比。",
+		"seconds": 10.176
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|表达式：V比T等于C，或V一比T一等于V二比T二。压强不变的过程叫等压变化。",
+		"seconds": 8.784
+	},
+	"g2b": {
+		"key": "zh-CN-XiaoxiaoNeural|穿恐龙服的粉发女孩一下子“膨胀”成了巨人：等压变化中，热力学温度变为原来的两倍，体积也变为两倍。",
+		"seconds": 9.936
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：成正比的是热力学温度 T，不是摄氏温度 t。",
+		"seconds": 5.208
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，查理定律。一定质量的某种气体，在体积不变的情况下，压强p与热力学温度T成正比。",
+		"seconds": 9.744
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|表达式：p比T等于C，或p一比T一等于p二比T二。体积不变的过程叫等容变化。",
+		"seconds": 8.832
+	},
+	"c2b": {
+		"key": "zh-CN-XiaoxiaoNeural|比如密闭容器里的气体受热，体积几乎不变，温度升高，压强就随之增大；温度降低，压强减小。",
+		"seconds": 9.504
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：等容变化中，压强的变化量与热力学温度的变化量也成正比，德尔塔p比德尔塔T等于p比T。",
+		"seconds": 10.152
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，等压线与等容线。V T图像中的等压线、p T图像中的等容线，都是过原点的直线。",
+		"seconds": 9.12
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果横轴改用摄氏温度t，直线不过原点，延长线交横轴于负273.15摄氏度。",
+		"seconds": 8.352
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|同一气体，V T图中斜率越大，压强越小；p T图中斜率越大，体积越小。",
+		"seconds": 7.776
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：V T图中的直线过原点，但温度不能真正降到零开，靠近原点的部分要画成虚线。",
+		"seconds": 8.712
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，理想气体：在任何温度、任何压强下都遵从气体实验定律的气体。",
+		"seconds": 7.44
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|理想气体是一种理想化模型，实际并不存在，就像质点、点电荷一样。",
+		"seconds": 7.008
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|实际气体在温度不太低、压强不太大时，可以看成理想气体。",
+		"seconds": 6.024
+	},
+	"i3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这只坐在镜饼上的粉色小章鱼：画家把人物简化成几笔，只留主要特征。理想气体也是这样抓住主要因素的模型。",
+		"seconds": 11.4
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：常温常压下的氢气、氧气、空气等，都可以近似当作理想气体。",
+		"seconds": 6.936
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，理想气体的微观模型。分子本身的大小与分子间距离相比可以忽略，把分子看成质点。",
+		"seconds": 9.744
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|分子间除碰撞外没有相互作用，所以理想气体没有分子势能。",
+		"seconds": 6.24
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|因此，一定质量的理想气体的内能，只是所有分子动能的总和，只与温度有关，与体积无关。",
+		"seconds": 8.448
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：一定质量的理想气体，温度升高，内能一定增大；温度不变，内能不变。",
+		"seconds": 7.848
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，理想气体的状态方程，这是教材拓展内容。一定质量的某种理想气体，从一个状态变到另一个状态时：",
+		"seconds": 10.752
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|p V比T等于C，即p一V一比T一等于p二V二比T二。",
+		"seconds": 5.88
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|压强、体积、温度三个状态参量同时变化时也适用；某个量不变时，就退化为三个实验定律。",
+		"seconds": 9.072
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：常量 C 由气体的物质的量决定，与压强、体积、温度无关。",
+		"seconds": 6.744
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，气体实验定律的微观解释。等温变化：温度不变，分子平均动能不变。",
+		"seconds": 8.232
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|体积减小时，分子的数密度增大，单位时间撞击器壁的次数增多，压强增大。",
+		"seconds": 7.512
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|等容变化：体积不变，数密度不变；温度升高时，分子平均动能增大，撞击更猛烈，压强增大。",
+		"seconds": 9.432
+	},
+	"w3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩抡起木槌捣年糕：砸得越猛，冲击越大。温度升高时，分子撞击器壁也更猛烈，压强就增大。",
+		"seconds": 10.2
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：压强看两个因素：分子的平均动能和数密度。",
+		"seconds": 5.496
+	},
+	"x1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，等压变化的微观解释。温度升高，分子的平均动能增大，单次撞击器壁的作用变强。",
+		"seconds": 9.312
+	},
+	"x2": {
+		"key": "zh-CN-XiaoxiaoNeural|要保持压强不变，就必须让单位时间撞击器壁的次数减少，也就是体积增大、数密度减小。",
+		"seconds": 8.496
+	},
+	"x2b": {
+		"key": "zh-CN-XiaoxiaoNeural|这正是盖吕萨克定律的微观含义：等压时，体积随热力学温度成正比地增大。",
+		"seconds": 7.32
+	},
+	"x3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：等压升温时，平均动能增大与数密度减小两个效果相互抵消，压强才保持不变。",
+		"seconds": 8.832
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：等压时体积与摄氏温度成正比？错，是热力学温度。判断二：查理定律讲体积不变时压强与温度？对。",
+		"seconds": 12.408
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：理想气体实际存在？错，是理想化模型。判断四：一定质量理想气体的内能只与温度有关？对。",
+		"seconds": 11.64
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：等温压缩压强增大是因为平均动能增大？错，是数密度增大。判断六：状态方程适用于三个参量同时变化？对。",
+		"seconds": 13.104
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|温度要用开尔文，理想气体看温度。下一期：固体和液体。",
+		"seconds": 6.168
+	}
+}

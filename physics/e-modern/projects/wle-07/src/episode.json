@@ -1,0 +1,131 @@
+{
+	"id": "WLE-07",
+	"title": "原子核的组成与放射性衰变",
+	"subject": "physics",
+	"book": "近代物理 · 第7期 / 共9期",
+	"points": [
+		"天然放射现象",
+		"三种射线",
+		"质子和中子的发现",
+		"原子核的组成",
+		"α衰变",
+		"β衰变",
+		"γ射线的产生",
+		"半衰期",
+		"核反应方程",
+		"放射性同位素的应用"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"原子核的组成",
+				true
+			],
+			[
+				"与放射性衰变"
+			]
+		],
+		"subtitle": "三种射线 · 质子和中子 · α、β 衰变 · 半衰期 · 核反应",
+		"photo": "becquerel.jpg",
+		"photoCaption": "贝克勒尔：1896 年发现铀的天然放射现象",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"原子核的组成",
+					true
+				]
+			],
+			[
+				[
+					"与放射性衰变"
+				]
+			]
+		],
+		"photo": "becquerel.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "贝克勒尔",
+		"credit": "Paul Nadar, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ティナ",
+			"title": "バンドリ 戸山香澄",
+			"url": "https://www.pixiv.net/artworks/89411537"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "天然放射现象说明原子核内部有复杂结构",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "三种射线中，γ 射线的电离作用最强",
+				"ok": false,
+				"fix": "α 射线电离作用最强，γ 射线穿透能力最强"
+			},
+			{
+				"q": "查德威克用 α 粒子轰击氮核发现了质子",
+				"ok": false,
+				"fix": "卢瑟福发现质子，查德威克发现中子"
+			},
+			{
+				"q": "β 衰变放出的电子来自核外电子",
+				"ok": false,
+				"fix": "来自核内中子转化为质子和电子"
+			},
+			{
+				"q": "升高温度不能改变放射性元素的半衰期",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "核反应遵循质量数守恒和电荷数守恒",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"原子核的组成",
+				true
+			],
+			[
+				"与放射性衰变"
+			]
+		],
+		"endLine": "α 减四减二，β 加一不变",
+		"slogan": "α 减四减二，β 加一不变"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Paul Nadar《Henri Becquerel》（Adam Cuerden 修复），公有领域；插图来自 pixiv：カナ、試行錯誤。、しずぷ（侵删）",
+	"anime": [
+		{
+			"key": "henshin",
+			"src": "henshin.jpg",
+			"credit": "插图：カナ《変身！！！！》 pixiv #93958083",
+			"url": "https://www.pixiv.net/artworks/93958083"
+		},
+		{
+			"key": "half",
+			"src": "half.jpg",
+			"credit": "插图：試行錯誤。《一緒に》 pixiv #56754821",
+			"url": "https://www.pixiv.net/artworks/56754821"
+		},
+		{
+			"key": "umbrella",
+			"src": "umbrella.jpg",
+			"credit": "插图：しずぷ《ラブラブ愛々傘》 pixiv #44966455",
+			"url": "https://www.pixiv.net/artworks/44966455"
+		}
+	]
+}

@@ -1,0 +1,144 @@
+{
+	"id": "WLB-11",
+	"title": "磁场、磁感应强度与磁通量",
+	"subject": "physics",
+	"book": "电学基础 · 第11期 / 共22期",
+	"points": [
+		"磁现象",
+		"电流的磁效应",
+		"磁感线",
+		"安培定则",
+		"分子电流与地磁场",
+		"磁感应强度",
+		"匀强磁场",
+		"磁通量"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"磁场、",
+				false
+			],
+			[
+				"磁感应强度",
+				true
+			],
+			[
+				"与磁通量",
+				false
+			]
+		],
+		"subtitle": "磁感线 · 安培定则 · 地磁场 · 磁感应强度 · 磁通量",
+		"photo": "filings.jpg",
+		"photoCaption": "条形磁体周围的铁屑：铁屑排列的图样显示了磁场的分布",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"磁场、"
+				]
+			],
+			[
+				[
+					"磁感应强度",
+					true
+				]
+			],
+			[
+				[
+					"与磁通量"
+				]
+			]
+		],
+		"photo": "filings.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "铁屑显磁场",
+		"credit": "Maciej J. Mrowinski, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "かづいせ",
+			"title": "no title",
+			"url": "https://www.pixiv.net/artworks/140485806"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "磁感线从 N 极出发，终止于 S 极",
+				"ok": false,
+				"fix": "磁感线是闭合曲线"
+			},
+			{
+				"q": "奥斯特发现了电流的磁效应",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "直线电流用安培定则时，四指指电流方向",
+				"ok": false,
+				"fix": "拇指指电流方向"
+			},
+			{
+				"q": "地磁南极在地理北极附近",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "B = F/Il 说明 B 与 F 成正比",
+				"ok": false,
+				"fix": "B 由磁场本身决定"
+			},
+			{
+				"q": "磁通量是标量，单位是韦伯",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"磁场、",
+				false
+			],
+			[
+				"磁感应强度",
+				true
+			],
+			[
+				"与磁通量",
+				false
+			]
+		],
+		"endLine": "磁感线闭合，B 由磁场定，Φ 看垂直面积",
+		"slogan": "磁感线闭合，B 由磁场定，Φ 看垂直面积"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Maciej J. Mrowinski《Metal shavings around bar magnet (close-up)》，CC BY-SA 4.0；插图来自 pixiv：総桜しわす、ぴっつぁ@1日目東オ46ab、阿部かなり（侵删）",
+	"anime": [
+		{
+			"key": "wave",
+			"src": "wave.jpg",
+			"credit": "插图：総桜しわす《無題》 pixiv #103356398",
+			"url": "https://www.pixiv.net/artworks/103356398"
+		},
+		{
+			"key": "paw",
+			"src": "paw.jpg",
+			"credit": "插图：ぴっつぁ@1日目東オ46ab《あ…赤座あかりだにゃん》 pixiv #98419869",
+			"url": "https://www.pixiv.net/artworks/98419869"
+		},
+		{
+			"key": "line",
+			"src": "line.jpg",
+			"credit": "插图：阿部かなり《2024_01_25 大室家(ゆるゆり)》 pixiv #115463250",
+			"url": "https://www.pixiv.net/artworks/115463250"
+		}
+	]
+}

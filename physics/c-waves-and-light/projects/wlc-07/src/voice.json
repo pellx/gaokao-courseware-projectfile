@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|电磁振荡。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲LC振荡电路的放电和充电过程、能量转化、同步变化的物理量和固有周期，共八个考点。",
+		"seconds": 9.6
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，振荡电流：大小和方向都做周期性迅速变化的电流。",
+		"seconds": 6.264
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|能产生振荡电流的电路叫振荡电路。",
+		"seconds": 3.816
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|由线圈L和电容器C组成的LC电路，是最简单的振荡电路。",
+		"seconds": 6.144
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：振荡电流的大小和方向都在变，是一种交变电流。",
+		"seconds": 5.688
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，放电过程。电容器充满电后通过线圈放电，电荷量减少，电流增大。",
+		"seconds": 8.4
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|由于线圈的自感作用，电流只能逐渐增大。",
+		"seconds": 4.296
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|这个过程中，电场能转化为磁场能。",
+		"seconds": 3.792
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：放电完毕时，电荷量为 0，电流和磁场能最大。",
+		"seconds": 5.808
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，充电过程。放电完毕后，线圈的自感作用使电流继续沿原方向流动，并逐渐减小。",
+		"seconds": 9.504
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|电流给电容器反向充电，极板带上与原来相反的电荷。",
+		"seconds": 5.424
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|这个过程中，磁场能转化为电场能。",
+		"seconds": 3.792
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：充电完毕时，电流为 0，电荷量和电场能最大。",
+		"seconds": 5.784
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，电磁振荡。放电、充电、再放电、再反向充电，周而复始。",
+		"seconds": 7.68
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|电路中的电荷、电流，以及与之相联系的电场和磁场，周期性地相互转化。",
+		"seconds": 7.2
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|这种现象叫电磁振荡。",
+		"seconds": 2.592
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发女孩抓着秋千绳：秋千荡到最高处速度为零、到最低处速度最大，电磁振荡里的能量也这样来回转化。",
+		"seconds": 10.416
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电磁振荡中，电场能和磁场能周期性相互转化。",
+		"seconds": 5.88
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，同步变化的物理量。电荷量q、板间电压U、电场强度E、电场能同步变化。",
+		"seconds": 8.952
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|电流i、线圈中的磁感应强度B、磁场能同步变化。",
+		"seconds": 5.496
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|一组最大时，另一组为零。",
+		"seconds": 2.88
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|五个女孩靠在一起睡着了，只有粉头发女孩瞪大眼睛：一组全都为零的时候，另一组正好最大。",
+		"seconds": 8.688
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电流最大时电荷量为 0；电荷量最大时电流为 0，不是也最大。",
+		"seconds": 7.56
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，周期和频率。LC电路的周期T等于二派根号LC。",
+		"seconds": 6.768
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|频率f等于二派根号LC分之一。",
+		"seconds": 3.912
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|它们由电路本身决定，叫固有周期和固有频率。",
+		"seconds": 4.68
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：改变线圈的自感系数L或电容C，就能改变振荡频率。",
+		"seconds": 6.24
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，阻尼振荡。电路有电阻要发热，又向外辐射电磁波，能量逐渐减少。",
+		"seconds": 7.92
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以振幅逐渐减小，这叫阻尼振荡。",
+		"seconds": 4.032
+	},
+	"g2b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩累得趴在一起睡着了：没有补充能量，劲头一点点耗光，振幅也就越来越小。",
+		"seconds": 7.968
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果适时补充能量，就能得到振幅不变的等幅振荡，也叫无阻尼振荡。",
+		"seconds": 6.456
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：阻尼振荡中振幅减小，但周期不变，仍由 L 和 C 决定。",
+		"seconds": 6.456
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，振荡图像。从电容器充满电开始放电时计时。",
+		"seconds": 6.12
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|电荷量 q 随时间按余弦规律变化，开始时最大。",
+		"seconds": 4.968
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|电流 i 按正弦规律变化，开始时为 0。",
+		"seconds": 4.152
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：q 和 i 的变化相差四分之一周期，一个最大时另一个为零。",
+		"seconds": 6.696
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：放电时电荷量减少、电流增大？对。判断二：放电完毕电流为零？错，电流最大。",
+		"seconds": 10.8
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：电荷量最大时磁场能也最大？错，为零。判断四：周期等于二派根号LC？对。",
+		"seconds": 10.896
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：增大电容频率变大？错，频率变小。判断六：阻尼振荡周期不变？对。",
+		"seconds": 9.528
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|放电电流增，充电电荷增。下一期：电磁场与电磁波。",
+		"seconds": 6.216
+	}
+}

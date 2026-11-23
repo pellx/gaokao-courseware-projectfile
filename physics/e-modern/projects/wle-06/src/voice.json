@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|氢原子光谱与玻尔模型。",
+		"seconds": 2.952
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|从线状谱和巴耳末公式讲到玻尔的三条假设、氢原子能级和电离，共九个考点。",
+		"seconds": 7.608
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，光谱。用棱镜或光栅把光按波长展开，得到的光的波长成分和强度分布的记录，叫光谱。",
+		"seconds": 10.176
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|有的光谱是一条条分立的亮线，叫线状谱；有的是连在一起的光带，叫连续谱。",
+		"seconds": 7.536
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|各种原子发射的光谱都是线状谱，而且每种原子只能发出几种特定频率的光，这些亮线叫原子的特征谱线。",
+		"seconds": 10.704
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|利用特征谱线可以鉴别物质、确定成分，叫光谱分析，灵敏度很高。",
+		"seconds": 6.912
+	},
+	"a4b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个身边闪着几颗星星的猫耳女孩：星星一颗一颗分开，原子光谱也是一条条分立的亮线。",
+		"seconds": 8.52
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：原子光谱是线状谱，特征谱线像原子的“指纹”。",
+		"seconds": 5.616
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，氢原子光谱的实验规律。氢原子在可见光区有几条谱线，巴耳末找到了它们波长满足的公式。",
+		"seconds": 10.056
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|巴耳末公式：兰姆达分之一等于R无穷乘以，二的平方分之一减n的平方分之一，n等于3，4，5，等等。",
+		"seconds": 10.752
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|R无穷叫里德伯常量，n只能取整数，所以波长也只能取分立的值。",
+		"seconds": 6.72
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|这组谱线叫巴耳末系；在紫外区和红外区，氢原子还有其他线系。",
+		"seconds": 6.648
+	},
+	"b5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：n取整数，氢原子光谱是分立的线状谱。",
+		"seconds": 5.304
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，经典理论的困难。核式结构模型中，电子绕核运动。",
+		"seconds": 6.504
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|按经典电磁理论，电子会不断辐射电磁波、能量减少，最终落到核上，原子不稳定。",
+		"seconds": 8.424
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|电子绕核转动的频率连续变化，原子光谱应是连续谱。",
+		"seconds": 5.592
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|这都与原子稳定、光谱是线状谱的事实不符。",
+		"seconds": 4.608
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：经典理论无法解释原子的稳定性和光谱的分立特征。",
+		"seconds": 5.952
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，玻尔的轨道量子化与定态假设。玻尔认为：电子绕核运动的轨道半径不是任意的，只能取某些分立的数值，叫轨道量子化。",
+		"seconds": 12.744
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子在不同轨道上运动，原子处于不同的状态，具有不同的能量，原子的能量也是量子化的。",
+		"seconds": 8.592
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|这些量子化的能量值叫能级；原子只能处于一系列不连续的能量状态，这些状态叫定态。",
+		"seconds": 8.568
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这两个背着琴走下楼梯的女孩：人只能站在一级一级的台阶上，原子的能量也只能取一级一级的能级。",
+		"seconds": 9.528
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电子在定态轨道上做加速运动，但不向外辐射能量。",
+		"seconds": 6.288
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，玻尔的频率条件。原子从高能级E n跃迁到低能级E m时，放出一个光子。",
+		"seconds": 8.376
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|光子的能量h ν等于E n减E m，等于两能级之差。",
+		"seconds": 5.136
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|反过来，原子吸收光子，就会从低能级跃迁到高能级。",
+		"seconds": 5.544
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个高举双手、一下子跳起来的女孩：原子吸收了光子，也会跳到更高的能级。",
+		"seconds": 7.488
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：h ν等于E n减E m；放出光子向低能级，吸收光子向高能级。",
+		"seconds": 7.224
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，氢原子的能级。氢原子的能级公式E n等于E 1除以n的平方，其中E 1等于负13.6电子伏。",
+		"seconds": 10.848
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|轨道半径r n等于n的平方乘r 1，n等于1，2，3，等等，n叫量子数。",
+		"seconds": 8.136
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|n等于1的状态能量最低，叫基态；其余状态叫激发态。",
+		"seconds": 5.664
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|n越大，能级越高、越密；n趋于无穷时，电子脱离原子核，能量为0。",
+		"seconds": 7.608
+	},
+	"f5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：能级都是负值，n越大能量越高，越接近0。",
+		"seconds": 5.544
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，电离。原子吸收足够的能量，电子脱离原子核的束缚，成为自由电子，叫电离。",
+		"seconds": 9.12
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|使处于某能级的氢原子电离，至少要给它的能量，等于该能级能量的绝对值。",
+		"seconds": 7.152
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|基态氢原子的电离能是13.6电子伏；处于n等于2能级的氢原子，电离能是3.4电子伏。",
+		"seconds": 9.048
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电离所需的最小能量等于E n的绝对值，即从E n升到0。",
+		"seconds": 6.456
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。原子吸收光子发生跃迁时，光子能量必须恰好等于两能级之差，多一点少一点都不行。",
+		"seconds": 10.608
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|使原子电离时，光子能量只要大于或等于电离能就可以，多余的能量成为自由电子的动能。",
+		"seconds": 8.328
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如基态氢原子，能吸收10.2电子伏的光子跃迁到n等于2，却不能吸收11电子伏的光子。",
+		"seconds": 8.88
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：跃迁要恰好等于能级差；电离只要大于等于电离能。",
+		"seconds": 5.808
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，玻尔理论的成功与局限。玻尔理论第一次将量子观念引入原子领域，成功解释了氢原子光谱的实验规律。",
+		"seconds": 10.848
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|但它保留了经典粒子和轨道的概念，无法解释稍复杂一点的原子的光谱。",
+		"seconds": 6.696
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|量子力学认为，电子没有确定的轨道，只能用在各处出现的概率来描述，画出来像一团云雾，叫电子云。",
+		"seconds": 9.696
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：玻尔理论成功于引入量子化，局限在于保留经典轨道。",
+		"seconds": 6.36
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：各种原子发射的光谱都是线状谱？对。判断二：电子在定态轨道上不断辐射电磁波？错，定态不辐射。",
+		"seconds": 12.6
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：从高能级跃迁到低能级时吸收光子？错，是放出光子。判断四：氢原子基态能量为负13.6电子伏？对。",
+		"seconds": 13.272
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：基态氢原子能吸收11电子伏的光子跃迁？错，必须恰好等于能级差。判断六：玻尔理论不能解释较复杂原子的光谱？对。",
+		"seconds": 13.896
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|跃迁恰好等于差，电离只要够得着。下一期：原子核的组成与放射性衰变。",
+		"seconds": 7.848
+	}
+}

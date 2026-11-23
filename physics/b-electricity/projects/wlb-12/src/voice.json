@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|安培力。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲安培力的方向和大小、平行通电导线间的作用，以及磁电式电流表和电动机，共八个考点。",
+		"seconds": 9.288
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，通电导线在磁场中受到的力，叫做安培力。",
+		"seconds": 5.352
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|安培力的方向用左手定则判断。",
+		"seconds": 3.456
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|伸开左手，使拇指与其余四指垂直，并与手掌在同一平面内：让磁感线垂直穿入掌心。",
+		"seconds": 8.712
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|四指指向电流的方向，这时拇指所指的方向就是安培力的方向。",
+		"seconds": 6.384
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断安培力用左手，判断电流的磁场用右手，别混用。",
+		"seconds": 6.336
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，安培力方向的特点。",
+		"seconds": 3.216
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|安培力既垂直于磁场方向，又垂直于电流方向。",
+		"seconds": 4.944
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|也就是说，安培力垂直于B和I所决定的平面。",
+		"seconds": 4.896
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：B与I不一定垂直，但安培力一定同时垂直于B和I。",
+		"seconds": 6.288
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，安培力的大小。电流与磁场垂直时，F等于I l B，最大。",
+		"seconds": 7.464
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|电流与磁场平行时，F等于零。",
+		"seconds": 3.528
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|夹角为θ时，把B分解为垂直于导线和平行于导线的两个分量，只有垂直分量产生安培力：F等于I l B sinθ。",
+		"seconds": 11.184
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：l是导线在磁场中的有效长度。",
+		"seconds": 4.248
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，平行通电直导线之间的相互作用。",
+		"seconds": 4.488
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|同向电流相互吸引，反向电流相互排斥。",
+		"seconds": 4.392
+	},
+	"d2b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个小人并排站着、朝同一个方向弹吉他，越凑越近：同向电流，正是相互吸引。",
+		"seconds": 8.04
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|解释：一条导线的电流产生磁场，另一条导线处在这个磁场中，受到安培力。",
+		"seconds": 7.56
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同向相吸、反向相斥，作用是通过磁场发生的。",
+		"seconds": 6.024
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，磁电式电流表的构造：蹄形磁体、极靴、软铁圆柱、线圈、螺旋弹簧和指针。",
+		"seconds": 9
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|极靴与软铁圆柱之间的磁场，方向沿半径方向，是均匀辐向分布的。",
+		"seconds": 6.528
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|线圈无论转到什么位置，线圈平面总与磁感线平行。",
+		"seconds": 5.424
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：辐向磁场使线圈两边受到的安培力大小不随转角变化。",
+		"seconds": 6.504
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，磁电式电流表的原理。通电线圈受安培力作用而转动，螺旋弹簧扭转，阻碍线圈转动。",
+		"seconds": 9.984
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|电流越大，安培力越大，线圈和指针的偏角越大。",
+		"seconds": 4.992
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|电流方向改变，安培力方向随之改变，指针的偏转方向也改变。",
+		"seconds": 6.312
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：磁电式电流表灵敏度高，但线圈导线很细，允许通过的电流很弱。",
+		"seconds": 7.272
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，电动机利用通电线圈在磁场中受安培力而转动的原理工作。",
+		"seconds": 7.128
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|线圈转动时，安培力做正功。",
+		"seconds": 3.384
+	},
+	"g2b": {
+		"key": "zh-CN-XiaoxiaoNeural|三个小人一起使劲推着一大团粉色团子往前走：安培力也这样推着线圈转动，对它做正功。",
+		"seconds": 8.664
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电动机把电能转化为机械能。",
+		"seconds": 3.888
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。B的方向，是小磁针N极受力的方向。",
+		"seconds": 6.24
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|安培力的方向与B垂直，而不是沿着B的方向。",
+		"seconds": 4.512
+	},
+	"h2b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个小人一起歪着头、满脸问号：安培力是不是沿着磁场方向？不是，它与磁场垂直。",
+		"seconds": 8.88
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|导线与磁场平行时，不受安培力，但这不能说明该处B为零。",
+		"seconds": 6.192
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：F等于零不一定B等于零，可能是导线与磁场平行。",
+		"seconds": 5.976
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：安培力方向用右手定则？错，用左手定则。判断二：安培力一定同时垂直于B和I？对。",
+		"seconds": 11.424
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：电流与磁场平行时安培力最大？错，平行时为零。判断四：同向电流相互吸引？对。",
+		"seconds": 11.208
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：导线不受安培力说明B为零？错，可能是导线与磁场平行。判断六：电动机把电能转化为机械能？对。",
+		"seconds": 12.384
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|左手定力向，同向相吸，F等于I l B sinθ。下一期：洛伦兹力。",
+		"seconds": 7.68
+	}
+}

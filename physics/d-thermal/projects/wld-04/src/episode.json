@@ -1,0 +1,129 @@
+{
+	"id": "WLD-04",
+	"title": "气体的等压变化和等容变化",
+	"subject": "physics",
+	"book": "热学 · 第4期 / 共7期",
+	"points": [
+		"盖—吕萨克定律",
+		"查理定律",
+		"等压线与等容线",
+		"理想气体",
+		"理想气体的微观模型",
+		"理想气体的状态方程",
+		"气体实验定律的微观解释",
+		"等压变化的微观解释"
+	],
+	"intro": {
+		"badge": "高考物理 · 热学",
+		"title": [
+			[
+				"气体的等压变化",
+				true
+			],
+			[
+				"和等容变化"
+			]
+		],
+		"subtitle": "盖—吕萨克定律 · 查理定律 · 理想气体 · 状态方程 · 微观解释",
+		"photo": "gaylussac.jpg",
+		"photoCaption": "盖—吕萨克：研究气体受热膨胀，提出压强不变时体积与温度的关系",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"气体的等压变化",
+					true
+				]
+			],
+			[
+				[
+					"和等容变化"
+				]
+			]
+		],
+		"photo": "gaylussac.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "盖—吕萨克",
+		"credit": "Julien-Léopold Boilly, CC0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "荒波シブキ",
+			"title": "バレンタインさーかす",
+			"url": "https://www.pixiv.net/artworks/142004593"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "压强不变时，一定质量气体的体积与摄氏温度成正比",
+				"ok": false,
+				"fix": "与热力学温度成正比"
+			},
+			{
+				"q": "查理定律描述的是体积不变时 p 与 T 的关系",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "理想气体是实际存在的一种气体",
+				"ok": false,
+				"fix": "是理想化模型"
+			},
+			{
+				"q": "一定质量理想气体的内能只与温度有关",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "等温压缩时，气体压强增大是因为分子平均动能增大",
+				"ok": false,
+				"fix": "是分子数密度增大"
+			},
+			{
+				"q": "状态方程 pV/T = C 适用于三个参量同时变化的情况",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"气体的等压变化",
+				true
+			],
+			[
+				"和等容变化"
+			]
+		],
+		"endLine": "温度要用开尔文，理想气体看温度",
+		"slogan": "温度要用开尔文，理想气体看温度"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Julien-Léopold Boilly《Portrait of Joseph-Louis Gay-Lussac》（1822，石版画），大都会艺术博物馆藏，CC0；插图来自 pixiv：じんやま、でんでん、穏和あまり（侵删）",
+	"anime": [
+		{
+			"key": "giant",
+			"src": "giant.jpg",
+			"credit": "插图：じんやま《虹夏ちゃん(３歳)と承認欲求モンスター》 pixiv #147684775",
+			"url": "https://www.pixiv.net/artworks/147684775"
+		},
+		{
+			"key": "mendako",
+			"src": "mendako.jpg",
+			"credit": "插图：でんでん《うさ耳ぼっちちゃん》 pixiv #104127196",
+			"url": "https://www.pixiv.net/artworks/104127196"
+		},
+		{
+			"key": "mochi",
+			"src": "mochi.jpg",
+			"credit": "插图：穏和あまり《ぺったんぺったん》 pixiv #112389565",
+			"url": "https://www.pixiv.net/artworks/112389565"
+		}
+	]
+}

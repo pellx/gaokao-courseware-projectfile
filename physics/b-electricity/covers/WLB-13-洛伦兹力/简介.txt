@@ -1,0 +1,22 @@
+本期考点
+
+一、洛伦兹力（运动电荷在磁场中受的力，安培力是其宏观表现）
+二、洛伦兹力的方向（左手定则，四指指正电荷运动方向，F 垂直于 v 和 B）
+三、洛伦兹力的大小（F = qvB（v ⊥ B），平行时为 0，F = qvB sinθ）
+四、洛伦兹力不做功（只改变速度方向，不改变动能）
+五、与静电力的比较（静电力作用于一切电荷可做功；洛伦兹力只作用于运动电荷，不做功）
+六、电子束的磁偏转（显像管中偏转线圈的磁场使电子束扫描荧光屏）
+七、概念辨析（洛伦兹力是变力；正负电荷受力方向相反）
+
+图片来源
+1.Mister rf《31ЛК3Б deflection yoke side view》，CC BY-SA 4.0（Wikimedia Commons）
+2.插图：Rebecca《ぼざろまとめ75》
+https://www.pixiv.net/artworks/139911845
+3.插图：Rebecca《ぼざろまとめ73》
+https://www.pixiv.net/artworks/139659435
+4.插图：Rebecca《ぼざろまとめ78》
+https://www.pixiv.net/artworks/140494109
+5.封面插图：Rebecca《ぼざろまとめ77》
+https://www.pixiv.net/artworks/140161637
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

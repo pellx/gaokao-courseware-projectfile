@@ -1,0 +1,134 @@
+{
+	"id": "WLB-14",
+	"title": "带电粒子在电场中的运动",
+	"subject": "physics",
+	"book": "电学基础 · 第14期 / 共22期",
+	"points": [
+		"重力的处理",
+		"带电粒子的加速",
+		"带电粒子的偏转",
+		"偏转的分解",
+		"偏移量与偏转角",
+		"示波管的构造",
+		"示波管的原理",
+		"能量转化"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"带电粒子",
+				true
+			],
+			[
+				"在电场中的运动"
+			]
+		],
+		"subtitle": "加速 · 类平抛偏转 · 偏移量与偏转角 · 示波管 · 能量转化",
+		"photo": "gun.jpg",
+		"photoCaption": "示波管内部的电子枪和偏转电极",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"带电粒子",
+					true
+				]
+			],
+			[
+				[
+					"在电场中"
+				]
+			],
+			[
+				[
+					"的运动"
+				]
+			]
+		],
+		"photo": "gun.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "电子枪",
+		"credit": "Mister rf, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "綾乃",
+			"title": "最初の公園で虹夏ちゃんが来なかった世界線のぼっちちゃん",
+			"url": "https://www.pixiv.net/artworks/148981571"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "电子在电场中运动时一般不计重力",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "qU = mv^2/2 − mv_0^2/2 只适用于匀强电场",
+				"ok": false,
+				"fix": "非匀强电场也适用"
+			},
+			{
+				"q": "垂直射入匀强电场的粒子做类平抛运动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "偏转电压越大，偏移量越小",
+				"ok": false,
+				"fix": "偏转电压越大，偏移量越大"
+			},
+			{
+				"q": "示波管的 XX′ 上加的是信号电压",
+				"ok": false,
+				"fix": "XX′ 加扫描电压"
+			},
+			{
+				"q": "只有静电力做功时，电势能的减少量等于动能的增加量",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"带电粒子",
+				true
+			],
+			[
+				"在电场中的运动"
+			]
+		],
+		"endLine": "加速用动能定理，偏转按类平抛分解",
+		"slogan": "加速用动能定理，偏转按类平抛分解"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Mister rf《D13-27 GH T Oscilloscope CRT 09》，CC BY-SA 4.0；插图来自 pixiv：和泉好春@リスっ子マロン、ほたるる、티비아래underdatv（侵删）",
+	"anime": [
+		{
+			"key": "rice",
+			"src": "rice.jpg",
+			"credit": "插图：和泉好春@リスっ子マロン《出荷中ライス》 pixiv #130911982",
+			"url": "https://www.pixiv.net/artworks/130911982"
+		},
+		{
+			"key": "car",
+			"src": "car.jpg",
+			"credit": "插图：ほたるる《モルカー》 pixiv #87342598",
+			"url": "https://www.pixiv.net/artworks/87342598"
+		},
+		{
+			"key": "beam",
+			"src": "beam.jpg",
+			"credit": "插图：티비아래underdatv《화난 깡통》 pixiv #139589917",
+			"url": "https://www.pixiv.net/artworks/139589917"
+		}
+	]
+}

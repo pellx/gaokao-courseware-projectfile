@@ -1,0 +1,129 @@
+{
+	"id": "WLB-08",
+	"title": "串联电路和并联电路",
+	"subject": "physics",
+	"book": "电学基础 · 第8期 / 共22期",
+	"points": [
+		"串联的电流和电压",
+		"并联的电流和电压",
+		"串联电路的电阻",
+		"并联电路的电阻",
+		"总电阻的大小",
+		"表头",
+		"改装成电压表",
+		"改装成电流表"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"串联电路",
+				true
+			],
+			[
+				"和并联电路"
+			]
+		],
+		"subtitle": "串并联规律 · 总电阻 · 表头 · 电表改装",
+		"photo": "meter.jpg",
+		"photoCaption": "老式安培表：指针式电表的核心是一个小量程的表头",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"串联电路",
+					true
+				]
+			],
+			[
+				[
+					"和并联电路"
+				]
+			]
+		],
+		"photo": "meter.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "电流表",
+		"credit": "Bjoertvedt, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "マダンテゴロン",
+			"title": "きゃは",
+			"url": "https://www.pixiv.net/artworks/94765657"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "串联电路中各处电流相等",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "并联电路各支路的电流与电阻成正比",
+				"ok": false,
+				"fix": "与电阻成反比"
+			},
+			{
+				"q": "并联电路的总电阻大于任一支路电阻",
+				"ok": false,
+				"fix": "小于任一支路电阻"
+			},
+			{
+				"q": "满偏电压 U_g = I_gR_g",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "表头并联一个电阻可以改装成电压表",
+				"ok": false,
+				"fix": "串联分压电阻才是电压表"
+			},
+			{
+				"q": "改装后电流表的量程越大，内阻越小",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"串联电路",
+				true
+			],
+			[
+				"和并联电路"
+			]
+		],
+		"endLine": "串联分压，并联分流",
+		"slogan": "串联分压，并联分流"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Bjoertvedt《Amperemeter telephone central 1920s》，CC BY-SA 3.0；插图来自 pixiv：よなか亜希@ご依頼受付中です、マダンテゴロン（侵删）",
+	"anime": [
+		{
+			"key": "a1",
+			"src": "a1.jpg",
+			"credit": "插图：よなか亜希@ご依頼受付中です《ぼ虹》 pixiv #122710052",
+			"url": "https://www.pixiv.net/artworks/122710052"
+		},
+		{
+			"key": "a2",
+			"src": "a2.jpg",
+			"credit": "插图：マダンテゴロン《櫻子様》 pixiv #90016797",
+			"url": "https://www.pixiv.net/artworks/90016797"
+		},
+		{
+			"key": "a3",
+			"src": "a3.jpg",
+			"credit": "插图：マダンテゴロン《ウェ～イ！！》 pixiv #91450764",
+			"url": "https://www.pixiv.net/artworks/91450764"
+		}
+	]
+}

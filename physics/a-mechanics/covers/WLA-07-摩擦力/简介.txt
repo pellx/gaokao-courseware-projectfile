@@ -1,0 +1,22 @@
+本期考点
+
+一、摩擦力（阻碍相对运动或相对运动趋势的力）
+二、产生条件（粗糙、挤压、相对运动或趋势；有摩擦力必有弹力）
+三、滑动摩擦力的方向（沿接触面，与相对运动方向相反）
+四、滑动摩擦力的大小（F_f = μF_N，F_N 是压力，μ 没有单位）
+五、静摩擦力（与相对运动趋势方向相反）
+六、静摩擦力的大小（0 < F ≤ F_max，不能用 μF_N 计算）
+七、摩擦力阻碍相对运动（可以是动力，运动的物体可受静摩擦力）
+
+图片来源
+1.C. A. Coulomb《Théorie des machines simples》（1821 年版）第一章书页，Niels Bohr Library & Archives 藏本（Commons：Coulomb-3.jpg），公有领域（Wikimedia Commons）
+2.插图：六合ダイスケ《ミケちゃんまっしぐら》
+https://www.pixiv.net/artworks/103595353
+3.插图：蒼乃ユウ《さわちゃん(高校生ver)》
+https://www.pixiv.net/artworks/70572221
+4.插图：SuperPig《遅刻！》
+https://www.pixiv.net/artworks/88648101
+5.封面插图：TTI《『きのこたけのこ大合戦』》
+https://www.pixiv.net/artworks/113693938
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

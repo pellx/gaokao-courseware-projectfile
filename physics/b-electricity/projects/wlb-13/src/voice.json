@@ -1,0 +1,142 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|洛伦兹力。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲洛伦兹力的方向和大小、它为什么不做功、与静电力的区别，以及电子束的磁偏转，共七个考点。",
+		"seconds": 9.648
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，运动电荷在磁场中受到的力，叫做洛伦兹力。",
+		"seconds": 5.544
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|导线中的电流，是大量自由电荷的定向移动形成的。",
+		"seconds": 4.752
+	},
+	"a2b": {
+		"key": "zh-CN-XiaoxiaoNeural|小团子们排着队，一个接一个往前挪：导线里的自由电荷也这样定向移动，每一个都受洛伦兹力。",
+		"seconds": 8.88
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：安培力是导线中大量运动电荷所受洛伦兹力的宏观表现。",
+		"seconds": 6.6
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，洛伦兹力的方向，同样用左手定则判断。",
+		"seconds": 4.992
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|磁感线垂直穿入掌心，四指指向正电荷运动的方向，拇指所指就是洛伦兹力的方向。",
+		"seconds": 8.28
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|对负电荷，四指要指向它运动的反方向。",
+		"seconds": 4.104
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：洛伦兹力既垂直于速度，又垂直于磁场。",
+		"seconds": 5.04
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，洛伦兹力的大小。设导线中单位体积内的自由电荷数为n，每个电荷带电q，定向移动速率为v。",
+		"seconds": 10.584
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|长为l的导线所受安培力F安等于I l B，其中I等于n q S v；导线中共有n S l个自由电荷。",
+		"seconds": 10.104
+	},
+	"c2b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发女孩看着一大堆叠起来的小团子：把总的安培力平均分给这一大堆电荷，就得到每个电荷受的力。",
+		"seconds": 9.648
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|由此得到：v与B垂直时，F等于q v B；v与B平行时，F等于零。",
+		"seconds": 7.488
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：v与B夹角为θ时，F等于q v B sinθ。",
+		"seconds": 5.568
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，洛伦兹力始终与速度垂直。",
+		"seconds": 4.008
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以它只改变速度的方向，不改变速度的大小。",
+		"seconds": 4.848
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：洛伦兹力对运动电荷不做功，不改变粒子的动能。",
+		"seconds": 5.496
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，洛伦兹力与静电力的比较。",
+		"seconds": 3.792
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|静电力作用于电场中的一切电荷，与电荷是否运动无关，可以对电荷做功。",
+		"seconds": 7.032
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|洛伦兹力只作用于运动、且速度不与磁场平行的电荷，对电荷不做功。",
+		"seconds": 6.72
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：静止的电荷在磁场中不受洛伦兹力，在电场中却一定受静电力。",
+		"seconds": 7.296
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，电子束的磁偏转。显像管中，电子枪发射高速电子束。",
+		"seconds": 6.984
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|电子束经过管颈上偏转线圈的磁场时，受洛伦兹力而偏转，打在荧光屏上发光。",
+		"seconds": 7.728
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|偏转磁场的强弱和方向不断变化，电子束就能扫描整个荧光屏。",
+		"seconds": 6.504
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：显像管利用洛伦兹力使电子束偏转。",
+		"seconds": 4.56
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，概念辨析。洛伦兹力的方向随速度方向而变，它是一个变力。",
+		"seconds": 7.248
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|正、负电荷以相同的速度运动时，所受洛伦兹力的方向相反。",
+		"seconds": 6.096
+	},
+	"g2b": {
+		"key": "zh-CN-XiaoxiaoNeural|一个穿粉色、一个穿橙色的两个小人凑在一起：打扮相反，就像正、负电荷，同样的速度，受力方向却相反。",
+		"seconds": 10.272
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：洛伦兹力大小可以不变，但方向时刻在变，所以不是恒力。",
+		"seconds": 6.432
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：安培力是洛伦兹力的宏观表现？对。判断二：负电荷四指指向运动方向？错，指向反方向。",
+		"seconds": 11.424
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：v与B平行时洛伦兹力为q v B？错，为零。判断四：洛伦兹力不改变动能？对。",
+		"seconds": 10.944
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：静止电荷受洛伦兹力？错，不受。判断六：显像管利用洛伦兹力使电子束偏转？对。",
+		"seconds": 10.8
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|洛伦兹力垂直速度，只改方向不做功。下一期：带电粒子在电场中的运动。",
+		"seconds": 7.8
+	}
+}

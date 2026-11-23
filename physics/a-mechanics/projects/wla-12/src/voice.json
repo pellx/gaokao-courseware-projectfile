@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|牛顿第二定律与力学单位制。",
+		"seconds": 3.168
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲牛顿第二定律的内容、表达式和性质，再讲单位制，共八个考点。",
+		"seconds": 7.008
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，牛顿第二定律：物体加速度的大小跟它受到的作用力成正比，",
+		"seconds": 7.008
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|跟它的质量成反比，",
+		"seconds": 2.256
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|加速度的方向跟作用力的方向相同。",
+		"seconds": 3.648
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|红发女孩推着手推车，车上坐着橙发女孩：使劲越大，车加速越快；车上的人越多、质量越大，就越难加速。",
+		"seconds": 10.728
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：定律同时说明了加速度的大小和方向。",
+		"seconds": 4.8
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，表达式。由F等于k m a，选取合适的单位使k等于一，就得到F等于m a。",
+		"seconds": 9.216
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|使质量为一千克的物体产生一米每二次方秒加速度的力，规定为一牛顿，即一牛等于一千克米每二次方秒。",
+		"seconds": 10.032
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|式中的 F 是物体所受的合力，不是某一个力。",
+		"seconds": 4.68
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：k等于一不是实验测出来的，而是选取单位的结果。",
+		"seconds": 5.568
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，矢量性。加速度的方向总与合力的方向相同。",
+		"seconds": 5.976
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|可以写成分量形式：F x等于m a x，F y等于m a y。",
+		"seconds": 6.12
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|速度的方向与合力方向不一定相同，物体可以减速，也可以做曲线运动。",
+		"seconds": 6.888
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：合力决定的是加速度的方向，不是速度的方向。",
+		"seconds": 5.256
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，瞬时性。加速度与合力同时产生、同时变化、同时消失。",
+		"seconds": 7.392
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|合力一变，加速度立刻跟着变；合力消失，加速度立即为零，物体做匀速直线运动。",
+		"seconds": 8.496
+	},
+	"d2b": {
+		"key": "zh-CN-XiaoxiaoNeural|坐在推车上的小兔子被推了一把：手一离开，推力瞬间消失，加速度也同时消失，推车靠惯性继续往前滚。",
+		"seconds": 10.632
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|而速度不能突变，要经过一段时间才会改变。",
+		"seconds": 4.344
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：加速度可以突变，速度不能突变。",
+		"seconds": 4.2
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，概念辨析。a等于德尔塔v比德尔塔t，是加速度的定义式，说明怎样度量加速度。",
+		"seconds": 9.384
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|a等于F比m，是加速度的决定式，说明加速度由合力和质量决定。",
+		"seconds": 6.744
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|不能说加速度与速度变化量成正比；速度大，加速度不一定大。",
+		"seconds": 6.24
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：由m等于F比a，不能说质量与合力成正比，质量是物体本身的属性。",
+		"seconds": 7.536
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，单位制。选定几个物理量的单位作为基本单位，这几个物理量叫基本量。",
+		"seconds": 8.112
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|由基本量根据物理关系推导出来的其他物理量的单位，叫导出单位。",
+		"seconds": 6.216
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|基本单位和导出单位一起组成了单位制。",
+		"seconds": 4.104
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|叠成一摞往外看的三个女孩：力学只要选定长度、质量、时间三个基本量，其余单位都能搭在它们上面推导出来。",
+		"seconds": 10.224
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：导出单位由基本单位通过物理关系推导而来。",
+		"seconds": 5.184
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，国际单位制，简称S I，共有七个基本单位。",
+		"seconds": 5.544
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|力学中的基本量是长度、质量、时间，基本单位是米、千克、秒，符号m、kg、s。",
+		"seconds": 9.216
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|牛顿N、焦耳J、米每秒等都是导出单位。",
+		"seconds": 4.488
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：力是常用的物理量，但牛顿不是基本单位；克、厘米、小时是基本量的单位，但不是国际单位制的基本单位。",
+		"seconds": 11.4
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，单位制的作用。计算时各量都统一用国际单位表示，",
+		"seconds": 6.552
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|计算结果也一定是国际单位，中间过程可以不写单位，只在结果后面写上。",
+		"seconds": 7.296
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|还可以根据单位检查物理关系式是否可能正确：两边单位不一致，式子一定错。",
+		"seconds": 7.368
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：单位一致只说明式子可能正确，不能保证一定正确。",
+		"seconds": 5.928
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：F等于m a里的F是合力？对。判断二：加速度方向总与速度方向相同？错，与合力方向相同。",
+		"seconds": 11.976
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：合力消失，加速度立即为零？对。判断四：质量与合力成正比？错，质量是物体的属性。",
+		"seconds": 11.136
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：牛顿是基本单位？错，是导出单位。判断六：力学基本单位是米、千克、秒？对。",
+		"seconds": 10.632
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|合力定加速，同向同时变。下一期：牛顿运动定律的应用与超重、失重。",
+		"seconds": 7.92
+	}
+}

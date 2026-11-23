@@ -1,0 +1,23 @@
+本期考点
+
+一、牛顿第二定律（a 与合力成正比、与质量成反比）
+二、表达式 F = ma（F 是合力，1 N = 1 kg·m/s²）
+三、矢量性（a 的方向与合力方向相同）
+四、瞬时性（a 与合力同时产生、变化、消失）
+五、定义式与决定式（a = Δv/Δt 与 a = F/m）
+六、单位制（基本单位与导出单位）
+七、国际单位制（七个基本单位，力学为 m、kg、s）
+八、单位制的作用（统一单位计算，用单位检查公式）
+
+图片来源
+1.National Institute of Standards and Technology《MassStandards 024》（Bell jar display of prototype kilogram replica），公有领域（Wikimedia Commons）
+2.插图：みよし　すす《たんプリ#1 「近くの靴屋さんまでお連れしますね！」》
+https://www.pixiv.net/artworks/141043051
+3.插图：くぅもんせ《ｺﾞﾛｺﾞﾛ》
+https://www.pixiv.net/artworks/143560252
+4.插图：のんのん《見守る3人》
+https://www.pixiv.net/artworks/83338255
+5.封面插图：HiRO《In the box》
+https://www.pixiv.net/artworks/139196458
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

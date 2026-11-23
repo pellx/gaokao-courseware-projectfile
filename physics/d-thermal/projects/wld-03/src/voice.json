@@ -1,0 +1,146 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|温度和温标、气体的等温变化。",
+		"seconds": 3.288
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲状态参量、热平衡与温度、热力学温度和玻意耳定律，共七个考点。",
+		"seconds": 7.464
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，状态参量。研究的对象叫系统，系统以外与它相互作用的物体叫外界。",
+		"seconds": 8.424
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|描述气体系统的状态，要用三个物理量：压强p、体积V、温度T，叫作状态参量。",
+		"seconds": 8.256
+	},
+	"p2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个抱着吉他、被三只气球吊起来的粉头发女孩：气球里的气体，状态要用压强、体积、温度三个量一起描述。",
+		"seconds": 11.112
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：体积是几何参量，压强是力学参量，温度是热学参量。",
+		"seconds": 6.528
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，平衡态：在没有外界影响的情况下，系统所有的状态参量都不随时间变化的稳定状态。",
+		"seconds": 8.976
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如把一杯热水放在房间里，经过足够长的时间，水温不再变化，就达到了平衡态。",
+		"seconds": 7.752
+	},
+	"e2b": {
+		"key": "zh-CN-XiaoxiaoNeural|平衡态是一种动态平衡：分子仍在永不停息地做无规则运动，只是宏观的状态参量不再变化。",
+		"seconds": 9
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：平衡态是没有外界影响时的稳定状态；有外界持续影响时参量不变，不一定是平衡态。",
+		"seconds": 9.096
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，热平衡。两个系统相互接触而传热，最后它们的状态参量都不再变化，就说两个系统达到了热平衡。",
+		"seconds": 11.208
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|热平衡定律：如果两个系统分别与第三个系统达到热平衡，那么这两个系统彼此之间也必定处于热平衡。",
+		"seconds": 9.984
+	},
+	"h2b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩窝在同一个被炉里分橘子：她们都和被炉达到热平衡，所以彼此之间也热平衡，温度相同。",
+		"seconds": 9.984
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：热平衡定律也叫热力学第零定律。",
+		"seconds": 4.392
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，温度。处于热平衡的系统具有一个“共同性质”，这个性质就是温度。",
+		"seconds": 7.584
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|温度是决定一个系统与另一个系统是否达到热平衡的物理量：温度相同，就处于热平衡。",
+		"seconds": 8.16
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|温度计测温的原理：温度计与物体接触，达到热平衡后，温度计的示数就是物体的温度。",
+		"seconds": 8.112
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：热平衡的标志是温度相同，而不是内能或热量相同。",
+		"seconds": 6.24
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，温标。定量描述温度的方法叫温标，常用摄氏温标和热力学温标。",
+		"seconds": 7.848
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|热力学温度T与摄氏温度t的关系：T等于t加273.15开，单位是开尔文，符号K。",
+		"seconds": 9.264
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|热力学温度是国际单位制中七个基本物理量之一。",
+		"seconds": 4.944
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|大热天里，两个女孩一个捧着水瓶、一个举着小风扇：气温三十五摄氏度，换成热力学温度约是308开。",
+		"seconds": 10.056
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：温度变化一开与变化一摄氏度相等，德尔塔T等于德尔塔t；但温度值不相等。",
+		"seconds": 8.472
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，玻意耳定律。一定质量的某种气体，在温度不变的情况下，压强p与体积V成反比。",
+		"seconds": 9.24
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|表达式：p V等于C，或p一V一等于p二V二。",
+		"seconds": 5.112
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|温度不变时的状态变化过程叫等温变化。",
+		"seconds": 4.224
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：适用条件是一定质量的气体、温度不变；常量 C 与气体的种类、质量和温度有关。",
+		"seconds": 8.568
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，等温线。在p V图像中，一定质量气体的等温线是双曲线的一支。",
+		"seconds": 7.632
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|同一气体，温度越高，p V乘积越大，等温线离原点越远，所以T二大于T一。",
+		"seconds": 8.112
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|在p与V分之一的图像中，等温线是一条过原点的直线。",
+		"seconds": 5.4
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：p V图上离原点越远温度越高；p与V分之一的图上直线斜率越大温度越高。",
+		"seconds": 8.4
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：状态参量是压强、体积、温度？对。判断二：热平衡的标志是内能相同？错，是温度相同。",
+		"seconds": 11.856
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：温度升高一摄氏度，热力学温度升高274.15开？错，只升高一开。判断四：零摄氏度约为273开？对。",
+		"seconds": 13.8
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：玻意耳定律要求温度不变、质量一定？对。判断六：离原点越远的等温线温度越低？错，温度越高。",
+		"seconds": 12.024
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|热平衡看温度，等温变化p V不变。下一期：气体的等压变化和等容变化。",
+		"seconds": 8.016
+	}
+}

@@ -1,0 +1,118 @@
+{
+	"id": "WLB-12",
+	"title": "安培力",
+	"subject": "physics",
+	"book": "电学基础 · 第12期 / 共22期",
+	"points": [
+		"安培力与左手定则",
+		"安培力的方向特点",
+		"安培力的大小",
+		"平行通电导线",
+		"磁电式电流表的构造",
+		"磁电式电流表的原理",
+		"电动机与能量转化",
+		"概念辨析"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"安培力",
+				true
+			]
+		],
+		"subtitle": "左手定则 · F = IlB sinθ · 平行导线 · 磁电式电流表 · 电动机",
+		"photo": "galvanometer.jpg",
+		"photoCaption": "磁电式电表的内部：线圈、螺旋弹簧和指针",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"安培力",
+					true
+				]
+			]
+		],
+		"photo": "galvanometer.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "磁电式电表",
+		"credit": "Mister rf, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Rebecca",
+			"title": "ぼざろまとめ80",
+			"url": "https://www.pixiv.net/artworks/143010175"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "安培力的方向用右手定则判断",
+				"ok": false,
+				"fix": "用左手定则"
+			},
+			{
+				"q": "安培力一定同时垂直于 B 和 I",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电流与磁场平行时，安培力最大",
+				"ok": false,
+				"fix": "平行时安培力为 0"
+			},
+			{
+				"q": "两条平行导线通同向电流时相互吸引",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "导线不受安培力，说明该处 B = 0",
+				"ok": false,
+				"fix": "可能是导线与磁场平行"
+			},
+			{
+				"q": "电动机把电能转化为机械能",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"安培力",
+				true
+			]
+		],
+		"endLine": "左手定力向，同向相吸，F = IlB sinθ",
+		"slogan": "左手定力向，同向相吸"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Mister rf《Galvanometer mechanism details》，CC BY-SA 4.0；插图来自 pixiv：Rebecca（侵删）",
+	"anime": [
+		{
+			"key": "guitar",
+			"src": "guitar.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ82》 pixiv #143805221",
+			"url": "https://www.pixiv.net/artworks/143805221"
+		},
+		{
+			"key": "push",
+			"src": "push.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ71》 pixiv #139583503",
+			"url": "https://www.pixiv.net/artworks/139583503"
+		},
+		{
+			"key": "huh",
+			"src": "huh.jpg",
+			"credit": "插图：Rebecca《ぼざろまとめ79》 pixiv #141345054",
+			"url": "https://www.pixiv.net/artworks/141345054"
+		}
+	]
+}

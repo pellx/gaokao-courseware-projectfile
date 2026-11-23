@@ -1,0 +1,118 @@
+{
+	"id": "WLC-07",
+	"title": "电磁振荡",
+	"subject": "physics",
+	"book": "波动与光 · 第7期 / 共8期",
+	"points": [
+		"振荡电流与振荡电路",
+		"放电过程",
+		"充电过程",
+		"电磁振荡",
+		"同步变化的物理量",
+		"周期和频率",
+		"阻尼振荡与无阻尼振荡",
+		"振荡图像"
+	],
+	"intro": {
+		"badge": "高考物理 · 波动与光",
+		"title": [
+			[
+				"电磁振荡",
+				true
+			]
+		],
+		"subtitle": "LC 电路 · 充放电 · T = 2π√(LC)",
+		"photo": "lc.jpg",
+		"photoCaption": "绕在磁芯上的线圈和一只小电容器，组成 LC 振荡电路",
+		"photoPos": "center 50%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"电磁振荡",
+					true
+				]
+			]
+		],
+		"photo": "lc.jpg",
+		"photoPos": {
+			"16x9": "center 50%",
+			"4x3": "center 50%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "LC 电路",
+		"credit": "Andrew Magill, CC BY 2.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "すわ猫",
+			"title": "ぼっちちゃん雷電激震",
+			"url": "https://www.pixiv.net/artworks/128598583"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "放电过程中电容器的电荷量减少，电流增大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "放电完毕时电流为 0",
+				"ok": false,
+				"fix": "放电完毕时电流最大"
+			},
+			{
+				"q": "电荷量最大时，磁场能也最大",
+				"ok": false,
+				"fix": "电荷量最大时磁场能为 0"
+			},
+			{
+				"q": "LC 电路的周期 T = 2π√(LC)",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "增大电容 C，振荡频率变大",
+				"ok": false,
+				"fix": "C 增大，周期变大，频率变小"
+			},
+			{
+				"q": "阻尼振荡中振幅减小，周期不变",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"电磁振荡",
+				true
+			]
+		],
+		"endLine": "放电电流增，充电电荷增",
+		"slogan": "放电电流增，充电电荷增"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Andrew Magill《Resonant LC circuit》，CC BY 2.0；插图来自 pixiv：あろおん、SuperPig、描愛ゆう（侵删）",
+	"anime": [
+		{
+			"key": "swing",
+			"src": "swing.jpg",
+			"credit": "插图：あろおん《劇場総編集ぼざろは6月7日公開!!》 pixiv #119339731",
+			"url": "https://www.pixiv.net/artworks/119339731"
+		},
+		{
+			"key": "asleep",
+			"src": "asleep.jpg",
+			"credit": "插图：SuperPig《けいおん…？》 pixiv #106353960",
+			"url": "https://www.pixiv.net/artworks/106353960"
+		},
+		{
+			"key": "tired",
+			"src": "tired.jpg",
+			"credit": "插图：描愛ゆう《学園祭で疲れきって寝てしまったひとりちゃんとふたりちゃんzzZ》 pixiv #103969123",
+			"url": "https://www.pixiv.net/artworks/103969123"
+		}
+	]
+}

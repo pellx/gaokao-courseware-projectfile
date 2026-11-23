@@ -1,0 +1,130 @@
+{
+	"id": "WLD-07",
+	"title": "热力学第二定律与能源",
+	"subject": "physics",
+	"book": "热学 · 第7期 / 共7期",
+	"points": [
+		"宏观过程的方向性",
+		"克劳修斯表述",
+		"开尔文表述",
+		"第二类永动机",
+		"熵",
+		"能量耗散",
+		"能源的分类",
+		"能源的利用方式",
+		"能源与环境"
+	],
+	"intro": {
+		"badge": "高考物理 · 热学",
+		"title": [
+			[
+				"热力学第二定律",
+				true
+			],
+			[
+				"与能源"
+			]
+		],
+		"subtitle": "方向性 · 克劳修斯表述 · 开尔文表述 · 熵 · 能量耗散 · 能源",
+		"photo": "clausius.jpg",
+		"photoCaption": "克劳修斯：提出热力学第二定律的一种表述，并引入“熵”",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"热力学第二定律",
+					true
+				]
+			],
+			[
+				[
+					"与能源"
+				]
+			]
+		],
+		"photo": "clausius.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "克劳修斯",
+		"credit": "Popular Science Monthly, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ちんぴらごぼう",
+			"title": "寝起き志摩リン",
+			"url": "https://www.pixiv.net/artworks/105668475"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "热量不可能从低温物体传到高温物体",
+				"ok": false,
+				"fix": "不能“自发地”传，电冰箱可以"
+			},
+			{
+				"q": "热机的效率可以达到 100%",
+				"ok": false,
+				"fix": "不可能达到 100%"
+			},
+			{
+				"q": "第二类永动机违背能量守恒定律",
+				"ok": false,
+				"fix": "违背热力学第二定律"
+			},
+			{
+				"q": "孤立系统的自发过程朝熵增加的方向进行",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "能量耗散说明能量的总量在减少",
+				"ok": false,
+				"fix": "总量不变，品质降低"
+			},
+			{
+				"q": "水能、风能、太阳能属于可再生能源",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"热力学第二定律",
+				true
+			],
+			[
+				"与能源"
+			]
+		],
+		"endLine": "自发过程有方向，能量守恒品质降",
+		"slogan": "自发过程有方向，能量守恒品质降"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 《Rudolf Julius Emanuel Clausius》（Popular Science Monthly 第 35 卷插图，1889），公有领域；插图来自 pixiv：大青鱼 \\ Minusk9、n2、タティーノ（侵删）",
+	"anime": [
+		{
+			"key": "parfait",
+			"src": "parfait.jpg",
+			"credit": "插图：大青鱼 \\ Minusk9《喜多郁代》 pixiv #149874545",
+			"url": "https://www.pixiv.net/artworks/149874545"
+		},
+		{
+			"key": "bedhair",
+			"src": "bedhair.jpg",
+			"credit": "插图：n2《えなちく》 pixiv #88302378",
+			"url": "https://www.pixiv.net/artworks/88302378"
+		},
+		{
+			"key": "fire",
+			"src": "fire.jpg",
+			"credit": "插图：タティーノ《イヌコリックス大佐》 pixiv #105379745",
+			"url": "https://www.pixiv.net/artworks/105379745"
+		}
+	]
+}

@@ -1,0 +1,128 @@
+{
+	"id": "WLD-05",
+	"title": "固体和液体",
+	"subject": "physics",
+	"book": "热学 · 第5期 / 共7期",
+	"points": [
+		"晶体和非晶体",
+		"单晶体和多晶体",
+		"晶体的微观结构",
+		"晶体与非晶体的转化",
+		"材料科学",
+		"液体的表面张力",
+		"浸润和不浸润",
+		"毛细现象",
+		"液晶"
+	],
+	"intro": {
+		"badge": "高考物理 · 热学",
+		"title": [
+			[
+				"固体",
+				true
+			],
+			[
+				"和液体"
+			]
+		],
+		"subtitle": "晶体 · 非晶体 · 微观结构 · 表面张力 · 浸润 · 毛细现象 · 液晶",
+		"photo": "quartz.jpg",
+		"photoCaption": "石英晶体：天然晶体有规则的几何外形",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"固体",
+					true
+				],
+				[
+					"和液体"
+				]
+			]
+		],
+		"photo": "quartz.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "石英",
+		"credit": "Parent Géry, CC0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "こんぴさん@仕事募集中",
+			"title": "あっかりーん",
+			"url": "https://www.pixiv.net/artworks/54082972"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "有规则几何外形的固体一定是晶体，没有的一定是非晶体",
+				"ok": false,
+				"fix": "多晶体也没有规则外形，要看熔点"
+			},
+			{
+				"q": "多晶体有确定的熔点",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "晶体和非晶体在一定条件下可以相互转化",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "表面张力的方向垂直于液面",
+				"ok": false,
+				"fix": "与液面相切"
+			},
+			{
+				"q": "水银是不浸润液体，对任何固体都不浸润",
+				"ok": false,
+				"fix": "水银能浸润铅"
+			},
+			{
+				"q": "液晶的光学性质具有各向异性",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"固体",
+				true
+			],
+			[
+				"和液体"
+			]
+		],
+		"endLine": "晶体熔点看得准，表面张力切液面",
+		"slogan": "晶体熔点看得准，表面张力切液面"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Parent Géry《Cristaux de quartz (Brésil)》，CC0；插图来自 pixiv：らびつまん、红泥、理紅（侵删）",
+	"anime": [
+		{
+			"key": "swap",
+			"src": "swap.jpg",
+			"credit": "插图：らびつまん《髪型チェンジぼ虹》 pixiv #150989772",
+			"url": "https://www.pixiv.net/artworks/150989772"
+		},
+		{
+			"key": "umbrella",
+			"src": "umbrella.jpg",
+			"credit": "插图：红泥《无题》 pixiv #129274490",
+			"url": "https://www.pixiv.net/artworks/129274490"
+		},
+		{
+			"key": "selfie",
+			"src": "selfie.jpg",
+			"credit": "插图：理紅《ぴーすぴーす！》 pixiv #90691498",
+			"url": "https://www.pixiv.net/artworks/90691498"
+		}
+	]
+}

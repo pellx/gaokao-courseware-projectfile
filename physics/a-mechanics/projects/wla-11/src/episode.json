@@ -1,0 +1,129 @@
+{
+	"id": "WLA-11",
+	"title": "牛顿第一定律",
+	"subject": "physics",
+	"book": "力学 · 第11期 / 共32期",
+	"points": [
+		"亚里士多德的观点",
+		"伽利略理想斜面实验",
+		"笛卡儿的补充",
+		"牛顿第一定律",
+		"定律的地位",
+		"力和运动的关系",
+		"惯性",
+		"惯性不是力"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"牛顿",
+				true
+			],
+			[
+				"第一定律"
+			]
+		],
+		"subtitle": "理想斜面 · 惯性定律 · 力与运动",
+		"photo": "discorsi.jpg",
+		"photoCaption": "伽利略《关于两门新科学的对话》（1638，莱顿）扉页：书中讨论了斜面上的运动，指出没有阻碍时，水平面上的运动将永远持续",
+		"photoPos": "50% 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"牛顿",
+					true
+				]
+			],
+			[
+				[
+					"第一定律"
+				]
+			]
+		],
+		"photo": "discorsi.jpg",
+		"photoPos": {
+			"16x9": "50% 25%",
+			"4x3": "50% 25%",
+			"3x4": "50% 30%"
+		},
+		"photoTag": "伽利略",
+		"credit": "Galileo Galilei, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Ｍ",
+			"title": "アッカリーン",
+			"url": "https://www.pixiv.net/artworks/44884162"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "力是维持物体运动的原因",
+				"ok": false,
+				"fix": "力是改变运动状态的原因"
+			},
+			{
+				"q": "伽利略理想斜面实验是在可靠事实基础上的合理外推",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "牛顿第一定律可以用实验直接验证",
+				"ok": false,
+				"fix": "不受力的物体不存在，不能直接验证"
+			},
+			{
+				"q": "质量是惯性大小的唯一量度",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "速度越大的物体惯性越大",
+				"ok": false,
+				"fix": "惯性只由质量决定"
+			},
+			{
+				"q": "急刹车时乘客受到惯性作用向前倾",
+				"ok": false,
+				"fix": "惯性不是力，应说由于惯性"
+			}
+		],
+		"endTitle": [
+			[
+				"牛顿",
+				true
+			],
+			[
+				"第一定律"
+			]
+		],
+		"endLine": "力改状态不维持，惯性只看质量",
+		"slogan": "力改状态不维持，惯性只看质量"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Galileo Galilei《Discorsi e dimostrazioni matematiche intorno a due nuove scienze》（1638）扉页（Commons：Galileo Galilei, Discorsi e Dimostrazioni Matematiche Intorno a Due Nuove Scienze.jpg），公有领域；插图来自 pixiv：きのみきのぼり、チャイ、大佐（仮）（侵删）",
+	"anime": [
+		{
+			"key": "swing",
+			"src": "swing.jpg",
+			"credit": "插图：きのみきのぼり《ブランコ様》 pixiv #83735894",
+			"url": "https://www.pixiv.net/artworks/83735894"
+		},
+		{
+			"key": "daifuku",
+			"src": "daifuku.jpg",
+			"credit": "插图：チャイ《いちご大福》 pixiv #114907661",
+			"url": "https://www.pixiv.net/artworks/114907661"
+		},
+		{
+			"key": "train",
+			"src": "train.jpg",
+			"credit": "插图：大佐（仮）《無題》 pixiv #68136551",
+			"url": "https://www.pixiv.net/artworks/68136551"
+		}
+	]
+}

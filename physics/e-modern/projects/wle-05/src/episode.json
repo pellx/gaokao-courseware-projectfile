@@ -1,0 +1,132 @@
+{
+	"id": "WLE-05",
+	"title": "原子的核式结构模型",
+	"subject": "physics",
+	"book": "近代物理 · 第5期 / 共9期",
+	"points": [
+		"电子的发现",
+		"电子发现的意义",
+		"电子电荷量的测定",
+		"汤姆孙的原子模型",
+		"α粒子散射实验",
+		"核式结构模型",
+		"对实验现象的解释",
+		"原子核的电荷与尺度",
+		"核式结构的困难"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"原子的",
+				false
+			],
+			[
+				"核式结构模型",
+				true
+			]
+		],
+		"subtitle": "电子的发现 · 汤姆孙模型 · α 粒子散射 · 核式结构",
+		"photo": "rutherford.jpg",
+		"photoCaption": "卢瑟福：1911 年提出原子的核式结构模型",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"原子的"
+				]
+			],
+			[
+				[
+					"核式结构模型",
+					true
+				]
+			]
+		],
+		"photo": "rutherford.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "卢瑟福",
+		"credit": "Bain News Service, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "とこゆ",
+			"title": "ぼっちちゃん／ぼっち・ざ・ろっく！",
+			"url": "https://www.pixiv.net/artworks/142863368"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "阴极射线是一种电磁波",
+				"ok": false,
+				"fix": "阴极射线是带负电的电子流"
+			},
+			{
+				"q": "带电体的电荷量都是元电荷 e 的整数倍",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "汤姆孙模型中，正电荷集中在原子中心的核里",
+				"ok": false,
+				"fix": "正电荷均匀分布在整个原子内"
+			},
+			{
+				"q": "α 粒子散射实验中，绝大多数 α 粒子发生大角度偏转",
+				"ok": false,
+				"fix": "绝大多数基本沿原方向前进"
+			},
+			{
+				"q": "原子的全部正电荷和几乎全部质量集中在原子核里",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "原子核半径的数量级是 10^-15 m",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"原子的",
+				false
+			],
+			[
+				"核式结构模型",
+				true
+			]
+		],
+		"endLine": "核小质量大，原子大半空",
+		"slogan": "核小质量大，原子大半空"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Bain News Service《Sir Ernest Rutherford》（Library of Congress，修复版），公有领域；插图来自 pixiv：大木菜こたつ、はるる缶サブ、Breathe Life（侵删）",
+	"anime": [
+		{
+			"key": "cake",
+			"src": "cake.jpg",
+			"credit": "插图：大木菜こたつ《クリスマスいちごケーキ》 pixiv #114502324",
+			"url": "https://www.pixiv.net/artworks/114502324"
+		},
+		{
+			"key": "curl",
+			"src": "curl.jpg",
+			"credit": "插图：はるる缶サブ《転がるぼっちちゃん》 pixiv #104229489",
+			"url": "https://www.pixiv.net/artworks/104229489"
+		},
+		{
+			"key": "box",
+			"src": "box.jpg",
+			"credit": "插图：Breathe Life《ぼっちちゃん》 pixiv #103501635",
+			"url": "https://www.pixiv.net/artworks/103501635"
+		}
+	]
+}

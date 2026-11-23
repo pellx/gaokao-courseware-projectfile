@@ -1,0 +1,130 @@
+{
+	"id": "WLE-06",
+	"title": "氢原子光谱与玻尔模型",
+	"subject": "physics",
+	"book": "近代物理 · 第6期 / 共9期",
+	"points": [
+		"光谱",
+		"氢原子光谱的规律",
+		"经典理论的困难",
+		"轨道量子化与定态",
+		"玻尔的频率条件",
+		"氢原子的能级",
+		"电离",
+		"跃迁与电离辨析",
+		"玻尔理论的成败"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"氢原子光谱",
+				true
+			],
+			[
+				"与玻尔模型"
+			]
+		],
+		"subtitle": "线状谱 · 巴耳末公式 · 定态与跃迁 · 能级 · 电离",
+		"photo": "bohr.jpg",
+		"photoCaption": "玻尔：1913 年提出氢原子的量子化模型",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"氢原子光谱",
+					true
+				]
+			],
+			[
+				[
+					"与玻尔模型"
+				]
+			]
+		],
+		"photo": "bohr.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "玻尔",
+		"credit": "AIP, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Hiviki Nalchemy",
+			"title": "1周年おめでとうございます沙綾",
+			"url": "https://www.pixiv.net/artworks/67901207"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "各种原子发射的光谱都是线状谱",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电子在定态轨道上运动时不断辐射电磁波",
+				"ok": false,
+				"fix": "定态中不辐射能量"
+			},
+			{
+				"q": "原子从高能级跃迁到低能级时吸收光子",
+				"ok": false,
+				"fix": "从高能级跃迁到低能级时放出光子"
+			},
+			{
+				"q": "氢原子基态能量为 −13.6 eV",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "基态氢原子能吸收 11 eV 的光子跃迁到激发态",
+				"ok": false,
+				"fix": "光子能量必须恰好等于能级差"
+			},
+			{
+				"q": "玻尔理论不能解释较复杂原子的光谱",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"氢原子光谱",
+				true
+			],
+			[
+				"与玻尔模型"
+			]
+		],
+		"endLine": "跃迁恰好等于差，电离只要够得着",
+		"slogan": "跃迁恰好等于差，电离只要够得着"
+	},
+	"credits": "图片来源：Wikimedia Commons —— The American Institute of Physics《Niels Bohr》（约 1922），公有领域；插图来自 pixiv：大木菜こたつ、pulmo、ぴっつぁ@1日目東オ46ab（侵删）",
+	"anime": [
+		{
+			"key": "star",
+			"src": "star.jpg",
+			"credit": "插图：大木菜こたつ《猫耳のぼっちちゃんー》 pixiv #117365150",
+			"url": "https://www.pixiv.net/artworks/117365150"
+		},
+		{
+			"key": "stairs",
+			"src": "stairs.jpg",
+			"credit": "插图：pulmo《今日も練習》 pixiv #109620672",
+			"url": "https://www.pixiv.net/artworks/109620672"
+		},
+		{
+			"key": "jump",
+			"src": "jump.jpg",
+			"credit": "插图：ぴっつぁ@1日目東オ46ab《きゅぴーん！》 pixiv #84262272",
+			"url": "https://www.pixiv.net/artworks/84262272"
+		}
+	]
+}

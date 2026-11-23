@@ -1,0 +1,129 @@
+{
+	"id": "WLE-04",
+	"title": "光的波粒二象性与物质波",
+	"subject": "physics",
+	"book": "近代物理 · 第4期 / 共9期",
+	"points": [
+		"康普顿效应",
+		"光子的动量",
+		"光的粒子性",
+		"光的波粒二象性",
+		"德布罗意假设",
+		"物质波的实验验证",
+		"宏观物体的波动性",
+		"量子力学的建立"
+	],
+	"intro": {
+		"badge": "高考物理 · 近代物理",
+		"title": [
+			[
+				"光的波粒二象性",
+				true
+			],
+			[
+				"与物质波"
+			]
+		],
+		"subtitle": "康普顿效应 · 光子动量 · 波粒二象性 · 物质波",
+		"photo": "solvay-1927.jpg",
+		"photoCaption": "1927 年第五届索尔维会议：量子力学的奠基者们齐聚一堂",
+		"photoPos": "center 62%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"波粒二象性",
+					true
+				]
+			],
+			[
+				[
+					"与物质波"
+				]
+			]
+		],
+		"photo": "solvay-1927.jpg",
+		"photoPos": {
+			"16x9": "center 62%",
+			"4x3": "55% 62%",
+			"3x4": "55% 62%"
+		},
+		"photoTag": "索尔维会议",
+		"credit": "Benjamin Couprie, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "Z君·DD中",
+			"title": "愛音ちゃん",
+			"url": "https://www.pixiv.net/artworks/130594448"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "康普顿效应中，散射线出现了波长更短的成分",
+				"ok": false,
+				"fix": "出现了波长更长的成分"
+			},
+			{
+				"q": "光子的动量 p = h/λ",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光电效应和康普顿效应都说明光具有粒子性",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "光有时是波、有时是粒子，二者不能同时具有",
+				"ok": false,
+				"fix": "光同时具有波动性和粒子性"
+			},
+			{
+				"q": "电子束穿过晶体的衍射证实了电子具有波动性",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "宏观物体没有波动性",
+				"ok": false,
+				"fix": "宏观物体也有波动性，只是波长太小观察不到"
+			}
+		],
+		"endTitle": [
+			[
+				"光的波粒二象性",
+				true
+			],
+			[
+				"与物质波"
+			]
+		],
+		"endLine": "光有波粒二象性，物质波长 h/p",
+		"slogan": "光有波粒二象性，物质波长 h/p"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Benjamin Couprie《Solvay conference 1927》（1927），公有领域；插图来自 pixiv：大木菜こたつ、松風ねこころ、夏メグ（侵删）",
+	"anime": [
+		{
+			"key": "donut",
+			"src": "donut.jpg",
+			"credit": "插图：大木菜こたつ《猫耳のぼっちちゃん》 pixiv #115534953",
+			"url": "https://www.pixiv.net/artworks/115534953"
+		},
+		{
+			"key": "bear",
+			"src": "bear.jpg",
+			"credit": "插图：松風ねこころ《弦巻こころとミッシェルと奥沢美咲の複雑な三角関係》 pixiv #63561297",
+			"url": "https://www.pixiv.net/artworks/63561297"
+		},
+		{
+			"key": "tiny",
+			"src": "tiny.jpg",
+			"credit": "插图：夏メグ《ちっこいあやちゃん》 pixiv #72680864",
+			"url": "https://www.pixiv.net/artworks/72680864"
+		}
+	]
+}

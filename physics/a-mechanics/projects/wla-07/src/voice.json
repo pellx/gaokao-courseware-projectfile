@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|摩擦力。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲摩擦力的产生条件、滑动摩擦力和静摩擦力的方向与大小，以及摩擦力阻碍的是什么，共七个考点。",
+		"seconds": 10.032
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，两个相互接触的物体，当它们发生相对运动或具有相对运动的趋势时，",
+		"seconds": 7.464
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|在接触面上会产生阻碍相对运动或相对运动趋势的力，这种力叫摩擦力。",
+		"seconds": 7.512
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|发生相对运动时产生的是滑动摩擦力；只有相对运动趋势、仍相对静止时产生的是静摩擦力。",
+		"seconds": 9.072
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|摩擦力作用在接触面上，方向沿着接触面。",
+		"seconds": 4.464
+	},
+	"a5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：摩擦力阻碍的是相对运动或相对运动趋势。",
+		"seconds": 5.304
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，摩擦力的产生条件有三个：",
+		"seconds": 3.816
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|第一，接触面粗糙；第二，两物体相互挤压，也就是接触面上有弹力；",
+		"seconds": 6.888
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|第三，两物体间有相对运动或相对运动的趋势。三个条件缺一不可。",
+		"seconds": 7.176
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|所以有摩擦力，接触面上一定有弹力；而且摩擦力的方向与弹力的方向垂直。",
+		"seconds": 7.656
+	},
+	"b5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：有摩擦力一定有弹力，但有弹力不一定有摩擦力。",
+		"seconds": 5.808
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，滑动摩擦力的方向：沿着接触面，",
+		"seconds": 4.488
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|并且跟物体相对于接触物的运动方向相反。",
+		"seconds": 4.152
+	},
+	"c2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这只趴在地上往前滑的猫耳小女孩：她相对地面向前滑，地面给她的滑动摩擦力就向后，她很快就停下来了。",
+		"seconds": 10.464
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|这里说的是相对于接触的那个物体，不一定是相对于地面。",
+		"seconds": 5.376
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：滑动摩擦力与相对运动方向相反，不一定与物体的运动方向相反。",
+		"seconds": 7.128
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，滑动摩擦力的大小跟压力成正比，F f等于缪乘F N。",
+		"seconds": 6.72
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|F N是两个物体接触面间的压力，它不一定等于物体的重力。",
+		"seconds": 5.568
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|缪叫动摩擦因数，与两个接触面的材料和粗糙程度有关；它是两个力的比值，没有单位。",
+		"seconds": 8.328
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|滑动摩擦力的大小与接触面积、相对运动速度的大小无关。",
+		"seconds": 5.712
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：F N是压力，不能一律用重力m g代替。",
+		"seconds": 5.112
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，静摩擦力：两个物体相对静止，但有相对运动的趋势时产生。",
+		"seconds": 6.912
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如用水平力推箱子没推动，箱子相对地面有向前滑的趋势，地面就给它一个向后的静摩擦力。",
+		"seconds": 8.736
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|静摩擦力的方向沿着接触面，跟物体相对运动趋势的方向相反。",
+		"seconds": 6.24
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|弹吉他的眼镜女孩攥着琴颈：吉他有向下滑的趋势，手却没让它滑下去，靠的是手给吉他的静摩擦力。",
+		"seconds": 9.696
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：判断静摩擦力的方向，先找相对运动趋势的方向，静摩擦力与它相反。",
+		"seconds": 7.632
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，静摩擦力的大小随外力变化：推力增大，静摩擦力也跟着增大。",
+		"seconds": 7.488
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|它有一个限度，叫最大静摩擦力F max，所以静摩擦力大于零、小于等于F max。",
+		"seconds": 8.136
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|推力超过最大静摩擦力，物体就开始滑动，静摩擦力变成滑动摩擦力。",
+		"seconds": 7.104
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|最大静摩擦力略大于滑动摩擦力，粗略计算时可以认为二者相等。",
+		"seconds": 6.576
+	},
+	"f5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：静摩擦力的大小不能用缪F N计算，要由物体的受力和运动状态确定。",
+		"seconds": 7.584
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，概念辨析：摩擦力阻碍的是相对运动，不是阻碍物体的运动。",
+		"seconds": 6.768
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以摩擦力的方向可以与物体的运动方向相反，也可以相同，摩擦力既可以是阻力，也可以是动力。",
+		"seconds": 9.336
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|运动的物体可以受静摩擦力：随传送带一起匀速上行的箱子，受到沿传送带向上的静摩擦力。",
+		"seconds": 8.904
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|叼着面包往学校狂奔的女孩：脚向后蹬地，地面给脚的静摩擦力向前，正是这个力让她跑起来。",
+		"seconds": 9.192
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：摩擦力可以是动力；静止的物体也可以受滑动摩擦力，运动的物体也可以受静摩擦力。",
+		"seconds": 8.784
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：有弹力就一定有摩擦力？错，还要粗糙、有相对运动或趋势。判断二：滑动摩擦力与相对运动方向相反？对。",
+		"seconds": 13.032
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：F N一定等于重力？错，F N是压力。判断四：动摩擦因数没有单位？对。",
+		"seconds": 10.2
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：静摩擦力能用缪F N计算？错，它随外力变化。判断六：摩擦力可以是动力？对。",
+		"seconds": 10.416
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|摩擦只管相对动，静摩擦随外力变。下一期：牛顿第三定律与受力分析。",
+		"seconds": 7.824
+	}
+}

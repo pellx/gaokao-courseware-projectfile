@@ -1,0 +1,132 @@
+{
+	"id": "WLA-13",
+	"title": "牛顿运动定律的应用与超重、失重",
+	"subject": "physics",
+	"book": "力学 · 第13期 / 共32期",
+	"points": [
+		"力和运动的桥梁",
+		"两类基本问题",
+		"实重与视重",
+		"超重",
+		"失重",
+		"完全失重",
+		"生活中的超重失重",
+		"只看加速度方向"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"牛顿运动定律的应用",
+				true
+			],
+			[
+				"与超重、失重"
+			]
+		],
+		"subtitle": "加速度是桥梁 · 视重 · 超重 · 失重 · 完全失重",
+		"photo": "otis.jpg",
+		"photoCaption": "1854 年，奥的斯在纽约水晶宫展示安全升降机：站在平台上让人砍断吊绳，平台被安全装置卡住。电梯起动、制动时最能体会超重和失重",
+		"photoPos": "60% 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"牛顿定律",
+					true
+				],
+				[
+					"的应用"
+				]
+			],
+			[
+				[
+					"超重与失重"
+				]
+			]
+		],
+		"photo": "otis.jpg",
+		"photoPos": {
+			"16x9": "60% 30%",
+			"4x3": "60% 30%",
+			"3x4": "62% 30%"
+		},
+		"photoTag": "升降机",
+		"credit": "Unknown author, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "松崎げん",
+			"title": "ミッシェルカフェ",
+			"url": "https://www.pixiv.net/artworks/83396530"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "加速度是联系受力和运动的桥梁",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "超重时物体的重力变大了",
+				"ok": false,
+				"fix": "重力不变，变的是视重"
+			},
+			{
+				"q": "减速下降的电梯里的人处于超重状态",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "向上运动的物体一定处于超重状态",
+				"ok": false,
+				"fix": "只看加速度方向，减速上升是失重"
+			},
+			{
+				"q": "绕地球运行的航天器中的物体不受重力",
+				"ok": false,
+				"fix": "受重力，处于完全失重状态"
+			},
+			{
+				"q": "人在力传感器上下蹲时先失重后超重",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"牛顿运动定律的应用",
+				true
+			],
+			[
+				"与超重、失重"
+			]
+		],
+		"endLine": "加速度向上超重，向下失重，重力不变",
+		"slogan": "加速度向上超重，向下失重"
+	},
+	"credits": "图片来源：Wikimedia Commons —— 佚名《Elisha OTIS 1854》（奥的斯展示安全升降机，Commons：Elisha OTIS 1854 (cropped).jpg），公有领域；插图来自 pixiv：と～ふや、8810⋱YouTube開始⋰、六合ダイスケ（侵删）",
+	"anime": [
+		{
+			"key": "scale",
+			"src": "scale.jpg",
+			"credit": "插图：と～ふや《体重測定でインチキをする霊夢》 pixiv #131421984",
+			"url": "https://www.pixiv.net/artworks/131421984"
+		},
+		{
+			"key": "sofa",
+			"src": "sofa.jpg",
+			"credit": "插图：8810⋱YouTube開始⋰《no.566『 子供にとってのソファ。』》 pixiv #75389246",
+			"url": "https://www.pixiv.net/artworks/75389246"
+		},
+		{
+			"key": "tramp",
+			"src": "tramp.jpg",
+			"credit": "插图：六合ダイスケ《跳ねるミケちゃん》 pixiv #108052856",
+			"url": "https://www.pixiv.net/artworks/108052856"
+		}
+	]
+}

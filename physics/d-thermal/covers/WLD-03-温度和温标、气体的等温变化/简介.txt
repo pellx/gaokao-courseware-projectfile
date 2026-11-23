@@ -1,0 +1,22 @@
+本期考点
+
+一、状态参量（压强 p、体积 V、温度 T）
+二、平衡态（无外界影响时状态参量不随时间变化）
+三、热平衡与热平衡定律（与第三个系统热平衡的两个系统彼此热平衡）
+四、温度（热平衡的系统温度相同）
+五、温标与热力学温度（T = t + 273.15 K，ΔT = Δt）
+六、玻意耳定律（一定质量、温度不变：pV = C）
+七、等温线（p-V 双曲线，离原点越远温度越高）
+
+图片来源
+1.Johann Kerseboom《The Shannon Portrait of the Hon Robert Boyle》（约 1689），Science History Institute 藏，公有领域（Wikimedia Commons）
+2.插图：トキワ《1＋3》
+https://www.pixiv.net/artworks/102485377
+3.插图：ありーたさん《リョウと虹夏 「あーん」》
+https://www.pixiv.net/artworks/139816514
+4.插图：kurou《虹夏…水頂戴…》
+https://www.pixiv.net/artworks/109973095
+5.封面插图：ありーたさん《結束バンド 寝正月》
+https://www.pixiv.net/artworks/115688641
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

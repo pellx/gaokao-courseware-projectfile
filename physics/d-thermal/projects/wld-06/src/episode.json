@@ -1,0 +1,126 @@
+{
+	"id": "WLD-06",
+	"title": "热力学第一定律与能量守恒定律",
+	"subject": "physics",
+	"book": "热学 · 第6期 / 共7期",
+	"points": [
+		"焦耳的实验",
+		"功与内能",
+		"热与内能",
+		"做功和传热",
+		"热力学第一定律",
+		"符号约定",
+		"能量守恒定律",
+		"能量守恒定律的发现",
+		"第一类永动机"
+	],
+	"intro": {
+		"badge": "高考物理 · 热学",
+		"title": [
+			[
+				"热力学第一定律",
+				true
+			],
+			[
+				"与能量守恒定律"
+			]
+		],
+		"subtitle": "焦耳的实验 · 功与热 · ΔU = Q + W · 能量守恒 · 永动机",
+		"photo": "joule-apparatus.png",
+		"photoCaption": "焦耳的实验装置：重物下落带动叶片搅水，测出功与热的关系",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"热力学第一定律",
+					true
+				]
+			],
+			[
+				[
+					"能量守恒定律"
+				]
+			]
+		],
+		"photo": "joule-apparatus.png",
+		"photoPos": "center",
+		"photoTag": "焦耳的实验",
+		"credit": "Jacob Abbott, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ekkoming",
+			"title": "なでしことリン",
+			"url": "https://www.pixiv.net/artworks/142330519"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "绝热过程中，外界做功的多少与做功的方式有关",
+				"ok": false,
+				"fix": "只由始末状态决定"
+			},
+			{
+				"q": "热量是物体含有的内能的多少",
+				"ok": false,
+				"fix": "热量是过程量"
+			},
+			{
+				"q": "做功和传热在改变内能上效果等价",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "外界对气体做功，气体内能一定增加",
+				"ok": false,
+				"fix": "气体还可能放热"
+			},
+			{
+				"q": "一定质量理想气体等温膨胀时从外界吸热",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "第一类永动机违背能量守恒定律",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"热力学第一定律",
+				true
+			],
+			[
+				"与能量守恒定律"
+			]
+		],
+		"endLine": "内能增量等于热量加功，能量总量不变",
+		"slogan": "内能增量等于热量加功，能量总量不变"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Jacob Abbott《Joule's Apparatus》（Harper's New Monthly Magazine 插图），公有领域；插图来自 pixiv：yas△、kusco△、ハンボ（侵删）",
+	"anime": [
+		{
+			"key": "rub",
+			"src": "rub.jpg",
+			"credit": "插图：yas△《えやひゃんおひゃんひょうひおへへとう》 pixiv #147597693",
+			"url": "https://www.pixiv.net/artworks/147597693"
+		},
+		{
+			"key": "warm",
+			"src": "warm.jpg",
+			"credit": "插图：kusco△《きららファンタジア志摩リン》 pixiv #147435211",
+			"url": "https://www.pixiv.net/artworks/147435211"
+		},
+		{
+			"key": "loop",
+			"src": "loop.jpg",
+			"credit": "插图：ハンボ pixiv #118149507",
+			"url": "https://www.pixiv.net/artworks/118149507"
+		}
+	]
+}

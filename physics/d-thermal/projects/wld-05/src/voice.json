@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|固体和液体。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲晶体和非晶体、晶体的微观结构、表面张力、浸润和毛细现象以及液晶，共九个考点。",
+		"seconds": 9.264
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，晶体和非晶体。固体分为晶体和非晶体，最主要的区别是：晶体有确定的熔点，非晶体没有。",
+		"seconds": 10.152
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|石英、云母、明矾、食盐、味精、蔗糖、各种金属都是晶体。",
+		"seconds": 6.984
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|玻璃、蜂蜡、松香、沥青、橡胶是非晶体，加热时先变软，再逐渐变成液体。",
+		"seconds": 8.424
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断晶体与非晶体，要看有没有确定的熔点，不能只看外形是否规则。",
+		"seconds": 7.584
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，单晶体和多晶体。单晶体有规则的几何形状，某些物理性质表现为各向异性。",
+		"seconds": 8.808
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|比如云母片上涂一层蜡，用热针接触背面，蜡熔化的区域呈椭圆形，说明导热性能各向异性。",
+		"seconds": 9
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|多晶体由许多杂乱排列的小晶粒组成，没有规则的几何形状，表现为各向同性，但仍有确定的熔点。",
+		"seconds": 9.288
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：金属是多晶体；非晶体和多晶体都各向同性，单晶体才可能各向异性。",
+		"seconds": 8.016
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，晶体的微观结构。组成晶体的原子、分子或离子，在空间按照一定的规则整齐排列。",
+		"seconds": 9.432
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|微粒之间有很强的相互作用，只能在各自的平衡位置附近振动。",
+		"seconds": 6.024
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|同种微粒按不同规则排列，可以形成不同的晶体：碳原子能构成坚硬的金刚石，也能构成柔软的石墨。",
+		"seconds": 9.744
+	},
+	"t3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这两个女孩互换了发型和衣服：人还是那两个人，看上去却完全不同。同种碳原子排列方式不同，就成了金刚石或石墨。",
+		"seconds": 11.808
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：晶体的各向异性，是因为沿不同方向微粒的排列情况不同。",
+		"seconds": 6.264
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，晶体与非晶体的转化。在一定条件下，晶体和非晶体可以相互转化。",
+		"seconds": 7.944
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如天然石英是晶体，熔化后再凝固成的石英玻璃却是非晶体；把晶体硫加热熔化后倒进冷水，会变成柔软的非晶体硫。",
+		"seconds": 11.712
+	},
+	"v2b": {
+		"key": "zh-CN-XiaoxiaoNeural|反过来，有些非晶体在一定条件下也可以转化为晶体。",
+		"seconds": 5.544
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同一种物质，可能以晶体和非晶体两种形态出现，晶体与非晶体不是绝对的。",
+		"seconds": 8.232
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，材料科学。人们对物质微观结构的认识，推动了新材料的研制。",
+		"seconds": 7.392
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|半导体、超导体、纳米材料、液晶、石墨烯等碳材料，都是在认识微观结构的基础上研制出来的。",
+		"seconds": 9.48
+	},
+	"n2b": {
+		"key": "zh-CN-XiaoxiaoNeural|比如石墨烯，只有一层碳原子那么厚，强度很高，导电、导热性能很好。",
+		"seconds": 7.008
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：新材料深刻影响着生产生活和社会进步，比如芯片、显示屏和高性能电池。",
+		"seconds": 8.544
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，液体的表面张力。液体表面层的分子比内部稀疏，分子间距离大于r零，分子力表现为引力。",
+		"seconds": 10.368
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|这种引力使液面像张紧的膜，有收缩的趋势，这就是表面张力，方向与液面相切。",
+		"seconds": 8.064
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|露珠和小水银滴呈球形，水黾能停在水面上，都是表面张力的作用。",
+		"seconds": 6.84
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|撑着透明雨伞的红发女孩：雨水落在伞面上，在表面张力作用下收缩成一颗颗小水珠。",
+		"seconds": 8.424
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：表面张力的方向与液面相切，不是垂直于液面。",
+		"seconds": 5.664
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，浸润和不浸润。一种液体会润湿某种固体并附着在固体表面上，叫浸润；不会润湿的叫不浸润。",
+		"seconds": 10.8
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|水能浸润玻璃，在玻璃上铺开；水银不浸润玻璃，在玻璃上缩成小球。",
+		"seconds": 7.056
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|但水银能浸润铅，水不能浸润荷叶。",
+		"seconds": 3.84
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：浸润与否取决于液体和固体两种物质的性质，不能单说某种液体是浸润液体。",
+		"seconds": 8.4
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，毛细现象。浸润液体在细管中上升，不浸润液体在细管中下降。",
+		"seconds": 7.824
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|管子越细，毛细现象越明显。",
+		"seconds": 3.312
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|毛巾吸水、灯芯吸油、土壤里的水分沿着细小孔隙上升，都是毛细现象。",
+		"seconds": 7.2
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：毛细现象是表面张力和浸润、不浸润共同作用的结果；锄松土壤可以破坏毛细管，保存水分。",
+		"seconds": 10.08
+	},
+	"q1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，液晶。液晶既有液体的流动性，又像某些晶体那样，光学性质具有各向异性。",
+		"seconds": 8.712
+	},
+	"q2": {
+		"key": "zh-CN-XiaoxiaoNeural|液晶分子的排列会随外加电压改变，从而改变透光情况，所以用于液晶显示。",
+		"seconds": 7.536
+	},
+	"q2b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩举着手机自拍：很多手机、电脑的显示屏，就是利用液晶分子在电压下改变排列、控制透光来显示画面的。",
+		"seconds": 11.208
+	},
+	"q3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：液晶不是晶体，也不是普通液体，它介于两者之间。",
+		"seconds": 5.88
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：没有规则外形的一定是非晶体？错，多晶体也没有，要看熔点。判断二：多晶体有确定熔点？对。",
+		"seconds": 11.76
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：晶体和非晶体可以相互转化？对。判断四：表面张力垂直于液面？错，与液面相切。",
+		"seconds": 10.992
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：水银对任何固体都不浸润？错，水银能浸润铅。判断六：液晶光学性质各向异性？对。",
+		"seconds": 10.896
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|晶体熔点看得准，表面张力切液面。下一期：热力学第一定律与能量守恒定律。",
+		"seconds": 8.256
+	}
+}

@@ -1,0 +1,24 @@
+本期考点
+
+一、光电效应（光照使电子从金属表面逸出）
+二、研究装置（光电管，正向加速、反向减速）
+三、截止频率（低于 νc 不能发生，νc 由金属决定）
+四、饱和电流（频率一定，光越强饱和电流越大）
+五、遏止电压（eUc = Ek，只与频率有关）
+六、瞬时性与经典困难（三条规律经典理论解释不了）
+七、光电效应方程（Ek = hν − W₀，W₀ = hνc）
+八、方程对规律的解释（频率管能量，光强管数目）
+九、密立根的实验验证（Uc⁻ν 图线斜率为 h/e）
+
+图片来源
+1.Robert Millikan《Millikan photoelectric experiment》（Physical Review 1916），公有领域（Wikimedia Commons）
+2.插图：はるゐろは《生まれたての承認欲求モンスター》
+https://www.pixiv.net/artworks/105703215
+3.插图：ほたるる《クリスマスぼっち》
+https://www.pixiv.net/artworks/103808560
+4.插图：つかさ《メンダコのぼっち》
+https://www.pixiv.net/artworks/106370841
+5.封面插图：ほたるる《喜多ちゃん》
+https://www.pixiv.net/artworks/116651600
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除
