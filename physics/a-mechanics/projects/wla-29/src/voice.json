@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|简谐运动及其描述。",
+		"seconds": 2.496
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲弹簧振子、简谐运动的图像和描述振动的物理量，共九个考点。",
+		"seconds": 6.936
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，机械振动。物体在平衡位置附近所做的往复运动，叫机械振动，简称振动。",
+		"seconds": 8.76
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|平衡位置是振动物体原来静止时的位置。",
+		"seconds": 4.2
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|钟摆的摆动、琴弦的颤动、心脏的跳动，都是振动。",
+		"seconds": 5.088
+	},
+	"v3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个黑长发的女孩在县界线两边来回横跳：那条线就像平衡位置，她在线两侧做往复运动。",
+		"seconds": 9.216
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：振动的两个特征，一是有平衡位置，二是往复运动。",
+		"seconds": 5.904
+	},
+	"o1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，弹簧振子。小球和弹簧组成的系统叫弹簧振子，简称振子。",
+		"seconds": 7.512
+	},
+	"o2": {
+		"key": "zh-CN-XiaoxiaoNeural|小球看成质点，忽略弹簧的质量，忽略摩擦和空气阻力。",
+		"seconds": 5.736
+	},
+	"o3": {
+		"key": "zh-CN-XiaoxiaoNeural|振子在平衡位置时，弹簧处于原长，小球所受合力为零。",
+		"seconds": 6
+	},
+	"o4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：弹簧振子是理想化模型。",
+		"seconds": 3.672
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，振子的位移—时间图像。可以用频闪照相记录振子在不同时刻的位置。",
+		"seconds": 8.16
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|也可以让振子带一支笔，在匀速移动的纸带上描出轨迹。",
+		"seconds": 5.76
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|纸带匀速移动，纸带上的距离就代表时间，描出的曲线就是x t图像。",
+		"seconds": 7.224
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：振子的位移是从平衡位置指向振子所在位置的有向线段。",
+		"seconds": 6.504
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，简谐运动。质点的位移与时间的关系遵从正弦函数的规律。",
+		"seconds": 7.224
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|也就是说，它的振动图像，即x t图像，是一条正弦曲线，这样的振动叫简谐运动。",
+		"seconds": 8.448
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|弹簧振子的运动就是简谐运动。",
+		"seconds": 3.312
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：简谐运动是最简单、最基本的振动。",
+		"seconds": 4.512
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，振幅、周期和频率。振幅A是振动物体离开平衡位置的最大距离，表示振动的强弱。",
+		"seconds": 9.792
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|完成一次全振动所用的时间叫周期T。",
+		"seconds": 4.104
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|单位时间内完成全振动的次数叫频率f，f等于T分之一，单位是赫兹。",
+		"seconds": 7.368
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：振幅是标量，总是正值；一个周期内振子通过的路程是四A。",
+		"seconds": 6.912
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，周期与振幅无关。同一个弹簧振子，振幅大一些或小一些，周期不变。",
+		"seconds": 7.992
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|简谐运动的周期和频率由振动系统本身决定，所以也叫固有周期和固有频率。",
+		"seconds": 7.608
+	},
+	"i2b": {
+		"key": "zh-CN-XiaoxiaoNeural|红头发的女孩在弹吉他：琴弦拨得轻、拨得重，响度不同，音调不变，因为弦振动的频率由琴弦本身决定。",
+		"seconds": 10.104
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：振幅越大，周期并不越大；周期与振幅无关。",
+		"seconds": 5.568
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，简谐运动的表达式：x等于A sin，括号，欧米伽t加斐。",
+		"seconds": 7.008
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|其中欧米伽等于T分之二π，等于二π f，叫做圆频率，表示简谐运动的快慢。",
+		"seconds": 7.896
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|欧米伽t加斐，叫做相位，表示振动物体此刻处于一个周期中的哪个状态。",
+		"seconds": 7.368
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|斐是t等于零时的相位，叫做初相。",
+		"seconds": 3.72
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：A、欧米伽、斐三个量确定了，简谐运动就完全确定。",
+		"seconds": 6.336
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，相位差。两个同频率的简谐运动，相位之差叫相位差：德尔塔斐等于斐二减斐一。",
+		"seconds": 9.552
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|相位差表示两个振动步调的差异。",
+		"seconds": 3.528
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|德尔塔斐等于零，两者步调一致，同时到达最大位移处。",
+		"seconds": 5.688
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|德尔塔斐等于π，两者步调相反，一个在正向最大位移处时，另一个在负向最大位移处。",
+		"seconds": 8.232
+	},
+	"p4b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个女孩面对面跳同一支舞：节拍一样，就是频率相同；动作同时做出来，相位差为零。谁抢先半拍，步调就错开了。",
+		"seconds": 11.664
+	},
+	"p5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：相位差描述的是两个同频率振动的步调差异。",
+		"seconds": 5.256
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，从x t图像获得信息。图线的最大值就是振幅A，相邻两个波峰之间的时间就是周期T。",
+		"seconds": 9.96
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|图线上任一点的纵坐标，就是该时刻振子的位移。",
+		"seconds": 4.728
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|图线上某点切线的斜率表示该时刻的速度：斜率为正，速度沿正方向。",
+		"seconds": 6.912
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|在最大位移处，切线水平，速度为零；在平衡位置，切线最陡，速度最大。",
+		"seconds": 7.68
+	},
+	"r5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：x t图像不是振子的运动轨迹，振子只在一条直线上往复运动。",
+		"seconds": 7.224
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：平衡位置是物体原来静止的位置？对。判断二：简谐运动的x t图像是正弦曲线？对。",
+		"seconds": 11.232
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：振幅越大周期越大？错，周期与振幅无关。判断四：一个周期内路程是二A？错，是四A。",
+		"seconds": 11.64
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：相位差为π，步调相反？对。判断六：x t图像就是运动轨迹？错，振子在直线上往复运动。",
+		"seconds": 11.688
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|正弦规律，周期由系统定。下一期：简谐运动的回复力和能量。",
+		"seconds": 6.84
+	}
+}

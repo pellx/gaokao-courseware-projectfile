@@ -1,0 +1,139 @@
+{
+	"id": "WLA-21",
+	"title": "功与功率",
+	"subject": "physics",
+	"book": "力学 · 第21期 / 共32期",
+	"points": [
+		"做功的两个要素",
+		"功的公式",
+		"正功和负功",
+		"总功",
+		"功率",
+		"功率与速度",
+		"功率一定时的牵引力",
+		"摩擦力做功"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"功",
+				true
+			],
+			[
+				"与"
+			],
+			[
+				"功率",
+				true
+			]
+		],
+		"subtitle": "功 · 正功负功 · 总功 · 功率 · P = Fv",
+		"photo": "wla21.jpg",
+		"photoCaption": "瓦特：改良蒸汽机，功率单位瓦特以他命名",
+		"photoPos": "center 25%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"功",
+					true
+				],
+				[
+					"与"
+				],
+				[
+					"功率",
+					true
+				]
+			]
+		],
+		"photo": "wla21.jpg",
+		"photoPos": {
+			"16x9": "center 25%",
+			"4x3": "center 25%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "瓦特",
+		"credit": "Carl Frederik von Breda, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ゐーちょ",
+			"title": "おひっこし～",
+			"url": "https://www.pixiv.net/artworks/104678242"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "用力推墙没推动，推力对墙做了功",
+				"ok": false,
+				"fix": "没有位移，不做功"
+			},
+			{
+				"q": "功有正负，所以功是矢量",
+				"ok": false,
+				"fix": "功是标量"
+			},
+			{
+				"q": "总功等于各个力做功的代数和",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "功率越大，做的功一定越多",
+				"ok": false,
+				"fix": "功率大是做功快"
+			},
+			{
+				"q": "P = Fv 中 v 取瞬时速度时求的是瞬时功率",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "滑动摩擦力一定做负功",
+				"ok": false,
+				"fix": "可正可负可不做功"
+			}
+		],
+		"endTitle": [
+			[
+				"功",
+				true
+			],
+			[
+				"与"
+			],
+			[
+				"功率",
+				true
+			]
+		],
+		"endLine": "功看力和位移，功率看快慢",
+		"slogan": "功看力和位移，功率看快慢"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Carl Frederik von Breda《James Watt》肖像，公有领域；插图来自 pixiv：かわいみな、もいにゅん、inika（侵删）",
+	"anime": [
+		{
+			"key": "boxes",
+			"src": "boxes.jpg",
+			"credit": "插图：かわいみな《お花を届けるまほう》 pixiv #57031021",
+			"url": "https://www.pixiv.net/artworks/57031021"
+		},
+		{
+			"key": "tug",
+			"src": "tug.jpg",
+			"credit": "插图：もいにゅん《綱引き》 pixiv #149864557",
+			"url": "https://www.pixiv.net/artworks/149864557"
+		},
+		{
+			"key": "slope",
+			"src": "slope.jpg",
+			"credit": "插图：inika《蝉が耳を塞ぐ》 pixiv #111237553",
+			"url": "https://www.pixiv.net/artworks/111237553"
+		}
+	]
+}

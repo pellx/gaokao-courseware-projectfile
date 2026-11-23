@@ -1,0 +1,23 @@
+本期考点
+
+一、碰撞的特点（时间极短，内力远大于外力，动量守恒）
+二、弹性碰撞与非弹性碰撞（动能不变或减少）
+三、完全非弹性碰撞（碰后共速，动能损失最大）
+四、弹性正碰的结果（动量守恒 + 动能守恒）
+五、对结果的讨论（等质量交换速度，轻撞重反弹）
+六、碰撞中的动能（总动能不会增加）
+七、对心碰撞与非对心碰撞（斜碰动量守恒按矢量成立）
+八、散射（微观粒子不接触的碰撞）
+
+图片来源
+1.Sheila Sund《Newton's Cradle》（Flickr 15221366308）CC BY 2.0（Wikimedia Commons）
+2.插图：吉銅ガト《ラウンドワンコラボの千束＆たきな》
+https://www.pixiv.net/artworks/122091648
+3.插图：大青鱼 \ Minusk9《孤独摇滚2期祝贺》
+https://www.pixiv.net/artworks/130576422
+4.插图：ErA《Newton's Cockatiel Cradle》
+https://www.pixiv.net/artworks/78199731
+5.封面插图：くぅもんせ《ぎゅむっ》
+https://www.pixiv.net/artworks/96118729
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

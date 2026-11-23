@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|功与功率。",
+		"seconds": 1.584
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲功的要素和公式、正功负功、总功，以及功率和P等于F v，共八个考点。",
+		"seconds": 7.968
+	},
+	"a1x": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，做功的两个要素。第一，有作用在物体上的力。",
+		"seconds": 5.808
+	},
+	"a2x": {
+		"key": "zh-CN-XiaoxiaoNeural|第二，物体在力的方向上发生了位移。",
+		"seconds": 4.128
+	},
+	"a3x": {
+		"key": "zh-CN-XiaoxiaoNeural|两个要素缺一不可：用力推墙推不动，墙没有位移，推力不做功。",
+		"seconds": 6.288
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这些摞在一起的纸箱：下面的箱子一直托着上面的，可上面的箱子没有移动，托力就不做功。",
+		"seconds": 8.664
+	},
+	"a4x": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：有力还要有沿力方向的位移，力才做功。",
+		"seconds": 4.704
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，功的公式W等于F l余弦阿尔法，阿尔法是力与位移的夹角。",
+		"seconds": 7.248
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|功是标量，只有大小，没有方向；功是过程量，对应一段位移。",
+		"seconds": 6.336
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|单位是焦耳，一焦等于一牛米。",
+		"seconds": 3.24
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：公式只适用于恒力做功，l 是物体对地的位移。",
+		"seconds": 5.712
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，正功和负功。阿尔法在零到九十度之间时，余弦为正，力做正功。",
+		"seconds": 7.752
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|阿尔法等于九十度时，力与位移垂直，力不做功。",
+		"seconds": 4.752
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|阿尔法在九十度到一百八十度之间时，力做负功，也说物体克服这个力做功。",
+		"seconds": 7.128
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这场拔河：左边的女孩拖着一串人往前走。她的拉力与位移同向，做正功；往回拽的人，拉力与位移反向，做负功。",
+		"seconds": 11.664
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：功的正负不表示方向，表示这个力是动力还是阻力。",
+		"seconds": 5.952
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，总功。几个力对物体做的总功，等于各个力分别做功的代数和。",
+		"seconds": 7.344
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|也等于这几个力的合力对物体做的功。",
+		"seconds": 3.696
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|即W总等于W一加W二加…，也等于F合l余弦阿尔法。",
+		"seconds": 6.576
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：功是标量，求总功直接带正负号相加，不用平行四边形定则。",
+		"seconds": 7.056
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，功率P等于W除以t，表示做功快慢的物理量，单位瓦特。",
+		"seconds": 6.888
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|额定功率是动力机械长时间正常工作的最大功率，实际功率可以小于额定功率。",
+		"seconds": 7.8
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|常见机械功率差别很大：人体约百瓦量级，汽车约几十千瓦，高铁列车可达上万千瓦。",
+		"seconds": 8.808
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：功率大表示做功快，不表示做功多。",
+		"seconds": 4.512
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，功率与速度。力F与速度v同向时，P等于F v。",
+		"seconds": 6.696
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|v 是平均速度时，P 是平均功率。",
+		"seconds": 3.72
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|v 是瞬时速度时，P 是瞬时功率。",
+		"seconds": 3.744
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：P等于W除以t一般求平均功率，P等于F v既能求平均功率也能求瞬时功率。",
+		"seconds": 9.024
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，由P等于F v，功率一定时，牵引力F与速度v成反比。",
+		"seconds": 6.936
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|汽车上坡需要较大的牵引力，司机换低速挡减小速度。",
+		"seconds": 5.688
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|在平直公路上阻力较小，就可以用较高的速度行驶。",
+		"seconds": 4.992
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|夕阳下骑车爬坡的女孩，蹬得慢慢悠悠：人的功率差不多一定，上坡要力气大，速度就只能慢下来。",
+		"seconds": 9.264
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：功率一定，要力大就得速度小，要速度大就得力小。",
+		"seconds": 5.976
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析：摩擦力做功。摩擦力的方向与相对运动或相对运动趋势的方向相反，不一定与对地位移相反。",
+		"seconds": 11.184
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|传送带把货物向上送，静摩擦力与货物位移同向，做正功。",
+		"seconds": 6.024
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|物块在桌面上滑行，滑动摩擦力做负功；静止的桌面受摩擦力但不动，摩擦力对桌面不做功。",
+		"seconds": 9.144
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：静摩擦力和滑动摩擦力都可以做正功、负功或不做功。",
+		"seconds": 6.336
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：推墙不动，推力做了功？错，没有位移。判断二：功有正负所以是矢量？错，功是标量。",
+		"seconds": 11.112
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：总功等于各力做功的代数和？对。判断四：功率越大做功越多？错，功率大是做功快。",
+		"seconds": 10.944
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：v取瞬时速度，P等于F v是瞬时功率？对。判断六：滑动摩擦力一定做负功？错。",
+		"seconds": 11.256
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|功看力和位移，功率看快慢。下一期：重力势能与弹性势能。",
+		"seconds": 6.84
+	}
+}

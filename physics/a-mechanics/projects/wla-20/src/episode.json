@@ -1,0 +1,118 @@
+{
+	"id": "WLA-20",
+	"title": "宇宙航行",
+	"subject": "physics",
+	"book": "力学 · 第20期 / 共32期",
+	"points": [
+		"牛顿的设想",
+		"卫星的运行规律",
+		"第一宇宙速度",
+		"发射速度与环绕速度",
+		"第二、第三宇宙速度",
+		"地球同步卫星",
+		"载人航天与太空探索",
+		"赤道上的物体与卫星"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"宇宙航行",
+				true
+			]
+		],
+		"subtitle": "卫星运行规律 · 三个宇宙速度 · 同步卫星 · 载人航天",
+		"photo": "wla20.jpg",
+		"photoCaption": "第一颗人造地球卫星的复制品（利物浦世界博物馆）",
+		"photoPos": "right center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"宇宙航行",
+					true
+				]
+			]
+		],
+		"photo": "wla20.jpg",
+		"photoPos": {
+			"16x9": "right center",
+			"4x3": "right center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "人造卫星",
+		"credit": "Rept0n1x, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "くぅもんせ",
+			"title": "宇宙飛行士うさぎ",
+			"url": "https://www.pixiv.net/artworks/131514187"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "卫星轨道越高，运行速度越大",
+				"ok": false,
+				"fix": "越高越小"
+			},
+			{
+				"q": "卫星的运行速度与卫星质量无关",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "7.9 km/s 是卫星的最小发射速度",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "达到 11.2 km/s 就能飞出太阳系",
+				"ok": false,
+				"fix": "需 16.7 km/s"
+			},
+			{
+				"q": "静止卫星可以定点在北京上空",
+				"ok": false,
+				"fix": "只能在赤道上空"
+			},
+			{
+				"q": "赤道上的物体随地球自转，速度等于 7.9 km/s",
+				"ok": false,
+				"fix": "远小于"
+			}
+		],
+		"endTitle": [
+			[
+				"宇宙航行",
+				true
+			]
+		],
+		"endLine": "高轨慢、低轨快，七点九是起跑线",
+		"slogan": "高轨慢、低轨快，七点九是起跑线"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Rept0n1x《Replica of Sputnik 1, World Museum Liverpool (1)》，CC BY-SA 3.0；插图来自 pixiv：ゆいれそ、大木菜こたつ、果坂青/omao（侵删）",
+	"anime": [
+		{
+			"key": "pitch",
+			"src": "pitch.jpg",
+			"credit": "插图：ゆいれそ《徳川まつり容疑者》 pixiv #71376054",
+			"url": "https://www.pixiv.net/artworks/71376054"
+		},
+		{
+			"key": "teru",
+			"src": "teru.jpg",
+			"credit": "插图：大木菜こたつ《てるてるまぞく》 pixiv #119136919",
+			"url": "https://www.pixiv.net/artworks/119136919"
+		},
+		{
+			"key": "scope",
+			"src": "scope.jpg",
+			"credit": "插图：果坂青/omao《冬の星のチカチカは望遠鏡の仇》 pixiv #66555088",
+			"url": "https://www.pixiv.net/artworks/66555088"
+		}
+	]
+}

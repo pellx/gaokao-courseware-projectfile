@@ -1,0 +1,129 @@
+{
+	"id": "WLA-28",
+	"title": "反冲现象与火箭",
+	"subject": "physics",
+	"book": "力学 · 第28期 / 共32期",
+	"points": [
+		"反冲现象",
+		"反冲遵循动量守恒",
+		"反冲中的能量",
+		"爆炸",
+		"反冲的应用与防止",
+		"火箭的原理",
+		"影响火箭速度的因素",
+		"火箭的发展"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"反冲现象",
+				true
+			],
+			[
+				"与火箭"
+			]
+		],
+		"subtitle": "反冲 · 动量守恒 · 爆炸 · 喷气速度 · 质量比 · 多级火箭",
+		"photo": "shuttle-launch.jpg",
+		"photoCaption": "航天飞机夜间发射：燃气高速向下喷出，航天器获得向上的反冲",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"反冲现象",
+					true
+				]
+			],
+			[
+				[
+					"与火箭"
+				]
+			]
+		],
+		"photo": "shuttle-launch.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "火箭发射",
+		"credit": "NASA, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "shihou",
+			"title": "弾幕戦よーい！",
+			"url": "https://www.pixiv.net/artworks/39956428"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "反冲中两部分的运动方向相反",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "反冲过程中系统的机械能守恒",
+				"ok": false,
+				"fix": "总动能增加，机械能不守恒"
+			},
+			{
+				"q": "爆炸过程中系统的动量近似守恒",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "火箭靠燃气推动周围空气前进",
+				"ok": false,
+				"fix": "靠喷出燃气的反冲"
+			},
+			{
+				"q": "喷气速度越大，火箭获得的速度越大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "火箭在没有空气的太空中无法加速",
+				"ok": false,
+				"fix": "同样可以加速"
+			}
+		],
+		"endTitle": [
+			[
+				"反冲现象",
+				true
+			],
+			[
+				"与火箭"
+			]
+		],
+		"endLine": "向后喷出，向前反冲",
+		"slogan": "向后喷出，向前反冲"
+	},
+	"credits": "图片来源：Wikimedia Commons —— NASA《STS-116 Launch (KSC-06PD-2750)》裁切版，公有领域；插图来自 pixiv：8810⋱YouTube開始⋰、Zackey、藍圭あけ（侵删）",
+	"anime": [
+		{
+			"key": "eel",
+			"src": "eel.jpg",
+			"credit": "插图：8810⋱YouTube開始⋰《no.1919 『 チンアナGo 』》 pixiv #105000317",
+			"url": "https://www.pixiv.net/artworks/105000317"
+		},
+		{
+			"key": "octo",
+			"src": "octo.jpg",
+			"credit": "插图：Zackey《メンダコぼっちちゃんと喜多ちゃん　Part1》 pixiv #107331856",
+			"url": "https://www.pixiv.net/artworks/107331856"
+		},
+		{
+			"key": "jet",
+			"src": "jet.jpg",
+			"credit": "插图：藍圭あけ《給油中》 pixiv #22499847",
+			"url": "https://www.pixiv.net/artworks/22499847"
+		}
+	]
+}

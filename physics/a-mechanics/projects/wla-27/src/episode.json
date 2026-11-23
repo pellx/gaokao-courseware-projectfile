@@ -1,0 +1,129 @@
+{
+	"id": "WLA-27",
+	"title": "弹性碰撞和非弹性碰撞",
+	"subject": "physics",
+	"book": "力学 · 第27期 / 共32期",
+	"points": [
+		"碰撞的特点",
+		"弹性碰撞与非弹性碰撞",
+		"完全非弹性碰撞",
+		"弹性正碰的结果",
+		"对结果的讨论",
+		"碰撞中的动能",
+		"对心碰撞与非对心碰撞",
+		"散射"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"弹性碰撞",
+				true
+			],
+			[
+				"和非弹性碰撞"
+			]
+		],
+		"subtitle": "弹性 · 非弹性 · 完全非弹性 · 正碰 · 斜碰 · 散射",
+		"photo": "newtons-cradle.jpg",
+		"photoCaption": "牛顿摆：钢球之间的碰撞近似弹性碰撞，速度一个个“传”过去",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"弹性碰撞",
+					true
+				]
+			],
+			[
+				[
+					"和非弹性碰撞"
+				]
+			]
+		],
+		"photo": "newtons-cradle.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "牛顿摆",
+		"credit": "Sheila Sund, CC BY 2.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "くぅもんせ",
+			"title": "ぎゅむっ",
+			"url": "https://www.pixiv.net/artworks/96118729"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "碰撞过程中内力远大于外力，系统动量守恒",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "非弹性碰撞中系统动量不守恒",
+				"ok": false,
+				"fix": "动量守恒，只是动能减少"
+			},
+			{
+				"q": "完全非弹性碰撞中系统动能损失最大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "等质量两球弹性正碰后交换速度",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "碰撞后系统总动能可能增加",
+				"ok": false,
+				"fix": "总动能不会增加"
+			},
+			{
+				"q": "斜碰中动量守恒定律不再成立",
+				"ok": false,
+				"fix": "仍成立，按矢量处理"
+			}
+		],
+		"endTitle": [
+			[
+				"弹性碰撞",
+				true
+			],
+			[
+				"和非弹性碰撞"
+			]
+		],
+		"endLine": "动量总守恒，动能不增加",
+		"slogan": "动量总守恒，动能不增加"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Sheila Sund《Newton's Cradle》（Flickr 15221366308）CC BY 2.0；插图来自 pixiv：吉銅ガト、大青鱼 \\ Minusk9、ErA（侵删）",
+	"anime": [
+		{
+			"key": "pool",
+			"src": "pool.jpg",
+			"credit": "插图：吉銅ガト《ラウンドワンコラボの千束＆たきな》 pixiv #122091648",
+			"url": "https://www.pixiv.net/artworks/122091648"
+		},
+		{
+			"key": "hug",
+			"src": "hug.jpg",
+			"credit": "插图：大青鱼 \\ Minusk9《孤独摇滚2期祝贺》 pixiv #130576422",
+			"url": "https://www.pixiv.net/artworks/130576422"
+		},
+		{
+			"key": "cradle",
+			"src": "cradle.jpg",
+			"credit": "插图：ErA《Newton's Cockatiel Cradle》 pixiv #78199731",
+			"url": "https://www.pixiv.net/artworks/78199731"
+		}
+	]
+}

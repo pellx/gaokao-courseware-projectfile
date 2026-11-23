@@ -1,0 +1,137 @@
+{
+	"id": "WLA-22",
+	"title": "重力势能与弹性势能",
+	"subject": "physics",
+	"book": "力学 · 第22期 / 共32期",
+	"points": [
+		"重力做功的特点",
+		"重力势能",
+		"重力做功与势能变化",
+		"重力势能的相对性",
+		"重力势能的系统性",
+		"弹性势能",
+		"弹性势能的大小",
+		"弹力做功与弹性势能"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"重力势能",
+				true
+			],
+			[
+				"与"
+			],
+			[
+				"弹性势能",
+				true
+			]
+		],
+		"subtitle": "重力做功 · Ep = mgh · 相对性 · 弹性势能",
+		"photo": "wla22.jpg",
+		"photoCaption": "打桩机：把重锤提高再让它落下，重力势能用来打桩（多伦多）",
+		"photoPos": "35% center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"重力势能",
+					true
+				]
+			],
+			[
+				[
+					"与弹性势能"
+				]
+			]
+		],
+		"photo": "wla22.jpg",
+		"photoPos": {
+			"16x9": "35% center",
+			"4x3": "35% center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "打桩机",
+		"credit": "Arthur Goss, City of Toronto Archives, PD",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "tototo",
+			"title": "年賀状2025",
+			"url": "https://www.pixiv.net/artworks/125872267"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "重力做功与物体运动的路径有关",
+				"ok": false,
+				"fix": "与路径无关"
+			},
+			{
+				"q": "重力做正功，重力势能减少",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "重力势能的变化量与参考平面的选取有关",
+				"ok": false,
+				"fix": "变化量与参考平面无关"
+			},
+			{
+				"q": "重力势能为负值，表示方向向下",
+				"ok": false,
+				"fix": "表示低于参考平面"
+			},
+			{
+				"q": "重力势能是地球与物体组成的系统共有的",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "弹力做负功，弹性势能增加",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"重力势能",
+				true
+			],
+			[
+				"与"
+			],
+			[
+				"弹性势能",
+				true
+			]
+		],
+		"endLine": "做正功势能减，做负功势能增",
+		"slogan": "做正功势能减，做负功势能增"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Arthur Goss《Grand Trunk Railway Pile Driver and Canadian National Railways locomotive 7183, Woodfield Subway》（City of Toronto Archives），公有领域；插图来自 pixiv：らむ、秋月時雨、すず（侵删）",
+	"anime": [
+		{
+			"key": "slide",
+			"src": "slide.jpg",
+			"credit": "插图：らむ《すべるずん子ちゃん》 pixiv #115715559",
+			"url": "https://www.pixiv.net/artworks/115715559"
+		},
+		{
+			"key": "tree",
+			"src": "tree.jpg",
+			"credit": "插图：秋月時雨《川内型木登図》 pixiv #46538715",
+			"url": "https://www.pixiv.net/artworks/46538715"
+		},
+		{
+			"key": "cheek",
+			"src": "cheek.jpg",
+			"credit": "插图：すず《されるがまま楽奈ちゃん》 pixiv #116594460",
+			"url": "https://www.pixiv.net/artworks/116594460"
+		}
+	]
+}

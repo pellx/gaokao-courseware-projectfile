@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|反冲现象与火箭。",
+		"seconds": 2.208
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲反冲、爆炸中的动量和能量，以及火箭的原理，共八个考点。",
+		"seconds": 6.48
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，反冲现象。一个物体在内力的作用下分成两部分。",
+		"seconds": 6.288
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|一部分向某一方向运动，另一部分必然向相反方向运动，这种现象叫反冲。",
+		"seconds": 7.224
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如气球放气时，气体向后喷出，气球向前飞。",
+		"seconds": 4.92
+	},
+	"r3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这条橙白条纹的小花园鳗：尾部向下喷出一股气，身体就向上蹿了出去，这就是反冲。",
+		"seconds": 8.16
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：反冲是内力使物体分成两部分，两部分运动方向相反。",
+		"seconds": 6.36
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，反冲遵循动量守恒。反冲过程中内力远大于外力，系统动量守恒。",
+		"seconds": 7.992
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|原来静止的系统，总动量为零：零等于m一v一加m二v二。",
+		"seconds": 6.12
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以m一v一等于负的m二v二，两部分的动量大小相等、方向相反。",
+		"seconds": 7.056
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：两部分速度方向相反，速度大小与质量成反比。",
+		"seconds": 5.76
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，反冲中的能量。反冲前系统静止，总动能为零。",
+		"seconds": 6.144
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|反冲后两部分都在运动，系统的总动能增加。",
+		"seconds": 4.608
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|增加的动能来自化学能、弹性势能等其他形式的能。",
+		"seconds": 5.184
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：反冲中动量守恒，但机械能不守恒，总动能增加。",
+		"seconds": 5.856
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，爆炸。爆炸时间极短，内力远大于外力，系统动量近似守恒。",
+		"seconds": 7.608
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|炸药的化学能转化为各部分的动能，系统的总动能增加。",
+		"seconds": 5.376
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|爆炸和反冲本质相同，都是系统在内力作用下分成几部分。",
+		"seconds": 6
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：爆炸中动量近似守恒，总动能增加。",
+		"seconds": 4.728
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，反冲的应用与防止。农田的喷灌装置向外喷水，同时自动旋转。",
+		"seconds": 7.848
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|章鱼、乌贼把水向后喷出，借助反冲向前游动。",
+		"seconds": 5.28
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|射击时子弹向前飞出，枪身向后反冲，所以要把枪托抵在肩部，减小反冲的影响。",
+		"seconds": 8.208
+	},
+	"u3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉色的小章鱼气球挂在了树上。真正的章鱼不靠飘，它把水向后喷，自己就向前冲。",
+		"seconds": 8.352
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：反冲有时要利用，有时要防止。",
+		"seconds": 4.056
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，火箭的原理。燃料燃烧产生高温高压的燃气。",
+		"seconds": 6
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|燃气以很大的速度从尾部向后喷出，火箭获得向前的反冲速度。",
+		"seconds": 6.312
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|火箭靠的是自身喷出的燃气，不需要空气推动，在没有空气的太空中同样可以加速。",
+		"seconds": 7.848
+	},
+	"k3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴尖帽的女孩把扫帚接上了喷气发动机，黑猫正在给它加燃料：燃料烧成燃气向后喷，扫帚就向前冲。",
+		"seconds": 10.032
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：火箭不是靠“推空气”前进的，它利用的是反冲。",
+		"seconds": 5.136
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，影响火箭速度的因素。一是喷气速度，也就是燃气相对火箭喷出的速度。",
+		"seconds": 8.112
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|二是质量比：火箭开始飞行时的质量，与燃料燃尽时的质量之比。",
+		"seconds": 6.384
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|喷气速度越大、质量比越大，燃料燃尽时火箭获得的速度越大。",
+		"seconds": 6.288
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：火箭的速度取决于喷气速度和质量比。",
+		"seconds": 4.8
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，火箭的发展。我国古代已经发明了利用火药燃气反冲飞行的火箭。",
+		"seconds": 7.584
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|一级火箭能达到的速度有限，现代运载火箭多采用多级结构。",
+		"seconds": 5.952
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|每一级燃料用完后就脱落，减轻质量，后一级接着加速。",
+		"seconds": 5.568
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|运载火箭用来发射人造卫星、载人飞船和空间站。",
+		"seconds": 5.328
+	},
+	"h5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：多级火箭逐级脱落，能获得更大的速度。",
+		"seconds": 4.848
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：反冲中两部分运动方向相反？对。判断二：反冲中机械能守恒？错，总动能增加。",
+		"seconds": 10.728
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：爆炸中动量近似守恒？对。判断四：火箭靠推空气前进？错，靠反冲。",
+		"seconds": 9.936
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：喷气速度越大，火箭速度越大？对。判断六：火箭在太空中无法加速？错，同样可以加速。",
+		"seconds": 11.304
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|向后喷出，向前反冲。下一期：简谐运动及其描述。",
+		"seconds": 6.168
+	}
+}

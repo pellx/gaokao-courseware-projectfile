@@ -1,0 +1,182 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|弹性碰撞和非弹性碰撞。",
+		"seconds": 3.048
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲碰撞的特点、碰撞的分类和弹性正碰的结果，共八个考点。",
+		"seconds": 6.504
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，碰撞的特点。碰撞的作用时间极短，相互作用力很大，而且变化很快。",
+		"seconds": 8.112
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|碰撞过程中内力远大于外力，外力可以忽略，系统的动量守恒。",
+		"seconds": 6.24
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|作用时间极短，物体在碰撞过程中的位移可以忽略，可以认为碰撞前后仍在同一位置。",
+		"seconds": 8.28
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这两个穿马甲的女孩站在台球桌边：球杆一推，台球相撞只在一瞬间，碰撞前后两球的总动量不变。",
+		"seconds": 9.552
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：碰撞满足内力远大于外力，所以动量守恒。",
+		"seconds": 5.256
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，按能量分类。碰撞前后系统的总动能不变，这样的碰撞叫弹性碰撞。",
+		"seconds": 8.232
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|碰撞后系统的总动能减少，叫非弹性碰撞。",
+		"seconds": 4.632
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|损失的动能转化为内能等其他形式的能，比如碰撞时发热、发声、发生形变。",
+		"seconds": 7.632
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|钢球、玻璃球之间的碰撞，能量损失很小，可以近似看成弹性碰撞。",
+		"seconds": 6.744
+	},
+	"k5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：两类碰撞动量都守恒，区别只在于动能是否损失。",
+		"seconds": 6.024
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，完全非弹性碰撞。碰撞后两物体结合在一起，以共同的速度运动。",
+		"seconds": 7.92
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|动量守恒：m一v一加m二v二，等于m一加m二的和乘v。",
+		"seconds": 6.456
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如子弹射入木块并留在其中、两节车厢碰撞后挂在一起。",
+		"seconds": 6.216
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看粉头发的女孩被红头发的女孩一把抱住：撞上之后抱成一团一起运动，这就是完全非弹性碰撞。",
+		"seconds": 9.264
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：完全非弹性碰撞中，系统动能的损失最大。",
+		"seconds": 5.256
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，弹性正碰的结果。质量为m一的小球以速度v一碰撞静止的小球m二。",
+		"seconds": 8.232
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|列出两个方程：动量守恒和动能守恒。",
+		"seconds": 4.2
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|解得碰后入射球的速度，v一撇等于m一减m二的差乘v一，除以m一加m二。",
+		"seconds": 8.064
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|被碰球的速度，v二撇等于二m一v一，除以m一加m二。",
+		"seconds": 6.144
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：被碰球的速度v二撇总与v一同向；v一撇的方向由两球质量的大小关系决定。",
+		"seconds": 8.544
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，对结果的讨论。m一等于m二时，v一撇等于零，v二撇等于v一，两球交换速度。",
+		"seconds": 9.624
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|m一大于m二时，两球都向前运动。",
+		"seconds": 4.032
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|m一小于m二时，入射球被反弹回来。",
+		"seconds": 4.176
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|m一远小于m二时，入射球几乎以原速率弹回，被碰球几乎不动，就像小球撞墙。",
+		"seconds": 8.208
+	},
+	"d4b": {
+		"key": "zh-CN-XiaoxiaoNeural|这四只Q版玄凤鹦鹉挂成了一台牛顿摆：一只撞过去，它自己停下，速度传给最边上那只，这就是等质量交换速度。",
+		"seconds": 10.824
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：弹性正碰中，等质量的两球交换速度。",
+		"seconds": 4.776
+	},
+	"k6": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，碰撞中的动能。碰撞时间极短、内力远大于外力，系统动量守恒。",
+		"seconds": 7.848
+	},
+	"k7": {
+		"key": "zh-CN-XiaoxiaoNeural|碰撞过程中没有其他形式的能转化为动能，系统的总动能不会增加。",
+		"seconds": 6.912
+	},
+	"k8": {
+		"key": "zh-CN-XiaoxiaoNeural|弹性碰撞动能不变，非弹性碰撞动能减少，完全非弹性碰撞减少得最多。",
+		"seconds": 7.632
+	},
+	"k9": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：碰后总动能比碰前大的结果是不可能出现的。",
+		"seconds": 5.256
+	},
+	"o1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，对心碰撞与非对心碰撞。碰撞前的速度沿两球球心连线，叫对心碰撞，也叫正碰。",
+		"seconds": 9.768
+	},
+	"o2": {
+		"key": "zh-CN-XiaoxiaoNeural|碰撞前的速度不沿球心连线，叫非对心碰撞，也叫斜碰。",
+		"seconds": 5.904
+	},
+	"o3": {
+		"key": "zh-CN-XiaoxiaoNeural|正碰后两球仍沿这条直线运动；斜碰后两球的速度不在同一直线上。",
+		"seconds": 7.272
+	},
+	"o4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：斜碰中动量守恒仍然成立，要按矢量来处理。",
+		"seconds": 5.448
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，散射。微观粒子相互接近时不一定发生接触，这种“碰撞”叫散射。",
+		"seconds": 7.8
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|粒子之间靠电场力等相互作用，碰后向各个方向飞出，动量守恒同样成立。",
+		"seconds": 7.584
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|核反应堆中，让快中子与慢化剂的原子核反复碰撞，中子就被减速。",
+		"seconds": 6.912
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：宏观物体的碰撞规律，同样适用于微观粒子的散射。",
+		"seconds": 5.736
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：碰撞中内力远大于外力，动量守恒？对。判断二：非弹性碰撞动量不守恒？错，动量守恒，只是动能减少。",
+		"seconds": 12.96
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：完全非弹性碰撞动能损失最大？对。判断四：等质量弹性正碰交换速度？对。",
+		"seconds": 10.872
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：碰后总动能可能增加？错，不会增加。判断六：斜碰中动量守恒不成立？错，按矢量仍成立。",
+		"seconds": 11.52
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|动量总守恒，动能不增加。下一期：反冲现象与火箭。",
+		"seconds": 5.928
+	}
+}

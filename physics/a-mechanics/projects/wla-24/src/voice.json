@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|机械能守恒定律与能量守恒。",
+		"seconds": 3.264
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲机械能、机械能守恒定律及其条件、功能关系和能量守恒定律，共九个考点。",
+		"seconds": 8.376
+	},
+	"a1x": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，追寻守恒量。伽利略让小球从一个斜面滚下，再滚上另一个斜面。",
+		"seconds": 7.704
+	},
+	"a2x": {
+		"key": "zh-CN-XiaoxiaoNeural|不论另一个斜面的倾角多大，小球总能回到与出发点几乎同样的高度。",
+		"seconds": 6.504
+	},
+	"a3x": {
+		"key": "zh-CN-XiaoxiaoNeural|这说明运动过程中有某个量是守恒的，这个量就是能量。",
+		"seconds": 5.52
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|坐上过山车、紧张得抓紧护杠的女孩：车冲下坡越来越快，爬上坡越来越慢，动能和重力势能来回转化。",
+		"seconds": 10.08
+	},
+	"a4x": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：斜面实验揭示，动能与势能的转化中存在守恒量。",
+		"seconds": 6
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，机械能。动能、重力势能和弹性势能统称为机械能。",
+		"seconds": 7.056
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|通过重力或弹力做功，动能与势能可以相互转化。",
+		"seconds": 5.112
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|例如物体自由下落，重力做正功，重力势能转化为动能。",
+		"seconds": 5.952
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：机械能E等于E k加E p。",
+		"seconds": 3.816
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，机械能守恒定律。在只有重力或弹力做功的物体系统内。",
+		"seconds": 6.768
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|动能与势能可以互相转化。",
+		"seconds": 3
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|而总的机械能保持不变。",
+		"seconds": 2.664
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：守恒条件是“只有重力或弹力做功”。",
+		"seconds": 4.488
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，定律的推导。只有重力做功时，由动能定理，W G等于E k二减E k一。",
+		"seconds": 8.4
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|又由重力做功与重力势能的关系，W G等于E p一减E p二。",
+		"seconds": 6.336
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|两式联立得E k一加E p一等于E k二加E p二。",
+		"seconds": 4.92
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：机械能守恒定律可以由动能定理和重力做功的特点推出。",
+		"seconds": 6.384
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，概念辨析。“只有重力或弹力做功”不等于“只受重力或弹力”。",
+		"seconds": 6.984
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|物体还受其他力，但其他力不做功，机械能也守恒，比如沿光滑曲面下滑时的支持力。",
+		"seconds": 8.016
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|其他力做功，但代数和为零，机械能也守恒。",
+		"seconds": 4.776
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：判断守恒看做功，不看受力。",
+		"seconds": 3.984
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，功是能量转化的量度。合力做功对应动能的变化。",
+		"seconds": 6.504
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|重力做功对应重力势能的变化。",
+		"seconds": 3.384
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|弹力做功对应弹性势能的变化。",
+		"seconds": 3.432
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：做了多少功，就有多少能量发生了转化。",
+		"seconds": 4.584
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，机械能的变化。除重力和弹力以外的其他力做的功，等于机械能的变化。",
+		"seconds": 8.088
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|其他力做正功，机械能增加。",
+		"seconds": 3.216
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|其他力做负功，机械能减少。",
+		"seconds": 3.288
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：W其他等于E二减E一。",
+		"seconds": 3.576
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，能量的转化。有摩擦等阻力做功时，机械能不守恒。",
+		"seconds": 6.336
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|机械能转化为内能等其他形式的能，机械能减少。",
+		"seconds": 4.896
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|但把所有形式的能量都算上，总能量守恒。",
+		"seconds": 4.224
+	},
+	"h3b": {
+		"key": "zh-CN-XiaoxiaoNeural|冒着热气的热可可会慢慢变凉：它的内能散到了周围的空气里，并没有消失。",
+		"seconds": 7.488
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：机械能减少不等于能量消失，只是转化成了别的形式。",
+		"seconds": 6.24
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，能量守恒定律。能量既不会凭空产生，也不会凭空消失。",
+		"seconds": 6.768
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|它只能从一种形式转化为另一种形式，或者从一个物体转移到别的物体。",
+		"seconds": 6.624
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|在转化或转移的过程中，能量的总量保持不变。",
+		"seconds": 4.728
+	},
+	"k3b": {
+		"key": "zh-CN-XiaoxiaoNeural|落叶堆里烤红薯的三个女孩：燃烧把化学能转化为内能，热又转移到红薯上，能量的总量不变。",
+		"seconds": 8.928
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：机械能守恒是有条件的，能量守恒定律普遍成立。",
+		"seconds": 5.856
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：动能和两种势能统称机械能？对。判断二：受了其他力，机械能一定不守恒？错，看是否做功。",
+		"seconds": 11.808
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：其他力不做功，机械能守恒？对。判断四：其他力做正功，机械能增加？对。",
+		"seconds": 10.176
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：有摩擦时能量消失了？错，转化成了内能。判断六：机械能守恒也普遍成立？错，它有条件。",
+		"seconds": 11.88
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|只有重力弹力做功，机械能才守恒。下一期：动量、冲量与动量定理。",
+		"seconds": 7.464
+	}
+}

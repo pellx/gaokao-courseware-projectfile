@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|宇宙航行。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲卫星的运行规律、三个宇宙速度、同步卫星和人类的太空探索，共八个考点。",
+		"seconds": 8.064
+	},
+	"a1x": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，牛顿的设想。在高山上水平抛出一个物体。",
+		"seconds": 5.664
+	},
+	"a2x": {
+		"key": "zh-CN-XiaoxiaoNeural|抛出的速度越大，落地点就越远。",
+		"seconds": 3.48
+	},
+	"a3x": {
+		"key": "zh-CN-XiaoxiaoNeural|速度足够大时，物体将不再落回地面，绕地球运动，成为人造地球卫星。",
+		"seconds": 7.104
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个全力投球的女孩：球扔得越快就飞得越远；要是快到每秒七点九千米，它就绕着地球转，再也落不回来了。",
+		"seconds": 10.488
+	},
+	"a4x": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：卫星仍然受地球引力，引力全部用来提供它绕地球运动的向心力。",
+		"seconds": 7.296
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，卫星的运行规律。万有引力提供向心力：G M m除以r平方等于m v平方除以r。",
+		"seconds": 9.72
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|得v等于根号下G M除以r，欧米伽等于根号下G M除以r三次方，T等于2π根号下r三次方除以G M。",
+		"seconds": 11.184
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|轨道越高，v、欧米伽、向心加速度越小，周期T越大。",
+		"seconds": 5.808
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：这些量都与卫星质量无关，只由中心天体质量和轨道半径决定。",
+		"seconds": 7.056
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，第一宇宙速度。物体在地面附近绕地球做匀速圆周运动的速度。",
+		"seconds": 7.632
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|此时r约等于R，v一等于根号下G M除以R，也等于根号下g R。",
+		"seconds": 6.864
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|代入数据得v一约等于七点九千米每秒。",
+		"seconds": 4.032
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：第一宇宙速度也叫环绕速度，对应近地卫星。",
+		"seconds": 5.376
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，发射速度与环绕速度。发射得越高，需要的发射速度越大。",
+		"seconds": 6.84
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以七点九千米每秒是最小的发射速度。",
+		"seconds": 4.344
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|而轨道越高环绕速度越小，所以七点九千米每秒又是卫星做圆周运动的最大环绕速度。",
+		"seconds": 8.544
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：发射速度和环绕速度不是一回事；高轨卫星发射速度大，运行速度却小。",
+		"seconds": 8.112
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，第二宇宙速度十一点二千米每秒：达到它，物体挣脱地球引力的束缚。",
+		"seconds": 7.8
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|第三宇宙速度十六点七千米每秒：达到它，物体挣脱太阳引力的束缚，飞到太阳系外。",
+		"seconds": 8.304
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|发射速度介于七点九与十一点二千米每秒之间时，卫星绕地球运行的轨道是椭圆。",
+		"seconds": 7.896
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：三个宇宙速度都是在地面发射时的速度。",
+		"seconds": 4.776
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，地球同步卫星。它的周期与地球自转周期相同，约二十四小时。",
+		"seconds": 7.8
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|轨道平面与赤道平面重合、相对地面静止的，叫静止卫星。",
+		"seconds": 5.952
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|周期一定，轨道半径就一定，离地高度约三点六乘十的四次方千米。",
+		"seconds": 6.816
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|挂在窗前的小晴天娃娃，总是待在同一个地方；静止卫星也一样，从地面看它一动不动。",
+		"seconds": 8.208
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：静止卫星只能在赤道正上方，高度、速度大小都是确定的。",
+		"seconds": 6.864
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，载人航天与太空探索。一九五七年，苏联发射了第一颗人造地球卫星。",
+		"seconds": 8.184
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|一九六一年加加林进入太空；一九六九年，阿波罗十一号载人登月。",
+		"seconds": 6.792
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|我国有东方红一号、神舟载人飞船、嫦娥探月、天问一号、北斗系统和中国空间站。",
+		"seconds": 8.592
+	},
+	"g3b": {
+		"key": "zh-CN-XiaoxiaoNeural|扛着大望远镜的女孩在仰望星空：从东方红一号到中国空间站，我们一步步走向太空。",
+		"seconds": 8.232
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：东方红一号是我国第一颗人造卫星，天问一号飞向了火星。",
+		"seconds": 6.528
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，概念辨析。赤道上随地球自转的物体，万有引力的大部分是重力，只有很小一部分提供向心力。",
+		"seconds": 10.128
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|所以它不是卫星，不能用v等于根号下G M除以r计算速度。",
+		"seconds": 6.312
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|它与静止卫星的角速度相同，但半径小，线速度也小。",
+		"seconds": 5.28
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：赤道上物体的速度远小于近地卫星的七点九千米每秒。",
+		"seconds": 6.048
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：轨道越高速度越大？错，越高越慢。判断二：运行速度与卫星质量无关？对。",
+		"seconds": 10.2
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：七点九千米每秒是最小发射速度？对。判断四：十一点二千米每秒就能飞出太阳系？错，要十六点七。",
+		"seconds": 12.144
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：静止卫星能定点在北京上空？错，只能在赤道上空。判断六：赤道上的物体速度是七点九？错，远小于。",
+		"seconds": 12.768
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|高轨慢、低轨快，七点九是起跑线。下一期：功与功率。",
+		"seconds": 6.336
+	}
+}

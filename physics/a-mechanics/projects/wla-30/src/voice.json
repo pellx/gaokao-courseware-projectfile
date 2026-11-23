@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|简谐运动的回复力和能量。",
+		"seconds": 2.88
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲简谐运动的受力特点、加速度和能量转化，共八个考点。",
+		"seconds": 6.384
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，回复力。使振动物体回到平衡位置的力，叫做回复力。",
+		"seconds": 6.816
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|回复力的方向总是指向平衡位置。",
+		"seconds": 3.6
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|回复力是按效果命名的力，它可以是一个力，也可以是几个力的合力，或者某个力的分力。",
+		"seconds": 7.968
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：受力分析时，不能在重力、弹力之外再多画一个回复力。",
+		"seconds": 6.312
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，简谐运动的动力学特征：F等于负k x。",
+		"seconds": 5.256
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|物体所受的力与它偏离平衡位置的位移大小成正比，",
+		"seconds": 5.04
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|并且总是指向平衡位置，负号表示力与位移方向相反。",
+		"seconds": 5.64
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|满足这个条件，物体的运动就是简谐运动。",
+		"seconds": 4.296
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：式中的k是比例系数，不一定是弹簧的劲度系数。",
+		"seconds": 5.592
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，简谐运动的加速度。由牛顿第二定律，a等于负的k x除以m。",
+		"seconds": 7.776
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|加速度的大小与位移成正比，方向与位移相反，总指向平衡位置。",
+		"seconds": 6.624
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|位移随时间不断变化，加速度也随之不断变化。",
+		"seconds": 5.016
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：简谐运动是变加速运动，不是匀变速运动。",
+		"seconds": 5.136
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，竖直弹簧振子。小球挂在竖直弹簧下，平衡位置在弹力与重力相等的地方，此时弹簧已经伸长。",
+		"seconds": 10.8
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|振动时，回复力是弹力与重力的合力。",
+		"seconds": 3.888
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|以平衡位置为原点，回复力仍然满足F等于负k x，竖直弹簧振子也做简谐运动。",
+		"seconds": 8.52
+	},
+	"v3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发的女孩从纸箱里冒了出来，像装了弹簧的玩偶盒。竖直方向的弹簧要考虑重力，平衡位置在弹力等于重力的地方。",
+		"seconds": 11.784
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：竖直弹簧振子的平衡位置不在弹簧原长处，x是相对平衡位置的位移。",
+		"seconds": 8.04
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，各量随位置的变化。振子远离平衡位置时，位移、回复力、加速度都增大，速度减小。",
+		"seconds": 9.792
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|在平衡位置，位移、回复力、加速度都为零，速度最大。",
+		"seconds": 5.976
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|在最大位移处，速度为零，回复力和加速度最大。",
+		"seconds": 5.064
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：位移、回复力、加速度同步变化，速度的变化与它们相反。",
+		"seconds": 6.888
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，能量的转化。简谐运动中，动能和势能相互转化。",
+		"seconds": 6.36
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|弹簧振子的势能是弹性势能；振子靠近平衡位置时，势能转化为动能。",
+		"seconds": 7.128
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|在平衡位置，动能最大，势能最小；在最大位移处，势能最大，动能为零。",
+		"seconds": 7.608
+	},
+	"e3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个戴帽子的长发女孩在荡秋千：荡到最低点速度最快，动能最大；荡到最高点停一下，势能最大。",
+		"seconds": 9.888
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：越靠近平衡位置动能越大，越靠近最大位移处势能越大。",
+		"seconds": 6.696
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，机械能守恒。不计阻力时，简谐运动中只有弹力或重力做功，机械能守恒。",
+		"seconds": 8.904
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|振子在最大位移处只有势能，所以振动的总能量由振幅决定。",
+		"seconds": 6.312
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|对同一个振动系统，振幅越大，振动的能量越大。",
+		"seconds": 4.8
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|短发的女孩在下面推秋千：推得越用力，秋千荡得越高，振幅越大，振动的能量也越大。",
+		"seconds": 8.448
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：简谐运动是理想化的振动，机械能守恒，振幅保持不变。",
+		"seconds": 6.528
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，速度与位移的方向。加速度总与位移反向，总指向平衡位置。",
+		"seconds": 7.248
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|振子远离平衡位置时，速度与位移同向，在做减速运动。",
+		"seconds": 5.688
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|振子靠近平衡位置时，速度与位移反向，在做加速运动。",
+		"seconds": 5.76
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：速度与位移可以同向也可以反向，取决于振子正在远离还是靠近平衡位置。",
+		"seconds": 8.112
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：回复力总指向平衡位置？对。判断二：k一定是劲度系数？错，k是比例系数。",
+		"seconds": 10.152
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：简谐运动是匀变速运动？错，是变加速运动。判断四：平衡位置速度最大、加速度为零？对。",
+		"seconds": 11.712
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：振幅越大，振动能量越大？对。判断六：速度总与位移反向？错，远离平衡位置时同向。",
+		"seconds": 11.136
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|回复力指向平衡位置，F等于负k x。下一期：单摆。",
+		"seconds": 6.288
+	}
+}

@@ -1,0 +1,139 @@
+{
+	"id": "WLA-23",
+	"title": "动能和动能定理",
+	"subject": "physics",
+	"book": "力学 · 第23期 / 共32期",
+	"points": [
+		"动能表达式的得出",
+		"动能",
+		"动能是状态量",
+		"动能定理",
+		"定理中的 W",
+		"适用范围",
+		"物理意义",
+		"标量式与参考系"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"动能",
+				true
+			],
+			[
+				"和"
+			],
+			[
+				"动能定理",
+				true
+			]
+		],
+		"subtitle": "Ek = ½mv² · 动能定理 · 合力做功 · 适用范围",
+		"photo": "wla23.jpg",
+		"photoCaption": "牛顿摆：运动的小球具有动能",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"动能",
+					true
+				],
+				[
+					"和"
+				],
+				[
+					"动能定理",
+					true
+				]
+			]
+		],
+		"photo": "wla23.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "牛顿摆",
+		"credit": "Sheila Sund, CC BY 2.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "綿抜 皐(わたぬき さつき)",
+			"title": "ストラーイク！！",
+			"url": "https://www.pixiv.net/artworks/146066182"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "动能可以是负值",
+				"ok": false,
+				"fix": "动能没有负值"
+			},
+			{
+				"q": "物体速度变化时，动能一定变化",
+				"ok": false,
+				"fix": "只变方向时动能不变"
+			},
+			{
+				"q": "动能定理中的 W 是合力做的功",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "动能定理只适用于恒力和直线运动",
+				"ok": false,
+				"fix": "变力、曲线运动也适用"
+			},
+			{
+				"q": "合力做负功，物体的动能减少",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "动能定理可以在水平方向上单独列式",
+				"ok": false,
+				"fix": "标量式，不能分方向"
+			}
+		],
+		"endTitle": [
+			[
+				"动能",
+				true
+			],
+			[
+				"和"
+			],
+			[
+				"动能定理",
+				true
+			]
+		],
+		"endLine": "合力做功看总账，动能变化记心间",
+		"slogan": "合力做功看总账，动能变化记心间"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Sheila Sund《Newton's Cradle (15221366308)》，CC BY 2.0；插图来自 pixiv：もか汰、まめこ、ぱね（侵删）",
+	"anime": [
+		{
+			"key": "wheel",
+			"src": "wheel.jpg",
+			"credit": "插图：もか汰《お菓子な観覧車》 pixiv #84328775",
+			"url": "https://www.pixiv.net/artworks/84328775"
+		},
+		{
+			"key": "kick",
+			"src": "kick.jpg",
+			"credit": "插图：まめこ《スポーツの日でしゅっっ》 pixiv #91449449",
+			"url": "https://www.pixiv.net/artworks/91449449"
+		},
+		{
+			"key": "hawawa",
+			"src": "hawawa.jpg",
+			"credit": "插图：ぱね《はわわ》 pixiv #149121517",
+			"url": "https://www.pixiv.net/artworks/149121517"
+		}
+	]
+}

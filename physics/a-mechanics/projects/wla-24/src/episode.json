@@ -1,0 +1,130 @@
+{
+	"id": "WLA-24",
+	"title": "机械能守恒定律与能量守恒",
+	"subject": "physics",
+	"book": "力学 · 第24期 / 共32期",
+	"points": [
+		"追寻守恒量",
+		"机械能",
+		"机械能守恒定律",
+		"定律的推导",
+		"守恒条件辨析",
+		"功是能量转化的量度",
+		"机械能的变化",
+		"能量的转化",
+		"能量守恒定律"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"机械能守恒定律",
+				true
+			],
+			[
+				"与能量守恒"
+			]
+		],
+		"subtitle": "机械能 · 守恒条件 · 功能关系 · 能量守恒定律",
+		"photo": "wla24.jpg",
+		"photoCaption": "焦耳的搅拌器：重物下落带动叶轮搅水，机械能转化为内能",
+		"photoPos": "70% center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"机械能守恒",
+					true
+				]
+			],
+			[
+				[
+					"与能量守恒"
+				]
+			]
+		],
+		"photo": "wla24.jpg",
+		"photoPos": {
+			"16x9": "70% center",
+			"4x3": "70% center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "焦耳的实验",
+		"credit": "Mirko Junge, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "sui",
+			"title": "無題",
+			"url": "https://www.pixiv.net/artworks/142156952"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "动能、重力势能和弹性势能统称为机械能",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "只受重力和弹力以外的力时，机械能一定不守恒",
+				"ok": false,
+				"fix": "看其他力是否做功"
+			},
+			{
+				"q": "其他力不做功时，机械能守恒",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "重力以外的力做正功，机械能增加",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "有摩擦时机械能减少，说明能量消失了",
+				"ok": false,
+				"fix": "转化为内能，总能量守恒"
+			},
+			{
+				"q": "机械能守恒定律和能量守恒定律一样普遍成立",
+				"ok": false,
+				"fix": "机械能守恒有条件"
+			}
+		],
+		"endTitle": [
+			[
+				"机械能守恒定律",
+				true
+			],
+			[
+				"与能量守恒"
+			]
+		],
+		"endLine": "只有重力弹力做功，机械能才守恒",
+		"slogan": "只有重力弹力做功，机械能才守恒"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Dr. Mirko Junge《Joule Apparatus》，CC BY-SA 3.0；插图来自 pixiv：ねぎまぷりん、くぅもんせ、ヤカツーモ（侵删）",
+	"anime": [
+		{
+			"key": "coaster",
+			"src": "coaster.jpg",
+			"credit": "插图：ねぎまぷりん《やっぱり辞めようよぉ…》 pixiv #107288165",
+			"url": "https://www.pixiv.net/artworks/107288165"
+		},
+		{
+			"key": "cocoa",
+			"src": "cocoa.jpg",
+			"credit": "插图：くぅもんせ《寒い日のホットココア》 pixiv #125632370",
+			"url": "https://www.pixiv.net/artworks/125632370"
+		},
+		{
+			"key": "leaves",
+			"src": "leaves.jpg",
+			"credit": "插图：ヤカツーモ《いもフォギヤ》 pixiv #114120476",
+			"url": "https://www.pixiv.net/artworks/114120476"
+		}
+	]
+}

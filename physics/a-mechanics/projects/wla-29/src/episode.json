@@ -1,0 +1,130 @@
+{
+	"id": "WLA-29",
+	"title": "简谐运动及其描述",
+	"subject": "physics",
+	"book": "力学 · 第29期 / 共32期",
+	"points": [
+		"机械振动",
+		"弹簧振子",
+		"振子的位移—时间图像",
+		"简谐运动",
+		"振幅、周期和频率",
+		"周期与振幅无关",
+		"简谐运动的表达式",
+		"相位差",
+		"从 x-t 图像获得信息"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"简谐运动",
+				true
+			],
+			[
+				"及其描述"
+			]
+		],
+		"subtitle": "弹簧振子 · x-t 图像 · 振幅 · 周期 · 相位",
+		"photo": "seismograph-drum.jpg",
+		"photoCaption": "滚筒地震仪：笔尖随振动摆动，纸随滚筒匀速转动，描出振动的位移—时间图像",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"简谐运动",
+					true
+				]
+			],
+			[
+				[
+					"及其描述"
+				]
+			]
+		],
+		"photo": "seismograph-drum.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "振动记录",
+		"credit": "Z22, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "BB",
+			"title": "이즈나",
+			"url": "https://www.pixiv.net/artworks/132145879"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "平衡位置是振动物体原来静止时的位置",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "简谐运动的 x-t 图像是正弦曲线",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "振幅越大，简谐运动的周期越大",
+				"ok": false,
+				"fix": "周期与振幅无关"
+			},
+			{
+				"q": "一个周期内振子通过的路程是 2A",
+				"ok": false,
+				"fix": "路程是 4A"
+			},
+			{
+				"q": "相位差为 π 的两个振动步调相反",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "x-t 图像就是振子的运动轨迹",
+				"ok": false,
+				"fix": "振子在直线上往复运动"
+			}
+		],
+		"endTitle": [
+			[
+				"简谐运动",
+				true
+			],
+			[
+				"及其描述"
+			]
+		],
+		"endLine": "正弦规律，周期由系统定",
+		"slogan": "正弦规律，周期由系统定"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Z22《Seismogram at Weston Observatory》CC BY-SA 3.0；插图来自 pixiv：咲乱坊、ゾイルン、たかぽい（侵删）",
+	"anime": [
+		{
+			"key": "step",
+			"src": "step.jpg",
+			"credit": "插图：咲乱坊《カルストンライトオがやりそうなこと　in関門海峡》 pixiv #122422438",
+			"url": "https://www.pixiv.net/artworks/122422438"
+		},
+		{
+			"key": "guitar",
+			"src": "guitar.jpg",
+			"credit": "插图：ゾイルン《きたちゃん》 pixiv #127597672",
+			"url": "https://www.pixiv.net/artworks/127597672"
+		},
+		{
+			"key": "dance",
+			"src": "dance.jpg",
+			"credit": "插图：たかぽい《京子と綾乃で恋ダンス》 pixiv #60747870",
+			"url": "https://www.pixiv.net/artworks/60747870"
+		}
+	]
+}

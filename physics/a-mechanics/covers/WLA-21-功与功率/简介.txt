@@ -1,0 +1,23 @@
+本期考点
+
+一、做功的两个要素（力和沿力方向的位移）
+二、功的公式（W = Fl cosα，标量，1 J = 1 N·m）
+三、正功和负功（看夹角，正负不表示方向）
+四、总功（各力做功的代数和 = 合力的功）
+五、功率（P = W/t，额定功率与实际功率）
+六、功率与速度（P = Fv，平均与瞬时）
+七、功率一定时的牵引力（F 与 v 成反比，上坡换低速挡）
+八、摩擦力做功（可正、可负、可不做功）
+
+图片来源
+1.Carl Frederik von Breda《James Watt》肖像，公有领域（Wikimedia Commons）
+2.插图：かわいみな《お花を届けるまほう》
+https://www.pixiv.net/artworks/57031021
+3.插图：もいにゅん《綱引き》
+https://www.pixiv.net/artworks/149864557
+4.插图：inika《蝉が耳を塞ぐ》
+https://www.pixiv.net/artworks/111237553
+5.封面插图：ゐーちょ《おひっこし～》
+https://www.pixiv.net/artworks/104678242
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除
