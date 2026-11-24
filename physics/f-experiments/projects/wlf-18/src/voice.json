@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|利用传感器制作简单的自动控制装置。",
+		"seconds": 4.008
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一期讲实验的目的、原理、两种传感器、两个装置和制作调试，共八个考点。",
+		"seconds": 7.68
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。了解传感器在自动控制中的作用。",
+		"seconds": 5.952
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|利用干簧管、光敏电阻等传感器，制作简单的自动控制装置。",
+		"seconds": 6.096
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|本实验做两个装置：门窗防盗报警装置和光控开关。",
+		"seconds": 5.4
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：自动控制的第一步，是用传感器感知外界的变化。",
+		"seconds": 5.664
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验原理。传感器感受磁场、光照等被测量。",
+		"seconds": 6.192
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|把它转换为电学量或电路的通断。",
+		"seconds": 3.504
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|再通过电路控制执行装置动作，比如继电器吸合、灯亮、蜂鸣器响。",
+		"seconds": 6.864
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：感受、转换、控制、执行，这就是自动控制的过程。",
+		"seconds": 6.288
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，干簧管。玻璃管内封有两个软磁性材料制成的簧片。",
+		"seconds": 6.528
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|磁体靠近时，簧片被磁化而相互吸引，触点接触，电路接通。",
+		"seconds": 6.528
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|磁体离开时，簧片失去磁性，弹开分离，电路断开。",
+		"seconds": 5.496
+	},
+	"r3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这串丸子：分开的时候“粘不上”，挤到一起就“粘住了”；干簧管的簧片也是这样，磁体一来就吸合，磁体一走就分开。",
+		"seconds": 10.512
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：干簧管是一种能感知磁场的开关，把磁场的有无转换为电路的通断。",
+		"seconds": 7.464
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，门窗防盗报警装置。干簧管作传感器，继电器作执行装置，磁体装在门窗上。",
+		"seconds": 9.48
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|门窗紧闭时，磁体靠近干簧管，干簧管接通，继电器工作，发光二极管亮。",
+		"seconds": 7.656
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|门窗打开时，磁体离开，干簧管断开，继电器断电，蜂鸣器发声报警。",
+		"seconds": 7.248
+	},
+	"a3b": {
+		"key": "zh-CN-XiaoxiaoNeural|背着书包的兔耳女孩，一拉防犯铃就响：门窗一开，报警装置也会立刻响起来。",
+		"seconds": 7.44
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：报警发生在门窗打开、干簧管断开的时候，不是接通的时候。",
+		"seconds": 6.696
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，光敏电阻。光敏电阻对光照很敏感。",
+		"seconds": 5.376
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|光照越强，电阻越小；光照越弱，电阻越大。",
+		"seconds": 5.064
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|它能把光照的强弱转换为电阻的大小。",
+		"seconds": 3.84
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：天变暗时，光敏电阻的阻值增大，不是减小。",
+		"seconds": 5.424
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，光控开关。用光敏电阻感知光照的强弱。",
+		"seconds": 5.688
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|天色变暗，光敏电阻的阻值增大，控制电路动作，使灯自动点亮。",
+		"seconds": 6.504
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|天亮了，光敏电阻阻值减小，灯自动熄灭。",
+		"seconds": 4.584
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|躲在暗处的小兔子打开了手电筒：周围一暗，光就亮起来；光控开关也是天一暗，灯就亮。",
+		"seconds": 8.592
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：光控开关常用于路灯，天黑自动亮、天亮自动灭。",
+		"seconds": 5.976
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，装置的组成。装置一般分为两部分：含敏感元件的控制电路。",
+		"seconds": 7.128
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|和含被控制用电器的工作电路，两者常用继电器联系起来。",
+		"seconds": 5.664
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|分析时，先看敏感元件的电阻或通断怎样变化。",
+		"seconds": 4.968
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|再看控制电路中的电流、电压怎样变化，最后看执行元件怎样动作。",
+		"seconds": 6.672
+	},
+	"c5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：按敏感元件、控制电路、执行元件的顺序分析。",
+		"seconds": 5.64
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，制作与调试。连接前先检查元件是否完好。",
+		"seconds": 5.88
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|可用多用电表的欧姆挡检查干簧管的通断，以及光敏电阻在不同光照下的阻值。",
+		"seconds": 7.584
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|按电路图连接，检查无误后再通电。",
+		"seconds": 3.792
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：通电后逐项检验：移动磁体、遮挡光线，看装置能否按预期动作。",
+		"seconds": 7.632
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：簧片是软磁性材料？对。判断二：磁体靠近簧片分开？错，簧片吸合，电路接通。",
+		"seconds": 10.944
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：门窗打开蜂鸣器报警？对。判断四：天暗光敏电阻阻值减小？错，阻值增大。",
+		"seconds": 10.296
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：光控开关天黑点灯？对。判断六：连好电路直接通电？错，检查无误后再通电。",
+		"seconds": 10.272
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|磁来簧片合，天暗阻值大。下一期：测量玻璃的折射率。",
+		"seconds": 6.048
+	}
+}

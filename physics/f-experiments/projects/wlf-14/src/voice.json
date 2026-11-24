@@ -1,0 +1,186 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|用多用电表测量电学中的物理量。",
+		"seconds": 3.576
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲多用电表的结构、欧姆表的原理、测电压电流电阻的方法和二极管的测量，共九个考点。",
+		"seconds": 8.976
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。练习使用多用电表测量电压、电流和电阻。",
+		"seconds": 6.84
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|还要用多用电表测量二极管的正向电阻和反向电阻。",
+		"seconds": 5.256
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|一只表能测多个量，靠的是选择开关切换内部电路和量程。",
+		"seconds": 5.88
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：多用电表又叫万用表，测不同的量要先把选择开关旋到对应的挡位。",
+		"seconds": 7.584
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，多用电表的结构。表盘上有电阻、直流电流和电压等多条刻度线。",
+		"seconds": 7.728
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|选择开关周围标有测量功能和量程。",
+		"seconds": 4.032
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|表上还有指针定位螺丝、欧姆调零旋钮，以及红、黑两支表笔。",
+		"seconds": 6.24
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：红表笔插正插孔，黑表笔插负插孔。",
+		"seconds": 4.896
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，欧姆表的原理。欧姆表内部是表头、电池和可变电阻串联而成。",
+		"seconds": 7.824
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|测电阻时，电流I等于E除以R内与R x的和，R内是欧姆表的内阻。",
+		"seconds": 7.488
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|电流与R x不成线性关系，所以电阻刻度不均匀，左密右疏。",
+		"seconds": 6.576
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电阻的零刻度在最右端，无穷大在最左端，和电流、电压的刻度方向相反。",
+		"seconds": 8.136
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，欧姆调零与中值电阻。测电阻前，把红、黑表笔短接。",
+		"seconds": 7.2
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|调节欧姆调零旋钮，使指针指在电阻的零刻度，也就是满偏，此时I g等于E除以R内。",
+		"seconds": 8.52
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|接入R x后，若指针指在刻度盘中央，电流是满偏的一半，可得R x等于R内。",
+		"seconds": 8.256
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：指针在中央时，被测电阻等于欧姆表的内阻，这个阻值叫做中值电阻。",
+		"seconds": 7.968
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，红进黑出。无论测电压、电流还是电阻，电流都从红表笔流入、黑表笔流出。",
+		"seconds": 9.144
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|用欧姆挡时，电流来自表内电池：电流从黑表笔流出，所以黑表笔接的是表内电池的正极。",
+		"seconds": 9.072
+	},
+	"e2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个黑发里挑着一缕红色的Q版女孩，把自己当成了一根网线：电流就像信号，顺着红色那头进、黑色那头出。",
+		"seconds": 10.704
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：欧姆挡的黑表笔接内部电池正极，红表笔接负极，别想当然地认为红表笔接正极。",
+		"seconds": 9.024
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，测电压和电流。使用前先看指针是否指在左端零刻度，否则调指针定位螺丝，叫做机械调零。",
+		"seconds": 10.584
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|测电压时，多用电表与被测元件并联；测电流时，串联接入电路。",
+		"seconds": 6.936
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|红表笔接电势高的一端，按所选量程在相应的刻度线上读数。",
+		"seconds": 6.168
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电压挡并联、电流挡串联，都是红表笔接高电势，保证红进黑出。",
+		"seconds": 7.488
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，测电阻的步骤。先选择欧姆挡的倍率，使指针尽量指在刻度盘中央附近。",
+		"seconds": 8.424
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|然后欧姆调零，再把被测电阻与电源和其他元件断开后测量。",
+		"seconds": 6.168
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|读出表盘示数，再乘以倍率，就是被测电阻的阻值。",
+		"seconds": 5.16
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|指针偏角太小，说明电阻大，要换大倍率；偏角太大，换小倍率。",
+		"seconds": 6.792
+	},
+	"g5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：每次换倍率后都要重新欧姆调零，被测电阻必须与电路断开。",
+		"seconds": 7.032
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，测二极管的正、反向电阻。二极管具有单向导电性。",
+		"seconds": 6.84
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|黑表笔接二极管正极、红表笔接负极，电流从正极流入，测得正向电阻，阻值较小。",
+		"seconds": 8.616
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|反过来接，测得反向电阻，阻值很大。",
+		"seconds": 4.2
+	},
+	"h3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个张开双臂拦路的绿头发小精灵，喊着“不行”：二极管反接时就像她，把电流拦在门外，所以反向电阻很大。",
+		"seconds": 10.704
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：测正向电阻时，接二极管正极的是黑表笔，因为欧姆挡的电流从黑表笔流出。",
+		"seconds": 8.304
+	},
+	"i1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，使用后的处理。测量完毕，先拔出表笔。",
+		"seconds": 5.472
+	},
+	"i2": {
+		"key": "zh-CN-XiaoxiaoNeural|把选择开关旋到OFF位置，或者交流电压最高挡。",
+		"seconds": 4.92
+	},
+	"i3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果长期不用，还要取出表内电池，防止电池漏液腐蚀电表。",
+		"seconds": 6
+	},
+	"i3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个吹着头发就睡着了的小玩偶说晚安：多用电表用完也要关机休息，旋到OFF挡。",
+		"seconds": 7.776
+	},
+	"i4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：用完旋到OFF挡或交流电压最高挡，不能停在欧姆挡。",
+		"seconds": 5.976
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：电阻的零刻度在最左端？错，在最右端。判断二：指针在中央时，被测电阻等于内阻？对。",
+		"seconds": 11.496
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：欧姆挡红表笔接内部电池正极？错，是黑表笔。判断四：换倍率不必重新调零？错，每次都要调。",
+		"seconds": 12.432
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：黑表笔接二极管正极测正向电阻？对。判断六：用完旋到OFF或交流电压最高挡？对。",
+		"seconds": 11.208
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|红进黑出，换挡调零，用完关挡。下一期：测量电源的电动势和内阻。",
+		"seconds": 7.488
+	}
+}

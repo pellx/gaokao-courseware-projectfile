@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|探究等温情况下一定质量气体压强与体积的关系。",
+		"seconds": 4.968
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一期讲实验的原理、器材、操作要求、数据处理和误差，共九个考点。",
+		"seconds": 7.056
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。探究温度不变时，一定质量的气体的压强与体积的关系。",
+		"seconds": 7.704
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|气体在温度不变的情况下发生的状态变化，叫做等温变化。",
+		"seconds": 5.832
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：前提有两个：气体的质量不变、温度不变。",
+		"seconds": 4.992
+	},
+	"o1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，研究对象与方法。研究对象是注射器内被封闭的一段空气柱。",
+		"seconds": 7.248
+	},
+	"o2": {
+		"key": "zh-CN-XiaoxiaoNeural|用控制变量法：保持气体的质量和温度不变。",
+		"seconds": 4.416
+	},
+	"o3": {
+		"key": "zh-CN-XiaoxiaoNeural|改变空气柱的体积V，看压强p怎样变化。",
+		"seconds": 4.344
+	},
+	"o4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：研究对象是封闭的空气柱，不是注射器，也不是外面的空气。",
+		"seconds": 6.48
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。注射器下端的开口用橡胶套封住，与柱塞一起封闭一段空气柱。",
+		"seconds": 9
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|与空气柱相连的压力表，显示气体的压强。",
+		"seconds": 4.344
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|注射器上的刻度读出空气柱的长度，体积等于长度乘横截面积。",
+		"seconds": 6.12
+	},
+	"t3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发的女孩抱着一支大注射器：实验的主角就是它，柱塞和橡胶套一起把空气关在里面。",
+		"seconds": 8.568
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：压强看压力表，体积看刻度。",
+		"seconds": 4.008
+	},
+	"q1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，保证气体质量不变。在柱塞上涂润滑油，使注射器密封良好，防止漏气。",
+		"seconds": 8.544
+	},
+	"q2": {
+		"key": "zh-CN-XiaoxiaoNeural|实验过程中不能拔下橡胶套，否则空气会跑出去或进来。",
+		"seconds": 5.688
+	},
+	"q3": {
+		"key": "zh-CN-XiaoxiaoNeural|漏气以后，研究的就不再是同一部分气体了。",
+		"seconds": 4.152
+	},
+	"q4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：质量不变靠密封：涂润滑油、不拔橡胶套。",
+		"seconds": 5.328
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，保证气体温度不变。推、拉柱塞要缓慢，让气体有时间和外界交换热量。",
+		"seconds": 8.544
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|不用手握住注射器封有气体的部分，免得手的温度传给气体。",
+		"seconds": 5.928
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|改变体积后稍等片刻，待压力表示数稳定再读数。",
+		"seconds": 5.28
+	},
+	"w3b": {
+		"key": "zh-CN-XiaoxiaoNeural|钻进暖桌的绿头发女孩，一进去就暖和了；手握住注射器，就像给气体盖上暖桌，温度就升高了。",
+		"seconds": 9.144
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：缓慢推拉、不用手握、示数稳定再读。",
+		"seconds": 4.92
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，测量。推、拉柱塞改变空气柱的长度L，记录多组长度和对应的压强p。",
+		"seconds": 9
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|空气柱的横截面积S不变，体积V等于L乘S，与长度成正比。",
+		"seconds": 6.552
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以可以用长度代替体积，不必测横截面积。",
+		"seconds": 4.656
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：横截面积不变，V与L成正比，长度就能代表体积。",
+		"seconds": 6.096
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，数据处理。以压强p为纵轴、体积V为横轴，作p V图像，得到一条曲线。",
+		"seconds": 8.904
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|它是不是双曲线，不易直接判断。",
+		"seconds": 3.384
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|改以V分之一为横轴，作p与V分之一的图像。",
+		"seconds": 4.848
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|各点落在一条过原点的直线上，说明压强与体积的倒数成正比。",
+		"seconds": 6.216
+	},
+	"d5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：化曲为直，作p与V分之一的图像，看是不是过原点的直线。",
+		"seconds": 6.624
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，误差来源。漏气使气体质量减少；推拉过快或手握注射器，使温度变化。",
+		"seconds": 8.88
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|如果p与V分之一的图线，后段向下弯曲，说明漏气或温度降低。",
+		"seconds": 6.672
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|后段向上弯曲，说明温度升高。",
+		"seconds": 3.48
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|读数时视线与刻度垂直，可以减小读数误差。",
+		"seconds": 4.704
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：p V乘积变小，图线向下弯；p V乘积变大，图线向上弯。",
+		"seconds": 7.104
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，实验结论。在误差允许的范围内，一定质量的气体在温度不变时，压强与体积成反比。",
+		"seconds": 9.648
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|即p V等于常量，或p一V一等于p二V二。",
+		"seconds": 4.608
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|这就是玻意耳定律。",
+		"seconds": 2.184
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这节挤满人的车厢，穿西装的大个子怪兽被挤得直哼哼：空间越小，挤得越紧；气体的体积越小，压强就越大。",
+		"seconds": 10.776
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：玻意耳定律成立的条件是质量一定、温度不变。",
+		"seconds": 5.496
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：研究对象是封闭的空气柱？对。判断二：可以拔下橡胶套调长度？错，会漏气。",
+		"seconds": 10.176
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：推拉要快？错，要缓慢，示数稳定再读。判断四：可以用长度代替体积？对。",
+		"seconds": 10.032
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：p V图像是过原点的直线？错，p与V分之一的图像才是。判断六：温度不变时，p V乘积为常量？对。",
+		"seconds": 12.6
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|封住气体、保持温度，p与V成反比。高中物理的学生必做实验，到这里就全部讲完了。",
+		"seconds": 8.808
+	}
+}

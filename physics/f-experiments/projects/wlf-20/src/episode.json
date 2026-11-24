@@ -1,0 +1,126 @@
+{
+	"id": "WLF-20",
+	"title": "用双缝干涉实验测量光的波长",
+	"subject": "physics",
+	"book": "实验 · 第20期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验原理",
+		"装置与各元件的作用",
+		"调节要求",
+		"测量头",
+		"测条纹间距",
+		"观察现象",
+		"误差来源及减小方法",
+		"易错提醒"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"双缝干涉",
+				true
+			],
+			[
+				"测量光的波长"
+			]
+		],
+		"subtitle": "Δx = lλ/d · 测量头 · Δx = a/(n − 1)",
+		"photo": "young.png",
+		"photoCaption": "托马斯·杨画的双缝干涉示意图：A、B 两处发出的波叠加，在 C、D、E、F 处减弱",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"双缝干涉",
+					true
+				]
+			],
+			[
+				[
+					"测光的波长"
+				]
+			]
+		],
+		"photo": "young.png",
+		"photoPos": "center",
+		"photoTag": "历史图",
+		"credit": "Thomas Young, Public domain",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ぺんたごん",
+			"title": "あったかあったか",
+			"url": "https://www.pixiv.net/artworks/87953615"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "相邻亮条纹间距 Δx = lλ/d",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "装置中双缝在前，单缝在后",
+				"ok": false,
+				"fix": "滤光片、单缝、双缝依次排列"
+			},
+			{
+				"q": "单缝与双缝应互相垂直",
+				"ok": false,
+				"fix": "单缝与双缝应互相平行"
+			},
+			{
+				"q": "手轮读数规则与螺旋测微器相同",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "红光的条纹间距比紫光的小",
+				"ok": false,
+				"fix": "红光波长长，条纹间距大"
+			},
+			{
+				"q": "n 条亮条纹间距离为 a，则 Δx = a/(n − 1)",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"双缝干涉",
+				true
+			],
+			[
+				"测量光的波长"
+			]
+		],
+		"endLine": "Δx = lλ/d，n 条只有 n − 1 个间距",
+		"slogan": "Δx = lλ/d，n 条只有 n − 1 个间距"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Thomas Young《Young Diffraction》公有领域；插图来自 pixiv：鷹月　凛、JLT4n、リスズ委員長（侵删）",
+	"anime": [
+		{
+			"key": "twins",
+			"src": "twins.jpg",
+			"credit": "插图：鷹月　凛《FUWAMOCO（June Bride ver.）》 pixiv #146718684",
+			"url": "https://www.pixiv.net/artworks/146718684"
+		},
+		{
+			"key": "stage",
+			"src": "stage.jpg",
+			"credit": "插图：JLT4n《独演会》 pixiv #118871340",
+			"url": "https://www.pixiv.net/artworks/118871340"
+		},
+		{
+			"key": "row",
+			"src": "row.jpg",
+			"credit": "插图：リスズ委員長《集合写真》 pixiv #112169951",
+			"url": "https://www.pixiv.net/artworks/112169951"
+		}
+	]
+}

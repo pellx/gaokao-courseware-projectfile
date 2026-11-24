@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|传感器。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲传感器的作用和组成，以及光敏电阻、热敏电阻、应变片、霍尔元件，共八个考点。",
+		"seconds": 8.832
+	},
+	"w1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，什么是传感器。传感器能感受被测量，并按照一定的规律，把它转换成便于利用的信号。",
+		"seconds": 9.432
+	},
+	"w2": {
+		"key": "zh-CN-XiaoxiaoNeural|转换成的信号，通常是电压、电流等电学量，或者电路的通断。",
+		"seconds": 6.144
+	},
+	"w3": {
+		"key": "zh-CN-XiaoxiaoNeural|比如声控灯感受声音，烟雾报警器感受烟雾，都要先靠传感器把信息“读”进来。",
+		"seconds": 7.632
+	},
+	"w4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：传感器的作用是感受被测量，并把它转换成电学量或电路的通断。",
+		"seconds": 7.44
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，非电学量转换成电学量。力、温度、光、磁场、声音，都是非电学量。",
+		"seconds": 8.928
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|把它们转换成电学量以后，就可以方便地测量、传输、处理和控制。",
+		"seconds": 6.312
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|例如温度计的读数要人去看，而温度传感器输出的电压，可以直接送给电路去控制空调。",
+		"seconds": 8.616
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：传感器把非电学量转换成电学量，便于测量和控制。",
+		"seconds": 6.312
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，传感器的组成。传感器一般由敏感元件和转换元件组成。",
+		"seconds": 7.296
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|敏感元件直接感受被测量，输出与被测量有确定关系的某种物理量。",
+		"seconds": 6.624
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|转换元件把敏感元件输出的信号，转换成电信号。",
+		"seconds": 5.088
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：直接感受被测量的是敏感元件，输出电信号的是转换元件。",
+		"seconds": 6.912
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，光敏电阻。光敏电阻多用硫化镉等半导体材料制成。",
+		"seconds": 6.744
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|光照越强，材料中能导电的载流子越多，电阻越小；光线暗时，电阻很大。",
+		"seconds": 7.632
+	},
+	"l2b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发的Q版女孩在大太阳底下：光照越强，光敏电阻里能导电的载流子就越多，电阻越小。",
+		"seconds": 9.312
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|光敏电阻把光照强弱转换为电阻大小，可用于光控开关、光电计数。",
+		"seconds": 7.056
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：光敏电阻是光照越强电阻越小，不是越大。",
+		"seconds": 5.424
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，热敏电阻与金属热电阻。金属的电阻率随温度升高而增大，用它制成金属热电阻。",
+		"seconds": 9.624
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|半导体热敏电阻的阻值随温度变化非常明显，教材中的热敏电阻，温度升高时电阻减小。",
+		"seconds": 9
+	},
+	"t2b": {
+		"key": "zh-CN-XiaoxiaoNeural|额头上敷着冰袋、嘴里含着体温计的女孩：体温一变，体温计里的热敏电阻阻值就跟着变，温度就转换成了电学量。",
+		"seconds": 10.728
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|热敏电阻灵敏度高；金属热电阻化学稳定性好，测温范围大。",
+		"seconds": 6.264
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：金属热电阻温度升高电阻变大，教材中的热敏电阻温度升高电阻变小，不要混。",
+		"seconds": 8.76
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，电阻应变片。金属导体被拉伸时，长度变长、横截面变小，电阻变大。",
+		"seconds": 8.544
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|被压缩时，长度变短、横截面变大，电阻变小。",
+		"seconds": 5.112
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|把应变片贴在弹性梁上，受力形变就转换成了电阻的变化，电子秤就是这样称重的。",
+		"seconds": 8.04
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|被大手捏住的Q版小人儿：受力就会形变；应变片也一样，一受力就形变，电阻就跟着变。",
+		"seconds": 8.592
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：应变片把形变转换为电阻的变化，是常用的力传感器。",
+		"seconds": 6.168
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，霍尔元件。在通有电流的半导体薄片上，加一个垂直于薄片的磁场。",
+		"seconds": 7.8
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|运动的载流子受洛伦兹力偏转，在与电流和磁场都垂直的方向上，出现霍尔电压。",
+		"seconds": 8.04
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|霍尔电压U H等于k乘I B除以d，电流一定时，与磁感应强度B成正比。",
+		"seconds": 7.632
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：霍尔元件把磁感应强度转换为电压，是磁传感器。",
+		"seconds": 6.048
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，传感器的应用。家用电器：空调、电冰箱用温度传感器控温。",
+		"seconds": 7.584
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|智能手机里有光线、加速度、距离等多种传感器。",
+		"seconds": 5.304
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|汽车、工业自动化和医疗设备中，也大量使用传感器。",
+		"seconds": 5.544
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：分析传感器，先找它感受的是什么量，再看转换成了什么电学量。",
+		"seconds": 7.008
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：传感器把非电学量转换为电学量？对。判断二：直接感受被测量的是转换元件？错，是敏感元件。",
+		"seconds": 12.408
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：光照越强，光敏电阻越大？错，越小。判断四：金属热电阻升温电阻增大？对。",
+		"seconds": 10.752
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：应变片被拉伸电阻变小？错，变大。判断六：霍尔元件把磁感应强度转换为电压？对。",
+		"seconds": 11.184
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|感受非电量，转换成电量。下一期：机械波的形成与描述。",
+		"seconds": 6.48
+	}
+}

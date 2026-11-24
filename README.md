@@ -32,7 +32,7 @@
 | 化学 | [模块E 有机化学](chemistry/e-organic-chemistry/list.md) | 17 | 124 | 🛠 17 |
 | 化学 | [模块F 化学实验](chemistry/f-experiments/list.md) | 9 | 67 | 🛠 9 |
 | 化学 | [模块G 综合应用与情境](chemistry/g-applications-and-contexts/list.md) | 7 | 49 | 🛠 7 |
-| 物理 | [6 篇（WLA～WLF）](physics/list.md) | 100 | 832 | 🛠 90　⬜ 10 |
+| 物理 | [6 篇（WLA～WLF）](physics/list.md) | 100 | 832 | 🛠 100 |
 
 合计：生物 104 期 / 732 个考点，化学 102 期 / 737 个考点，物理计划 100 期 / 832 个考点。
 

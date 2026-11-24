@@ -1,0 +1,125 @@
+{
+	"id": "WLF-18",
+	"title": "利用传感器制作简单的自动控制装置",
+	"subject": "physics",
+	"book": "实验 · 第18期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验原理",
+		"干簧管",
+		"门窗防盗报警装置",
+		"光敏电阻",
+		"光控开关",
+		"装置的组成",
+		"制作与调试"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"利用传感器",
+				true
+			],
+			[
+				"制作自动控制装置"
+			]
+		],
+		"subtitle": "干簧管 · 门窗防盗报警 · 光敏电阻 · 光控开关",
+		"photo": "reed-switch.jpg",
+		"photoCaption": "干簧管：玻璃管里封着两片软磁性簧片，磁体靠近时簧片吸合，电路接通",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"传感器",
+					true
+				]
+			],
+			[
+				[
+					"自动控制装置"
+				]
+			]
+		],
+		"photo": "reed-switch.jpg",
+		"photoPos": "center",
+		"photoTag": "干簧管",
+		"credit": "Timothée Cognard, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ふろく",
+			"title": "Midnight Theater",
+			"url": "https://www.pixiv.net/artworks/106989499"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "干簧管的簧片用软磁性材料制成",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "磁体靠近时，干簧管的簧片分开，电路断开",
+				"ok": false,
+				"fix": "簧片被磁化吸合，电路接通"
+			},
+			{
+				"q": "门窗打开时，干簧管断开，蜂鸣器报警",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "天色变暗时，光敏电阻的阻值减小",
+				"ok": false,
+				"fix": "光照变弱，阻值增大"
+			},
+			{
+				"q": "光控开关在天黑时使灯自动点亮",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电路连好后可直接通电，不必检查",
+				"ok": false,
+				"fix": "检查无误后再通电"
+			}
+		],
+		"endTitle": [
+			[
+				"利用传感器",
+				true
+			],
+			[
+				"制作自动控制装置"
+			]
+		],
+		"endLine": "磁来簧片合，天暗阻值大",
+		"slogan": "磁来簧片合，天暗阻值大"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Timothée Cognard《Interrupteur reed》CC BY-SA 4.0；插图来自 pixiv：8810⋱YouTube開始⋰、べべねこ、くぅもんせ（侵删）",
+	"anime": [
+		{
+			"key": "tsukune",
+			"src": "tsukune.jpg",
+			"credit": "插图：8810⋱YouTube開始⋰《no.1895 『 くっつくね 』》 pixiv #104348180",
+			"url": "https://www.pixiv.net/artworks/104348180"
+		},
+		{
+			"key": "buzzer",
+			"src": "buzzer.jpg",
+			"credit": "插图：べべねこ《自爆するしかねぇ》 pixiv #132128387",
+			"url": "https://www.pixiv.net/artworks/132128387"
+		},
+		{
+			"key": "torch",
+			"src": "torch.jpg",
+			"credit": "插图：くぅもんせ《怖い話をしようとするちびうさぎ》 pixiv #147623740",
+			"url": "https://www.pixiv.net/artworks/147623740"
+		}
+	]
+}

@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Steps: React.FC = () => <AutoScene k="steps" d={{"tag": "考点三", "title": "关键步骤与注意事项", "blocks": [{"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "选电池", "at": "c1", "lines": ["{旧干电池}，内阻较大", "U 的变化明显"], "c": "red", "size": 34}]}, {"blocks": [{"t": "panel", "title": "闭合开关前", "at": "c2", "lines": ["滑片放在", "接入电阻{最大}处"], "c": "orange", "size": 34}]}]}, {"t": "row", "cols": [{"blocks": [{"t": "panel", "title": "测量时", "at": "c3", "lines": ["电流{不宜过大}", "读数要{快}"], "c": "orange", "size": 34}]}, {"blocks": [{"t": "panel", "title": "读完", "at": "c3", "lines": ["{及时断开}开关"], "c": "red", "size": 34}]}]}], "callout": {"label": "易错", "at": "c4", "text": "通电过久，{E、r 会变化}"}, "beat": {"k": "battery", "at": "c3b", "text": "放电太久就“变色”\n{E 和 r|red} 会变化"}}} />;

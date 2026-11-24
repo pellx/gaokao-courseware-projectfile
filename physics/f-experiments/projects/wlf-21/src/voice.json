@@ -1,0 +1,194 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|用油膜法估测油酸分子的大小。",
+		"seconds": 3.408
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|这一期讲实验的原理、器材、步骤、数据处理和误差，共九个考点。",
+		"seconds": 6.624
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。用油膜法估测油酸分子的直径。",
+		"seconds": 5.688
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|分子太小，没法直接量；本实验通过测量宏观量，算出微观量。",
+		"seconds": 6.624
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|要测的是一滴油酸的体积和它在水面上铺开的面积，都是看得见、量得出的量。",
+		"seconds": 7.608
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：由宏观量的测量，估测微观的分子大小。",
+		"seconds": 4.824
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验原理。把油酸分子看成球形，并认为它们一个挨一个紧密排列。",
+		"seconds": 7.848
+	},
+	"p1b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这两只圆滚滚的小仓鼠：身子像小球，抱在一起不留缝，这就是油酸分子的理想化模型。",
+		"seconds": 8.328
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|油酸在水面上形成单分子油膜，油膜的厚度就是分子的直径。",
+		"seconds": 6.216
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|测出一滴油酸的体积V和油膜的面积S，就有d等于V比S。",
+		"seconds": 6.24
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：三个假设：分子是球形、紧密排列、油膜是单分子层。",
+		"seconds": 6.552
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。油酸酒精溶液是实验用的油；浅盘里盛水。",
+		"seconds": 7.248
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|爽身粉撒在水面上，用来显示油膜的轮廓。",
+		"seconds": 4.512
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|注射器和量筒，用来测一滴溶液的体积。",
+		"seconds": 4.032
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|带坐标方格的玻璃板和彩笔，用来描画油膜的轮廓、计算面积。",
+		"seconds": 6.048
+	},
+	"t5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：爽身粉让油膜的边界看得清，方格玻璃板用来算面积。",
+		"seconds": 6.192
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，为什么用油酸酒精溶液？纯油酸哪怕只滴一滴，量也太多，很难在水面上形成单分子油膜。",
+		"seconds": 10.128
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|用酒精稀释以后，一滴里的油酸很少，才能充分展开。",
+		"seconds": 5.208
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|酒精溶于水并很快挥发，水面上留下的是纯油酸形成的油膜。",
+		"seconds": 6.144
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发的女孩一紧张，整个人化成一摊水，哗地摊在地上；油酸也要像这样在水面上摊开，摊成薄薄的一层。",
+		"seconds": 10.056
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：稀释是为了让油酸充分展开成单分子油膜；酒精不会留在油膜里。",
+		"seconds": 7.344
+	},
+	"v1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，测一滴溶液中纯油酸的体积。用注射器吸取一定体积的溶液，一滴一滴地滴入量筒。",
+		"seconds": 9.024
+	},
+	"v2": {
+		"key": "zh-CN-XiaoxiaoNeural|数出滴数n，记下这些溶液的总体积V零，一滴溶液的体积就是V零比n。",
+		"seconds": 7.2
+	},
+	"v3": {
+		"key": "zh-CN-XiaoxiaoNeural|再乘以溶液中油酸的体积分数，也就是浓度，就得到一滴溶液里纯油酸的体积。",
+		"seconds": 7.224
+	},
+	"v4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：先求一滴溶液的体积，再乘浓度得纯油酸的体积。",
+		"seconds": 5.52
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，测油膜的面积。在浅盘的水面上均匀地撒一层爽身粉，滴入一滴溶液。",
+		"seconds": 8.04
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|待油膜形状稳定后，把玻璃板放在浅盘上，用彩笔描下油膜的轮廓。",
+		"seconds": 6.552
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|数出轮廓内的方格数：不足半格的舍去，多于半格的算一格，再乘以每一格的面积。",
+		"seconds": 7.776
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：数格子按半格取舍，总格数乘每格面积就是 S。",
+		"seconds": 6.024
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，计算与结果。由d等于V比S，算出油酸分子的直径。",
+		"seconds": 6.864
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|计算前要统一单位：体积用立方米，面积用平方米，算出的直径单位就是米。",
+		"seconds": 7.32
+	},
+	"c2b": {
+		"key": "zh-CN-XiaoxiaoNeural|一群小黄鸡挤在栗子羊羹上，一只挨一只，只铺了一层：油膜也是这样，厚度就是一个分子的直径。",
+		"seconds": 9.288
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|油酸分子直径的数量级是10的负10次方米。",
+		"seconds": 4.44
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：本实验只是估测，重在数量级。",
+		"seconds": 4.176
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，误差来源。爽身粉撒得太厚，油膜不能充分展开，面积偏小，直径偏大。",
+		"seconds": 8.712
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|油膜形状还没稳定就描轮廓，面积测不准。",
+		"seconds": 4.488
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|数滴数时多数了，算出的每滴体积偏小，直径偏小。",
+		"seconds": 5.64
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|溶液久置，酒精挥发，浓度变大却仍按原浓度计算，直径偏小。",
+		"seconds": 6.72
+	},
+	"e5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：分析误差就看d等于V比S：V算小了，d偏小；S测小了，d偏大。",
+		"seconds": 8.112
+	},
+	"x1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，易错提醒。d等于V比S中的V，是一滴溶液中纯油酸的体积。",
+		"seconds": 7.392
+	},
+	"x2": {
+		"key": "zh-CN-XiaoxiaoNeural|它不是一滴溶液的体积，溶液里绝大部分是酒精。",
+		"seconds": 4.704
+	},
+	"x3": {
+		"key": "zh-CN-XiaoxiaoNeural|误把一滴溶液的体积当成 V，算出的直径会偏大很多。",
+		"seconds": 5.304
+	},
+	"x4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：V 要乘以浓度，用的是纯油酸的体积。",
+		"seconds": 4.608
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：分子看成球形、紧密排列？对。判断二：稀释是为了让油膜更厚？错，是为了充分展开成单分子油膜。",
+		"seconds": 12.408
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：不足半格也算一格？错，不足半格舍去。判断四：爽身粉太厚，直径偏大？对。",
+		"seconds": 10.584
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：V是一滴溶液的体积？错，是一滴里纯油酸的体积。判断六：数量级是10的负10次方米？对。",
+		"seconds": 11.472
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|一滴纯油酸，铺成单分子层，d 等于 V 比 S。下一期：探究等温情况下一定质量气体压强与体积的关系。",
+		"seconds": 10.8
+	}
+}

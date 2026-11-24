@@ -1,0 +1,170 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|测量电源的电动势和内阻。",
+		"seconds": 2.952
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲这个实验的原理、器材、步骤、图像法处理数据、误差和其他方案，共八个考点。",
+		"seconds": 8.712
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验原理。由闭合电路的欧姆定律，E等于U加I r。",
+		"seconds": 6.624
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|U是路端电压，I是通过电源的电流，E和r是要测的两个未知量。",
+		"seconds": 6.504
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|改变外电路电阻，测出两组U、I，就能列两个方程解出E和r。",
+		"seconds": 6.552
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：原理上两组数据就够，实际要测多组数据，用图像处理以减小误差。",
+		"seconds": 7.56
+	},
+	"b1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，器材及作用。电压表测路端电压，电流表测通过电源的电流。",
+		"seconds": 7.464
+	},
+	"b2": {
+		"key": "zh-CN-XiaoxiaoNeural|滑动变阻器改变外电路的电阻，从而得到多组U、I。",
+		"seconds": 5.52
+	},
+	"b3": {
+		"key": "zh-CN-XiaoxiaoNeural|被测电源常用干电池，再用开关、导线组成电路。",
+		"seconds": 5.496
+	},
+	"b3b": {
+		"key": "zh-CN-XiaoxiaoNeural|看这个金发双马尾的女孩，把抱抱当成“充电”，电量表一下子就满了；实验里被测的“电源”，就是一节干电池。",
+		"seconds": 9.912
+	},
+	"b4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：电压表测路端电压 U，电流表测干路电流 I，变阻器用来改变外电阻。",
+		"seconds": 7.944
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，关键步骤与注意事项。选内阻较大的旧干电池，路端电压的变化才明显。",
+		"seconds": 8.328
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|闭合开关前，滑片放在使接入电阻最大的位置。",
+		"seconds": 4.92
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|电流不宜过大，读数要快，读完及时断开开关。",
+		"seconds": 4.704
+	},
+	"c3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个女孩的头发平时五颜六色，一没电就整个变成灰白：电池放电太久，电动势和内阻也会明显变化。",
+		"seconds": 10.08
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：电流过大、通电过久，电池的E和r会明显变化，测出的就不准了。",
+		"seconds": 7.512
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，数据处理。以U为纵轴、I为横轴，把各组数据描成点。",
+		"seconds": 7.056
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|作一条直线，使尽量多的点落在线上，不在线上的点均匀分布在直线两侧。",
+		"seconds": 7.224
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|由U等于E减I r，图线的纵轴截距等于电动势E，斜率的绝对值等于内阻r。",
+		"seconds": 7.824
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：截距是E，斜率绝对值是r；个别偏离很远的点要舍去。",
+		"seconds": 6.408
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，坐标的选取。干电池的路端电压变化范围较小，点会挤在图的上方。",
+		"seconds": 7.944
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|这时纵轴可以不从零开始，以充分利用坐标纸，让图线更陡、读数更准。",
+		"seconds": 7.176
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|纵轴不从零开始时，图线与横轴的交点就不再是短路电流。",
+		"seconds": 5.736
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：纵轴不从零开始，与纵轴的截距仍是E，斜率的绝对值仍等于r，但横轴截距不是短路电流。",
+		"seconds": 9.96
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，误差来源。电压表直接并联在电源两端测路端电压，电流表测的却不是全部电流。",
+		"seconds": 9.432
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|电压表分流，电流表的示数小于通过电源的电流。",
+		"seconds": 4.968
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|路端电压越小，分流越小；电压为零时两条图线相交于横轴，所以测得的图线比真实图线更平、截距更低。",
+		"seconds": 11.016
+	},
+	"f3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这个缩成小不点、站在筷子上直发抖的粉头发女孩：在这种接法下，测出的E和r都缩水了。",
+		"seconds": 8.784
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：这种接法下，E和r的测量值都偏小；读数和作图还带来偶然误差。",
+		"seconds": 7.728
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，其他方案。用电流表和电阻箱：E等于I乘R与r的和。",
+		"seconds": 7.008
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|用电压表和电阻箱：E等于U加U r除以R。",
+		"seconds": 4.584
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|改变电阻箱阻值，测出多组数据，同样可以求出E和r。",
+		"seconds": 5.448
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：也可以把关系式变形成线性关系再作图，比如作I分之一对R的图像。",
+		"seconds": 7.464
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，实验结论。路端电压随电流的增大而线性减小。",
+		"seconds": 6.432
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|U对I的图线是一条倾斜的直线，纵轴截距是电动势，斜率的绝对值是内阻。",
+		"seconds": 7.632
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|干电池的电动势约一点五伏，内阻约零点几欧到一欧多。",
+		"seconds": 5.76
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：一条U对I的直线，截距求E，斜率求r。",
+		"seconds": 5.232
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：原理是E等于U加I r？对。判断二：应选内阻小的新电池？错，选内阻大的旧电池。",
+		"seconds": 10.656
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：纵轴截距等于电动势？对。判断四：纵轴不从零开始，横轴截距仍是短路电流？错。",
+		"seconds": 11.328
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：电压表直接并联在电源两端，E测量值偏大？错，E和r都偏小。判断六：电流表加电阻箱也能测？对。",
+		"seconds": 12.696
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|截距求E，斜率求r，旧电池、读数快。下一期：探究影响感应电流方向的因素。",
+		"seconds": 8.544
+	}
+}

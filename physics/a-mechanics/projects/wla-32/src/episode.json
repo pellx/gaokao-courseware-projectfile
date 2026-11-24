@@ -1,0 +1,129 @@
+{
+	"id": "WLA-32",
+	"title": "受迫振动与共振",
+	"subject": "physics",
+	"book": "力学 · 第32期 / 共32期",
+	"points": [
+		"固有振动与固有频率",
+		"阻尼振动",
+		"驱动力与受迫振动",
+		"受迫振动的频率",
+		"共振",
+		"共振曲线",
+		"共振的应用",
+		"共振的防止"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"受迫振动",
+				true
+			],
+			[
+				"与共振"
+			]
+		],
+		"subtitle": "固有频率 · 阻尼振动 · 受迫振动 · 共振曲线",
+		"photo": "tuning-fork.jpg",
+		"photoCaption": "装在共鸣箱上的音叉：箱内空气柱与音叉共振，声音更响",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"受迫振动",
+					true
+				]
+			],
+			[
+				[
+					"与共振"
+				]
+			]
+		],
+		"photo": "tuning-fork.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "共鸣箱",
+		"credit": "Brian0918, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "火渡 ケン",
+			"title": "虹夏ちゃんハピバ！！！",
+			"url": "https://www.pixiv.net/artworks/145328587"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "固有频率由振动系统本身决定",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "阻尼振动的振幅减小，频率也减小",
+				"ok": false,
+				"fix": "振幅减小，频率不变"
+			},
+			{
+				"q": "受迫振动稳定后的频率等于固有频率",
+				"ok": false,
+				"fix": "等于驱动力的频率"
+			},
+			{
+				"q": "f驱 = f固 时受迫振动的振幅最大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "驱动力频率越大，受迫振动的振幅越大",
+				"ok": false,
+				"fix": "越接近固有频率振幅越大"
+			},
+			{
+				"q": "部队过桥便步走是为了防止共振",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"受迫振动",
+				true
+			],
+			[
+				"与共振"
+			]
+		],
+		"endLine": "频率看驱动力，振幅看接近",
+		"slogan": "频率看驱动力，振幅看接近"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Brian0918《Tuning fork on resonator》CC BY-SA 3.0；插图来自 pixiv：霊 杏沙、さんばい、やしろの☀️（侵删）",
+	"anime": [
+		{
+			"key": "hit",
+			"src": "hit.jpg",
+			"credit": "插图：霊 杏沙《山吹沙綾ver星の鼓動》 pixiv #71098255",
+			"url": "https://www.pixiv.net/artworks/71098255"
+		},
+		{
+			"key": "drum",
+			"src": "drum.jpg",
+			"credit": "插图：さんばい《伊地知虹夏》 pixiv #151699234",
+			"url": "https://www.pixiv.net/artworks/151699234"
+		},
+		{
+			"key": "guitar",
+			"src": "guitar.jpg",
+			"credit": "插图：やしろの☀️《メイドぼ喜多》 pixiv #104671046",
+			"url": "https://www.pixiv.net/artworks/104671046"
+		}
+	]
+}

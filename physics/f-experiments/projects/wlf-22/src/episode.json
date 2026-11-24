@@ -1,0 +1,131 @@
+{
+	"id": "WLF-22",
+	"title": "探究等温情况下一定质量气体压强与体积的关系",
+	"subject": "physics",
+	"book": "实验 · 第22期 / 共22期",
+	"points": [
+		"实验目的",
+		"研究对象与方法",
+		"器材及作用",
+		"保证质量不变",
+		"保证温度不变",
+		"测量",
+		"数据处理",
+		"误差来源",
+		"实验结论"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"等温情况下",
+				true
+			],
+			[
+				"气体压强与体积的关系"
+			]
+		],
+		"subtitle": "封闭空气柱 · 控制变量 · p-1/V 图像 · pV = C",
+		"photo": "air-pump.jpg",
+		"photoCaption": "胡克和玻意耳的空气泵（复制品）：玻意耳用它研究空气的“弹性”",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"等温情况下",
+					true
+				]
+			],
+			[
+				[
+					"压强与体积",
+					false
+				]
+			]
+		],
+		"photo": "air-pump.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "历史装置",
+		"credit": "Kinkreet, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "えっぐまん🐣",
+			"title": "あけましておめでとうございます",
+			"url": "https://www.pixiv.net/artworks/95191093"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "研究对象是注射器内被封闭的那段空气柱",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "实验中可以拔下橡胶套来调整空气柱的长度",
+				"ok": false,
+				"fix": "不能拔下橡胶套，否则漏气"
+			},
+			{
+				"q": "推拉柱塞要快，读数要迅速",
+				"ok": false,
+				"fix": "缓慢推拉，示数稳定后再读"
+			},
+			{
+				"q": "横截面积不变时，可以用空气柱长度代替体积",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "p-V 图像是一条过原点的直线",
+				"ok": false,
+				"fix": "p-1/V 图像才是过原点的直线"
+			},
+			{
+				"q": "温度不变时，一定质量气体的 pV 为常量",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"等温情况下",
+				true
+			],
+			[
+				"气体压强与体积的关系"
+			]
+		],
+		"endLine": "封住气体、保持温度，p 与 V 成反比",
+		"slogan": "封住气体、保持温度，p 与 V 成反比"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Kinkreet《ReplIca of the Hooke-Boyle Air Pump》，CC BY-SA 3.0；插图来自 pixiv：水酸化Na、くっく、葉狼（侵删）",
+	"anime": [
+		{
+			"key": "syringe",
+			"src": "syringe.jpg",
+			"credit": "插图：水酸化Na《ごちハピなめぐ》 pixiv #113084453",
+			"url": "https://www.pixiv.net/artworks/113084453"
+		},
+		{
+			"key": "kotatsu",
+			"src": "kotatsu.jpg",
+			"credit": "插图：くっく《こたつ》 pixiv #61040096",
+			"url": "https://www.pixiv.net/artworks/61040096"
+		},
+		{
+			"key": "train",
+			"src": "train.jpg",
+			"credit": "插图：葉狼《出勤》 pixiv #34599895",
+			"url": "https://www.pixiv.net/artworks/34599895"
+		}
+	]
+}

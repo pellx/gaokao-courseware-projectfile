@@ -1,0 +1,119 @@
+{
+	"id": "WLB-22",
+	"title": "传感器",
+	"subject": "physics",
+	"book": "电学基础 · 第22期 / 共22期",
+	"points": [
+		"什么是传感器",
+		"非电学量转电学量",
+		"传感器的组成",
+		"光敏电阻",
+		"热敏与金属热电阻",
+		"电阻应变片",
+		"霍尔元件",
+		"传感器的应用"
+	],
+	"intro": {
+		"badge": "高考物理 · 电学基础",
+		"title": [
+			[
+				"传感器",
+				true
+			]
+		],
+		"subtitle": "敏感元件 · 光敏电阻 · 热敏电阻 · 应变片 · 霍尔元件",
+		"photo": "photoresistor.jpg",
+		"photoCaption": "光敏电阻：表面的蛇形条纹是硫化镉等半导体材料，光照越强，电阻越小",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"传感器",
+					true
+				]
+			],
+			[
+				[
+					"非电变成电"
+				]
+			]
+		],
+		"photo": "photoresistor.jpg",
+		"photoPos": "center",
+		"photoTag": "光敏电阻",
+		"credit": "Raimond Spekking, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "タカムラマサヤ",
+			"title": "穂乃果！座って食べなさい！",
+			"url": "https://www.pixiv.net/artworks/121887195"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "传感器能把非电学量转换为电学量或电路的通断",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "传感器中直接感受被测量的是转换元件",
+				"ok": false,
+				"fix": "直接感受被测量的是敏感元件"
+			},
+			{
+				"q": "光敏电阻的光照越强，电阻越大",
+				"ok": false,
+				"fix": "光照越强，电阻越小"
+			},
+			{
+				"q": "金属热电阻的阻值随温度升高而增大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "电阻应变片被拉伸时，电阻变小",
+				"ok": false,
+				"fix": "被拉伸时电阻变大"
+			},
+			{
+				"q": "霍尔元件能把磁感应强度转换为电压",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"传感器",
+				true
+			]
+		],
+		"endLine": "感受非电量，转换成电量",
+		"slogan": "感受非电量，转换成电量"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Raimond Spekking《Photoresistor with orange background-7536》CC BY-SA 4.0；插图来自 pixiv：264、トゥーミ、Shunga（侵删）",
+	"anime": [
+		{
+			"key": "sun",
+			"src": "sun.jpg",
+			"credit": "插图：264《みこちのなちゅ…》 pixiv #110191944",
+			"url": "https://www.pixiv.net/artworks/110191944"
+		},
+		{
+			"key": "fever",
+			"src": "fever.jpg",
+			"credit": "插图：トゥーミ《ぜぇぜぇ》 pixiv #39972924",
+			"url": "https://www.pixiv.net/artworks/39972924"
+		},
+		{
+			"key": "squeeze",
+			"src": "squeeze.jpg",
+			"credit": "插图：Shunga《まだまだ眠たくない赤ちゃんｽﾋﾟｷ》 pixiv #151811874",
+			"url": "https://www.pixiv.net/artworks/151811874"
+		}
+	]
+}

@@ -1,0 +1,174 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|单摆。",
+		"seconds": 1.872
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲单摆模型、回复力、周期公式和单摆的能量，共八个考点。",
+		"seconds": 6.648
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，单摆模型。细线一端固定，另一端拴一个小球，就构成了单摆。",
+		"seconds": 7.248
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|要求细线的质量和伸缩可以忽略，小球的直径比线长小得多。",
+		"seconds": 6
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|单摆是一种理想化模型，实际的摆只有满足这些条件时才能看作单摆。",
+		"seconds": 6.816
+	},
+	"m3b": {
+		"key": "zh-CN-XiaoxiaoNeural|粉头发的女孩坐在秋千上来回摆动：如果把人看成一个小球、绳子又轻又不伸长，秋千就近似是一个单摆。",
+		"seconds": 9.936
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：用粗绳、弹性绳，或者摆球很大、很轻，都不能看作单摆。",
+		"seconds": 6.792
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，单摆的回复力。摆球受重力和摆线拉力两个力。",
+		"seconds": 6.024
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|把重力沿圆弧的切线和摆线两个方向分解。",
+		"seconds": 4.368
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|重力沿切线方向的分力，F等于负m g sin西塔，总指向平衡位置，提供回复力。",
+		"seconds": 8.016
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|摆线拉力与重力沿摆线方向分力的合力，提供摆球做圆周运动的向心力。",
+		"seconds": 7.176
+	},
+	"f5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：单摆的回复力是重力的切向分力，不是重力和拉力的合力。",
+		"seconds": 6.456
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，小角度近似。摆角很小时，sin西塔近似等于x比l，x是摆球偏离平衡位置的位移。",
+		"seconds": 10.104
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|回复力F等于负的m g比l乘x，与位移成正比、方向相反。",
+		"seconds": 6.696
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|这正是F等于负k x的形式，其中k等于m g比l。",
+		"seconds": 5.88
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：摆角很小时，单摆的运动可以看作简谐运动。",
+		"seconds": 5.304
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，回复力与合力。摆球经过最低点时，位移为零，回复力为零。",
+		"seconds": 7.512
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|但此时摆球在做圆周运动，需要向心力，拉力大于重力，合力不为零。",
+		"seconds": 7.152
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|所以最低点是平衡位置，却不是平衡状态。",
+		"seconds": 4.584
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：回复力为零不等于合力为零，单摆在最低点合力竖直向上，提供向心力。",
+		"seconds": 8.04
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，科学史。伽利略观察教堂里吊灯的摆动，发现了单摆运动的等时性。",
+		"seconds": 7.848
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|等时性是说：摆角较小时，摆动的周期与振幅无关。",
+		"seconds": 5.4
+	},
+	"h2b": {
+		"key": "zh-CN-XiaoxiaoNeural|黑头发的女孩盯着来回摆动的硬币：摆幅慢慢变小，来回一次的时间却几乎不变，这就是等时性。",
+		"seconds": 9.336
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|后来惠更斯确定了单摆的周期公式，并利用等时性发明了摆钟。",
+		"seconds": 6.168
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：伽利略发现等时性，惠更斯得出周期公式、发明摆钟。",
+		"seconds": 6.408
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，单摆的周期公式：T等于二派根号下l比g。",
+		"seconds": 5.568
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|摆长 l 是悬点到摆球球心的距离，不是线长。",
+		"seconds": 4.8
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|周期只由摆长和当地的重力加速度决定：摆长越长，周期越大；g越大，周期越小。",
+		"seconds": 8.352
+	},
+	"p3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个女孩一起来荡秋千：不管谁坐上去、体重多少，只要绳长一样，来回一次的时间就一样。",
+		"seconds": 8.544
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：小摆角时，单摆的周期与振幅和摆球质量都无关。",
+		"seconds": 5.88
+	},
+	"k1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，摆钟。摆钟利用单摆的等时性计时，摆每完成一次全振动，指针走过固定的时间。",
+		"seconds": 9.12
+	},
+	"k2": {
+		"key": "zh-CN-XiaoxiaoNeural|摆钟走慢了，说明周期偏大，应该把摆长调短。",
+		"seconds": 4.848
+	},
+	"k3": {
+		"key": "zh-CN-XiaoxiaoNeural|摆钟走快了，说明周期偏小，应该把摆长调长。",
+		"seconds": 4.968
+	},
+	"k4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：同一个摆钟，从赤道搬到两极，g变大，周期变小，会走快。",
+		"seconds": 7.032
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，单摆的能量。摆动中，重力势能和动能相互转化。",
+		"seconds": 6.288
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|摆球在最高点速度为零，重力势能最大；在最低点速度最大，动能最大。",
+		"seconds": 7.296
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|不计空气阻力时，只有重力做功，单摆的机械能守恒。",
+		"seconds": 5.232
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：摆球从最高点摆到最低点，下降高度h，最低点速度v等于根号下二g h。",
+		"seconds": 8.616
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：回复力是重力和拉力的合力？错，是重力的切向分力。判断二：小摆角时是简谐运动？对。",
+		"seconds": 11.136
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：最低点处于平衡状态？错，合力提供向心力。判断四：摆长是悬点到球心的距离？对。",
+		"seconds": 11.064
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：质量越大周期越大？错，周期与质量无关。判断六：摆钟走慢应把摆长调短？对。",
+		"seconds": 10.536
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|T等于二派根号下l比g，周期只看摆长和g。下一期：受迫振动与共振。",
+		"seconds": 8.232
+	}
+}

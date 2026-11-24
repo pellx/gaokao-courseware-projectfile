@@ -1,0 +1,131 @@
+{
+	"id": "WLF-21",
+	"title": "用油膜法估测油酸分子的大小",
+	"subject": "physics",
+	"book": "实验 · 第21期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验原理",
+		"器材及作用",
+		"用油酸酒精溶液",
+		"一滴中纯油酸体积",
+		"测油膜面积",
+		"计算与结果",
+		"误差来源",
+		"易错提醒"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"油膜法",
+				true
+			],
+			[
+				"估测油酸分子的大小"
+			]
+		],
+		"subtitle": "单分子油膜 · 酒精稀释 · 数方格 · d = V/S",
+		"photo": "franklin.jpg",
+		"photoCaption": "富兰克林（1778 年画像）：他曾把一小勺油倒在池塘上，油膜铺开约半英亩",
+		"photoPos": "center 30%"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"油膜法估测",
+					true
+				]
+			],
+			[
+				[
+					"油酸分子大小",
+					false
+				]
+			]
+		],
+		"photo": "franklin.jpg",
+		"photoPos": {
+			"16x9": "center 30%",
+			"4x3": "center 30%",
+			"3x4": "center 35%"
+		},
+		"photoTag": "历史人物",
+		"credit": "Joseph-Siffred Duplessis, CC0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ほたるる",
+			"title": "結束バンド",
+			"url": "https://www.pixiv.net/artworks/104039274"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "油膜法把油酸分子看成球形，且一个挨一个紧密排列",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "用酒精稀释油酸，是为了让油膜更厚、更容易观察",
+				"ok": false,
+				"fix": "为了充分展开成单分子油膜"
+			},
+			{
+				"q": "数方格时，不足半格的也算一格",
+				"ok": false,
+				"fix": "不足半格舍去，多于半格算一格"
+			},
+			{
+				"q": "爽身粉撒得太厚，测得的分子直径偏大",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "d = V/S 中的 V 是一滴油酸酒精溶液的体积",
+				"ok": false,
+				"fix": "是一滴溶液中纯油酸的体积"
+			},
+			{
+				"q": "油酸分子直径的数量级为 10^-10 m",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"油膜法",
+				true
+			],
+			[
+				"估测油酸分子的大小"
+			]
+		],
+		"endLine": "一滴纯油酸，铺成单分子层，d = V/S",
+		"slogan": "一滴纯油酸，铺成单分子层，d = V/S"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Joseph-Siffred Duplessis《Benjamin Franklin (1706–1790)》（1778），大都会艺术博物馆藏（Commons：Benjamin Franklin (1706–1790) MET DP312881.jpg），CC0；插图来自 pixiv：8810⋱YouTube開始⋰、すわ猫、チャイ（侵删）",
+	"anime": [
+		{
+			"key": "hug",
+			"src": "hug.jpg",
+			"credit": "插图：8810⋱YouTube開始⋰《no.1956 『 ハグスター 』》 pixiv #106079084",
+			"url": "https://www.pixiv.net/artworks/106079084"
+		},
+		{
+			"key": "melt",
+			"src": "melt.jpg",
+			"credit": "插图：すわ猫《ぼっち・ざ・エルシャダイ》 pixiv #110175999",
+			"url": "https://www.pixiv.net/artworks/110175999"
+		},
+		{
+			"key": "chick",
+			"src": "chick.jpg",
+			"credit": "插图：チャイ《ぎゅうぎゅう栗ようかん》 pixiv #65650591",
+			"url": "https://www.pixiv.net/artworks/65650591"
+		}
+	]
+}

@@ -1,0 +1,119 @@
+{
+	"id": "WLA-31",
+	"title": "单摆",
+	"subject": "physics",
+	"book": "力学 · 第31期 / 共32期",
+	"points": [
+		"单摆模型",
+		"单摆的回复力",
+		"小角度近似",
+		"回复力与合力",
+		"等时性的发现",
+		"单摆的周期公式",
+		"摆钟",
+		"单摆的能量"
+	],
+	"intro": {
+		"badge": "高考物理 · 力学",
+		"title": [
+			[
+				"单摆",
+				true
+			]
+		],
+		"subtitle": "理想模型 · 回复力 · T = 2π√(l/g) · 摆钟",
+		"photo": "huygens-clock.jpg",
+		"photoCaption": "惠更斯设计的摆钟和他的著作《摆钟论》：利用单摆的等时性计时",
+		"photoPos": "18% center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"单摆",
+					true
+				]
+			],
+			[
+				[
+					"周期公式"
+				]
+			]
+		],
+		"photo": "huygens-clock.jpg",
+		"photoPos": "18% center",
+		"photoTag": "摆钟",
+		"credit": "Rob Koopman, CC BY-SA 1.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "dolosse",
+			"title": "君に朝が降る",
+			"url": "https://www.pixiv.net/artworks/109927278"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "单摆的回复力是重力和拉力的合力",
+				"ok": false,
+				"fix": "回复力是重力沿切线方向的分力"
+			},
+			{
+				"q": "摆角很小时，单摆的运动可看作简谐运动",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "摆球经过最低点时处于平衡状态",
+				"ok": false,
+				"fix": "合力不为 0，提供向心力"
+			},
+			{
+				"q": "单摆的摆长是悬点到摆球球心的距离",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "摆球质量越大，单摆的周期越大",
+				"ok": false,
+				"fix": "周期与摆球质量无关"
+			},
+			{
+				"q": "摆钟走慢了，应把摆长调短",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"单摆",
+				true
+			]
+		],
+		"endLine": "周期只看摆长和 g",
+		"slogan": "周期只看摆长和 g"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Rob Koopman《Christiaan Huygens Clock and Horologii Oscillatorii》CC BY-SA 1.0；插图来自 pixiv：総桜しわす、茜しらす（侵删）",
+	"anime": [
+		{
+			"key": "swing",
+			"src": "swing.jpg",
+			"credit": "插图：総桜しわす《無題》 pixiv #110181895",
+			"url": "https://www.pixiv.net/artworks/110181895"
+		},
+		{
+			"key": "coin",
+			"src": "coin.jpg",
+			"credit": "插图：総桜しわす《振り子(5円）》 pixiv #144499411",
+			"url": "https://www.pixiv.net/artworks/144499411"
+		},
+		{
+			"key": "four",
+			"src": "four.jpg",
+			"credit": "插图：茜しらす《はじまりの場所》 pixiv #111555760",
+			"url": "https://www.pixiv.net/artworks/111555760"
+		}
+	]
+}

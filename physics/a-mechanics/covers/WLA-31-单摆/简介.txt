@@ -1,0 +1,23 @@
+本期考点
+
+一、单摆模型（细线质量、伸缩可忽略，球的直径远小于线长）
+二、单摆的回复力（重力的切向分力 F = −mg sinθ）
+三、小角度近似（F = −(mg/l)x，可看作简谐运动）
+四、回复力与合力（最低点回复力为 0，合力不为 0）
+五、等时性的发现（伽利略发现等时性，惠更斯发明摆钟）
+六、单摆的周期公式（T = 2π√(l/g)，与振幅、质量无关）
+七、摆钟（走慢调短摆长，走快调长摆长）
+八、单摆的能量（重力势能与动能转化，机械能守恒）
+
+图片来源
+1.Rob Koopman《Christiaan Huygens Clock and Horologii Oscillatorii》CC BY-SA 1.0（Wikimedia Commons）
+2.插图：総桜しわす《無題》
+https://www.pixiv.net/artworks/110181895
+3.插图：総桜しわす《振り子(5円）》
+https://www.pixiv.net/artworks/144499411
+4.插图：茜しらす《はじまりの場所》
+https://www.pixiv.net/artworks/111555760
+5.封面插图：dolosse《君に朝が降る》
+https://www.pixiv.net/artworks/109927278
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

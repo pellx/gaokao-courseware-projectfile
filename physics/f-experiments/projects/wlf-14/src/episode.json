@@ -1,0 +1,139 @@
+{
+	"id": "WLF-14",
+	"title": "用多用电表测量电学中的物理量",
+	"subject": "physics",
+	"book": "实验 · 第14期 / 共22期",
+	"points": [
+		"实验目的",
+		"多用电表的结构",
+		"欧姆表的原理",
+		"欧姆调零与中值电阻",
+		"红进黑出",
+		"测电压和电流",
+		"测电阻的步骤",
+		"测二极管的电阻",
+		"使用后的处理"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"用",
+				false
+			],
+			[
+				"多用电表",
+				true
+			],
+			[
+				"测量电学中的物理量",
+				false
+			]
+		],
+		"subtitle": "机械调零 · 欧姆调零 · 红进黑出 · 二极管",
+		"photo": "multimeter.jpg",
+		"photoCaption": "指针式多用电表：选择开关周围标着各挡位和量程，旁边是红、黑两支表笔",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"用"
+				],
+				[
+					"多用电表",
+					true
+				]
+			],
+			[
+				[
+					"测电学物理量"
+				]
+			]
+		],
+		"photo": "multimeter.jpg",
+		"photoPos": "center",
+		"photoTag": "多用电表",
+		"credit": "Islander61, CC BY-SA 4.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "ぽてぃ子",
+			"title": "デフォルメAfterglow",
+			"url": "https://www.pixiv.net/artworks/87362806"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "欧姆表电阻刻度的零刻度在最左端",
+				"ok": false,
+				"fix": "零刻度在最右端，∞ 在最左端"
+			},
+			{
+				"q": "指针指在刻度盘中央时，被测电阻等于欧姆表内阻",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "用欧姆挡时，红表笔接表内电池的正极",
+				"ok": false,
+				"fix": "黑表笔接表内电池的正极"
+			},
+			{
+				"q": "测电阻时换了倍率，不必重新欧姆调零",
+				"ok": false,
+				"fix": "每次换倍率都要重新欧姆调零"
+			},
+			{
+				"q": "黑表笔接二极管正极时测得的是正向电阻",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "使用完毕，选择开关应旋到 OFF 或交流电压最高挡",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"用",
+				false
+			],
+			[
+				"多用电表",
+				true
+			],
+			[
+				"测量电学中的物理量",
+				false
+			]
+		],
+		"endLine": "红进黑出，换挡调零，用完关挡",
+		"slogan": "红进黑出，换挡调零，用完关挡"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Islander61《Analog multimeter HARTIG & HELLING VM-10K》CC BY-SA 4.0；插图来自 pixiv：りりぅむ、残念な人＠加賀百万ゴッグ、てら（侵删）",
+	"anime": [
+		{
+			"key": "cable",
+			"src": "cable.jpg",
+			"credit": "插图：りりぅむ《蘭「なにこれ…」モカ「LANケーブル～」》 pixiv #68921063",
+			"url": "https://www.pixiv.net/artworks/68921063"
+		},
+		{
+			"key": "no",
+			"src": "no.jpg",
+			"credit": "插图：残念な人＠加賀百万ゴッグ《だいだいちゃん》 pixiv #120620901",
+			"url": "https://www.pixiv.net/artworks/120620901"
+		},
+		{
+			"key": "sleep",
+			"src": "sleep.jpg",
+			"credit": "插图：てら《寝落ちしたまりちゃん》 pixiv #151945522",
+			"url": "https://www.pixiv.net/artworks/151945522"
+		}
+	]
+}

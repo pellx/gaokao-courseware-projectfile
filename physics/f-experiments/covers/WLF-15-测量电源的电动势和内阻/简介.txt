@@ -1,0 +1,23 @@
+本期考点
+
+一、实验原理（E = U + Ir，测多组 U、I）
+二、器材及作用（电压表测路端电压，电流表测电流，变阻器改变外电阻）
+三、关键步骤（选旧干电池，滑片放在电阻最大处，读数快、及时断开）
+四、数据处理（U-I 图像：纵轴截距为 E，斜率绝对值为 r）
+五、坐标的选取（纵轴可不从 0 开始，横轴交点不再是短路电流）
+六、误差来源（电压表分流，E 和 r 测量值都偏小）
+七、其他方案（安阻法 E = I(R + r)，伏阻法 E = U + Ur/R）
+八、实验结论（U 随 I 线性减小，图线为倾斜直线）
+
+图片来源
+1.Joost J. Bakker IJmuiden《Philips Dry cell 1.5 volt type R 6 HD Heavy Duty made in Belgium old AA battery》CC BY 2.0（Wikimedia Commons）
+2.插图：代山SAN《るりちゃん充電》
+https://www.pixiv.net/artworks/124923133
+3.插图：代山SAN《るりちゃんバッテリー》
+https://www.pixiv.net/artworks/115846038
+4.插图：MOKOLS《gfdgfd》
+https://www.pixiv.net/artworks/129020873
+5.封面插图：黒銀鮭。《黄ピクミン》
+https://www.pixiv.net/artworks/109901248
+
+插图版权归原作者所有，仅用于学习交流，如有侵权请联系删除

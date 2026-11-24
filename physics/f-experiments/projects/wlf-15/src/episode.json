@@ -1,0 +1,154 @@
+{
+	"id": "WLF-15",
+	"title": "测量电源的电动势和内阻",
+	"subject": "physics",
+	"book": "实验 · 第15期 / 共22期",
+	"points": [
+		"实验原理",
+		"器材及作用",
+		"关键步骤",
+		"数据处理",
+		"坐标的选取",
+		"误差来源",
+		"其他方案",
+		"实验结论"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"测量电源的",
+				false
+			],
+			[
+				"电动势",
+				true
+			],
+			[
+				"和",
+				false
+			],
+			[
+				"内阻",
+				true
+			]
+		],
+		"subtitle": "E = U + Ir · U-I 图像 · 截距与斜率 · 误差分析",
+		"photo": "dry-cell.jpg",
+		"photoCaption": "旧的 5 号干电池：实验常用内阻较大的旧电池，路端电压的变化更明显",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"测量电源的"
+				]
+			],
+			[
+				[
+					"电动势",
+					true
+				],
+				[
+					"和"
+				],
+				[
+					"内阻",
+					true
+				]
+			]
+		],
+		"photo": "dry-cell.jpg",
+		"photoPos": {
+			"16x9": "center",
+			"4x3": "center",
+			"3x4": "center 35%"
+		},
+		"photoTag": "干电池",
+		"credit": "Joost J. Bakker, CC BY 2.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "黒銀鮭。",
+			"title": "黄ピクミン",
+			"url": "https://www.pixiv.net/artworks/109901248"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "实验原理是闭合电路的欧姆定律 E = U + Ir",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "应选用内阻较小的新干电池",
+				"ok": false,
+				"fix": "选内阻较大的旧干电池"
+			},
+			{
+				"q": "U-I 图线的纵轴截距等于电动势 E",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "纵轴不从 0 开始时，横轴截距仍是短路电流",
+				"ok": false,
+				"fix": "不再是短路电流"
+			},
+			{
+				"q": "电压表直接并联在电源两端时，E 的测量值偏大",
+				"ok": false,
+				"fix": "E 和 r 的测量值都偏小"
+			},
+			{
+				"q": "用电流表和电阻箱也能测 E 和 r",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"测量电源的",
+				false
+			],
+			[
+				"电动势",
+				true
+			],
+			[
+				"和",
+				false
+			],
+			[
+				"内阻",
+				true
+			]
+		],
+		"endLine": "截距求E，斜率求r，旧电池、读数快",
+		"slogan": "截距求E，斜率求r，旧电池、读数快"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Joost J. Bakker IJmuiden《Philips Dry cell 1.5 volt type R 6 HD Heavy Duty made in Belgium old AA battery》CC BY 2.0；插图来自 pixiv：代山SAN、MOKOLS（侵删）",
+	"anime": [
+		{
+			"key": "charge",
+			"src": "charge.jpg",
+			"credit": "插图：代山SAN《るりちゃん充電》 pixiv #124923133",
+			"url": "https://www.pixiv.net/artworks/124923133"
+		},
+		{
+			"key": "battery",
+			"src": "battery.jpg",
+			"credit": "插图：代山SAN《るりちゃんバッテリー》 pixiv #115846038",
+			"url": "https://www.pixiv.net/artworks/115846038"
+		},
+		{
+			"key": "tiny",
+			"src": "tiny.jpg",
+			"credit": "插图：MOKOLS《gfdgfd》 pixiv #129020873",
+			"url": "https://www.pixiv.net/artworks/129020873"
+		}
+	]
+}

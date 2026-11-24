@@ -1,0 +1,202 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|测量玻璃的折射率。",
+		"seconds": 2.328
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲实验的目的、原理、器材、步骤、数据处理和误差，共九个考点。",
+		"seconds": 7.224
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。测量一块玻璃的折射率。",
+		"seconds": 4.896
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|光从空气斜射入玻璃时，传播方向发生改变，这就是光的折射。",
+		"seconds": 6.312
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|通过测量，加深对折射定律的理解。",
+		"seconds": 3.816
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：本实验测的是玻璃的折射率，用的是两面平行的玻璃砖。",
+		"seconds": 6.12
+	},
+	"p1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验原理。找出入射光线和对应的出射光线，就能画出玻璃砖内的折射光线。",
+		"seconds": 8.712
+	},
+	"p2": {
+		"key": "zh-CN-XiaoxiaoNeural|测出入射角西塔一和折射角西塔二。",
+		"seconds": 3.936
+	},
+	"p3": {
+		"key": "zh-CN-XiaoxiaoNeural|由折射定律，n等于sin西塔一比sin西塔二，算出折射率。",
+		"seconds": 5.976
+	},
+	"p4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：关键是画出玻璃砖内部的折射光线，入射角和折射角都从法线量起。",
+		"seconds": 7.776
+	},
+	"t1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，器材及作用。两面平行的玻璃砖是待测介质。",
+		"seconds": 6.048
+	},
+	"t2": {
+		"key": "zh-CN-XiaoxiaoNeural|白纸铺在木板上，用图钉固定，用来画光路。",
+		"seconds": 4.584
+	},
+	"t3": {
+		"key": "zh-CN-XiaoxiaoNeural|大头针确定光线的位置。",
+		"seconds": 2.736
+	},
+	"t4": {
+		"key": "zh-CN-XiaoxiaoNeural|刻度尺和铅笔画线，量角器测量角度。",
+		"seconds": 4.272
+	},
+	"t5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：光线看不见，靠大头针把光线的位置标出来。",
+		"seconds": 5.28
+	},
+	"g1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，确定光路。在白纸上画一条直线作为界面a a撇，过入射点O画出法线和入射光线。",
+		"seconds": 9.84
+	},
+	"g2": {
+		"key": "zh-CN-XiaoxiaoNeural|把玻璃砖放好，一边与a a撇对齐，再画出另一个界面b b撇。",
+		"seconds": 6.288
+	},
+	"g3": {
+		"key": "zh-CN-XiaoxiaoNeural|在入射光线上竖直插两个大头针A、B。",
+		"seconds": 4.32
+	},
+	"g4": {
+		"key": "zh-CN-XiaoxiaoNeural|在另一侧透过玻璃砖观察，插大头针C挡住A、B的像，再插D挡住C和A、B的像。",
+		"seconds": 8.784
+	},
+	"g5": {
+		"key": "zh-CN-XiaoxiaoNeural|C、D确定出射光线，它与b b撇的交点就是出射点O撇。",
+		"seconds": 6.096
+	},
+	"g5b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个女孩在电影院里，短发的女孩戴着三D眼镜：透过镜片看到的是像。插针时也一样，要透过玻璃砖，让后一根针挡住前面的像。",
+		"seconds": 12.744
+	},
+	"g6": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：连接入射点和出射点，O O撇就是玻璃砖内的折射光线。",
+		"seconds": 6.336
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，注意事项。大头针要竖直插，同侧两个大头针的间距适当大一些。",
+		"seconds": 7.8
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|入射角不宜太小，也不宜太大。",
+		"seconds": 3.264
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|不用手触摸玻璃砖的光学面，不把玻璃砖当尺子画界线。",
+		"seconds": 5.352
+	},
+	"n3b": {
+		"key": "zh-CN-XiaoxiaoNeural|戴圆眼镜的女孩竖起手指提醒：镜片和玻璃砖一样，光学面别用手摸，摸脏了、划花了，光路就不准了。",
+		"seconds": 10.032
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|实验过程中，玻璃砖与白纸的相对位置不能改变；尽量选用宽度较大的玻璃砖。",
+		"seconds": 7.632
+	},
+	"n5": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：玻璃砖不能当尺子画界线，画完界线后玻璃砖也不能移动。",
+		"seconds": 6.6
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，数据处理。改变入射角，测出多组西塔一、西塔二。",
+		"seconds": 6.744
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|方法一：每组算出一个折射率，再取平均值。",
+		"seconds": 4.728
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|方法二：以sin西塔二为横轴、sin西塔一为纵轴作图，得到一条过原点的直线。",
+		"seconds": 7.8
+	},
+	"d3b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个戴眼镜的金发女孩，摆出四种不同的姿势：就像改变入射角做四次测量，结果合在一起才更可靠。",
+		"seconds": 9.936
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：sin西塔一和sin西塔二图像的斜率就是折射率。",
+		"seconds": 5.64
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，不用量角器的方法。以入射点O为圆心画一个圆，与入射光线交于E，与折射光线交于F。",
+		"seconds": 9.984
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|过E向法线作垂线E H，E H等于半径乘sin西塔一。",
+		"seconds": 6.096
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|过F向法线作垂线F G，F G等于半径乘sin西塔二。",
+		"seconds": 6.312
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：半径相同，两条垂线段之比E H比F G，就等于折射率。",
+		"seconds": 6.84
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，误差来源。入射光线和出射光线确定得不准，界线画得不准，角度测量不准。",
+		"seconds": 9.048
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|所画两条界线的间距大于玻璃砖的实际宽度时，折射角的测量值偏大，折射率偏小。",
+		"seconds": 8.256
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|间距画小时，折射角偏小，折射率偏大。",
+		"seconds": 4.464
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：大头针间距大一些、多测几组数据，可以减小误差。",
+		"seconds": 5.88
+	},
+	"l1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，实验结论。对同一块玻璃，入射角改变时，sin西塔一比sin西塔二保持不变。",
+		"seconds": 9.096
+	},
+	"l2": {
+		"key": "zh-CN-XiaoxiaoNeural|这个比值就是玻璃的折射率。",
+		"seconds": 3.048
+	},
+	"l3": {
+		"key": "zh-CN-XiaoxiaoNeural|两面平行的玻璃砖，出射光线与入射光线平行，只是发生了侧移。",
+		"seconds": 6.504
+	},
+	"l4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：玻璃砖两面不平行时，出射光线不再与入射光线平行，但仍能用同样的方法测出折射率。",
+		"seconds": 9.48
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：角度从界面量起？错，从法线量起。判断二：C要挡住A、B的像？对。",
+		"seconds": 9.864
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：可以用玻璃砖当尺子画线？错。判断四：sin西塔一和sin西塔二图像的斜率等于折射率？对。",
+		"seconds": 11.448
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：界线间距画大了，折射率偏大？错，偏小。判断六：两面不平行也能测？对。",
+		"seconds": 10.44
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|插针定光路，正弦比出n。下一期：用双缝干涉实验测量光的波长。",
+		"seconds": 7.464
+	}
+}

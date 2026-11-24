@@ -1,0 +1,4 @@
+import React from 'react';
+import {AutoScene} from '../components/auto';
+
+export const Device: React.FC = () => <AutoScene k="device" d={{"tag": "考点三", "title": "装置与各元件的作用", "blocks": [{"t": "chain", "steps": [{"at": "s1", "text": "光源"}, {"at": "s1", "text": "滤光片", "c": "orange"}, {"at": "s1", "text": "单缝", "c": "red"}, {"at": "s1", "text": "双缝", "c": "red"}, {"at": "s1", "text": "遮光筒"}, {"at": "s1", "text": "屏"}], "arrows": [], "size": 30, "gap": 10}, {"t": "table", "at": "s2", "head": ["元件", "作用"], "cols": "1fr 2fr", "rows": [{"at": "s2", "cells": ["滤光片", "得到{单色光}"]}, {"at": "s2", "cells": ["单缝", "相当于一个{线光源}"]}, {"at": "s3", "cells": ["双缝", "得到两个{相干光源}"]}, {"at": "s3", "cells": ["遮光筒", "挡住{外界杂光}"]}], "size": 28, "rowHeight": 56}], "callout": {"label": "要点", "at": "s4", "text": "顺序：{滤光片 → 单缝 → 双缝}"}, "beat": {"k": "twins", "at": "s3b", "text": "同一个光源分出两束\n{相干光|red}"}}} />;

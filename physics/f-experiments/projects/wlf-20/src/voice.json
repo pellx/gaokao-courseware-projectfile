@@ -1,0 +1,190 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|用双缝干涉实验测量光的波长。",
+		"seconds": 3.528
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲实验的目的、原理、装置、调节、测量、现象和误差，共九个考点。",
+		"seconds": 7.68
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，实验目的。观察双缝干涉图样。",
+		"seconds": 4.824
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|测量单色光的波长。",
+		"seconds": 2.424
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|光的波长很短，只有几百纳米，直接量不出来，要借助干涉条纹放大成能测的长度。",
+		"seconds": 8.016
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：把测不出的波长，转化为测条纹间距。",
+		"seconds": 4.728
+	},
+	"q1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，实验原理。双缝干涉中，相邻两条亮条纹或暗条纹的间距，Δx等于l比d乘兰姆达。",
+		"seconds": 10.656
+	},
+	"q2": {
+		"key": "zh-CN-XiaoxiaoNeural|d是双缝间距，是已知的；l是双缝到屏的距离。",
+		"seconds": 5.28
+	},
+	"q3": {
+		"key": "zh-CN-XiaoxiaoNeural|变形得到，兰姆达等于d乘Δx比l。",
+		"seconds": 4.44
+	},
+	"q4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：d已知，测出l和Δx，就能算出波长。",
+		"seconds": 5.424
+	},
+	"s1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，装置。沿遮光筒依次是：光源、滤光片、单缝、双缝、遮光筒、毛玻璃屏和测量头。",
+		"seconds": 10.392
+	},
+	"s2": {
+		"key": "zh-CN-XiaoxiaoNeural|滤光片得到单色光；单缝相当于一个线光源。",
+		"seconds": 4.68
+	},
+	"s3": {
+		"key": "zh-CN-XiaoxiaoNeural|双缝得到两个相干光源；遮光筒挡住外界的杂光。",
+		"seconds": 5.328
+	},
+	"s3b": {
+		"key": "zh-CN-XiaoxiaoNeural|这对手捧花束的Q版双胞胎，长得一模一样：就像双缝分出的两束光，来自同一个光源，频率相同，才能发生干涉。",
+		"seconds": 10.752
+	},
+	"s4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：顺序是滤光片、单缝、双缝，单缝在前，双缝在后。",
+		"seconds": 6.624
+	},
+	"j1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，调节要求。使光源、滤光片、单缝、双缝的中心都在遮光筒的轴线上。",
+		"seconds": 8.664
+	},
+	"j2": {
+		"key": "zh-CN-XiaoxiaoNeural|单缝与双缝要互相平行。",
+		"seconds": 2.976
+	},
+	"j3": {
+		"key": "zh-CN-XiaoxiaoNeural|这样屏上才能出现清晰的干涉条纹。",
+		"seconds": 3.816
+	},
+	"j4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：单缝与双缝不平行时，条纹会变得模糊，甚至看不到。",
+		"seconds": 6.12
+	},
+	"h1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，测量头。由分划板、目镜、手轮等组成。",
+		"seconds": 5.88
+	},
+	"h2": {
+		"key": "zh-CN-XiaoxiaoNeural|转动手轮，分划板会左右移动。",
+		"seconds": 3.36
+	},
+	"h3": {
+		"key": "zh-CN-XiaoxiaoNeural|从目镜中看到分划板的中心刻线和干涉条纹。",
+		"seconds": 4.824
+	},
+	"h4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：手轮的读数规则与螺旋测微器相同，要估读一位。",
+		"seconds": 5.856
+	},
+	"m1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，测条纹间距。转动手轮，使分划板的中心刻线对齐某条亮条纹的中心，记下读数。",
+		"seconds": 9.36
+	},
+	"m2": {
+		"key": "zh-CN-XiaoxiaoNeural|再转到另一条亮条纹的中心，记下第二个读数。",
+		"seconds": 4.416
+	},
+	"m3": {
+		"key": "zh-CN-XiaoxiaoNeural|两次读数之差a，是n条亮条纹之间的距离，Δx等于a比n减一。",
+		"seconds": 7.152
+	},
+	"m4": {
+		"key": "zh-CN-XiaoxiaoNeural|双缝到屏的距离l，用刻度尺测量。",
+		"seconds": 3.792
+	},
+	"m5": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：第 1 条到第 6 条亮条纹，中间只有 5 个间距。",
+		"seconds": 5.184
+	},
+	"o1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，观察现象。换用不同颜色的滤光片，条纹间距不同。",
+		"seconds": 6.456
+	},
+	"o2": {
+		"key": "zh-CN-XiaoxiaoNeural|红光的波长最长，条纹间距比绿光、紫光的都大。",
+		"seconds": 5.04
+	},
+	"o3": {
+		"key": "zh-CN-XiaoxiaoNeural|去掉滤光片，用白光做实验，屏上出现彩色条纹，中央是白色亮条纹。",
+		"seconds": 7.224
+	},
+	"o3b": {
+		"key": "zh-CN-XiaoxiaoNeural|舞台上的灯光有各种颜色，不同颜色的光波长不同。换一种颜色的滤光片，条纹间距就跟着变，红光的最宽。",
+		"seconds": 10.536
+	},
+	"o4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：波长越长，条纹间距越大；白光的中央亮条纹是白色的。",
+		"seconds": 6.864
+	},
+	"e1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，误差来源。误差主要来自Δx和l的测量。",
+		"seconds": 6.312
+	},
+	"e2": {
+		"key": "zh-CN-XiaoxiaoNeural|测多条亮条纹之间的总距离，再求Δx，比只测相邻两条更准确。",
+		"seconds": 6.912
+	},
+	"e3": {
+		"key": "zh-CN-XiaoxiaoNeural|分划板的中心刻线要与条纹平行，并对准条纹的中心。",
+		"seconds": 5.376
+	},
+	"e4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：测多条求平均、对准中心、多次测量取平均值，都能减小误差。",
+		"seconds": 7.272
+	},
+	"x1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点九，易错提醒。数一数：n条亮条纹之间，只有n减一个间距。",
+		"seconds": 7.176
+	},
+	"x2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如第1条到第6条亮条纹，有5个间距，不是6个。",
+		"seconds": 5.28
+	},
+	"x2b": {
+		"key": "zh-CN-XiaoxiaoNeural|四个女孩并排站着拍合照：四个人之间只有三个空隙。亮条纹也一样，n条只有n减1个间距。",
+		"seconds": 9.288
+	},
+	"x3": {
+		"key": "zh-CN-XiaoxiaoNeural|如果用a除以n，算出的条纹间距偏小，波长也偏小。",
+		"seconds": 5.568
+	},
+	"x4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：Δx要用a比n减一计算，不能用a比n。",
+		"seconds": 5.664
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：Δx等于l比d乘兰姆达？对。判断二：双缝在前，单缝在后？错，单缝在前。",
+		"seconds": 11.088
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：单缝与双缝互相垂直？错，要互相平行。判断四：手轮读数同螺旋测微器？对。",
+		"seconds": 10.872
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：红光条纹间距比紫光小？错，红光的大。判断六：Δx等于a比n减一？对。",
+		"seconds": 10.416
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|间距l比d乘兰姆达，n条只有n减1。下一期：用油膜法估测油酸分子的大小。",
+		"seconds": 8.616
+	}
+}

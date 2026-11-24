@@ -1,0 +1,166 @@
+{
+	"in1": {
+		"key": "zh-CN-XiaoxiaoNeural|受迫振动与共振。",
+		"seconds": 2.28
+	},
+	"in2": {
+		"key": "zh-CN-XiaoxiaoNeural|本期讲固有频率、阻尼振动、受迫振动和共振，共八个考点。",
+		"seconds": 6.168
+	},
+	"n1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点一，固有振动与固有频率。振动系统不受外力作用时的振动，叫做固有振动。",
+		"seconds": 8.016
+	},
+	"n2": {
+		"key": "zh-CN-XiaoxiaoNeural|固有振动的频率叫做固有频率，比如弹簧振子、单摆都有自己的固有频率。",
+		"seconds": 7.128
+	},
+	"n3": {
+		"key": "zh-CN-XiaoxiaoNeural|固有频率由系统本身决定：弹簧振子看质量和劲度系数，单摆看摆长和重力加速度。",
+		"seconds": 8.688
+	},
+	"n4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：固有频率与振幅无关，是系统本身的属性。",
+		"seconds": 4.992
+	},
+	"d1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点二，阻尼振动。实际的振动系统总要受到阻力。",
+		"seconds": 5.712
+	},
+	"d2": {
+		"key": "zh-CN-XiaoxiaoNeural|系统克服阻力做功，机械能逐渐转化为内能等其他形式的能，振幅逐渐减小。",
+		"seconds": 7.728
+	},
+	"d2b": {
+		"key": "zh-CN-XiaoxiaoNeural|扎马尾的Q版女孩敲了一下鼓：鼓声越来越小，最后停下来，鼓面的振幅在逐渐减小，这就是阻尼振动。",
+		"seconds": 9.888
+	},
+	"d3": {
+		"key": "zh-CN-XiaoxiaoNeural|这种振幅逐渐减小的振动，叫做阻尼振动。",
+		"seconds": 4.368
+	},
+	"d4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：阻尼振动的振幅减小，但振动的频率不变，仍等于固有频率。",
+		"seconds": 6.648
+	},
+	"f1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点三，驱动力与受迫振动。要使振动持续下去，就要对系统施加周期性的外力。",
+		"seconds": 8.568
+	},
+	"f2": {
+		"key": "zh-CN-XiaoxiaoNeural|作用于振动系统的周期性外力，叫做驱动力。",
+		"seconds": 4.464
+	},
+	"f3": {
+		"key": "zh-CN-XiaoxiaoNeural|系统在驱动力作用下的振动，叫做受迫振动。",
+		"seconds": 4.608
+	},
+	"f4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：驱动力是周期性的外力，它不断给系统补充能量，振动才能持续。",
+		"seconds": 7.176
+	},
+	"q1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点四，受迫振动的频率。物体做受迫振动达到稳定后，振动频率等于驱动力的频率。",
+		"seconds": 8.88
+	},
+	"q2": {
+		"key": "zh-CN-XiaoxiaoNeural|它与物体的固有频率无关。",
+		"seconds": 2.616
+	},
+	"q2b": {
+		"key": "zh-CN-XiaoxiaoNeural|看金发双马尾的女孩打鼓：鼓面跟着鼓槌的节奏振动，敲得快，振得就快，频率由敲击的快慢决定。",
+		"seconds": 9.288
+	},
+	"q3": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：受迫振动的频率看驱动力，不看固有频率；固有频率只影响振幅的大小。",
+		"seconds": 7.872
+	},
+	"r1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点五，共振。驱动力的频率等于系统的固有频率时，",
+		"seconds": 5.808
+	},
+	"r2": {
+		"key": "zh-CN-XiaoxiaoNeural|受迫振动的振幅最大，这种现象叫做共振。",
+		"seconds": 4.584
+	},
+	"r3": {
+		"key": "zh-CN-XiaoxiaoNeural|共振时，驱动力的方向总与物体的运动方向一致，每次都做正功，系统得到的能量最多。",
+		"seconds": 8.448
+	},
+	"r4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：共振的条件是驱动力频率等于固有频率。",
+		"seconds": 5.088
+	},
+	"c1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点六，共振曲线。横轴是驱动力的频率，纵轴是受迫振动的振幅。",
+		"seconds": 7.512
+	},
+	"c2": {
+		"key": "zh-CN-XiaoxiaoNeural|驱动力频率越接近固有频率，振幅越大；越远离固有频率，振幅越小。",
+		"seconds": 6.96
+	},
+	"c3": {
+		"key": "zh-CN-XiaoxiaoNeural|曲线的峰值对应的横坐标就是固有频率，此时发生共振。",
+		"seconds": 5.784
+	},
+	"c4": {
+		"key": "zh-CN-XiaoxiaoNeural|易错：曲线的峰在驱动力频率等于固有频率处，不是驱动力频率越大振幅越大。",
+		"seconds": 8.088
+	},
+	"u1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点七，共振的应用。需要利用共振时，应使驱动力的频率接近或等于系统的固有频率。",
+		"seconds": 8.808
+	},
+	"u2": {
+		"key": "zh-CN-XiaoxiaoNeural|例如共振筛：调节偏心轮的转速，使它接近筛子的固有频率，筛子振幅最大，筛得最快。",
+		"seconds": 8.712
+	},
+	"u3": {
+		"key": "zh-CN-XiaoxiaoNeural|又如乐器的共鸣箱，音叉下面的木箱，都是利用共振使声音更响。",
+		"seconds": 6.24
+	},
+	"u3b": {
+		"key": "zh-CN-XiaoxiaoNeural|两个穿女仆装的女孩在弹吉他：吉他的木头琴身就是共鸣箱，琴弦带动箱内空气共振，声音才响亮。",
+		"seconds": 9.744
+	},
+	"u4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：利用共振，就让驱动力频率靠近固有频率。",
+		"seconds": 5.208
+	},
+	"a1": {
+		"key": "zh-CN-XiaoxiaoNeural|考点八，共振的防止。需要防止共振时，应使驱动力的频率远离系统的固有频率。",
+		"seconds": 8.208
+	},
+	"a2": {
+		"key": "zh-CN-XiaoxiaoNeural|部队过桥要便步走，防止整齐的步伐使桥发生共振。",
+		"seconds": 5.328
+	},
+	"a3": {
+		"key": "zh-CN-XiaoxiaoNeural|火车过桥要减速；机器的转速要避开机座的固有频率。",
+		"seconds": 5.616
+	},
+	"a4": {
+		"key": "zh-CN-XiaoxiaoNeural|要点：防止共振，就让驱动力频率远离固有频率。",
+		"seconds": 5.232
+	},
+	"rv1": {
+		"key": "zh-CN-XiaoxiaoNeural|六道判断题，检验一下。",
+		"seconds": 2.76
+	},
+	"rv2": {
+		"key": "zh-CN-XiaoxiaoNeural|判断一：固有频率由系统本身决定？对。判断二：阻尼振动的频率也减小？错，频率不变。",
+		"seconds": 10.224
+	},
+	"rv3": {
+		"key": "zh-CN-XiaoxiaoNeural|判断三：受迫振动的频率等于固有频率？错，等于驱动力频率。判断四：两个频率相等时振幅最大？对。",
+		"seconds": 11.424
+	},
+	"rv4": {
+		"key": "zh-CN-XiaoxiaoNeural|判断五：驱动力频率越大振幅越大？错，越接近固有频率振幅越大。判断六：便步走防共振？对。",
+		"seconds": 11.304
+	},
+	"rv5": {
+		"key": "zh-CN-XiaoxiaoNeural|频率看驱动力，振幅看接近。下一期：机械波的形成与描述。",
+		"seconds": 6.648
+	}
+}

@@ -1,0 +1,120 @@
+{
+	"id": "WLF-19",
+	"title": "测量玻璃的折射率",
+	"subject": "physics",
+	"book": "实验 · 第19期 / 共22期",
+	"points": [
+		"实验目的",
+		"实验原理",
+		"器材及作用",
+		"确定光路",
+		"注意事项",
+		"数据处理",
+		"不用量角器的方法",
+		"误差来源",
+		"实验结论"
+	],
+	"intro": {
+		"badge": "高考物理 · 实验",
+		"title": [
+			[
+				"测量玻璃的折射率",
+				true
+			]
+		],
+		"subtitle": "插针法 · n = sinθ1/sinθ2 · 画圆法 · 界线误差",
+		"photo": "refraction.jpg",
+		"photoCaption": "光线射入半圆形玻璃砖发生折射，圆盘上的刻度可读出入射角和折射角",
+		"photoPos": "center"
+	},
+	"cover": {
+		"badge": "高考物理",
+		"title": [
+			[
+				[
+					"测量玻璃",
+					true
+				]
+			],
+			[
+				[
+					"的折射率"
+				]
+			]
+		],
+		"photo": "refraction.jpg",
+		"photoPos": "center",
+		"photoTag": "光的折射",
+		"credit": "Zátonyi Sándor, CC BY-SA 3.0",
+		"clean": true,
+		"anime": "cover-anime.jpg",
+		"animeCredit": {
+			"user": "きりえ",
+			"title": "ステレオタイプ学級委員長ぼち子",
+			"url": "https://www.pixiv.net/artworks/134739784"
+		}
+	},
+	"review": {
+		"items": [
+			{
+				"q": "入射角和折射角都从界面量起",
+				"ok": false,
+				"fix": "都从法线量起"
+			},
+			{
+				"q": "插针时 C 要挡住 A、B 的像",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "可以用玻璃砖当尺子画界线",
+				"ok": false,
+				"fix": "不能当尺子，也不能摸光学面"
+			},
+			{
+				"q": "sinθ1–sinθ2 图像的斜率等于折射率",
+				"ok": true,
+				"fix": ""
+			},
+			{
+				"q": "两条界线间距画大了，测得的折射率偏大",
+				"ok": false,
+				"fix": "折射角偏大，折射率偏小"
+			},
+			{
+				"q": "玻璃砖两面不平行时也能测出折射率",
+				"ok": true,
+				"fix": ""
+			}
+		],
+		"endTitle": [
+			[
+				"测量玻璃的折射率",
+				true
+			]
+		],
+		"endLine": "插针定光路，正弦比出 n",
+		"slogan": "插针定光路，正弦比出 n"
+	},
+	"credits": "图片来源：Wikimedia Commons —— Zátonyi Sándor (ifj.)《Fénytörés》CC BY-SA 3.0；插图来自 pixiv：ぜつよちまよ、シャケフレ、Eltir（侵删）",
+	"anime": [
+		{
+			"key": "peek",
+			"src": "peek.jpg",
+			"credit": "插图：ぜつよちまよ《ぼざろ映画公開記念》 pixiv #119408204",
+			"url": "https://www.pixiv.net/artworks/119408204"
+		},
+		{
+			"key": "point",
+			"src": "point.jpg",
+			"credit": "插图：シャケフレ《めがね》 pixiv #124072401",
+			"url": "https://www.pixiv.net/artworks/124072401"
+		},
+		{
+			"key": "four",
+			"src": "four.jpg",
+			"credit": "插图：Eltir pixiv #143560374",
+			"url": "https://www.pixiv.net/artworks/143560374"
+		}
+	]
+}
