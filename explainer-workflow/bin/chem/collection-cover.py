@@ -1,4 +1,4 @@
-"""化学模块的合集封面（960×540，精简版）：两行标题 + 一张照片卡片 + 底部色条。
+"""化学模块、物理各篇的合集封面（960×540，精简版）：两行标题 + 一张照片卡片 + 底部色条。
 不放徽章、版本、“全N期”行（与单期视频封面的精简处理一致）。
 
     python3 bin/chem/collection-cover.py <series-dir> <第一行> <第二行（模块名，强调色）> <照片> <署名> [照片位置]
@@ -19,11 +19,13 @@ out = os.path.join(out_dir(series), '00-collection-cover')  # output: cover.png 
 bundle = os.path.join(out, '.bundle')
 os.makedirs(out, exist_ok=True)
 img = os.path.join(P, 'public', 'images')
+os.makedirs(img, exist_ok=True)
 for f in os.listdir(img):
     os.remove(os.path.join(img, f))
 name = 'photo' + os.path.splitext(photo)[1]
 shutil.copy2(photo, os.path.join(img, name))
-data = {'subject': 'chemistry', 'badge': '', 'book': '', 'title': [[[line1]], [[line2, True]]], 'sub': '', 'volume': '', 'name': line2,
+subject = 'physics' if os.sep + 'physics' + os.sep in series + os.sep else 'chemistry'
+data = {'subject': subject, 'badge': '', 'book': '', 'title': [[[line1]], [[line2, True]]], 'sub': '', 'volume': '', 'name': line2,
         'cover': None, 'clean': True, 'photo': name, 'credit': credit, 'photoPos': pos}
 json.dump(data, open(os.path.join(P, 'src', 'collection.json'), 'w', encoding='utf8'), ensure_ascii=False, indent='\t')
 env = dict(os.environ, PATH=os.path.expanduser('~/.local/node/bin') + ':' + os.environ['PATH'])

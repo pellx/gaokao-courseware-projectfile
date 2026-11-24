@@ -30,6 +30,7 @@ out = os.path.join(out_dir(series), '00-collection-cover')  # output: cover.png 
 bundle = os.path.join(out, '.bundle')
 os.makedirs(out, exist_ok=True)
 img = os.path.join(P, 'public', 'images')
+os.makedirs(img, exist_ok=True)
 for f in os.listdir(img):
 	os.remove(os.path.join(img, f))
 cover = None
